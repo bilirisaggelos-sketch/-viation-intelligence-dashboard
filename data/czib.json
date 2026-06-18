@@ -1,0 +1,42 @@
+[
+  {
+    "country": "Iraq",
+    "czib": "CZIB-2025-02",
+    "issued": "2025-01-15",
+    "expires": "2025-07-15",
+    "risk": "HIGH",
+    "status": "ACTIVE"
+  },
+  {
+    "country": "Iran",
+    "czib": "CZIB-2025-03",
+    "issued": "2025-02-10",
+    "expires": "2025-08-10",
+    "risk": "HIGH",
+    "status": "ACTIVE"
+  },
+  {
+    "country": "Israel",
+    "czib": "CZIB-2025-04",
+    "issued": "2025-03-20",
+    "expires": "2025-09-20",
+    "risk": "ELEVATED",
+    "status": "ACTIVE"
+  },
+  {
+    "country": "Libya",
+    "czib": "CZIB-2025-05",
+    "issued": "2025-04-01",
+    "expires": "2025-10-01",
+    "risk": "HIGH",
+    "status": "ACTIVE"
+  },
+  {
+    "country": "Sudan",
+    "czib": "CZIB-2025-06",
+    "issued": "2025-05-12",
+    "expires": "2025-11-12",
+    "risk": "HIGH",
+    "status": "ACTIVE"
+  }
+]
