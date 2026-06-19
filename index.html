@@ -34,6 +34,10 @@ th{background:#0f172a;color:white}
 <header>
 <h2>Aviation Intelligence Dashboard V4</h2>
 <div id="utcClock"></div>
+<div id="lastUpdate" style="font-size:12px;color:#cbd5e1;">
+Last Update: Loading...
+</div> 
+  
 </header>
 
 <div id="sidebar">
@@ -81,65 +85,7 @@ th{background:#0f172a;color:white}
 
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 <script>
-const countries={
-Iraq:{lat:33.3,lng:44.3,czib:'CZIB-2025-02',risk:'HIGH'},
-Iran:{lat:32.4,lng:53.6,czib:'CZIB-2025-03',risk:'HIGH'},
-Israel:{lat:31.0,lng:34.8,czib:'CZIB-2025-04',risk:'ELEVATED'},
-Libya:{lat:26.3,lng:17.2,czib:'CZIB-2025-05',risk:'HIGH'},
-Sudan:{lat:15.5,lng:32.5,czib:'CZIB-2025-06',risk:'HIGH'}
-};
 
-function clock(){document.getElementById('utcClock').innerHTML=new Date().toUTCString();}
-setInterval(clock,1000);clock();
-
-var map=L.map('map').setView([33,25],4);
-L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png',{maxZoom:18}).addTo(map);
-
-let firLayer=L.layerGroup().addTo(map);
-let airportLayer=L.layerGroup().addTo(map);
-
-L.rectangle([[37,19],[34,30]],{color:'blue',weight:1,fill:false}).addTo(firLayer).bindPopup('Athens FIR');
-L.rectangle([[35,41],[31,48]],{color:'blue',weight:1,fill:false}).addTo(firLayer).bindPopup('Baghdad FIR');
-L.rectangle([[36,44],[25,63]],{color:'blue',weight:1,fill:false}).addTo(firLayer).bindPopup('Tehran FIR');
-
-L.marker([37.936,23.944]).addTo(airportLayer).bindPopup('ATH');
-L.marker([33.262,44.234]).addTo(airportLayer).bindPopup('BGW');
-L.marker([30.121,31.406]).addTo(airportLayer).bindPopup('CAI');
-L.marker([32.011,34.886]).addTo(airportLayer).bindPopup('TLV');
-
-function showCountry(name){
-let c=countries[name];
-document.getElementById('info').innerHTML=`<b>${name}</b><br>${c.czib}<br>Risk: ${c.risk}`;
-map.setView([c.lat,c.lng],6);
-}
-
-Object.keys(countries).forEach(name=>{
-let c=countries[name];
-L.circle([c.lat,c.lng],{
-color:c.risk==='ELEVATED'?'orange':'red',
-fillColor:c.risk==='ELEVATED'?'orange':'red',
-fillOpacity:0.4,radius:250000
-}).addTo(map).on('click',()=>showCountry(name));
-
-document.getElementById('tbl').innerHTML+=`
-<tr onclick="showCountry('${name}')">
-<td>${name}</td><td>${c.czib}</td>
-<td>2025</td><td>2025</td>
-<td>${c.risk}</td><td>ACTIVE</td>
-</tr>`;
-});
-
-document.getElementById('searchBox').addEventListener('keyup',e=>{
-let v=e.target.value.trim();
-if(countries[v]) showCountry(v);
-});
-
-document.getElementById('firToggle').onchange=function(){
-if(this.checked) map.addLayer(firLayer); else map.removeLayer(firLayer);
-};
-document.getElementById('airportToggle').onchange=function(){
-if(this.checked) map.addLayer(airportLayer); else map.removeLayer(airportLayer);
-};
 </script>
 <script src="js/dashboard.js"></script>
 </body>
