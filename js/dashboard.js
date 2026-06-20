@@ -41,7 +41,7 @@ async function loadCountries() {
     }
 
     loadCZIBData();
-}
+
 }const countryCoords = {
     Iraq: [33.3, 44.3],
     Iran: [32.4, 53.6],
