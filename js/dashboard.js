@@ -203,3 +203,5 @@ document.getElementById("searchBox")
 });
 
 // loadCountries();
+
+loadCZIBData();
