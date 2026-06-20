@@ -28,12 +28,30 @@ async function loadCountries() {
         const geojson = await response.json();
 
         countriesLayer = L.geoJSON(geojson, {
-            style: {
-                color: '#666',
-                weight: 1,
-                fillOpacity: 0
-            }
-        }).addTo(map);
+  style: function(feature) {
+
+    let color = "#cccccc";
+
+    if (feature.properties.ADMIN === "Iran")
+      color = "red";
+
+    if (feature.properties.ADMIN === "Iraq")
+      color = "red";
+
+    if (feature.properties.ADMIN === "Syria")
+      color = "red";
+
+    if (feature.properties.ADMIN === "Libya")
+      color = "red";
+
+    return {
+      color: "#666",
+      weight: 1,
+      fillColor: color,
+      fillOpacity: 0.4
+    };
+  }
+}).addTo(map);
 
     } catch(err) {
         console.error('Countries error:', err);
