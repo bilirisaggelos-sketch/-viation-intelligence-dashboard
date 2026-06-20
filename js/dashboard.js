@@ -201,6 +201,6 @@ document.getElementById("searchBox")
 
 });
 
-// loadCountries();
+loadCountries();
 
-loadCZIBData();
+// loadCZIBData();
