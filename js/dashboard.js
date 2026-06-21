@@ -31,7 +31,14 @@ countriesLayer = L.geoJSON(geojson, {
   style: function(feature) {
 
     const country = feature.properties.name;
-
+if (
+    country.includes("Iran") ||
+    country.includes("Iraq") ||
+    country.includes("Syria") ||
+    country.includes("Libya")
+) {
+    console.log(country);
+}
   let color = "#d9d9d9";
 
 if (
