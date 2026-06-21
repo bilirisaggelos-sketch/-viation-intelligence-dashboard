@@ -118,7 +118,15 @@ const data =
             risk: x.status === "Active" ? "HIGH" : "NORMAL",
             status: x.status
        }));
+const activeCountries = {};
 
+data.forEach(item => {
+    if (item.status === "Active") {
+        activeCountries[item.country] = "HIGH";
+    }
+});
+
+window.activeCountries = activeCountries;
         document.getElementById("lastUpdate").innerHTML =
             "Last Update: " + new Date().toUTCString();
 
