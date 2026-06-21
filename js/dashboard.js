@@ -9,7 +9,13 @@ function clock() {
 setInterval(clock, 1000);
 clock();
 
-var map = L.map('map').setView([33, 25], 4);
+var map = L.map('map', {
+    zoomControl: false
+}).setView([33,25],4);
+
+L.control.zoom({
+    position: 'bottomleft'
+}).addTo(map);
 
 L.tileLayer(
     'https://tile.openstreetmap.org/{z}/{x}/{y}.png',
