@@ -18,9 +18,14 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Download CZIB JSON
-        run: |
-          curl -L "https://www.easa.europa.eu/en/domains/air-operations/czibs/export-json?_format=json" -o data/czib-live.json
+  run: |
+    curl -L "https://www.easa.europa.eu/en/domains/air-operations/czibs/export-json?_format=json" -o czib-raw.json
 
+    echo "{\"generated_at\":\"$(date -u +'%Y-%m-%dT%H:%M:%SZ')\",\"conflict_zones\":" > data/czib-live.json
+
+    cat czib-raw.json >> data/czib-live.json
+
+    echo "}" >> data/czib-live.json
       - name: Commit updates
         run: |
           git config user.name "github-actions"
