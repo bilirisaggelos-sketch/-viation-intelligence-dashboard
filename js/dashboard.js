@@ -135,7 +135,7 @@ const data =
                     item.risk === "ELEVATED"
                     ? "orange"
                     : "red";
-
+/*
                 L.circle(coords, {
                     color: color,
                     fillColor: color,
@@ -144,6 +144,7 @@ const data =
                 })
                 .addTo(map)
                 .bindPopup(
+                    */
                     `<b>${item.country}</b><br>
                      ${item.czib}<br>
                      Risk: ${item.risk}`
