@@ -32,7 +32,6 @@ countriesLayer = L.geoJSON(geojson, {
 
     const country = feature.properties.name;
       
-      console.log(window.activeCountries);
       
 if (
     country.includes("Iran") ||
@@ -40,7 +39,7 @@ if (
     country.includes("Syria") ||
     country.includes("Libya")
 ) {
-    console.log(country);
+
 }
   let color = "#d9d9d9";
 
@@ -50,8 +49,6 @@ if (
 ) {
     color = "#ff0000";
 }
-
-console.log(country, window.activeCountries?.[country]);
 
 return {
       color: "#666",
