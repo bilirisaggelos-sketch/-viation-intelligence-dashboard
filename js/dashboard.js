@@ -125,6 +125,9 @@ async function loadCZIBData() {
 
         const raw =
     await response.json();
+       document.getElementById("lastUpdate").innerHTML =
+    "Last EASA Update: " +
+    new Date(raw.generated_at).toUTCString(); 
 
 const data = (raw.conflict_zones?.conflict_zones || raw.conflict_zones)
     .map(x => ({
