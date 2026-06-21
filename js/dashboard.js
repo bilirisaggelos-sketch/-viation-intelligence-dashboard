@@ -135,21 +135,6 @@ const data =
                     item.risk === "ELEVATED"
                     ? "orange"
                     : "red";
-/*
-                L.circle(coords, {
-                    color: color,
-                    fillColor: color,
-                    fillOpacity: 0.4,
-                    radius: 250000
-                })
-                .addTo(map)
-                .bindPopup(
-                    */
-                    `<b>${item.country}</b><br>
-                     ${item.czib}<br>
-                     Risk: ${item.risk}`
-                );
-
             }
 
             document.getElementById("tbl").innerHTML += `
