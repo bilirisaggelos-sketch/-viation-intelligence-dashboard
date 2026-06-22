@@ -278,7 +278,7 @@ fetch("data/security-feed.json")
     document.getElementById("intelFeed").innerHTML =
         feedData.map(item => `
 
-        <div class="card">
+       <div class="card feed-${item.severity}">
             ${item.icon} ${item.text}
             <br>
             <small>${item.time} | ${item.source}</small>
