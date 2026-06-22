@@ -183,6 +183,8 @@ console.log(
 
 });
 
+}   
+
 const countryCoords = {
     Iraq:[33.3, 44.3],
     Iran:[32.4, 53.6],
@@ -252,9 +254,7 @@ data.forEach(item => {
 });
 
 window.activeCountries = activeCountries;
-        document.getElementById("lastUpdate").innerHTML =
-            "Last Update: " + new Date().toUTCString();
-
+      
         document.getElementById("tbl").innerHTML = "";
 
       data.forEach(item => {
@@ -308,7 +308,7 @@ function showCountry(countryName) {
     if (!item) return;
 
     document.getElementById("info").innerHTML = `
-        <b>${item.country}</b><br>
+       <b>${item.country || "Security Event"}</b><br><br>
         CZIB: ${item.czib}<br>
         Issued: ${formatDate(item.issued)}<br>
         Expires: ${formatDate(item.expires)}<br>
