@@ -156,19 +156,20 @@ airports.forEach(airport => {
 L.circleMarker(
     [airport.lat, airport.lon],
     {
-        radius:4,
+        radius:6,
         color:"#2563eb",
         fillColor:"#2563eb",
         fillOpacity:1
     }
 )
-.addTo(airportsLayer)
 .bindPopup(
     "✈ " +
     airport.icao +
     " - " +
     airport.name
-);
+)
+.addTo(airportsLayer)
+.bringToFront();
 
 });
 
