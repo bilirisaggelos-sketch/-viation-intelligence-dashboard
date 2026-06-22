@@ -14,9 +14,9 @@ var map = L.map('map', {
 }).setView([33,25],4);
 
 const alertIcon = L.divIcon({
-    html: "🚨",
-    className: "intel-alert-icon",
-    iconSize: [30,30]
+    html:"🚨",
+    className:"intel-alert-icon",
+    iconSize:[40,40]
 });
 
 L.control.zoom({
