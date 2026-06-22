@@ -32,6 +32,7 @@ L.tileLayer(
 let countriesLayer = null;
 let intelMarker = null;
 let airportsLayer = L.layerGroup().addTo(map);
+let airportMarkers = [];
 
 async function loadCountries() {
     try {
@@ -156,7 +157,7 @@ airports.forEach(airport => {
 L.circleMarker(
     [airport.lat, airport.lon],
     {
-        radius:6,
+        radius:12,
         color:"#2563eb",
         fillColor:"#2563eb",
         fillOpacity:1
