@@ -186,6 +186,8 @@ window.activeCountries = activeCountries;
 
         window.czibData = data;
         
+        updateSecurityFeed();
+        
 if (countriesLayer) {
     countriesLayer.setStyle(countriesLayer.options.style);
 }
@@ -242,6 +244,34 @@ document.getElementById("searchBox")
     }
 
 });
+function updateSecurityFeed() {
 
+    const feed =
+        document.getElementById("securityFeed");
+
+    if (!feed || !window.czibData) return;
+
+    const latest =
+        window.czibData
+        .slice()
+        .sort(
+            (a,b) =>
+            new Date(b.issued) -
+            new Date(a.issued)
+        )
+        .slice(0,10);
+
+    feed.innerHTML =
+        latest.map(item => `
+
+        <div class="card">
+            <b>${item.country}</b><br>
+            CZIB ${item.czib}<br>
+            ${formatDate(item.issued)}
+        </div>
+
+        `).join("");
+
+}
 loadCZIBData();
 loadCountries();
