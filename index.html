@@ -14,16 +14,50 @@
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"/>
 <style>
 body{margin:0;font-family:Arial}
-header{background:#0f172a;color:white;padding:10px 20px}
+header{
+    background:#0f172a;
+    color:white;
+    padding:15px 20px;
+}
+
+#headerTop{
+    display:flex;
+    justify-content:space-between;
+    align-items:flex-start;
+}
+
+#headerLeft{
+    display:flex;
+    flex-direction:column;
+    gap:8px;
+}
+
+#headerControls{
+    display:flex;
+    align-items:center;
+    gap:15px;
+    flex-wrap:wrap;
+}
+
+#utcClock{
+    font-size:13px;
+    color:#cbd5e1;
+}
+
+#lastUpdate{
+    color:yellow;
+    font-weight:bold;
+    font-size:14px;
+}
 #utcClock{font-size:12px;color:#cbd5e1}
 #map{height:65vh}
 #sidebar,#details,#alerts{
 position:absolute;z-index:1000;background:white;border-radius:10px;
 padding:12px;box-shadow:0 0 10px rgba(0,0,0,.3)
 }
-#sidebar{left:10px;top:190px;width:260px}
-#details{right:10px;top:80px;width:300px}
-#alerts{right:10px;top:350px;width:300px}
+#sidebar{left:10px;top:170px;width:260px}
+#details{right:10px;top:90px;width:300px}
+#alerts{right:10px;top:260px;width:300px}
 .card{background:#f1f5f9;padding:8px;margin-top:8px;border-radius:6px}
 .legend div{margin:4px 0}
 table{width:100%;border-collapse:collapse}
@@ -34,24 +68,34 @@ th{background:#0f172a;color:white}
 </head>
 <body>
 <header>
-<h2>Aviation Intelligence Dashboard V4</h2>
-  <br>
 
-<div id="utcClock"></div>
+<div id="headerTop">
 
-<button id="refreshBtn"
-style="
-margin-top:8px;
-padding:6px 12px;
-background:#2563eb;
-color:white;
-border:none;
-border-radius:6px;
-cursor:pointer;
-">
-🔄 Refresh EASA Data
-</button>
-  
+    <div id="headerLeft">
+
+        <h2 style="margin:0;">
+            Aviation Intelligence Dashboard V4
+        </h2>
+
+        <div id="headerControls">
+
+            <div id="utcClock"></div>
+
+            <button id="refreshBtn"
+            style="
+            padding:6px 12px;
+            background:#2563eb;
+            color:white;
+            border:none;
+            border-radius:6px;
+            cursor:pointer;
+            ">
+            🔄 Refresh EASA Data
+            </button>
+
+       
+</div>
+
 </header>
 
 <div id="lastUpdate"
