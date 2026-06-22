@@ -1,12 +1,13 @@
 [
   {
-    "severity":"critical",
-    "country":"Iraq",
-    "time":"10:42 UTC",
-    "source":"Reuters",
-    "icon":"🚨",
-    "text":"Drone activity near Erbil Airport"
-  },
+  "icon":"🚨",
+  "text":"Drone activity near Erbil Airport",
+  "time":"10:42 UTC",
+  "source":"Reuters",
+  "severity":"critical",
+  "lat":36.237,
+  "lon":43.963
+},
   {
     "severity":"warning",
     "country":"Eastern Mediterranean",
