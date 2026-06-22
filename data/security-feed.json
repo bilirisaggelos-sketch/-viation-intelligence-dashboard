@@ -1,6 +1,7 @@
 [
   {
     "severity":"critical",
+    "country":"Iraq",
     "time":"10:42 UTC",
     "source":"Reuters",
     "icon":"🚨",
@@ -8,6 +9,7 @@
   },
   {
     "severity":"warning",
+    "country":"Eastern Mediterranean",
     "time":"10:30 UTC",
     "source":"EASA",
     "icon":"⚠️",
@@ -15,6 +17,7 @@
   },
   {
     "severity":"warning",
+    "country":"Red Sea",
     "time":"09:55 UTC",
     "source":"UKMTO",
     "icon":"⚠️",
