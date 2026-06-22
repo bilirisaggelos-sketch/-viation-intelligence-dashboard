@@ -154,25 +154,32 @@ lon:33.624
 
 airports.forEach(airport => {
 
-L.circleMarker(
-    [airport.lat, airport.lon],
-    {
-        radius:12,
-        color:"#2563eb",
-        fillColor:"#2563eb",
-        fillOpacity:1
-    }
-)
-.bindPopup(
-    "✈ " +
-    airport.icao +
-    " - " +
-    airport.name
-)
-.addTo(airportsLayer)
-.bringToFront();
+    const marker = L.circleMarker(
+        [airport.lat, airport.lon],
+        {
+            radius:12,
+            color:"#2563eb",
+            fillColor:"#2563eb",
+            fillOpacity:1
+        }
+    );
 
-});
+    marker.bindPopup(
+        "✈ " +
+        airport.icao +
+        " - " +
+        airport.name
+    );
+
+    marker.addTo(airportsLayer);
+
+    marker.bringToFront();
+
+console.log(
+    airport.icao,
+    airport.lat,
+    airport.lon
+);
 
 }const countryCoords = {
     Iraq: [33.3, 44.3],
