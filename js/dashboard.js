@@ -299,12 +299,21 @@ style="cursor:pointer">
         "<div class='card'>Feed unavailable</div>";
 
 });
+
 }
 window.intelData = [];
 
 function showIntelEvent(index){
 
     const item = window.intelData[index];
+    if(item.lat && item.lon){
+
+    map.setView(
+        [item.lat, item.lon],
+        8
+    );
+
+}
 
     document.getElementById("info").innerHTML = `
         <b>${item.country}</b><br><br>
