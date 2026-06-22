@@ -271,27 +271,30 @@ function updateSecurityFeed() {
         </div>
 
         `).join("");
-document.getElementById("intelFeed").innerHTML = `
+fetch("data/security-feed.json")
+.then(r => r.json())
+.then(feedData => {
 
-<div class="card">
-🚨 Drone activity near Erbil Airport
-<br>
-<small>10:42 UTC | Reuters</small>
-</div>
+    document.getElementById("intelFeed").innerHTML =
+        feedData.map(item => `
 
-<div class="card">
-⚠ GPS interference Eastern Med
-<br>
-<small>10:30 UTC | EASA</small>
-</div>
+        <div class="card">
+            ${item.icon} ${item.text}
+            <br>
+            <small>${item.time} | ${item.source}</small>
+        </div>
 
-<div class="card">
-⚠ Security incident Red Sea
-<br>
-<small>09:55 UTC | UKMTO</small>
-</div>
+        `).join("");
 
-`;
+})
+.catch(err => {
+
+    console.error(err);
+
+    document.getElementById("intelFeed").innerHTML =
+        "<div class='card'>Feed unavailable</div>";
+
+});
 }
 loadCZIBData();
 loadCountries();
