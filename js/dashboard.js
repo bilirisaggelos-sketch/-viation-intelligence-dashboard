@@ -522,6 +522,8 @@ document.getElementById("airportToggle")
     }
 
 });
+document.getElementById("searchBox")
+.addEventListener("keyup", function () {
 
     const value =
         this.value.trim().toLowerCase();
@@ -538,6 +540,7 @@ document.getElementById("airportToggle")
     }
 
 });
+    
 function updateSecurityFeed() {
 
     const feed =
