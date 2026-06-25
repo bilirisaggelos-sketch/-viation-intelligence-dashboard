@@ -68,6 +68,8 @@ onEachFeature: function(feature, layer) {
 
     loadCZIBData();
 
+    loadCountries();
+
 airports.forEach(airport => {
 
     const marker = L.circleMarker(
