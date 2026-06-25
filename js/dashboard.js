@@ -70,39 +70,6 @@ onEachFeature: function(feature, layer) {
 
     loadCountries();
 
-airports.forEach(airport => {
-
-    const marker = L.circleMarker(
-        [airport.lat, airport.lon],
-        {
-            radius:10,
-            color:"#2563eb",
-            fillColor:"#2563eb",
-            fillOpacity:1
-        }
-    );
-
-    marker.bindPopup(
-        "✈ " +
-        airport.icao +
-        " - " +
-        airport.name
-    );
-
-    marker.addTo(airportsLayer);
-
-    marker.bringToFront();
-
-console.log(
-    airport.icao,
-    airport.lat,
-    airport.lon
-);
-
-});
-
-}   
-
 const countryCoords = {
     Iraq:[33.3, 44.3],
     Iran:[32.4, 53.6],
