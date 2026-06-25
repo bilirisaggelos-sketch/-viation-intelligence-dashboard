@@ -157,7 +157,7 @@ window.activeCountries = activeCountries;
 
         });
 
-        window.czibData = data;
+        APP.czib = data;
         
         updateSecurityFeed();
         
@@ -174,8 +174,8 @@ if (countriesLayer) {
 
 function showCountry(countryName) {
 
-    const item =
-        window.czibData.find(
+const item =
+    APP.czib.find(
             x => x.country === countryName
         );
 
@@ -221,10 +221,10 @@ document.getElementById("searchBox")
     const value =
         this.value.trim().toLowerCase();
 
-    if (!window.czibData) return;
+   if (!APP.czib.length) return;
 
     const found =
-        window.czibData.find(
+    APP.czib.find(
             x => x.country.toLowerCase() === value
         );
 
