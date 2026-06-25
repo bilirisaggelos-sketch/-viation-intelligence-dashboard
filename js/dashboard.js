@@ -184,7 +184,7 @@ icao:"OPKC",
 lat:24.906,
 lon:67.161
 },
-,
+
 {
 name:"Kabul",
 icao:"OAKB",
