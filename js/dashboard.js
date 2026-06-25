@@ -316,7 +316,21 @@ name:"Aden",
 icao:"OYAA",
 lat:12.829,
 lon:45.028
-}
+},
+        
+{
+name:"Marrakech",
+icao:"GMMX",
+lat:31.607,
+lon:-8.036
+},
+
+{
+name:"Tunis",
+icao:"DTTA",
+lat:36.851,
+lon:10.227
+}      
 ];
 
 airports.forEach(airport => {
@@ -612,5 +626,19 @@ function showIntelEvent(index){
         ${item.severity}
     `;
 }
+document.getElementById("airportToggle")
+.addEventListener("change", function () {
+
+    if (this.checked) {
+
+        map.addLayer(airportsLayer);
+
+    } else {
+
+        map.removeLayer(airportsLayer);
+
+    }
+
+});
 loadCZIBData();
 loadCountries();
