@@ -131,8 +131,6 @@ const item =
 document.getElementById("airportToggle")
 .addEventListener("change", function () {
 
-    console.log("Airport Toggle:", this.checked);
-
     if (this.checked) {
 
         map.addLayer(airportsLayer);
