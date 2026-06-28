@@ -72,17 +72,6 @@ window.activeCountries = activeCountries;
 
       data.forEach(item => {
 
-            const coords =
-                countryCoords[item.country];
-
-            if (coords) {
-
-                const color =
-                    item.risk === "ELEVATED"
-                    ? "orange"
-                    : "red";
-            }
-
             document.getElementById("tbl").innerHTML += `
             <tr onclick="showCountry('${item.country}')">
                 <td>${item.country}</td>
