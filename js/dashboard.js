@@ -335,7 +335,6 @@ function showIntelEvent(index){
         <b>Severity:</b><br>
         ${item.severity}
     `;
-}
 
 });
 
