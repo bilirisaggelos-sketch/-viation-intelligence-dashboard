@@ -336,5 +336,4 @@ function showIntelEvent(index){
         ${item.severity}
     `;
 
-});
-
+}
