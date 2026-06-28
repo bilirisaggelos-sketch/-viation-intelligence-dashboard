@@ -97,6 +97,7 @@ window.activeCountries = activeCountries;
         });
 
         APP.czib = data;
+        window.czibData = data;
         
         updateSecurityFeed();
         
