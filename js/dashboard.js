@@ -28,65 +28,6 @@ function clock() {
 setInterval(clock, 1000);
 clock();
 
-async function loadCountries() {
-    try {
-
-        const response = await fetch(
-  './data/countries.geojson'
-);
-        const geojson = await response.json();
-
-countriesLayer = L.geoJSON(geojson, {
-  style: function(feature) {
-
-    const country = feature.properties.name;
-      
-      
-if (
-    country.includes("Iran") ||
-    country.includes("Iraq") ||
-    country.includes("Syria") ||
-    country.includes("Libya")
-) {
-
-}
-  let color = "#d9d9d9";
-
-if (
-    window.activeCountries &&
-    window.activeCountries[country]
-) {
-    color = "#ff0000";
-}
-
-return {
-    color: "#666",
-    weight: 1,
-    fillColor: color,
-    fillOpacity: 0.5
-};
-},
-
-onEachFeature: function(feature, layer) {
-
-    layer.on("click", function() {
-
-        const country = feature.properties.name;
-
-        showCountry(country);
-
-    });
-
-}
-
-}).addTo(map);
-
-    } catch(err) {
-        console.error('Countries error:', err);
-    }
-
-
-} 
 const countryCoords = {
     Iraq:[33.3, 44.3],
     Iran:[32.4, 53.6],
