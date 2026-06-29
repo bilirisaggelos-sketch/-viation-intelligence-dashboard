@@ -21,7 +21,7 @@ function updateSecurityFeed() {
     );
 
     feed.innerHTML =
-        latest.map(item => `
+    latest.slice(0,8).map(item => `
 
         <div class="card">
             <b>${item.country}</b><br>
@@ -29,7 +29,7 @@ function updateSecurityFeed() {
             ${formatDate(item.issued)}
         </div>
 
-        `).join("");
+    `).join("");
 
     fetch("data/security-feed.json")
     .then(r => r.json())
