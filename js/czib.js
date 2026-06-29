@@ -34,10 +34,7 @@ data.forEach(item => {
 
 window.activeCountries = activeCountries;
 
-        document.getElementById("activeCZIBCount").textContent =
-    Object.keys(activeCountries).length;
-      
-        document.getElementById("tbl").innerHTML = "";
+          document.getElementById("tbl").innerHTML = "";
 
       data.forEach(item => {
 
@@ -66,9 +63,13 @@ window.activeCountries = activeCountries;
         });
 
         APP.czib = data;
-        
-        updateSecurityFeed();
-        
+window.czibData = data;
+
+updateSecurityFeed();
+
+document.getElementById("activeCZIBCount").textContent =
+    data.filter(item => item.status === "Active").length;
+
 if (countriesLayer) {
     countriesLayer.setStyle(countriesLayer.options.style);
 }
