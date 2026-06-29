@@ -41,7 +41,7 @@ function updateSecurityFeed() {
     );
 
        document.getElementById("intelFeed").innerHTML =
-filteredFeed.map((item,index) =>
+filteredFeed.map((item,index) => `
 
         <div class="card feed-${item.severity}"
              onclick="showIntelEvent(${index})"
