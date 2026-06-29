@@ -4,8 +4,14 @@
 
 async function loadIntelFeed(){
 
+    const source =
+        INTEL_SOURCES.find(s => s.enabled);
+
+    if(!source)
+        return [];
+
     const response =
-        await fetch("data/security-feed.json");
+        await fetch(source.url);
 
     return await response.json();
 
