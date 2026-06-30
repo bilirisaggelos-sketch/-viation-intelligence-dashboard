@@ -6,32 +6,32 @@ function normalizeIntelEvent(raw) {
 
     return {
 
-        // Stable ID (θα χρησιμοποιηθεί αργότερα για deduplication)
-        id: raw.id || null,
+        // Stable ID
+        id: raw.id || crypto.randomUUID(),
 
-        // Main event text
-        text: raw.text,
+        // Main text
+        text: raw.text || raw.title || "",
 
         // Source
-        source: raw.source,
+        source: raw.source || "Unknown",
 
         // Severity
-        severity: raw.severity,
+        severity: raw.severity || "info",
 
         // Icon
-        icon: raw.icon,
+        icon: raw.icon || "ℹ️",
 
         // Time
-        timestamp: raw.time,
+        timestamp: raw.timestamp || raw.time || "",
 
         // Location
-        location: raw.country || "",
+        location: raw.location || raw.country || "",
 
         // Coordinates
-        lat: raw.lat,
-        lon: raw.lon,
+        lat: raw.lat || null,
+        lon: raw.lon || null,
 
-        // Keep original event
+        // Original event
         raw: raw
 
     };
