@@ -1,8 +1,10 @@
 import requests
-from datetime import datetime
+from datetime import datetime, timedelta, timezone
 
 PAGE_URL = "https://tfr.faa.gov/tfr3/export/json"
 API_URL = "https://tfr.faa.gov/tfrapi/exportTfrList"
+
+MAX_DAYS = 10
 
 
 def collect():
@@ -15,7 +17,6 @@ def collect():
         "User-Agent": "Mozilla/5.0"
     })
 
-    # Δημιουργία session
     session.get(PAGE_URL, timeout=30)
 
     response = session.get(API_URL, timeout=30)
@@ -24,18 +25,32 @@ def collect():
 
     data = response.json()
 
+    cutoff = datetime.now(timezone.utc) - timedelta(days=MAX_DAYS)
+
     events = []
 
     for item in data:
 
-        # Κρατάμε ΜΟΝΟ SECURITY
         if item.get("type") != "SECURITY":
+            continue
+
+        date = item.get("creation_date", "")
+
+        try:
+            event_date = datetime.strptime(
+                date,
+                "%m/%d/%Y"
+            ).replace(tzinfo=timezone.utc)
+
+        except Exception:
+            continue
+
+        if event_date < cutoff:
             continue
 
         facility = item.get("facility", "")
         state = item.get("state", "")
         description = item.get("description", "")
-        date = item.get("creation_date", "")
 
         text = (
             f"FAA SECURITY TFR\n"
@@ -50,6 +65,10 @@ def collect():
             "text": text,
 
             "source": "FAA",
+
+            "source_type": "official",
+
+            "publisher": "Federal Aviation Administration",
 
             "severity": "critical",
 

@@ -4,29 +4,27 @@
 
 async function loadIntelFeed() {
 
-    const source =
-        INTEL_SOURCES.find(s => s.enabled);
+    try {
 
-    if (!source)
-        return [];
+        const response =
+            await fetch("data/live-intel.json?_=" + Date.now());
 
-    const response =
-        await fetch(source.url);
+        if (!response.ok)
+            throw new Error("Unable to load live-intel.json");
 
-    let data =
-        await response.json();
+        const data =
+            await response.json();
 
-    // Fallback στο demo feed
-    if (!data.length) {
-
-        const backup =
-            await fetch("data/security-feed.json");
-
-        data =
-            await backup.json();
+        return data.map(normalizeIntelEvent);
 
     }
 
-    return data.map(normalizeIntelEvent);
+    catch(err){
+
+        console.error(err);
+
+        return [];
+
+    }
 
 }

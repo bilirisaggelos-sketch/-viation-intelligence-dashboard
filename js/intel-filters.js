@@ -20,7 +20,25 @@ const aviationKeywords = [
     "fighter",
     "surface-to-air",
     "sam",
-    "closure"
+    "closure",
+
+    "iran",
+    "iraq",
+    "israel",
+    "lebanon",
+    "syria",
+    "jordan",
+    "egypt",
+    "libya",
+    "yemen",
+    "gaza",
+    "hamas",
+    "hezbollah",
+    "red sea",
+    "persian gulf",
+    "uae",
+    "qatar",
+    "oman"
 
 ];
 function isAviationRelevant(text){

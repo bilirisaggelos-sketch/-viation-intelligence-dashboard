@@ -1,273 +1,247 @@
-
 <!DOCTYPE html>
-<html>
-
+<html lang="en">
 <head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Aviation Intelligence Dashboard</title>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
 
 <link rel="stylesheet" href="css/dashboard.css">
-  
-<meta charset="utf-8">
-<link rel="icon" href="data:,">
-  
-<title>Aviation Intelligence Dashboard V4</title>
-<meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"/>
-<style>
-body{margin:0;font-family:Arial}
-header{
-    background:#0f172a;
-    color:white;
-    padding:15px 20px;
-}
 
-#headerTop{
-    display:flex;
-    justify-content:space-between;
-    align-items:flex-start;
-}
-
-#headerLeft{
-    display:flex;
-    flex-direction:column;
-    gap:8px;
-}
-
-#headerControls{
-    display:flex;
-    align-items:center;
-    gap:15px;
-    flex-wrap:wrap;
-}
-
-#utcClock{
-    font-size:13px;
-    color:#cbd5e1;
-}
-
-#lastUpdate{
-    color:yellow;
-    font-weight:bold;
-    font-size:14px;
-}
-#utcClock{font-size:12px;color:#cbd5e1}
-#map{height:65vh}
-#sidebar,#details,#alerts,#intelPanel{
-position:absolute;z-index:1000;background:white;border-radius:10px;
-padding:12px;box-shadow:0 0 10px rgba(0,0,0,.3)
-}
-#sidebar{left:10px;top:170px;width:340px}
-#rightPanels{
-    position:absolute;
-    right:10px;
-    top:90px;
-    width:300px;
-    z-index:1000;
-
-    display:flex;
-    flex-direction:column;
-    gap:12px;
-}
-
-#details,
-#alerts{
-    position:static;
-    width:auto;
-}
-  #intelPanel{
-    right:10px;
-    top:900px;
-    width:300px;
-}
-.card{background:#f1f5f9;padding:8px;margin-top:8px;border-radius:6px}
-  .feed-critical{
-border-left:4px solid #dc2626;
-}
-
-.feed-warning{
-border-left:4px solid #f59e0b;
-}
-
-.feed-info{
-border-left:4px solid #2563eb;
-}
-.legend div{margin:4px 0}
-table{width:100%;border-collapse:collapse}
-th,td{border:1px solid #ccc;padding:6px;font-size:12px}
-  #intelFeed{
-    margin-top:10px;
-    max-height:300px;
-    overflow-y:auto;
-}
-
-#intelFeed .card{
-    font-size:13px;
-    padding:8px;
-    line-height:1.4;
-
-  }
-
-  #intelFeed small{
-    font-size:11px;
-    color:#475569;
-}
-  
-.alert-marker{
-    font-size:42px;
-    text-align:center;
-    animation:pulseAlert 1s infinite;
-}
-
-@keyframes pulseAlert{
-    0%{transform:scale(1);}
-    50%{transform:scale(1.4);}
-    100%{transform:scale(1);}
-}
-th{background:#0f172a;color:white}
-#footerBrand{position:fixed;right:10px;bottom:10px;background:#0f172a;color:white;padding:6px 10px;border-radius:6px;font-size:12px}
-</style>
 </head>
+
 <body>
-<header>
 
-<div id="headerTop">
+<div id="app">
 
-    <div id="headerLeft">
+    <!-- ================= SIDEBAR ================= -->
+    <nav id="sidebar-nav">
 
-        <h2 style="margin:0;">
-            Aviation Intelligence Dashboard V4
-        </h2>
+        <div id="brandMark" title="Aviation Intelligence Dashboard">
+            <svg viewBox="0 0 24 24" fill="none"><path d="M12 2 3 6v6c0 5 3.8 8.7 9 10 5.2-1.3 9-5 9-10V6l-9-4Z" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"/><path d="m9 12 2 2 4-4.5" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        </div>
 
-        <div id="headerControls">
+        <button class="navItem active" data-panel="dashboard" title="Dashboard">
+            <svg viewBox="0 0 24 24" fill="none"><path d="M4 11.5 12 4l8 7.5" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/><path d="M6 10v9h5v-5h2v5h5v-9" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg>
+            <span>Dashboard</span>
+        </button>
 
-            <div id="utcClock"></div>
+        <button class="navItem" data-panel="intelligence" title="Intelligence">
+            <svg viewBox="0 0 24 24" fill="none"><circle cx="12" cy="12" r="2.4" stroke="currentColor" stroke-width="1.6"/><path d="M12 4v2.2M12 17.8V20M4 12h2.2M17.8 12H20M6.3 6.3l1.5 1.5M16.2 16.2l1.5 1.5M6.3 17.7l1.5-1.5M16.2 7.8l1.5-1.5" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/></svg>
+            <span>Intelligence</span>
+        </button>
 
-            <button id="refreshBtn"
-            style="
-            padding:6px 12px;
-            background:#2563eb;
-            color:white;
-            border:none;
-            border-radius:6px;
-            cursor:pointer;
-            ">
-            🔄 Refresh EASA Data
-            </button>
+        <button class="navItem" data-panel="collectors" title="Collectors">
+            <svg viewBox="0 0 24 24" fill="none"><ellipse cx="12" cy="6" rx="7" ry="2.6" stroke="currentColor" stroke-width="1.6"/><path d="M5 6v6c0 1.4 3.1 2.6 7 2.6s7-1.2 7-2.6V6" stroke="currentColor" stroke-width="1.6"/><path d="M5 12v6c0 1.4 3.1 2.6 7 2.6s7-1.2 7-2.6v-6" stroke="currentColor" stroke-width="1.6"/></svg>
+            <span>Collectors</span>
+        </button>
 
-       
-</div>
+        <button class="navItem" data-panel="czib" title="CZIB">
+            <svg viewBox="0 0 24 24" fill="none"><path d="M12 2 3 6v6c0 5 3.8 8.7 9 10 5.2-1.3 9-5 9-10V6l-9-4Z" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"/><path d="M12 8v5" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/><circle cx="12" cy="15.6" r="0.9" fill="currentColor"/></svg>
+            <span>CZIB</span>
+        </button>
 
-</header>
+        <button class="navItem" data-panel="notam" title="NOTAM">
+            <svg viewBox="0 0 24 24" fill="none"><path d="M2 12.5 21 4l-4.6 8.5L21 21 2 12.5Z" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"/></svg>
+            <span>NOTAM</span>
+        </button>
 
-<div id="lastUpdate"
-style="
-font-size:14px;
-color:yellow;
-font-weight:bold;
-padding:8px 12px;
-background:#0f172a;
-">
-Last EASA Update: Loading...
-</div>
+        <button class="navItem" data-panel="weather" title="Weather">
+            <svg viewBox="0 0 24 24" fill="none"><path d="M7 17h10a4 4 0 0 0 .5-7.97A5.5 5.5 0 0 0 7.1 11.05 3.5 3.5 0 0 0 7 18Z" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"/></svg>
+            <span>Weather</span>
+        </button>
 
-<div id="intelStatus"
-style="
-font-size:14px;
-color:#7dd3fc;
-font-weight:bold;
-padding:4px 12px;
-background:#0f172a;
-">
-🟢 LIVE
-</div>
+        <div id="navSpacer"></div>
 
-<div id="sidebar">
-<h3>Search Country</h3>
-<input id="searchBox" style="width:95%;padding:6px">
+        <button class="navItem" data-panel="settings" title="Settings">
+            <svg viewBox="0 0 24 24" fill="none"><circle cx="12" cy="12" r="3" stroke="currentColor" stroke-width="1.6"/><path d="M4 12h2M18 12h2M12 4v2M12 18v2M6.3 6.3l1.4 1.4M16.3 16.3l1.4 1.4M17.7 6.3l-1.4 1.4M7.7 16.3l-1.4 1.4" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/></svg>
+            <span>Settings</span>
+        </button>
 
-<div class="card">
-    <b>Active CZIBs:</b>
-    <span id="activeCZIBCount">0</span>
-</div>
+        <button class="navItem" data-panel="about" title="About">
+            <svg viewBox="0 0 24 24" fill="none"><circle cx="12" cy="12" r="9" stroke="currentColor" stroke-width="1.6"/><path d="M12 11v5.5M12 8.2v.1" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg>
+            <span>About</span>
+        </button>
 
-<h4>Risk Legend</h4>
-<div class="legend">
-<div>🔴 High</div>
-<div>🟠 Elevated</div>
-<div>🟢 Normal</div>
-</div>
+        <div id="sysStatus">
+            <span class="dot dotGreen"></span>
+            <div>
+                <div id="sysStatusLabel">System Status</div>
+                <div id="sysStatusValue">All Systems Operational</div>
+            </div>
+        </div>
 
-<h4>Layers</h4>
-<label><input type="checkbox" id="firToggle" checked> FIR Boundaries</label><br>
-<label><input type="checkbox" id="airportToggle" checked> Airports</label>
+    </nav>
 
-<h4 style="margin-top:20px;">
-Live Security Intelligence
-</h4>
+    <div id="main">
 
-<div id="intelFilters"
-style="margin-bottom:10px;">
+        <!-- ================= HEADER ================= -->
+        <header>
 
-<label>
-<input type="checkbox"
-id="filterCritical"
-checked>
-Critical
-</label>
+            <div id="headerLeft">
+                <div id="logoIcon">
+                    <svg viewBox="0 0 24 24" fill="none"><path d="M12 2 3 6v6c0 5 3.8 8.7 9 10 5.2-1.3 9-5 9-10V6l-9-4Z" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"/><path d="m9 12 2 2 4-4.5" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                </div>
+                <div>
+                    <h1>Aviation Intelligence Dashboard</h1>
+                    <p>Real-time Global Security &amp; Risk Monitoring</p>
+                </div>
+            </div>
 
-<label style="margin-left:10px;">
-<input type="checkbox"
-id="filterWarning"
-checked>
-Warning
-</label>
+            <div id="headerRight">
 
-<label style="margin-left:10px;">
-<input type="checkbox"
-id="filterInfo"
-checked>
-Info
-</label>
+                <div id="utcClockWrap">
+                    <div id="utcClock">--:--:--</div>
+                    <div id="utcDate">-- --- ----</div>
+                </div>
 
-</div>
+                <div id="liveBadge"><span class="dot dotGreen pulse"></span>LIVE</div>
 
-<div id="intelFeed">
-    Loading intelligence...
-</div>
+                <button id="alertsBtn" class="hbtn">🔕 Enable Alerts</button>
 
-</div>
+                <button id="refreshBtn" class="hbtn">
+                    <svg viewBox="0 0 24 24" fill="none"><path d="M4 12a8 8 0 0 1 13.7-5.7L20 8M20 4v4h-4M20 12a8 8 0 0 1-13.7 5.7L4 16m0 4v-4h4" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                    Refresh
+                </button>
 
-<div id="rightPanels">
+                <button id="czibBtn" class="hbtn hbtnAlert">
+                    🚨 CZIB <span id="czibChevron">›</span>
+                </button>
 
-    <div id="details">
-        <h3>Country Details</h3>
-        <div id="info">Select a country</div>
-    </div>
+                <button id="layersBtn" class="hbtn">
+                    <svg viewBox="0 0 24 24" fill="none"><path d="m12 3 9 5-9 5-9-5 9-5Z" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"/><path d="m3 12 9 5 9-5M3 16.5l9 5 9-5" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"/></svg>
+                    Layers
+                </button>
 
-    <div id="alerts">
-        <h3>Active CZIB</h3>
+                <button id="filtersBtn" class="hbtn">
+                    <svg viewBox="0 0 24 24" fill="none"><path d="M4 6h16M7 12h10M10 18h4" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"/></svg>
+                    Filters
+                </button>
 
-        <div id="securityFeed">
-            Loading...
+                <div id="searchWrap">
+                    <svg viewBox="0 0 24 24" fill="none"><circle cx="11" cy="11" r="7" stroke="currentColor" stroke-width="1.7"/><path d="m20 20-3.5-3.5" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"/></svg>
+                    <input id="searchBox" placeholder="Search country...">
+                </div>
+
+            </div>
+
+        </header>
+
+        <!-- ================= LAYERS / FILTERS POPOVERS ================= -->
+
+        <div id="layersPanel" class="popover">
+            <h4>Map Layers</h4>
+            <label><input type="checkbox" id="airportToggle" checked> Airports</label>
+            <label><input type="checkbox" id="firToggle" checked disabled title="FIR boundary data not wired up yet"> FIR boundaries <span class="soon">soon</span></label>
+        </div>
+
+        <div id="filtersPanel" class="popover">
+            <h4>Severity</h4>
+            <label><input id="filterCritical" type="checkbox" checked> Critical</label>
+            <label><input id="filterWarning" type="checkbox" checked> Warning</label>
+            <label><input id="filterInfo" type="checkbox" checked> Info</label>
+            <h4>Sources</h4>
+            <div id="sourceFilters"></div>
+        </div>
+
+        <!-- ================= CONTENT ================= -->
+
+        <div id="content">
+
+            <div id="mapCol">
+
+                <div id="mapPanel">
+                    <div id="map"></div>
+                    <div id="mapExpand" title="Fullscreen">
+                        <svg viewBox="0 0 24 24" fill="none"><path d="M9 3H3v6M15 3h6v6M15 21h6v-6M9 21H3v-6" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                    </div>
+                </div>
+
+                <div id="lowerRow">
+
+                    <div class="panel" id="czibListPanel">
+                        <div class="panelHead">
+                            <span>ACTIVE CZIB</span>
+                            <span class="countPill" id="activeCZIBCount">0</span>
+                        </div>
+                        <div id="czibLastUpdate" class="panelSub"></div>
+                        <div id="czibList"></div>
+                        <button id="viewAllCZIB" class="ghostBtn">View All CZIB ›</button>
+                    </div>
+
+                    <div class="panel" id="details">
+                        <div class="panelHead"><span>Country / Event Details</span></div>
+                        <div id="info">Select an event or country...</div>
+                    </div>
+
+                    <div class="panel" id="riskPanel">
+                        <div class="panelHead"><span>RISK OVERVIEW</span></div>
+                        <div id="riskLevelLabel">LOW RISK</div>
+                        <div id="riskGaugeWrap">
+                            <svg viewBox="0 0 120 120" id="riskGauge">
+                                <circle cx="60" cy="60" r="52" class="gaugeTrack"/>
+                                <circle cx="60" cy="60" r="52" class="gaugeValue" id="gaugeValue"/>
+                            </svg>
+                            <div id="riskPercent">0%</div>
+                        </div>
+                        <div id="riskBreakdown">
+                            <div><span class="dot dotRed"></span>Conflict Zones <b id="rbConflict">0</b></div>
+                            <div><span class="dot dotAmber"></span>Weather Alerts <b id="rbWeather">0</b></div>
+                            <div><span class="dot dotAmber2"></span>TFRs <b id="rbTfr">0</b></div>
+                            <div><span class="dot dotBlue"></span>Other Alerts <b id="rbOther">0</b></div>
+                        </div>
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div id="sidebar">
+
+                <div id="feedHead">
+                    <span>LIVE INTELLIGENCE FEED</span>
+                    <span class="countPill" id="feedNewCount">0 New</span>
+                </div>
+
+                <div id="feedTabs">
+                    <button class="tab active" data-tab="all">All</button>
+                    <button class="tab" data-tab="official">Official</button>
+                    <button class="tab" data-tab="telegram">OSINT</button>
+                    <button class="tab" data-tab="instagram">Instagram</button>
+                    <button class="tab" data-tab="weather">Weather</button>
+                    <button class="tab" data-tab="critical">Alerts</button>
+                </div>
+
+                <div id="intelFeed">Loading...</div>
+
+                <button id="viewAllIntel" class="ghostBtn">View All Intelligence ›</button>
+
+                <div id="sourceStatusPanel">
+                    <div class="panelHead"><span>SOURCE STATUS</span></div>
+                    <div id="sourceStatusList"></div>
+                    <button id="viewAllSources" class="ghostBtn">View All Sources ›</button>
+                </div>
+
+            </div>
+
         </div>
 
     </div>
 
 </div>
 
+<div id="lastUpdate">Last Update...</div>
 
+<div id="alerts" style="display:none">
+    <div id="securityFeed"></div>
+</div>
 
-<div id="map"></div>
-
-<table>
-<thead>
-<tr>
-<th>Country</th><th>CZIB</th><th>Issued</th><th>Expires</th><th>Risk</th><th>Status</th>
-</tr>
-</thead>
-<tbody id="tbl"></tbody>
+<table style="display:none">
+    <tbody id="tbl"></tbody>
 </table>
-
-<div id="footerBrand">Aegean Airlines Security Dep</div>
 
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 
@@ -283,10 +257,12 @@ Info
 <script src="js/intel-filters.js"></script>
 <script src="js/intel-manager.js"></script>
 
-<script src="js/rss-connector.js"></script>      
+<script src="js/rss-connector.js"></script>
 <script src="js/ukmto-connector.js"></script>
 
 <script src="js/security.js"></script>
 <script src="js/dashboard.js"></script>
+<script src="js/live-poll.js"></script>
+
 </body>
 </html>

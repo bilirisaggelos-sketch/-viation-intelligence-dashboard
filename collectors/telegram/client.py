@@ -1,51 +1,21 @@
 import asyncio
-import os
 
-from dotenv import load_dotenv
-from telethon import TelegramClient
-from telethon.network.connection.tcpfull import ConnectionTcpFull
-
-load_dotenv()
-
-API_ID = int(os.getenv("TELEGRAM_API_ID"))
-API_HASH = os.getenv("TELEGRAM_API_HASH")
-
-SESSION = "telegram_session"
+from collectors.telegram.middle_east import collect
 
 
 async def main():
 
-    print("Starting...")
+    events = await collect()
 
-    client = TelegramClient(
-        SESSION,
-        API_ID,
-        API_HASH,
-        connection=ConnectionTcpFull,
-        use_ipv6=False
-    )
+    print(f"\nCollected {len(events)} Telegram events\n")
 
-    await client.connect()
+    for event in events[:5]:
 
-    print("Connected!")
+        print("=" * 60)
+        print("Publisher :", event["publisher"])
+        print("Time      :", event["timestamp"])
+        print(event["text"][:300])
+        print()
 
-    print("Authorized:", await client.is_user_authorized())
-
-    if not await client.is_user_authorized():
-
-        phone = input("Phone: ")
-
-        await client.send_code_request(phone)
-
-        code = input("Code: ")
-
-        await client.sign_in(phone, code)
-
-    me = await client.get_me()
-
-    print(me)
-
-    await client.disconnect()
-
-
-asyncio.run(main())
+if __name__ == "__main__":
+    asyncio.run(main())

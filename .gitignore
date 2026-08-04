@@ -21,6 +21,7 @@ data/live-intel.json
 # =========================
 .env
 telegram_session.session
+instagram_session
 
 # =========================
 # Local testing

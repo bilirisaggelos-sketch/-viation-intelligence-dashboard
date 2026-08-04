@@ -1,3 +1,5 @@
 requests
 python-dotenv
 telethon
+beautifulsoup4
+instaloader

@@ -1,42 +1,86 @@
 {
   "official": [
     {
-      "name": "EASA",
-      "enabled": true
-    },
-    {
-      "name": "UKMTO",
-      "enabled": true
-    },
-    {
       "name": "FAA",
       "enabled": true
     },
     {
-      "name": "Eurocontrol",
+      "name": "NOAA",
       "enabled": true
+    },
+    {
+      "name": "EASA",
+      "enabled": false
+    },
+    {
+      "name": "UKMTO",
+      "enabled": false
+    },
+    {
+      "name": "Eurocontrol",
+      "enabled": false
     }
   ],
 
   "trusted": [
     {
       "name": "ISW",
-      "enabled": true
+      "enabled": false
     },
     {
       "name": "Reuters",
-      "enabled": true
+      "enabled": false
     }
   ],
 
   "osint": [
     {
-      "name": "OSINT Defender",
+      "name": "Middle East Spectator",
+      "module": "middle_east",
       "enabled": true
     },
     {
-      "name": "Middle East Spectator",
+      "name": "OSINT Defender",
+      "module": "osint_defender",
       "enabled": true
+    },
+    {
+      "name": "Clash Report",
+      "module": "clash_report",
+      "enabled": true
+    },
+    {
+      "name": "Our Wars Today",
+      "module": "our_wars_today",
+      "enabled": true
+    },
+    {
+      "name": "Alsaa Plus EN",
+      "module": "alsaa_plus",
+      "enabled": true
+    },
+    {
+      "name": "Mediterranean Man",
+      "module": "medmannews",
+      "enabled": true
+    },
+    {
+      "name": "CASELS",
+      "module": "casels",
+      "enabled": true
+    },
+    {
+      "name": "Geopolitics Prime",
+      "module": "geopolitics_prime",
+      "enabled": true
+    }
+  ],
+
+  "instagram": [
+    {
+      "name": "Aviation Safety Intel",
+      "module": "example_source",
+      "enabled": false
     }
   ]
 }
