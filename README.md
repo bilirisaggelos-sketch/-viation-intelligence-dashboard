@@ -43,9 +43,9 @@ css/
 ## Installation
 
 ```bash
-git clone https://github.com/bilirisaggelos-sketch/aviation-intelligence-dashboard.git
+git clone https://github.com/bilirisaggelos-sketch/-viation-intelligence-dashboard.git
 
-cd aviation-intelligence-dashboard
+cd -viation-intelligence-dashboard
 
 pip install -r requirements.txt
 ```

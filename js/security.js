@@ -87,28 +87,10 @@ function matchesTab(item, tab) {
 }
 
 // =====================
-// CZIB-DERIVED "SECURITY FEED" (kept for compatibility with older markup)
+// INTEL FEED REFRESH
 // =====================
 
 function updateSecurityFeed() {
-
-    const feed = document.getElementById("securityFeed");
-
-    if (feed && window.czibData) {
-
-        const latest = window.czibData
-            .filter(item => item.status === "Active")
-            .sort((a, b) => new Date(b.issued) - new Date(a.issued));
-
-        feed.innerHTML = latest.slice(0, 8).map(item => `
-            <div class="card">
-                <b>${item.country}</b><br>
-                CZIB ${item.czib}<br>
-                ${formatDate(item.issued)}
-            </div>
-        `).join("");
-
-    }
 
     loadIntelFeed()
 

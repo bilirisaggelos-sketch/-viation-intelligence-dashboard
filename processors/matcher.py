@@ -33,24 +33,6 @@ STOPWORDS = {
     "that", "this", "it", "its", "as", "from", "into", "after", "before",
     "new", "breaking", "exclusive", "watch", "least", "reportedly", "amid",
     "said", "says", "according", "over", "than", "more", "been", "will",
-
-    # Generic OSINT/military-reporting vocabulary. These show up across
-    # almost every post in a conflict-monitoring feed regardless of which
-    # specific incident it's about, so they don't help identify "is this
-    # the SAME incident" - and on a small batch (tens of events, not
-    # thousands), plain document-frequency isn't reliable enough on its
-    # own to filter them out (see build_distinctive_wordset): a generic
-    # word used in just 3-4 of 55 posts still looks statistically "rare"
-    # even though it's not actually incident-specific. Found by testing:
-    # "airbase"/"forces"/"armed"/"drone" alone were enough to falsely
-    # match an Abha-airbase story with an unrelated Ukraine-ports story.
-    "military", "forces", "force", "armed", "attack", "attacks",
-    "attacked", "strike", "strikes", "struck", "war", "conflict",
-    "region", "report", "reports", "reported", "unconfirmed", "targeted",
-    "target", "targets", "drone", "drones", "missile", "missiles",
-    "launched", "launch", "operation", "operations", "personnel",
-    "officials", "sources", "footage", "video", "situation", "incident",
-    "confirmed", "claims", "claimed", "impact", "impacted",
 }
 
 MIN_OVERLAP = 0.40

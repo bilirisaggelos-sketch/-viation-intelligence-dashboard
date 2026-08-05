@@ -73,42 +73,6 @@ async function loadCZIBData() {
 
         window.activeCountries = activeCountries;
 
-        // -----------------------
-        // CZIB Table
-        // -----------------------
-
-        const table =
-            document.getElementById("tbl");
-
-        if (table) {
-
-            table.innerHTML = "";
-
-            data.forEach(item => {
-
-                table.innerHTML += `
-
-<tr onclick="showCountry('${item.country}')">
-
-<td>${item.country}</td>
-
-<td>${item.czib}</td>
-
-<td>${formatDate(item.issued)}</td>
-
-<td>${formatDate(item.expires)}</td>
-
-<td>${item.risk}</td>
-
-<td>${item.status}</td>
-
-</tr>
-
-`;
-
-            });
-
-        }
 
         APP.czib = data;
         window.czibData = data;

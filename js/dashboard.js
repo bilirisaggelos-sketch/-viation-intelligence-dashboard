@@ -87,34 +87,57 @@ function setFeedTab(tabName) {
 
 }
 
+// Scrolls to (if needed) AND flashes a highlight ring around a panel.
+// Plain scrollIntoView() alone did nothing visible on a normal desktop
+// screen, where every panel is already on screen at once - clicking a
+// sidebar item looked completely broken even though the click handler
+// was firing correctly. The flash makes the effect visible regardless
+// of screen size / scroll position.
+function highlightPanel(id) {
+
+    const el = document.getElementById(id);
+    if (!el) return;
+
+    el.scrollIntoView({ behavior: "smooth", block: "center" });
+
+    el.classList.remove("navHighlight");
+    // Force reflow so re-adding the class restarts the animation even
+    // if the same panel is clicked twice in a row.
+    void el.offsetWidth;
+    el.classList.add("navHighlight");
+
+    setTimeout(() => el.classList.remove("navHighlight"), 1100);
+
+}
+
 const NAV_ACTIONS = {
 
     dashboard: () => {
         setFeedTab("all");
-        document.getElementById("mapPanel").scrollIntoView({ behavior: "smooth", block: "start" });
+        highlightPanel("mapPanel");
     },
 
     intelligence: () => {
         setFeedTab("all");
-        document.getElementById("sidebar").scrollIntoView({ behavior: "smooth", block: "start" });
+        highlightPanel("sidebar");
     },
 
     collectors: () => {
-        document.getElementById("sourceStatusPanel").scrollIntoView({ behavior: "smooth", block: "center" });
+        highlightPanel("sourceStatusPanel");
     },
 
     czib: () => {
-        document.getElementById("czibListPanel").scrollIntoView({ behavior: "smooth", block: "center" });
+        highlightPanel("czibListPanel");
     },
 
     notam: () => {
         setFeedTab("official");
-        document.getElementById("sidebar").scrollIntoView({ behavior: "smooth", block: "start" });
+        highlightPanel("sidebar");
     },
 
     weather: () => {
         setFeedTab("weather");
-        document.getElementById("sidebar").scrollIntoView({ behavior: "smooth", block: "start" });
+        highlightPanel("sidebar");
     },
 
     settings: () => {
@@ -182,10 +205,7 @@ document.addEventListener("click", function (e) {
 });
 
 document.getElementById("czibBtn")
-    .addEventListener("click", () => {
-        document.getElementById("czibListPanel")
-            .scrollIntoView({ behavior: "smooth", block: "center" });
-    });
+    .addEventListener("click", () => highlightPanel("czibListPanel"));
 
 document.getElementById("refreshBtn")
     .addEventListener("click", () => {

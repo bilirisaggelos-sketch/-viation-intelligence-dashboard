@@ -15,6 +15,7 @@ env/
 # Runtime data
 # =========================
 data/live-intel.json
+data/czib-live.json
 
 # =========================
 # Secrets

@@ -39,13 +39,6 @@ function normalizeIntelEvent(raw) {
         // Location
         location: raw.location || raw.country || "",
 
-        // Verification: does more than one independent source report this
-        // same event? Populated by processors/dedup.py server-side.
-        verification_status: raw.verification_status || null,
-        verification_confidence: raw.verification_confidence || null,
-        verified_sources: raw.verified_sources || [],
-        verified_source_count: raw.verified_source_count || 1,
-
         // Coordinates
         lat: raw.lat || null,
         lon: raw.lon || null,

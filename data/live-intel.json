@@ -376,7 +376,7 @@
     "verification_status": "PARTIALLY VERIFIED",
     "verification_confidence": 65,
     "verified_sources": [
-      "Mediterranean Man",
+      "Geopolitics Prime",
       "Middle East Spectator"
     ],
     "verified_source_count": 2
@@ -393,12 +393,13 @@
     "location": "Global",
     "lat": null,
     "lon": null,
-    "verification_status": "UNVERIFIED",
-    "verification_confidence": 30,
+    "verification_status": "PARTIALLY VERIFIED",
+    "verification_confidence": 65,
     "verified_sources": [
+      "Geopolitics Prime",
       "Middle East Spectator"
     ],
-    "verified_source_count": 1
+    "verified_source_count": 2
   },
   {
     "title": "Telegram",
@@ -489,13 +490,12 @@
     "location": "Global",
     "lat": null,
     "lon": null,
-    "verification_status": "PARTIALLY VERIFIED",
-    "verification_confidence": 65,
+    "verification_status": "UNVERIFIED",
+    "verification_confidence": 30,
     "verified_sources": [
-      "Clash Report",
-      "Geopolitics Prime"
+      "Clash Report"
     ],
-    "verified_source_count": 2
+    "verified_source_count": 1
   },
   {
     "title": "Telegram",
@@ -662,12 +662,13 @@
     "location": "Global",
     "lat": null,
     "lon": null,
-    "verification_status": "UNVERIFIED",
-    "verification_confidence": 30,
+    "verification_status": "PARTIALLY VERIFIED",
+    "verification_confidence": 65,
     "verified_sources": [
-      "Alsaa Plus EN"
+      "Alsaa Plus EN",
+      "Mediterranean Man"
     ],
-    "verified_source_count": 1
+    "verified_source_count": 2
   },
   {
     "title": "Telegram",
@@ -681,12 +682,13 @@
     "location": "Global",
     "lat": null,
     "lon": null,
-    "verification_status": "UNVERIFIED",
-    "verification_confidence": 30,
+    "verification_status": "PARTIALLY VERIFIED",
+    "verification_confidence": 65,
     "verified_sources": [
-      "Alsaa Plus EN"
+      "Alsaa Plus EN",
+      "Mediterranean Man"
     ],
-    "verified_source_count": 1
+    "verified_source_count": 2
   },
   {
     "title": "Telegram",
@@ -760,8 +762,8 @@
     "verification_status": "PARTIALLY VERIFIED",
     "verification_confidence": 65,
     "verified_sources": [
-      "Mediterranean Man",
-      "Middle East Spectator"
+      "Alsaa Plus EN",
+      "Mediterranean Man"
     ],
     "verified_source_count": 2
   },
@@ -986,12 +988,13 @@
     "location": "Global",
     "lat": null,
     "lon": null,
-    "verification_status": "UNVERIFIED",
-    "verification_confidence": 30,
+    "verification_status": "PARTIALLY VERIFIED",
+    "verification_confidence": 65,
     "verified_sources": [
-      "Geopolitics Prime"
+      "Geopolitics Prime",
+      "Middle East Spectator"
     ],
-    "verified_source_count": 1
+    "verified_source_count": 2
   },
   {
     "title": "Telegram",
@@ -1008,8 +1011,8 @@
     "verification_status": "PARTIALLY VERIFIED",
     "verification_confidence": 65,
     "verified_sources": [
-      "Clash Report",
-      "Geopolitics Prime"
+      "Geopolitics Prime",
+      "Middle East Spectator"
     ],
     "verified_source_count": 2
   },
