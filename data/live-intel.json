@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T20:36:41.270968+00:00",
+  "generated_at": "2026-08-05T21:57:47.660304+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -431,13 +431,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Clash Report",
         "Middle East Spectator"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -487,83 +486,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-05T19:11:41+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Yemen's Houthis say they struck the Saudi oil tanker Daisy in the Gulf of Aden with a ballistic missile, forcing it to turn back.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-05T18:14:17+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Clash Report",
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "China successfully launched two Oriental Smart Eye (OSE) hyperspectral satellites aboard a Smart Dragon-3 rocket from a sea-based platform near Haiyang, Shandong, on August 5, 2026. \nEquipped with advanced hyperspectral imaging and onboard AI processors, the satellites can analyze land, water, vegetation, and minerals directly in orbit, reducing data processing time from days to minutes. \nTogether, they provide global coverage every five days and will support environmental monitoring, agriculture, and disaster management, including crop monitoring projects in Indonesia and Uzbekistan.\nSource: Xinhua",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-05T17:43:25+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Multiple videos show mass Russian Iskander ballistic missile launches toward Kyiv and surrounding areas.\nMore launch footage appeared in one day than from all previous strikes combined.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-05T17:26:07+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Wildberries\u2014Russia's dominant e-commerce platform\u2014may need up to about 1.3 trillion rubles (roughly $16 billion) to stabilize and rebuild after Ukrainian drone strikes destroyed or heavily damaged at least 14 logistics hubs.\nThe company's own direct losses could exceed 100 billion rubles (around $1.2 billion), reaching 200 billion (about $2.5 billion) in a worst case.\nSource: The Bell",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-05T17:21:22+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -786,25 +708,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddf7\ud83c\uddfa\u274c\ud83c\uddfa\ud83c\udde6 \u2014 Another wave of Russian missiles launched towards Kyiv.\n\u27a1\ufe0f Nonstop launches from Russia.\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-04T22:03:32+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Mediterranean Man",
       "text": "\u26a1\ud83c\uddee\ud83c\uddf9\ud83c\uddee\ud83c\uddf7 Italian Foreign Minister Antonio Tajani had a conversation with his Iranian counterpart Araghchi:\n\"I just spoke with Iranian Foreign Minister Abbas Araghchi. He outlined the negotiations that Iran is having with Oman to reopen the Strait of Hormuz to commercial traffic.\nI reiterated the importance of continuing the dialogue to quickly reach a political solution to the crisis, also with the United States, and to avoid new escalations. It is essential to guarantee full freedom of navigation in the Strait of Hormuz, without tolls or restrictions, in the interest of regional stability and the global economy.\nWe also spoke about Lebanon: I hope that the ongoing negotiations in Rome produce concrete results to consolidate the ceasefire and reach a general agreement.\nI reiterated to him that Iran's role is crucial to stop Hezbollah's military actions. Italy will continue to do its part to foster dialogue, security, and peace in the Middle East.\"",
       "source": "Telegram",
@@ -964,25 +867,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-05T15:57:43+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\udf0f \ud83c\uddee\ud83c\uddf7 How Iran is expanding its geopolitical contest with the US and Israel beyond Middle East\nIran is not sitting on the sidelines as Gulf states, Israel and their Western allies extend their influence across Africa, Latin America and Asia \u2013 the Islamic Republic is playing its own geopolitical game.\nAfrica\nIran is accelerating its African outreach: after decades of ties, it made the continent a foreign policy priority in 2024 and convened three Iran-Africa summits between 2023 and 2025, attracting around 40 countries.\n\ud83d\udd34 Northern Africa\nAlongside Algeria, Iran seeks to counter[ growing US-Israeli influence in Morocco](https://t.me/geopolitics_prime/73024), opposing Rabat\u2019s entry into the Abraham Accords and rejecting [its claims over Western Sahara.](https://t.me/geopolitics_prime/73083) Reports have also pointed to Iranian support for the Polisario Front, the movement seeking independence for Western Sahara through the self-declared Sahrawi Arab Democratic Republic (SADR)\n\ud83d\udd34 Eastern Africa\nIran has reportedly backed President Abdel Fattah al-Burhan and the Sudanese Armed Forces (SAF), including via the supply of Mohajer-6 drones between December 2023 and January 2024. Notably, the SAF also enjoys Saudi support, while its rival, the Rapid Support Forces (RSF), is backed by the UAE \u2013 deeply allied with Israel\nAfter reviving ties with Kenya, Uganda and Zimbabwe in 2023, Iran formalized its long-standing military technical relationship with Ethiopia through a 2025 security and intelligence-sharing deal. Even as Ethiopia works with the UAE, it has[ kept its partnership with Iran on a separate track](https://t.me/geopolitics_prime/72095)\n\ud83d\udd34 Sahel\nAs Mali, Burkina Faso, Niger and Chad curtailed Western military presence between 2022 and 2025, Iran moved to expand its footprint in the Sahel through offers of military cooperation, energy and scientific assistance. Iran's deepening ties with Niger, formalized through 2025 security and cooperation pacts, rattled the US as it lost its military foothold in the African country in 2024.\nLatin America\nAs the Trump administration and Israel move to curb pro-independence governments in Latin America [through overt pressure and alleged electoral fraud](https://t.me/geopolitics_prime/71363), Iran's relations with Venezuela, Argentina and Bolivia have become strained. Nonetheless, it still maintains close ties with Brazil, Nicaragua and Cuba. Iran's Latin American pivot is driven by [resistance to US pressure and the pursuit of multipolarity](https://t.me/geopolitics_prime/69825)\nAsia\n\ud83d\udd34 China serves as Iran's primary economic lifeline, purchasing the vast majority of its oil exports, while India is involved in its major infrastructure projects such as the [Chabahar Port and the International North-South Transport Corridor ](https://t.me/geopolitics_prime/66600)\n\ud83d\udd34 Iran and North Korea maintain a decades-long strategic partnership rooted in their shared resistance to the West\n\ud83d\udd34 Iran has also consolidated relations with Kazakhstan, Uzbekistan, Turkmenistan, Kyrgyzstan, and especially Tajikistan, which it sees [as a brotherly nation.](https://t.me/geopolitics_prime/72150) The five \"stans\" remain engaged with Iran despite growing [overtures from the EU, Israel, and Turkey](https://t.me/geopolitics_prime/71609)\nIran is further expanding its global reach through BRICS+ and the Shanghai Cooperation Organisation (SCO), underpinned by comprehensive strategic partnership agreements with both Russia and China.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-05T12:29:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
