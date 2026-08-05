@@ -1,6 +1,44 @@
 {
-  "generated_at": "2026-08-05T10:59:22.660767+00:00",
+  "generated_at": "2026-08-05T13:00:14.856579+00:00",
   "events": [
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nDenver, CO, Saturday, August 8, 2026 through Monday, August 10, 2026 Local\nFacility: ZDV",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "08/05/2026",
+      "location": "ZDV CO",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nSturgis, SD, Friday, August 7, 2026 through Sunday, August 16, 2026 Local\nFacility: ZDV",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "08/05/2026",
+      "location": "ZDV SD",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nWest Chester, OH, Thursday, August 6, 2026 through Sunday, August 9, 2026 Local\nFacility: ZID",
@@ -287,14 +325,14 @@
       "verified_source_count": 1
     },
     {
-      "title": "What will happen when a SpaceX rocket collides with the Moon?",
-      "text": "What will happen when a SpaceX rocket collides with the Moon?\nOur satellite has endured countless blows over millions of years - and astronomers think this one could be a useful accident.",
+      "title": "Russia strike kills 21 as Ukraine says it needs more missile interceptors",
+      "text": "Russia strike kills 21 as Ukraine says it needs more missile interceptors\nThe Russia defence ministry said it had struck logistics hubs and supply centres in Kyiv and the surrounding region.",
       "source": "BBC",
       "source_type": "osint",
       "publisher": "BBC World News",
       "severity": "info",
       "icon": "\ud83d\udcf0",
-      "timestamp": "2026-08-04T09:13:37+00:00",
+      "timestamp": "2026-08-05T12:26:26+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -304,6 +342,46 @@
         "BBC World News"
       ],
       "verified_source_count": 1
+    },
+    {
+      "title": "Drone carrying explosives found at German airport, police say",
+      "text": "Drone carrying explosives found at German airport, police say\nThe drone was found in the cargo area near a Ukrainian aircraft before another suspected object collided with a cargo aircraft in mid-air.",
+      "source": "BBC",
+      "source_type": "osint",
+      "publisher": "BBC World News",
+      "severity": "info",
+      "icon": "\ud83d\udcf0",
+      "timestamp": "2026-08-05T12:48:37+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "BBC World News"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddfe\ud83c\uddea/\ud83c\uddf8\ud83c\udde6 NEW: Yemen\u2019s Armed Forces announce targeting another Saudi oil tanker in the Red Sea off the coast of Yanbu, with anti-ship ballistic missiles",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-05T12:12:12+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Geopolitics Prime",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 3
     },
     {
       "title": "Telegram",
@@ -423,12 +501,12 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "The U.S. Navy awarded $76.6 billion to General Dynamics Electric Boat and Newport News Shipbuilding to expand production of Virginia-class attack submarines and Columbia-class nuclear ballistic missile submarines.\nThe funding supports the U.S. nuclear deterrent, the AUKUS partnership, and efforts to strengthen the submarine industrial base despite ongoing shipbuilding delays and workforce shortages.\nSource: Axios",
+      "text": "This is the drone carrying an improvised explosive device found on the tarmac at Leipzig/Halle Airport, only meters from a Ukrainian Antonov An-124 cargo plane.\nAuthorities safely neutralized it after discovering the detonator was defective, preventing an explosion.\nIn a separate incident the same night, a DHL cargo plane hit an unidentified object\u2014possibly another drone\u2014and landed safely with minor damage.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-05T10:44:05+00:00",
+      "timestamp": "2026-08-05T12:37:17+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -442,12 +520,12 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Zelensky:\nThis year, unfortunately, the supply of anti-ballistics from partners has significantly decreased.\nThe number of missiles for air defense in supply has fallen threefold, compared to 2025.\nThe partners have the missiles.",
+      "text": "French President Macron:\nIn Kyiv and its region, Russia has once again chosen to target civilians. This policy of terror, carried out with missiles and drones, is unacceptable.\nEach new attack reinforces an obvious truth: Russia must pay the price for its aggression and answer for its crimes. Alongside Ukraine, we will not yield to either fatigue or intimidation.\nThe European Union and its partners will continue to increase the pressure on Russia, including through new sanctions, while strengthening military support for Ukraine so that it can defend itself and protect its population.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-05T10:07:22+00:00",
+      "timestamp": "2026-08-05T11:36:59+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -460,135 +538,96 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "India Steps Up Defense Shipments to Israel With Over 2,500 Military Cargoes\nIndia has emerged as a major military supplier to Israel, transferring over 2,500 shipments of weapons, ammunition, and drone components between October 2023 and November 2025.\n[READ MORE](https://clashreport.com/defense/articles/india-steps-up-defense-shipments-to-israel-with-over-2500-military-cargoes-tzimbrs6qk)",
+      "publisher": "Our Wars Today",
+      "text": "[Russian missile and drone barrage in Ukrainian capital region kills 17](https://www.npr.org/2026/08/05/nx-s1-5921194/russian-missile-drone-barrage)\nRussian missile and drone strikes on Kyiv and the surrounding region killed 17 people and wounded 44 others overnight into Wednesday, Ukraine's President Volodymyr Zelenskyy said. \n[Read More in Full Article](https://www.npr.org/2026/08/05/nx-s1-5921194/russian-missile-drone-barrage)\nThe Associated Press | npr\u200b.org \u2022 Aug 5, 2026",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-05T09:48:52+00:00",
+      "timestamp": "2026-08-05T11:44:12+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Clash Report"
+        "Our Wars Today"
       ],
       "verified_source_count": 1
     },
     {
       "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Zero Missiles Intercepted: 17 Dead as Ukraine's Stockpiles are Depleted\nKyiv\u2019s air defense shield suffered a total breakdown overnight as depleted interceptor stocks left the city unable to down any of Russia\u2019s 28 incoming ballistic missiles.\n[READ MORE](https://clashreport.com/world/articles/zero-missiles-intercepted-17-dead-as-ukraines-stockpiles-are-depleted-3iqh3xor194)",
+      "publisher": "Our Wars Today",
+      "text": "[Russia is deploying a North Korean unit with dozens of ballistic missiles to attack Ukraine](https://www.pravda.com.ua/news/2026/08/05/8047356/)\nA North Korean missile unit with 120 missiles is being deployed in the Russian Federation for attacks on Ukraine. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://www.pravda.com.ua/news/2026/08/05/8047356/)\n\u0412\u0456\u043a\u0442\u043e\u0440\u0456\u044f \u0428\u0430\u0431\u0440\u0430\u043d\u0441\u044c\u043a\u0430 | pravda\u200b.com\u200b.ua \u2022 Aug 5, 2026",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-05T09:31:39+00:00",
+      "timestamp": "2026-08-05T11:42:51+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Clash Report"
+        "Our Wars Today"
       ],
       "verified_source_count": 1
     },
     {
       "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "A Russian FPV drone struck an ATB delivery truck carrying groceries in Kherson, destroying the vehicle and its cargo.",
+      "publisher": "Our Wars Today",
+      "text": "[Zelenskyi: The number of missiles for air defense has tripled compared to 2025](https://www.pravda.com.ua/news/2026/08/05/8047371/)\nThe supply of missiles for air defense to Ukraine in 2024 will be reduced by three times, Zelensky said. Political decisions are needed to support defense. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://www.pravda.com.ua/news/2026/08/05/8047371/)\n\u0421\u0442\u0430\u043d\u0456\u0441\u043b\u0430\u0432 \u041f\u043e\u0433\u043e\u0440\u0456\u043b\u043e\u0432 | pravda\u200b.com\u200b.ua \u2022 Aug 5, 2026",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-05T09:01:09+00:00",
+      "timestamp": "2026-08-05T11:41:42+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Clash Report"
+        "Our Wars Today"
       ],
       "verified_source_count": 1
     },
     {
       "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "BIG: A drone was found on the tarmac at Germany's Leipzig/Halle Airport, carrying an attached mass with a detonator that investigators classified as a possible explosive device.\nThe drone was reportedly lying right next to a Ukrainian Antonov cargo plane.\nFederal police deployed bomb-disposal experts and a robot and planned a controlled detonation.\nSource: Bild",
+      "publisher": "Our Wars Today",
+      "text": "[Putin names head of new Russian drone forces in military reshuffle](https://www.reuters.com/world/europe/putin-names-head-new-russian-drone-forces-military-reshuffle-2026-08-05/)\nPresident Vladimir Putin on Wednesday named Denis Lyamin to head Russia's \u200bUnmanned Systems Forces, a newly established branch of the military \u200cthat will be responsible for drone warfare. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://www.reuters.com/world/europe/putin-names-head-new-russian-drone-forces-military-reshuffle-2026-08-05/)\nReuters | reuters\u200b.com \u2022 Aug 5, 2026",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-05T08:59:39+00:00",
+      "timestamp": "2026-08-05T11:41:30+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Clash Report"
+        "Our Wars Today"
       ],
       "verified_source_count": 1
     },
     {
       "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Ukraine's Air Force reported downing 98 of 115 attack drones, but zero of the 28 Russian missiles overnight.\nNone of the 24 Iskander-M/S-400 ballistic missiles nor the 4 Zircon/Oniks anti-ship missiles were intercepted.",
+      "publisher": "Our Wars Today",
+      "text": "[One person died, eight more were injured due to the Russian attack on Odesa](https://www.pravda.com.ua/news/2026/08/05/8047376/)\nOn August 5, Russian troops attacked Odesa region with attack drones. One person died, eight others were injured. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://www.pravda.com.ua/news/2026/08/05/8047376/)\n\u0410\u043d\u0430\u0441\u0442\u0430\u0441\u0456\u044f \u041f\u0440\u043e\u0446 | pravda\u200b.com\u200b.ua \u2022 Aug 5, 2026",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-05T08:36:14+00:00",
+      "timestamp": "2026-08-05T11:41:23+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Ukraine's military intelligence says North Korea has begun deploying a missile unit to western Russia, with plans to provide up to 120 ballistic missiles and six launchers for use against Ukraine. \nIf confirmed, it would mark a significant expansion of Russia\u2013North Korea military cooperation.\nSource: Reuters",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-05T07:22:06+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "CASELS",
-        "Clash Report"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Ukrainian long-range drones hit Russia's Ufa oil refining complex in Bashkortostan.\nThe target is one of Russia's largest oil refining hubs and sits roughly 1,400+ km from the front line.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-05T07:21:06+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
+        "Our Wars Today"
       ],
       "verified_source_count": 1
     },
@@ -708,65 +747,8 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Our Wars Today",
-      "text": "[Border guards in Chernihiv region shot down an enemy drone at a record height of 6,858 meters](https://www.pravda.com.ua/news/2026/08/02/8046937/)\nIn the northern direction, the border guards shot down an enemy reconnaissance drone ZALA Z-20 at a record height for this direction of 6,858 meters. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://www.pravda.com.ua/news/2026/08/02/8046937/)\n\u041a\u0430\u0442\u0435\u0440\u0438\u043d\u0430 \u0422\u0438\u0449\u0435\u043d\u043a\u043e,\u0412\u0430\u043b\u0435\u043d\u0442\u0438\u043d\u0430 \u0420\u043e\u043c\u0430\u043d\u0435\u043d\u043a\u043e | pravda\u200b.com\u200b.ua \u2022 Aug 2, 2026",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-02T17:18:09+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Our Wars Today"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Our Wars Today",
-      "text": "[\u26a1\ufe0f - Romania scrambles F-16s as Russian drone crosses Ukraine's Danube River border. A Russian drone crossed into Romani...](https://t.me/KyivIndependent_official/54601)\n\u26a1\ufe0fRomania scrambles F-16s\n[https://kyivindependent.com/romania-scrambles-f-16s-as-russian-drone-crosses-ukraines-danube-river-border/]\nas Russian drone crosses Ukraine's Danube River border.\nA Russian drone crossed into Romanian territory for about 20 minutes before\nreturning to Ukraine, where it was shot down by Ukrainian forces, Romania's\nDefense Ministry said. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live:\nt.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT:\nhttps://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://t.me/KyivIndependent_official/54601)\n | t\u200b.me \u2022 Aug 2, 2026",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-02T17:18:00+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Our Wars Today"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Our Wars Today",
-      "text": "[Zelenskyi: Russia is increasing the production of ballistics](https://www.pravda.com.ua/news/2026/08/02/8046899/)\nDuring the week, the Russian Federation attacked 16 regions of Ukraine, using 1,900 drones, 1,600 aerial bombs and 144 missiles. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://www.pravda.com.ua/news/2026/08/02/8046899/)\n\u0420\u043e\u043c\u0430\u043d \u041f\u0435\u0442\u0440\u0435\u043d\u043a\u043e | pravda\u200b.com\u200b.ua \u2022 Aug 2, 2026",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-02T13:54:47+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Our Wars Today"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddfe\ud83c\uddea\ud83c\udd92\ud83c\uddfe\ud83c\uddea\ud83d\udeab\ud83c\uddf8\ud83c\udde6\u26a1\ufe0f\u2014 Yemeni forces announced that they had targeted the Saudi oil tanker \"Wafa\" in the northern Red Sea, near the Yanbu area, using several ballistic missiles. The strikes were precise, thank God.\n\u26aa\ufe0f",
+      "text": "\ud83c\uddfe\ud83c\uddea\ud83c\udd92\ud83c\uddfe\ud83c\uddea\ud83d\udeab\ud83c\uddf8\ud83c\udde6\u26a1\ufe0f\u2014 Yemeni forces announced that they had targeted the Saudi oil tanker \"Wafa\" in the northern Red Sea, near the Yanbu area, using several ballistic missiles. The strikes were precise.\n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
@@ -775,13 +757,14 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
       "verified_sources": [
         "Alsaa Plus EN",
-        "Geopolitics Prime"
+        "Geopolitics Prime",
+        "Middle East Spectator"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 3
     },
     {
       "title": "Telegram",
@@ -862,6 +845,25 @@
     },
     {
       "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1\ud83c\uddf1\ud83c\udde7 \nIt is regrettable that Israel is waiting for an initiative from the enemy before responding. \nIt started with a drone that caused no injuries, then escalated to an exchange of fire and the injury of an officer, and today, the level of escalation has increased with a dangerous attack by Hezbollah, the details of which will be released later.\n\u2013 Israeli media.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-05T12:55:05+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
       "publisher": "CASELS",
       "text": "A Hezbollah tunnel spanning dozens of meters in Srebbine, southern Lebanon, was demolished by IDF combat engineers. Weapons caches, rockets, and launchers were also found across the south, the military says.",
       "source": "Telegram",
@@ -910,13 +912,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "CASELS",
-        "Clash Report"
+        "CASELS"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -978,6 +979,25 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
+      "text": "\ud83c\udf0f\ud83c\uddee\ud83c\uddf7 How Iran is expanding its geopolitical contest with the US and Israel beyond Middle East\nIran is not sitting on the sidelines as Gulf states, Israel and their Western allies extend their influence across Africa, Latin America and Asia \u2013 the Islamic Republic is playing its own geopolitical game.\nAfrica\nIran is accelerating its African outreach: after decades of ties, it made the continent a foreign policy priority in 2024 and convened three Iran-Africa summits between 2023 and 2025, attracting around 40 countries.\n\ud83d\udd34 Northern Africa\nAlongside Algeria, Iran seeks to counter[ growing US-Israeli influence in Morocco](https://t.me/geopolitics_prime/73024), opposing Rabat\u2019s entry into the Abraham Accords and rejecting [its claims over Western Sahara.](https://t.me/geopolitics_prime/73083) Reports have also pointed to Iranian support for the Polisario Front, the movement seeking independence for Western Sahara through the self-declared Sahrawi Arab Democratic Republic (SADR)\n\ud83d\udd34 Eastern Africa\nIran has reportedly backed President Abdel Fattah al-Burhan and the Sudanese Armed Forces (SAF), including via the supply of Mohajer-6 drones between December 2023 and January 2024. Notably, the SAF also enjoys Saudi support, while its rival, the Rapid Support Forces (RSF), is backed by the UAE \u2013 deeply allied with Israel\nAfter reviving ties with Kenya, Uganda and Zimbabwe in 2023, Iran formalized its long-standing military technical relationship with Ethiopia through a 2025 security and intelligence-sharing deal. Even as Ethiopia works with the UAE, it has[ kept its partnership with Iran on a separate track](https://t.me/geopolitics_prime/72095)\n\ud83d\udd34 Sahel\nAs Mali, Burkina Faso, Niger and Chad curtailed Western military presence between 2022 and 2025, Iran moved to expand its footprint in the Sahel through offers of military cooperation, energy and scientific assistance. Iran's deepening ties with Niger, formalized through 2025 security and cooperation pacts, rattled the US as it lost its military foothold in the African country in 2024.\nLatin America\nAs the Trump administration and Israel move to curb pro-independence governments in Latin America [through overt pressure and alleged electoral fraud](https://t.me/geopolitics_prime/71363), Iran's relations with Venezuela, Argentina and Bolivia have become strained. Nonetheless, it still maintains close ties with Brazil, Nicaragua and Cuba. Iran's Latin American pivot is driven by [resistance to US pressure and the pursuit of multipolarity](https://t.me/geopolitics_prime/69825)\nAsia\n\ud83d\udd34 China serves as Iran's primary economic lifeline, purchasing the vast majority of its oil exports, while India is involved in its major infrastructure projects such as the [Chabahar Port and the International North-South Transport Corridor ](https://t.me/geopolitics_prime/66600)\n\ud83d\udd34 Iran and North Korea maintain a decades-long strategic partnership rooted in their shared resistance to the West\n\ud83d\udd34 Iran has also consolidated relations with Kazakhstan, Uzbekistan, Turkmenistan, Kyrgyzstan, and especially Tajikistan, which it sees [as a brotherly nation.](https://t.me/geopolitics_prime/72150) The five \"stans\" remain engaged with Iran despite growing [overtures from the EU, Israel, and Turkey](https://t.me/geopolitics_prime/71609)\nIran is further expanding its global reach through BRICS+ and the Shanghai Cooperation Organisation (SCO), underpinned by comprehensive strategic partnership agreements with both Russia and China.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-05T12:29:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
       "text": "\ud83d\udea8 Houthis claim another Saudi oil tanker hit \nYemen's Houthis have said they carried out a ballistic missile strike on the Saudi tanker \"Wafa\" off Yanbu, northern Red Sea \u2014 scoring a direct hit.\nKey takeaways from the statement:\n\ud83c\udf0f 8th Saudi tanker [targeted since July 22](https://t.me/geopolitics_prime/72757)\n\ud83c\udf0f 29 other tankers forced to turn back\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
@@ -987,13 +1007,14 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
       "verified_sources": [
         "Alsaa Plus EN",
-        "Geopolitics Prime"
+        "Geopolitics Prime",
+        "Middle East Spectator"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 3
     },
     {
       "title": "Telegram",
@@ -1023,25 +1044,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-05T01:59:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udca5 WATCH: Russian Iskander missile SLAMS into Kiev region\nStunning footage reportedly shows an Iskander missile carrying cluster munitions striking the Kiev region.\nAdditional video shows a strike hitting Chaiky, followed by visible secondary explosions at the impact site.\nVyshgorod, north of Kiev, also came under missile attack.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-05T00:18:55+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
