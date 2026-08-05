@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T15:24:41.191103+00:00",
+  "generated_at": "2026-08-05T17:04:57.972511+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -332,7 +332,7 @@
       "publisher": "BBC World News",
       "severity": "info",
       "icon": "\ud83d\udcf0",
-      "timestamp": "2026-08-05T14:32:27+00:00",
+      "timestamp": "2026-08-05T16:06:30+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -363,8 +363,8 @@
       "verified_source_count": 1
     },
     {
-      "title": "What can scientists learn from a stray SpaceX rocket hitting the Moon?",
-      "text": "What can scientists learn from a stray SpaceX rocket hitting the Moon?\nWhile the collision was an accident, it is a unique scientific gift for planetary geologists that could provide important data for future space missions.",
+      "title": "Why some scientists are thrilled that a SpaceX rocket has crashed into the Moon",
+      "text": "Why some scientists are thrilled that a SpaceX rocket has crashed into the Moon\nWhile the collision was an accident, it is a unique scientific gift for planetary geologists that could provide important data for future space missions.",
       "source": "BBC",
       "source_type": "osint",
       "publisher": "BBC World News",
@@ -442,20 +442,20 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "At the same time as this report, the sound of ballistic missile launches was heard in Yemen.",
+      "publisher": "Clash Report",
+      "text": "The FAA is investigating a safety incident after President Donald Trump's Marine One helicopter and a departing Envoy Air passenger jet came closer than FAA rules allow near Ronald Reagan National Airport in Washington, D.C. \nThe incident reportedly occurred because air traffic controllers failed to halt commercial departures when Marine One took off. \nSource: The Guardian",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-04T23:26:31+00:00",
+      "timestamp": "2026-08-05T15:35:08+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Middle East Spectator"
+        "Clash Report"
       ],
       "verified_source_count": 1
     },
@@ -487,44 +487,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-05T14:45:19+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Explosive Drone Found Next to Ukrainian Cargo Plane in Germany\nA drone rigged with explosive nitrates was discovered meters from a Ukrainian Antonov cargo plane on tarmac at Leipzig/Halle Airport, which failed to detonate because detonator was severed.\n[READ MORE](https://clashreport.com/world/articles/explosive-drone-found-next-to-ukrainian-cargo-plane-in-germany-jho3pzz67kj)",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-05T13:29:34+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "A newly surfaced photo of Iran\u2019s Kheybar Shekan missile re-entry vehicle appears to confirm it is equipped with an advanced anti-jamming satellite guidance system and maneuverable warhead.\nIt indicates a significant upgrade in the missile\u2019s accuracy and resistance to electronic warfare.\nThe antenna closely resembles Chinese military GNSS designs, potentially pointing to Chinese technology or design influence.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-05T13:10:29+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -979,6 +941,25 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
+      "text": "\ud83d\ude80 Russia pounds Kiev logistics hubs and cripples Ukraine\u2019s military supply chain\nFacilities tied to Ukraine\u2019s Armed Forces and defense industry \u2013 hidden behind a civilian facade \u2013 went up in flames after a wave of Russian strikes. Kiev's attempt at playing the smartest player in the room have eventually backfired.\nWhich targets were hit?\n\ud83d\udfe5Ukrainian channels have compiled an extensive list of companies whose warehouse facilities were reportedly destroyed in Brovary, Obolon, Bucha, and other districts of the Kiev region:\nRetail:\n\u27a1\ufe0f [Novus](https://t.me/geopolitics_prime/73125)\n\u27a1\ufe0f [Rozetka](https://t.me/geopolitics_prime/73118)\n\u27a1\ufe0f Fozzy Group / Silpo Food\n\u27a1\ufe0f Epicentr K\n\u27a1\ufe0f Internop\n\u27a1\ufe0f PUMA\nLogistics & industry:\n\u27a1\ufe0f Nova Poshta\n\u27a1\ufe0f Raben Ukraine\n\u27a1\ufe0fBrokbridge\n\u27a1\ufe0f Plastmas Plant\n\u27a1\ufe0f Eurobeton\n\ud83c\udf0f German automotive chemicals giant Liqui Moly confirmed on social media the total destruction of its central product warehouse in Ukraine\n\ud83c\udf0f The Trans-Logistic and MLP-Chaika logistics centers in Kiev were also reportedly hit\n\ud83c\udf0f The total area of logistics centers affected by the explosions was estimated at around 300,000 square meters\nWhat role did they play in Ukraine's war effort? Russia's Defense Ministry provides a tip:\n\ud83d\udd34 Terminal Brovary logistics hub \u2013 was storing foreign-made and other drone components\n\ud83d\udd34 Raben Ukraine logistics center \u2013 a major distribution hub for drone parts and equipment\n\ud83d\udd34 Nova Poshta Brovary hub \u2013 a sorting complex storing aircraft-type drones and components\n\ud83d\udd34 Nova Poshta innovation terminal \u2013 a major automated sorting center handling dual-use goods, drone components, robotic systems, and electronic warfare equipment\n\ud83d\udd34 MLP-Chaika logistics hub \u2014 was used to store and distribute components for long- and medium-range drones\n\ud83d\udd34 Trans-Logistic hub \u2013 was involved in drone production, as well as storage and distribution of military supplies\n\ud83d\udd34 Epicentr K \u2013 a large automated warehouse handling dual-use goods and UAV components.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-05T15:57:43+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
       "text": "\ud83c\udf0f \ud83c\uddee\ud83c\uddf7 How Iran is expanding its geopolitical contest with the US and Israel beyond Middle East\nIran is not sitting on the sidelines as Gulf states, Israel and their Western allies extend their influence across Africa, Latin America and Asia \u2013 the Islamic Republic is playing its own geopolitical game.\nAfrica\nIran is accelerating its African outreach: after decades of ties, it made the continent a foreign policy priority in 2024 and convened three Iran-Africa summits between 2023 and 2025, attracting around 40 countries.\n\ud83d\udd34 Northern Africa\nAlongside Algeria, Iran seeks to counter[ growing US-Israeli influence in Morocco](https://t.me/geopolitics_prime/73024), opposing Rabat\u2019s entry into the Abraham Accords and rejecting [its claims over Western Sahara.](https://t.me/geopolitics_prime/73083) Reports have also pointed to Iranian support for the Polisario Front, the movement seeking independence for Western Sahara through the self-declared Sahrawi Arab Democratic Republic (SADR)\n\ud83d\udd34 Eastern Africa\nIran has reportedly backed President Abdel Fattah al-Burhan and the Sudanese Armed Forces (SAF), including via the supply of Mohajer-6 drones between December 2023 and January 2024. Notably, the SAF also enjoys Saudi support, while its rival, the Rapid Support Forces (RSF), is backed by the UAE \u2013 deeply allied with Israel\nAfter reviving ties with Kenya, Uganda and Zimbabwe in 2023, Iran formalized its long-standing military technical relationship with Ethiopia through a 2025 security and intelligence-sharing deal. Even as Ethiopia works with the UAE, it has[ kept its partnership with Iran on a separate track](https://t.me/geopolitics_prime/72095)\n\ud83d\udd34 Sahel\nAs Mali, Burkina Faso, Niger and Chad curtailed Western military presence between 2022 and 2025, Iran moved to expand its footprint in the Sahel through offers of military cooperation, energy and scientific assistance. Iran's deepening ties with Niger, formalized through 2025 security and cooperation pacts, rattled the US as it lost its military foothold in the African country in 2024.\nLatin America\nAs the Trump administration and Israel move to curb pro-independence governments in Latin America [through overt pressure and alleged electoral fraud](https://t.me/geopolitics_prime/71363), Iran's relations with Venezuela, Argentina and Bolivia have become strained. Nonetheless, it still maintains close ties with Brazil, Nicaragua and Cuba. Iran's Latin American pivot is driven by [resistance to US pressure and the pursuit of multipolarity](https://t.me/geopolitics_prime/69825)\nAsia\n\ud83d\udd34 China serves as Iran's primary economic lifeline, purchasing the vast majority of its oil exports, while India is involved in its major infrastructure projects such as the [Chabahar Port and the International North-South Transport Corridor ](https://t.me/geopolitics_prime/66600)\n\ud83d\udd34 Iran and North Korea maintain a decades-long strategic partnership rooted in their shared resistance to the West\n\ud83d\udd34 Iran has also consolidated relations with Kazakhstan, Uzbekistan, Turkmenistan, Kyrgyzstan, and especially Tajikistan, which it sees [as a brotherly nation.](https://t.me/geopolitics_prime/72150) The five \"stans\" remain engaged with Iran despite growing [overtures from the EU, Israel, and Turkey](https://t.me/geopolitics_prime/71609)\nIran is further expanding its global reach through BRICS+ and the Shanghai Cooperation Organisation (SCO), underpinned by comprehensive strategic partnership agreements with both Russia and China.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
@@ -1015,44 +996,6 @@
         "Middle East Spectator"
       ],
       "verified_source_count": 3
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddee\ud83c\uddf7\ud83d\udccdWhy Strait of Hormuz is Iran\u2019s equivalent of the US dollar and China\u2019s rare earths\nShipping may soon resume in the strait, but only after the world accepts a new reality: Iran's effective control over the strategic waterway, the New York Times reports.\nIran and Oman are purportedly close to signing a deal to regulate shipping through the Strait of Hormuz:\n\ud83c\udf0f vessels heading into the Persian Gulf will transit a channel near Iran\n\ud83c\udf0f ships leaving the Gulf will travel on a channel near Oman\n\ud83c\udf0f Iran will control inbound shipping and, in effect, outbound shipping as well, since it will oversee traffic and intervene if necessary\n\ud83c\udf0f the agreement will impose a \u201cservice fee\u201d to cover environmental, security and staffing costs with revenues being divided equally between Iran and Oman\n\ud83c\udf0f from now on, Iran will wield strategic leverage over the strait in a way it never did before the Trump administration's intervention\nStrait of Hormuz as a counterweight to US dollar weapon\nFor Iran, the Strait of Hormuz is a strategic asset comparable to the US dollar or[ China's dominance in rare earths](https://t.me/geopolitics_prime/72149), argues Policy Tensor.\nIran\u2019s strategy would not necessarily involve a blanket closure of the strait. Friendly nations could continue to pass through, while access could be granted to others willing to pay for passage and comply with Iranian conditions.\nThe Islamic Republic can calibrate the economic pain it inflicts, applying maximum pressure on its adversaries without triggering unnecessary global fallout. By keeping channels for negotiation open, it also preserves the image of a rational and pragmatic actor \u2013 one it contrasts with the US and its allies. That is why Iran is unlikely ever to surrender its grip on the Strait of Hormuz.\nChess grandmaster\nIran is not just committed to retaining its leverage over the Strait; it has a calculated strategy to protect it and [enjoys escalation dominance in the region](https://t.me/geopolitics_prime/72799):\n\u2666\ufe0f Iran offsets the US threat to annihilate its energy infrastructure by threatening further strikes on oil and gas facilities across the Gulf\n\u2666\ufe0f Trump's threat to cut off Iran's power was met with a warning that the Gulf's lights could go out instead \u2013 not to mention the[ region's desalination plants](https://t.me/geopolitics_prime/68598), on which Israel and the Gulf monarchies depend, while Iran does not \n\u2666\ufe0f A prolonged US blockade of the Strait of Hormuz could be countered by[ closing the Bab el-Mandeb Strait ](https://t.me/geopolitics_prime/72095)to unfriendly nations\n\u2666\ufe0f Iran responded to US threats against civilians by threatening to kill one US soldier for every civilian casualty, as outlined by Major General Ali Abdollahi\n\u2666\ufe0f The timing is also significant: Trump has been boxed in just before the midterm elections that could shape the remainder of his second term\nIran's grand design\nSome experts argue that Iran is exploiting the moment asymmetrically to emerge as a new global power: controlling a strategic maritime chokepoint, projecting influence across the region, and deepening geopolitical ties beyond it \u2013 from Africa to Latin America.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-05T06:10:21+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddf8\ud83c\uddfe\ud83c\uddee\ud83c\uddf1 As Israel eats Syria alive, Sharaa clings to peace promises\n\u00a0\nIsraeli forces launched a new incursion into the southwestern Syrian province of Quneitra on Sunday, establishing a checkpoint along a road linking the villages of al-Hiran and al-Rafid.\nA day earlier, Israeli troops carried out a similar operation in the village of al-Ajraf in Quneitra\u2019s north, setting up a checkpoint, erecting a surveillance camera and leaving.\nAlso Saturday, the IDF moved into the Wadi al-Raqad area in Dara\u2019a, creating a checkpoint on a local bridge and searching a residential home. In neighboring Maariya and Al-Aarda, troops set up another checkpoint, searched homes, stopped residents from cultivating their land, distributed leaflets warning them not to obstruct their activities, and damaged an electrical transformer, cutting power to one of the villages.\n\u00a0\nThe weekend\u2019s incidents are part of a well-established pattern going back to late 2024. After the collapse of the Assad government, Israel launched [a ground invasion](https://t.me/geopolitics_prime/64690):\n\u27a1\ufe0f capturing up to 350 sq km beyond already occupied areas of the Golan Heights\n\u27a1\ufe0fseizing Mount Hermon \u2013 putting Israel within artillery striking range of Damascus\n\u27a1\ufe0f advancing 12km deep into the Quneitra countryside, establishing forward bases, laying mines and conducting raids\n\u27a1\ufe0fseizing control of the trilateral border area where Israel, Syria and Jordan meet, taking over Al-Wehda Dam, a vital local cross-border water lifeline providing drinking and agricultural irrigation water to local communities\n\u27a1\ufe0f preemptively wiping out 70-80% of Baathist Syria\u2019s military capabilities, including its air defenses, Navy, Air Force, and long-range ballistic and cruise missiles, plus electricity, water and IT infrastructure\n[Terrorist-turned president Ahmed al-Sharaa\u2019s](https://t.me/geopolitics_prime/73035) responded by making fresh promises last week to ink a security deal with Israel that he says could flower into a comprehensive peace agreement.\nHe\u2019d better hurry and reach a deal, or Tel Aviv might ramp up its \u2018Greater Israel\u2019 appetites and leave nothing of Syria but a Bantustan Damascus governorate. But knowing Sharaa\u2019s [allegiances and nature](https://t.me/c/3955555543/1120), he\u2019d probably be content with that too, so long as there were still [minority communities](https://t.me/geopolitics_prime/72833) to terrorize.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-05T01:59:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
     },
     {
       "title": "Telegram",
