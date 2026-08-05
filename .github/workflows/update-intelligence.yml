@@ -3,8 +3,10 @@ name: Update Intelligence
 on:
   workflow_dispatch:
   schedule:
-    # Every 5 minutes.
-    - cron: '*/5 * * * *'
+    # Every 15 minutes. (5 minutes was too aggressive - GitHub's scheduler
+    # doesn't reliably fire that often for personal/free-tier repos; runs
+    # were being silently skipped rather than just delayed.)
+    - cron: '*/15 * * * *'
 
 permissions:
   contents: write
@@ -35,6 +37,8 @@ jobs:
           TELEGRAM_SESSION: ${{ secrets.TELEGRAM_SESSION }}
           INSTAGRAM_USERNAME: ${{ secrets.INSTAGRAM_USERNAME }}
           INSTAGRAM_PASSWORD: ${{ secrets.INSTAGRAM_PASSWORD }}
+          ACLED_USERNAME: ${{ secrets.ACLED_USERNAME }}
+          ACLED_PASSWORD: ${{ secrets.ACLED_PASSWORD }}
         run: |
           python scripts/fetch_intel.py
 

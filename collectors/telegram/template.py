@@ -11,11 +11,11 @@ async def collect_channel(
 
     client = get_client()
 
-    await client.start()
-
     events = []
 
     try:
+
+        await client.start()
 
         entity = await client.get_entity(channel)
 
@@ -56,7 +56,16 @@ async def collect_channel(
 
         print(f"{publisher} error:", e)
 
-    await client.disconnect()
+    finally:
+
+        # Was previously outside the try block: if client.start() itself
+        # failed (bad session, auth issue), disconnect() never ran and
+        # the connection could be left half-open. In a one-shot script
+        # this doesn't matter (the process exits right after), but
+        # watch_intel.py runs this in a loop indefinitely, so a
+        # persistently-failing channel could otherwise leak a connection
+        # on every single cycle.
+        await client.disconnect()
 
     print(f"{publisher} events: {len(events)}")
 

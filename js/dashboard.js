@@ -43,13 +43,33 @@ function clock() {
             });
     }
 
-    // "Feed checked X ago" - proof the 25s poll loop is actually alive,
+    // "Page synced X ago" - proof the 25s poll loop is actually alive,
     // independent of whether the newest article itself is old (a source
-    // simply not posting anything new isn't a polling failure).
+    // simply not posting anything new isn't a polling failure). Worded
+    // carefully: this is NOT "nothing has happened in the world" - it's
+    // only "the browser successfully re-read the data file". The
+    // underlying collectors only run every 15 minutes, so a real event
+    // can take up to that long to even reach this file in the first
+    // place, no matter how instantly the page re-checks it.
     const checkedEl = document.getElementById("feedCheckedAt");
     if (checkedEl && window.lastFeedCheckAt) {
         checkedEl.textContent =
-            "Checked " + (typeof timeAgo === "function" ? timeAgo(window.lastFeedCheckAt.toISOString()) : "recently");
+            "Page synced " + (typeof timeAgo === "function" ? timeAgo(window.lastFeedCheckAt.toISOString()) : "recently");
+        checkedEl.title = "This only means the page re-read the data file just now - not that nothing new has happened. " +
+            "The collectors that gather new intelligence run every ~15 minutes, so a real event can take up to that long to appear here at all.";
+    }
+
+    // The real fact: when the collectors themselves last actually ran
+    // (from the data file's own generated_at), as opposed to "the page
+    // re-read whatever file currently exists" above.
+    const collectedEl = document.getElementById("feedCollectedAt");
+    if (collectedEl) {
+        if (window.lastCollectionAt) {
+            collectedEl.textContent =
+                "Data collected " + (typeof timeAgo === "function" ? timeAgo(window.lastCollectionAt.toISOString()) : "recently");
+        } else {
+            collectedEl.textContent = "";
+        }
     }
 
 }
@@ -322,6 +342,52 @@ if (mapExpand) {
     });
 
 }
+
+// =====================
+// "VIEW ALL" BUTTONS
+// =====================
+// These three had no click handler at all - completely dead, same class
+// of bug as the sidebar nav items earlier. There's no separate "full
+// list" page built for any of them, so each gets the most honest useful
+// behavior available right now rather than doing nothing.
+
+let czibShowAll = false;
+
+document.getElementById("viewAllCZIB")?.addEventListener("click", function () {
+
+    czibShowAll = !czibShowAll;
+
+    this.textContent = czibShowAll ? "‹ Show Active Only" : "View All CZIB ›";
+
+    if (window.czibData) renderCZIBList(window.czibData, czibShowAll);
+
+});
+
+document.getElementById("viewAllIntel")?.addEventListener("click", () => {
+
+    setFeedTab("all");
+
+    ["filterCritical", "filterWarning", "filterInfo"].forEach(id => {
+        const el = document.getElementById(id);
+        if (el) el.checked = true;
+    });
+
+    document.querySelectorAll(".sourceFilter").forEach(cb => cb.checked = true);
+
+    renderIntelFeed();
+    highlightPanel("sidebar");
+
+});
+
+document.getElementById("viewAllSources")?.addEventListener("click", () => {
+
+    // Nothing is hidden/truncated in this list today - every source seen
+    // in the current feed is already shown - so there's no extra state
+    // to reveal. Flash it so the click still visibly does something
+    // instead of silently doing nothing.
+    highlightPanel("sourceStatusPanel");
+
+});
 
 // =====================
 // INITIALIZE

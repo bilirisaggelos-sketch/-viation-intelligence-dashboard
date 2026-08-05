@@ -18,7 +18,6 @@ you don't need to refresh the browser.
 """
 
 import argparse
-import json
 import sys
 import time
 from datetime import datetime, timezone
@@ -27,7 +26,7 @@ from pathlib import Path
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
 sys.path.append(str(PROJECT_ROOT))
 
-from collectors.manager import collect_all
+from collectors.manager import collect_all, write_output
 
 
 def run_once():
@@ -42,8 +41,7 @@ def run_once():
 
     output_path = PROJECT_ROOT / "data" / "live-intel.json"
 
-    with open(output_path, "w", encoding="utf-8") as f:
-        json.dump(events, f, indent=2)
+    write_output(events, output_path)
 
     took = time.time() - started
 

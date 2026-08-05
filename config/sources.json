@@ -15,20 +15,28 @@
     {
       "name": "UKMTO",
       "enabled": false
-    },
-    {
-      "name": "Eurocontrol",
-      "enabled": false
     }
   ],
 
   "trusted": [
     {
       "name": "ISW",
+      "module": "isw",
+      "enabled": true
+    },
+    {
+      "name": "BBC World",
+      "module": "bbc_world",
+      "enabled": true
+    },
+    {
+      "name": "Middle East Eye",
+      "module": "middle_east_eye",
       "enabled": false
     },
     {
-      "name": "Reuters",
+      "name": "ACLED",
+      "module": "acled",
       "enabled": false
     }
   ],
@@ -73,6 +81,21 @@
       "name": "Geopolitics Prime",
       "module": "geopolitics_prime",
       "enabled": true
+    },
+    {
+      "name": "OSINTtechnical",
+      "module": "osint_technical",
+      "enabled": true
+    },
+    {
+      "name": "Faytuks News",
+      "module": "faytuks_news",
+      "enabled": true
+    },
+    {
+      "name": "Calibre Obscura",
+      "module": "calibre_obscura",
+      "enabled": true
     }
   ],
 
@@ -81,6 +104,11 @@
       "name": "Aviation Safety Intel",
       "module": "example_source",
       "enabled": false
+    },
+    {
+      "name": "OSINT Defender",
+      "module": "osintdefender",
+      "enabled": true
     }
   ]
 }

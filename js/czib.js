@@ -81,7 +81,7 @@ async function loadCZIBData() {
         // Active CZIB list panel
         // -----------------------
 
-        renderCZIBList(data);
+        renderCZIBList(data, typeof czibShowAll !== "undefined" ? czibShowAll : false);
 
         // -----------------------
         // Active Counter
@@ -127,23 +127,25 @@ async function loadCZIBData() {
 // ACTIVE CZIB LIST PANEL
 // =====================
 
-function renderCZIBList(data) {
+function renderCZIBList(data, showAll = false) {
 
     const list = document.getElementById("czibList");
 
     if (!list) return;
 
-    const active = data
-        .filter(x => x.status === "Active")
-        .sort((a, b) => new Date(b.issued) - new Date(a.issued));
+    const rows = showAll
+        ? [...data].sort((a, b) => new Date(b.issued) - new Date(a.issued))
+        : data
+            .filter(x => x.status === "Active")
+            .sort((a, b) => new Date(b.issued) - new Date(a.issued));
 
-    list.innerHTML = active.map(item => `
+    list.innerHTML = rows.map(item => `
         <div class="czibRow" onclick="showCountry('${item.country.replace(/'/g, "\\'")}')">
             <span class="flag">${countryFlag(item.country)}</span>
             <span class="country">${item.country}</span>
-            <span class="ago">${timeAgo(item.issued)}</span>
+            <span class="ago">${showAll ? item.status : timeAgo(item.issued)}</span>
         </div>
-    `).join("") || "<div class='czibRow'><span class='country'>No active CZIB advisories</span></div>";
+    `).join("") || `<div class='czibRow'><span class='country'>No ${showAll ? "" : "active "}CZIB advisories</span></div>`;
 
 }
 

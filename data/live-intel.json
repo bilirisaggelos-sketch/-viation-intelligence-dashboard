@@ -1,1058 +1,1061 @@
-[
-  {
-    "title": "FAA SECURITY",
-    "text": "FAA SECURITY TFR\nPhiladelphia, PA, Tuesday, July 14, 2026 Local\nFacility: ZDC",
-    "source": "FAA",
-    "source_type": "official",
-    "publisher": "Federal Aviation Administration",
-    "severity": "critical",
-    "icon": "\ud83d\udea8",
-    "timestamp": "07/13/2026",
-    "location": "ZDC PA",
-    "lat": null,
-    "lon": null,
-    "verification_status": "OFFICIAL",
-    "verification_confidence": 100,
-    "verified_sources": [
-      "Federal Aviation Administration"
-    ],
-    "verified_source_count": 1
-  },
-  {
-    "title": "FAA SECURITY",
-    "text": "FAA SECURITY TFR\nPell City, AL, Saturday, July 11, 2026 through Thursday, July 16, 2026 Local\nFacility: ZTL",
-    "source": "FAA",
-    "source_type": "official",
-    "publisher": "Federal Aviation Administration",
-    "severity": "critical",
-    "icon": "\ud83d\udea8",
-    "timestamp": "07/11/2026",
-    "location": "ZTL AL",
-    "lat": null,
-    "lon": null,
-    "verification_status": "OFFICIAL",
-    "verification_confidence": 100,
-    "verified_sources": [
-      "Federal Aviation Administration"
-    ],
-    "verified_source_count": 1
-  },
-  {
-    "title": "FAA SECURITY",
-    "text": "FAA SECURITY TFR\nLaurel, MD, Monday, July 13, 2026 Local\nFacility: ZDC",
-    "source": "FAA",
-    "source_type": "official",
-    "publisher": "Federal Aviation Administration",
-    "severity": "critical",
-    "icon": "\ud83d\udea8",
-    "timestamp": "07/11/2026",
-    "location": "ZDC MD",
-    "lat": null,
-    "lon": null,
-    "verification_status": "OFFICIAL",
-    "verification_confidence": 100,
-    "verified_sources": [
-      "Federal Aviation Administration"
-    ],
-    "verified_source_count": 1
-  },
-  {
-    "title": "FAA SECURITY",
-    "text": "FAA SECURITY TFR\nEl Centro, CA, Wednesday, July 15, 2026 through Tuesday, July 13, 2027 Local\nFacility: ZLA",
-    "source": "FAA",
-    "source_type": "official",
-    "publisher": "Federal Aviation Administration",
-    "severity": "critical",
-    "icon": "\ud83d\udea8",
-    "timestamp": "07/10/2026",
-    "location": "ZLA CA",
-    "lat": null,
-    "lon": null,
-    "verification_status": "OFFICIAL",
-    "verification_confidence": 100,
-    "verified_sources": [
-      "Federal Aviation Administration"
-    ],
-    "verified_source_count": 1
-  },
-  {
-    "title": "FAA SECURITY",
-    "text": "FAA SECURITY TFR\nAtlanta, GA, Wednesday, July 15, 2026 through Wednesday, July 15, 2026 Local\nFacility: ZTL",
-    "source": "FAA",
-    "source_type": "official",
-    "publisher": "Federal Aviation Administration",
-    "severity": "critical",
-    "icon": "\ud83d\udea8",
-    "timestamp": "07/10/2026",
-    "location": "ZTL GA",
-    "lat": null,
-    "lon": null,
-    "verification_status": "OFFICIAL",
-    "verification_confidence": 100,
-    "verified_sources": [
-      "Federal Aviation Administration"
-    ],
-    "verified_source_count": 1
-  },
-  {
-    "title": "FAA SECURITY",
-    "text": "FAA SECURITY TFR\nDallas, TX, Tuesday, July 14, 2026 through Tuesday, July 14, 2026 Local\nFacility: ZFW",
-    "source": "FAA",
-    "source_type": "official",
-    "publisher": "Federal Aviation Administration",
-    "severity": "critical",
-    "icon": "\ud83d\udea8",
-    "timestamp": "07/10/2026",
-    "location": "ZFW TX",
-    "lat": null,
-    "lon": null,
-    "verification_status": "OFFICIAL",
-    "verification_confidence": 100,
-    "verified_sources": [
-      "Federal Aviation Administration"
-    ],
-    "verified_source_count": 1
-  },
-  {
-    "title": "FAA SECURITY",
-    "text": "FAA SECURITY TFR\nNew York, NY, Thursday, July 16, 2026 through Sunday, July 19, 2026 Local\nFacility: ZNY",
-    "source": "FAA",
-    "source_type": "official",
-    "publisher": "Federal Aviation Administration",
-    "severity": "critical",
-    "icon": "\ud83d\udea8",
-    "timestamp": "07/10/2026",
-    "location": "ZNY NY",
-    "lat": null,
-    "lon": null,
-    "verification_status": "OFFICIAL",
-    "verification_confidence": 100,
-    "verified_sources": [
-      "Federal Aviation Administration"
-    ],
-    "verified_source_count": 1
-  },
-  {
-    "title": "FAA SECURITY",
-    "text": "FAA SECURITY TFR\nDallas, TX, Tuesday, July 14, 2026 through Sunday, July 19, 2026 Local\nFacility: ZFW",
-    "source": "FAA",
-    "source_type": "official",
-    "publisher": "Federal Aviation Administration",
-    "severity": "critical",
-    "icon": "\ud83d\udea8",
-    "timestamp": "07/10/2026",
-    "location": "ZFW TX",
-    "lat": null,
-    "lon": null,
-    "verification_status": "OFFICIAL",
-    "verification_confidence": 100,
-    "verified_sources": [
-      "Federal Aviation Administration"
-    ],
-    "verified_source_count": 1
-  },
-  {
-    "title": "FAA SECURITY",
-    "text": "FAA SECURITY TFR\nFt. Lauderdale, FL\nFacility: ZMA",
-    "source": "FAA",
-    "source_type": "official",
-    "publisher": "Federal Aviation Administration",
-    "severity": "critical",
-    "icon": "\ud83d\udea8",
-    "timestamp": "07/09/2026",
-    "location": "ZMA FL",
-    "lat": null,
-    "lon": null,
-    "verification_status": "OFFICIAL",
-    "verification_confidence": 100,
-    "verified_sources": [
-      "Federal Aviation Administration"
-    ],
-    "verified_source_count": 1
-  },
-  {
-    "title": "FAA SECURITY",
-    "text": "FAA SECURITY TFR\nBoston, MA, Saturday, July 11, 2026 through Thursday, July 16, 2026 Local\nFacility: ZBW",
-    "source": "FAA",
-    "source_type": "official",
-    "publisher": "Federal Aviation Administration",
-    "severity": "critical",
-    "icon": "\ud83d\udea8",
-    "timestamp": "07/07/2026",
-    "location": "ZBW MA",
-    "lat": null,
-    "lon": null,
-    "verification_status": "OFFICIAL",
-    "verification_confidence": 100,
-    "verified_sources": [
-      "Federal Aviation Administration"
-    ],
-    "verified_source_count": 1
-  },
-  {
-    "title": "FAA SECURITY",
-    "text": "FAA SECURITY TFR\nAtlanta, GA, Saturday, July 11, 2026 through Tuesday, July 14, 2026 Local\nFacility: ZTL",
-    "source": "FAA",
-    "source_type": "official",
-    "publisher": "Federal Aviation Administration",
-    "severity": "critical",
-    "icon": "\ud83d\udea8",
-    "timestamp": "07/06/2026",
-    "location": "ZTL GA",
-    "lat": null,
-    "lon": null,
-    "verification_status": "OFFICIAL",
-    "verification_confidence": 100,
-    "verified_sources": [
-      "Federal Aviation Administration"
-    ],
-    "verified_source_count": 1
-  },
-  {
-    "title": "FAA SECURITY",
-    "text": "FAA SECURITY TFR\nPhiladelphia, PA, Friday, July 10, 2026 through Tuesday, July 14, 2026 Local\nFacility: ZDC",
-    "source": "FAA",
-    "source_type": "official",
-    "publisher": "Federal Aviation Administration",
-    "severity": "critical",
-    "icon": "\ud83d\udea8",
-    "timestamp": "07/06/2026",
-    "location": "ZDC PA",
-    "lat": null,
-    "lon": null,
-    "verification_status": "OFFICIAL",
-    "verification_confidence": 100,
-    "verified_sources": [
-      "Federal Aviation Administration"
-    ],
-    "verified_source_count": 1
-  },
-  {
-    "title": "FAA SECURITY",
-    "text": "FAA SECURITY TFR\nClear, AK\nFacility: ZAN",
-    "source": "FAA",
-    "source_type": "official",
-    "publisher": "Federal Aviation Administration",
-    "severity": "critical",
-    "icon": "\ud83d\udea8",
-    "timestamp": "07/05/2026",
-    "location": "ZAN AK",
-    "lat": null,
-    "lon": null,
-    "verification_status": "OFFICIAL",
-    "verification_confidence": 100,
-    "verified_sources": [
-      "Federal Aviation Administration"
-    ],
-    "verified_source_count": 1
-  },
-  {
-    "title": "Space Weather Message Code: ALTEF3\r",
-    "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3716\r\nIssue Time: 2026 Jul 13 1027 UTC\r\n\r\nCONTINUED ALERT: Electron 2MeV Integral Flux exceeded 1000pfu\nContinuation of Serial Number: 3715\nBegin Time: 2026 Jul 10 1126 UTC\nYesterday Maximum 2MeV Flux: 3729 pfu\nYesterday's max: 3,730 pfu\r\nYesterday's max: 3,730 pfu",
-    "source": "NOAA Space Weather",
-    "source_type": "official",
-    "publisher": "NOAA Space Weather Prediction Center",
-    "severity": "warning",
-    "icon": "\ud83d\udef0\ufe0f",
-    "timestamp": "2026-07-13 10:27:53.953",
-    "location": "Global",
-    "lat": null,
-    "lon": null,
-    "verification_status": "OFFICIAL",
-    "verification_confidence": 100,
-    "verified_sources": [
-      "NOAA Space Weather Prediction Center"
-    ],
-    "verified_source_count": 1
-  },
-  {
-    "title": "Space Weather Message Code: WARK05\r",
-    "text": "Space Weather Message Code: WARK05\r\nSerial Number: 2250\r\nIssue Time: 2026 Jul 12 2101 UTC\r\n\r\nCANCEL WARNING: Geomagnetic K-index of 5 expected \nCancel Serial Number: 2249\nOriginal Issue Time: 2026 Jul 12 1411 UTC\nShould have only been valid until 12/2100 UTC.\r\nShould have only been valid until 12/2100 UTC.NOAA Scale: G1 - Minor\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
-    "source": "NOAA Space Weather",
-    "source_type": "official",
-    "publisher": "NOAA Space Weather Prediction Center",
-    "severity": "warning",
-    "icon": "\ud83d\udef0\ufe0f",
-    "timestamp": "2026-07-12 21:01:57.203",
-    "location": "Global",
-    "lat": null,
-    "lon": null,
-    "verification_status": "OFFICIAL",
-    "verification_confidence": 100,
-    "verified_sources": [
-      "NOAA Space Weather Prediction Center"
-    ],
-    "verified_source_count": 1
-  },
-  {
-    "title": "Space Weather Message Code: ALTK05\r",
-    "text": "Space Weather Message Code: ALTK05\r\nSerial Number: 2039\r\nIssue Time: 2026 Jul 12 1503 UTC\r\n\r\nALERT: Geomagnetic K-index of 5 \nThreshold Reached: 2026 Jul 12 1459 UTC\nSynoptic Period: 1200-1500\nActive Warning: YES\nNoaa Scale: G1 - Minor\nComment: \r\nNOAA Scale: G1 - Minor\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
-    "source": "NOAA Space Weather",
-    "source_type": "official",
-    "publisher": "NOAA Space Weather Prediction Center",
-    "severity": "warning",
-    "icon": "\ud83d\udef0\ufe0f",
-    "timestamp": "2026-07-12 15:03:18.830",
-    "location": "Global",
-    "lat": null,
-    "lon": null,
-    "verification_status": "OFFICIAL",
-    "verification_confidence": 100,
-    "verified_sources": [
-      "NOAA Space Weather Prediction Center"
-    ],
-    "verified_source_count": 1
-  },
-  {
-    "title": "Space Weather Message Code: WARK05\r",
-    "text": "Space Weather Message Code: WARK05\r\nSerial Number: 2249\r\nIssue Time: 2026 Jul 12 1411 UTC\r\n\r\nWARNING: Geomagnetic K-index of 5 expected \nValid From: 2026 Jul 12 1410 UTC\nValid To: 2026 Jul 13 2100 UTC\nWarning Conditions: Onset\nNoaa Scale: G1 - Minor\nComment: \r\nNOAA Scale: G1 - Minor\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
-    "source": "NOAA Space Weather",
-    "source_type": "official",
-    "publisher": "NOAA Space Weather Prediction Center",
-    "severity": "warning",
-    "icon": "\ud83d\udef0\ufe0f",
-    "timestamp": "2026-07-12 14:11:40.570",
-    "location": "Global",
-    "lat": null,
-    "lon": null,
-    "verification_status": "OFFICIAL",
-    "verification_confidence": 100,
-    "verified_sources": [
-      "NOAA Space Weather Prediction Center"
-    ],
-    "verified_source_count": 1
-  },
-  {
-    "title": "Space Weather Message Code: ALTEF3\r",
-    "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3715\r\nIssue Time: 2026 Jul 12 0532 UTC\r\n\r\nCONTINUED ALERT: Electron 2MeV Integral Flux exceeded 1000pfu\nContinuation of Serial Number: 3714\nBegin Time: 2026 Jul 10 1126 UTC\nYesterday Maximum 2MeV Flux: 4620 pfu\nYesterday's max: 4,620 pfu\r\nYesterday's max: 4,620 pfu",
-    "source": "NOAA Space Weather",
-    "source_type": "official",
-    "publisher": "NOAA Space Weather Prediction Center",
-    "severity": "warning",
-    "icon": "\ud83d\udef0\ufe0f",
-    "timestamp": "2026-07-12 05:32:05.277",
-    "location": "Global",
-    "lat": null,
-    "lon": null,
-    "verification_status": "OFFICIAL",
-    "verification_confidence": 100,
-    "verified_sources": [
-      "NOAA Space Weather Prediction Center"
-    ],
-    "verified_source_count": 1
-  },
-  {
-    "title": "Telegram",
-    "publisher": "Middle East Spectator",
-    "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea Saudi Ministry of Defense: \u2018Air defenses of the Kingdom dealt with ballistic missiles launched by the Houthi terrorists in the southern regions. The situation is under control.\u2019",
-    "source": "Telegram",
-    "source_type": "telegram",
-    "severity": "warning",
-    "icon": "\ud83d\udce2",
-    "timestamp": "2026-07-13T17:17:32+00:00",
-    "location": "Global",
-    "lat": null,
-    "lon": null,
-    "verification_status": "PARTIALLY VERIFIED",
-    "verification_confidence": 65,
-    "verified_sources": [
-      "Alsaa Plus EN",
-      "Middle East Spectator"
-    ],
-    "verified_source_count": 2
-  },
-  {
-    "title": "Telegram",
-    "publisher": "Middle East Spectator",
-    "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea BREAKING: The Yemeni Armed Forces have targeted Abha International Airport and King Khalid Airbase in Saudi Arabia with ballistic missiles and suicide drones",
-    "source": "Telegram",
-    "source_type": "telegram",
-    "severity": "warning",
-    "icon": "\ud83d\udce2",
-    "timestamp": "2026-07-13T17:12:39+00:00",
-    "location": "Global",
-    "lat": null,
-    "lon": null,
-    "verification_status": "PARTIALLY VERIFIED",
-    "verification_confidence": 65,
-    "verified_sources": [
-      "Geopolitics Prime",
-      "Middle East Spectator"
-    ],
-    "verified_source_count": 2
-  },
-  {
-    "title": "Telegram",
-    "publisher": "Middle East Spectator",
-    "text": "\u2014 \ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7 NEW: The U.S. released footage using naval suicide drones against Iranian military dockyards",
-    "source": "Telegram",
-    "source_type": "telegram",
-    "severity": "warning",
-    "icon": "\ud83d\udce2",
-    "timestamp": "2026-07-13T14:48:45+00:00",
-    "location": "Global",
-    "lat": null,
-    "lon": null,
-    "verification_status": "PARTIALLY VERIFIED",
-    "verification_confidence": 65,
-    "verified_sources": [
-      "Geopolitics Prime",
-      "Middle East Spectator"
-    ],
-    "verified_source_count": 2
-  },
-  {
-    "title": "Telegram",
-    "publisher": "Middle East Spectator",
-    "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea WATCH: Close up footage of Saudi Arabia bombing Yemen\u2019s Sanaa Airport",
-    "source": "Telegram",
-    "source_type": "telegram",
-    "severity": "warning",
-    "icon": "\ud83d\udce2",
-    "timestamp": "2026-07-13T12:56:21+00:00",
-    "location": "Global",
-    "lat": null,
-    "lon": null,
-    "verification_status": "PARTIALLY VERIFIED",
-    "verification_confidence": 65,
-    "verified_sources": [
-      "Geopolitics Prime",
-      "Middle East Spectator"
-    ],
-    "verified_source_count": 2
-  },
-  {
-    "title": "Telegram",
-    "publisher": "Clash Report",
-    "text": "The Houthis reportedly launched at least six missiles toward Saudi Arabia.",
-    "source": "Telegram",
-    "source_type": "telegram",
-    "severity": "warning",
-    "icon": "\ud83d\udce2",
-    "timestamp": "2026-07-13T17:11:07+00:00",
-    "location": "Global",
-    "lat": null,
-    "lon": null,
-    "verification_status": "UNVERIFIED",
-    "verification_confidence": 30,
-    "verified_sources": [
-      "Clash Report"
-    ],
-    "verified_source_count": 1
-  },
-  {
-    "title": "Telegram",
-    "publisher": "Clash Report",
-    "text": "EXCLUSIVE: A second Chinese-made CH-95 drone supplied by the UAE to the RSF terror group was destroyed on the ground by Sudan Army\u2019s Bayraktar AKINCI drone.",
-    "source": "Telegram",
-    "source_type": "telegram",
-    "severity": "warning",
-    "icon": "\ud83d\udce2",
-    "timestamp": "2026-07-13T16:39:33+00:00",
-    "location": "Global",
-    "lat": null,
-    "lon": null,
-    "verification_status": "UNVERIFIED",
-    "verification_confidence": 30,
-    "verified_sources": [
-      "Clash Report"
-    ],
-    "verified_source_count": 1
-  },
-  {
-    "title": "Telegram",
-    "publisher": "Clash Report",
-    "text": "EXCLUSIVE: Sudan Army\u2019s Bayraktar AKINCI drone shot down a Chinese-made CH-95 drone supplied by the UAE to the RSF terror group, using an air-to-air missile.",
-    "source": "Telegram",
-    "source_type": "telegram",
-    "severity": "warning",
-    "icon": "\ud83d\udce2",
-    "timestamp": "2026-07-13T16:04:00+00:00",
-    "location": "Global",
-    "lat": null,
-    "lon": null,
-    "verification_status": "UNVERIFIED",
-    "verification_confidence": 30,
-    "verified_sources": [
-      "Clash Report"
-    ],
-    "verified_source_count": 1
-  },
-  {
-    "title": "Telegram",
-    "publisher": "Clash Report",
-    "text": "U.S. forces used sea drones in combat for the first time, striking an Iranian naval maintenance facility at Bandar Abbas.",
-    "source": "Telegram",
-    "source_type": "telegram",
-    "severity": "warning",
-    "icon": "\ud83d\udce2",
-    "timestamp": "2026-07-13T14:53:13+00:00",
-    "location": "Global",
-    "lat": null,
-    "lon": null,
-    "verification_status": "UNVERIFIED",
-    "verification_confidence": 30,
-    "verified_sources": [
-      "Clash Report"
-    ],
-    "verified_source_count": 1
-  },
-  {
-    "title": "Telegram",
-    "publisher": "Our Wars Today",
-    "text": "[Iran's IRNA says 'enemy' launches missiles towards Qeshm Island](https://www.reuters.com/world/middle-east/irans-irna-says-enemy-launches-missiles-towards-qeshm-island-2026-07-12/)\nIran's IRNA \u200bstate \u200cnews agency \u200bsaid \u200bmissiles were launched \u2060by \u200bthe \"enemy\" \u200btowards Qeshm Island \u200bon \u200bSunday afternoon, adding \u200cthat \u2060no casualties were \u200breported. t.me/ourwarstoday \u2013 t.me/ournewsfeedtoday\nReuters | reuters\u200b.com \u2022 Jul 12, 2026",
-    "source": "Telegram",
-    "source_type": "telegram",
-    "severity": "warning",
-    "icon": "\ud83d\udce2",
-    "timestamp": "2026-07-13T03:42:31+00:00",
-    "location": "Global",
-    "lat": null,
-    "lon": null,
-    "verification_status": "UNVERIFIED",
-    "verification_confidence": 30,
-    "verified_sources": [
-      "Our Wars Today"
-    ],
-    "verified_source_count": 1
-  },
-  {
-    "title": "Telegram",
-    "publisher": "Our Wars Today",
-    "text": "[Trump says missiles aimed at Iran if Tehran targets US president](https://www.reuters.com/world/middle-east/trump-says-missiles-aimed-iran-if-tehran-targets-us-president-2026-07-11/)\nU.S. President Donald Trump said on Friday he had ordered \u200bthe military to be prepared \u200cto launch strikes against Iran if the Iranian government carried out or \u200battempted an assassination of \u200bthe president. t.me/ourwarstoday \u2013 t.me/ournewsfeedtoday\nReuters | reuters\u200b.com \u2022 Jul 11, 2026",
-    "source": "Telegram",
-    "source_type": "telegram",
-    "severity": "warning",
-    "icon": "\ud83d\udce2",
-    "timestamp": "2026-07-11T21:49:46+00:00",
-    "location": "Global",
-    "lat": null,
-    "lon": null,
-    "verification_status": "UNVERIFIED",
-    "verification_confidence": 30,
-    "verified_sources": [
-      "Our Wars Today"
-    ],
-    "verified_source_count": 1
-  },
-  {
-    "title": "Telegram",
-    "publisher": "Our Wars Today",
-    "text": "[Ukraine Claims Scores Of Russian Ships Struck In Sea Of Azov](https://www.twz.com/news-features/ukraine-claims-scores-of-russian-ships-struck-in-sea-of-azov)\nThe long-range drone attacks are targeting Russian oil tankers, adding to that nation's burgeoning war-induced energy woes. t.me/ourwarstoday \u2013 t.me/ournewsfeedtoday\nHoward Altman | twz\u200b.com \u2022 Jul 11, 2026",
-    "source": "Telegram",
-    "source_type": "telegram",
-    "severity": "warning",
-    "icon": "\ud83d\udce2",
-    "timestamp": "2026-07-11T21:49:25+00:00",
-    "location": "Global",
-    "lat": null,
-    "lon": null,
-    "verification_status": "UNVERIFIED",
-    "verification_confidence": 30,
-    "verified_sources": [
-      "Our Wars Today"
-    ],
-    "verified_source_count": 1
-  },
-  {
-    "title": "Telegram",
-    "publisher": "Our Wars Today",
-    "text": "[A US license could let Ukraine produce Patriot missiles](https://apnews.com/article/us-ukraine-russia-patriot-license-trump-797bbb29923bcba14f8e8ba652e98499)\nU.S. President Donald Trump\u2019s pledge to give Ukraine a license to produce Patriot air-defense systems could mark a major breakthrough for Kyiv. t.me/ourwarstoday \u2013 t.me/ournewsfeedtoday\nIllia Novikov | apnews\u200b.com \u2022 Jul 10, 2026",
-    "source": "Telegram",
-    "source_type": "telegram",
-    "severity": "warning",
-    "icon": "\ud83d\udce2",
-    "timestamp": "2026-07-10T18:56:49+00:00",
-    "location": "Global",
-    "lat": null,
-    "lon": null,
-    "verification_status": "UNVERIFIED",
-    "verification_confidence": 30,
-    "verified_sources": [
-      "Our Wars Today"
-    ],
-    "verified_source_count": 1
-  },
-  {
-    "title": "Telegram",
-    "publisher": "Our Wars Today",
-    "text": "[F-22 Raptors Arrive In England After Deployment To Israel For Iran War](https://www.twz.com/air/f-22-raptors-arrive-in-england-after-deployment-to-israel-for-iran-war)\nThe F-22s are part of a larger retrograde of airpower out of the CENTCOM region while at the same time the prospects of renewed fighting grow. t.me/ourwarstoday \u2013 t.me/ournewsfeedtoday\nHoward Altman | twz\u200b.com \u2022 Jul 10, 2026",
-    "source": "Telegram",
-    "source_type": "telegram",
-    "severity": "warning",
-    "icon": "\ud83d\udce2",
-    "timestamp": "2026-07-10T18:56:14+00:00",
-    "location": "Global",
-    "lat": null,
-    "lon": null,
-    "verification_status": "UNVERIFIED",
-    "verification_confidence": 30,
-    "verified_sources": [
-      "Our Wars Today"
-    ],
-    "verified_source_count": 1
-  },
-  {
-    "title": "Telegram",
-    "publisher": "Alsaa Plus EN",
-    "text": "\ud83c\uddfe\ud83c\uddea\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddf8\ud83c\udde6\ud83c\uddfa\ud83c\uddf8 \u2014 Saudi air defenses intercepted a ballistic missile salvo fired by Ansar Allah, according to a US-led coalition spokesperson.",
-    "source": "Telegram",
-    "source_type": "telegram",
-    "severity": "warning",
-    "icon": "\ud83d\udce2",
-    "timestamp": "2026-07-13T17:15:34+00:00",
-    "location": "Global",
-    "lat": null,
-    "lon": null,
-    "verification_status": "UNVERIFIED",
-    "verification_confidence": 30,
-    "verified_sources": [
-      "Alsaa Plus EN"
-    ],
-    "verified_source_count": 1
-  },
-  {
-    "title": "Telegram",
-    "publisher": "Alsaa Plus EN",
-    "text": "\ud83c\uddf8\ud83c\udde6\u274c\ud83c\uddfe\ud83c\uddea \u2014 Saudi Defense: \nIntercepting ballistic missiles launched by the Houthi militia toward the southern region.\n\u26aa\ufe0f",
-    "source": "Telegram",
-    "source_type": "telegram",
-    "severity": "warning",
-    "icon": "\ud83d\udce2",
-    "timestamp": "2026-07-13T17:14:50+00:00",
-    "location": "Global",
-    "lat": null,
-    "lon": null,
-    "verification_status": "PARTIALLY VERIFIED",
-    "verification_confidence": 65,
-    "verified_sources": [
-      "Alsaa Plus EN",
-      "Middle East Spectator"
-    ],
-    "verified_source_count": 2
-  },
-  {
-    "title": "Telegram",
-    "publisher": "Alsaa Plus EN",
-    "text": "\ud83d\udea8\ud83c\uddfe\ud83c\uddea\ud83c\uddf8\ud83c\udde6 \u2014 Reports indicate that Abha International Airport in Saudi Arabia was targeted by six missiles from Yemen. \n\u2705Follow",
-    "source": "Telegram",
-    "source_type": "telegram",
-    "severity": "warning",
-    "icon": "\ud83d\udce2",
-    "timestamp": "2026-07-13T17:10:30+00:00",
-    "location": "Global",
-    "lat": null,
-    "lon": null,
-    "verification_status": "UNVERIFIED",
-    "verification_confidence": 30,
-    "verified_sources": [
-      "Alsaa Plus EN"
-    ],
-    "verified_source_count": 1
-  },
-  {
-    "title": "Telegram",
-    "publisher": "Alsaa Plus EN",
-    "text": "\ud83c\uddfe\ud83c\uddea\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddf8\ud83c\udde6 \u2014 An impact from a missile at King Khalid Air Base, adjacent to Abha in Saudi Arabia.\n\u26aa\ufe0f",
-    "source": "Telegram",
-    "source_type": "telegram",
-    "severity": "warning",
-    "icon": "\ud83d\udce2",
-    "timestamp": "2026-07-13T17:09:20+00:00",
-    "location": "Global",
-    "lat": null,
-    "lon": null,
-    "verification_status": "PARTIALLY VERIFIED",
-    "verification_confidence": 65,
-    "verified_sources": [
-      "Alsaa Plus EN",
-      "Mediterranean Man"
-    ],
-    "verified_source_count": 2
-  },
-  {
-    "title": "Telegram",
-    "publisher": "Alsaa Plus EN",
-    "text": "\ud83c\uddfe\ud83c\uddea\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddf8\ud83c\udde6 \u2014 Unconfirmed reports indicate that King Khalid Air Base was targeted by missiles launched by the Houthi Ansar Allah movement.\n\u26aa\ufe0f",
-    "source": "Telegram",
-    "source_type": "telegram",
-    "severity": "warning",
-    "icon": "\ud83d\udce2",
-    "timestamp": "2026-07-13T17:06:07+00:00",
-    "location": "Global",
-    "lat": null,
-    "lon": null,
-    "verification_status": "PARTIALLY VERIFIED",
-    "verification_confidence": 65,
-    "verified_sources": [
-      "Alsaa Plus EN",
-      "Mediterranean Man"
-    ],
-    "verified_source_count": 2
-  },
-  {
-    "title": "Telegram",
-    "publisher": "Alsaa Plus EN",
-    "text": "\ud83c\uddfe\ud83c\uddea\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddf8\ud83c\udde6 Flights have been suspended at Saudi Arabia\u2019s Abha International Airport.\n\u26aa\ufe0f",
-    "source": "Telegram",
-    "source_type": "telegram",
-    "severity": "warning",
-    "icon": "\ud83d\udce2",
-    "timestamp": "2026-07-13T16:57:36+00:00",
-    "location": "Global",
-    "lat": null,
-    "lon": null,
-    "verification_status": "UNVERIFIED",
-    "verification_confidence": 30,
-    "verified_sources": [
-      "Alsaa Plus EN"
-    ],
-    "verified_source_count": 1
-  },
-  {
-    "title": "Telegram",
-    "publisher": "Alsaa Plus EN",
-    "text": "\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddf8\ud83c\udde6 \u2014 A joint missile-UAV attack by Ansarallah towards Saudi Arabia. There are reports the attack is targeting Abha International Airport, southwestern Saudi Arabia near the Saudi-Yemeni border.",
-    "source": "Telegram",
-    "source_type": "telegram",
-    "severity": "warning",
-    "icon": "\ud83d\udce2",
-    "timestamp": "2026-07-13T16:54:53+00:00",
-    "location": "Global",
-    "lat": null,
-    "lon": null,
-    "verification_status": "UNVERIFIED",
-    "verification_confidence": 30,
-    "verified_sources": [
-      "Alsaa Plus EN"
-    ],
-    "verified_source_count": 1
-  },
-  {
-    "title": "Telegram",
-    "publisher": "Alsaa Plus EN",
-    "text": "\ud83c\uddfe\ud83c\uddea\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddf8\ud83c\udde6 Six Yemeni missiles launched toward Saudi Arabia\u2019s Abha International Airport.\n\u26aa\ufe0f",
-    "source": "Telegram",
-    "source_type": "telegram",
-    "severity": "warning",
-    "icon": "\ud83d\udce2",
-    "timestamp": "2026-07-13T16:53:57+00:00",
-    "location": "Global",
-    "lat": null,
-    "lon": null,
-    "verification_status": "UNVERIFIED",
-    "verification_confidence": 30,
-    "verified_sources": [
-      "Alsaa Plus EN"
-    ],
-    "verified_source_count": 1
-  },
-  {
-    "title": "Telegram",
-    "publisher": "Mediterranean Man",
-    "text": "\u26a1\u26a1\ud83c\uddf8\ud83c\udde6\ud83c\uddfe\ud83c\uddea Unconfirmed reports of a Yemeni missile impacting in or near King Khalid Air Base, which is located near Abha in Saudi Arabia.",
-    "source": "Telegram",
-    "source_type": "telegram",
-    "severity": "warning",
-    "icon": "\ud83d\udce2",
-    "timestamp": "2026-07-13T17:09:20+00:00",
-    "location": "Global",
-    "lat": null,
-    "lon": null,
-    "verification_status": "PARTIALLY VERIFIED",
-    "verification_confidence": 65,
-    "verified_sources": [
-      "Alsaa Plus EN",
-      "Mediterranean Man"
-    ],
-    "verified_source_count": 2
-  },
-  {
-    "title": "Telegram",
-    "publisher": "Mediterranean Man",
-    "text": "\u26a1\u26a1\ud83c\uddfe\ud83c\uddea\ud83c\uddf8\ud83c\udde6 Flightradar shows planes circling over the airport as they wait to be redirected to another airport due to Abha airport's suspension of operations due to the Yemeni Houthi attack.",
-    "source": "Telegram",
-    "source_type": "telegram",
-    "severity": "warning",
-    "icon": "\ud83d\udce2",
-    "timestamp": "2026-07-13T17:00:17+00:00",
-    "location": "Global",
-    "lat": null,
-    "lon": null,
-    "verification_status": "UNVERIFIED",
-    "verification_confidence": 30,
-    "verified_sources": [
-      "Mediterranean Man"
-    ],
-    "verified_source_count": 1
-  },
-  {
-    "title": "Telegram",
-    "publisher": "Mediterranean Man",
-    "text": "\u26a1\u26a1\ud83c\uddfe\ud83c\uddea\ud83c\uddf8\ud83c\udde6 News outlets report that the Abha airport in Saudi Arabia has suspended its flights and is evacuating passengers currently at the airport in southern Saudi Arabia.",
-    "source": "Telegram",
-    "source_type": "telegram",
-    "severity": "warning",
-    "icon": "\ud83d\udce2",
-    "timestamp": "2026-07-13T16:56:57+00:00",
-    "location": "Global",
-    "lat": null,
-    "lon": null,
-    "verification_status": "UNVERIFIED",
-    "verification_confidence": 30,
-    "verified_sources": [
-      "Mediterranean Man"
-    ],
-    "verified_source_count": 1
-  },
-  {
-    "title": "Telegram",
-    "publisher": "Mediterranean Man",
-    "text": "\u26a1\u26a1\ud83c\uddfe\ud83c\uddea\ud83c\uddf8\ud83c\udde6 Yemeni missiles+UAV strikes on Saudi Arabia, unconfirmed reports of Abha airport being targeted.",
-    "source": "Telegram",
-    "source_type": "telegram",
-    "severity": "warning",
-    "icon": "\ud83d\udce2",
-    "timestamp": "2026-07-13T16:53:51+00:00",
-    "location": "Global",
-    "lat": null,
-    "lon": null,
-    "verification_status": "UNVERIFIED",
-    "verification_confidence": 30,
-    "verified_sources": [
-      "Mediterranean Man"
-    ],
-    "verified_source_count": 1
-  },
-  {
-    "title": "Telegram",
-    "publisher": "Mediterranean Man",
-    "text": "\u26a1\u26a1\ud83c\uddf8\ud83c\udde6\ud83c\uddfe\ud83c\uddea Unconfirmed reports of Saudi Arabia being targeted by Yemeni missiles.",
-    "source": "Telegram",
-    "source_type": "telegram",
-    "severity": "warning",
-    "icon": "\ud83d\udce2",
-    "timestamp": "2026-07-13T16:51:49+00:00",
-    "location": "Global",
-    "lat": null,
-    "lon": null,
-    "verification_status": "UNVERIFIED",
-    "verification_confidence": 30,
-    "verified_sources": [
-      "Mediterranean Man"
-    ],
-    "verified_source_count": 1
-  },
-  {
-    "title": "Telegram",
-    "publisher": "Mediterranean Man",
-    "text": "\u26a1\ud83c\uddfe\ud83c\uddea\ud83c\uddee\ud83c\uddf7\ud83c\uddf8\ud83c\udde6 Earlier today, the Houthis claimed Saudi airstrikes targeted Sanaa airport, which was indeed struck, and military aircraft continued to fly over the area to prevent an Iranian plane from landing.\nAfter the strikes, the \u2060general aviation authority of Yemen's internationally recognised government in the south ordered the closure of all airports nationwide to air traffic \u200buntil further notice.\nHouthi military spokesperson Yahya Saree called the attacks \"blatant aggression\" and said they had ended a period of de-escalation. He said regional power Saudi Arabia would bear the consequences and that the attack would not go unanswered.\nThe Iranian plane landed at Hodeidah airport instead.",
-    "source": "Telegram",
-    "source_type": "telegram",
-    "severity": "warning",
-    "icon": "\ud83d\udce2",
-    "timestamp": "2026-07-13T13:57:23+00:00",
-    "location": "Global",
-    "lat": null,
-    "lon": null,
-    "verification_status": "UNVERIFIED",
-    "verification_confidence": 30,
-    "verified_sources": [
-      "Mediterranean Man"
-    ],
-    "verified_source_count": 1
-  },
-  {
-    "title": "Telegram",
-    "publisher": "CASELS",
-    "text": "\u26a1\ufe0f\ud83c\uddef\ud83c\uddf4\ud83c\uddee\ud83c\uddf7 Jordan says they intercepted 4 Iranian missiles over their airspace earlier today.",
-    "source": "Telegram",
-    "source_type": "telegram",
-    "severity": "warning",
-    "icon": "\ud83d\udce2",
-    "timestamp": "2026-07-13T05:15:14+00:00",
-    "location": "Global",
-    "lat": null,
-    "lon": null,
-    "verification_status": "UNVERIFIED",
-    "verification_confidence": 30,
-    "verified_sources": [
-      "CASELS"
-    ],
-    "verified_source_count": 1
-  },
-  {
-    "title": "Telegram",
-    "publisher": "CASELS",
-    "text": "\ud83c\uddfa\ud83c\uddf8 #US - \ud83c\uddee\ud83c\uddf7 #Iran: The US military has launched overnight airstrikes against Omidiyeh Airport in Khuzestan Province, southern Iran.\nFootage from the scene shows explosions and a large fire following the strike. In a separate incident, one US airstrike hit just meters away from the Bushehr Nuclear Power Plant.\n(via & on X)",
-    "source": "Telegram",
-    "source_type": "telegram",
-    "severity": "warning",
-    "icon": "\ud83d\udce2",
-    "timestamp": "2026-07-13T05:14:50+00:00",
-    "location": "Global",
-    "lat": null,
-    "lon": null,
-    "verification_status": "UNVERIFIED",
-    "verification_confidence": 30,
-    "verified_sources": [
-      "CASELS"
-    ],
-    "verified_source_count": 1
-  },
-  {
-    "title": "Telegram",
-    "publisher": "CASELS",
-    "text": "Kurdish opposition group PAK based in Erbil says they were targeted with three one way drones fired by the IRGC this morning.",
-    "source": "Telegram",
-    "source_type": "telegram",
-    "severity": "warning",
-    "icon": "\ud83d\udce2",
-    "timestamp": "2026-07-13T05:14:40+00:00",
-    "location": "Global",
-    "lat": null,
-    "lon": null,
-    "verification_status": "UNVERIFIED",
-    "verification_confidence": 30,
-    "verified_sources": [
-      "CASELS"
-    ],
-    "verified_source_count": 1
-  },
-  {
-    "title": "Telegram",
-    "publisher": "CASELS",
-    "text": "\ud83c\uddf7\ud83c\uddfa\ud83c\uddee\ud83c\uddf7\ud83e\ude96 \u2014 Russian Air Force Special Flight Squadron's Tu-214, reserved for Russian military & government officials, was spotted flying from Moscow's [Vnukovo International Airport](https://en.wikipedia.org/wiki/Vnukovo_International_Airport) towards Tehran, about to land \n\u2796\u2796\u2796\u2796\u2796\u2796\u2796\u2796\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u2796\u2796\u2796\u2796\u2796\u2796\u2796\u2796",
-    "source": "Telegram",
-    "source_type": "telegram",
-    "severity": "warning",
-    "icon": "\ud83d\udce2",
-    "timestamp": "2026-07-13T05:14:32+00:00",
-    "location": "Global",
-    "lat": null,
-    "lon": null,
-    "verification_status": "UNVERIFIED",
-    "verification_confidence": 30,
-    "verified_sources": [
-      "CASELS"
-    ],
-    "verified_source_count": 1
-  },
-  {
-    "title": "Telegram",
-    "publisher": "CASELS",
-    "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf7 U.S. CENTCOM says they\u2019ve completed round of strikes:\nU.S. Central Command (CENTCOM) completed a new wave of offensive strikes against Iran, July 12, hitting dozens of targets at multiple locations with precision munitions to degrade Iran\u2019s ability to continue attacking international shipping flowing through the Strait of Hormuz.\n \nCENTCOM forces struck Iranian military air-defense systems, coastal radar sites, missile and drone capabilities, and small boats using U.S. fighter aircraft, naval vessels, one-way attack aerial drones, and one-way attack sea drones for the first time.\n \nThe Strait of Hormuz is a vital maritime corridor for global trade. Iran does not control it.\n \nU.S. forces are postured and prepared to ensure that freedom of navigation remains available to commercial shipping despite Iran\u2019s continued unwarranted aggression, harassment, threats, and arbitrary declarations.",
-    "source": "Telegram",
-    "source_type": "telegram",
-    "severity": "warning",
-    "icon": "\ud83d\udce2",
-    "timestamp": "2026-07-13T03:26:30+00:00",
-    "location": "Global",
-    "lat": null,
-    "lon": null,
-    "verification_status": "UNVERIFIED",
-    "verification_confidence": 30,
-    "verified_sources": [
-      "CASELS"
-    ],
-    "verified_source_count": 1
-  },
-  {
-    "title": "Telegram",
-    "publisher": "CASELS",
-    "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7\ud83c\uddef\ud83c\uddf4 Iran missiles are targeting the Jordanian Muwaffaq Salti Air Base",
-    "source": "Telegram",
-    "source_type": "telegram",
-    "severity": "warning",
-    "icon": "\ud83d\udce2",
-    "timestamp": "2026-07-13T03:25:40+00:00",
-    "location": "Global",
-    "lat": null,
-    "lon": null,
-    "verification_status": "UNVERIFIED",
-    "verification_confidence": 30,
-    "verified_sources": [
-      "CASELS"
-    ],
-    "verified_source_count": 1
-  },
-  {
-    "title": "Telegram",
-    "publisher": "Geopolitics Prime",
-    "text": "\ud83d\udd0d Black Sea on fire: Why Russia ramping up pressure on Ukrainian ports\nRussian is turning up the heat on Ukraine's Black Sea coast, with Odessa squarely in the crosshairs. The ongoing campaign escalated this month, targeting key military logistics hubs and infrastructure critical to Ukraine\u2019s war effort.\nMain targets in sight\nSystematic Russian strikes on Ukraine\u2019s major Black Sea ports \u2014 Odessa, Ismail, and Chernomorsk \u2014 began on June 28, culminating with a strike on July 11 that crippled a key military supply corridor through Ismail, a vital chokepoint for Ukrainian forces.\nOn the night of July 12, Russia carried out one of its largest coordinated strikes yet, hitting both Odessa and Chernomorsk with missiles and drones. Acting as Odessa\u2019s backup port just 22 km away, Chernomorsk was targeted alongside military depots, fuel reserves, and naval drone launch sites \u2014 all of which were successfully struck.\nBy July 13, Russian drone strikes took out a key fuel and logistics hub in Chernomorsk that had been supplying front-line Ukrainian units.\nHere's a strategic logic for these strikes:\n\ud83d\udd36 Payback for Azov Sea. With Zelensky targeting Russian ports on the Sea of Azov in Taganrog, Azov and Mariupol, Russia had to respond and secure them. Those attacks originated from the Odessa region's coast. Now Russia is dismantling the very network that enabled them.\n\ud83d\udd36 Shielding Crime\u0430 and southern supply lines. Ukraine\u2019s naval drone campaign relies on Black Sea ports in the Odessa region. As Zelensky continues to push for the \u201creturn\u201d of Crimea and intensifies strikes on the peninsula, Russia is systematically destroying the coastal infrastructure that enables these very operations.\n\ud83d\udd36 Disrupting NATO's maritime deliveries. Through Black Sea ports, NATO members \u2014 especially Romania and Bulgaria \u2014 have been supplying arms to Ukraine. Should this route collapse, the vital corridor from Romania\u2019s Constanta port would be severed, placing the nearby NATO airbase at direct risk as well.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-    "source": "Telegram",
-    "source_type": "telegram",
-    "severity": "warning",
-    "icon": "\ud83d\udce2",
-    "timestamp": "2026-07-13T15:41:55+00:00",
-    "location": "Global",
-    "lat": null,
-    "lon": null,
-    "verification_status": "PARTIALLY VERIFIED",
-    "verification_confidence": 65,
-    "verified_sources": [
-      "Geopolitics Prime",
-      "Middle East Spectator"
-    ],
-    "verified_source_count": 2
-  },
-  {
-    "title": "Telegram",
-    "publisher": "Geopolitics Prime",
-    "text": "\ud83c\uddfa\ud83c\uddf8US unleashes sea drones against Iran for the first time\nThree Corsair unmanned surface vessels struck naval maintenance facilities at Iran\u2019s Bandar Abbas base, marking the first known US offensive combat use of sea drones, CENTCOM says.\nThe US claims the strikes were meant to weaken Iran's ability to target commercial shipping\u2014but they also mark a new stage in Washington's military escalation against Tehran.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-    "source": "Telegram",
-    "source_type": "telegram",
-    "severity": "warning",
-    "icon": "\ud83d\udce2",
-    "timestamp": "2026-07-13T15:01:09+00:00",
-    "location": "Global",
-    "lat": null,
-    "lon": null,
-    "verification_status": "PARTIALLY VERIFIED",
-    "verification_confidence": 65,
-    "verified_sources": [
-      "Geopolitics Prime",
-      "Middle East Spectator"
-    ],
-    "verified_source_count": 2
-  },
-  {
-    "title": "Telegram",
-    "publisher": "Geopolitics Prime",
-    "text": "\ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf6\ud83c\uddf8\ud83c\uddfe Iran's Hormuz grip resurrects defunct pipeline\u2014and makes unlikely bedfellows of the US, Iraq, Syria \nThe US, Iraq and Syria are putting the finishing touches on a deal to dust off an 800-kilometer pipeline from Iraq's northern oil hub of Kirkuk to the Syrian port of Baniyas on the Mediterranean.\nOnce capable of transporting up to 300,000 barrels of crude per day, the pipeline was left in ruins by US airstrikes during the 2003 invasion of Iraq.\n \n\u2709\ufe0f The project is expected to receive formal impetus during Iraqi Prime Minister Ali al-Zaidi\u2019s upcoming visit to the US, with Trump\u2019s special envoy to Syria and Iraq, Tom Barrack, quietly orchestrating the deal, reports the Middle East Eye.\nSyrian Foreign Minister Asaad al-Shaibani is expected to join the signing ceremony.\nThe urgency driving this project is Iran's enforced chokehold on the Strait of Hormuz. Iraq remains dependent on the waterway, which handles about 95% of its oil exports \u2014 revenue that accounts for roughly 90% of the national budget.\n \nEarlier this month, Iraq's government greenlit preliminary deals with US energy giants Capital TI and Chevron, alongside a Qatari firm, UCC, to assess a range of export routes\u2014chief among them the Basra\u2011Haditha\u2011Baniyas corridor.\n \nHowever, officials caution:\n\ud83d\udd34 The pipeline needs a complete overhaul, including new storage tanks, pumping stations, and electrical systems.\n\ud83d\udd34 reconstruction is projected to take up to three years, and cost over $4.5B\n \nAfter the US-backed ouster of Bashar al-Assad in late 2024, initial Syrian-Iraqi talks on the pipeline fizzled. Now, with fresh political winds blowing, the project has regained momentum.\nIraq\u2019s new PM Ali al-Zaidi has enthusiastically adopted a [pro-US posture](https://t.me/geopolitics_prime/71550) since taking office, promising to bring Iran-aligned militias under state control and in effect carrying out a [purge of pro-Iranian officials.](https://t.me/geopolitics_prime/71457)\n\ud83d\udcb5 Al Zaidi, a businessman with interests in real estate, banking, and logistics, has dangled lucrative investment priorities for American firms, appearing all too eager to assist the US in reshaping the Middle East following its humiliating defeat in the Strait of Hormuz.\n \nThen there is Syria's terrorist-turned-President Ahmed al\u2011Sharaa (aka Nusra Front leader Abu al-Julani), who entered the US orbit after the ouster of Assad in 2024.\n\ud83c\uddf9\ud83c\uddf7 Backed by Turkey and Gulf states including Qatar and Saudi Arabia, [Sharaa has benefited](https://t.me/geopolitics_prime/65038) from the Trump administration\u2019s decision to lift multiple layers of sanctions on Syria, including those targeting his former group, [Hay'at Tahrir al-Sham - aka al-Nusra Front](https://t.me/geopolitics_prime/52885), aka Al-Qaeda\u2019s branch in Syria. The US has launched the process of [removing Syria from the State Sponsors](https://t.me/ClashReport/88463) of Terrorism list \u2014 a designation it has held since 1979.\n \nUS envoy Tom Barrack has reportedly forged a close rapport with Zaidi, viewing the pipeline as a model for broader business projects in the Levant that he has trumpeted as benefiting both the US and local governments.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-    "source": "Telegram",
-    "source_type": "telegram",
-    "severity": "warning",
-    "icon": "\ud83d\udce2",
-    "timestamp": "2026-07-13T13:32:01+00:00",
-    "location": "Global",
-    "lat": null,
-    "lon": null,
-    "verification_status": "UNVERIFIED",
-    "verification_confidence": 30,
-    "verified_sources": [
-      "Geopolitics Prime"
-    ],
-    "verified_source_count": 1
-  },
-  {
-    "title": "Telegram",
-    "publisher": "Geopolitics Prime",
-    "text": "\ud83d\udea8Saudi bombs shut Sanaa Airport \u2014 but the Iranian plane still made it to Yemen, diverting safely to Hodeidah.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-    "source": "Telegram",
-    "source_type": "telegram",
-    "severity": "warning",
-    "icon": "\ud83d\udce2",
-    "timestamp": "2026-07-13T12:59:11+00:00",
-    "location": "Global",
-    "lat": null,
-    "lon": null,
-    "verification_status": "PARTIALLY VERIFIED",
-    "verification_confidence": 65,
-    "verified_sources": [
-      "Geopolitics Prime",
-      "Middle East Spectator"
-    ],
-    "verified_source_count": 2
-  }
-]
+{
+  "generated_at": "2026-08-05T10:54:01.175639+00:00",
+  "events": [
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nPhiladelphia, PA, Tuesday, July 14, 2026 Local\nFacility: ZDC",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "07/13/2026",
+      "location": "ZDC PA",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nPell City, AL, Saturday, July 11, 2026 through Thursday, July 16, 2026 Local\nFacility: ZTL",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "07/11/2026",
+      "location": "ZTL AL",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nLaurel, MD, Monday, July 13, 2026 Local\nFacility: ZDC",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "07/11/2026",
+      "location": "ZDC MD",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nEl Centro, CA, Wednesday, July 15, 2026 through Tuesday, July 13, 2027 Local\nFacility: ZLA",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "07/10/2026",
+      "location": "ZLA CA",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nAtlanta, GA, Wednesday, July 15, 2026 through Wednesday, July 15, 2026 Local\nFacility: ZTL",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "07/10/2026",
+      "location": "ZTL GA",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nDallas, TX, Tuesday, July 14, 2026 through Tuesday, July 14, 2026 Local\nFacility: ZFW",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "07/10/2026",
+      "location": "ZFW TX",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nNew York, NY, Thursday, July 16, 2026 through Sunday, July 19, 2026 Local\nFacility: ZNY",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "07/10/2026",
+      "location": "ZNY NY",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nDallas, TX, Tuesday, July 14, 2026 through Sunday, July 19, 2026 Local\nFacility: ZFW",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "07/10/2026",
+      "location": "ZFW TX",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nFt. Lauderdale, FL\nFacility: ZMA",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "07/09/2026",
+      "location": "ZMA FL",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nBoston, MA, Saturday, July 11, 2026 through Thursday, July 16, 2026 Local\nFacility: ZBW",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "07/07/2026",
+      "location": "ZBW MA",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nAtlanta, GA, Saturday, July 11, 2026 through Tuesday, July 14, 2026 Local\nFacility: ZTL",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "07/06/2026",
+      "location": "ZTL GA",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nPhiladelphia, PA, Friday, July 10, 2026 through Tuesday, July 14, 2026 Local\nFacility: ZDC",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "07/06/2026",
+      "location": "ZDC PA",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nClear, AK\nFacility: ZAN",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "07/05/2026",
+      "location": "ZAN AK",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Space Weather Message Code: ALTEF3\r",
+      "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3716\r\nIssue Time: 2026 Jul 13 1027 UTC\r\n\r\nCONTINUED ALERT: Electron 2MeV Integral Flux exceeded 1000pfu\nContinuation of Serial Number: 3715\nBegin Time: 2026 Jul 10 1126 UTC\nYesterday Maximum 2MeV Flux: 3729 pfu\nYesterday's max: 3,730 pfu\r\nYesterday's max: 3,730 pfu",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-07-13 10:27:53.953",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Space Weather Message Code: WARK05\r",
+      "text": "Space Weather Message Code: WARK05\r\nSerial Number: 2250\r\nIssue Time: 2026 Jul 12 2101 UTC\r\n\r\nCANCEL WARNING: Geomagnetic K-index of 5 expected \nCancel Serial Number: 2249\nOriginal Issue Time: 2026 Jul 12 1411 UTC\nShould have only been valid until 12/2100 UTC.\r\nShould have only been valid until 12/2100 UTC.NOAA Scale: G1 - Minor\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-07-12 21:01:57.203",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Space Weather Message Code: ALTK05\r",
+      "text": "Space Weather Message Code: ALTK05\r\nSerial Number: 2039\r\nIssue Time: 2026 Jul 12 1503 UTC\r\n\r\nALERT: Geomagnetic K-index of 5 \nThreshold Reached: 2026 Jul 12 1459 UTC\nSynoptic Period: 1200-1500\nActive Warning: YES\nNoaa Scale: G1 - Minor\nComment: \r\nNOAA Scale: G1 - Minor\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-07-12 15:03:18.830",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Space Weather Message Code: WARK05\r",
+      "text": "Space Weather Message Code: WARK05\r\nSerial Number: 2249\r\nIssue Time: 2026 Jul 12 1411 UTC\r\n\r\nWARNING: Geomagnetic K-index of 5 expected \nValid From: 2026 Jul 12 1410 UTC\nValid To: 2026 Jul 13 2100 UTC\nWarning Conditions: Onset\nNoaa Scale: G1 - Minor\nComment: \r\nNOAA Scale: G1 - Minor\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-07-12 14:11:40.570",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Space Weather Message Code: ALTEF3\r",
+      "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3715\r\nIssue Time: 2026 Jul 12 0532 UTC\r\n\r\nCONTINUED ALERT: Electron 2MeV Integral Flux exceeded 1000pfu\nContinuation of Serial Number: 3714\nBegin Time: 2026 Jul 10 1126 UTC\nYesterday Maximum 2MeV Flux: 4620 pfu\nYesterday's max: 4,620 pfu\r\nYesterday's max: 4,620 pfu",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-07-12 05:32:05.277",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea Saudi Ministry of Defense: \u2018Air defenses of the Kingdom dealt with ballistic missiles launched by the Houthi terrorists in the southern regions. The situation is under control.\u2019",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-07-13T17:17:32+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea BREAKING: The Yemeni Armed Forces have targeted Abha International Airport and King Khalid Airbase in Saudi Arabia with ballistic missiles and suicide drones",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-07-13T17:12:39+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Geopolitics Prime",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014 \ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7 NEW: The U.S. released footage using naval suicide drones against Iranian military dockyards",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-07-13T14:48:45+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Geopolitics Prime",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea WATCH: Close up footage of Saudi Arabia bombing Yemen\u2019s Sanaa Airport",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-07-13T12:56:21+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Geopolitics Prime",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "The Houthis reportedly launched at least six missiles toward Saudi Arabia.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-07-13T17:11:07+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "EXCLUSIVE: A second Chinese-made CH-95 drone supplied by the UAE to the RSF terror group was destroyed on the ground by Sudan Army\u2019s Bayraktar AKINCI drone.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-07-13T16:39:33+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "EXCLUSIVE: Sudan Army\u2019s Bayraktar AKINCI drone shot down a Chinese-made CH-95 drone supplied by the UAE to the RSF terror group, using an air-to-air missile.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-07-13T16:04:00+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "U.S. forces used sea drones in combat for the first time, striking an Iranian naval maintenance facility at Bandar Abbas.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-07-13T14:53:13+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Our Wars Today",
+      "text": "[Iran's IRNA says 'enemy' launches missiles towards Qeshm Island](https://www.reuters.com/world/middle-east/irans-irna-says-enemy-launches-missiles-towards-qeshm-island-2026-07-12/)\nIran's IRNA \u200bstate \u200cnews agency \u200bsaid \u200bmissiles were launched \u2060by \u200bthe \"enemy\" \u200btowards Qeshm Island \u200bon \u200bSunday afternoon, adding \u200cthat \u2060no casualties were \u200breported. t.me/ourwarstoday \u2013 t.me/ournewsfeedtoday\nReuters | reuters\u200b.com \u2022 Jul 12, 2026",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-07-13T03:42:31+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Our Wars Today"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Our Wars Today",
+      "text": "[Trump says missiles aimed at Iran if Tehran targets US president](https://www.reuters.com/world/middle-east/trump-says-missiles-aimed-iran-if-tehran-targets-us-president-2026-07-11/)\nU.S. President Donald Trump said on Friday he had ordered \u200bthe military to be prepared \u200cto launch strikes against Iran if the Iranian government carried out or \u200battempted an assassination of \u200bthe president. t.me/ourwarstoday \u2013 t.me/ournewsfeedtoday\nReuters | reuters\u200b.com \u2022 Jul 11, 2026",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-07-11T21:49:46+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Our Wars Today"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Our Wars Today",
+      "text": "[Ukraine Claims Scores Of Russian Ships Struck In Sea Of Azov](https://www.twz.com/news-features/ukraine-claims-scores-of-russian-ships-struck-in-sea-of-azov)\nThe long-range drone attacks are targeting Russian oil tankers, adding to that nation's burgeoning war-induced energy woes. t.me/ourwarstoday \u2013 t.me/ournewsfeedtoday\nHoward Altman | twz\u200b.com \u2022 Jul 11, 2026",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-07-11T21:49:25+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Our Wars Today"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Our Wars Today",
+      "text": "[A US license could let Ukraine produce Patriot missiles](https://apnews.com/article/us-ukraine-russia-patriot-license-trump-797bbb29923bcba14f8e8ba652e98499)\nU.S. President Donald Trump\u2019s pledge to give Ukraine a license to produce Patriot air-defense systems could mark a major breakthrough for Kyiv. t.me/ourwarstoday \u2013 t.me/ournewsfeedtoday\nIllia Novikov | apnews\u200b.com \u2022 Jul 10, 2026",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-07-10T18:56:49+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Our Wars Today"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Our Wars Today",
+      "text": "[F-22 Raptors Arrive In England After Deployment To Israel For Iran War](https://www.twz.com/air/f-22-raptors-arrive-in-england-after-deployment-to-israel-for-iran-war)\nThe F-22s are part of a larger retrograde of airpower out of the CENTCOM region while at the same time the prospects of renewed fighting grow. t.me/ourwarstoday \u2013 t.me/ournewsfeedtoday\nHoward Altman | twz\u200b.com \u2022 Jul 10, 2026",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-07-10T18:56:14+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Our Wars Today"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddfe\ud83c\uddea\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddf8\ud83c\udde6\ud83c\uddfa\ud83c\uddf8 \u2014 Saudi air defenses intercepted a ballistic missile salvo fired by Ansar Allah, according to a US-led coalition spokesperson.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-07-13T17:15:34+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddf8\ud83c\udde6\u274c\ud83c\uddfe\ud83c\uddea \u2014 Saudi Defense: \nIntercepting ballistic missiles launched by the Houthi militia toward the southern region.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-07-13T17:14:50+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83d\udea8\ud83c\uddfe\ud83c\uddea\ud83c\uddf8\ud83c\udde6 \u2014 Reports indicate that Abha International Airport in Saudi Arabia was targeted by six missiles from Yemen. \n\u2705Follow",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-07-13T17:10:30+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddfe\ud83c\uddea\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddf8\ud83c\udde6 \u2014 An impact from a missile at King Khalid Air Base, adjacent to Abha in Saudi Arabia.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-07-13T17:09:20+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddfe\ud83c\uddea\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddf8\ud83c\udde6 \u2014 Unconfirmed reports indicate that King Khalid Air Base was targeted by missiles launched by the Houthi Ansar Allah movement.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-07-13T17:06:07+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddfe\ud83c\uddea\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddf8\ud83c\udde6 Flights have been suspended at Saudi Arabia\u2019s Abha International Airport.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-07-13T16:57:36+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddf8\ud83c\udde6 \u2014 A joint missile-UAV attack by Ansarallah towards Saudi Arabia. There are reports the attack is targeting Abha International Airport, southwestern Saudi Arabia near the Saudi-Yemeni border.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-07-13T16:54:53+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddfe\ud83c\uddea\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddf8\ud83c\udde6 Six Yemeni missiles launched toward Saudi Arabia\u2019s Abha International Airport.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-07-13T16:53:57+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\u26a1\ud83c\uddf8\ud83c\udde6\ud83c\uddfe\ud83c\uddea Unconfirmed reports of a Yemeni missile impacting in or near King Khalid Air Base, which is located near Abha in Saudi Arabia.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-07-13T17:09:20+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\u26a1\ud83c\uddfe\ud83c\uddea\ud83c\uddf8\ud83c\udde6 Flightradar shows planes circling over the airport as they wait to be redirected to another airport due to Abha airport's suspension of operations due to the Yemeni Houthi attack.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-07-13T17:00:17+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\u26a1\ud83c\uddfe\ud83c\uddea\ud83c\uddf8\ud83c\udde6 News outlets report that the Abha airport in Saudi Arabia has suspended its flights and is evacuating passengers currently at the airport in southern Saudi Arabia.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-07-13T16:56:57+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\u26a1\ud83c\uddfe\ud83c\uddea\ud83c\uddf8\ud83c\udde6 Yemeni missiles+UAV strikes on Saudi Arabia, unconfirmed reports of Abha airport being targeted.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-07-13T16:53:51+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\u26a1\ud83c\uddf8\ud83c\udde6\ud83c\uddfe\ud83c\uddea Unconfirmed reports of Saudi Arabia being targeted by Yemeni missiles.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-07-13T16:51:49+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ud83c\uddfe\ud83c\uddea\ud83c\uddee\ud83c\uddf7\ud83c\uddf8\ud83c\udde6 Earlier today, the Houthis claimed Saudi airstrikes targeted Sanaa airport, which was indeed struck, and military aircraft continued to fly over the area to prevent an Iranian plane from landing.\nAfter the strikes, the \u2060general aviation authority of Yemen's internationally recognised government in the south ordered the closure of all airports nationwide to air traffic \u200buntil further notice.\nHouthi military spokesperson Yahya Saree called the attacks \"blatant aggression\" and said they had ended a period of de-escalation. He said regional power Saudi Arabia would bear the consequences and that the attack would not go unanswered.\nThe Iranian plane landed at Hodeidah airport instead.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-07-13T13:57:23+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "\u26a1\ufe0f\ud83c\uddef\ud83c\uddf4\ud83c\uddee\ud83c\uddf7 Jordan says they intercepted 4 Iranian missiles over their airspace earlier today.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-07-13T05:15:14+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "\ud83c\uddfa\ud83c\uddf8 #US - \ud83c\uddee\ud83c\uddf7 #Iran: The US military has launched overnight airstrikes against Omidiyeh Airport in Khuzestan Province, southern Iran.\nFootage from the scene shows explosions and a large fire following the strike. In a separate incident, one US airstrike hit just meters away from the Bushehr Nuclear Power Plant.\n(via & on X)",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-07-13T05:14:50+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "Kurdish opposition group PAK based in Erbil says they were targeted with three one way drones fired by the IRGC this morning.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-07-13T05:14:40+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "\ud83c\uddf7\ud83c\uddfa\ud83c\uddee\ud83c\uddf7\ud83e\ude96 \u2014 Russian Air Force Special Flight Squadron's Tu-214, reserved for Russian military & government officials, was spotted flying from Moscow's [Vnukovo International Airport](https://en.wikipedia.org/wiki/Vnukovo_International_Airport) towards Tehran, about to land \n\u2796\u2796\u2796\u2796\u2796\u2796\u2796\u2796\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u2796\u2796\u2796\u2796\u2796\u2796\u2796\u2796",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-07-13T05:14:32+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf7 U.S. CENTCOM says they\u2019ve completed round of strikes:\nU.S. Central Command (CENTCOM) completed a new wave of offensive strikes against Iran, July 12, hitting dozens of targets at multiple locations with precision munitions to degrade Iran\u2019s ability to continue attacking international shipping flowing through the Strait of Hormuz.\n \nCENTCOM forces struck Iranian military air-defense systems, coastal radar sites, missile and drone capabilities, and small boats using U.S. fighter aircraft, naval vessels, one-way attack aerial drones, and one-way attack sea drones for the first time.\n \nThe Strait of Hormuz is a vital maritime corridor for global trade. Iran does not control it.\n \nU.S. forces are postured and prepared to ensure that freedom of navigation remains available to commercial shipping despite Iran\u2019s continued unwarranted aggression, harassment, threats, and arbitrary declarations.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-07-13T03:26:30+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7\ud83c\uddef\ud83c\uddf4 Iran missiles are targeting the Jordanian Muwaffaq Salti Air Base",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-07-13T03:25:40+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udd0d Black Sea on fire: Why Russia ramping up pressure on Ukrainian ports\nRussian is turning up the heat on Ukraine's Black Sea coast, with Odessa squarely in the crosshairs. The ongoing campaign escalated this month, targeting key military logistics hubs and infrastructure critical to Ukraine\u2019s war effort.\nMain targets in sight\nSystematic Russian strikes on Ukraine\u2019s major Black Sea ports \u2014 Odessa, Ismail, and Chernomorsk \u2014 began on June 28, culminating with a strike on July 11 that crippled a key military supply corridor through Ismail, a vital chokepoint for Ukrainian forces.\nOn the night of July 12, Russia carried out one of its largest coordinated strikes yet, hitting both Odessa and Chernomorsk with missiles and drones. Acting as Odessa\u2019s backup port just 22 km away, Chernomorsk was targeted alongside military depots, fuel reserves, and naval drone launch sites \u2014 all of which were successfully struck.\nBy July 13, Russian drone strikes took out a key fuel and logistics hub in Chernomorsk that had been supplying front-line Ukrainian units.\nHere's a strategic logic for these strikes:\n\ud83d\udd36 Payback for Azov Sea. With Zelensky targeting Russian ports on the Sea of Azov in Taganrog, Azov and Mariupol, Russia had to respond and secure them. Those attacks originated from the Odessa region's coast. Now Russia is dismantling the very network that enabled them.\n\ud83d\udd36 Shielding Crime\u0430 and southern supply lines. Ukraine\u2019s naval drone campaign relies on Black Sea ports in the Odessa region. As Zelensky continues to push for the \u201creturn\u201d of Crimea and intensifies strikes on the peninsula, Russia is systematically destroying the coastal infrastructure that enables these very operations.\n\ud83d\udd36 Disrupting NATO's maritime deliveries. Through Black Sea ports, NATO members \u2014 especially Romania and Bulgaria \u2014 have been supplying arms to Ukraine. Should this route collapse, the vital corridor from Romania\u2019s Constanta port would be severed, placing the nearby NATO airbase at direct risk as well.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-07-13T15:41:55+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Geopolitics Prime",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddfa\ud83c\uddf8US unleashes sea drones against Iran for the first time\nThree Corsair unmanned surface vessels struck naval maintenance facilities at Iran\u2019s Bandar Abbas base, marking the first known US offensive combat use of sea drones, CENTCOM says.\nThe US claims the strikes were meant to weaken Iran's ability to target commercial shipping\u2014but they also mark a new stage in Washington's military escalation against Tehran.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-07-13T15:01:09+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Geopolitics Prime",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf6\ud83c\uddf8\ud83c\uddfe Iran's Hormuz grip resurrects defunct pipeline\u2014and makes unlikely bedfellows of the US, Iraq, Syria \nThe US, Iraq and Syria are putting the finishing touches on a deal to dust off an 800-kilometer pipeline from Iraq's northern oil hub of Kirkuk to the Syrian port of Baniyas on the Mediterranean.\nOnce capable of transporting up to 300,000 barrels of crude per day, the pipeline was left in ruins by US airstrikes during the 2003 invasion of Iraq.\n \n\u2709\ufe0f The project is expected to receive formal impetus during Iraqi Prime Minister Ali al-Zaidi\u2019s upcoming visit to the US, with Trump\u2019s special envoy to Syria and Iraq, Tom Barrack, quietly orchestrating the deal, reports the Middle East Eye.\nSyrian Foreign Minister Asaad al-Shaibani is expected to join the signing ceremony.\nThe urgency driving this project is Iran's enforced chokehold on the Strait of Hormuz. Iraq remains dependent on the waterway, which handles about 95% of its oil exports \u2014 revenue that accounts for roughly 90% of the national budget.\n \nEarlier this month, Iraq's government greenlit preliminary deals with US energy giants Capital TI and Chevron, alongside a Qatari firm, UCC, to assess a range of export routes\u2014chief among them the Basra\u2011Haditha\u2011Baniyas corridor.\n \nHowever, officials caution:\n\ud83d\udd34 The pipeline needs a complete overhaul, including new storage tanks, pumping stations, and electrical systems.\n\ud83d\udd34 reconstruction is projected to take up to three years, and cost over $4.5B\n \nAfter the US-backed ouster of Bashar al-Assad in late 2024, initial Syrian-Iraqi talks on the pipeline fizzled. Now, with fresh political winds blowing, the project has regained momentum.\nIraq\u2019s new PM Ali al-Zaidi has enthusiastically adopted a [pro-US posture](https://t.me/geopolitics_prime/71550) since taking office, promising to bring Iran-aligned militias under state control and in effect carrying out a [purge of pro-Iranian officials.](https://t.me/geopolitics_prime/71457)\n\ud83d\udcb5 Al Zaidi, a businessman with interests in real estate, banking, and logistics, has dangled lucrative investment priorities for American firms, appearing all too eager to assist the US in reshaping the Middle East following its humiliating defeat in the Strait of Hormuz.\n \nThen there is Syria's terrorist-turned-President Ahmed al\u2011Sharaa (aka Nusra Front leader Abu al-Julani), who entered the US orbit after the ouster of Assad in 2024.\n\ud83c\uddf9\ud83c\uddf7 Backed by Turkey and Gulf states including Qatar and Saudi Arabia, [Sharaa has benefited](https://t.me/geopolitics_prime/65038) from the Trump administration\u2019s decision to lift multiple layers of sanctions on Syria, including those targeting his former group, [Hay'at Tahrir al-Sham - aka al-Nusra Front](https://t.me/geopolitics_prime/52885), aka Al-Qaeda\u2019s branch in Syria. The US has launched the process of [removing Syria from the State Sponsors](https://t.me/ClashReport/88463) of Terrorism list \u2014 a designation it has held since 1979.\n \nUS envoy Tom Barrack has reportedly forged a close rapport with Zaidi, viewing the pipeline as a model for broader business projects in the Levant that he has trumpeted as benefiting both the US and local governments.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-07-13T13:32:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udea8Saudi bombs shut Sanaa Airport \u2014 but the Iranian plane still made it to Yemen, diverting safely to Hodeidah.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-07-13T12:59:11+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Geopolitics Prime",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
+    }
+  ]
+}

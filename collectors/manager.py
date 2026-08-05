@@ -86,7 +86,10 @@ def collect_all():
         if not source["enabled"]:
             continue
 
-        module_name = source["name"].lower().replace(" ", "_")
+        module_name = source.get(
+            "module",
+            source["name"].lower().replace(" ", "_")
+        )
 
         events.extend(_run_collector(
             "Trusted", f"collectors.trusted.{module_name}", module_name, is_async=False
@@ -131,3 +134,26 @@ def collect_all():
         ))
 
     return process(events)
+
+
+def write_output(events, output_path):
+    """
+    Writes events to output_path wrapped with a generated_at timestamp,
+    e.g. {"generated_at": "2026-08-05T10:00:00+00:00", "events": [...]}.
+
+    This is what lets the dashboard show "data collected X ago" as a
+    real fact about when the collectors actually ran, separate from
+    "page synced X ago" (which only proves the browser re-read whatever
+    file currently exists - it could be re-reading the exact same stale
+    file over and over and still say "just now").
+    """
+
+    from datetime import datetime, timezone
+
+    payload = {
+        "generated_at": datetime.now(timezone.utc).isoformat(),
+        "events": events,
+    }
+
+    with open(output_path, "w", encoding="utf-8") as f:
+        json.dump(payload, f, indent=2)

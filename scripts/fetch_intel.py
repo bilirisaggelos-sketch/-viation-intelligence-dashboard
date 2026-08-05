@@ -4,9 +4,7 @@ from pathlib import Path
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
 sys.path.append(str(PROJECT_ROOT))
 
-import json
-
-from collectors.manager import collect_all
+from collectors.manager import collect_all, write_output
 
 
 def main():
@@ -15,8 +13,7 @@ def main():
 
     output_path = PROJECT_ROOT / "data" / "live-intel.json"
 
-    with open(output_path, "w", encoding="utf-8") as f:
-        json.dump(events, f, indent=2)
+    write_output(events, output_path)
 
     print(f"{len(events)} event(s) written.")
 
