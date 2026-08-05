@@ -1,6 +1,44 @@
 {
-  "generated_at": "2026-08-05T17:04:57.972511+00:00",
+  "generated_at": "2026-08-05T18:55:37.897273+00:00",
   "events": [
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nMorristown, NJ, Sunday, August 9, 2026 through Sunday, August 9, 2026 Local\nFacility: ZNY",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "08/05/2026",
+      "location": "ZNY NJ",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nMorristown, NJ, Friday, August 7, 2026 Local\nFacility: ZNY",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "08/05/2026",
+      "location": "ZNY NJ",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nDenver, CO, Saturday, August 8, 2026 through Monday, August 10, 2026 Local\nFacility: ZDV",
@@ -325,14 +363,14 @@
       "verified_source_count": 1
     },
     {
-      "title": "Drone carrying explosives found at German airport, police say",
-      "text": "Drone carrying explosives found at German airport, police say\nThe drone was found near Ukrainian cargo planes before another object collided with a cargo aircraft in mid-air.",
+      "title": "After deadly Kyiv strike, Ukraine warns interceptor shortage is costing lives",
+      "text": "After deadly Kyiv strike, Ukraine warns interceptor shortage is costing lives\nWithout Patriot interceptors, Ukraine's skies are wide open and people are fully exposed to Russia's missile barrages.",
       "source": "BBC",
       "source_type": "osint",
       "publisher": "BBC World News",
       "severity": "info",
       "icon": "\ud83d\udcf0",
-      "timestamp": "2026-08-05T16:06:30+00:00",
+      "timestamp": "2026-08-05T18:19:51+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -344,14 +382,14 @@
       "verified_source_count": 1
     },
     {
-      "title": "Russia strike kills 21 as Ukraine says it needs more missile interceptors",
-      "text": "Russia strike kills 21 as Ukraine says it needs more missile interceptors\nThe Russia defence ministry said it had struck logistics hubs and supply centres in Kyiv and the surrounding region.",
+      "title": "Drone carrying explosives found at German airport, police say",
+      "text": "Drone carrying explosives found at German airport, police say\nThe drone was found near Ukrainian cargo planes before another object collided with a cargo aircraft in mid-air.",
       "source": "BBC",
       "source_type": "osint",
       "publisher": "BBC World News",
       "severity": "info",
       "icon": "\ud83d\udcf0",
-      "timestamp": "2026-08-05T12:26:26+00:00",
+      "timestamp": "2026-08-05T16:06:30+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -412,43 +450,23 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
         "Alsaa Plus EN",
-        "Geopolitics Prime",
         "Middle East Spectator"
       ],
-      "verified_source_count": 3
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\udde6\ud83c\uddea/\ud83c\uddfe\ud83c\uddea NEW: Smoke is seen rising near Jebel Ali Port Industrial Area, Dubai\nA warehouse or fuel depot has caught on fire, possibly hit by a Yemeni missile (unconfirmed).",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-04T23:32:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "The FAA is investigating a safety incident after President Donald Trump's Marine One helicopter and a departing Envoy Air passenger jet came closer than FAA rules allow near Ronald Reagan National Airport in Washington, D.C. \nThe incident reportedly occurred because air traffic controllers failed to halt commercial departures when Marine One took off. \nSource: The Guardian",
+      "text": "Yemen's Houthis say they struck the Saudi oil tanker Daisy in the Gulf of Aden with a ballistic missile, forcing it to turn back.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-05T15:35:08+00:00",
+      "timestamp": "2026-08-05T18:14:17+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -462,12 +480,12 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "The U.S. Treasury's OFAC removed counterterrorism sanctions from Iraqi carrier Fly Baghdad Airlines and two of its Boeing 737 aircraft.\nThe airline had been designated in January 2024 for allegedly helping the IRGC-Quds Force\u2014including flying weapons and fighters to Syria and Lebanon for Iranian proxies like Hezbollah and Kata'ib Hezbollah.\nTreasury stressed this is an administrative decision, not a policy shift toward Iran or the IRGC.\nThe airline's CEO stays on the sanctions list\u2014with his linkage actually updated to point directly at the IRGC-Quds Force.",
+      "text": "China successfully launched two Oriental Smart Eye (OSE) hyperspectral satellites aboard a Smart Dragon-3 rocket from a sea-based platform near Haiyang, Shandong, on August 5, 2026. \nEquipped with advanced hyperspectral imaging and onboard AI processors, the satellites can analyze land, water, vegetation, and minerals directly in orbit, reducing data processing time from days to minutes. \nTogether, they provide global coverage every five days and will support environmental monitoring, agriculture, and disaster management, including crop monitoring projects in Indonesia and Uzbekistan.\nSource: Xinhua",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-05T15:03:29+00:00",
+      "timestamp": "2026-08-05T17:43:25+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -481,12 +499,50 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Zelensky:\nUkraine will destroy Russian ballistic missile launchers.",
+      "text": "Multiple videos show mass Russian Iskander ballistic missile launches toward Kyiv and surrounding areas.\nMore launch footage appeared in one day than from all previous strikes combined.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-05T14:45:19+00:00",
+      "timestamp": "2026-08-05T17:26:07+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Wildberries\u2014Russia's dominant e-commerce platform\u2014may need up to about 1.3 trillion rubles (roughly $16 billion) to stabilize and rebuild after Ukrainian drone strikes destroyed or heavily damaged at least 14 logistics hubs.\nThe company's own direct losses could exceed 100 billion rubles (around $1.2 billion), reaching 200 billion (about $2.5 billion) in a worst case.\nSource: The Bell",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-05T17:21:22+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Netanyahu:\nZionism has won.\nBenjamin Ze'ev Herzl, has won.\nWe are winning.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-05T17:09:40+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -528,13 +584,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
         "Our Wars Today"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -671,39 +726,20 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Our Wars Today",
-      "text": "[Russia's Wildberries says warehouse in Vladimir region is on fire after Ukrainian drone attack](https://www.reuters.com/world/russias-wildberries-says-warehouse-vladimir-region-is-fire-after-ukrainian-drone-2026-08-03/)\nRussian \u200bonline retailer Wildberries said on Monday \u200cthat a Ukrainian drone attack on one of its warehouses in \u200bthe Vladimir region had \u200bcaused a fire to break \u2060out and that staff \u200bhad been evacuated. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://www.reuters.com/world/russias-wildberries-says-warehouse-vladimir-region-is-fire-after-ukrainian-drone-2026-08-03/)\nReuters | reuters\u200b.com \u2022 Aug 3, 2026",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddfa\ud83c\uddf8\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7CNN reports the U.S. military has used nearly 80% of its THAAD missile interceptors, while senior commanders are warning that Pentagon munitions stockpiles have fallen to dangerously low levels. \nThe report says the depletion follows months of operations related to the Iran conflict and has raised concerns about U.S. readiness for future high-intensity conflicts.\nThe Pentagon has not publicly confirmed the reported inventory figures.\n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-03T13:57:02+00:00",
+      "timestamp": "2026-08-05T17:34:00+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Our Wars Today"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Our Wars Today",
-      "text": "[Zelensky spoke about the negotiations on the creation of the Freya anti-ballistic system](https://www.pravda.com.ua/news/2026/08/03/8047034/)\nZelenskyi said that ten states and twelve companies already belong to the coalition to create the Freya anti-ballistic system, and negotiations on its expansion are ongoing. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://www.pravda.com.ua/news/2026/08/03/8047034/)\n\u0421\u0435\u0440\u0433\u0456\u0439 \u0421\u0438\u0434\u043e\u0440\u0435\u043d\u043a\u043e,\u0410\u043d\u0430\u0441\u0442\u0430\u0441\u0456\u044f \u041f\u0440\u043e\u0446 | pravda\u200b.com\u200b.ua \u2022 Aug 3, 2026",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-03T13:56:09+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Our Wars Today"
+        "Alsaa Plus EN"
       ],
       "verified_source_count": 1
     },
@@ -738,13 +774,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
-        "Our Wars Today"
+        "Alsaa Plus EN"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -758,14 +793,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
         "Alsaa Plus EN",
-        "Geopolitics Prime",
         "Middle East Spectator"
       ],
-      "verified_source_count": 3
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -789,12 +823,12 @@
     {
       "title": "Telegram",
       "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddf1\ud83c\udde7\ud83c\uddee\ud83c\uddf1 20 years ago, on August 5, 2006, a Lebanese Army adjutant proved that Lebanon's power relies on the equation:\narmy\u2013people\u2013resistance.\nOn that day, Israeli naval commandos from Shayetet 13 carried out a nighttime raid on an apartment building in the northern outskirts of Tyre, Lebanon, during the 2006 Lebanon War. The target was allegedly to capture the official in charge of Hezbollah's missile unit.\nEhud Olmert, former Prime Minister of Israel, stated: \"I was directly monitoring the landing operation of the paratrooper unit. Just as the operation was about to succeed without anyone noticing, a Lebanese soldier emerged and began firing toward the helicopter. Afterward, he discovered one of our groups, engaged them, and fell in the confrontation just dozens of meters away. That soldier thwarted the entire operation.\"\nThis soldier's name was Nidaa Abu Shaqra, and his bravery alerted Hezbollah to the Israeli operation. This led to the Israeli forces falling into an ambush that left 10 soldiers injured, 1 dead, and roughly 70 stranded .\nOn November 29, 2018, the Israeli website Walla published previously unseen footage showing the army rescuing its personnel after its forces failed to achieve the mission's objective. The footage showed Israeli airborne personnel rescuing 92 fighters returning from the operation.",
+      "text": "\u26a1\ud83c\uddee\ud83c\uddf9\ud83c\uddee\ud83c\uddf7 Italian Foreign Minister Antonio Tajani had a conversation with his Iranian counterpart Araghchi:\n\"I just spoke with Iranian Foreign Minister Abbas Araghchi. He outlined the negotiations that Iran is having with Oman to reopen the Strait of Hormuz to commercial traffic.\nI reiterated the importance of continuing the dialogue to quickly reach a political solution to the crisis, also with the United States, and to avoid new escalations. It is essential to guarantee full freedom of navigation in the Strait of Hormuz, without tolls or restrictions, in the interest of regional stability and the global economy.\nWe also spoke about Lebanon: I hope that the ongoing negotiations in Rome produce concrete results to consolidate the ceasefire and reach a general agreement.\nI reiterated to him that Iran's role is crucial to stop Hezbollah's military actions. Italy will continue to do its part to foster dialogue, security, and peace in the Middle East.\"",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-05T14:25:25+00:00",
+      "timestamp": "2026-08-05T17:24:13+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -808,12 +842,12 @@
     {
       "title": "Telegram",
       "publisher": "Mediterranean Man",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1\ud83c\uddf1\ud83c\udde7 \nIt is regrettable that Israel is waiting for an initiative from the enemy before responding. \nIt started with a drone that caused no injuries, then escalated to an exchange of fire and the injury of an officer, and today, the level of escalation has increased with a dangerous attack by Hezbollah, the details of which will be released later.\n\u2013 Israeli media.",
+      "text": "\u26a1\ud83c\uddf1\ud83c\udde7\ud83c\uddee\ud83c\uddf1 20 years ago, on August 5, 2006, a Lebanese Army adjutant proved that Lebanon's power relies on the equation:\narmy\u2013people\u2013resistance.\nOn that day, Israeli naval commandos from Shayetet 13 carried out a nighttime raid on an apartment building in the northern outskirts of Tyre, Lebanon, during the 2006 Lebanon War. The target was allegedly to capture the official in charge of Hezbollah's missile unit.\nEhud Olmert, former Prime Minister of Israel, stated: \"I was directly monitoring the landing operation of the paratrooper unit. Just as the operation was about to succeed without anyone noticing, a Lebanese soldier emerged and began firing toward the helicopter. Afterward, he discovered one of our groups, engaged them, and fell in the confrontation just dozens of meters away. That soldier thwarted the entire operation.\"\nThis soldier's name was Nidaa Abu Shaqra, and his bravery alerted Hezbollah to the Israeli operation. This led to the Israeli forces falling into an ambush that left 10 soldiers injured, 1 dead, and roughly 70 stranded .\nOn November 29, 2018, the Israeli website Walla published previously unseen footage showing the army rescuing its personnel after its forces failed to achieve the mission's objective. The footage showed Israeli airborne personnel rescuing 92 fighters returning from the operation.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-05T12:55:05+00:00",
+      "timestamp": "2026-08-05T14:25:25+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -941,6 +975,25 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
+      "text": "\u2721\ufe0f\ud83c\uddfa\ud83c\uddf3 How Israel\u2019s grotesque spying & sabotage track-record reached deep inside UN\n\ud83d\udd0a The Zionist state\u2019s espionage playbook, wielded brazenly against both its declared adversaries and principal patron \u2013 the US \u2013 was used to blunt international scrutiny of its genocidal 2014 Gaza offensive, reports Drop Site.\nThe emails, obtained from a hacked database of former Israeli Ambassador Ron Prosor, reveal Israel\u2019s espionage operation from inside the UN.\n\ud83d\udc49 Prosor privately pressed then-US Ambassador Samantha Power to help install a former Israeli mission adviser, Yahav Lichner, at the UN Population Fund.\nOnce in place, the mole fed classified intelligence to Israeli diplomats between 2014 and 2015, when Israel faced a UN Human Rights Council commission of inquiry into mass civilian killings in Gaza.\nIsraeli operatives weaponized the intel to lobby the US hard and systematically kneecap every UN initiative that threatened to hold Israel to account. \n\ud83d\udd34 In 2015, Lichner tipped off Prosor about damage-control meetings then-UN High Commissioner for Human Rights Zeid Ra'ad Al-Hussein held with White House officials, senators and AIPAC members\n\ud83d\udd34 He warned of threatened US funding and coached Israeli lobbying points\n\ud83d\udd34 After Israel launched Operation Protective Edge against Gaza, Lichner supplied Prosor with a letter from Palestinian President Mahmoud Abbas to then-Secretary-General Ban Ki-moon, and an unpublished draft of Ban's reply\n\ud83d\udd34 Lichner helped shape that reply, working with an unnamed female \"friend\" inside UN deliberations to improve the draft \"as much as possible\"\n\ud83d\udd34 He also gave advance notice of when the Gaza inquiry report would drop, and supplied real-time intel on UN deliberations over West Bank shootings of Palestinian teenagers\nLichner now serves as director of UNICEF's Washington office.\nThe episode fits Israel\u2019s consistent pattern, including:\n\ud83d\udd34 [Track record of betrayal](https://t.me/geopolitics_prime/70619) against the US, ranging from assassination plots (letter-bomb attempt on then-President Harry Truman) to the attack on USS Liberty\n\ud83d\udd34 [Industrial-scale espionage, from Jonathan Pollard](https://t.me/geopolitics_prime/57260) onward\n\ud83d\udd34 [Nuclear theft](https://t.me/geopolitics_prime/67308)\n\ud83d\udd34 [Election interference](https://t.me/geopolitics_prime/70960?single) (documented by Viginum against elections in France, the US, Scotland, Angola and Togo)\n\ud83d\udd34 [Funneling of US secrets and military tech](https://t.me/geopolitics_prime/70854) to third parties (including apartheid South Africa)\n\ud83d\udd34 Mossad-linked fake Arab media networks [to whitewash Zionist crimes](https://t.me/geopolitics_prime/72143)\n\ud83d\udd34 [Systematic recruitment](https://t.me/geopolitics_prime/72379) of informants through financial pressure and compromise\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-05T18:33:16+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
       "text": "\ud83d\ude80 Russia pounds Kiev logistics hubs and cripples Ukraine\u2019s military supply chain\nFacilities tied to Ukraine\u2019s Armed Forces and defense industry \u2013 hidden behind a civilian facade \u2013 went up in flames after a wave of Russian strikes. Kiev's attempt at playing the smartest player in the room have eventually backfired.\nWhich targets were hit?\n\ud83d\udfe5Ukrainian channels have compiled an extensive list of companies whose warehouse facilities were reportedly destroyed in Brovary, Obolon, Bucha, and other districts of the Kiev region:\nRetail:\n\u27a1\ufe0f [Novus](https://t.me/geopolitics_prime/73125)\n\u27a1\ufe0f [Rozetka](https://t.me/geopolitics_prime/73118)\n\u27a1\ufe0f Fozzy Group / Silpo Food\n\u27a1\ufe0f Epicentr K\n\u27a1\ufe0f Internop\n\u27a1\ufe0f PUMA\nLogistics & industry:\n\u27a1\ufe0f Nova Poshta\n\u27a1\ufe0f Raben Ukraine\n\u27a1\ufe0fBrokbridge\n\u27a1\ufe0f Plastmas Plant\n\u27a1\ufe0f Eurobeton\n\ud83c\udf0f German automotive chemicals giant Liqui Moly confirmed on social media the total destruction of its central product warehouse in Ukraine\n\ud83c\udf0f The Trans-Logistic and MLP-Chaika logistics centers in Kiev were also reportedly hit\n\ud83c\udf0f The total area of logistics centers affected by the explosions was estimated at around 300,000 square meters\nWhat role did they play in Ukraine's war effort? Russia's Defense Ministry provides a tip:\n\ud83d\udd34 Terminal Brovary logistics hub \u2013 was storing foreign-made and other drone components\n\ud83d\udd34 Raben Ukraine logistics center \u2013 a major distribution hub for drone parts and equipment\n\ud83d\udd34 Nova Poshta Brovary hub \u2013 a sorting complex storing aircraft-type drones and components\n\ud83d\udd34 Nova Poshta innovation terminal \u2013 a major automated sorting center handling dual-use goods, drone components, robotic systems, and electronic warfare equipment\n\ud83d\udd34 MLP-Chaika logistics hub \u2014 was used to store and distribute components for long- and medium-range drones\n\ud83d\udd34 Trans-Logistic hub \u2013 was involved in drone production, as well as storage and distribution of military supplies\n\ud83d\udd34 Epicentr K \u2013 a large automated warehouse handling dual-use goods and UAV components.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
@@ -975,27 +1028,6 @@
         "Geopolitics Prime"
       ],
       "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udea8 Houthis claim another Saudi oil tanker hit \nYemen's Houthis have said they carried out a ballistic missile strike on the Saudi tanker \"Wafa\" off Yanbu, northern Red Sea \u2014 scoring a direct hit.\nKey takeaways from the statement:\n\ud83c\udf0f 8th Saudi tanker [targeted since July 22](https://t.me/geopolitics_prime/72757)\n\ud83c\udf0f 29 other tankers forced to turn back\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-05T07:10:49+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Geopolitics Prime",
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 3
     },
     {
       "title": "Telegram",
