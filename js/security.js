@@ -261,27 +261,57 @@ function showIntelEvent(index) {
 
     }
 
-    const verificationLine =
-        (item.verification_status && item.verification_status !== "UNVERIFIED" && item.verification_status !== "OFFICIAL")
-            ? `<br><b>Verification</b><br>${item.verification_status} \u00B7 reported by ${item.verified_sources.join(", ")}<br><br>`
-            : "<br>";
-
-    document.getElementById("info").innerHTML = `
-
-        <h3>${item.icon || ""} ${item.source}</h3>
-        <b>${item.publisher || ""}</b>
-        <hr>
-        <b>Location</b><br>
-        ${item.location || "Unknown"}<br><br>
-        <b>Event</b><br>
-        ${item.text}<br>
-        ${verificationLine}
-        <b>Time</b><br>
-        ${timeAgo(item.timestamp)}
-
-    `;
+    openEventModal(item);
 
 }
+
+// =====================
+// EVENT DETAIL MODAL
+// =====================
+// Feed cards clamp to 3 lines so the list stays scannable - clicking one
+// opens this popup with the full, unclamped text instead of cramming it
+// into the small fixed-height "Country / Event Details" panel (which
+// stays dedicated to CZIB/country clicks via showCountry()).
+
+function openEventModal(item) {
+
+    const overlay = document.getElementById("eventModalOverlay");
+    if (!overlay) return;
+
+    document.getElementById("eventModalIconSource").textContent =
+        `${item.icon || ""} ${item.source}`;
+
+    const badge = document.getElementById("eventModalTypeBadge");
+    badge.textContent = badgeLabelFor(item);
+    badge.className = "badge " + badgeClassFor(item);
+
+    document.getElementById("eventModalPublisher").textContent = item.publisher || "";
+
+    document.getElementById("eventModalVerify").innerHTML = verificationBadge(item);
+
+    document.getElementById("eventModalText").textContent = item.text;
+
+    document.getElementById("eventModalLocation").textContent = item.location || "Unknown";
+    document.getElementById("eventModalTime").textContent =
+        `${timeAgo(item.timestamp)} (${new Date(item.timestamp).toUTCString()})`;
+
+    overlay.classList.add("open");
+
+}
+
+function closeEventModal() {
+    document.getElementById("eventModalOverlay")?.classList.remove("open");
+}
+
+document.getElementById("eventModalClose")?.addEventListener("click", closeEventModal);
+
+document.getElementById("eventModalOverlay")?.addEventListener("click", function (e) {
+    if (e.target === this) closeEventModal();
+});
+
+document.addEventListener("keydown", function (e) {
+    if (e.key === "Escape") closeEventModal();
+});
 
 // =====================
 // LIVE STATUS INDICATOR
