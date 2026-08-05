@@ -80,7 +80,7 @@ the collectors and update those files periodically.
 - `data/czib-live.json` is refreshed automatically every 6 hours by the
   `Update CZIB` GitHub Action.
 - `data/live-intel.json` (FAA, NOAA, Telegram, Instagram) is refreshed
-  every 30 minutes by the `Update Intelligence` GitHub Action — **but
+  every 5 minutes by the `Update Intelligence` GitHub Action — **but
   only once you've added these repo secrets** (Settings → Secrets and
   variables → Actions):
   - `TELEGRAM_API_ID`, `TELEGRAM_API_HASH`

@@ -12,6 +12,16 @@ let seenEventIds = new Set();
 let firstPollDone = false;
 let alertsEnabled = false;
 
+// Persistent chronological log of every alert-worthy event that's shown
+// up since the page was opened - newest first. Desktop notifications
+// disappear in a few seconds, which is too fast to read and click before
+// they're gone; this keeps them all visible in the dashboard itself so
+// nothing gets missed, independent of whether desktop alerts are even
+// enabled.
+let alertHistory = [];
+let unseenAlertCount = 0;
+const MAX_ALERT_HISTORY = 60;
+
 // -----------------------
 // Audio alert (no external file - generated tone, so no asset/licensing
 // to manage on a kiosk box)
@@ -59,7 +69,51 @@ function playAlertTone(urgent) {
 // Browser notification
 // -----------------------
 
+function revealEvent(eventId) {
+
+    // The item that triggered this alert might be hidden right now by
+    // whichever feed tab/filters the person happens to be on (e.g.
+    // they're looking at "Official" and the alert came from Telegram) -
+    // reset to "All" and jump straight to the card instead of leaving
+    // them to hunt for something they can't find.
+    if (typeof setFeedTab === "function") setFeedTab("all");
+
+    ["filterCritical", "filterWarning", "filterInfo"].forEach(id => {
+        const el = document.getElementById(id);
+        if (el) el.checked = true;
+    });
+
+    document.querySelectorAll(".sourceFilter").forEach(cb => cb.checked = true);
+
+    if (typeof renderIntelFeed === "function") renderIntelFeed();
+
+    document.getElementById("alertHistoryPanel")?.classList.remove("open");
+
+    setTimeout(() => {
+
+        const card = document.querySelector(`[data-event-id="${eventId}"]`);
+
+        if (card) {
+            card.scrollIntoView({ behavior: "smooth", block: "center" });
+            card.classList.remove("navHighlight");
+            void card.offsetWidth;
+            card.classList.add("navHighlight");
+            setTimeout(() => card.classList.remove("navHighlight"), 1100);
+        }
+
+    }, 50);
+
+}
+
 function notifyNewEvent(item) {
+
+    // Log it regardless of whether desktop notifications are enabled/
+    // granted - the in-dashboard history is the reliable record; the OS
+    // notification is just an optional extra ping on top of it.
+    alertHistory.unshift(item);
+    if (alertHistory.length > MAX_ALERT_HISTORY) alertHistory.length = MAX_ALERT_HISTORY;
+    unseenAlertCount++;
+    renderAlertHistory();
 
     if (!alertsEnabled || typeof Notification === "undefined") return;
     if (Notification.permission !== "granted") return;
@@ -78,9 +132,56 @@ function notifyNewEvent(item) {
     n.onclick = () => {
         window.focus();
         n.close();
+        revealEvent(item.id);
     };
 
     playAlertTone(isCritical);
+
+}
+
+function renderAlertHistory() {
+
+    const countEl = document.getElementById("alertHistoryCount");
+    const emptyEl = document.getElementById("alertHistoryEmpty");
+    const listEl = document.getElementById("alertHistoryList");
+
+    if (countEl) {
+        countEl.style.display = unseenAlertCount > 0 ? "inline-block" : "none";
+        countEl.textContent = unseenAlertCount;
+    }
+
+    if (!listEl) return;
+
+    if (emptyEl) emptyEl.style.display = alertHistory.length ? "none" : "inline-block";
+
+    listEl.innerHTML = alertHistory.map(item => `
+        <div class="alertHistoryRow hist-${item.severity}" onclick="revealEvent('${item.id}')">
+            <div class="alertHistoryTop">
+                <span>${item.icon || ""} ${item.source}</span>
+                <span class="alertHistoryTime">${typeof timeAgo === "function" ? timeAgo(item.timestamp) : ""}</span>
+            </div>
+            <div class="alertHistoryText">${item.text}</div>
+        </div>
+    `).join("");
+
+}
+
+function initAlertHistoryButton() {
+
+    const btn = document.getElementById("alertHistoryBtn");
+    if (!btn) return;
+
+    btn.addEventListener("click", () => {
+
+        document.getElementById("layersPanel")?.classList.remove("open");
+        document.getElementById("filtersPanel")?.classList.remove("open");
+
+        document.getElementById("alertHistoryPanel")?.classList.toggle("open");
+
+        unseenAlertCount = 0;
+        renderAlertHistory();
+
+    });
 
 }
 
@@ -173,6 +274,8 @@ function detectAndAlertNewEvents(feedData) {
 function startLivePolling() {
 
     initAlertsButton();
+    initAlertHistoryButton();
+    renderAlertHistory();
 
     setInterval(() => {
         updateSecurityFeed();

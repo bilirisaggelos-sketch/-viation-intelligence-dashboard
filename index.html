@@ -102,6 +102,10 @@
 
                 <button id="alertsBtn" class="hbtn">🔕 Enable Alerts</button>
 
+                <button id="alertHistoryBtn" class="hbtn">
+                    🔔 History <span class="countPill" id="alertHistoryCount" style="display:none">0</span>
+                </button>
+
                 <button id="refreshBtn" class="hbtn">
                     <svg viewBox="0 0 24 24" fill="none"><path d="M4 12a8 8 0 0 1 13.7-5.7L20 8M20 4v4h-4M20 12a8 8 0 0 1-13.7 5.7L4 16m0 4v-4h4" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/></svg>
                     Refresh
@@ -145,6 +149,11 @@
             <label><input id="filterInfo" type="checkbox" checked> Info</label>
             <h4>Sources</h4>
             <div id="sourceFilters"></div>
+        </div>
+
+        <div id="alertHistoryPanel" class="popover popoverWide">
+            <h4>Alert History <span id="alertHistoryEmpty" class="soon" style="display:none">empty</span></h4>
+            <div id="alertHistoryList"></div>
         </div>
 
         <!-- ================= CONTENT ================= -->

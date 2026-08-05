@@ -171,10 +171,11 @@ document.querySelectorAll(".navItem").forEach(btn => {
 // HEADER POPOVERS (Layers / Filters)
 // =====================
 
-function togglePopover(id, btnId) {
+function togglePopover(id) {
 
     const panel = document.getElementById(id);
-    const otherIds = ["layersPanel", "filtersPanel"].filter(x => x !== id);
+    const allIds = ["layersPanel", "filtersPanel", "alertHistoryPanel"];
+    const otherIds = allIds.filter(x => x !== id);
 
     otherIds.forEach(other => {
         document.getElementById(other).classList.remove("open");
@@ -195,11 +196,13 @@ document.addEventListener("click", function (e) {
     const isInside =
         e.target.closest(".popover") ||
         e.target.closest("#layersBtn") ||
-        e.target.closest("#filtersBtn");
+        e.target.closest("#filtersBtn") ||
+        e.target.closest("#alertHistoryBtn");
 
     if (!isInside) {
         document.getElementById("layersPanel").classList.remove("open");
         document.getElementById("filtersPanel").classList.remove("open");
+        document.getElementById("alertHistoryPanel").classList.remove("open");
     }
 
 });

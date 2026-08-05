@@ -213,7 +213,7 @@ function renderIntelFeed() {
     document.getElementById("intelFeed").innerHTML =
         filteredFeed.map((item, index) => `
 
-        <div class="card feed-${item.severity}" onclick="showIntelEvent(${index})">
+        <div class="card feed-${item.severity}" data-event-id="${item.id}" onclick="showIntelEvent(${index})">
 
             <div class="cardTopRow">
                 <div class="cardSource">${item.icon || ""} ${item.source}</div>
