@@ -598,9 +598,10 @@ header p{
     font-size:12px;
     font-weight:700;
     letter-spacing:.05em;
-    margin-bottom:12px;
+    margin-bottom:2px;
 }
 #feedNewCount{ background:#1d3a6e; }
+#feedCheckedAt{ margin-bottom:10px; }
 
 #feedTabs{
     display:flex;

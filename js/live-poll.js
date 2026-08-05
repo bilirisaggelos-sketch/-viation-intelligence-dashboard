@@ -120,8 +120,12 @@ function notifyNewEvent(item) {
 
     const isCritical = item.severity === "critical";
 
+    const sourceLabel = item.publisher && item.publisher !== item.source
+        ? `${item.source} \u00B7 ${item.publisher}`
+        : item.source;
+
     const n = new Notification(
-        `${isCritical ? "\u{1F6A8} CRITICAL" : "\u26A0\uFE0F New Intel"} \u2014 ${item.source}`,
+        `${isCritical ? "\u{1F6A8} CRITICAL" : "\u26A0\uFE0F New Intel"} \u2014 ${sourceLabel}`,
         {
             body: (item.text || "").slice(0, 160),
             tag: item.id,
@@ -157,7 +161,7 @@ function renderAlertHistory() {
     listEl.innerHTML = alertHistory.map(item => `
         <div class="alertHistoryRow hist-${item.severity}" onclick="revealEvent('${item.id}')">
             <div class="alertHistoryTop">
-                <span>${item.icon || ""} ${item.source}</span>
+                <span>${item.icon || ""} ${item.source}${item.publisher && item.publisher !== item.source ? " · " + item.publisher : ""}</span>
                 <span class="alertHistoryTime">${typeof timeAgo === "function" ? timeAgo(item.timestamp) : ""}</span>
             </div>
             <div class="alertHistoryText">${item.text}</div>

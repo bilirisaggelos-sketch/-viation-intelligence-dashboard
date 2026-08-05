@@ -43,6 +43,15 @@ function clock() {
             });
     }
 
+    // "Feed checked X ago" - proof the 25s poll loop is actually alive,
+    // independent of whether the newest article itself is old (a source
+    // simply not posting anything new isn't a polling failure).
+    const checkedEl = document.getElementById("feedCheckedAt");
+    if (checkedEl && window.lastFeedCheckAt) {
+        checkedEl.textContent =
+            "Checked " + (typeof timeAgo === "function" ? timeAgo(window.lastFeedCheckAt.toISOString()) : "recently");
+    }
+
 }
 
 setInterval(clock, 1000);

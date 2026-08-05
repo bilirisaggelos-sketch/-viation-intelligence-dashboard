@@ -97,6 +97,7 @@ function updateSecurityFeed() {
         .then(feedData => {
 
             window.intelDataAll = feedData;
+            window.lastFeedCheckAt = new Date();
 
             if (typeof detectAndAlertNewEvents === "function") {
                 detectAndAlertNewEvents(feedData);
@@ -115,6 +116,9 @@ function updateSecurityFeed() {
 
             document.getElementById("intelFeed").innerHTML =
                 "<div class='card'>Feed unavailable</div>";
+
+            const checkedEl = document.getElementById("feedCheckedAt");
+            if (checkedEl) checkedEl.textContent = "Last check failed \u2014 see console";
 
         });
 
