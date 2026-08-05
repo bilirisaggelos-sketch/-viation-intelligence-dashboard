@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T18:55:37.897273+00:00",
+  "generated_at": "2026-08-05T20:36:41.270968+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -389,7 +389,7 @@
       "publisher": "BBC World News",
       "severity": "info",
       "icon": "\ud83d\udcf0",
-      "timestamp": "2026-08-05T16:06:30+00:00",
+      "timestamp": "2026-08-05T20:01:51+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -418,6 +418,26 @@
         "BBC World News"
       ],
       "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddfe\ud83c\uddea/\ud83c\uddf8\ud83c\udde6 NEW: The Yemeni Armed Forces announce they targeted the \u2018Daisy\u2019 vessel, a Saudi oil tanker, off the coast of Aden with ballistic missiles\nThis is the second Saudi tanker that was targeted today.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-05T19:06:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Clash Report",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -461,12 +481,12 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Yemen's Houthis say they struck the Saudi oil tanker Daisy in the Gulf of Aden with a ballistic missile, forcing it to turn back.",
+      "text": "Iranian President Masoud Pezeshkian:\nCommunicating with Mojtaba Khamenei is very difficult now, but his presence is a significant source of strength for us, allowing us to maintain the process. \nIn the events they initiated, regarding the message he gave stating that while he was fundamentally opposed, he would now permit it to take shape, a group of people seeking division tried to reopen that rift to pursue their own partisan agendas, constantly magnifying the issue.\nWhat his eminence said was entirely correct. He had a perspective; in the conclusion reached within that same council, a report was recently presented to him, and he stated that if it received three-quarters of the votes, he would accept it. It actually received 12/13ths of the votes, and he accepted. \nThis act of accepting an expert opinion and deciding accordingly was turned into an excuse by some to create division and make unfair, dishonest claims, attempting to portray others in a certain light.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-05T18:14:17+00:00",
+      "timestamp": "2026-08-05T19:11:41+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -476,6 +496,26 @@
         "Clash Report"
       ],
       "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Yemen's Houthis say they struck the Saudi oil tanker Daisy in the Gulf of Aden with a ballistic missile, forcing it to turn back.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-05T18:14:17+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Clash Report",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -524,25 +564,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-05T17:21:22+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Netanyahu:\nZionism has won.\nBenjamin Ze'ev Herzl, has won.\nWe are winning.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-05T17:09:40+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -688,44 +709,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Our Wars Today",
-      "text": "[Turkey calls on Russia, Ukraine to ensure Black Sea safety after drone attack](https://www.reuters.com/world/middle-east/turkey-calls-russia-ukraine-ensure-black-sea-safety-after-drone-attack-2026-08-04/)\nTurkey on Tuesday called \u200bon Russia and \u200cUkraine to take measures to ensure navigational \u200bsafety in \u200bthe Black Sea after \u2060a drone attack hit \u200ba Turkish-owned vessel \u200band seriously injured three crew members near Russia's \u200bNovorossiysk port. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://www.reuters.com/world/middle-east/turkey-calls-russia-ukraine-ensure-black-sea-safety-after-drone-attack-2026-08-04/)\nReuters | reuters\u200b.com \u2022 Aug 4, 2026",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-04T11:15:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Our Wars Today"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Our Wars Today",
-      "text": "[Ukraine accuses Russia of war crime\u00a0after video shows drone hunting market vendor](https://www.reuters.com/world/europe/ukraine-accuses-russia-war-crime-after-video-shows-drone-hunting-market-vendor-2026-08-04/)\nUkrainian Foreign Minister Andrii Sybiha on Tuesday accused Russia of committing a war crime after a video was released showing a drone chasing down and wounding a street \u200bvendor in the southern Ukrainian city of Kherson. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://www.reuters.com/world/europe/ukraine-accuses-russia-war-crime-after-video-shows-drone-hunting-market-vendor-2026-08-04/)\nReuters | reuters\u200b.com \u2022 Aug 4, 2026",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-04T11:14:48+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Our Wars Today"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Alsaa Plus EN",
       "text": "\ud83c\uddfa\ud83c\uddf8\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7CNN reports the U.S. military has used nearly 80% of its THAAD missile interceptors, while senior commanders are warning that Pentagon munitions stockpiles have fallen to dangerously low levels. \nThe report says the depletion follows months of operations related to the Iran conflict and has raised concerns about U.S. readiness for future high-intensity conflicts.\nThe Pentagon has not publicly confirmed the reported inventory figures.\n\u26aa\ufe0f",
       "source": "Telegram",
@@ -829,25 +812,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-05T17:24:13+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddf1\ud83c\udde7\ud83c\uddee\ud83c\uddf1 20 years ago, on August 5, 2006, a Lebanese Army adjutant proved that Lebanon's power relies on the equation:\narmy\u2013people\u2013resistance.\nOn that day, Israeli naval commandos from Shayetet 13 carried out a nighttime raid on an apartment building in the northern outskirts of Tyre, Lebanon, during the 2006 Lebanon War. The target was allegedly to capture the official in charge of Hezbollah's missile unit.\nEhud Olmert, former Prime Minister of Israel, stated: \"I was directly monitoring the landing operation of the paratrooper unit. Just as the operation was about to succeed without anyone noticing, a Lebanese soldier emerged and began firing toward the helicopter. Afterward, he discovered one of our groups, engaged them, and fell in the confrontation just dozens of meters away. That soldier thwarted the entire operation.\"\nThis soldier's name was Nidaa Abu Shaqra, and his bravery alerted Hezbollah to the Israeli operation. This led to the Israeli forces falling into an ambush that left 10 soldiers injured, 1 dead, and roughly 70 stranded .\nOn November 29, 2018, the Israeli website Walla published previously unseen footage showing the army rescuing its personnel after its forces failed to achieve the mission's objective. The footage showed Israeli airborne personnel rescuing 92 fighters returning from the operation.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-05T14:25:25+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
