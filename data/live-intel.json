@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T13:00:14.856579+00:00",
+  "generated_at": "2026-08-05T15:24:41.191103+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -325,6 +325,25 @@
       "verified_source_count": 1
     },
     {
+      "title": "Drone carrying explosives found at German airport, police say",
+      "text": "Drone carrying explosives found at German airport, police say\nThe drone was found near Ukrainian cargo planes before another object collided with a cargo aircraft in mid-air.",
+      "source": "BBC",
+      "source_type": "osint",
+      "publisher": "BBC World News",
+      "severity": "info",
+      "icon": "\ud83d\udcf0",
+      "timestamp": "2026-08-05T14:32:27+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "BBC World News"
+      ],
+      "verified_source_count": 1
+    },
+    {
       "title": "Russia strike kills 21 as Ukraine says it needs more missile interceptors",
       "text": "Russia strike kills 21 as Ukraine says it needs more missile interceptors\nThe Russia defence ministry said it had struck logistics hubs and supply centres in Kyiv and the surrounding region.",
       "source": "BBC",
@@ -344,14 +363,14 @@
       "verified_source_count": 1
     },
     {
-      "title": "Drone carrying explosives found at German airport, police say",
-      "text": "Drone carrying explosives found at German airport, police say\nThe drone was found in the cargo area near a Ukrainian aircraft before another suspected object collided with a cargo aircraft in mid-air.",
+      "title": "What can scientists learn from a stray SpaceX rocket hitting the Moon?",
+      "text": "What can scientists learn from a stray SpaceX rocket hitting the Moon?\nWhile the collision was an accident, it is a unique scientific gift for planetary geologists that could provide important data for future space missions.",
       "source": "BBC",
       "source_type": "osint",
       "publisher": "BBC World News",
       "severity": "info",
       "icon": "\ud83d\udcf0",
-      "timestamp": "2026-08-05T12:48:37+00:00",
+      "timestamp": "2026-08-05T11:19:24+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -359,6 +378,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "BBC World News"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014 \ud83c\uddee\ud83c\uddf1/\ud83c\uddf5\ud83c\uddf8 NEW: Interceptor missiles were launched in Ashdod, near the Gaza Strip; the cause is unknown.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-05T15:23:55+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
       ],
       "verified_source_count": 1
     },
@@ -423,90 +461,13 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2018They have no air defense, they have no radar, 90% of their missiles are gone, we totally control the Strait of Hormuz\u2019\n\u2013 Ayatollah Khamenei, 2026, talking about U.S. Central Command.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-04T20:41:56+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7 BREAKING: The U.S. military has depleted nearly 80% of its THAAD missile interceptors in the war with Iran, sources tell CNN\nThe U.S. has also used up roughly half of its Patriot interceptor missiles, seriously limiting the capability to intercept Iranian ballistic missiles fired at Gulf states and Israel.\nThe Pentagon has warned President Trump repeatedly in recent weeks that the low stockpiles could carry serious consequences in any new round of prolonged fighting with Iran.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-04T20:31:38+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7 NEW: Iranian ballistic missiles, for the first time, are proven to have advanced anti-jamming capabilities, and warheads being equipped with a 4-element GNSS/GPS module for improved accuracy\nEquipping the missiles with CRPA (controlled reception pattern antennas) explains the increase in accuracy and lethality of Iran\u2019s ballistic missiles in recent months.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-04T20:22:05+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea NEW: The Yemeni drone strike on Najran International Airport in Saudi Arabia destroyed the main air traffic control radar \u2013 France24",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-04T19:32:19+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "This is the drone carrying an improvised explosive device found on the tarmac at Leipzig/Halle Airport, only meters from a Ukrainian Antonov An-124 cargo plane.\nAuthorities safely neutralized it after discovering the detonator was defective, preventing an explosion.\nIn a separate incident the same night, a DHL cargo plane hit an unidentified object\u2014possibly another drone\u2014and landed safely with minor damage.",
+      "text": "The U.S. Treasury's OFAC removed counterterrorism sanctions from Iraqi carrier Fly Baghdad Airlines and two of its Boeing 737 aircraft.\nThe airline had been designated in January 2024 for allegedly helping the IRGC-Quds Force\u2014including flying weapons and fighters to Syria and Lebanon for Iranian proxies like Hezbollah and Kata'ib Hezbollah.\nTreasury stressed this is an administrative decision, not a policy shift toward Iran or the IRGC.\nThe airline's CEO stays on the sanctions list\u2014with his linkage actually updated to point directly at the IRGC-Quds Force.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-05T12:37:17+00:00",
+      "timestamp": "2026-08-05T15:03:29+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -520,12 +481,50 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "French President Macron:\nIn Kyiv and its region, Russia has once again chosen to target civilians. This policy of terror, carried out with missiles and drones, is unacceptable.\nEach new attack reinforces an obvious truth: Russia must pay the price for its aggression and answer for its crimes. Alongside Ukraine, we will not yield to either fatigue or intimidation.\nThe European Union and its partners will continue to increase the pressure on Russia, including through new sanctions, while strengthening military support for Ukraine so that it can defend itself and protect its population.",
+      "text": "Zelensky:\nUkraine will destroy Russian ballistic missile launchers.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-05T11:36:59+00:00",
+      "timestamp": "2026-08-05T14:45:19+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Explosive Drone Found Next to Ukrainian Cargo Plane in Germany\nA drone rigged with explosive nitrates was discovered meters from a Ukrainian Antonov cargo plane on tarmac at Leipzig/Halle Airport, which failed to detonate because detonator was severed.\n[READ MORE](https://clashreport.com/world/articles/explosive-drone-found-next-to-ukrainian-cargo-plane-in-germany-jho3pzz67kj)",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-05T13:29:34+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "A newly surfaced photo of Iran\u2019s Kheybar Shekan missile re-entry vehicle appears to confirm it is equipped with an advanced anti-jamming satellite guidance system and maneuverable warhead.\nIt indicates a significant upgrade in the missile\u2019s accuracy and resistance to electronic warfare.\nThe antenna closely resembles Chinese military GNSS designs, potentially pointing to Chinese technology or design influence.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-05T13:10:29+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -567,12 +566,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
+        "Alsaa Plus EN",
         "Our Wars Today"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -748,6 +748,45 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf6\ud83c\uddee\ud83c\uddf7\u26a1\ufe0f \u2014 The sanctions lifted include those imposed on the Iraqi airline Fly Baghdad and several of its aircraft, which had previously been designated over alleged ties to the Islamic Revolutionary Guard Corps\u2019 Quds Force.\nThe measures remove Fly Baghdad (also registered as Iraq Express) and two Boeing 737 aircraft (registration numbers YI-BAF and YI-BAN) from the U.S. Treasury Department\u2019s Office of Foreign Assets Control (OFAC) list of Specially Designated Nationals and Blocked Persons (SDN List), thereby ending their terrorism-related designation.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-05T14:24:58+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddfa\ud83c\udde6\u26a1\ufe0f\ud83c\uddf0\ud83c\uddf5\ud83c\uddf7\ud83c\uddfa Ukraine's military intelligence (HUR) says North Korea has begun deploying a missile unit to western Russia, with plans to provide up to 120 KN-23/KN-24 ballistic missiles and six launchers for use against Ukraine. \nAccording to HUR, the unit consists of around 90 North Korean personnel and is reportedly being stationed in Russia's Voronezh region alongside the 112th Missile Brigade. \nRussia and North Korea have not publicly confirmed the deployment.\nSource: Reuters\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-05T13:23:00+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Our Wars Today"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
       "text": "\ud83c\uddfe\ud83c\uddea\ud83c\udd92\ud83c\uddfe\ud83c\uddea\ud83d\udeab\ud83c\uddf8\ud83c\udde6\u26a1\ufe0f\u2014 Yemeni forces announced that they had targeted the Saudi oil tanker \"Wafa\" in the northern Red Sea, near the Yanbu area, using several ballistic missiles. The strikes were precise.\n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
@@ -787,59 +826,20 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf7\u26a1\ufe0f \u2014 Iran's attacks on U.S. bases in the region have depleted 80% of THAAD interceptor reserves and half of Patriot missiles, according to CNN.\n\u26aa\ufe0f",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ud83c\uddf1\ud83c\udde7\ud83c\uddee\ud83c\uddf1 20 years ago, on August 5, 2006, a Lebanese Army adjutant proved that Lebanon's power relies on the equation:\narmy\u2013people\u2013resistance.\nOn that day, Israeli naval commandos from Shayetet 13 carried out a nighttime raid on an apartment building in the northern outskirts of Tyre, Lebanon, during the 2006 Lebanon War. The target was allegedly to capture the official in charge of Hezbollah's missile unit.\nEhud Olmert, former Prime Minister of Israel, stated: \"I was directly monitoring the landing operation of the paratrooper unit. Just as the operation was about to succeed without anyone noticing, a Lebanese soldier emerged and began firing toward the helicopter. Afterward, he discovered one of our groups, engaged them, and fell in the confrontation just dozens of meters away. That soldier thwarted the entire operation.\"\nThis soldier's name was Nidaa Abu Shaqra, and his bravery alerted Hezbollah to the Israeli operation. This led to the Israeli forces falling into an ambush that left 10 soldiers injured, 1 dead, and roughly 70 stranded .\nOn November 29, 2018, the Israeli website Walla published previously unseen footage showing the army rescuing its personnel after its forces failed to achieve the mission's objective. The footage showed Israeli airborne personnel rescuing 92 fighters returning from the operation.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-04T21:47:07+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83d\udea8\ud83c\uddfa\ud83c\udde6\u274c\ud83c\uddf7\ud83c\uddfa \u2014 Kyiv is under a massive multi-wave missile attack. Russia has launched a combination of ballistic missiles, Iskander-M ballistic missiles, and Zircon hypersonic cruise missiles toward the capital, with additional launches reported from the Chernihiv direction. At least 25+ missiles tracked in total, with impacts confirmed in Kyiv and the Bilotserkivskyi district.\n\u27a1\ufe0f North Korean-supplied KN-23 ballistic missiles are also believed to have been used in tonight's attack \u2014 OSINT reports.\n\u2b50\ufe0f Follow",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-04T21:46:46+00:00",
+      "timestamp": "2026-08-05T14:25:25+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddf7\ud83c\uddfa\ud83d\udeab\ud83c\uddfa\ud83c\udde6\u26a1\ufe0f\u2014 Massive Russian missile attack on the Ukrainian capital, Kyiv; it should be noted that, as of now, Ukraine has virtually no air defense missiles left.\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-04T21:29:23+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
+        "Mediterranean Man"
       ],
       "verified_source_count": 1
     },
@@ -979,7 +979,7 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83c\udf0f\ud83c\uddee\ud83c\uddf7 How Iran is expanding its geopolitical contest with the US and Israel beyond Middle East\nIran is not sitting on the sidelines as Gulf states, Israel and their Western allies extend their influence across Africa, Latin America and Asia \u2013 the Islamic Republic is playing its own geopolitical game.\nAfrica\nIran is accelerating its African outreach: after decades of ties, it made the continent a foreign policy priority in 2024 and convened three Iran-Africa summits between 2023 and 2025, attracting around 40 countries.\n\ud83d\udd34 Northern Africa\nAlongside Algeria, Iran seeks to counter[ growing US-Israeli influence in Morocco](https://t.me/geopolitics_prime/73024), opposing Rabat\u2019s entry into the Abraham Accords and rejecting [its claims over Western Sahara.](https://t.me/geopolitics_prime/73083) Reports have also pointed to Iranian support for the Polisario Front, the movement seeking independence for Western Sahara through the self-declared Sahrawi Arab Democratic Republic (SADR)\n\ud83d\udd34 Eastern Africa\nIran has reportedly backed President Abdel Fattah al-Burhan and the Sudanese Armed Forces (SAF), including via the supply of Mohajer-6 drones between December 2023 and January 2024. Notably, the SAF also enjoys Saudi support, while its rival, the Rapid Support Forces (RSF), is backed by the UAE \u2013 deeply allied with Israel\nAfter reviving ties with Kenya, Uganda and Zimbabwe in 2023, Iran formalized its long-standing military technical relationship with Ethiopia through a 2025 security and intelligence-sharing deal. Even as Ethiopia works with the UAE, it has[ kept its partnership with Iran on a separate track](https://t.me/geopolitics_prime/72095)\n\ud83d\udd34 Sahel\nAs Mali, Burkina Faso, Niger and Chad curtailed Western military presence between 2022 and 2025, Iran moved to expand its footprint in the Sahel through offers of military cooperation, energy and scientific assistance. Iran's deepening ties with Niger, formalized through 2025 security and cooperation pacts, rattled the US as it lost its military foothold in the African country in 2024.\nLatin America\nAs the Trump administration and Israel move to curb pro-independence governments in Latin America [through overt pressure and alleged electoral fraud](https://t.me/geopolitics_prime/71363), Iran's relations with Venezuela, Argentina and Bolivia have become strained. Nonetheless, it still maintains close ties with Brazil, Nicaragua and Cuba. Iran's Latin American pivot is driven by [resistance to US pressure and the pursuit of multipolarity](https://t.me/geopolitics_prime/69825)\nAsia\n\ud83d\udd34 China serves as Iran's primary economic lifeline, purchasing the vast majority of its oil exports, while India is involved in its major infrastructure projects such as the [Chabahar Port and the International North-South Transport Corridor ](https://t.me/geopolitics_prime/66600)\n\ud83d\udd34 Iran and North Korea maintain a decades-long strategic partnership rooted in their shared resistance to the West\n\ud83d\udd34 Iran has also consolidated relations with Kazakhstan, Uzbekistan, Turkmenistan, Kyrgyzstan, and especially Tajikistan, which it sees [as a brotherly nation.](https://t.me/geopolitics_prime/72150) The five \"stans\" remain engaged with Iran despite growing [overtures from the EU, Israel, and Turkey](https://t.me/geopolitics_prime/71609)\nIran is further expanding its global reach through BRICS+ and the Shanghai Cooperation Organisation (SCO), underpinned by comprehensive strategic partnership agreements with both Russia and China.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83c\udf0f \ud83c\uddee\ud83c\uddf7 How Iran is expanding its geopolitical contest with the US and Israel beyond Middle East\nIran is not sitting on the sidelines as Gulf states, Israel and their Western allies extend their influence across Africa, Latin America and Asia \u2013 the Islamic Republic is playing its own geopolitical game.\nAfrica\nIran is accelerating its African outreach: after decades of ties, it made the continent a foreign policy priority in 2024 and convened three Iran-Africa summits between 2023 and 2025, attracting around 40 countries.\n\ud83d\udd34 Northern Africa\nAlongside Algeria, Iran seeks to counter[ growing US-Israeli influence in Morocco](https://t.me/geopolitics_prime/73024), opposing Rabat\u2019s entry into the Abraham Accords and rejecting [its claims over Western Sahara.](https://t.me/geopolitics_prime/73083) Reports have also pointed to Iranian support for the Polisario Front, the movement seeking independence for Western Sahara through the self-declared Sahrawi Arab Democratic Republic (SADR)\n\ud83d\udd34 Eastern Africa\nIran has reportedly backed President Abdel Fattah al-Burhan and the Sudanese Armed Forces (SAF), including via the supply of Mohajer-6 drones between December 2023 and January 2024. Notably, the SAF also enjoys Saudi support, while its rival, the Rapid Support Forces (RSF), is backed by the UAE \u2013 deeply allied with Israel\nAfter reviving ties with Kenya, Uganda and Zimbabwe in 2023, Iran formalized its long-standing military technical relationship with Ethiopia through a 2025 security and intelligence-sharing deal. Even as Ethiopia works with the UAE, it has[ kept its partnership with Iran on a separate track](https://t.me/geopolitics_prime/72095)\n\ud83d\udd34 Sahel\nAs Mali, Burkina Faso, Niger and Chad curtailed Western military presence between 2022 and 2025, Iran moved to expand its footprint in the Sahel through offers of military cooperation, energy and scientific assistance. Iran's deepening ties with Niger, formalized through 2025 security and cooperation pacts, rattled the US as it lost its military foothold in the African country in 2024.\nLatin America\nAs the Trump administration and Israel move to curb pro-independence governments in Latin America [through overt pressure and alleged electoral fraud](https://t.me/geopolitics_prime/71363), Iran's relations with Venezuela, Argentina and Bolivia have become strained. Nonetheless, it still maintains close ties with Brazil, Nicaragua and Cuba. Iran's Latin American pivot is driven by [resistance to US pressure and the pursuit of multipolarity](https://t.me/geopolitics_prime/69825)\nAsia\n\ud83d\udd34 China serves as Iran's primary economic lifeline, purchasing the vast majority of its oil exports, while India is involved in its major infrastructure projects such as the [Chabahar Port and the International North-South Transport Corridor ](https://t.me/geopolitics_prime/66600)\n\ud83d\udd34 Iran and North Korea maintain a decades-long strategic partnership rooted in their shared resistance to the West\n\ud83d\udd34 Iran has also consolidated relations with Kazakhstan, Uzbekistan, Turkmenistan, Kyrgyzstan, and especially Tajikistan, which it sees [as a brotherly nation.](https://t.me/geopolitics_prime/72150) The five \"stans\" remain engaged with Iran despite growing [overtures from the EU, Israel, and Turkey](https://t.me/geopolitics_prime/71609)\nIran is further expanding its global reach through BRICS+ and the Shanghai Cooperation Organisation (SCO), underpinned by comprehensive strategic partnership agreements with both Russia and China.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
