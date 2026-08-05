@@ -31,7 +31,12 @@ jobs:
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
 
-          git add data/czib-live.json
+          # -f required: data/czib-live.json is in .gitignore (on purpose,
+          # so your local machine never fights this Action for ownership
+          # of the file - see the git conflict we fixed earlier). Without
+          # -f, git silently skips a gitignored path here too - no error,
+          # no commit, GitHub Pages just quietly stops getting fresh data.
+          git add -f data/czib-live.json
 
           git diff --staged --quiet || git commit -m "Auto update CZIB data"
 
