@@ -1,6 +1,25 @@
 {
-  "generated_at": "2026-08-05T21:57:47.660304+00:00",
+  "generated_at": "2026-08-05T23:11:49.448491+00:00",
   "events": [
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nMacon, GA, Saturday, August 8, 2026 Local\nFacility: ZTL",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "08/05/2026",
+      "location": "ZTL GA",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nMorristown, NJ, Sunday, August 9, 2026 through Sunday, August 9, 2026 Local\nFacility: ZNY",
@@ -469,30 +488,10 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Iranian President Masoud Pezeshkian:\nCommunicating with Mojtaba Khamenei is very difficult now, but his presence is a significant source of strength for us, allowing us to maintain the process. \nIn the events they initiated, regarding the message he gave stating that while he was fundamentally opposed, he would now permit it to take shape, a group of people seeking division tried to reopen that rift to pursue their own partisan agendas, constantly magnifying the issue.\nWhat his eminence said was entirely correct. He had a perspective; in the conclusion reached within that same council, a report was recently presented to him, and he stated that if it received three-quarters of the votes, he would accept it. It actually received 12/13ths of the votes, and he accepted. \nThis act of accepting an expert opinion and deciding accordingly was turned into an excuse by some to create division and make unfair, dishonest claims, attempting to portray others in a certain light.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-05T19:11:41+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Clash Report"
+        "Middle East Spectator"
       ],
       "verified_source_count": 1
     },
@@ -612,25 +611,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Our Wars Today",
-      "text": "[In Russian Syzran, a refinery is on fire after the attack](https://www.pravda.com.ua/news/2026/08/04/8047165/)\nThe Syzran oil refinery in the Samara region of the Russian Federation is on fire after a drone attack on August 4. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://www.pravda.com.ua/news/2026/08/04/8047165/)\n\u0406\u0440\u0438\u043d\u0430 \u0411\u0430\u043b\u0430\u0447\u0443\u043a | pravda\u200b.com\u200b.ua \u2022 Aug 4, 2026",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-04T11:15:25+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Our Wars Today"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Alsaa Plus EN",
       "text": "\ud83c\uddfa\ud83c\uddf8\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7CNN reports the U.S. military has used nearly 80% of its THAAD missile interceptors, while senior commanders are warning that Pentagon munitions stockpiles have fallen to dangerously low levels. \nThe report says the depletion follows months of operations related to the Iran conflict and has raised concerns about U.S. readiness for future high-intensity conflicts.\nThe Pentagon has not publicly confirmed the reported inventory figures.\n\u26aa\ufe0f",
       "source": "Telegram",
@@ -650,61 +630,22 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf6\ud83c\uddee\ud83c\uddf7\u26a1\ufe0f \u2014 The sanctions lifted include those imposed on the Iraqi airline Fly Baghdad and several of its aircraft, which had previously been designated over alleged ties to the Islamic Revolutionary Guard Corps\u2019 Quds Force.\nThe measures remove Fly Baghdad (also registered as Iraq Express) and two Boeing 737 aircraft (registration numbers YI-BAF and YI-BAN) from the U.S. Treasury Department\u2019s Office of Foreign Assets Control (OFAC) list of Specially Designated Nationals and Blocked Persons (SDN List), thereby ending their terrorism-related designation.\n\u26aa\ufe0f",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ufe0f\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8 An American activist by the name of Samuel Tunick was flying home to Atlanta, GA when Border Patrol & ICE detained him for a \u2018routine\u2019 secondary inspection.\nUpon being prompted to unlock his phone, which had GraphineOS installed; he provided the duress code, which for those unfamiliar with GraphineOS; when prompted with the Duress code, will wipe the entire device to \u201cbrand new state\u201d and will automatically destroy the cloud-server based backup.\nUpon the deletion of his device witnessed directly by federal law enforcement, Tunick was charged with violating 18 USC 2232(A), which is the U.S Federal Law about destruction of property to prevent a lawful seizure by the Government.\nThe Border Patrol & ICE\u2019s official, initially public stance was that they were checking for Child abuse material or CSAM (Child sexual assault material), while a Freedom-of-Information-Act request from Tunick\u2019s lawyers revealed that ICE and Border Patrol were instructed to detain Mr. Tunick over his activism.\nThe first set of hearings for Mr. Tunick have already been set in place and done, with discovery revealing that Mr. Tunick was not only denied a lawyer by law enforcement, he was also never read his miranda rights. His (Tunick\u2019s) lawyers also advocate that Mr. Tunick\u2019s constitutional rights were violated (4th, 5th & 6th amendments specifically)\nSometime in October is the next phase of Samuel Tunick\u2019s hearings, where the court will decide if the search & seizure was indeed lawful, OR unlawful; and would go from there.\nThis case will be a landmark case in modern U.S law, for more than just the digital rights.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-05T14:24:58+00:00",
+      "timestamp": "2026-08-05T22:08:17+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN"
+        "Mediterranean Man"
       ],
       "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddfa\ud83c\udde6\u26a1\ufe0f\ud83c\uddf0\ud83c\uddf5\ud83c\uddf7\ud83c\uddfa Ukraine's military intelligence (HUR) says North Korea has begun deploying a missile unit to western Russia, with plans to provide up to 120 KN-23/KN-24 ballistic missiles and six launchers for use against Ukraine. \nAccording to HUR, the unit consists of around 90 North Korean personnel and is reportedly being stationed in Russia's Voronezh region alongside the 112th Missile Brigade. \nRussia and North Korea have not publicly confirmed the deployment.\nSource: Reuters\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-05T13:23:00+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddfe\ud83c\uddea\ud83c\udd92\ud83c\uddfe\ud83c\uddea\ud83d\udeab\ud83c\uddf8\ud83c\udde6\u26a1\ufe0f\u2014 Yemeni forces announced that they had targeted the Saudi oil tanker \"Wafa\" in the northern Red Sea, near the Yanbu area, using several ballistic missiles. The strikes were precise.\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-05T07:58:44+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 2
     },
     {
       "title": "Telegram",
