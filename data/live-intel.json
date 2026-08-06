@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T23:11:49.448491+00:00",
+  "generated_at": "2026-08-06T00:12:45.859919+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -268,25 +268,6 @@
       "verified_source_count": 1
     },
     {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nBethlehem, PA, Thursday, July 30, 2026 through Sunday, August 9, 2026 Local\nFacility: ZNY",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "07/27/2026",
-      "location": "ZNY PA",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
       "title": "Space Weather Message Code: WARK04\r",
       "text": "Space Weather Message Code: WARK04\r\nSerial Number: 5398\r\nIssue Time: 2026 Aug 04 0810 UTC\r\n\r\nEXTENDED WARNING: Geomagnetic K-index of 4 expected\nExtension to Serial Number: 5397\nValid From: 2026 Aug 02 1237 UTC\nNow Valid Until: 2026 Aug 04 1500 UTC\nWarning Condition: Persistence\n\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
       "source": "NOAA Space Weather",
@@ -412,12 +393,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "BBC World News"
+        "BBC World News",
+        "CASELS"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Why some scientists are thrilled that a SpaceX rocket has crashed into the Moon",
@@ -450,12 +432,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
+        "CASELS",
         "Middle East Spectator"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -669,6 +652,103 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
+      "text": "In Russian Ufa, Ukrainian drones paid a visit to an oil refinery.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-06T00:09:54+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "A tunnel in the southern Gaza Strip, which contained dozens of rockets, was recently demolished by combat engineers, the military says.\nThe IDF publishes footage showing a dog of the Oketz unit scanning the tunnel, and another clip showing the site being blown up.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-06T00:03:31+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "An investigation by the Israel Defense Forces into last month's deadly clash in the West Bank village of Tell has found that the hike by Israeli settlers in the area was not coordinated or approved by the army, despite efforts by the military to obtain details about the trek.\nAccording to the probe, the military's Samaria Regional Brigade was made aware in the evening hours of July 23 of a hike planned by Israeli settlers in the area the following morning. However, the army was unable to obtain details on the route or the organizers, the military says.\nThe hike was therefore not coordinated with the army or approved by it. A military official says that in any case, the hike through areas A and B of the West Bank, including in a Palestinian village, would not have received approval.\nOn July 24, at 5:30 a.m., the hike began from the settlement of Har Bracha, located in Area C of the West Bank. Dozens of settlers, including minors and two off-duty soldiers, entered Area B, then briefly entered Area A, before heading back to Area B again as they made their way toward the settlement of Havat Gilad.\nAt around 7:27 a.m., IDF surveillance soldiers first spotted the Israelis walking inside Area B near Tell, and dispatched a small number of troops of the 282nd Artillery Regiment's 411th Battalion, who were stationed at an army outpost in the area, to the scene to escort the settlers out.\nAs the troops arrived, Palestinians hurled stones at the Israeli civilians, injuring one. The soldiers split up, with some dealing with the wounded Israeli, while a platoon commander worked to push back the Palestinians.\nA short while later, artillery battery commander Maj. Yuval Ezra, 27, began heading to the scene, while also dispatching the security coordinator for Havat Gilad and his deputy, civil defense squad member Benayahu Mellet, 32.\nThe three arrived at the scene at around the same time, as the clashes between the Israelis and Palestinians spun out of control. \nAt around 8:16 a.m., the security coordinator and Mellet engaged in a physical confrontation with the Palestinians, during which the security coordinator was seen in footage taking his gun off his shoulder to push the Palestinians back.\nThe security coordinator's gun was snatched out of his hands by several Palestinians and then picked up by Tell resident Farouk Ramadan, who opened fire on the Israelis.\nAmid the chaos, which lasted around 90 seconds, Ezra, Mellet, the security coordinator, the platoon commander, and the two off-duty soldiers \u2014 one of whom is a reservist \u2014 opened fire back at the Palestinians. The coordinator had fired with his handgun after his rifle was stolen.\nAccording to the probe, Ezra exchanged fire with Ramadan, and both shot each other. Ezra was shot in the head and killed, while Ramadan was fatally wounded. Footage showed Ramadan stumbling for a short while, before collapsing and dying.\nMellet may have also been shot by Ramadan, although the military believes he was possibly hit by one of the soldiers. However, this cannot be confirmed as his body was buried without an autopsy. \"The issue was examined during the investigation, but no definitive conclusion was reached,\" the military says.\nIn all, including Ramadan, four Palestinians were shot dead. The IDF says the platoon commander and two off-duty soldiers killed the other three Palestinians. Two other Palestinians who were seriously wounded during the clash were captured by Israeli commandos at a hospital in Nablus hours after the incident.\nThe investigation also noted that the IDF's rules of engagement \"enabled the forces to use fire as required to remove the threat,\" but it was determined that the force that arrived at the scene \"was too small relative to the scale of the violent incident, the number of hikers, and the number of attackers.\"\nThe probe also found that other forces in the area \"did not act optimally to develop a complete situational picture, dispatch additional forces, and deploy medical teams as required.\"",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-06T00:03:04+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "The Houthis have claimed responsibility for targeting the Saudi oil tanker Daisy in the Gulf of Aden with a ballistic missile, alleging the vessel was struck and forced to reverse course, according to the group's military spokesman.\nThe reported location of the attack loosely coincides with the area of an earlier United Kingdom Maritime Trade Operations (UKMTO) advisory, in which the master of a tanker reported hearing a loud explosion in close proximity to the vessel. UKMTO stated that all crew members were safe and accounted for, with no reported damage or environmental pollution.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-05T23:53:00+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "CASELS",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "German authorities are investigating what appears to have been an attempted explosive drone attack at Leipzig/Halle Airport after a drone carrying an explosive device was discovered near Ukrainian cargo aircraft, according to BILD.\nBILD reports the drone was found late Tuesday night on the airport apron with an attached package that security authorities identified as containing explosive material after a positive nitrate test. An X-ray reportedly revealed a detonator, but investigators believe it malfunctioned, preventing the device from detonating. The explosive package has been preserved for forensic examination rather than destroyed, and BILD reports NATO investigators are expected to participate in the investigation.\nThe incident occurred near several Ukrainian Antonov cargo aircraft at one of Europe's most important cargo hubs, including shipments supporting Ukraine. Airport operations were temporarily suspended following the discovery.\nBILD also reports that shortly after the airport was closed, a DHL cargo aircraft aborted its landing and later struck an unidentified object approximately 400 meters above the ground and about six kilometers from the airport. The aircraft landed safely in Hanover, where damage to its nose section was discovered. German authorities have confirmed the collision occurred and are investigating it as a state security matter, though they have not publicly confirmed that the object was a drone or linked it to the explosive device.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-05T23:47:25+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "BBC World News",
+        "CASELS"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
       "text": "A Hezbollah tunnel spanning dozens of meters in Srebbine, southern Lebanon, was demolished by IDF combat engineers. Weapons caches, rockets, and launchers were also found across the south, the military says.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -694,82 +774,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-05T06:27:58+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddf0\ud83c\uddf5\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6 [Reuters](https://www.reuters.com/business/aerospace-defense/north-korean-missile-unit-deploys-russia-ukraine-war-kyiv-says-2026-08-05/): Ukraine\u2019s military intelligence says a North Korean missile unit has begun deploying to western Russia and could eventually be equipped with up to 120 ballistic missiles and six launchers for use against Ukraine. \nKyiv says the deployment would mark a further expansion of military cooperation between Moscow and Pyongyang.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-05T05:16:30+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfa Additional Footage from Kyiv showcasing multiple fires following fresh Russian ballistic arrivals.\n\ud83d\udca7 Rainbow.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-05T05:15:20+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfa Renewed alerts in the Ukrainian capital Kyiv, following the detection of 4 ballistic missiles.\n\ud83d\udca7 [Rainbet.com](https://www.rainbet.com/) the #1 Non-KYC Crypto Casino & Sportsbook +18",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-05T05:14:07+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfa Footage from Kyiv showcasing multiple fires following fresh Russian ballistic arrivals.\n\ud83d\udca7 [Rainbet.com](https://www.rainbet.com/) the #1 Non-KYC Crypto Casino & Sportsbook +18",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-05T05:14:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
