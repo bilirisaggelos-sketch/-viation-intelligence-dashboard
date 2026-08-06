@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T06:18:50.379747+00:00",
+  "generated_at": "2026-08-06T09:24:12.141898+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -382,25 +382,6 @@
       "verified_source_count": 1
     },
     {
-      "title": "Why some scientists are thrilled that a SpaceX rocket has crashed into the Moon",
-      "text": "Why some scientists are thrilled that a SpaceX rocket has crashed into the Moon\nWhile the collision was an accident, it is a unique scientific gift for planetary geologists that could provide important data for future space missions.",
-      "source": "BBC",
-      "source_type": "osint",
-      "publisher": "BBC World News",
-      "severity": "info",
-      "icon": "\ud83d\udcf0",
-      "timestamp": "2026-08-05T11:19:24+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "BBC World News"
-      ],
-      "verified_source_count": 1
-    },
-    {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
       "text": "\u2014\u2757\ufe0f\ud83c\uddfe\ud83c\uddea/\ud83c\uddf8\ud83c\udde6 NEW: The Yemeni Armed Forces announce they targeted the \u2018Daisy\u2019 vessel, a Saudi oil tanker, off the coast of Aden with ballistic missiles\nThis is the second Saudi tanker that was targeted today.",
@@ -460,12 +441,146 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "JD Vance on Israel:\nNetanyahu didn't confront me. We had a nice and frank conversation. \nAs I said repeatedly, Israel has been a great partner. They're an ally of the United States of America. Like France or Britain or any other ally of the United States, we sometimes have differences of opinion.\nAnd I think that the American media is fascinated by this dynamic. The reality is, my job is to pursue the interests of no other nation on Earth except for the United States of America. \nSo when our interests are aligned with Israel, we talk about how to accomplish those shared objectives. When my viewpoint is adverse to the Prime Minister of Israel, we have a frank conversation about that. \nI describe it as a pleasant but direct conversation. I didn't feel confronted.",
+      "text": "US House Speaker Mike Johnson:\nThe first quarter the economy was beginning to take off like a rocket, and then we got into this skirmish with Iran.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-06T06:17:44+00:00",
+      "timestamp": "2026-08-06T09:04:39+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "In a clip from Alex Holder's upcoming documentary Lindsey's Game, Benjamin Netanyahu sings \"Happy Birthday\" to Sen. Lindsey Graham and hands him a piece of cake. \nGraham jokes, \"You should have seen the cake the Saudis got me.\"\nThe moment was filmed at Blair House in July 2025.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-06T08:53:40+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Iranian pilots attacked US bases without GPS, according to a deputy coordinator of Iranian Army Air Force, who described how the mission relied on old-school navigation to stay undetected:\nOur pilots were trained to guide the fighter jets in various missions using only maps and rudimentary systems, without relying on GPS or INS [inertial navigation].\nPerhaps our trump card was that there was no outgoing signal\u2014not even a radio signal\u2014from our aircraft, and probably on the first day, the enemy didn't imagine the air force would have the audacity to carry out such a mission.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-06T08:25:38+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Japan says North Korea has launched a suspected ballistic missile.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-06T08:20:04+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "CASELS",
+        "Clash Report"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "NEW: US-Ukraine intelligence sharing has rebounded to previous high levels after its brief suspension in March 2025, significantly boosting Ukraine's deep-strike drone and missile campaign inside Russia. \nSource: Politico",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-06T07:09:36+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "German authorities, acting on a tip from a foreign intelligence partner, disrupted a Russian intelligence plot to assassinate Stefan Thumann, founder and CEO of Bavarian drone manufacturer Donaustahl, which supplies reconnaissance and FPV drones to Ukraine. \nInvestigators say two suspected Russian-recruited agents surveilled Thumann, his home, and his company before being arrested in Germany and Spain on suspicion of acting for a foreign intelligence service. \nSource: Pravda Ukraine",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-06T07:04:50+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Ukraine shows forests in Vovchansk district of Kharkiv region blanketed in fibre-optic cables left behind by Russian FPV drones. \nThe material doesn't biodegrade, damages forests, and creates deadly traps for wildlife.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-06T06:58:11+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Ukrainian drones hit Russia's Yaroslavl region overnight with fires geolocated to the Slavneft-YANOS oil refinery.\nThe plant is one of Russia's top-5 refineries (~15 million tonnes/year) and a key fuel supplier to the Moscow region, sitting some 250 km from the capital.\nIt's reportedly at least the 7th hit on the facility this year.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-06T06:47:14+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -631,6 +746,25 @@
     {
       "title": "Telegram",
       "publisher": "Mediterranean Man",
+      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6 A Ukrainian drone airdropped a small ground robot, the ARK-1, loaded with an anti-tank mine, behind Russian lines. The robot then drove itself to the target, keeping the drone out of range of enemy fire and jamming.\nUkraine has been building an ecosystem of drones and robots carrying each other: big drones ferrying smaller attack drones, ground robots launching their own drones, and robotic boats acting as floating carriers \u2014 including an armed tracked robot delivered onto a beach last month, the first uncrewed amphibious assault. \nRussia's 2022 helicopter raid on Hostomel airport cost six helicopters and failed; sending robots instead of pilots makes that kind of assault disposable. China is already testing drone-dropped robot dogs that climb stairs for urban fighting.\nUkraine is now testing bigger drones with 200+ lbs of payload to move larger armed robots and resupply them with ammo and batteries \u2014 part of a push to replace up to 30% of frontline troops with robots this year.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-06T07:56:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
       "text": "\u26a1\ufe0f\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8 An American activist by the name of Samuel Tunick was flying home to Atlanta, GA when Border Patrol & ICE detained him for a \u2018routine\u2019 secondary inspection.\nUpon being prompted to unlock his phone, which had GraphineOS installed; he provided the duress code, which for those unfamiliar with GraphineOS; when prompted with the Duress code, will wipe the entire device to \u201cbrand new state\u201d and will automatically destroy the cloud-server based backup.\nUpon the deletion of his device witnessed directly by federal law enforcement, Tunick was charged with violating 18 USC 2232(A), which is the U.S Federal Law about destruction of property to prevent a lawful seizure by the Government.\nThe Border Patrol & ICE\u2019s official, initially public stance was that they were checking for Child abuse material or CSAM (Child sexual assault material), while a Freedom-of-Information-Act request from Tunick\u2019s lawyers revealed that ICE and Border Patrol were instructed to detain Mr. Tunick over his activism.\nThe first set of hearings for Mr. Tunick have already been set in place and done, with discovery revealing that Mr. Tunick was not only denied a lawyer by law enforcement, he was also never read his miranda rights. His (Tunick\u2019s) lawyers also advocate that Mr. Tunick\u2019s constitutional rights were violated (4th, 5th & 6th amendments specifically)\nSometime in October is the next phase of Samuel Tunick\u2019s hearings, where the court will decide if the search & seizure was indeed lawful, OR unlawful; and would go from there.\nThis case will be a landmark case in modern U.S law, for more than just the digital rights.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -659,12 +793,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "CASELS"
+        "CASELS",
+        "Clash Report"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -707,12 +842,12 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\u2721\ufe0f\ud83c\uddfa\ud83c\uddf3 How Israel\u2019s grotesque spying & sabotage track-record reached deep inside UN\n\ud83d\udd0a The Zionist state\u2019s espionage playbook, wielded brazenly against both its declared adversaries and principal patron \u2013 the US \u2013 was used to blunt international scrutiny of its genocidal 2014 Gaza offensive, reports Drop Site.\nThe emails, obtained from a hacked database of former Israeli Ambassador Ron Prosor, reveal Israel\u2019s espionage operation from inside the UN.\n\ud83d\udc49 Prosor privately pressed then-US Ambassador Samantha Power to help install a former Israeli mission adviser, Yahav Lichner, at the UN Population Fund.\nOnce in place, the mole fed classified intelligence to Israeli diplomats between 2014 and 2015, when Israel faced a UN Human Rights Council commission of inquiry into mass civilian killings in Gaza.\nIsraeli operatives weaponized the intel to lobby the US hard and systematically kneecap every UN initiative that threatened to hold Israel to account. \n\ud83d\udd34 In 2015, Lichner tipped off Prosor about damage-control meetings then-UN High Commissioner for Human Rights Zeid Ra'ad Al-Hussein held with White House officials, senators and AIPAC members\n\ud83d\udd34 He warned of threatened US funding and coached Israeli lobbying points\n\ud83d\udd34 After Israel launched Operation Protective Edge against Gaza, Lichner supplied Prosor with a letter from Palestinian President Mahmoud Abbas to then-Secretary-General Ban Ki-moon, and an unpublished draft of Ban's reply\n\ud83d\udd34 Lichner helped shape that reply, working with an unnamed female \"friend\" inside UN deliberations to improve the draft \"as much as possible\"\n\ud83d\udd34 He also gave advance notice of when the Gaza inquiry report would drop, and supplied real-time intel on UN deliberations over West Bank shootings of Palestinian teenagers\nLichner now serves as director of UNICEF's Washington office.\nThe episode fits Israel\u2019s consistent pattern, including:\n\ud83d\udd34 [Track record of betrayal](https://t.me/geopolitics_prime/70619) against the US, ranging from assassination plots (letter-bomb attempt on then-President Harry Truman) to the attack on USS Liberty\n\ud83d\udd34 [Industrial-scale espionage, from Jonathan Pollard](https://t.me/geopolitics_prime/57260) onward\n\ud83d\udd34 [Nuclear theft](https://t.me/geopolitics_prime/67308)\n\ud83d\udd34 [Election interference](https://t.me/geopolitics_prime/70960?single) (documented by Viginum against elections in France, the US, Scotland, Angola and Togo)\n\ud83d\udd34 [Funneling of US secrets and military tech](https://t.me/geopolitics_prime/70854) to third parties (including apartheid South Africa)\n\ud83d\udd34 Mossad-linked fake Arab media networks [to whitewash Zionist crimes](https://t.me/geopolitics_prime/72143)\n\ud83d\udd34 [Systematic recruitment](https://t.me/geopolitics_prime/72379) of informants through financial pressure and compromise\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83c\uddf8\ud83c\udde6\ud83d\udca3 Why Saudi Arabia's military force gambit could be its biggest strategic miscalculation \nFor much of the past several years, the kingdom that once charged headlong into Yemen's quagmire appeared to have pivoted to diplomacy, positioning itself as more interested in economic transformation under \u2018Vision 2030\u2019 than military entanglements.\nHowever, recent military moves across the Middle East - from joint operations with the US in Iraq to [escalating confrontation](https://t.me/geopolitics_prime/726380) with Yemen - suggest the Gulf kingdom is once again turning to hard power. \nThe US war on Iran has scrambled the regional map, and the monarchy\u2019s response looks like deterrence \u2013 but reeks of anxiety.\nThe US-Israeli war on Iran laid bare [Saudi Arabia\u2019s vulnerabilities:](https://t.me/geopolitics_prime/72757) its territory hosts American [military installations](https://t.me/geopolitics_prime/70729), its [energy infrastructure ](https://t.me/geopolitics_prime/65808)has been targeted in retaliatory strikes, and its[ trade routes ](https://t.me/geopolitics_prime/72905)have been threatened.\n\ud83d\udc51 When Saudi Crown Prince[ Mohammed bin Salman reportedly urged](https://t.me/geopolitics_prime/73009) Donald Trump to hold off on a large-scale attack on Iran, it seemed the kingdom had finally embraced restraint. \nYet even then Riyadh began quietly preparing its own military escalation.\nThe recent Saudi airstrikes against Axis of Resistance Iraqi fighters alongside the [US crystallize the shift.](https://t.me/geopolitics_prime/72894)\nAs a pretext, [Saudi Arabia ](https://t.me/geopolitics_prime/72875)accused Iraqi militias of launching drone attacks against its oil facilities \u2013 claims denied by Iraq\u2019s Popular Mobilization Forces (PMF), an umbrella organization of Iraqi militias, while Yemen's Ansar Allah claimed responsibility for the attacks.\nFor years, Saudi Arabia invested heavily in rebuilding ties with Iraq through investment, diplomacy and economic engagement.\nNow, by tying itself to the US military agenda, the kingdom risks paying the price across the Gulf, the Red Sea and at home if retaliation expands.\n\ud83c\uddfe\ud83c\uddea Yemen highlights the limits of Saudi military options.\nAfter a recent Saudi strike on [Sanaa airport](https://t.me/geopolitics_prime/72901), Yemeni forces responded with missile and drone attacks on Abha airport and threatened Saudi maritime routes. \nThe monarchy invested heavily in western ports and alternative export corridors to escape Hormuz risks, only to find those lifelines potentially exposed in the Red Sea as well.\nThe more closely Saudi Arabia ties itself to US campaigns, the greater the risk it becomes a pawn rather than a player - with its economic ambitions paying the price.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-05T18:33:16+00:00",
+      "timestamp": "2026-08-06T08:39:02+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
