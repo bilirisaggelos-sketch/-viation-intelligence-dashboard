@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T03:44:41.969691+00:00",
+  "generated_at": "2026-08-06T06:18:50.379747+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -459,6 +459,25 @@
     },
     {
       "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "JD Vance on Israel:\nNetanyahu didn't confront me. We had a nice and frank conversation. \nAs I said repeatedly, Israel has been a great partner. They're an ally of the United States of America. Like France or Britain or any other ally of the United States, we sometimes have differences of opinion.\nAnd I think that the American media is fascinated by this dynamic. The reality is, my job is to pursue the interests of no other nation on Earth except for the United States of America. \nSo when our interests are aligned with Israel, we talk about how to accomplish those shared objectives. When my viewpoint is adverse to the Prime Minister of Israel, we have a frank conversation about that. \nI describe it as a pleasant but direct conversation. I didn't feel confronted.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-06T06:17:44+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
       "publisher": "Our Wars Today",
       "text": "[Russian missile and drone barrage in Ukrainian capital region kills 17](https://www.npr.org/2026/08/05/nx-s1-5921194/russian-missile-drone-barrage)\nRussian missile and drone strikes on Kyiv and the surrounding region killed 17 people and wounded 44 others overnight into Wednesday, Ukraine's President Volodymyr Zelenskyy said. \n[Read More in Full Article](https://www.npr.org/2026/08/05/nx-s1-5921194/russian-missile-drone-barrage)\nThe Associated Press | npr\u200b.org \u2022 Aug 5, 2026",
       "source": "Telegram",
@@ -574,12 +593,31 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddfa\ud83c\uddf8\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7CNN reports the U.S. military has used nearly 80% of its THAAD missile interceptors, while senior commanders are warning that Pentagon munitions stockpiles have fallen to dangerously low levels. \nThe report says the depletion follows months of operations related to the Iran conflict and has raised concerns about U.S. readiness for future high-intensity conflicts.\nThe Pentagon has not publicly confirmed the reported inventory figures.\n\u26aa\ufe0f",
+      "text": "\ud83c\udde9\ud83c\uddea\ud83c\uddfa\ud83c\udde6 A drone carrying explosives was discovered near a runway at Leipzig/Halle Airport in Germany, prompting a major security response and temporary flight disruptions.\nGerman Interior Minister Alexander Dobrindt described the incident as a \"new level of danger\", with federal authorities launching a counterterrorism investigation. \nThe origin of the drone and those responsible remain under investigation.\n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-05T17:34:00+00:00",
+      "timestamp": "2026-08-06T05:09:52+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf1\ud83d\udeab\ud83c\uddee\ud83c\uddf7\u26a1\ufe0f\u2014 Two Israeli soldiers killed in southern Lebanon\nThe army identified them as Major Harel Birenstock, a company commander in the 55th Brigade\u2019s 2855th Battalion, and Chief Warrant Officer Tamir Vaknin, a major in the same battalion. \nTwo Israeli reservists were killed on Wednesday during fighting in southern Lebanon, where Israel is confronting Hezbollah.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-06T04:23:57+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -599,25 +637,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-05T22:08:17+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddee\ud83c\uddf9\ud83c\uddee\ud83c\uddf7 Italian Foreign Minister Antonio Tajani had a conversation with his Iranian counterpart Araghchi:\n\"I just spoke with Iranian Foreign Minister Abbas Araghchi. He outlined the negotiations that Iran is having with Oman to reopen the Strait of Hormuz to commercial traffic.\nI reiterated the importance of continuing the dialogue to quickly reach a political solution to the crisis, also with the United States, and to avoid new escalations. It is essential to guarantee full freedom of navigation in the Strait of Hormuz, without tolls or restrictions, in the interest of regional stability and the global economy.\nWe also spoke about Lebanon: I hope that the ongoing negotiations in Rome produce concrete results to consolidate the ceasefire and reach a general agreement.\nI reiterated to him that Iran's role is crucial to stop Hezbollah's military actions. Italy will continue to do its part to foster dialogue, security, and peace in the Middle East.\"",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-05T17:24:13+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
