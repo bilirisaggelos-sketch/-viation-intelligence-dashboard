@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T09:24:12.141898+00:00",
+  "generated_at": "2026-08-06T11:42:44.074697+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -441,12 +441,12 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "US House Speaker Mike Johnson:\nThe first quarter the economy was beginning to take off like a rocket, and then we got into this skirmish with Iran.",
+      "text": "Colombian cartels and rebel groups are seeking Ukrainian drone warfare expertise, with some Colombians fighting in Ukraine allegedly returning home with advanced drone skills. \nOfficials warn the knowledge transfer is making armed groups more effective and eroding the Colombian military's long-held air superiority.\nSource: FT",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-06T09:04:39+00:00",
+      "timestamp": "2026-08-06T11:22:55+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -460,12 +460,12 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "In a clip from Alex Holder's upcoming documentary Lindsey's Game, Benjamin Netanyahu sings \"Happy Birthday\" to Sen. Lindsey Graham and hands him a piece of cake. \nGraham jokes, \"You should have seen the cake the Saudis got me.\"\nThe moment was filmed at Blair House in July 2025.",
+      "text": "The Washington Post reports that the U.S. fired more than 1,300 ATACMS tactical ballistic missiles during the opening weeks of the Iran conflict.\nAccording to unnamed U.S. officials cited by the newspaper, the heavy use has left the ATACMS stockpile \"basically\" exhausted, with virtually none remaining.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-06T08:53:40+00:00",
+      "timestamp": "2026-08-06T11:03:58+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -479,108 +479,12 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Iranian pilots attacked US bases without GPS, according to a deputy coordinator of Iranian Army Air Force, who described how the mission relied on old-school navigation to stay undetected:\nOur pilots were trained to guide the fighter jets in various missions using only maps and rudimentary systems, without relying on GPS or INS [inertial navigation].\nPerhaps our trump card was that there was no outgoing signal\u2014not even a radio signal\u2014from our aircraft, and probably on the first day, the enemy didn't imagine the air force would have the audacity to carry out such a mission.",
+      "text": "WATCH: Ukrainian FPV interceptor drone downing Russian fiber-optic quadcopter using a net launcher.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-06T08:25:38+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Japan says North Korea has launched a suspected ballistic missile.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-06T08:20:04+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "CASELS",
-        "Clash Report"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "NEW: US-Ukraine intelligence sharing has rebounded to previous high levels after its brief suspension in March 2025, significantly boosting Ukraine's deep-strike drone and missile campaign inside Russia. \nSource: Politico",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-06T07:09:36+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "German authorities, acting on a tip from a foreign intelligence partner, disrupted a Russian intelligence plot to assassinate Stefan Thumann, founder and CEO of Bavarian drone manufacturer Donaustahl, which supplies reconnaissance and FPV drones to Ukraine. \nInvestigators say two suspected Russian-recruited agents surveilled Thumann, his home, and his company before being arrested in Germany and Spain on suspicion of acting for a foreign intelligence service. \nSource: Pravda Ukraine",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-06T07:04:50+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Ukraine shows forests in Vovchansk district of Kharkiv region blanketed in fibre-optic cables left behind by Russian FPV drones. \nThe material doesn't biodegrade, damages forests, and creates deadly traps for wildlife.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-06T06:58:11+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Ukrainian drones hit Russia's Yaroslavl region overnight with fires geolocated to the Slavneft-YANOS oil refinery.\nThe plant is one of Russia's top-5 refineries (~15 million tonnes/year) and a key fuel supplier to the Moscow region, sitting some 250 km from the capital.\nIt's reportedly at least the 7th hit on the facility this year.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-06T06:47:14+00:00",
+      "timestamp": "2026-08-06T10:29:10+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -746,12 +650,12 @@
     {
       "title": "Telegram",
       "publisher": "Mediterranean Man",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6 A Ukrainian drone airdropped a small ground robot, the ARK-1, loaded with an anti-tank mine, behind Russian lines. The robot then drove itself to the target, keeping the drone out of range of enemy fire and jamming.\nUkraine has been building an ecosystem of drones and robots carrying each other: big drones ferrying smaller attack drones, ground robots launching their own drones, and robotic boats acting as floating carriers \u2014 including an armed tracked robot delivered onto a beach last month, the first uncrewed amphibious assault. \nRussia's 2022 helicopter raid on Hostomel airport cost six helicopters and failed; sending robots instead of pilots makes that kind of assault disposable. China is already testing drone-dropped robot dogs that climb stairs for urban fighting.\nUkraine is now testing bigger drones with 200+ lbs of payload to move larger armed robots and resupply them with ammo and batteries \u2014 part of a push to replace up to 30% of frontline troops with robots this year.",
+      "text": "\u26a1\ufe0f\ud83c\uddf8\ud83c\uddfe\ud83c\uddf9\ud83c\uddf7 Syria's Foreign Minister, in a meeting with Turkey's Foreign Minister, stated: \"We continue our diplomatic efforts to stop the repeated Israeli attacks in southern Syria and work steadily to consolidate stability, reaffirming our condemnation and denunciation of any attack on our land and sovereignty.\"\nHe added: \"The region is clearly moving to establish a single foundation for stability, which is the elimination of any armed formations outside the legal framework. Here, we agreed to support the efforts and steps led by our brothers in Iraq and Lebanon to enhance regional stability.\"\n[",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-06T07:56:01+00:00",
+      "timestamp": "2026-08-06T10:28:18+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -765,12 +669,12 @@
     {
       "title": "Telegram",
       "publisher": "Mediterranean Man",
-      "text": "\u26a1\ufe0f\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8 An American activist by the name of Samuel Tunick was flying home to Atlanta, GA when Border Patrol & ICE detained him for a \u2018routine\u2019 secondary inspection.\nUpon being prompted to unlock his phone, which had GraphineOS installed; he provided the duress code, which for those unfamiliar with GraphineOS; when prompted with the Duress code, will wipe the entire device to \u201cbrand new state\u201d and will automatically destroy the cloud-server based backup.\nUpon the deletion of his device witnessed directly by federal law enforcement, Tunick was charged with violating 18 USC 2232(A), which is the U.S Federal Law about destruction of property to prevent a lawful seizure by the Government.\nThe Border Patrol & ICE\u2019s official, initially public stance was that they were checking for Child abuse material or CSAM (Child sexual assault material), while a Freedom-of-Information-Act request from Tunick\u2019s lawyers revealed that ICE and Border Patrol were instructed to detain Mr. Tunick over his activism.\nThe first set of hearings for Mr. Tunick have already been set in place and done, with discovery revealing that Mr. Tunick was not only denied a lawyer by law enforcement, he was also never read his miranda rights. His (Tunick\u2019s) lawyers also advocate that Mr. Tunick\u2019s constitutional rights were violated (4th, 5th & 6th amendments specifically)\nSometime in October is the next phase of Samuel Tunick\u2019s hearings, where the court will decide if the search & seizure was indeed lawful, OR unlawful; and would go from there.\nThis case will be a landmark case in modern U.S law, for more than just the digital rights.",
+      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6 A Ukrainian drone airdropped a small ground robot, the ARK-1, loaded with an anti-tank mine, behind Russian lines. The robot then drove itself to the target, keeping the drone out of range of enemy fire and jamming.\nUkraine has been building an ecosystem of drones and robots carrying each other: big drones ferrying smaller attack drones, ground robots launching their own drones, and robotic boats acting as floating carriers \u2014 including an armed tracked robot delivered onto a beach last month, the first uncrewed amphibious assault. \nRussia's 2022 helicopter raid on Hostomel airport cost six helicopters; sending robots instead of pilots makes that kind of assault disposable. China is already testing drone-dropped robot dogs that climb stairs for urban fighting.\nUkraine is now testing bigger drones with 200+ lbs of payload to move larger armed robots and resupply them with ammo and batteries \u2014 part of a push to replace up to 30% of frontline troops with robots this year.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-05T22:08:17+00:00",
+      "timestamp": "2026-08-06T07:56:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -793,13 +697,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "CASELS",
-        "Clash Report"
+        "CASELS"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -836,6 +739,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddee\ud83c\uddf7 Truly stealth: Iranian pilots hit US base without GPS \nIranian pilots flew toward a US base with no GPS, no INS and no radio signals, relying only on maps and basic navigation, Deputy Coordinator of the Islamic Republic of Iran Air Force (IRIAF) Brigadier General Masoud Jafari says.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-06T10:07:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
