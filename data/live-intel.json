@@ -1,6 +1,25 @@
 {
-  "generated_at": "2026-08-07T21:01:38.356329+00:00",
+  "generated_at": "2026-08-07T21:57:26.364930+00:00",
   "events": [
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nDENVER, CO, Thursday, August 13, 2026 through Friday, August 14, 2026 Local\nFacility: ZDV",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "08/07/2026",
+      "location": "ZDV CO",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nEAST RUTHERFORD, NJ, Friday, August 14, 2026 through Friday, August 14, 2026 Local\nFacility: ZNY",
@@ -363,25 +382,6 @@
       "verified_source_count": 1
     },
     {
-      "title": "South Korea space agency shares Moon images after SpaceX rocket debris crash",
-      "text": "South Korea space agency shares Moon images after SpaceX rocket debris crash\nSeoul's lunar orbiter captured images of the Moon before and after part of SpaceX's rocket hit its surface on Wednesday.",
-      "source": "BBC",
-      "source_type": "osint",
-      "publisher": "BBC World News",
-      "severity": "info",
-      "icon": "\ud83d\udcf0",
-      "timestamp": "2026-08-06T17:38:51+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "BBC World News"
-      ],
-      "verified_source_count": 1
-    },
-    {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
       "text": "\u2014 \ud83c\uddfa\ud83c\uddf8/\ud83c\uddf8\ud83c\udde6 NEW: For the first time in years, due to Iran\u2019s closure of the Strait of Hormuz and Yemeni attacks against Aramco facilities, Saudi Arabia\u2019s oil exports to the United States have fallen to zero barrels",
@@ -599,25 +599,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-07T18:59:29+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "The U.S. Army will spend at least $400 million on AeroVironment\u2019s Locust anti-drone lasers, buying dozens of systems. \nIt would be the Pentagon\u2019s first production contract for a directed-energy counter-drone system beyond the prototype stage.\nSource: Bloomberg",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-07T18:41:52+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -1007,6 +988,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udd0d Is the 'Sunni NATO' triumvirate seeking regional dominance at Iran\u2019s expense?\n\ud83d\udccc Saudi Arabia, Pakistan, and Turkey signed a joint defense pact in Mecca on August 7, bringing together an oil-rich kingdom, a nuclear-armed power, and a NATO member state boasting the alliance's second-largest army.\nCollective defense \u2013 against whom?\n\ud83c\udf0f The agreement aims to enhance collective deterrence against potential aggression, declaring that any armed attack on one of the three countries would be considered an attack on all three, according to a statement from Pakistan\u2019s Foreign Ministry. The Western media interprets the move as a response to rising risks of military confrontation with Iran and the Axis of Resistance.\n\ud83c\udf0f Middle Eastern experts warn that an alliance with Turkey could enable Saudi Arabia to intensify its campaign against Yemen\u2019s Ansar Allah, following the group\u2019s blockade of the [Bab el-Mandeb Strait.](https://t.me/geopolitics_prime/72095) Saudi Arabia is currently scrambling to establish a [military coalition for the Red Sea.](https://t.me/geopolitics_prime/72901)\n\ud83c\udf0f Saudi Arabia\u2019s shift toward Pakistan and Turkey is also seen as a sign of waning US influence in the Gulf, a trend that became evident during the Iran war when the US deployed massive military resources to shield Israel from Iranian retaliation while Gulf states came under fire for [enabling US strikes](https://t.me/geopolitics_prime/73162).\nHow does Saudi-Pakistani collective defense work?\n\u2666\ufe0f In September 2025, Pakistan and Saudi Arabia formalized a mutual defense pact that commits both nations to regard aggression against either party as an attack on both. The agreement was concluded a week after[ Israel's attack on Doha, Qatar.](https://t.me/geopolitics_prime/56576)\n\u2666\ufe0f After the start of the US-Israeli aggression, Pakistan\u2019s Foreign Minister Ishaq Dar revealed on March 3 that Islamabad reminded Iran of its defense pact with Saudi Arabia and urged Tehran to halt attacks on Saudi territory. Iran responded by calling on Pakistan to ensure Saudi Arabia was not used as a base for actions against the Islamic Republic. Saudi Arabia rejected access to its airspace and bases to support the US operation. Moreover, it was reportedly Saudi Arabia that urged Trump to call off the recent strikes on Iran, fearing retaliation.\n\u2666\ufe0f However, with Turkey, a NATO ally, joining the Saudi-Pakistani alliance, the triumvirate could emerge as a more assertive bloc. Alliances built on the principle of \"an attack on one is an attack on all\" are particularly dangerous in today\u2019s Middle East, where such commitments could quickly become a major liability, experts warn.\nNew Middle Eastern order\nExperts describe the emerging power balance as a contest between [competing alliances:](https://t.me/geopolitics_prime/71096)\n\u27a1\ufe0f [The Sunni Diamond](https://t.me/geopolitics_prime/72876) (\u201cIslamic NATO\u201d) \u2013 Turkey, Pakistan, Saudi Arabia, Egypt, and their partners\n\u27a1\ufe0f [The Hexagon Alliance](https://t.me/geopolitics_prime/69778) (\u201cAbraham Accords Axis\u201d) \u2013 Israel, the UAE, and aligned states\n\u27a1\ufe0f The Axis of Resistance \u2013 Iran, Lebanon\u2019s Hezbollah, Yemen\u2019s Ansar Allah, and Iraq\u2019s Popular Mobilization Forces\nBoth the Sunni Diamond and the Hexagon Alliance share one key patron: the US. This makes the rivalry appear less like a balanced contest and more like a struggle for regional dominance at Iran\u2019s expense. At the same time, Iran's growing global outreach and strategic ties with China and Russia cannot be ignored https://t.me/geopolitics_prime/73126.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-07T21:54:53+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
