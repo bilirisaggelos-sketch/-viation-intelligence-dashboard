@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T11:33:50.627357+00:00",
+  "generated_at": "2026-08-07T12:29:54.466075+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -556,25 +556,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Ukrainian naval drones attacked the port area of occupied Yalta on Crimea's southern coast.\nRussian occupation authorities ordered urgent evacuations of the central waterfront, telling people\u2014including tourists on beaches during peak season\u2014to leave and seek shelter.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-07T10:25:47+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Our Wars Today",
       "text": "[\u26a1\ufe0f -Drone targeted Ukrainian cargo plane carrying ammunition at German airport, media reports. Speaking on Aug. 5, Germa...](https://t.me/KyivIndependent_official/54674)\n\u26a1\ufe0fDrone targeted Ukrainian cargo plane\n[https://kyivindependent.com/drone-targeted-ukrainian-cargo-plane-carrying-ammunition-at-german-airport-media-reports/]\ncarrying ammunition at German airport, media reports.\nSpeaking on Aug. 5, German Interior Minister Alexander Dobrindt described the\nincident as a \"hybrid attack scenario.\" \u2013 Join Telegrams: t.me/ourwarstoday \u2013\nLive: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT:\nhttps://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://t.me/KyivIndependent_official/54674)\n | t\u200b.me \u2022 Aug 6, 2026",
       "source": "Telegram",
@@ -667,6 +648,46 @@
         "Our Wars Today"
       ],
       "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf7 Footages of the drones shot's down by the Iranian Air defense's.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-07T11:40:26+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf7 Drones & F15 shot's down by the Iranian Air defense's.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-07T11:37:35+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -843,6 +864,26 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddee\ud83c\uddf7Iran puts downed US aircraft on display\nIranian forces showcased wreckage from drones and an F-15 they say were brought down by indigenous air defenses during the US-Israeli campaign.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-07T11:35:34+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
       "text": "\ud83d\udca5 Ansar Allah pummels Saudi-backed forces in Yemen with ballistic barrage\nYemen's Ansar Allah-aligned forces have launched a fresh wave of missile strikes against Saudi-backed positions in the eastern provinces of Marib and Hadhramaut, according to Tasnim.\n\ud83d\udc49 Footage circulating online appears to show missiles striking Seiyun Airport in Hadhramaut, an area controlled by the Saudi-backed forces aligned with Yemen\u2019s Presidential Leadership Council.\nMarib, east of Sana'a, remains the Saudi-backed government's main northern stronghold and one of the conflict's most contested front lines.\nHadhramaut lies farther east and has become increasingly important in the balance of power.\n\ud83d\udc49 [Earlier, Yahya Saree, military spokesman](https://t.me/geopolitics_prime/73171) for the Houthi-aligned Yemeni Armed Forces, said the attacks were launched to disrupt major Saudi military preparations for a new offensive.\nHe claimed the Houthi strikes killed hundreds of fighters and destroyed multiple weapons depots.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
@@ -983,44 +1024,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-06T17:23:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddf5\ud83c\uddf0 Pakistani-flagged tankers transit Bab el-Mandeb without Houthi interference\nTwo Pakistan-flagged tankers loaded crude oil at Saudi Arabia\u2019s Yanbu terminal, transited the Bab el-Mandeb Strait, and continued to Pakistan without incident, according to maritime tracking firm Windward.\nDays earlier, Pakistan\u2019s Foreign Ministry stated that any attack on a vessel flying the Pakistani flag would be treated as a threat to national security. The Houthis, who on 20 July imposed a naval blockade on vessels linked to Saudi Arabia, did not attack or attempt to stop the Pakistani ships.\n\ud83d\udc49 Since the blockade most Saudi-linked tankers (excluding Chinese-affiliated ones) have been struck or diverted around the Cape of Good Hope.\nThe Bab el-Mandeb transits add a second chokepoint where Pakistani-flagged tankers have moved without reported interference: the country already has agreements with Iran permitting two vessels per day through the Strait of Hormuz.\n30\u201335% of Pakistan\u2019s crude oil imports come from Saudi Arabia and rely on Red Sea/Bab el-Mandeb routes when the Strait of Hormuz is constrained.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-06T15:54:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83e\ude96\ud83d\udca3 Iskander barrages expose Ukraine\u2019s air-defense crisis and threaten brutal winter for Kiev\nThe night of August 6 in the Ukrainian capital was relatively \"quiet\" \u2013 compared with August 5 \u2013 aside from the wailing air-raid sirens and the panic that gripped the city around 2 am when Iskander ballistic missiles streaked overhead.\nAround four missiles struck an unknown target east of Belaya Tserkov in the Kiev region, according to OSINT sources.\n\ud83e\udd14What could the Iskander's target in Belaya Tserkov?\n\ud83d\udd34 The target of the retaliatory strike remains unclear. However, Russia previously used its cutting-edge Oreshnik ballistic missile to hit the same area [in late May](https://t.me/geopolitics_prime/69981).\n\ud83d\udd34 The Oreshnik strike reportedly targeted a metallurgical plant converted for military production, including the manufacture of FP-1 long-range strike drones with a range of around 1,500 km and a 100-kg warhead.\n\ud83d\udd34 The same area is also home to an airfield used by the Ukrainian Armed Forces that has repeatedly come under Russian strikes. Experts have previously identified Belaya Tserkov as a critical logistics hub for the distribution of weapons, ammunition, and drones.\n\ud83d\udd34 One Russian publication also suggested that the latest strike may have targeted European mercenaries allegedly deployed in the area.\nA wave of Iskanders a day earlier\nOn the night of August 5, a staggering 24 Iskander missiles were fired at Kiev and the surrounding region, [according to Ukrainian media](https://t.me/geopolitics_prime/73103). Videos flooding social media showed the scale of the devastation left behind [by the Russian strikes](https://t.me/geopolitics_prime/73130).\n\u2757\ufe0fOne piece of footage has drawn particular attention: surveillance video appears to capture 11 consecutive ballistic missile impacts on a single target during the overnight barrage on Kiev.\n\ud83c\uddf7\ud83c\uddfa Russia's Iskander strikes targeted Ukrainian military logistics and industrial assets within and around the Ukrainian capital. The Ukrainian Air Force confirmed on August 5 that zero ballistic missiles were intercepted during a massive Russian overnight barrage. It's hardly surprising given that the Iskander ballistic missile that boasts a range of up to 500 km performs a near-vertical terminal dive at hypersonic speed, while having a circular error probable (CEP) of around 1 meter.\nAnton Gerashchenko, a former adviser to Ukraine\u2019s interior minister, sounded the alarm on X, claiming that around 50 ballistic missiles had hit Kiev and nearby areas since August 1 alone.\nGerashchenko lamented the fact that the US has depleted its interceptor stocks during its Iran campaign and cannot supply Kiev with enough missiles to match the scale of Russian attacks. He questioned how Ukraine will survive the coming winter as its energy infrastructure remains defenseless, warning that continued strikes could trigger a humanitarian disaster and a new wave of Ukrainian refugees heading to Europe.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-06T14:25:27+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
