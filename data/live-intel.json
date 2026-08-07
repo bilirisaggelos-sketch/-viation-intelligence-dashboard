@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T05:16:44.496640+00:00",
+  "generated_at": "2026-08-07T06:50:36.641592+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -498,6 +498,25 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
+      "text": "NEW: Ukrainian long-range drones hit a Wildberries logistics warehouse in Yekaterinburg, deep in Russia's Urals.\nThe site sits roughly 1,700\u20132,000 km from the front line, making it one of the deepest hits yet in the campaign against the retailer's logistics network.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-07T06:25:21+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
       "text": "US Air Force Begins Withdrawing Tankers From Ben Gurion Airport\nThe US Air Force has begun withdrawing aerial refueling aircraft from Ben Gurion Airport amid pressure to maintain civilian flight operations.\n[READ MORE](https://clashreport.com/world/articles/us-air-force-begins-withdrawing-tankers-from-ben-gurion-airport-nx6n22b3bf9)",
       "source": "Telegram",
       "source_type": "telegram",
@@ -523,25 +542,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-06T20:53:05+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Reporter: Zelensky says his country desperately needs Patriot missile batteries.\nTrump: We want missiles too. Biden gave him so much.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-06T20:32:44+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -822,6 +822,25 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddf5\ud83c\uddf8\ud83e\udd25 Trump\u2019s Gaza \u2018Board of Peace\u2019 breaks ground - on a military base\nThe Board, chaired by Donald Trump and stacked with the usual suspects like son-in-law Jared Kushner and golf buddy Steve Witkoff, has finally put ink to paper on its very first Gaza reconstruction contract, reports The Guardian. \nThe inaugural act of the Board of Peace, created to oversee the rebirth of the shattered territory, is to build a spartan, 150-person military outpost. \nThe base being floated is tiny - just 100 by 120 meters - barely enough to squeeze in a rotating contingent of Moroccan troops shuttling from an Israeli base. \nIt would sit inside the 60% of Gaza already under direct Israeli military control, with a ready-made escape route near the Israeli border in case things go south. \n\ud83d\udc49 The still-unsigned deal went to Arkel International, a Louisiana contractor with prior US government work in places like Iraq. \nEarlier drafts of the contract reportedly envisioned this tiny outpost as phase one of a planned 5,000-person base featuring vehicle fighting positions and a defensive berm, with amenities like tents, cots, chemical toilets, and handwashing stations.\nAt this point, it\u2019s worth recalling[ Kushner\u2019s January Davos pitch ](https://t.me/geopolitics_prime/72346)for a $25 billion \u201cNew Gaza,\u201d featuring 180 luxury waterfront towers, an airport, a seaport, and advanced industrial zones \u2026\nThe reality is that most of Gaza\u2019s two million people are still living in makeshift camps amid the rubble of a territory where at least 80% of buildings were damaged or destroyed. \nThe Board\u2019s first concrete act is not housing \u2013 it\u2019s a forward operating base.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-07T06:01:15+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
       "text": "\ud83d\udd0d How Ukraine trains next generation of Colombian drug cartels and guerrillas in drone warfare\n\ud83d\udc49 Colombian mercenaries undergo little, if any, background vetting in Ukraine, allowing former soldiers, guerrillas, and criminals to join the Ukrainian military and gain drone expertise, the Financial Times reports.\nFor many, the Ukrainian battlefield offers a unique opportunity to learn the latest forms of drone warfare, as the conflict has already revolutionized modern wars.\nColombian gang members and guerrillas seek training in the use of:\n\u27a1\ufe0f low-cost consumer drones and drone swarms\n\u27a1\ufe0f first-person view (FPV) drones\n\u27a1\ufe0f fiber-optic FPV drones that are largely immune to jamming\nThe results of that training are already evident\n\ud83d\udd34 Illegal armed groups carried out 264 drone attacks between 2024 and 2025 in Colombia, mostly using low-cost commercial drones modified to drop explosives\n\ud83d\udd34 Drone attacks have continued this year, growing in sophistication as FPV drones are starting to be used in Colombia\n\u27a1\ufe0f May: A drone attack killed one Colombian soldier and wounded six others during a patrol in a coca-growing region\n\u27a1\ufe0f April: Drone strikes killed three soldiers near the Ecuadorian border and damaged a military radar installation in Cauca Province.\n\u27a1\ufe0f Last December: A drone strike on a military base killed seven soldiers\n\ud83d\udd34 Even though Colombian government forces have reportedly managed to repel 96% drone attacks via electronic warfare (EW) methods, cartel gangs and rebels are trying to learn from Ukrainian how to outwit them\n\ud83d\udd34 Colombia has long been a powder keg. For decades, its military has battled drug cartels and guerrilla groups in a conflict that claimed an estimated 450,000 lives between 1958 and 2016\nColombian paramilitary groups\nThe country is home to a wide range of armed groups, driven by a long history of political violence, lucrative cocaine trafficking, and weak state control.\nMost prominent non-state actors include:\n\ud83d\udd34 ELN (National Liberation Army): One of Colombia\u2019s oldest insurgent group, founded in 1964 with Marxist-inspired leftist ideology. It remains active today\n\ud83d\udd34 FARC dissidents (originating from the Revolutionary Armed Forces of Colombia \u2013 People's Army): The original FARC, founded in 1964, was Colombia\u2019s largest guerrilla force. Most FARC members demobilized under the 2016 peace agreement and formed a legal political party in 2017, while dissident factions rejected the accord or later returned to armed struggle\n\ud83d\udd34 AUC (United Self-Defense Forces of Colombia): A major umbrella paramilitary organization active during the 1990s and early 2000s, formed by landowners, cattle ranchers, and others to combat guerrilla groups. It officially demobilized between 2003 and 2006 but many former members regrouped into BACRIM (criminal bands), some of which later evolved into organizations like the Clan del Golfo\n\ud83d\udd34 Clan del Golfo: Colombia's largest and most powerful criminal organization, emerging from former AUC structures and taking control of many trafficking routes once dominated by earlier cartels such as Medell\u00edn, Cali, and Norte del Valle.\nIt's not the first time Ukraine has cooperated with armed gangs, as it has previously been engaged with an al-Qaeda offshoot, Hayat Tahrir al-Sham, as well as various militant groups in the Middle East, Africa, and beyond.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
@@ -962,25 +981,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-06T10:07:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddf8\ud83c\udde6\ud83d\udca3 Why Saudi Arabia's military force gambit could be its biggest strategic miscalculation \nFor much of the past several years, the kingdom that once charged headlong into Yemen's quagmire appeared to have pivoted to diplomacy, positioning itself as more interested in economic transformation under \u2018Vision 2030\u2019 than military entanglements.\nHowever, recent military moves across the Middle East - from joint operations with the US in Iraq to [escalating confrontation](https://t.me/geopolitics_prime/726380) with Yemen - suggest the Gulf kingdom is once again turning to hard power. \nThe US war on Iran has scrambled the regional map, and the monarchy\u2019s response looks like deterrence \u2013 but reeks of anxiety.\nThe US-Israeli war on Iran laid bare [Saudi Arabia\u2019s vulnerabilities:](https://t.me/geopolitics_prime/72757) its territory hosts American [military installations](https://t.me/geopolitics_prime/70729), its [energy infrastructure ](https://t.me/geopolitics_prime/65808)has been targeted in retaliatory strikes, and its[ trade routes ](https://t.me/geopolitics_prime/72905)have been threatened.\n\ud83d\udc51 When Saudi Crown Prince[ Mohammed bin Salman reportedly urged](https://t.me/geopolitics_prime/73009) Donald Trump to hold off on a large-scale attack on Iran, it seemed the kingdom had finally embraced restraint. \nYet even then Riyadh began quietly preparing its own military escalation.\nThe recent Saudi airstrikes against Axis of Resistance Iraqi fighters alongside the [US crystallize the shift.](https://t.me/geopolitics_prime/72894)\nAs a pretext, [Saudi Arabia ](https://t.me/geopolitics_prime/72875)accused Iraqi militias of launching drone attacks against its oil facilities \u2013 claims denied by Iraq\u2019s Popular Mobilization Forces (PMF), an umbrella organization of Iraqi militias, while Yemen's Ansar Allah claimed responsibility for the attacks.\nFor years, Saudi Arabia invested heavily in rebuilding ties with Iraq through investment, diplomacy and economic engagement.\nNow, by tying itself to the US military agenda, the kingdom risks paying the price across the Gulf, the Red Sea and at home if retaliation expands.\n\ud83c\uddfe\ud83c\uddea Yemen highlights the limits of Saudi military options.\nAfter a recent Saudi strike on [Sanaa airport](https://t.me/geopolitics_prime/72901), Yemeni forces responded with missile and drone attacks on Abha airport and threatened Saudi maritime routes. \nThe monarchy invested heavily in western ports and alternative export corridors to escape Hormuz risks, only to find those lifelines potentially exposed in the Red Sea as well.\nThe more closely Saudi Arabia ties itself to US campaigns, the greater the risk it becomes a pawn rather than a player - with its economic ambitions paying the price.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-06T08:39:02+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
