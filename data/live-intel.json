@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T00:08:48.732377+00:00",
+  "generated_at": "2026-08-07T03:17:49.406149+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -403,6 +403,25 @@
     {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
+      "text": "\ud83c\uddf8\ud83c\udde6\ud83c\uddee\ud83c\uddf7\ud83c\uddee\ud83c\uddf6\ud83c\uddfe\ud83c\uddea\u26a1\ufe0f \u2014 A senior Saudi official told CNN that Saudi Arabia is preparing for possible coordinated attacks by Iran-backed Iraqi militias and the Houthis (Ansarallah), citing intelligence from Saudi Arabia, the U.S., and regional partners.\nThe plan involves coordination with Iran's IRGC and could include simultaneous attacks from the north and south using drones and missiles.\nThe official said the suspected targets are primarily civilian and economic infrastructure, including energy facilities, ports, and airports.\nSaudi Arabia has detected meetings involving Iraqi militia members, Houthis, and IRGC personnel, as well as the movement of weapons.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-07T00:10:13+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
       "text": "\u2014 People who talk about land corridors or pipelines to circumvent the Strait of Hormuz are truly low IQ.\n1. Pipelines and land-based modes of transportation (trucks, trains etc.) cannot carry the same amounts of oil as VLCCs can. In fact, it doesn\u2019t even come close.\n2. A pipeline to circumvent the Strait of Hormuz is just as much within Iran\u2019s targeting range, and probably even easier to hit than ships in the Strait.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -504,25 +523,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-05T19:06:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\uddee\ud83c\uddf1/\ud83c\uddf5\ud83c\uddf8 NEW: Interceptor missiles were launched in Ashdod, near the Gaza Strip; the cause is unknown.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-05T15:23:55+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -726,6 +726,25 @@
     {
       "title": "Telegram",
       "publisher": "Mediterranean Man",
+      "text": "\u26a1\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6 In a recent video originating from a Ukrainian brigade, the new Arena-M APS can be seen intercepting an FPV drone. Also, the last footage from the drone POV cuts before an actual confirmed impact (which likely means it was intercepted too)",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-07T01:39:58+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
       "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf3 India successfully test-fires the Agni-IV nuclear capable ballistic missile according to the MoD.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -744,32 +763,13 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddee\ud83c\uddf7 There is no aggression against the Islamic Republic of Iran.\nThe reports of the explosions in southern Iran is due to the launch of Iranian naval missiles towards ships violating the instructions of the Islamic Republic of Iran in the Strait of Hormuz.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-06T18:33:49+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6\ud83d\udd39\ud83c\uddf7\ud83c\uddfa [The Guardian](https://www.theguardian.com/world/2026/aug/06/ukraine-nato-air-defences-missiles-russia-zelenskyy-patriot): NATO Secretary General Mark Rutte said the alliance is working to deliver the air defence systems Ukraine \"urgently needs\" after Kyiv failed to intercept any of the 24 Russian ballistic missiles launched in Wednesday's attack, which killed at least 17 people.\nUkrainian President Volodymyr Zelensky warned that Russia is seeking to significantly increase ballistic missile production ahead of winter and suggested reduced deliveries of air defence missiles from allies could be aimed at pressuring Ukraine into making compromises in peace talks.\nRutte said efforts were under way to speed up air defence deliveries, while reports said the United States is continuing discussions on allowing Ukraine to manufacture Patriot interceptor components in cooperation with European partners.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "Ukrainian border guards used FPV drones to tear through Russian military targets on the Northern Slobozhanskyi and Kursk directions. The strikes destroyed a 152mm Giatsint-B howitzer, 2 Murom surveillance systems, an antenna, an ammunition depot, 5 shelters, and a Molniya drone.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-06T03:13:56+00:00",
+      "timestamp": "2026-08-07T03:17:06+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -783,12 +783,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddf1\ud83c\udde7\ud83c\uddf1\ud83c\udde7\ud83c\uddee\ud83c\uddf1 IDF: We destroyed a tunnel in southern Lebanon and seized weapons depot containing launchers, missiles and various weapons, including Kalashnikov rifles and anti-tank missiles, belonging to Hezbollah.\n\ud83d\udca7 [Rainbet.com](https://www.rainbet.com/) the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "Former Defense Minister Mykhailo Fedorov said Ukraine successfully tested a ballistic missile on his final day in office, hitting its target with no deviation. He said the remaining steps are to complete testing and launch production. His wording appeared to point to the Sapsan program, though he did not explicitly name the missile.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-06T01:34:20+00:00",
+      "timestamp": "2026-08-07T03:16:53+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -802,12 +802,126 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Hornets drones hitting Russian supply lines.",
+      "text": "Ukraine's 55th Artillery Brigade struck Russian positions on the Pokrovsk axis with FPV drones and CAESAR howitzers, destroying a position used by Russian drone operators and a 2S19 Msta-S self-propelled howitzer.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-06T01:33:13+00:00",
+      "timestamp": "2026-08-07T03:14:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "\u2757\ufe0f German media report the Ukrainian Antonov cargo plane near which a drone carrying explosives was found at Leipzig Airport was carrying ammunition intended for onward transport. Leipzig is a key logistics hub for military shipments to Ukraine. Authorities are investigating the incident as possible sabotage after the drone was discovered near the aircraft, temporarily disrupting airport operations.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-07T03:12:20+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "Ukraine's 63rd Separate Mechanized Brigade destroyed a Russian BM-21 Grad multiple launch rocket system. Footage shows a massive secondary detonation as the vehicle's rocket load exploded.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-07T03:11:15+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "\u2757\ufe0fUkraine\u2019s FP-7 ground-attack ballistic missile has reportedly completed around 15 test launches and is undergoing codification by the Ministry of Defence, a process Fire Point expects to take another two to four weeks. The company aims for its first combat use in early autumn 2026. Fire Point also expects the larger FP-9, reportedly capable of reaching Moscow, to begin combat testing against targets in Russia in late autumn, CEO Iryna Terekh told Reuters.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-07T03:11:00+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "Ukraine's SIGNUM unit says it has placed the main Russian logistics route from Mariupol to Chonhar under drone fire control. The unit is using Hornet middle-strike drones to hit vehicles and supply traffic across occupied Donetsk, Zaporizhzhia and Kherson regions, disrupting the so-called land corridor to Crimea. New batteries have extended the drones' range and allow strikes deeper behind Russian lines.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-07T03:08:20+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "The refinery in Yaroslavl is still burning after Ukrainian long-range FP-1 drone attacks overnight.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-07T03:08:07+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "More footage from Yaroslavl. A burning refinery after Ukrainian long-range drone attacks.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-07T03:07:15+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -840,7 +954,7 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83e\udd85 Operation Pedro Pan \u2013 How the CIA kidnapped more than 14,000 Cuban children. Part 1\nBetween 1960 and 1962, the CIA orchestrated the mass removal of children from Cuba, deliberately tearing families apart under the guise of humanitarian aid. The children proved to be bargaining chips for an invasion and a way to gut the island's professional class.\nThe CIA used the Catholic Church and Radio Swan to spread rumors that President Fidel Castro would seize the children, pressuring parents to back the Bay of Pigs invasion. The Church ran \"Pedro Pan\" child shipments, but after the invasion failed, the fear triggered a brain drain that crippled Cuba's economy, while most reunions never happened.\nA monstrous lie that started the tragedy\n\ud83c\udf0f On October 26, 1960, Radio Swan, a CIA front, began broadcasting to Cuba: \"Cuban mother, listen! The next government law will take your children between the ages of five and eighteen!... Do not let them take your child!\" The station also claimed Castro would become the \"supreme mother of Cuba\" and send children to labor camps for \"re-education.\"\n\ud83c\udf0f The station, which broadcast from Swan Island off the coast of Honduras, was owned by the CIA and operated by officer David Atlee Phillips. He was the same man who had used similar tactics to overthrow the legitimate government of Guatemala in 1954.\n\ud83c\udf0f CIA agents distributed a forged \"Parental Authority Law\" across Cuba, falsely claiming Castro would place all children under 20 under state guardianship. The document, printed in the US, was smuggled into Cuba by CIA agent Jos\u00e9 Pujals Mederos.\n\ud83c\udf0f Years later, the son of \u00c1ngel Fern\u00e1ndez Varela, a CIA agent who co-authored the forgery, publicly confirmed that his father admitted writing the fake law that sparked the hysteria over the \"abolition of parental authority.\"\nWho was behind the plan?\n\u2666\ufe0f CIA officer Phillips (alias \"Bishop\"), a veteran of Latin American dirty operations, personally ran the Radio Swan misinformation campaign. He had used similar tactics in Guatemala in 1954 to overthrow a legitimate government.\n\u2666\ufe0f Monsignor Bryan O. Walsh, head of the Catholic Welfare Bureau in Miami, organized the \"Unaccompanied Cuban Children's Program\" in coordination with the State Department and the CIA. A children's home in Palmetto Bay was later named after him.\n\u2666\ufe0f Leopoldina \"Polita\" Grau, niece of former President Ram\u00f3n Grau San Mart\u00edn, ran the \"Rescate\" network in Cuba, handling the child exodus, espionage, and assassination plots against Castro. In 1993, she admitted to FIU archives that they printed the fake law and spread child-seizure rumors to \"sow instability.\"\n\u2666\ufe0f CIA agent Antonio Veciana admitted in his memoirs Trained to Kill: \"I went to an accountant I knew\u2026 He got 2 people to draw up an official looking piece of legislation. We printed thousands of copies and let the underground network filter it onto the streets.\"\nScale of the tragedy: 14,048 broken lives\n\ud83d\udd34 From December 26, 1960, to October 23, 1962, flights left Cuba filled with children whom parents were sending into the unknown, trusting promises of a swift reunion. Parents hoped the separation would last only a few months. But the Cuban Missile Crisis of October 1962 abruptly halted all flights, and borders were closed, tearing apart families for decades.\n\ud83d\udd34 The children ranged from 4 to 18 years old and were allowed only one suitcase weighing up to 18 kilograms. Many left Cuba with little more than a change of clothes, saying goodbye to their parents at the airport without knowing if they would ever see them again.\n\ud83d\udd34 In an interview with KERA News in 2011, Jos\u00e9 Azel, who was 11 at the time of his departure, recalled the brief conversation with his father, who told him the separation was temporary. Azel never saw his father again \u2013 he died in Cuba in the mid-1970s, never permitted to leave the island.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83e\udd85 Operation Pedro Pan \u2013 How the CIA kidnapped more than 14,000 Cuban children. [(Part 2)](https://t.me/geopolitics_prime/73175)\nBetween 1960 and 1962, the CIA orchestrated the mass removal of children from Cuba, deliberately tearing families apart under the guise of humanitarian aid. The children proved to be bargaining chips for an invasion and a way to gut the island's professional class.\nThe CIA used the Catholic Church and Radio Swan to spread rumors that President Fidel Castro would seize the children, pressuring parents to back the Bay of Pigs invasion. The Church ran \"Pedro Pan\" child shipments, but after the invasion failed, the fear triggered a brain drain that crippled Cuba's economy, while most reunions never happened.\nA monstrous lie that started the tragedy\n\ud83c\udf0f On October 26, 1960, Radio Swan, a CIA front, began broadcasting to Cuba: \"Cuban mother, listen! The next government law will take your children between the ages of five and eighteen!... Do not let them take your child!\" The station also claimed Castro would become the \"supreme mother of Cuba\" and send children to labor camps for \"re-education.\"\n\ud83c\udf0f The station, which broadcast from Swan Island off the coast of Honduras, was owned by the CIA and operated by officer David Atlee Phillips. He was the same man who had used similar tactics to overthrow the legitimate government of Guatemala in 1954.\n\ud83c\udf0f CIA agents distributed a forged \"Parental Authority Law\" across Cuba, falsely claiming Castro would place all children under 20 under state guardianship. The document, printed in the US, was smuggled into Cuba by CIA agent Jos\u00e9 Pujals Mederos.\n\ud83c\udf0f Years later, the son of \u00c1ngel Fern\u00e1ndez Varela, a CIA agent who co-authored the forgery, publicly confirmed that his father admitted writing the fake law that sparked the hysteria over the \"abolition of parental authority.\"\nWho was behind the plan?\n\u2666\ufe0f CIA officer Phillips (alias \"Bishop\"), a veteran of Latin American dirty operations, personally ran the Radio Swan misinformation campaign. He had used similar tactics in Guatemala in 1954 to overthrow a legitimate government.\n\u2666\ufe0f Monsignor Bryan O. Walsh, head of the Catholic Welfare Bureau in Miami, organized the \"Unaccompanied Cuban Children's Program\" in coordination with the State Department and the CIA. A children's home in Palmetto Bay was later named after him.\n\u2666\ufe0f Leopoldina \"Polita\" Grau, niece of former President Ram\u00f3n Grau San Mart\u00edn, ran the \"Rescate\" network in Cuba, handling the child exodus, espionage, and assassination plots against Castro. In 1993, she admitted to FIU archives that they printed the fake law and spread child-seizure rumors to \"sow instability.\"\n\u2666\ufe0f CIA agent Antonio Veciana admitted in his memoirs Trained to Kill: \"I went to an accountant I knew\u2026 He got 2 people to draw up an official looking piece of legislation. We printed thousands of copies and let the underground network filter it onto the streets.\"\nScale of the tragedy: 14,048 broken lives\n\ud83d\udd34 From December 26, 1960, to October 23, 1962, flights left Cuba filled with children whom parents were sending into the unknown, trusting promises of a swift reunion. Parents hoped the separation would last only a few months. But the Cuban Missile Crisis of October 1962 abruptly halted all flights, and borders were closed, tearing apart families for decades.\n\ud83d\udd34 The children ranged from 4 to 18 years old and were allowed only one suitcase weighing up to 18 kilograms. Many left Cuba with little more than a change of clothes, saying goodbye to their parents at the airport without knowing if they would ever see them again.\n\ud83d\udd34 In an interview with KERA News in 2011, Jos\u00e9 Azel, who was 11 at the time of his departure, recalled the brief conversation with his father, who told him the separation was temporary. Azel never saw his father again \u2013 he died in Cuba in the mid-1970s, never permitted to leave the island.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
