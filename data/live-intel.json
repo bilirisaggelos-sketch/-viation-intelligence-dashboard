@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T21:57:26.364930+00:00",
+  "generated_at": "2026-08-07T22:48:56.386990+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -42,25 +42,6 @@
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nEAST RUTHERFORD, NJ, Wednesday, August 12, 2026 through Wednesday, August 12, 2026 Local\nFacility: ZNY",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "08/07/2026",
-      "location": "ZNY NJ",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nNewark, NJ, Friday, August 7, 2026 Local\nFacility: ZNY",
       "source": "FAA",
       "source_type": "official",
       "publisher": "Federal Aviation Administration",
