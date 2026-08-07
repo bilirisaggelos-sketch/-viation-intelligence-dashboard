@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T18:04:50.994765+00:00",
+  "generated_at": "2026-08-07T19:18:16.646213+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -517,12 +517,12 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "India Successfully Test-Fires Nuclear-Capable Agni-4 Ballistic Missile\nIndia has successfully test-fired its nuclear-capable Agni-4 medium-range ballistic missile from Chandipur, Odisha.\n[READ MORE](https://clashreport.com/defense/articles/india-successfully-test-fires-nuclear-capable-agni-4-ballistic-missile-cpo7uwxc5lg)",
+      "text": "Iranian President Masoud Pezeshkian:\nThere is no rift between the government and the armed forces.\nIran is united and cohesive, and sowing division is what the country's enemies want.\nOur fighters amazed the world.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-07T17:57:04+00:00",
+      "timestamp": "2026-08-07T19:01:09+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -532,6 +532,64 @@
         "Clash Report"
       ],
       "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Iranian President Masoud Pezeshkian:\nWhere did the U.S. strike the Minab school from? From those same Muslim and friendly countries of ours.\nWhy should they allow them to come and attack us? And yet we don't want to attack them; we strike back at the places from which we are being attacked.\nWhy should America come here and establish bases and hit any Islamic country on the head if they don't listen to them?\nWho says we should be their submissive servants? Why? We have no intention of bullying anyone, but we won't submit to bullying either. They shouldn't bully us.\nThey shouldn't come to our country and take our resources. Right now, in Iraq, they sell oil and don't give them the money.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-07T18:59:29+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "The U.S. Army will spend at least $400 million on AeroVironment\u2019s Locust anti-drone lasers, buying dozens of systems. \nIt would be the Pentagon\u2019s first production contract for a directed-energy counter-drone system beyond the prototype stage.\nSource: Bloomberg",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-07T18:41:52+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "India Successfully Test-Fires Nuclear-Capable Agni-4 Ballistic Missile\nIndia has successfully test-fired its nuclear-capable Agni-4 medium-range ballistic missile from Chandipur, Odisha.\n[READ MORE](https://clashreport.com/defense/articles/india-successfully-test-fires-nuclear-capable-agni-4-ballistic-missile-cpo7uwxc5lg)",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-07T17:57:04+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Clash Report",
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -551,45 +609,6 @@
         "Clash Report"
       ],
       "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Former Ukrainian Defense Minister Mykhailo Fedorov has continued trying to persuade Elon Musk to expand Ukraine's military use of Starlink, even after leaving office.\nAccording to two of Fedorov's allies, Musk has refused, arguing that expanding Starlink's military role could escalate the war and saying that \"it's time to make a deal.\"\nAlthough Musk worked with Fedorov earlier in 2026 to cut off Russian access to Starlink by Russian forces, he has so far declined Ukraine's latest request to support strikes against Russian ballistic missile launchers.\nSource: The Atlantic",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-07T17:10:14+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Yemen's Houthis say they carried out a large missile and drone strike on Saudi-backed forces, weapons, vehicles, and supply depots at the Sahn al-Jinn military camp, warning they will continue targeting Saudi-backed troop concentrations.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-07T17:02:55+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Clash Report"
-      ],
-      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -679,13 +698,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
-        "Clash Report"
+        "Alsaa Plus EN"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -805,6 +823,83 @@
     },
     {
       "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8 The US Department of Defense is drafting a revised nuclear strategy that emphasizes the potential use of shorter-range tactical nuclear weapons in regional conflicts against Russia or China.\nLed by Under Secretary of Defense for Policy\u00a0Elbridge Colby, the planned document marks a transition from long-standing reliance on long-range strategic missiles built to neutralize an\u00a0adversary's entire nuclear force.\nOfficials\u00a0maintain\u00a0that the doctrine is designed to expand the president\u2019s range of credible response options during an allied crisis, mitigating the need to resort to a full-scale nuclear intervention.\nThe review comes after the lapse of the\u00a0New Strategic Arms Reduction Treaty\u00a0(START) in February 2026, which ended binding limits on deployed strategic warheads between Washington and Moscow.\nCritics in the US Congress and foreign policy experts warn that placing greater emphasis on tactical nuclear weapons lowers the threshold for nuclear conflict and risks sparking a regional arms race in\u00a0Europe\u00a0and\u00a0East Asia.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-07T19:04:47+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ufe0f\ud83c\uddf9\ud83c\uddf7 Aselsan has given T\u00fcrkiye a domestically produced infrared sensing capability, providing a key building block for military systems that rely on thermal vision, target detection, and precision tracking.\nThe Turkish defense giant\u2019s new electro-optical system can be configured in both cooled and uncooled modes, allowing it to adapt to different mission requirements.\nIt is designed to span nearly every corner of T\u00fcrkiye\u2019s military arsenal, with potential applications across drones, missiles, combat aircraft, and armored vehicles.\nThey also support advanced targeting systems and form part of the electro-optical suite powering T\u00fcrkiye\u2019s KAAN fifth-generation fighter jet.\nDue to the complexity of developing military-grade infrared detectors, only a limited number of countries have been able to produce the technology domestically.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-07T18:32:51+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf3 India\u2019s first full-flow staged combustion (FFSC) rocket engine.\n80-tonne class. Fully integrated. Designed and manufactured in Bengaluru, India.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-07T18:21:23+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf3 Agni-4 Specifications:\n Range: 4,000 km\n Type: Two-stage, solid-fuel ballistic missile\n Warhead: Nuclear-capable, up to 1,000 kg\n Accuracy (CEP): Less than 100 meters\nThe test used a randomly selected, production-ready missile launched by operational forces, validating combat readiness, rapid deployment, logistics, and crew performance under real-world conditions.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-07T18:08:32+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Clash Report",
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
       "publisher": "CASELS",
       "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf6 Iraqi counter\u2011terrorism forces have been deployed in the Green Zone, with armoured convoys entering the area and tanks positioned on the road to Baghdad International Airport.\nReports also on the arrest of a well\u2011known businessman on corruption charges, amid a broader security and anti\u2011corruption operation.",
       "source": "Telegram",
@@ -853,13 +948,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "CASELS",
-        "Geopolitics Prime"
+        "CASELS"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -985,45 +1079,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-07T06:01:15+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udd0d How Ukraine trains next generation of Colombian drug cartels and guerrillas in drone warfare\n\ud83d\udc49 Colombian mercenaries undergo little, if any, background vetting in Ukraine, allowing former soldiers, guerrillas, and criminals to join the Ukrainian military and gain drone expertise, the Financial Times reports.\nFor many, the Ukrainian battlefield offers a unique opportunity to learn the latest forms of drone warfare, as the conflict has already revolutionized modern wars.\nColombian gang members and guerrillas seek training in the use of:\n\u27a1\ufe0f low-cost consumer drones and drone swarms\n\u27a1\ufe0f first-person view (FPV) drones\n\u27a1\ufe0f fiber-optic FPV drones that are largely immune to jamming\nThe results of that training are already evident\n\ud83d\udd34 Illegal armed groups carried out 264 drone attacks between 2024 and 2025 in Colombia, mostly using low-cost commercial drones modified to drop explosives\n\ud83d\udd34 Drone attacks have continued this year, growing in sophistication as FPV drones are starting to be used in Colombia\n\u27a1\ufe0f May: A drone attack killed one Colombian soldier and wounded six others during a patrol in a coca-growing region\n\u27a1\ufe0f April: Drone strikes killed three soldiers near the Ecuadorian border and damaged a military radar installation in Cauca Province.\n\u27a1\ufe0f Last December: A drone strike on a military base killed seven soldiers\n\ud83d\udd34 Even though Colombian government forces have reportedly managed to repel 96% drone attacks via electronic warfare (EW) methods, cartel gangs and rebels are trying to learn from Ukrainian how to outwit them\n\ud83d\udd34 Colombia has long been a powder keg. For decades, its military has battled drug cartels and guerrilla groups in a conflict that claimed an estimated 450,000 lives between 1958 and 2016\nColombian paramilitary groups\nThe country is home to a wide range of armed groups, driven by a long history of political violence, lucrative cocaine trafficking, and weak state control.\nMost prominent non-state actors include:\n\ud83d\udd34 ELN (National Liberation Army): One of Colombia\u2019s oldest insurgent group, founded in 1964 with Marxist-inspired leftist ideology. It remains active today\n\ud83d\udd34 FARC dissidents (originating from the Revolutionary Armed Forces of Colombia \u2013 People's Army): The original FARC, founded in 1964, was Colombia\u2019s largest guerrilla force. Most FARC members demobilized under the 2016 peace agreement and formed a legal political party in 2017, while dissident factions rejected the accord or later returned to armed struggle\n\ud83d\udd34 AUC (United Self-Defense Forces of Colombia): A major umbrella paramilitary organization active during the 1990s and early 2000s, formed by landowners, cattle ranchers, and others to combat guerrilla groups. It officially demobilized between 2003 and 2006 but many former members regrouped into BACRIM (criminal bands), some of which later evolved into organizations like the Clan del Golfo\n\ud83d\udd34 Clan del Golfo: Colombia's largest and most powerful criminal organization, emerging from former AUC structures and taking control of many trafficking routes once dominated by earlier cartels such as Medell\u00edn, Cali, and Norte del Valle.\nIt's not the first time Ukraine has cooperated with armed gangs, as it has previously been engaged with an al-Qaeda offshoot, Hayat Tahrir al-Sham, as well as various militant groups in the Middle East, Africa, and beyond.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-06T23:21:53+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "CASELS",
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83e\udd85 Operation Pedro Pan \u2013 How the CIA kidnapped more than 14,000 Cuban children. Part 1 \u27a1\ufe0f [Part 2](https://t.me/geopolitics_prime/73175)\nBetween 1960 and 1962, the CIA orchestrated the mass removal of children from Cuba, deliberately tearing families apart under the guise of humanitarian aid. The children proved to be bargaining chips for an invasion and a way to gut the island's professional class.\nThe CIA used the Catholic Church and Radio Swan to spread rumors that President Fidel Castro would seize the children, pressuring parents to back the Bay of Pigs invasion. The Church ran \"Pedro Pan\" child shipments, but after the invasion failed, the fear triggered a brain drain that crippled Cuba's economy, while most reunions never happened.\nA monstrous lie that started the tragedy\n\ud83c\udf0f On October 26, 1960, Radio Swan, a CIA front, began broadcasting to Cuba: \"Cuban mother, listen! The next government law will take your children between the ages of five and eighteen!... Do not let them take your child!\" The station also claimed Castro would become the \"supreme mother of Cuba\" and send children to labor camps for \"re-education.\"\n\ud83c\udf0f The station, which broadcast from Swan Island off the coast of Honduras, was owned by the CIA and operated by officer David Atlee Phillips. He was the same man who had used similar tactics to overthrow the legitimate government of Guatemala in 1954.\n\ud83c\udf0f CIA agents distributed a forged \"Parental Authority Law\" across Cuba, falsely claiming Castro would place all children under 20 under state guardianship. The document, printed in the US, was smuggled into Cuba by CIA agent Jos\u00e9 Pujals Mederos.\n\ud83c\udf0f Years later, the son of \u00c1ngel Fern\u00e1ndez Varela, a CIA agent who co-authored the forgery, publicly confirmed that his father admitted writing the fake law that sparked the hysteria over the \"abolition of parental authority.\"\nWho was behind the plan?\n\u2666\ufe0f CIA officer Phillips (alias \"Bishop\"), a veteran of Latin American dirty operations, personally ran the Radio Swan misinformation campaign. He had used similar tactics in Guatemala in 1954 to overthrow a legitimate government.\n\u2666\ufe0f Monsignor Bryan O. Walsh, head of the Catholic Welfare Bureau in Miami, organized the \"Unaccompanied Cuban Children's Program\" in coordination with the State Department and the CIA. A children's home in Palmetto Bay was later named after him.\n\u2666\ufe0f Leopoldina \"Polita\" Grau, niece of former President Ram\u00f3n Grau San Mart\u00edn, ran the \"Rescate\" network in Cuba, handling the child exodus, espionage, and assassination plots against Castro. In 1993, she admitted to FIU archives that they printed the fake law and spread child-seizure rumors to \"sow instability.\"\n\u2666\ufe0f CIA agent Antonio Veciana admitted in his memoirs Trained to Kill: \"I went to an accountant I knew\u2026 He got 2 people to draw up an official looking piece of legislation. We printed thousands of copies and let the underground network filter it onto the streets.\"\nScale of the tragedy: 14,048 broken lives\n\ud83d\udd34 From December 26, 1960, to October 23, 1962, flights left Cuba filled with children whom parents were sending into the unknown, trusting promises of a swift reunion. Parents hoped the separation would last only a few months. But the Cuban Missile Crisis of October 1962 abruptly halted all flights, and borders were closed, tearing apart families for decades.\n\ud83d\udd34 The children ranged from 4 to 18 years old and were allowed only one suitcase weighing up to 18 kilograms. Many left Cuba with little more than a change of clothes, saying goodbye to their parents at the airport without knowing if they would ever see them again.\n\ud83d\udd34 In an interview with KERA News in 2011, Jos\u00e9 Azel, who was 11 at the time of his departure, recalled the brief conversation with his father, who told him the separation was temporary. Azel never saw his father again \u2013 he died in Cuba in the mid-1970s, never permitted to leave the island.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-06T20:23:53+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
