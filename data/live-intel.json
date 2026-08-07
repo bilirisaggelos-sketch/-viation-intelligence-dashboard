@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T12:29:54.466075+00:00",
+  "generated_at": "2026-08-07T13:54:56.991094+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -384,6 +384,25 @@
     {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
+      "text": "\u2014 \ud83c\uddee\ud83c\uddf7/\ud83c\uddee\ud83c\uddf1 Israeli Hermes-900 drone, completely intact, likely brought down by electronic warfare or low-altitude interception",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-07T13:23:47+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
       "text": "\u2014 \ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7 Downed MQ-1C drone",
       "source": "Telegram",
       "source_type": "telegram",
@@ -517,20 +536,20 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea NEW: The Yemeni Armed Forces carried out drone and missile attacks against Saudi-backed rebels in Hadhramawt, Yemen, eliminating at least 30 of them",
+      "publisher": "Clash Report",
+      "text": "Ukraine's military intelligence (HUR) says its Group 13 special unit staged a naval \"parade\" of Magura combat sea drones off the southern coast of occupied Crimea today.\nThe display was timed to the eve of Yalta's city day.\nHUR framed it as reviving an old festive tradition from \"free Yalta,\" when Ukrainian warships would greet the city near its waterfront.\nThe unit also cast it as a message to Russian occupiers that \"Crimea is Ukraine.\"",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-06T12:42:37+00:00",
+      "timestamp": "2026-08-07T13:07:53+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Middle East Spectator"
+        "Clash Report"
       ],
       "verified_source_count": 1
     },
@@ -1005,25 +1024,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-06T18:52:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\udde8\ud83c\udde9 Congo tightens grip on battery metals with fresh export ban\nA new government order bans the exports of copper and cobalt concentrates in Congo, following June's tighter cobalt controls, Reuters reports.\u00a0\nThe ban continues a broader tightening that began in 2025 with temporary cobalt export bans, followed by the introduction of annual export quotas of approximately 96,600 tonnes for 2026\u20132027 and the later reallocation of unused quotas into a state-controlled \u201cstrategic quota.\u201d\u00a0\n\ud83d\udc49 The same June order also imposes a new tax on economically significant mining by-products, calculated with a 55% valuation coefficient.\u00a0\nCongo is the world\u2019s largest cobalt producer with over 70% of [global supply ](https://t.me/geopolitics_prime/70642)and the second-largest copper supplier. Yet much of that wealth has traditionally left the country as concentrates or intermediate products, allowing refiners and manufacturers abroad to capture the more profitable stages of the supply chain.\nKinshasa would now prefer that more of the value stay where the minerals actually come from.\nThe government is seeking to:\n\ud83d\udd34 increase state revenues\u00a0\u00a0\n\ud83d\udd34 create local jobs and industrial capacity\u00a0\u00a0\n\ud83d\udd34 reduce dependence on raw-material exports\u00a0\u00a0\n\ud83d\udd34 gain greater control over global battery-metal supply chains\nCobalt prices have already risen by roughly 160% since early 2025, reaching about $21 per pound.\nThat matters well beyond the mining sector.\nAmerican battery, electronics, aerospace and defense companies remain exposed to Congolese supply, even when those minerals reach them indirectly through Chinese refiners.\nWith the war against Iran draining Pentagon munitions stocks and putting US officials and defense manufacturers under pressure to rebuild depleted arsenals, Washington could find itself between a rock and a hard place. Copper and cobalt are both embedded in the wider industrial chain needed to produce military electronics, aircraft components, guidance systems, communications equipment and high-performance alloys.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-06T17:23:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
