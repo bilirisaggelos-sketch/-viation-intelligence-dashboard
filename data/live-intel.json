@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T10:36:37.850156+00:00",
+  "generated_at": "2026-08-07T11:33:50.627357+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -384,6 +384,45 @@
     {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
+      "text": "\u2014 \ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7 Downed MQ-1C drone",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-07T11:21:07+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014 \ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7 Wreckage of an American F-15 fighter jet, displayed by the IRGC Aerospace Forces\nThis is the jet whose two pilots were being searched for several days in Iran\u2019s mountain ranges & then rescued by U.S. special forces.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-07T11:11:56+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Clash Report",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
       "text": "\ud83c\uddf8\ud83c\udde6\ud83c\uddee\ud83c\uddf7\ud83c\uddee\ud83c\uddf6\ud83c\uddfe\ud83c\uddea\u26a1\ufe0f \u2014 A senior Saudi official told CNN that Saudi Arabia is preparing for possible coordinated attacks by Iran-backed Iraqi militias and the Houthis (Ansarallah), citing intelligence from Saudi Arabia, the U.S., and regional partners.\nThe plan involves coordination with Iran's IRGC and could include simultaneous attacks from the north and south using drones and missiles.\nThe official said the suspected targets are primarily civilian and economic infrastructure, including energy facilities, ports, and airports.\nSaudi Arabia has detected meetings involving Iraqi militia members, Houthis, and IRGC personnel, as well as the movement of weapons.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -497,22 +536,23 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddfe\ud83c\uddea/\ud83c\uddf8\ud83c\udde6 NEW: The Yemeni Armed Forces announce they targeted the \u2018Daisy\u2019 vessel, a Saudi oil tanker, off the coast of Aden with ballistic missiles\nThis is the second Saudi tanker that was targeted today.",
+      "publisher": "Clash Report",
+      "text": "Footage of U.S. & Israeli drones and fighter jets reportedly destroyed by Iran\u2019s IRGC Aerospace Force.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-05T19:06:01+00:00",
+      "timestamp": "2026-08-07T11:03:05+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
+        "Clash Report",
         "Middle East Spectator"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -713,25 +753,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-07T07:52:28+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6 In a recent video originating from a Ukrainian brigade, the new Arena-M APS can be seen intercepting an FPV drone. Also, the last footage from the drone POV cuts before an actual confirmed impact (which likely means it was intercepted too)",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-07T01:39:58+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
