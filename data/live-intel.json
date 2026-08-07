@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T17:10:41.320291+00:00",
+  "generated_at": "2026-08-07T18:04:50.994765+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -517,6 +517,44 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
+      "text": "India Successfully Test-Fires Nuclear-Capable Agni-4 Ballistic Missile\nIndia has successfully test-fired its nuclear-capable Agni-4 medium-range ballistic missile from Chandipur, Odisha.\n[READ MORE](https://clashreport.com/defense/articles/india-successfully-test-fires-nuclear-capable-agni-4-ballistic-missile-cpo7uwxc5lg)",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-07T17:57:04+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Two unidentified drones were spotted flying over a Bundeswehr military base in Mechernich, Germany, at around 10:00 p.m. on Thursday. \nThe incident follows a recent drone-related disruption at Leipzig Airport, adding to growing security concerns.\nSource: DIE ZEIT",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-07T17:29:08+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
       "text": "Former Ukrainian Defense Minister Mykhailo Fedorov has continued trying to persuade Elon Musk to expand Ukraine's military use of Starlink, even after leaving office.\nAccording to two of Fedorov's allies, Musk has refused, arguing that expanding Starlink's military role could escalate the war and saying that \"it's time to make a deal.\"\nAlthough Musk worked with Fedorov earlier in 2026 to cut off Russian access to Starlink by Russian forces, he has so far declined Ukraine's latest request to support strikes against Russian ballistic missile launchers.\nSource: The Atlantic",
       "source": "Telegram",
       "source_type": "telegram",
@@ -545,12 +583,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
+        "Alsaa Plus EN",
         "Clash Report"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -627,6 +666,26 @@
         "Our Wars Today"
       ],
       "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddfe\ud83c\uddea\ud83c\uddf8\ud83c\udde6\u26a1\ufe0f \u2014 Yemen's Armed Forces announced they carried out qualitative strikes on Saudi forces and mercenaries at the \"Sahn al-Jinn\" camp using a large number of missiles and drones, vowing to confront escalation with escalation and continue enforcing the equations of \"Siege for Siege\" and targeting Saudi mobilizations wherever they occur.\n\u27a1\ufe0f The statement warned that the Armed Forces will not allow any aggressive plans against Yemen to pass without an immediate and severe response, and called on Yemenis in enemy camps to leave before it is too late, urging them not to serve as fuel for factions trading their blood for foreign projects at the expense of the nation's sovereignty.\n\u27a1\ufe0f The Armed Forces also saluted the tribes of Marib and all free Yemenis standing against occupation and guardianship, pledging to stand with them in reclaiming the people's rights and lifting the siege.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-07T17:17:59+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Clash Report"
+      ],
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -965,25 +1024,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-06T20:23:53+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddfe\ud83c\uddea\ud83d\udee2\ud83c\uddf8\ud83c\udde6Yemen widens the net as Saudi oil searches for Hormuz workaround \nYemen has eliminated any possibility for Saudi Arabia to maneuver around Iran\u2019s blockade of Hormuz by shifting its operations to the northern Red Sea, reports Tasnim.\nOperating under the slogan \u201cblockade for blockade and escalation for escalation,\u201d Yemen is expanding its naval and aerial operations against the Gulf kingdom. \nIt has moved its targets to the northern Red Sea and is striking alternative oil export routes - limiting Saudi options.\n\ud83d\udc49 In the past 24 hours a second Saudi oil tanker had been targeted in the Red Sea, according to Brigadier General Yahya Saree, military spokesman for the Houthi-led Yemeni Armed Forces.\nThe Saudi tanker Daisy was struck by a ballistic missile in the Gulf of Aden, sustaining damage and being forced to turn back, after another Saudi vessel, Wafa was also targeted while attempting to break the blockade near the port of Yanbu.\nSince the blockade began more than a week ago, Houthi forces have succeeded in preventing 29 Saudi vessels from transiting the Red Sea and the Arabian Sea, claimed the spokesman.\n[After Saudi Arabia\u2019s July 13 strike](https://t.me/geopolitics_prime/72046) on Yemen's Sanaa International Airport, Ansar Allah (Houthis) declared that the attack had ended the \u201cde-escalation phase.\u201d \nYemeni forces retaliated, imposing a maritime embargo on Saudi exports through Bab al-Mandeb and firing [missiles and drones at Saudi Arabia](https://t.me/geopolitics_prime/72659) and its ships.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-06T18:52:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
