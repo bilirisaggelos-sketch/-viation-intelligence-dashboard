@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T03:17:49.406149+00:00",
+  "generated_at": "2026-08-07T05:16:44.496640+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -144,25 +144,6 @@
       "icon": "\ud83d\udea8",
       "timestamp": "08/04/2026",
       "location": "ZID OH",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nCanton, OH, Thursday, August 6, 2026 through Thursday, August 6, 2026 Local\nFacility: ZOB",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "08/04/2026",
-      "location": "ZOB OH",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
@@ -371,25 +352,6 @@
       "severity": "info",
       "icon": "\ud83d\udcf0",
       "timestamp": "2026-08-06T17:38:51+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "BBC World News"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Houthi attacks reportedly kill at least 30 Yemeni government forces",
-      "text": "Houthi attacks reportedly kill at least 30 Yemeni government forces\nThe Houthis say they launched missiles and drones at \"Saudi military build-ups\" in the central provinces of Marib and Hadramawt.",
-      "source": "BBC",
-      "source_type": "osint",
-      "publisher": "BBC World News",
-      "severity": "info",
-      "icon": "\ud83d\udcf0",
-      "timestamp": "2026-08-06T22:41:09+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -688,6 +650,25 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf3\ud83c\uddeb\ud83c\uddf7 France has submitted a detailed technical and commercial proposal to India for the acquisition of 114 Rafale multirole fighter jets in a deal estimated at $39 billion USD\nThe proposal includes manufacturing 94 of the 114 aircraft in India under the Make in India initiative, alongside technology transfer, integration of indigenous Astra air-to-air missile variants, Indian secure data links, and other Indian-developed systems. \nThe remaining 20 aircraft would be delivered in fly-away condition. \nIndian defence officials will now review the proposal before commercial negotiations begin.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-07T05:05:22+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
       "text": "\ud83c\udde9\ud83c\uddea\ud83c\uddfa\ud83c\udde6 A drone carrying explosives was discovered near a runway at Leipzig/Halle Airport in Germany, prompting a major security response and temporary flight disruptions.\nGerman Interior Minister Alexander Dobrindt described the incident as a \"new level of danger\", with federal authorities launching a counterterrorism investigation. \nThe origin of the drone and those responsible remain under investigation.\n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
@@ -764,12 +745,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Ukrainian border guards used FPV drones to tear through Russian military targets on the Northern Slobozhanskyi and Kursk directions. The strikes destroyed a 152mm Giatsint-B howitzer, 2 Murom surveillance systems, an antenna, an ammunition depot, 5 shelters, and a Molniya drone.",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf6 Iraqi counter\u2011terrorism forces have been deployed in the Green Zone, with armoured convoys entering the area and tanks positioned on the road to Baghdad International Airport.\nReports also on the arrest of a well\u2011known businessman on corruption charges, amid a broader security and anti\u2011corruption operation.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-07T03:17:06+00:00",
+      "timestamp": "2026-08-07T04:00:44+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -783,12 +764,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Former Defense Minister Mykhailo Fedorov said Ukraine successfully tested a ballistic missile on his final day in office, hitting its target with no deviation. He said the remaining steps are to complete testing and launch production. His wording appeared to point to the Sapsan program, though he did not explicitly name the missile.",
+      "text": "\u26a1\ufe0f\ud83c\udde8\ud83c\uddf4 Ahead of President-elect Abelardo \"El Tigre\" de la Espriella inauguration tomorrow in Cali, FARC guerrillas circulated multiple threats against him and Colombia's armed forces. One post shows a DJI Matrice 400 drone loaded with an improvised munition, captioned as being prepared to \"send it to the Tiger,\" while another shows an armed FARC fighter with the caption \"looking for the Tiger because I need its hide.\"\nA separate post from days after June runoff election shows a drone belonging to the FARC's 33rd Front carrying two improvised mortar rounds, referred to by the group as \"Tiger hunters.\"\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-07T03:16:53+00:00",
+      "timestamp": "2026-08-07T03:59:16+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -802,126 +783,32 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Ukraine's 55th Artillery Brigade struck Russian positions on the Pokrovsk axis with FPV drones and CAESAR howitzers, destroying a position used by Russian drone operators and a 2S19 Msta-S self-propelled howitzer.",
+      "text": "\u26a1\ufe0f\ud83c\udde8\ud83c\uddf4\ud83c\uddfa\ud83c\udde6 [Financial Times](https://www.ft.com/content/ef6c76d8-4872-401d-8647-b60ee43e0df3): Colombian armed groups have repeatedly sent fighters to Ukraine to gain drone warfare expertise, later using those skills against the Colombian army, as drones have overturned the state long-held aerial advantage over rebels and traffickers, with the defense ministry recording 264 drone attacks by illegal groups between 2024 and 2025, including a December attack on a military base that killed seven.\nA Colombian drone pilot fighting in Ukraine said cartel recruiters have sought training in rigging and flying first person view drones, though groups back home still lack the encryption and explosive rigging techniques used there, while others are reportedly seeking fiber optic guided drones to bypass army jamming, pushing Colombia to restrict drone imports and announce a $1.6 billion anti-drone shield.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-07T03:14:01+00:00",
+      "timestamp": "2026-08-07T03:46:43+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "CASELS"
+        "CASELS",
+        "Geopolitics Prime"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u2757\ufe0f German media report the Ukrainian Antonov cargo plane near which a drone carrying explosives was found at Leipzig Airport was carrying ammunition intended for onward transport. Leipzig is a key logistics hub for military shipments to Ukraine. Authorities are investigating the incident as possible sabotage after the drone was discovered near the aircraft, temporarily disrupting airport operations.",
+      "text": "\u26a1\ufe0f\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6\ud83c\udde9\ud83c\uddea [Euronews](https://www.euronews.com/my-europe/2026/08/06/russian-drones-attack-german-cargo-ship-emil-in-black-sea-media-reports): A German-owned cargo ship, the Emil, was reportedly struck by Russian drones while sailing in the Black Sea, according to Ukrainian media reports.\nThe vessel was reportedly carrying civilian cargo when it came under attack, though the extent of the damage and whether there were any casualties has not been officially confirmed. \n\ud83d\udca7 [Rainbet.com](https://www.rainbet.com/) the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-07T03:12:20+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "Ukraine's 63rd Separate Mechanized Brigade destroyed a Russian BM-21 Grad multiple launch rocket system. Footage shows a massive secondary detonation as the vehicle's rocket load exploded.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-07T03:11:15+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "\u2757\ufe0fUkraine\u2019s FP-7 ground-attack ballistic missile has reportedly completed around 15 test launches and is undergoing codification by the Ministry of Defence, a process Fire Point expects to take another two to four weeks. The company aims for its first combat use in early autumn 2026. Fire Point also expects the larger FP-9, reportedly capable of reaching Moscow, to begin combat testing against targets in Russia in late autumn, CEO Iryna Terekh told Reuters.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-07T03:11:00+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "Ukraine's SIGNUM unit says it has placed the main Russian logistics route from Mariupol to Chonhar under drone fire control. The unit is using Hornet middle-strike drones to hit vehicles and supply traffic across occupied Donetsk, Zaporizhzhia and Kherson regions, disrupting the so-called land corridor to Crimea. New batteries have extended the drones' range and allow strikes deeper behind Russian lines.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-07T03:08:20+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "The refinery in Yaroslavl is still burning after Ukrainian long-range FP-1 drone attacks overnight.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-07T03:08:07+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "More footage from Yaroslavl. A burning refinery after Ukrainian long-range drone attacks.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-07T03:07:15+00:00",
+      "timestamp": "2026-08-07T03:46:33+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -944,12 +831,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
+        "CASELS",
         "Geopolitics Prime"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
