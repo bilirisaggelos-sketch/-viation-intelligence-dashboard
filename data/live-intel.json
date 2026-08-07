@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T16:05:10.252618+00:00",
+  "generated_at": "2026-08-07T17:10:41.320291+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -517,12 +517,31 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Ukraine's military intelligence (HUR) says its Group 13 special unit staged a naval \"parade\" of Magura combat sea drones off the southern coast of occupied Crimea today.\nThe display was timed to the eve of Yalta's city day.\nHUR framed it as reviving an old festive tradition from \"free Yalta,\" when Ukrainian warships would greet the city near its waterfront.\nThe unit also cast it as a message to Russian occupiers that \"Crimea is Ukraine.\"",
+      "text": "Former Ukrainian Defense Minister Mykhailo Fedorov has continued trying to persuade Elon Musk to expand Ukraine's military use of Starlink, even after leaving office.\nAccording to two of Fedorov's allies, Musk has refused, arguing that expanding Starlink's military role could escalate the war and saying that \"it's time to make a deal.\"\nAlthough Musk worked with Fedorov earlier in 2026 to cut off Russian access to Starlink by Russian forces, he has so far declined Ukraine's latest request to support strikes against Russian ballistic missile launchers.\nSource: The Atlantic",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-07T13:07:53+00:00",
+      "timestamp": "2026-08-07T17:10:14+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Yemen's Houthis say they carried out a large missile and drone strike on Saudi-backed forces, weapons, vehicles, and supply depots at the Sahn al-Jinn military camp, warning they will continue targeting Saudi-backed troop concentrations.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-07T17:02:55+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -599,25 +618,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-05T11:42:51+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Our Wars Today"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Our Wars Today",
-      "text": "[Zelenskyi: The number of missiles for air defense has tripled compared to 2025](https://www.pravda.com.ua/news/2026/08/05/8047371/)\nThe supply of missiles for air defense to Ukraine in 2024 will be reduced by three times, Zelensky said. Political decisions are needed to support defense. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://www.pravda.com.ua/news/2026/08/05/8047371/)\n\u0421\u0442\u0430\u043d\u0456\u0441\u043b\u0430\u0432 \u041f\u043e\u0433\u043e\u0440\u0456\u043b\u043e\u0432 | pravda\u200b.com\u200b.ua \u2022 Aug 5, 2026",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-05T11:41:42+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
