@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T06:50:36.641592+00:00",
+  "generated_at": "2026-08-07T08:18:54.504662+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -498,50 +498,50 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
+      "text": "WATCH: T\u00fcrkiye's ASELSAN shows new test footage of its bunker-penetrating TOLUN P guided munition.\nIn the test, an AKINCI drone struck its target with a direct hit.\nTOLUN P is one of the newest members of the 250 lb class.\nDespite its small size, its specialized penetrating nose and high kinetic energy let it punch through one meter of reinforced concrete \"like paper.\"\nIt was purpose-built for hardened underground bunkers, command centers, and armored hangars, adding a force-multiplier effect to drone deterrence.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-07T07:35:30+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "An airport bus driver grounded a quadcopter carrying roughly 800g of explosives near Ukrainian An-124 freighters at Leipzig/Halle Airport.\n[READ MORE](https://clashreport.com/world/articles/bus-driver-grounds-explosive-drone-at-leipzig-airport-6w7zz9rmfnd)",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-07T07:31:05+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
       "text": "NEW: Ukrainian long-range drones hit a Wildberries logistics warehouse in Yekaterinburg, deep in Russia's Urals.\nThe site sits roughly 1,700\u20132,000 km from the front line, making it one of the deepest hits yet in the campaign against the retailer's logistics network.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-07T06:25:21+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "US Air Force Begins Withdrawing Tankers From Ben Gurion Airport\nThe US Air Force has begun withdrawing aerial refueling aircraft from Ben Gurion Airport amid pressure to maintain civilian flight operations.\n[READ MORE](https://clashreport.com/world/articles/us-air-force-begins-withdrawing-tankers-from-ben-gurion-airport-nx6n22b3bf9)",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-06T20:57:41+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "France submitted a detailed proposal to India for a government-to-government deal covering 114 Rafale fighter jets for the Indian Air Force, worth roughly \u20b93.25 lakh crore ($34\u201339 billion).\nUnder the proposed structure, about 20 jets would arrive fly-away from France to meet urgent needs, with 94 built in India.\nA key Indian priority is integrating indigenous weapons, particularly the Astra air-to-air missile.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-06T20:53:05+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -650,6 +650,25 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddf0\ud83c\uddf5\u26a1\ufe0f\ud83c\uddef\ud83c\uddf5\ud83c\uddfa\ud83c\uddf8\ud83c\uddf0\ud83c\uddf7 North Korea has carried out its first short-range ballistic missile launch in around five months, firing a missile from the Wonsan area into the East Sea (Sea of Japan) on 7 August, according to South Korea's military.\nThe launch comes just days before the annual U.S.\u2013South Korea Ulchi Freedom Shield exercises and follows recent warnings from Kim Yo Jong over expanding U.S., South Korean, and Japanese military cooperation. \nSouth Korea, Japan, and the United States condemned the launch and stepped up monitoring and coordination.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-07T07:09:52+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
       "text": "\ud83c\uddee\ud83c\uddf3\ud83c\uddeb\ud83c\uddf7 France has submitted a detailed technical and commercial proposal to India for the acquisition of 114 Rafale multirole fighter jets in a deal estimated at $39 billion USD\nThe proposal includes manufacturing 94 of the 114 aircraft in India under the Make in India initiative, alongside technology transfer, integration of indigenous Astra air-to-air missile variants, Indian secure data links, and other Indian-developed systems. \nThe remaining 20 aircraft would be delivered in fly-away condition. \nIndian defence officials will now review the proposal before commercial negotiations begin.\n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
@@ -707,12 +726,12 @@
     {
       "title": "Telegram",
       "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6 In a recent video originating from a Ukrainian brigade, the new Arena-M APS can be seen intercepting an FPV drone. Also, the last footage from the drone POV cuts before an actual confirmed impact (which likely means it was intercepted too)",
+      "text": "\u26a1\ud83c\uddfe\ud83c\uddea\ud83c\uddf8\ud83c\udde6 In just the last few hours, the Houthi Ansarallah movement has launched a wave of attacks against Saudi-aligned militant sites, Saudi cargo ships, and locations within Saudi Arabia itself.\nA recap of their operations over the past day and a half:\n- A Saudi oil tanker came under attack in the Red Sea.\n- A second tanker was pushed off course in the Gulf of Aden.\n- Three military bases in Yemen's Hadramout province were hit, leaving 45 soldiers dead.\n- Najran International Airport in Saudi Arabia was targeted, leaving 11 injured and its main radar system destroyed.\n- Sayun International Airport in eastern Yemen's Hadramout region was also struck.\n- Two more military bases were hit in Yemen's central Marib province.\nAs of now, Saudi Arabia has made no move to retaliate.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-07T01:39:58+00:00",
+      "timestamp": "2026-08-07T07:52:28+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -726,12 +745,12 @@
     {
       "title": "Telegram",
       "publisher": "Mediterranean Man",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf3 India successfully test-fires the Agni-IV nuclear capable ballistic missile according to the MoD.",
+      "text": "\u26a1\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6 In a recent video originating from a Ukrainian brigade, the new Arena-M APS can be seen intercepting an FPV drone. Also, the last footage from the drone POV cuts before an actual confirmed impact (which likely means it was intercepted too)",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-06T19:25:10+00:00",
+      "timestamp": "2026-08-07T01:39:58+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -816,6 +835,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddee\ud83c\uddf7\ud83c\uddf4\ud83c\uddf2 Iran and Oman set Hormuz rules with Trump\u2019s reopening hopes in vain \nIran and Oman are working on [the last details of the Strait of Hormuz agreement](https://t.me/geopolitics_prime/73113), while the United States appears to be left out of the process.\nWhat's known so far?\n\ud83c\udf0f Under a proposed Iran-Oman framework, for a specified period ships will enter the Strait of Hormuz through the northern corridor near Iran\u2019s coast and exit through the southern corridor near Oman\u2019s coast, an informed Iranian Foreign Ministry source told Fars\n\ud83c\udf0f After this period, both corridors will be closed and all traffic will move through the central corridor. Entry will be managed by Iran, while exits will be jointly managed by Iran and Oman\n\ud83c\udf0f Ship fees will be based on various services provided, not a percentage of cargo value. Reports of an Omani-Iranian dispute over 3% or 7% cargo-value tariffs are reportedly false\n\ud83c\udf0f Insurance, refueling, environmental fees, and similar services are among the services for which ships will be required to pay\n\ud83d\udcac \u201cAn understanding in principle has been reached on almost all the raised issues, including the map for maritime traffic entry and exit routes,\u201d Iranian Deputy Foreign Minister Kazem Gharibabadi told IRNA on August 5.\nThe proposed agreement extends beyond the mere designation of new shipping lanes, the Tehran Times reports:\n\ud83d\udc49 Iran has pushed for the memorandum to include provisions for future negotiations on maritime management, security coordination, and navigational services once the new corridor is formally established\n\ud83d\udc49 Iranian officials consider these matters closely tied to the country\u2019s sovereign rights over part of the strategically important waterway\n\u274c Iran-Oman agreement does not guarantee the reopening of the strait\nThe US is monitoring the talks through Omani mediation, Iranian media reports, citing Iranian officials who maintain that Washington\u2019s interference attempts are only complicating the process. According to these officials, it is Trump\u2019s threats and continued military pressure that are delaying the finalization of the agreement.\nThe Trump administration is racing against the clock in an effort to secure the reopening of the Strait of Hormuz, and with good reason. [US missile stockpiles are largely depleted](https://t.me/geopolitics_prime/73162), while an analysis by the International Trade Centre (ITC) indicates that disruptions to shipping through the strait have [already inflicted a severe shock on global commodity markets](https://t.me/geopolitics_prime/72429).\nWhile The New York Times suggested on August 3 that the conclusion over the deal between Iran and Oman would resolve Trump\u2019s \u201cmost urgent political problem by allowing ships to move again,\u201d IRIB has poured cold water on such expectations, citing an informed source. According to the Iranian broadcaster, the Iran-Oman deal should not be interpreted as an agreement to immediately reopen the waterway; rather, it concerns bilateral arrangements on how navigation through the strait would be governed.\nThe source made clear that any future implementation of the deal would be contingent upon broader security conditions. They specifically hinted that continued US actions could prevent the strait from returning to normal operations, regardless of progress in the talks.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-07T07:33:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
@@ -962,25 +1000,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-06T12:56:53+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddee\ud83c\uddf7 Truly stealth: Iranian pilots hit US base without GPS \nIranian pilots flew toward a US base with no GPS, no INS and no radio signals, relying only on maps and basic navigation, Deputy Coordinator of the Islamic Republic of Iran Air Force (IRIAF) Brigadier General Masoud Jafari says.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-06T10:07:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
