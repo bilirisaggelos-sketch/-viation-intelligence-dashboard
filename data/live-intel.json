@@ -1,6 +1,44 @@
 {
-  "generated_at": "2026-08-06T13:22:58.860743+00:00",
+  "generated_at": "2026-08-07T00:08:48.732377+00:00",
   "events": [
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nEast Rutherford, NJ, Friday, August 7, 2026 through Saturday, August 8, 2026 Local\nFacility: ZNY",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "08/06/2026",
+      "location": "ZNY NJ",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nLibby AAF, AZ, Friday, August 7, 2026 through Sunday, August 9, 2026 Local\nFacility: ZAB",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "08/06/2026",
+      "location": "ZAB AZ",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nMacon, GA, Saturday, August 8, 2026 Local\nFacility: ZTL",
@@ -144,25 +182,6 @@
       "icon": "\ud83d\udea8",
       "timestamp": "08/04/2026",
       "location": "ZOA CA",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nMacon, GA, Wednesday, August 5, 2026 through Friday, August 7, 2026 Local\nFacility: ZTL",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "08/03/2026",
-      "location": "ZTL GA",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
@@ -344,14 +363,14 @@
       "verified_source_count": 1
     },
     {
-      "title": "After deadly Kyiv strike, Ukraine warns interceptor shortage is costing lives",
-      "text": "After deadly Kyiv strike, Ukraine warns interceptor shortage is costing lives\nWithout Patriot interceptors, Ukraine's skies are wide open and people are fully exposed to Russia's missile barrages.",
+      "title": "South Korea space agency shares Moon images after SpaceX rocket debris crash",
+      "text": "South Korea space agency shares Moon images after SpaceX rocket debris crash\nSeoul's lunar orbiter captured images of the Moon before and after part of SpaceX's rocket hit its surface on Wednesday.",
       "source": "BBC",
       "source_type": "osint",
       "publisher": "BBC World News",
       "severity": "info",
       "icon": "\ud83d\udcf0",
-      "timestamp": "2026-08-05T18:19:51+00:00",
+      "timestamp": "2026-08-06T17:38:51+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -363,14 +382,14 @@
       "verified_source_count": 1
     },
     {
-      "title": "Drone carrying explosives found at German airport, police say",
-      "text": "Drone carrying explosives found at German airport, police say\nThe drone was found near Ukrainian cargo planes before another object collided with a cargo aircraft in mid-air.",
+      "title": "Houthi attacks reportedly kill at least 30 Yemeni government forces",
+      "text": "Houthi attacks reportedly kill at least 30 Yemeni government forces\nThe Houthis say they launched missiles and drones at \"Saudi military build-ups\" in the central provinces of Marib and Hadramawt.",
       "source": "BBC",
       "source_type": "osint",
       "publisher": "BBC World News",
       "severity": "info",
       "icon": "\ud83d\udcf0",
-      "timestamp": "2026-08-05T20:01:51+00:00",
+      "timestamp": "2026-08-06T22:41:09+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -378,6 +397,82 @@
       "verification_confidence": 30,
       "verified_sources": [
         "BBC World News"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014 People who talk about land corridors or pipelines to circumvent the Strait of Hormuz are truly low IQ.\n1. Pipelines and land-based modes of transportation (trucks, trains etc.) cannot carry the same amounts of oil as VLCCs can. In fact, it doesn\u2019t even come close.\n2. A pipeline to circumvent the Strait of Hormuz is just as much within Iran\u2019s targeting range, and probably even easier to hit than ships in the Strait.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-06T18:39:50+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf7\ud83c\uddf8\ud83c\udde6\u26a1\ufe0f \u2014 In the same article, CNN citing a regional official reports that Gulf state leaders are concerned about shortages of air defense munitions and have acknowledged these shortages could hinder their ability to intercept Iranian missiles and UAVs. \nIran also reportedly told Gulf states that energy infrastructure and/or water desalination sites across the region would be struck if America conducts new strikes against Iran.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-06T18:04:55+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014 \ud83c\uddee\ud83c\uddf7/\ud83c\uddf4\ud83c\uddf2 Iran\u2019s semi-official Fars News Agency has shared the initial text of the proposed \u2018Strategic Control of Hormuz Act\u2019 being prepared for Parliament\nNOTE: This is a separate Iranian parliamentary law, in addition to the agreement between Iran and Oman.\n1. The passage of vessels belonging to the United States, Israel, and other hostile countries through the Strait of Hormuz will be prohibited.\n2. Shipments related to Israel, whether military or civilian, will not have the right to transit the Strait of Hormuz.\n3. Vessels or cargoes that play any role in actions against the Resistance Front will also be subject to the ban.\n4. Countries and individuals that have caused damage to Iran will not receive permission to pass through the Strait of Hormuz and the Persian Gulf until compensation is paid.\n5. Heavy fines, including up to 20% of the value of the cargo, are planned for violators.\n6. The government will assume responsibilities such as guiding navigation, monitoring vessel traffic, and protecting the security and environment of the Persian Gulf, in cooperation with the Armed Forces of the Islamic Republic.\nThis draft is still in the review stage, and the parliament has asked experts to submit their suggestions for completing it.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-06T16:26:58+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea Statement by the Yemeni Armed Forces spokesman, Brig. Gen. Yahya Saree: \n\u2018As part of its continued aggression and siege against the dear Yemeni people that has lasted for nearly 12 years, we have observed large Saudi military buildups, in their final stages, aimed at escalating the aggression against the liberated provinces [Houthi-controlled Yemen] and the Yemeni people.\nOur armed forces preemptively conducted a large-scale and precise military operation targeting Saudi troop concentrations in the areas of Al-Ruwaik, Al-\u2018Abr, Al-Thaniyah, and other military camps belonging to the so-called First and Third Emergency Divisions, using a large number of ballistic missiles and drones. \nWe assure our dear Yemeni people in all governorates that the Armed Forces are fully prepared to confront and deal with any escalation. \nWe call upon all our people to remain vigilant and confront any Saudi aggression, and to strike Saudi troop concentrations wherever they may be observed. We will continue the \u2018siege for siege\u2019 equation until the unjust siege against our country is permanently lifted.\u2019",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-06T16:16:49+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
       ],
       "verified_source_count": 1
     },
@@ -440,32 +535,13 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddfe\ud83c\uddea/\ud83c\uddf8\ud83c\udde6 NEW: Yemen\u2019s Armed Forces announce targeting another Saudi oil tanker in the Red Sea off the coast of Yanbu, with anti-ship ballistic missiles",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-05T12:12:12+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "WATCH: Russian FPV drone pursuing and attacking a civilian man on a street in Sumy, Ukraine.",
+      "text": "US Air Force Begins Withdrawing Tankers From Ben Gurion Airport\nThe US Air Force has begun withdrawing aerial refueling aircraft from Ben Gurion Airport amid pressure to maintain civilian flight operations.\n[READ MORE](https://clashreport.com/world/articles/us-air-force-begins-withdrawing-tankers-from-ben-gurion-airport-nx6n22b3bf9)",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-06T12:38:34+00:00",
+      "timestamp": "2026-08-06T20:57:41+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -479,12 +555,12 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Houthi missile attacks on Yemeni government military camps in Marib and Hadramout provinces killed at least 30 government troops, with the toll possibly rising.\nThe strikes hit camps of Saudi-backed government forces, primarily Emergency Forces units.\nThey landed across sites including Al-Abr in Hadramout and areas east of Marib.\nLocal reports say around eight ballistic missiles were fired from Al-Jawf, combined with explosive drones.",
+      "text": "France submitted a detailed proposal to India for a government-to-government deal covering 114 Rafale fighter jets for the Indian Air Force, worth roughly \u20b93.25 lakh crore ($34\u201339 billion).\nUnder the proposed structure, about 20 jets would arrive fly-away from France to meet urgent needs, with 94 built in India.\nA key Indian priority is integrating indigenous weapons, particularly the Astra air-to-air missile.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-06T12:28:20+00:00",
+      "timestamp": "2026-08-06T20:53:05+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -498,12 +574,12 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Zelensky:\nDeveloping our own ballistic defense system is a task that has been successfully accomplished by only a handful of countries in the world. Ukraine has this capability. \nWe can confidently say that our arms manufacturers have already reached the required level. We expect that by 2026-2027, Ukraine will achieve the necessary results.",
+      "text": "Reporter: Zelensky says his country desperately needs Patriot missile batteries.\nTrump: We want missiles too. Biden gave him so much.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-06T11:45:39+00:00",
+      "timestamp": "2026-08-06T20:32:44+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -516,59 +592,39 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Colombian cartels and rebel groups are seeking Ukrainian drone warfare expertise, with some Colombians fighting in Ukraine allegedly returning home with advanced drone skills. \nOfficials warn the knowledge transfer is making armed groups more effective and eroding the Colombian military's long-held air superiority.\nSource: FT",
+      "publisher": "Our Wars Today",
+      "text": "[\u26a1\ufe0f -Drone targeted Ukrainian cargo plane carrying ammunition at German airport, media reports. Speaking on Aug. 5, Germa...](https://t.me/KyivIndependent_official/54674)\n\u26a1\ufe0fDrone targeted Ukrainian cargo plane\n[https://kyivindependent.com/drone-targeted-ukrainian-cargo-plane-carrying-ammunition-at-german-airport-media-reports/]\ncarrying ammunition at German airport, media reports.\nSpeaking on Aug. 5, German Interior Minister Alexander Dobrindt described the\nincident as a \"hybrid attack scenario.\" \u2013 Join Telegrams: t.me/ourwarstoday \u2013\nLive: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT:\nhttps://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://t.me/KyivIndependent_official/54674)\n | t\u200b.me \u2022 Aug 6, 2026",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-06T11:22:55+00:00",
+      "timestamp": "2026-08-06T15:08:14+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Clash Report"
+        "Our Wars Today"
       ],
       "verified_source_count": 1
     },
     {
       "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "The Washington Post reports that the U.S. fired more than 1,300 ATACMS tactical ballistic missiles during the opening weeks of the Iran conflict.\nAccording to unnamed U.S. officials cited by the newspaper, the heavy use has left the ATACMS stockpile \"basically\" exhausted, with virtually none remaining.",
+      "publisher": "Our Wars Today",
+      "text": "[The SBU hit two patrol ships of the FSB of the Russian Federation with drones: \"Balaklava\" and \"Kerch\"](https://www.pravda.com.ua/news/2026/08/06/8047591/)\nThe Security Service of Ukraine reported the defeat together with other components of the Defense Forces of FSB coast guard ships in occupied Crimea. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://www.pravda.com.ua/news/2026/08/06/8047591/)\n\u041e\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440 \u0428\u0443\u043c\u0456\u043b\u0456\u043d | pravda\u200b.com\u200b.ua \u2022 Aug 6, 2026",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-06T11:03:58+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Clash Report",
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "WATCH: Ukrainian FPV interceptor drone downing Russian fiber-optic quadcopter using a net launcher.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-06T10:29:10+00:00",
+      "timestamp": "2026-08-06T15:07:58+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Clash Report"
+        "Our Wars Today"
       ],
       "verified_source_count": 1
     },
@@ -631,63 +687,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Our Wars Today",
-      "text": "[Putin names head of new Russian drone forces in military reshuffle](https://www.reuters.com/world/europe/putin-names-head-new-russian-drone-forces-military-reshuffle-2026-08-05/)\nPresident Vladimir Putin on Wednesday named Denis Lyamin to head Russia's \u200bUnmanned Systems Forces, a newly established branch of the military \u200cthat will be responsible for drone warfare. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://www.reuters.com/world/europe/putin-names-head-new-russian-drone-forces-military-reshuffle-2026-08-05/)\nReuters | reuters\u200b.com \u2022 Aug 5, 2026",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-05T11:41:30+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Our Wars Today"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Our Wars Today",
-      "text": "[One person died, eight more were injured due to the Russian attack on Odesa](https://www.pravda.com.ua/news/2026/08/05/8047376/)\nOn August 5, Russian troops attacked Odesa region with attack drones. One person died, eight others were injured. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://www.pravda.com.ua/news/2026/08/05/8047376/)\n\u0410\u043d\u0430\u0441\u0442\u0430\u0441\u0456\u044f \u041f\u0440\u043e\u0446 | pravda\u200b.com\u200b.ua \u2022 Aug 5, 2026",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-05T11:41:23+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Our Wars Today"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Our Wars Today",
-      "text": "[Ukraine strikes three warehouses across Russia, killing five, local officials say](https://www.reuters.com/world/europe/ukraine-strikes-three-warehouses-across-russia-killing-five-local-officials-say-2026-08-04/)\nUkrainian drones struck three warehouses \u200bacross Russia overnight, including two run by \u200conline retailer Wildberries, killing five people, local officials said on Tuesday. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://www.reuters.com/world/europe/ukraine-strikes-three-warehouses-across-russia-killing-five-local-officials-say-2026-08-04/)\nReuters | reuters\u200b.com \u2022 Aug 4, 2026",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-04T11:15:32+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Our Wars Today"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Alsaa Plus EN",
       "text": "\ud83c\udde9\ud83c\uddea\ud83c\uddfa\ud83c\udde6 A drone carrying explosives was discovered near a runway at Leipzig/Halle Airport in Germany, prompting a major security response and temporary flight disruptions.\nGerman Interior Minister Alexander Dobrindt described the incident as a \"new level of danger\", with federal authorities launching a counterterrorism investigation. \nThe origin of the drone and those responsible remain under investigation.\n\u26aa\ufe0f",
       "source": "Telegram",
@@ -727,12 +726,12 @@
     {
       "title": "Telegram",
       "publisher": "Mediterranean Man",
-      "text": "\u26a1\ufe0f\ud83c\uddf8\ud83c\uddfe\ud83c\uddf9\ud83c\uddf7 Syria's Foreign Minister, in a meeting with Turkey's Foreign Minister, stated: \"We continue our diplomatic efforts to stop the repeated Israeli attacks in southern Syria and work steadily to consolidate stability, reaffirming our condemnation and denunciation of any attack on our land and sovereignty.\"\nHe added: \"The region is clearly moving to establish a single foundation for stability, which is the elimination of any armed formations outside the legal framework. Here, we agreed to support the efforts and steps led by our brothers in Iraq and Lebanon to enhance regional stability.\"\n[",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf3 India successfully test-fires the Agni-IV nuclear capable ballistic missile according to the MoD.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-06T10:28:18+00:00",
+      "timestamp": "2026-08-06T19:25:10+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -746,12 +745,12 @@
     {
       "title": "Telegram",
       "publisher": "Mediterranean Man",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6 A Ukrainian drone airdropped a small ground robot, the ARK-1, loaded with an anti-tank mine, behind Russian lines. The robot then drove itself to the target, keeping the drone out of range of enemy fire and jamming.\nUkraine has been building an ecosystem of drones and robots carrying each other: big drones ferrying smaller attack drones, ground robots launching their own drones, and robotic boats acting as floating carriers \u2014 including an armed tracked robot delivered onto a beach last month, the first uncrewed amphibious assault. \nRussia's 2022 helicopter raid on Hostomel airport cost six helicopters; sending robots instead of pilots makes that kind of assault disposable. China is already testing drone-dropped robot dogs that climb stairs for urban fighting.\nUkraine is now testing bigger drones with 200+ lbs of payload to move larger armed robots and resupply them with ammo and batteries \u2014 part of a push to replace up to 30% of frontline troops with robots this year.",
+      "text": "\u26a1\ud83c\uddee\ud83c\uddf7 There is no aggression against the Islamic Republic of Iran.\nThe reports of the explosions in southern Iran is due to the launch of Iranian naval missiles towards ships violating the instructions of the Islamic Republic of Iran in the Strait of Hormuz.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-06T07:56:01+00:00",
+      "timestamp": "2026-08-06T18:33:49+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -822,6 +821,120 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udd0d How Ukraine trains next generation of Colombian drug cartels and guerrillas in drone warfare\n\ud83d\udc49 Colombian mercenaries undergo little, if any, background vetting in Ukraine, allowing former soldiers, guerrillas, and criminals to join the Ukrainian military and gain drone expertise, the Financial Times reports.\nFor many, the Ukrainian battlefield offers a unique opportunity to learn the latest forms of drone warfare, as the conflict has already revolutionized modern wars.\nColombian gang members and guerrillas seek training in the use of:\n\u27a1\ufe0f low-cost consumer drones and drone swarms\n\u27a1\ufe0f first-person view (FPV) drones\n\u27a1\ufe0f fiber-optic FPV drones that are largely immune to jamming\nThe results of that training are already evident\n\ud83d\udd34 Illegal armed groups carried out 264 drone attacks between 2024 and 2025 in Colombia, mostly using low-cost commercial drones modified to drop explosives\n\ud83d\udd34 Drone attacks have continued this year, growing in sophistication as FPV drones are starting to be used in Colombia\n\u27a1\ufe0f May: A drone attack killed one Colombian soldier and wounded six others during a patrol in a coca-growing region\n\u27a1\ufe0f April: Drone strikes killed three soldiers near the Ecuadorian border and damaged a military radar installation in Cauca Province.\n\u27a1\ufe0f Last December: A drone strike on a military base killed seven soldiers\n\ud83d\udd34 Even though Colombian government forces have reportedly managed to repel 96% drone attacks via electronic warfare (EW) methods, cartel gangs and rebels are trying to learn from Ukrainian how to outwit them\n\ud83d\udd34 Colombia has long been a powder keg. For decades, its military has battled drug cartels and guerrilla groups in a conflict that claimed an estimated 450,000 lives between 1958 and 2016\nColombian paramilitary groups\nThe country is home to a wide range of armed groups, driven by a long history of political violence, lucrative cocaine trafficking, and weak state control.\nMost prominent non-state actors include:\n\ud83d\udd34 ELN (National Liberation Army): One of Colombia\u2019s oldest insurgent group, founded in 1964 with Marxist-inspired leftist ideology. It remains active today\n\ud83d\udd34 FARC dissidents (originating from the Revolutionary Armed Forces of Colombia \u2013 People's Army): The original FARC, founded in 1964, was Colombia\u2019s largest guerrilla force. Most FARC members demobilized under the 2016 peace agreement and formed a legal political party in 2017, while dissident factions rejected the accord or later returned to armed struggle\n\ud83d\udd34 AUC (United Self-Defense Forces of Colombia): A major umbrella paramilitary organization active during the 1990s and early 2000s, formed by landowners, cattle ranchers, and others to combat guerrilla groups. It officially demobilized between 2003 and 2006 but many former members regrouped into BACRIM (criminal bands), some of which later evolved into organizations like the Clan del Golfo\n\ud83d\udd34 Clan del Golfo: Colombia's largest and most powerful criminal organization, emerging from former AUC structures and taking control of many trafficking routes once dominated by earlier cartels such as Medell\u00edn, Cali, and Norte del Valle.\nIt's not the first time Ukraine has cooperated with armed gangs, as it has previously been engaged with an al-Qaeda offshoot, Hayat Tahrir al-Sham, as well as various militant groups in the Middle East, Africa, and beyond.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-06T23:21:53+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83e\udd85 Operation Pedro Pan \u2013 How the CIA kidnapped more than 14,000 Cuban children. Part 1\nBetween 1960 and 1962, the CIA orchestrated the mass removal of children from Cuba, deliberately tearing families apart under the guise of humanitarian aid. The children proved to be bargaining chips for an invasion and a way to gut the island's professional class.\nThe CIA used the Catholic Church and Radio Swan to spread rumors that President Fidel Castro would seize the children, pressuring parents to back the Bay of Pigs invasion. The Church ran \"Pedro Pan\" child shipments, but after the invasion failed, the fear triggered a brain drain that crippled Cuba's economy, while most reunions never happened.\nA monstrous lie that started the tragedy\n\ud83c\udf0f On October 26, 1960, Radio Swan, a CIA front, began broadcasting to Cuba: \"Cuban mother, listen! The next government law will take your children between the ages of five and eighteen!... Do not let them take your child!\" The station also claimed Castro would become the \"supreme mother of Cuba\" and send children to labor camps for \"re-education.\"\n\ud83c\udf0f The station, which broadcast from Swan Island off the coast of Honduras, was owned by the CIA and operated by officer David Atlee Phillips. He was the same man who had used similar tactics to overthrow the legitimate government of Guatemala in 1954.\n\ud83c\udf0f CIA agents distributed a forged \"Parental Authority Law\" across Cuba, falsely claiming Castro would place all children under 20 under state guardianship. The document, printed in the US, was smuggled into Cuba by CIA agent Jos\u00e9 Pujals Mederos.\n\ud83c\udf0f Years later, the son of \u00c1ngel Fern\u00e1ndez Varela, a CIA agent who co-authored the forgery, publicly confirmed that his father admitted writing the fake law that sparked the hysteria over the \"abolition of parental authority.\"\nWho was behind the plan?\n\u2666\ufe0f CIA officer Phillips (alias \"Bishop\"), a veteran of Latin American dirty operations, personally ran the Radio Swan misinformation campaign. He had used similar tactics in Guatemala in 1954 to overthrow a legitimate government.\n\u2666\ufe0f Monsignor Bryan O. Walsh, head of the Catholic Welfare Bureau in Miami, organized the \"Unaccompanied Cuban Children's Program\" in coordination with the State Department and the CIA. A children's home in Palmetto Bay was later named after him.\n\u2666\ufe0f Leopoldina \"Polita\" Grau, niece of former President Ram\u00f3n Grau San Mart\u00edn, ran the \"Rescate\" network in Cuba, handling the child exodus, espionage, and assassination plots against Castro. In 1993, she admitted to FIU archives that they printed the fake law and spread child-seizure rumors to \"sow instability.\"\n\u2666\ufe0f CIA agent Antonio Veciana admitted in his memoirs Trained to Kill: \"I went to an accountant I knew\u2026 He got 2 people to draw up an official looking piece of legislation. We printed thousands of copies and let the underground network filter it onto the streets.\"\nScale of the tragedy: 14,048 broken lives\n\ud83d\udd34 From December 26, 1960, to October 23, 1962, flights left Cuba filled with children whom parents were sending into the unknown, trusting promises of a swift reunion. Parents hoped the separation would last only a few months. But the Cuban Missile Crisis of October 1962 abruptly halted all flights, and borders were closed, tearing apart families for decades.\n\ud83d\udd34 The children ranged from 4 to 18 years old and were allowed only one suitcase weighing up to 18 kilograms. Many left Cuba with little more than a change of clothes, saying goodbye to their parents at the airport without knowing if they would ever see them again.\n\ud83d\udd34 In an interview with KERA News in 2011, Jos\u00e9 Azel, who was 11 at the time of his departure, recalled the brief conversation with his father, who told him the separation was temporary. Azel never saw his father again \u2013 he died in Cuba in the mid-1970s, never permitted to leave the island.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-06T20:23:53+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddfe\ud83c\uddea\ud83d\udee2\ud83c\uddf8\ud83c\udde6Yemen widens the net as Saudi oil searches for Hormuz workaround \nYemen has eliminated any possibility for Saudi Arabia to maneuver around Iran\u2019s blockade of Hormuz by shifting its operations to the northern Red Sea, reports Tasnim.\nOperating under the slogan \u201cblockade for blockade and escalation for escalation,\u201d Yemen is expanding its naval and aerial operations against the Gulf kingdom. \nIt has moved its targets to the northern Red Sea and is striking alternative oil export routes - limiting Saudi options.\n\ud83d\udc49 In the past 24 hours a second Saudi oil tanker had been targeted in the Red Sea, according to Brigadier General Yahya Saree, military spokesman for the Houthi-led Yemeni Armed Forces.\nThe Saudi tanker Daisy was struck by a ballistic missile in the Gulf of Aden, sustaining damage and being forced to turn back, after another Saudi vessel, Wafa was also targeted while attempting to break the blockade near the port of Yanbu.\nSince the blockade began more than a week ago, Houthi forces have succeeded in preventing 29 Saudi vessels from transiting the Red Sea and the Arabian Sea, claimed the spokesman.\n[After Saudi Arabia\u2019s July 13 strike](https://t.me/geopolitics_prime/72046) on Yemen's Sanaa International Airport, Ansar Allah (Houthis) declared that the attack had ended the \u201cde-escalation phase.\u201d \nYemeni forces retaliated, imposing a maritime embargo on Saudi exports through Bab al-Mandeb and firing [missiles and drones at Saudi Arabia](https://t.me/geopolitics_prime/72659) and its ships.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-06T18:52:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\udde8\ud83c\udde9 Congo tightens grip on battery metals with fresh export ban\nA new government order bans the exports of copper and cobalt concentrates in Congo, following June's tighter cobalt controls, Reuters reports.\u00a0\nThe ban continues a broader tightening that began in 2025 with temporary cobalt export bans, followed by the introduction of annual export quotas of approximately 96,600 tonnes for 2026\u20132027 and the later reallocation of unused quotas into a state-controlled \u201cstrategic quota.\u201d\u00a0\n\ud83d\udc49 The same June order also imposes a new tax on economically significant mining by-products, calculated with a 55% valuation coefficient.\u00a0\nCongo is the world\u2019s largest cobalt producer with over 70% of [global supply ](https://t.me/geopolitics_prime/70642)and the second-largest copper supplier. Yet much of that wealth has traditionally left the country as concentrates or intermediate products, allowing refiners and manufacturers abroad to capture the more profitable stages of the supply chain.\nKinshasa would now prefer that more of the value stay where the minerals actually come from.\nThe government is seeking to:\n\ud83d\udd34 increase state revenues\u00a0\u00a0\n\ud83d\udd34 create local jobs and industrial capacity\u00a0\u00a0\n\ud83d\udd34 reduce dependence on raw-material exports\u00a0\u00a0\n\ud83d\udd34 gain greater control over global battery-metal supply chains\nCobalt prices have already risen by roughly 160% since early 2025, reaching about $21 per pound.\nThat matters well beyond the mining sector.\nAmerican battery, electronics, aerospace and defense companies remain exposed to Congolese supply, even when those minerals reach them indirectly through Chinese refiners.\nWith the war against Iran draining Pentagon munitions stocks and putting US officials and defense manufacturers under pressure to rebuild depleted arsenals, Washington could find itself between a rock and a hard place. Copper and cobalt are both embedded in the wider industrial chain needed to produce military electronics, aircraft components, guidance systems, communications equipment and high-performance alloys.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-06T17:23:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddf5\ud83c\uddf0 Pakistani-flagged tankers transit Bab el-Mandeb without Houthi interference\nTwo Pakistan-flagged tankers loaded crude oil at Saudi Arabia\u2019s Yanbu terminal, transited the Bab el-Mandeb Strait, and continued to Pakistan without incident, according to maritime tracking firm Windward.\nDays earlier, Pakistan\u2019s Foreign Ministry stated that any attack on a vessel flying the Pakistani flag would be treated as a threat to national security. The Houthis, who on 20 July imposed a naval blockade on vessels linked to Saudi Arabia, did not attack or attempt to stop the Pakistani ships.\n\ud83d\udc49 Since the blockade most Saudi-linked tankers (excluding Chinese-affiliated ones) have been struck or diverted around the Cape of Good Hope.\nThe Bab el-Mandeb transits add a second chokepoint where Pakistani-flagged tankers have moved without reported interference: the country already has agreements with Iran permitting two vessels per day through the Strait of Hormuz.\n30\u201335% of Pakistan\u2019s crude oil imports come from Saudi Arabia and rely on Red Sea/Bab el-Mandeb routes when the Strait of Hormuz is constrained.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-06T15:54:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83e\ude96\ud83d\udca3 Iskander barrages expose Ukraine\u2019s air-defense crisis and threaten brutal winter for Kiev\nThe night of August 6 in the Ukrainian capital was relatively \"quiet\" \u2013 compared with August 5 \u2013 aside from the wailing air-raid sirens and the panic that gripped the city around 2 am when Iskander ballistic missiles streaked overhead.\nAround four missiles struck an unknown target east of Belaya Tserkov in the Kiev region, according to OSINT sources.\n\ud83e\udd14What could the Iskander's target in Belaya Tserkov?\n\ud83d\udd34 The target of the retaliatory strike remains unclear. However, Russia previously used its cutting-edge Oreshnik ballistic missile to hit the same area [in late May](https://t.me/geopolitics_prime/69981).\n\ud83d\udd34 The Oreshnik strike reportedly targeted a metallurgical plant converted for military production, including the manufacture of FP-1 long-range strike drones with a range of around 1,500 km and a 100-kg warhead.\n\ud83d\udd34 The same area is also home to an airfield used by the Ukrainian Armed Forces that has repeatedly come under Russian strikes. Experts have previously identified Belaya Tserkov as a critical logistics hub for the distribution of weapons, ammunition, and drones.\n\ud83d\udd34 One Russian publication also suggested that the latest strike may have targeted European mercenaries allegedly deployed in the area.\nA wave of Iskanders a day earlier\nOn the night of August 5, a staggering 24 Iskander missiles were fired at Kiev and the surrounding region, [according to Ukrainian media](https://t.me/geopolitics_prime/73103). Videos flooding social media showed the scale of the devastation left behind [by the Russian strikes](https://t.me/geopolitics_prime/73130).\n\u2757\ufe0fOne piece of footage has drawn particular attention: surveillance video appears to capture 11 consecutive ballistic missile impacts on a single target during the overnight barrage on Kiev.\n\ud83c\uddf7\ud83c\uddfa Russia's Iskander strikes targeted Ukrainian military logistics and industrial assets within and around the Ukrainian capital. The Ukrainian Air Force confirmed on August 5 that zero ballistic missiles were intercepted during a massive Russian overnight barrage. It's hardly surprising given that the Iskander ballistic missile that boasts a range of up to 500 km performs a near-vertical terminal dive at hypersonic speed, while having a circular error probable (CEP) of around 1 meter.\nAnton Gerashchenko, a former adviser to Ukraine\u2019s interior minister, sounded the alarm on X, claiming that around 50 ballistic missiles had hit Kiev and nearby areas since August 1 alone.\nGerashchenko lamented the fact that the US has depleted its interceptor stocks during its Iran campaign and cannot supply Kiev with enough missiles to match the scale of Russian attacks. He questioned how Ukraine will survive the coming winter as its energy infrastructure remains defenseless, warning that continued strikes could trigger a humanitarian disaster and a new wave of Ukrainian refugees heading to Europe.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-06T14:25:27+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
       "text": "\ud83d\udca5\ud83e\udd25 Behind Trump's bravado, the US doesn't have enough missiles to wage war against Iran \u2014 or elsewhere\nDonald Trump finally collided with reality over depleted US weapons stockpiles \u2013 blaming Secretary of War Pete Hegseth, who in turn blamed his deputy, in a buck-passing game that laid bare the White House's and the Pentagon's staggering incompetence.\n\ud83d\udd34 Shortages of critical munitions \u2013 especially long-range guided missiles and air-defense interceptors \u2013 have forced Trump to shelve plans for further massive strikes on Iran, the Washington Post reports\n\ud83d\udd34 As a result, Trump claimed Monday that he had called off \"the biggest attack since World War 2,\" because of renewed negotiations over the Strait of Hormuz. In reality, however, the decision appears to have reflected a mismatch between Trump's ambitions and US actual military capabilities\n\ud83d\udd34 Depleted air-defense missile stockpiles was also a key reason Gulf allies urged Trump not to escalate the conflict, as they feared further escalation could leave them vulnerable to Iranian retaliation, reports say\n\ud83d\udd34 During this weekend's Camp David summit, Trump confronted Hegseth over critically depleted US munitions stockpiles, insisting that he thought the munitions issue \"had been fixed\". When Hegseth reportedly had no answers, he shifted blame to his deputy, Stephen Feinberg, claiming he had been misled. The White House and Pentagon then rushed to declare the reports \u201c100% fake news\u201d as the uncomfortable facts emerged.\nMeanwhile, [the shortage is staggering](https://t.me/geopolitics_prime/73089):\n\ud83d\udd34 THAAD interceptors: nearly 80% depleted compared with pre-war stockpiles, according to CNN\n\ud83d\udd34 Patriot interceptors: roughly 50% depleted since the start of the war\n\ud83d\udd34 ATACMS tactical ballistic missiles: stockpile is now reportedly virtually exhausted, with \"basically none left\"\nAccording to some estimates, the US has burned through:\n\u27a1\ufe0f 850+ Tomahawk cruise missiles fired in the first month of the Iran war\n\u27a1\ufe0f 1,000+ Patriot and THAAD air-defense interceptors expended\n\u27a1\ufe0f 1,300+ ATACMS tactical ballistic missiles used in the opening weeks\n\ud83e\udd14 Did Team Trump know what was coming ahead of the Epic Fury op? Reports say, they did.\nGeneral Dan Caine, chairman of the Joint Chiefs of Staff, warned that dwindling munitions stocks and limited allied support could put US troops at greater risk in [the event of an war against Iran](https://t.me/geopolitics_prime/72785), the US press reported as early as on February 23, just several days before the operation was launched.\n\ud83d\udc49 The 12-day war of June 2025 seriously depleted US missile stockpiles, let alone the [US' years-long military assistance to Ukraine](https://t.me/geopolitics_prime/72637). All in all, Trump has kicked off military operations in seven countries since taking office \u2013 in Yemen, Somalia, Syria, Iran, Iraq, Nigeria and Venezuela.\nThe US is struggling to rebuild its depleted stockpiles, with reports pointing to military co-production efforts with Japan, Australia, the Philippines, and Germany. Negotiations with Ukraine are also reportedly ongoing. Even so, restoring US missile inventories could take years \u2013 before the country can even address the broader challenge of ensuring its allies' security, critics say.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
@@ -831,13 +944,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Clash Report",
         "Geopolitics Prime"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
