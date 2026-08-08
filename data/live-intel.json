@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T07:07:44.315691+00:00",
+  "generated_at": "2026-08-08T08:01:36.961646+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -650,6 +650,25 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddf1\ud83c\uddfeAl-Zawiya refinery in Libya: A rocket strike hit a storage tank, causing a leak, but the situation is under control.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-08T07:21:27+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
       "text": "\ud83c\uddfe\ud83c\uddea\ud83c\uddf8\ud83c\udde6\u26a1\ufe0f \u2014 Yemen's Armed Forces announced they carried out qualitative strikes on Saudi forces and mercenaries at the \"Sahn al-Jinn\" camp using a large number of missiles and drones, vowing to confront escalation with escalation and continue enforcing the equations of \"Siege for Siege\" and targeting Saudi mobilizations wherever they occur.\n\u27a1\ufe0f The statement warned that the Armed Forces will not allow any aggressive plans against Yemen to pass without an immediate and severe response, and called on Yemenis in enemy camps to leave before it is too late, urging them not to serve as fuel for factions trading their blood for foreign projects at the expense of the nation's sovereignty.\n\u27a1\ufe0f The Armed Forces also saluted the tribes of Marib and all free Yemenis standing against occupation and guardianship, pledging to stand with them in reclaiming the people's rights and lifting the siege.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -744,39 +763,20 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\udde9\ud83c\uddea\ud83c\uddfa\ud83c\udde6 A drone carrying explosives was discovered near a runway at Leipzig/Halle Airport in Germany, prompting a major security response and temporary flight disruptions.\nGerman Interior Minister Alexander Dobrindt described the incident as a \"new level of danger\", with federal authorities launching a counterterrorism investigation. \nThe origin of the drone and those responsible remain under investigation.\n\u26aa\ufe0f",
+      "publisher": "Mediterranean Man",
+      "text": "\ud83c\uddf1\ud83c\udde7\ud83c\uddee\ud83c\uddf1Israeli aggression and violations have continued non-stop across the south over the past 12 hours.\nControlled demolitions of civilian homes were reported in Taybeh, Tallouseh, and Houla.\nHeavy artillery shelling constantly targeted the Ali al-Taher heights alongside the outskirts of Kfar Tibnit and Mansouri .\nOvernight, Israeli forces pushed an earth berm to within roughly 100 meters of the town square in Western Zawtar under constant low-altitude drone surveillance.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-06T05:09:52+00:00",
+      "timestamp": "2026-08-08T07:32:48+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf1\ud83d\udeab\ud83c\uddee\ud83c\uddf7\u26a1\ufe0f\u2014 Two Israeli soldiers killed in southern Lebanon\nThe army identified them as Major Harel Birenstock, a company commander in the 55th Brigade\u2019s 2855th Battalion, and Chief Warrant Officer Tamir Vaknin, a major in the same battalion. \nTwo Israeli reservists were killed on Wednesday during fighting in southern Lebanon, where Israel is confronting Hezbollah.\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-06T04:23:57+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
+        "Mediterranean Man"
       ],
       "verified_source_count": 1
     },
