@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T17:51:38.991687+00:00",
+  "generated_at": "2026-08-08T18:48:25.462624+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -370,7 +370,7 @@
       "publisher": "BBC World News",
       "severity": "info",
       "icon": "\ud83d\udcf0",
-      "timestamp": "2026-08-08T15:49:41+00:00",
+      "timestamp": "2026-08-08T18:06:25+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -500,6 +500,63 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
+      "text": "Zelensky:\nA decision has been made regarding 30,000 to 50,000 North Koreans being on Russian territory.\nThey are studying this war.\nWe have already found North Korean missiles on Ukrainian territory. They have already been used to carry out strikes. Today, this is an acknowledged fact.\nSouth Korea should have much closer cooperation with Ukraine. We are open to this.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-08T18:33:00+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "President Trump\u2019s war against Iran has severely depleted U.S. weapons stockpiles, forcing the Pentagon to pull missiles and other critical equipment from bases and forces in Europe and Asia. \nThis has reduced U.S. military readiness in those regions and delayed weapons deliveries to allies.\nSource: NYT",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-08T18:32:42+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Zelensky:\nWe had no choice but to rebuild our own industry from scratch. \nAnd I believe that technologically, in drones and other areas, we were able to make such leaps because it was a question of survival.\nBut when it comes to air defense, unfortunately, you know, hundreds of air-defense systems that Ukraine had in the 1990s were sold off, and this continued into the 2000s.\nThese were Soviet systems, Soviet missiles \u2014 primarily S-300 air-defense systems.\nNevertheless, we began working with our partners, and we are also working on these systems ourselves.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-08T18:20:00+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
       "text": "Bulgaria\u2019s Defence Ministry says the drone that crashed and exploded near the Romanian border was most likely a Ukrainian-used Maya decoy drone, based on an initial analysis of the wreckage.\nOfficials said there is currently no reason to believe the incident was intentional.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -525,25 +582,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-08T15:32:42+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "JD Vance on Iran:\nOur expectation is you're going to see the same amount of oil and gas come out of the Gulf that you saw before the conflict started.\nThat is what the Iranians have told us that they are going to do.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-08T14:48:22+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -699,25 +737,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-08T11:47:44+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddf1\ud83c\uddfeAl-Zawiya refinery in Libya: A rocket strike hit a storage tank, causing a leak, but the situation is under control.\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-08T07:21:27+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -1001,7 +1020,7 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83e\udd25\ud83c\uddee\ud83c\uddf7 Trump\u2019s Iran brinksmanship painting him into a corner \u2013 and the US out of the Gulf\n\u00a0\nTrump may have believed his own hype, betting that restarting the Iran war would finally deliver the quick victory that eluded him the first time. Instead, Tehran now threatens to hand to hand Washington a defeat even more humiliating than the one delineated in the June 17 Memorandum of Understanding (MoU).\nWhile the MoU did not include explicit clauses that would strip the US military of its right to navigate Hormuz and the Persian Gulf, Iranian officials\u2019 latest terms in talks with Oman include demands that US Navy warships stay out of the area completely.\n\ud83d\udcac \u201cThe fundamental result is going to be significant Iranian de facto control over the Strait,\u201d former US intel officer Jonathan Panikoff told WSJ.\nUS officials insist Washington will not accept any deal which allows Iran to collect tolls, or deny access to the Strait.\nBut given the vast arsenal the IRGC has its disposal to target violating vessels, Washington doesn\u2019t seem to have much leverage in the matter. American warship and carrier strikes groups have already kept well away from the Iranian coastline throughout t the war, fearing ballistic, cruise missile and drone strikes.\nGulf officials have reportedly \u201cacknowledged\u201d that de facto Iranian control over the Strait may be the new normal, and the \u201cbest option,\u201d given the impact of its continued closure on global energy markets and regional economies.\n\u00a0\n\ud83e\udd14 History in the making?\n\u00a0\nA US retreat from the Gulf would set back US policy in the region 55 years \u2013 back to the 1971 basing agreement with Bahrain, and subsequent[ expansions to bases across Arab Gulf countries.](https://t.me/geopolitics_prime/73010) Iran\u2019s counterstrikes since February showed that these bases are not only defenseless, but pointless when it comes to the protection of America\u2019s Gulf allies. On the contrary \u2013 the more US bases a country hosts, the more vulnerable it is to Iranian strikes.\nPresident Masoud Pezeshkian reiterated Friday that Iran would do everything in its power to prevent the US and Israel from uniting the Gulf countries against it \u2013 starting with the reminder that unlike Israel, Iran has \u201cno intention of attacking other countries, seizing territory or expanding our borders.\u201d\nTrump may have believed his own hype, betting that restarting the Iran war would finally deliver the quick victory that eluded him the first time.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83e\udd25\ud83c\uddee\ud83c\uddf7 Trump\u2019s Iran brinksmanship painting him into a corner \u2013 and the US out of the Gulf\n\u00a0\nTrump may have believed his own hype, betting that restarting the Iran war would finally deliver the quick victory that eluded him the first time. Instead, Tehran now threatens to hand to hand Washington a defeat even more humiliating than the one delineated in the June 17 Memorandum of Understanding (MoU).\nWhile the MoU did not include explicit clauses that would strip the US military of its right to navigate Hormuz and the Persian Gulf, Iranian officials\u2019 latest terms in talks with Oman include demands that US Navy warships stay out of the area completely.\n\ud83d\udcac \u201cThe fundamental result is going to be significant Iranian de facto control over the Strait,\u201d former US intel officer Jonathan Panikoff told WSJ.\nUS officials insist Washington will not accept any deal which allows Iran to collect tolls, or deny access to the Strait.\nBut given the vast arsenal the IRGC has its disposal to target violating vessels, Washington doesn\u2019t seem to have much leverage in the matter. American warship and carrier strikes groups have already kept well away from the Iranian coastline throughout t the war, fearing ballistic, cruise missile and drone strikes.\nGulf officials have reportedly \u201cacknowledged\u201d that de facto Iranian control over the Strait may be the new normal, and the \u201cbest option,\u201d given the impact of its continued closure on global energy markets and regional economies.\n\u00a0\n\ud83e\udd14 History in the making?\n\u00a0\nA US retreat from the Gulf would set back US policy in the region 55 years \u2013 back to the 1971 basing agreement with Bahrain, and subsequent[ expansions to bases across Arab Gulf countries.](https://t.me/geopolitics_prime/73010) Iran\u2019s counterstrikes since February showed that these bases are not only defenseless, but pointless when it comes to the protection of America\u2019s Gulf allies. On the contrary \u2013 the more US bases a country hosts, the more vulnerable it is to Iranian strikes.\nPresident Masoud Pezeshkian reiterated Friday that Iran would do everything in its power to prevent the US and Israel from uniting the Gulf countries against it \u2013 starting with the reminder that unlike Israel, Iran has \u201cno intention of attacking other countries, seizing territory or expanding our borders.\u201d\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
