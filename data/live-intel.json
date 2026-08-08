@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T05:07:31.251070+00:00",
+  "generated_at": "2026-08-08T05:58:26.574212+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -370,7 +370,7 @@
       "publisher": "BBC World News",
       "severity": "info",
       "icon": "\ud83d\udcf0",
-      "timestamp": "2026-08-08T04:23:33+00:00",
+      "timestamp": "2026-08-08T05:15:51+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -542,44 +542,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-07T20:13:16+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Iranian President Masoud Pezeshkian:\nThere is no rift between the government and the armed forces.\nIran is united and cohesive, and sowing division is what the country's enemies want.\nOur fighters amazed the world.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-07T19:01:09+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Iranian President Masoud Pezeshkian:\nWhere did the U.S. strike the Minab school from? From those same Muslim and friendly countries of ours.\nWhy should they allow them to come and attack us? And yet we don't want to attack them; we strike back at the places from which we are being attacked.\nWhy should America come here and establish bases and hit any Islamic country on the head if they don't listen to them?\nWho says we should be their submissive servants? Why? We have no intention of bullying anyone, but we won't submit to bullying either. They shouldn't bully us.\nThey shouldn't come to our country and take our resources. Right now, in Iraq, they sell oil and don't give them the money.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-07T18:59:29+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
