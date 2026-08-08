@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T15:12:48.131396+00:00",
+  "generated_at": "2026-08-08T15:50:11.971391+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -481,6 +481,25 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
+      "text": "Israeli Diaspora Affairs Minister Amichai Chikli on Germany:\nIn places like Germany, where you have center-right parties such as the CDU, we have good relations with them.\nOn the other hand, the right-wing party there \u2014 the Alternative for Germany (AfD) \u2014 has not made the same statements regarding Hamas, Iran, and Hezbollah.\nSo, with them, there is currently no breakthrough in relations.\nJust because you are on the right does not mean we will automatically have a relationship with you.\nThey need to show where they stand on Hamas, Iran, and Hezbollah.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-08T15:32:42+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
       "text": "JD Vance on Iran:\nOur expectation is you're going to see the same amount of oil and gas come out of the Gulf that you saw before the conflict started.\nThat is what the Iranians have told us that they are going to do.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -506,25 +525,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-08T12:44:54+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "The UAE says Iran attacked an ADNOC vessel with a missile while it was transiting the Strait of Hormuz.\nADNOC says the conflict has significantly disrupted its operations, with 15 of its vessels attacked by missiles and drones since the war began, including three this week. \nSource: Reuters",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-08T12:12:32+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -757,25 +757,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-08T12:29:42+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\ud83c\uddf1\ud83c\udde7\ud83c\uddee\ud83c\uddf1Israeli aggression and violations have continued non-stop across the south over the past 12 hours.\nControlled demolitions of civilian homes were reported in Taybeh, Tallouseh, and Houla.\nHeavy artillery shelling constantly targeted the Ali al-Taher heights alongside the outskirts of Kfar Tibnit and Mansouri .\nOvernight, Israeli forces pushed an earth berm to within roughly 100 meters of the town square in Western Zawtar under constant low-altitude drone surveillance.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-08T07:32:48+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
