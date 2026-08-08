@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T09:03:28.148719+00:00",
+  "generated_at": "2026-08-08T09:56:25.121768+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -542,25 +542,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-08T07:03:45+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "The U.S. Army is expanding access to military test ranges for private defense companies, aiming to speed up the testing and deployment of new weapons, drones and munitions. \nCompanies will receive help securing range access within 30 days, while trials in battlefield-like conditions are expected to accelerate procurement and address weapons shortages.\nSource: WSJ",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-08T06:45:11+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
