@@ -1,6 +1,25 @@
 {
-  "generated_at": "2026-08-08T15:50:11.971391+00:00",
+  "generated_at": "2026-08-08T16:41:36.704733+00:00",
   "events": [
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nMAYPORT, FL, Monday, August 10, 2026 through Saturday, August 15, 2026 Local\nFacility: ZJX",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "08/08/2026",
+      "location": "ZJX FL",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nDENVER, CO, Thursday, August 13, 2026 through Friday, August 14, 2026 Local\nFacility: ZDV",
@@ -351,7 +370,7 @@
       "publisher": "BBC World News",
       "severity": "info",
       "icon": "\ud83d\udcf0",
-      "timestamp": "2026-08-08T13:29:38+00:00",
+      "timestamp": "2026-08-08T15:49:41+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -481,6 +500,25 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
+      "text": "Bulgaria\u2019s Defence Ministry says the drone that crashed and exploded near the Romanian border was most likely a Ukrainian-used Maya decoy drone, based on an initial analysis of the wreckage.\nOfficials said there is currently no reason to believe the incident was intentional.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-08T16:12:15+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
       "text": "Israeli Diaspora Affairs Minister Amichai Chikli on Germany:\nIn places like Germany, where you have center-right parties such as the CDU, we have good relations with them.\nOn the other hand, the right-wing party there \u2014 the Alternative for Germany (AfD) \u2014 has not made the same statements regarding Hamas, Iran, and Hezbollah.\nSo, with them, there is currently no breakthrough in relations.\nJust because you are on the right does not mean we will automatically have a relationship with you.\nThey need to show where they stand on Hamas, Iran, and Hezbollah.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -506,25 +544,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-08T14:48:22+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Bulgaria's Radev says a drone entered Bulgarian airspace from Romania and exploded near Kardam, close to the Romanian border. \nNo casualties or damage were reported. The blast occurred about 1 km from a Bulgarian gas compressor station. \nBulgaria will increase border surveillance and security around strategic sites, while Radev said the drone\u2019s origin and type remain unclear.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-08T12:44:54+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -608,6 +627,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Our Wars Today"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\udde9\ud83c\uddea\ud83c\udde7\ud83c\uddec\u26a1\ufe0f\ud83c\uddf7\ud83c\uddfa DRONE INCIDENTS RAISE FRESH SECURITY CONCERNS ACROSS EUROPE\nA drone entered Bulgarian airspace on Saturday and exploded near the Romanian border, close to the Trans-Balkan gas pipeline. No casualties or significant damage were reported.\n\ud83c\udde9\ud83c\uddea Meanwhile, German authorities discovered a drone carrying an explosive device near a Ukrainian aircraft at Leipzig/Halle Airport, with bomb-disposal specialists called in.\nThe incidents are adding to growing concerns over drone-related security threats across Europe amid the Russia\u2013Ukraine war.\n However, authorities have not established that Russia was responsible for either incident.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-08T16:41:03+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
       ],
       "verified_source_count": 1
     },
@@ -974,6 +1012,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddee\ud83c\uddf1\ud83d\udd0d Why Israeli politicians are desperate to shut Palestinians out of power\nIsrael's opposition once argued that cooperation with Palestinian Arab parties was key to ending Benjamin Netanyahu's long dominance of Israeli politics.\nNow, the same politicians are trying to freeze Palestinian Arabs out of the government, despite the fact that they represent one-fifth of the population.\nThe pledge has been repeated in recent weeks by figures across the anti-Netanyahu camp, such as Naftali Bennett and Yair Lapid, who used to defend their partnership with Ra\u2019am leader Mansour Abbas as the necessary price of ending Netanyahu\u2019s dominance.\nThe same stance is shared by Gadi Eisenkot, who has been positioning himself as a potential PM. Opinion polls suggest that at the October election Eisenkot's bloc will be running neck-and-neck with Netanyahu's coalition.\n\ud83d\udc49 This marks a sharp retreat from the pragmatic experiment of 2021 and shows how the events of October 2023 rewired the political climate around cooperation with Palestinian citizens of Israel.\nThe latter make up roughly two million people and are descendants of those who remained after the 1948 war.\nTheir parties have sat on the political margins for decades, and the taboo was broken only in 2021, when Ra\u2019am\u2019s four seats allowed Bennett and Lapid to assemble a majority.\nHowever, that arrangement lasted barely a year. Now, the taboo appears to have returned.\n\ud83d\udd34 71.5% of Jewish Israelis oppose including Arab parties in the next government (Israel Democracy Institute)\n\ud83d\udd34 57% of Israelis oppose a Palestinian state under any circumstances (Institute for National Security Studies survey)\nPolitical arithmetic may ultimately prove more stubborn than campaign rhetoric since Israel's fragmented parliament has repeatedly produced deadlocks.\nRecent polling suggests neither bloc can count on securing a majority alone.\nThere is also another lingering question: whether the political cost of ignoring Palestinian citizens of Israel will eventually become too high for the Zionist state.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-08T16:19:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
