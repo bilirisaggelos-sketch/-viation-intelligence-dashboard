@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T05:58:26.574212+00:00",
+  "generated_at": "2026-08-08T07:07:44.315691+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -193,25 +193,6 @@
     },
     {
       "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nMAYPORT, FL, Monday, August 3, 2026 through Saturday, August 8, 2026 Local\nFacility: ZJX",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "08/02/2026",
-      "location": "ZJX FL",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nLaurel, MD, Thursday, August 6, 2026 through Friday, August 14, 2026 Local\nFacility: ZDC",
       "source": "FAA",
       "source_type": "official",
@@ -370,7 +351,7 @@
       "publisher": "BBC World News",
       "severity": "info",
       "icon": "\ud83d\udcf0",
-      "timestamp": "2026-08-08T05:15:51+00:00",
+      "timestamp": "2026-08-08T06:12:56+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -530,6 +511,44 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Ukrainian drones hit Syzran oil refinery in Russia's Samara region overnight, starting a fire, with a parallel strike hitting the Ilsky refinery in Krasnodar Krai. \nBoth are Rosneft plants, and Syzran sits more than 800 km from the Ukrainian border.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-08T07:03:45+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "The U.S. Army is expanding access to military test ranges for private defense companies, aiming to speed up the testing and deployment of new weapons, drones and munitions. \nCompanies will receive help securing range access within 30 days, while trials in battlefield-like conditions are expected to accelerate procurement and address weapons shortages.\nSource: WSJ",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-08T06:45:11+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
       ],
       "verified_source_count": 1
     },
@@ -764,88 +783,12 @@
     {
       "title": "Telegram",
       "publisher": "Mediterranean Man",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8 MicroVision has unveiled a new lineup of LiDAR sensors giving drones real-time 3D awareness of their surroundings. The lineup includes MOVIA Air, a lightweight UAV sensor, and MOVIA Air Plus, a more advanced version for defense, inspection, and delivery uses.\nMOVIA Air handles obstacle avoidance, autonomous landing, and tracking in both day and night conditions. MicroVision cut its weight in half versus industrial models, preserving flight time and payload space.\nMOVIA Air Plus adds an edge processor and optional camera, mapping environments live instead of after landing. It also supports sensor fusion, terrain analysis, and automated docking.\nMicroVision will demonstrate the system at the upcoming JIFX event, later pairing it with its IRIS LiDAR for combined air and ground awareness.",
+      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8 The Congressional Budget Office estimates that the Navy's new nuclear-powered battleship program will cost about $275 billion between 2027 and 2056. The lead ship, expected to be ordered in 2028, would cost roughly $23 billion, with the remaining 14 vessels averaging $18 billion each. The new class, designated BBGN, would be the largest and most heavily armed surface combatant the Navy has ever built, displacing 35,000 tons and carrying missiles, lasers, and a rail gun.\nThe report also compares the Navy's 2025 and 2027 shipbuilding plans. Under the newer plan, the Navy would buy significantly more large surface combatants, pushing average annual funding needs for surface combatants up from about $11 billion to $19 billion. That shift reflects both a higher ship count and the battleship's steep price tag compared with previous designs.\nCBO warns that the expanded shipbuilding plan could strain the industrial base. By 2035, the tonnage of large surface combatants that shipyards must produce would more than double, while small surface combatant tonnage would fall by about 40 percent. Overall, total tonnage requirements would rise by 60 percent for large ships under the plan.\nThe agency cautions that its cost estimates carry significant uncertainty, since the battleship program is still in early design stages. Factors such as final displacement, construction techniques, and workforce conditions at shipyards could push costs higher or lower than projected.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-07T19:40:06+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8 The US Department of Defense is drafting a revised nuclear strategy that emphasizes the potential use of shorter-range tactical nuclear weapons in regional conflicts against Russia or China.\nLed by Under Secretary of Defense for Policy\u00a0Elbridge Colby, the planned document marks a transition from long-standing reliance on long-range strategic missiles built to neutralize an\u00a0adversary's entire nuclear force.\nOfficials\u00a0maintain\u00a0that the doctrine is designed to expand the president\u2019s range of credible response options during an allied crisis, mitigating the need to resort to a full-scale nuclear intervention.\nThe review comes after the lapse of the\u00a0New Strategic Arms Reduction Treaty\u00a0(START) in February 2026, which ended binding limits on deployed strategic warheads between Washington and Moscow.\nCritics in the US Congress and foreign policy experts warn that placing greater emphasis on tactical nuclear weapons lowers the threshold for nuclear conflict and risks sparking a regional arms race in\u00a0Europe\u00a0and\u00a0East Asia.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-07T19:04:47+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ufe0f\ud83c\uddf9\ud83c\uddf7 Aselsan has given T\u00fcrkiye a domestically produced infrared sensing capability, providing a key building block for military systems that rely on thermal vision, target detection, and precision tracking.\nThe Turkish defense giant\u2019s new electro-optical system can be configured in both cooled and uncooled modes, allowing it to adapt to different mission requirements.\nIt is designed to span nearly every corner of T\u00fcrkiye\u2019s military arsenal, with potential applications across drones, missiles, combat aircraft, and armored vehicles.\nThey also support advanced targeting systems and form part of the electro-optical suite powering T\u00fcrkiye\u2019s KAAN fifth-generation fighter jet.\nDue to the complexity of developing military-grade infrared detectors, only a limited number of countries have been able to produce the technology domestically.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-07T18:32:51+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf3 India\u2019s first full-flow staged combustion (FFSC) rocket engine.\n80-tonne class. Fully integrated. Designed and manufactured in Bengaluru, India.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-07T18:21:23+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf3 Agni-4 Specifications:\n Range: 4,000 km\n Type: Two-stage, solid-fuel ballistic missile\n Warhead: Nuclear-capable, up to 1,000 kg\n Accuracy (CEP): Less than 100 meters\nThe test used a randomly selected, production-ready missile launched by operational forces, validating combat readiness, rapid deployment, logistics, and crew performance under real-world conditions.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-07T18:08:32+00:00",
+      "timestamp": "2026-08-08T06:36:09+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -1062,6 +1005,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddef\ud83c\uddf5 Is Japan about to outsource its military kill chain to Palantir's genocide-coded AI?\nJapan is on the brink of surrendering military decision-making to the surveillance-tech powerhouse that orchestrates the Pentagon\u2019s AI-driven kill chain.\n[It is mulling plugging](https://t.me/geopolitics_prime/71402) Palantir\u2019s [Maven Smart System](https://t.me/geopolitics_prime/71058) and Anduril\u2019s Lattice into the command-and-control structure of its Self-Defense Forces (SDF), Nikkei Asia reports.\n\ud83d\udc49 Separate platforms are to be assigned to counterattacks, missile defense, and drone control.\nRight now, the SDF runs zero AI in its command structure, while the US military already [runs Maven to gorge ](https://t.me/geopolitics_prime/71084)on battlefield data, letting its algorithms play God with target selection.\nCurrently, Japanese decision-making is slower than the Pentagon\u2019s, raising fears that the gap could undermine interoperability with US forces.\nThe increased speed will come at a cost:\n\ud83d\udd36 classified Japanese military information would be fed into software built by a foreign company\n\ud83d\udd36 Even if the data centers remain on Japanese soil, its military would still depend on the US corporations for software updates, system capabilities and long-term support\nJapanese officials claim they can later swap the foreign tech for domestic AI, but for now, reliance on US systems is treated as unavoidable if capabilities are to be raised quickly.\nThe shortcut comes with plenty of despicable baggage.\n\ud83d\udd34 Maven was unleashed with wrecking-ball gusto in the US war on Iran\n\ud83d\udd34 It fuses satellite imagery, drone feeds, radar, sensors and intel into targeting options with speed over precision\n\ud83d\udd34 Maven reportedly gets target classification right only 60% of the time (well below human analysts' 84%)\n\ud83d\udd34 Most notably, it was linked to the deadly American[ Tomahawk strike on a girls\u2019 school in Iran\u2019s Minab.](https://t.me/geopolitics_prime/68059)\nPalantir, which post-October 2023 supplied Israel with systems like Lavender and Gospel to automatically generate battlefield kill lists, was blacklisted from public entities by Spain.\nFrance, Germany, and the UK have ended intelligence contracts.\nPlugging Palantir into the SDF would be another step toward tighter fusion with the US-led military machine as Japan hurtles toward a [more militarized future.](https://t.me/geopolitics_prime/71510)\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-08T07:07:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
