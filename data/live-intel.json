@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T17:14:38.217870+00:00",
+  "generated_at": "2026-08-08T17:51:38.991687+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -268,6 +268,25 @@
       "verified_source_count": 1
     },
     {
+      "title": "Space Weather Message Code: WARK05\r",
+      "text": "Space Weather Message Code: WARK05\r\nSerial Number: 2257\r\nIssue Time: 2026 Aug 08 1719 UTC\r\n\r\nEXTENDED WARNING: Geomagnetic K-index of 5 expected\nExtension to Serial Number: 2256\nValid From: 2026 Aug 08 1222 UTC\nNow Valid Until: 2026 Aug 08 2100 UTC\nWarning Condition: Persistence\n\r\n\r\nNOAA Scale: G1 - Minor\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-08-08 17:19:39.930",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
       "title": "Space Weather Message Code: WARK06\r",
       "text": "Space Weather Message Code: WARK06\r\nSerial Number: 669\r\nIssue Time: 2026 Aug 08 1336 UTC\r\n\r\nWARNING: Geomagnetic K-index of 6 expected \nValid From: 2026 Aug 08 1336 UTC\nValid To: 2026 Aug 08 1800 UTC\nWarning Conditions: Onset\nNoaa Scale: G2 - Moderate\nComment: \r\n\r\nNOAA Scale: G2 - Moderate\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 55 degrees Geomagnetic Latitude.\r\nInduced Currents - Power grid fluctuations can occur. High-latitude power systems may experience voltage alarms.\r\nSpacecraft - Satellite orientation irregularities may occur; increased drag on low Earth-orbit satellites is possible.\r\nRadio - HF (high frequency) radio propagation can fade at higher latitudes.\r\nAurora - Aurora may be seen as low as New York to Wisconsin to Washington state.",
       "source": "NOAA Space Weather",
@@ -333,25 +352,6 @@
       "severity": "warning",
       "icon": "\ud83d\udef0\ufe0f",
       "timestamp": "2026-08-08 11:40:07.080",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Space Weather Message Code: WARK04\r",
-      "text": "Space Weather Message Code: WARK04\r\nSerial Number: 5399\r\nIssue Time: 2026 Aug 08 0959 UTC\r\n\r\nWARNING: Geomagnetic K-index of 4 expected \nValid From: 2026 Aug 08 0958 UTC\nValid To: 2026 Aug 08 2359 UTC\nWarning Conditions: Onset\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-08-08 09:59:19.923",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -730,44 +730,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddfe\ud83c\uddea\ud83c\uddf8\ud83c\udde6\u26a1\ufe0f \u2014 Yemen's Armed Forces announced they carried out qualitative strikes on Saudi forces and mercenaries at the \"Sahn al-Jinn\" camp using a large number of missiles and drones, vowing to confront escalation with escalation and continue enforcing the equations of \"Siege for Siege\" and targeting Saudi mobilizations wherever they occur.\n\u27a1\ufe0f The statement warned that the Armed Forces will not allow any aggressive plans against Yemen to pass without an immediate and severe response, and called on Yemenis in enemy camps to leave before it is too late, urging them not to serve as fuel for factions trading their blood for foreign projects at the expense of the nation's sovereignty.\n\u27a1\ufe0f The Armed Forces also saluted the tribes of Marib and all free Yemenis standing against occupation and guardianship, pledging to stand with them in reclaiming the people's rights and lifting the siege.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-07T17:17:59+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf7 Footages of the drones shot's down by the Iranian Air defense's.\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-07T11:40:26+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Mediterranean Man",
       "text": "\u26a1\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddf4\ud83c\udde7\ud83c\uddecA Ukrainian MAYA decoy drone entered Bulgaria from Romania and crashed this morning in Kardam, near the border and less than 1 km from the Trans-Balkan gas pipeline. No injuries or damage are reported. \nThe Bulgarian government confirms that the aircraft was not detected by Romanian and Bulgarian radar. The Bulgarian Ministry of Defense rules out an intentional act.",
       "source": "Telegram",
@@ -1039,6 +1001,25 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
+      "text": "\ud83e\udd25\ud83c\uddee\ud83c\uddf7 Trump\u2019s Iran brinksmanship painting him into a corner \u2013 and the US out of the Gulf\n\u00a0\nTrump may have believed his own hype, betting that restarting the Iran war would finally deliver the quick victory that eluded him the first time. Instead, Tehran now threatens to hand to hand Washington a defeat even more humiliating than the one delineated in the June 17 Memorandum of Understanding (MoU).\nWhile the MoU did not include explicit clauses that would strip the US military of its right to navigate Hormuz and the Persian Gulf, Iranian officials\u2019 latest terms in talks with Oman include demands that US Navy warships stay out of the area completely.\n\ud83d\udcac \u201cThe fundamental result is going to be significant Iranian de facto control over the Strait,\u201d former US intel officer Jonathan Panikoff told WSJ.\nUS officials insist Washington will not accept any deal which allows Iran to collect tolls, or deny access to the Strait.\nBut given the vast arsenal the IRGC has its disposal to target violating vessels, Washington doesn\u2019t seem to have much leverage in the matter. American warship and carrier strikes groups have already kept well away from the Iranian coastline throughout t the war, fearing ballistic, cruise missile and drone strikes.\nGulf officials have reportedly \u201cacknowledged\u201d that de facto Iranian control over the Strait may be the new normal, and the \u201cbest option,\u201d given the impact of its continued closure on global energy markets and regional economies.\n\u00a0\n\ud83e\udd14 History in the making?\n\u00a0\nA US retreat from the Gulf would set back US policy in the region 55 years \u2013 back to the 1971 basing agreement with Bahrain, and subsequent[ expansions to bases across Arab Gulf countries.](https://t.me/geopolitics_prime/73010) Iran\u2019s counterstrikes since February showed that these bases are not only defenseless, but pointless when it comes to the protection of America\u2019s Gulf allies. On the contrary \u2013 the more US bases a country hosts, the more vulnerable it is to Iranian strikes.\nPresident Masoud Pezeshkian reiterated Friday that Iran would do everything in its power to prevent the US and Israel from uniting the Gulf countries against it \u2013 starting with the reminder that unlike Israel, Iran has \u201cno intention of attacking other countries, seizing territory or expanding our borders.\u201d\nTrump may have believed his own hype, betting that restarting the Iran war would finally deliver the quick victory that eluded him the first time.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-08T17:48:02+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
       "text": "\ud83c\uddee\ud83c\uddf1\ud83d\udd0d Why Israeli politicians are desperate to shut Palestinians out of power\nIsrael's opposition once argued that cooperation with Palestinian Arab parties was key to ending Benjamin Netanyahu's long dominance of Israeli politics.\nNow, the same politicians are trying to freeze Palestinian Arabs out of the government, despite the fact that they represent one-fifth of the population.\nThe pledge has been repeated in recent weeks by figures across the anti-Netanyahu camp, such as Naftali Bennett and Yair Lapid, who used to defend their partnership with Ra\u2019am leader Mansour Abbas as the necessary price of ending Netanyahu\u2019s dominance.\nThe same stance is shared by Gadi Eisenkot, who has been positioning himself as a potential PM. Opinion polls suggest that at the October election Eisenkot's bloc will be running neck-and-neck with Netanyahu's coalition.\n\ud83d\udc49 This marks a sharp retreat from the pragmatic experiment of 2021 and shows how the events of October 2023 rewired the political climate around cooperation with Palestinian citizens of Israel.\nThe latter make up roughly two million people and are descendants of those who remained after the 1948 war.\nTheir parties have sat on the political margins for decades, and the taboo was broken only in 2021, when Ra\u2019am\u2019s four seats allowed Bennett and Lapid to assemble a majority.\nHowever, that arrangement lasted barely a year. Now, the taboo appears to have returned.\n\ud83d\udd34 71.5% of Jewish Israelis oppose including Arab parties in the next government (Israel Democracy Institute)\n\ud83d\udd34 57% of Israelis oppose a Palestinian state under any circumstances (Institute for National Security Studies survey)\nPolitical arithmetic may ultimately prove more stubborn than campaign rhetoric since Israel's fragmented parliament has repeatedly produced deadlocks.\nRecent polling suggests neither bloc can count on securing a majority alone.\nThere is also another lingering question: whether the political cost of ignoring Palestinian citizens of Israel will eventually become too high for the Zionist state.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
@@ -1141,25 +1122,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-08T04:05:15+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddf5\ud83c\uddf0\ud83c\uddf8\ud83c\udde9 Pakistan supplied Sudan with Mohafiz armored vehicles and Shahpar drones\n\u00a0\nThe Sudanese Armed Forces (SAF) have received a batch of Pakistani-made Mohafiz armored vehicles and Shahpar drones. Military sources report 100 armored vehicles arrived in several batches, according to Sudan Tribune. The equipment is well-suited for African conditions due to its mobility and ease of maintenance.\n\u00a0\n\ud83d\udd34 Mohafiz: lightly armored vehicles on a Toyota Land Cruiser chassis, accommodating up to 8 personnel. Protection against small arms fire up to 7.62 mm and shrapnel. Equipped with a diesel engine and machine gun turret.\n\u00a0\n\ud83d\udd34 Shahpar: tactical drone with a 6.6m wingspan. Carries up to 50 kg and flies for up to 7 hours at a range of 250 km. Equipped with sensors for round-the-clock surveillance.\n\u00a0\n\ud83d\udccc Context: since April 2023, Sudan has been at war between the government army (SAF) of General al-Burhan and the Rapid Support Forces (RSF) of General Dagalo. Saudi Arabia and Qatar support the SAF. Media named them as potential sponsors of the deal, but no official comments have been made. According to other sources, Saudi Arabia initially planned to finance a $1.5 billion contract but later withdrew. Some weapons still reached Sudan.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-08T00:57:53+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
