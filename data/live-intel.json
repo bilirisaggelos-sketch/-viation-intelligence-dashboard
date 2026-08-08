@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T13:02:15.167294+00:00",
+  "generated_at": "2026-08-08T13:58:40.419058+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -249,6 +249,44 @@
       "verified_source_count": 1
     },
     {
+      "title": "Space Weather Message Code: WARK06\r",
+      "text": "Space Weather Message Code: WARK06\r\nSerial Number: 669\r\nIssue Time: 2026 Aug 08 1336 UTC\r\n\r\nWARNING: Geomagnetic K-index of 6 expected \nValid From: 2026 Aug 08 1336 UTC\nValid To: 2026 Aug 08 1800 UTC\nWarning Conditions: Onset\nNoaa Scale: G2 - Moderate\nComment: \r\n\r\nNOAA Scale: G2 - Moderate\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 55 degrees Geomagnetic Latitude.\r\nInduced Currents - Power grid fluctuations can occur. High-latitude power systems may experience voltage alarms.\r\nSpacecraft - Satellite orientation irregularities may occur; increased drag on low Earth-orbit satellites is possible.\r\nRadio - HF (high frequency) radio propagation can fade at higher latitudes.\r\nAurora - Aurora may be seen as low as New York to Wisconsin to Washington state.",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-08-08 13:36:53.403",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Space Weather Message Code: ALTK05\r",
+      "text": "Space Weather Message Code: ALTK05\r\nSerial Number: 2043\r\nIssue Time: 2026 Aug 08 1314 UTC\r\n\r\nALERT: Geomagnetic K-index of 5 \nThreshold Reached: 2026 Aug 08 1314 UTC\nSynoptic Period: 1200-1500\nActive Warning: YES\nNoaa Scale: G1 - Minor\nComment: \r\n\r\nNOAA Scale: G1 - Minor\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-08-08 13:14:19.303",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
       "title": "Space Weather Message Code: WARK05\r",
       "text": "Space Weather Message Code: WARK05\r\nSerial Number: 2256\r\nIssue Time: 2026 Aug 08 1223 UTC\r\n\r\nWARNING: Geomagnetic K-index of 5 expected \nValid From: 2026 Aug 08 1222 UTC\nValid To: 2026 Aug 08 1800 UTC\nWarning Conditions: Onset\nNoaa Scale: G1 - Minor\nComment: \r\n\r\nNOAA Scale: G1 - Minor\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
       "source": "NOAA Space Weather",
@@ -306,44 +344,6 @@
       "verified_source_count": 1
     },
     {
-      "title": "Space Weather Message Code: WARK04\r",
-      "text": "Space Weather Message Code: WARK04\r\nSerial Number: 5398\r\nIssue Time: 2026 Aug 04 0810 UTC\r\n\r\nEXTENDED WARNING: Geomagnetic K-index of 4 expected\nExtension to Serial Number: 5397\nValid From: 2026 Aug 02 1237 UTC\nNow Valid Until: 2026 Aug 04 1500 UTC\nWarning Condition: Persistence\n\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-08-04 08:10:52.687",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Space Weather Message Code: WARK04\r",
-      "text": "Space Weather Message Code: WARK04\r\nSerial Number: 5397\r\nIssue Time: 2026 Aug 03 2355 UTC\r\n\r\nEXTENDED WARNING: Geomagnetic K-index of 4 expected\nExtension to Serial Number: 5396\nValid From: 2026 Aug 02 1237 UTC\nNow Valid Until: 2026 Aug 04 0900 UTC\nWarning Condition: Persistence\n\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-08-03 23:55:50.370",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
       "title": "Child among three killed in Russian missile attacks near Kyiv",
       "text": "Child among three killed in Russian missile attacks near Kyiv\nRussia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors.",
       "source": "BBC",
@@ -351,7 +351,7 @@
       "publisher": "BBC World News",
       "severity": "info",
       "icon": "\ud83d\udcf0",
-      "timestamp": "2026-08-08T06:12:56+00:00",
+      "timestamp": "2026-08-08T13:29:38+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -361,6 +361,26 @@
         "BBC World News"
       ],
       "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014 \ud83c\uddee\ud83c\uddf7 Iran\u2019s Supreme National Security Council:\n\u2018Until America corrects its behavior, the Strait of Hormuz will not be opened.\nCorrecting behavior means:\n1. Never threaten Iran with any language nor insult the sanctities of this nation.\n2. End the war and aggression against Iran and its allies in Lebanon, Palestine, Yemen, and Iraq permanently.\n3. Lift the naval blockade and withdraw U.S. naval and air forces from the area surrounding Iran.\n4. Pay the damages for the two aggressive wars imposed against Iran.\n5. Lift the cruel and illegal sanctions against the Iranian nation.\n6. Release the frozen and stolen assets of the Iranian people unconditionally.\nThese are the demands of the Iranian people who have been relentlessly present in the squares and streets for 160 days.\nThe Supreme National Security Council will never back down; whether in war or in negotiations.\u2018",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-08T13:51:03+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Mediterranean Man",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -447,25 +467,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-07T00:10:13+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014 People who talk about land corridors or pipelines to circumvent the Strait of Hormuz are truly low IQ.\n1. Pipelines and land-based modes of transportation (trucks, trains etc.) cannot carry the same amounts of oil as VLCCs can. In fact, it doesn\u2019t even come close.\n2. A pipeline to circumvent the Strait of Hormuz is just as much within Iran\u2019s targeting range, and probably even easier to hit than ships in the Strait.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-06T18:39:50+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -744,22 +745,23 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddf0\ud83c\uddf5\u26a1\ufe0f\ud83c\uddef\ud83c\uddf5\ud83c\uddfa\ud83c\uddf8\ud83c\uddf0\ud83c\uddf7 North Korea has carried out its first short-range ballistic missile launch in around five months, firing a missile from the Wonsan area into the East Sea (Sea of Japan) on 7 August, according to South Korea's military.\nThe launch comes just days before the annual U.S.\u2013South Korea Ulchi Freedom Shield exercises and follows recent warnings from Kim Yo Jong over expanding U.S., South Korean, and Japanese military cooperation. \nSouth Korea, Japan, and the United States condemned the launch and stepped up monitoring and coordination.\n\u26aa\ufe0f",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ud83c\uddee\ud83c\uddf7 In his full statement he lists the conditions of the following to reach an understanding\n\"1. Never threaten Iran with any language or insult the sanctities of this nation.\n2- End the war and aggression against Iran and its allies in Lebanon, Palestine, Yemen, and Iraq forever.\n3- Lift the naval blockade and withdraw your naval and air forces from around Iran.\n4- Pay the damages of the two wars of aggression and imposition on Iran without any reductions.\n5- Lift the cruel and illegal sanctions against the Iranian nation.\n6- Unconditionally release the frozen and stolen assets of the Iranian people.\nThese are the demands of the Iranian people, who have been shouting it relentlessly in the squares and streets for 160 days.\nThe Supreme National Security Council will never back down;\nWhether in war or in negotiation\nMuhammad Baqir Zulqader\"",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-07T07:09:52+00:00",
+      "timestamp": "2026-08-08T13:44:44+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "Alsaa Plus EN"
+        "Mediterranean Man",
+        "Middle East Spectator"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -789,25 +791,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-08T07:32:48+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8 The Congressional Budget Office estimates that the Navy's new nuclear-powered battleship program will cost about $275 billion between 2027 and 2056. The lead ship, expected to be ordered in 2028, would cost roughly $23 billion, with the remaining 14 vessels averaging $18 billion each. The new class, designated BBGN, would be the largest and most heavily armed surface combatant the Navy has ever built, displacing 35,000 tons and carrying missiles, lasers, and a rail gun.\nThe report also compares the Navy's 2025 and 2027 shipbuilding plans. Under the newer plan, the Navy would buy significantly more large surface combatants, pushing average annual funding needs for surface combatants up from about $11 billion to $19 billion. That shift reflects both a higher ship count and the battleship's steep price tag compared with previous designs.\nCBO warns that the expanded shipbuilding plan could strain the industrial base. By 2035, the tonnage of large surface combatants that shipyards must produce would more than double, while small surface combatant tonnage would fall by about 40 percent. Overall, total tonnage requirements would rise by 60 percent for large ships under the plan.\nThe agency cautions that its cost estimates carry significant uncertainty, since the battleship program is still in early design stages. Factors such as final displacement, construction techniques, and workforce conditions at shipyards could push costs higher or lower than projected.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-08T06:36:09+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -1025,6 +1008,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddee\ud83c\uddf1\ud83c\uddf8\ud83c\uddfe Israel's Syrian land grab: bulldozers, drones, and heavy machine guns\nIsraeli forces have carried out 20 incursions in Deraa and Quneitra in just the past week, conducting land-clearing operations, erecting checkpoints, and installing surveillance cameras, the Syrian Observatory for Human Rights reports. \nIsraeli troops also entered populated areas, firing heavy machine guns toward agricultural lands.\nThe strategic picture:\n\u27a1\ufe0f Israel is expanding its occupation of Syrian territory \u2014 including the Golan Heights, a UN buffer zone, and Mount Hermon \u2014 while bombing Syria's air defenses\n\u27a1\ufe0f Netanyahu has boasted that he helped install Syrian terrorist-turned-President Ahmed al-Sharaa (former HTS leader Abu Mohammad al-Julani) in power in Damascus\n\u27a1\ufe0f Sharaa's forces refuse to confront Israeli incursions \u2014 instead targeting Alawite and Druze minorities, including major massacres in March and July\nSOHR warned that Israel is \"creating new realities on the ground and gradually altering the border strip\" in the absence of any international measures to deter violations and respect Syrian sovereignty.\nIsrael is occupying Syria to control its water resources and expand Greater Israel \u2014 and Damascus is letting it happen.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-08T13:12:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
