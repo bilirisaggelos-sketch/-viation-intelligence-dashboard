@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T00:32:38.473096+00:00",
+  "generated_at": "2026-08-08T02:45:02.432404+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -497,25 +497,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\uddee\ud83c\uddf7/\ud83c\uddf4\ud83c\uddf2 Iran\u2019s semi-official Fars News Agency has shared the initial text of the proposed \u2018Strategic Control of Hormuz Act\u2019 being prepared for Parliament\nNOTE: This is a separate Iranian parliamentary law, in addition to the agreement between Iran and Oman.\n1. The passage of vessels belonging to the United States, Israel, and other hostile countries through the Strait of Hormuz will be prohibited.\n2. Shipments related to Israel, whether military or civilian, will not have the right to transit the Strait of Hormuz.\n3. Vessels or cargoes that play any role in actions against the Resistance Front will also be subject to the ban.\n4. Countries and individuals that have caused damage to Iran will not receive permission to pass through the Strait of Hormuz and the Persian Gulf until compensation is paid.\n5. Heavy fines, including up to 20% of the value of the cargo, are planned for violators.\n6. The government will assume responsibilities such as guiding navigation, monitoring vessel traffic, and protecting the security and environment of the Persian Gulf, in cooperation with the Armed Forces of the Islamic Republic.\nThis draft is still in the review stage, and the parliament has asked experts to submit their suggestions for completing it.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-06T16:26:58+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Clash Report",
       "text": "U.S. intelligence believes an explosive drone discovered near a Ukrainian cargo plane at Germany\u2019s Leipzig/Halle Airport was likely linked to the Russian government. \nThe incident, which forced the airport to shut down overnight, comes as new U.S. intelligence warns that Russia may test NATO\u2019s resolve through limited attacks or other provocations in the coming years.\nSource: WSJ",
       "source": "Telegram",
@@ -574,6 +555,44 @@
     {
       "title": "Telegram",
       "publisher": "Our Wars Today",
+      "text": "[Russia dismisses German drone incident as 'fabricated provocation'](https://www.reuters.com/world/europe/russia-dismisses-german-drone-incident-fabricated-provocation-2026-08-07/)\nThe Russian embassy in Berlin dismissed a suspected drone attack at a major German air freight hub this week \u200bas \"fabricated provocation\" on Friday, saying it was another example \u200cof accusations against Russia without evidence. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://www.reuters.com/world/europe/russia-dismisses-german-drone-incident-fabricated-provocation-2026-08-07/)\nReuters | reuters\u200b.com \u2022 Aug 7, 2026",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-08T02:08:41+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Our Wars Today"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Our Wars Today",
+      "text": "[An alarm was declared in Kyiv and a number of regions due to the threat of enemy drones](https://www.pravda.com.ua/news/2026/08/08/8047835/)\nAn air alert was declared in the capital and regions of Ukraine due to the threat of attack drones, the Air Force warns of the danger - Join Telegrams: t.me/ourwarstoday - Live: t.me/ournewsfeedtoday - Footage: t.me/ourwars - Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://www.pravda.com.ua/news/2026/08/08/8047835/)\n\u0406\u0440\u0438\u043d\u0430 \u0412\u0430\u043a\u0443\u043b\u044e\u043a | pravda\u200b.com\u200b.ua \u2022 Aug 7, 2026",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-08T01:56:44+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Our Wars Today"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Our Wars Today",
       "text": "[\u26a1\ufe0f -Drone targeted Ukrainian cargo plane carrying ammunition at German airport, media reports. Speaking on Aug. 5, Germa...](https://t.me/KyivIndependent_official/54674)\n\u26a1\ufe0fDrone targeted Ukrainian cargo plane\n[https://kyivindependent.com/drone-targeted-ukrainian-cargo-plane-carrying-ammunition-at-german-airport-media-reports/]\ncarrying ammunition at German airport, media reports.\nSpeaking on Aug. 5, German Interior Minister Alexander Dobrindt described the\nincident as a \"hybrid attack scenario.\" \u2013 Join Telegrams: t.me/ourwarstoday \u2013\nLive: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT:\nhttps://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://t.me/KyivIndependent_official/54674)\n | t\u200b.me \u2022 Aug 6, 2026",
       "source": "Telegram",
       "source_type": "telegram",
@@ -599,44 +618,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-06T15:07:58+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Our Wars Today"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Our Wars Today",
-      "text": "[Russian missile and drone barrage in Ukrainian capital region kills 17](https://www.npr.org/2026/08/05/nx-s1-5921194/russian-missile-drone-barrage)\nRussian missile and drone strikes on Kyiv and the surrounding region killed 17 people and wounded 44 others overnight into Wednesday, Ukraine's President Volodymyr Zelenskyy said. \n[Read More in Full Article](https://www.npr.org/2026/08/05/nx-s1-5921194/russian-missile-drone-barrage)\nThe Associated Press | npr\u200b.org \u2022 Aug 5, 2026",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-05T11:44:12+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Our Wars Today"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Our Wars Today",
-      "text": "[Russia is deploying a North Korean unit with dozens of ballistic missiles to attack Ukraine](https://www.pravda.com.ua/news/2026/08/05/8047356/)\nA North Korean missile unit with 120 missiles is being deployed in the Russian Federation for attacks on Ukraine. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://www.pravda.com.ua/news/2026/08/05/8047356/)\n\u0412\u0456\u043a\u0442\u043e\u0440\u0456\u044f \u0428\u0430\u0431\u0440\u0430\u043d\u0441\u044c\u043a\u0430 | pravda\u200b.com\u200b.ua \u2022 Aug 5, 2026",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-05T11:42:51+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -678,13 +659,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
-        "Geopolitics Prime"
+        "Alsaa Plus EN"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -698,13 +678,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
-        "Geopolitics Prime"
+        "Alsaa Plus EN"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -956,6 +935,25 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddf5\ud83c\uddf0\ud83c\uddf8\ud83c\udde9 Pakistan supplied Sudan with Mohafiz armored vehicles and Shahpar drones\n\u00a0\nThe Sudanese Armed Forces (SAF) have received a batch of Pakistani-made Mohafiz armored vehicles and Shahpar drones. Military sources report 100 armored vehicles arrived in several batches, according to Sudan Tribune. The equipment is well-suited for African conditions due to its mobility and ease of maintenance.\n\u00a0\n\ud83d\udd34 Mohafiz: lightly armored vehicles on a Toyota Land Cruiser chassis, accommodating up to 8 personnel. Protection against small arms fire up to 7.62 mm and shrapnel. Equipped with a diesel engine and machine gun turret.\n\u00a0\n\ud83d\udd34 Shahpar: tactical drone with a 6.6m wingspan. Carries up to 50 kg and flies for up to 7 hours at a range of 250 km. Equipped with sensors for round-the-clock surveillance.\n\u00a0\n\ud83d\udccc Context: since April 2023, Sudan has been at war between the government army (SAF) of General al-Burhan and the Rapid Support Forces (RSF) of General Dagalo. Saudi Arabia and Qatar support the SAF. Media named them as potential sponsors of the deal, but no official comments have been made. According to other sources, Saudi Arabia initially planned to finance a $1.5 billion contract but later withdrew. Some weapons still reached Sudan.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-08T00:57:53+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
       "text": "\ud83c\udf2a THROWBACK: How the CIA turned a detainee into a training prop for torture\n\ud83d\udccc In 2003, the CIA captured Ammar al-Baluchi in Pakistan and secretly transferred him to the covert Detention Site Cobalt in Afghanistan. This was one of the facilities in a program that operated outside the rule of law, where detainees were held without access to lawyers and subjected to so-called \"enhanced interrogation techniques.\"\n\ud83d\udd34 Al-Baluchi spent 1,200 days in CIA custody, moving through prisons in Afghanistan, Poland, and Romania before reaching Guantanamo in September 2006. Once medics cleared him, the agency authorized walling, beatings, stress positions, water dousing, and sleep deprivation beyond 72 hours.\n\ud83d\udd34 Particular brutality came from interrogation chief NX2, later identified as Charlie Wise, a former CIA unit head who was removed and died in 2003 after overseeing al-Baluchi's abuse at Cobalt. The central technique was walling: al-Baluchi, stripped naked, had a towel wrapped around his neck and was slammed headfirst against a flexible wall, according to UK media.\n\ud83d\udd34 The CIA inspector general's report noted that trainees lined up to practice walling on al-Baluchi and get certified, with sessions running up to 2 hours until the interrogators tired out. Program architect James Mitchell testified that al-Baluchi was used as a \"training prop\" and called NX2's 20 slaps \"excessive.\"\n\ud83d\udd34 Al-Baluchi said he lost his sight and consciousness during the wall strikes, and later tests found moderate to severe brain damage affecting memory and behavior. He was also sleep-deprived for up to 82 hours, doused with ice water, forced into painful stress positions, shaved against his will, and put on limited rations.\n\ud83d\udd34 The CIA compiled an official menu of authorized torture methods for al-Baluchi, while a Senate inquiry later exposed abuse at Cobalt \u2014 nakedness, mock executions, and more. Over 3 years, he was held in at least 5 black sites; a 2004 photograph captured him emaciated and naked, and he was transferred to Guantanamo in September 2006.\n\ud83d\udd34 Al-Baluchi has been held at Guantanamo since 2006, awaiting trial on charges related to the 9/11 attacks. For years, his defense team sought an independent medical evaluation due to the aftereffects of torture, including traumatic brain injury. An appellate court rejected their request to compel a formal assessment that could have paved the way for repatriation.\n\ud83d\udd34 In April 2025, Colonel Matthew N. McCall ruled al-Baluchi's 2007 confessions inadmissible, as they were obtained under torture. The prosecution lost a key piece of evidence, and its appeal, along with a judge change in late 2025, has further delayed the case, making a trial unlikely anytime soon.\n\ud83d\udd34 Al-Baluchi remains in Guantanamo, awaiting the next development in his legal case. His lawyers have raised serious concerns about his declining health. He has been diagnosed with a spinal tumor that requires emergency surgery, a procedure unavailable inside the prison, according to court filings.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
@@ -1000,64 +998,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-07T15:41:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddee\ud83c\uddf7Iran puts downed US aircraft on display\nIranian forces showcased wreckage from drones and an F-15 they say were brought down by indigenous air defenses during the US-Israeli campaign.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-07T11:35:34+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udca5 Ansar Allah pummels Saudi-backed forces in Yemen with ballistic barrage\nYemen's Ansar Allah-aligned forces have launched a fresh wave of missile strikes against Saudi-backed positions in the eastern provinces of Marib and Hadhramaut, according to Tasnim.\n\ud83d\udc49 Footage circulating online appears to show missiles striking Seiyun Airport in Hadhramaut, an area controlled by the Saudi-backed forces aligned with Yemen\u2019s Presidential Leadership Council.\nMarib, east of Sana'a, remains the Saudi-backed government's main northern stronghold and one of the conflict's most contested front lines.\nHadhramaut lies farther east and has become increasingly important in the balance of power.\n\ud83d\udc49 [Earlier, Yahya Saree, military spokesman](https://t.me/geopolitics_prime/73171) for the Houthi-aligned Yemeni Armed Forces, said the attacks were launched to disrupt major Saudi military preparations for a new offensive.\nHe claimed the Houthi strikes killed hundreds of fighters and destroyed multiple weapons depots.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-07T10:02:53+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\udde8\ud83c\uddf3 Chinese missile math: US interceptors do not add up\u00a0\nThe US has spent years preparing to deter China. The inconvenient detail is that it may not have enough interceptors to survive more than the opening days of a high-intensity missile war.\nA new Heritage Foundation assessment estimates that US stocks of PAC-3 MSE, THAAD, SM-6 and SM-3 interceptors amount to less than 10% of what would be required for a prolonged conflict with China. Even under optimistic assumptions, the report says American defenses could be exhausted within days.\n\ud83d\udc49 According to the report, China would need to fire only 12% of its intermediate-range ballistic missiles from 22% of its corresponding launchers to drain the entire estimated US THAAD inventory while attacking just one fully defended target. China would hardly need to empty the cupboard to clear America\u2019s shelves.\nThe widening gap between interceptor demand and supply leaves the US dangerously exposed: after draining its arsenals in [the war with Iran](https://t.me/geopolitics_prime/73162) , the US could struggle merely to hold the line against China, never mind seize the initiative.\nAdd to that grim picture: CSIS estimates show roughly half of pre-war Patriot and THAAD inventories are already expended, with full replenishment not expected before 2029 for several key systems. [Production lines are expanding](https://t.me/geopolitics_prime/72939) - Patriot output toward 2,000 missiles a year and THAAD capacity set to quadruple, yet Pentagon assessments continue to warn about hundreds of Chinese launchers capable of overwhelming remaining US defenses.\nEarlier, the Pentagon already[ asked Congress for an extra $67 billion ](https://t.me/geopolitics_prime/71862)to restock weapons that have hit critically low levels. \n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-07T09:04:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
