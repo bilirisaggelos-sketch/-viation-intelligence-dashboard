@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T03:59:33.056686+00:00",
+  "generated_at": "2026-08-08T05:07:31.251070+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -359,6 +359,44 @@
       "verification_confidence": 100,
       "verified_sources": [
         "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Child among three killed in Russian missile attacks near Kyiv",
+      "text": "Child among three killed in Russian missile attacks near Kyiv\nRussia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors.",
+      "source": "BBC",
+      "source_type": "osint",
+      "publisher": "BBC World News",
+      "severity": "info",
+      "icon": "\ud83d\udcf0",
+      "timestamp": "2026-08-08T04:23:33+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "BBC World News"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "'I ran because I knew I would die': Russian drones target medics in Ukraine",
+      "text": "'I ran because I knew I would die': Russian drones target medics in Ukraine\nUkrainian emergency workers warn of growing Russian attacks on hospitals and ambulances.",
+      "source": "BBC",
+      "source_type": "osint",
+      "publisher": "BBC World News",
+      "severity": "info",
+      "icon": "\ud83d\udcf0",
+      "timestamp": "2026-08-08T00:02:49+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "BBC World News"
       ],
       "verified_source_count": 1
     },
@@ -859,12 +897,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "An FPV drone attack damaged a Gazpromneft gas station in Valuyki, Belgorod Oblast, Russia.",
+      "text": "\u26a1\ufe0f\ud83c\uddfe\ud83c\uddea Yemen\u2019s Presidential Leadership Council-affiliated Defense Ministry says its forces launched military attacks against the Houthis across multiple fronts in response to Houthi ballistic missile and drone attacks on Marib and Hadhramaut that the ministry says killed several PLC soldiers. \nThe ministry warned that any further Houthi attacks on its forces will be met with a military response.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-08T03:59:26+00:00",
+      "timestamp": "2026-08-08T04:39:46+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -878,12 +916,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "A Russian drone struck a market in Bilopillia, Sumy Oblast, regional authorities reported. Ten people were injured in the attack, including two who are in serious condition. No further details on the victims or damage were provided.",
+      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfa\ud83c\uddf0\ud83c\uddff [Bloomberg](https://www.bloomberg.com/news/articles/2026-08-08/us-says-ukraine-to-avoid-targeting-tankers-black-sea-oil-site): Ukraine has agreed not to target certain oil tankers and infrastructure linked to Kazakhstan\u2019s crude exports through the Black Sea. \nThe agreement covers vessels that are not sanctioned by Ukraine, do not carry Russian cargo, and are not owned by Russian individuals or entities. The deal could help restore shipments through the Caspian Pipeline Consortium terminal near Novorossiysk, after recent Ukrainian drone attacks disrupted oil loadings.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-08T03:59:21+00:00",
+      "timestamp": "2026-08-08T04:39:38+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -897,12 +935,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "The impact of two Ukrainian An-196 Liutyi long-range drones at the Wildberries complex in Yekaterinburg was captured on video. Both had different flight paths and approaches.",
+      "text": "\u26a1\ufe0f\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6 Russian Geran drones have reportedly struck a major logistics center in Ukraine\u2019s Dnipropetrovsk region.\n\ud83d\udca7 [Rainbet.com](https://www.rainbet.com/) the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-08T03:53:27+00:00",
+      "timestamp": "2026-08-08T04:38:55+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -916,12 +954,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u2757\ufe0fUkrainian AN-196 Liutyi long-range drones struck the 158,000 m\u00b2 Wildberries logistics hub in Yekaterinburg, Sverdlovsk Oblast, around 1,700 km from Ukraine\u2019s border. At least two impacts were reported, and a fire broke out inside the warehouse complex. Another drone was apparently shot down over the site.",
+      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfa Four Russian jet-powered UAV impacted Brovary, east of the Ukrainian capital Kyiv.\n\ud83d\udca7 [Rainbet.com](https://www.rainbet.com/) the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-08T03:52:41+00:00",
+      "timestamp": "2026-08-08T04:38:52+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -935,12 +973,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Preliminary data showed Ukrainian air defenses shot down or suppressed 114 of 147 Russian drones launched overnight, including Shahed, Gerbera, Italmas and Parodiya types. Hits by 29 attack drones were recorded at 15 locations, with debris falling at 4. The attack was ongoing at 08:30.",
+      "text": "\u26a1\ufe0f\ud83c\uddea\ud83c\uddfa\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6 The European Union has added five individuals to its Russia sanctions list following Moscow\u2019s intensified strikes deliberately targeting civilians and civilian infrastructure in Ukraine, including a deadly barrage on Kyiv this week that killed 17. \nThose listed include Ramil Badgutdinov, head of a company producing components for Iskander\u2011M ballistic missiles, and Aleksandr Dyukarev, head of the KrasMash plant that produces Sarmat missiles. The remaining three are directors of Russian defence companies involved in communications systems and military UAV software. \n\u201cWith its army stalled on the battlefield, Moscow is further escalating its campaign of terror against civilians,\u201d said EU foreign policy chief Kaja Kallas. \u201cThe EU must continue to intensify pressure on Russia until Moscow ends its war.\u201d \n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-08T03:51:04+00:00",
+      "timestamp": "2026-08-08T04:37:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -948,6 +986,139 @@
       "verification_confidence": 30,
       "verified_sources": [
         "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "\u26a1\ufe0f\ud83c\uddfe\ud83c\uddea\ud83c\uddfe\ud83c\uddea The Houthis attacked the city of Marib, Yemen, this morning with drones and missiles.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-08T04:32:52+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfa During last night\u2019s attacks, Ukrainian long range drones struck a Wildberries facility in Yekaterinburg, a distance of nearly 2,000 kilometers from the front lines.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-08T04:32:44+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfa [Reuters](https://www.reuters.com/world/ukrainian-attacks-wildberries-strike-heart-russia-inc-2026-08-07/): Ukrainian drone attacks on Russia\u2019s largest e-commerce retailer, Wildberries, have damaged or destroyed at least 1.18 million square meters of warehouse space, more than one-fifth of its total capacity. \nThe strikes have severely disrupted deliveries and businesses across Russia, with more than 3,100 Wildberries pickup points now listed for sale and some operators reporting sales drops of around 50%. \nKyiv says the campaign aims to \u201cbring the war home\u201d and increase the economic cost of the conflict for Russia, while Moscow warns the disruption could trigger bankruptcies across the retail sector. \n\ud83d\udca7 [Rainbet.com](https://www.rainbet.com/) the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-08T04:32:38+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "Ukrainian \"Darts\" kamikaze drones are destroying a large amount of Russian logistical equipment, fuel tankers, and power substations near Donetsk.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-08T04:23:23+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "Several strikes with Lancet and Geran-4 seeker drones against Ukrainian cargo ships in Odesa ports and Black Sea.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-08T04:23:16+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "#Sudan \ud83c\uddf8\ud83c\udde9: Sudanese Forces have captured various weapons from Rapid Support Forces (#RSF).\nAmong the weapons two uncommon Yugoslav 90mm M79 \u201cOsa\u201d rocket launcher can be seen as well.\nhttps://x.com/i/status/2085713472860414027",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-08T04:18:58+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udca5 Russian missiles demolish Ukrainian logistics in overnight attack\nStriking footage shows missiles pounding a major infrastructure hub in the Dnepropetrovsk region.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-08T04:05:15+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
