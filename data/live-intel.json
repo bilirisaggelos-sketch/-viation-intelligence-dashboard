@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T09:56:25.121768+00:00",
+  "generated_at": "2026-08-08T10:42:00.784061+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -250,6 +250,25 @@
     },
     {
       "title": "Space Weather Message Code: WARK04\r",
+      "text": "Space Weather Message Code: WARK04\r\nSerial Number: 5399\r\nIssue Time: 2026 Aug 08 0959 UTC\r\n\r\nWARNING: Geomagnetic K-index of 4 expected \nValid From: 2026 Aug 08 0958 UTC\nValid To: 2026 Aug 08 2359 UTC\nWarning Conditions: Onset\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-08-08 09:59:19.923",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Space Weather Message Code: WARK04\r",
       "text": "Space Weather Message Code: WARK04\r\nSerial Number: 5398\r\nIssue Time: 2026 Aug 04 0810 UTC\r\n\r\nEXTENDED WARNING: Geomagnetic K-index of 4 expected\nExtension to Serial Number: 5397\nValid From: 2026 Aug 02 1237 UTC\nNow Valid Until: 2026 Aug 04 1500 UTC\nWarning Condition: Persistence\n\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
       "source": "NOAA Space Weather",
       "source_type": "official",
@@ -314,25 +333,6 @@
       "severity": "warning",
       "icon": "\ud83d\udef0\ufe0f",
       "timestamp": "2026-08-03 02:53:49.763",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Space Weather Message Code: WARK04\r",
-      "text": "Space Weather Message Code: WARK04\r\nSerial Number: 5395\r\nIssue Time: 2026 Aug 03 0253 UTC\r\n\r\nEXTENDED WARNING: Geomagnetic K-index of 4 expected\nExtension to Serial Number: 5394\nValid From: 2026 Aug 02 1237 UTC\nNow Valid Until: 2026 Aug 03 2100 UTC\nWarning Condition: Persistence\n\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-08-03 02:53:13.473",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -523,25 +523,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-08T08:42:48+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Ukrainian drones hit Syzran oil refinery in Russia's Samara region overnight, starting a fire, with a parallel strike hitting the Ilsky refinery in Krasnodar Krai. \nBoth are Rosneft plants, and Syzran sits more than 800 km from the Ukrainian border.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-08T07:03:45+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -963,12 +944,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "CASELS"
+        "CASELS",
+        "Geopolitics Prime"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -988,6 +970,26 @@
         "CASELS"
       ],
       "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udea8 Russia's massive strike exposes Western air defense limits \u2014 not a single Iskander intercepted\nOvernight, Russian forces hit military and fuel infrastructure across seven regions, including Kiev, Dnepropetrovsk, and Nikolayev.\nKey targets:\n\ud83d\udd34 Kiev: Kiev-111 plant (Flamingo missile components) and Kiev-3 fuel depot destroyed\n\ud83d\udd34 Dnepropetrovsk: major logistics center hit\n\ud83d\udd34 Two cargo ships with weapons destroyed in the Black Sea\nUkraine's Air Force admitted not a single Iskander-M was intercepted over Kiev. Even Patriot PAC-3 and SAMP/T can't guarantee success against maneuvering ballistic missiles.\nWestern interceptor stocks are depleting \u2014 opening a window for Russian drones. Now, with Kiev's protection thinning, strike drones like Geran-2 can be redirected to hit energy infrastructure, logistics hubs, and industrial plants.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-08T10:09:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "CASELS",
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -1074,44 +1076,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-07T23:20:53+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udd0d Is the 'Sunni NATO' triumvirate seeking regional dominance at Iran\u2019s expense?\n\ud83d\udccc Saudi Arabia, Pakistan, and Turkey signed a joint defense pact in Mecca on August 7, bringing together an oil-rich kingdom, a nuclear-armed power, and a NATO member state boasting the alliance's second-largest army.\nCollective defense \u2013 against whom?\n\ud83c\udf0f The agreement aims to enhance collective deterrence against potential aggression, declaring that any armed attack on one of the three countries would be considered an attack on all three, according to a statement from Pakistan\u2019s Foreign Ministry. The Western media interprets the move as a response to rising risks of military confrontation with Iran and the Axis of Resistance.\n\ud83c\udf0f Middle Eastern experts warn that an alliance with Turkey could enable Saudi Arabia to intensify its campaign against Yemen\u2019s Ansar Allah, following the group\u2019s blockade of the [Bab el-Mandeb Strait](https://t.me/geopolitics_prime/72095). Saudi Arabia is currently scrambling to establish a [military coalition for the Red Sea](https://t.me/geopolitics_prime/72901).\n\ud83c\udf0f Saudi Arabia\u2019s shift toward Pakistan and Turkey is also seen as a sign of waning US influence in the Gulf, a trend that became evident during the Iran war when the US deployed massive military resources to shield Israel from Iranian retaliation while Gulf states came under fire for [enabling US strikes](https://t.me/geopolitics_prime/73162).\nHow does Saudi-Pakistani collective defense work?\n\u2666\ufe0f In September 2025, Pakistan and Saudi Arabia formalized a mutual defense pact that commits both nations to regard aggression against either party as an attack on both. The agreement was concluded a week [after Israel's attack on Doha, Qatar](https://t.me/geopolitics_prime/56576).\n\u2666\ufe0f After the start of the US-Israeli aggression, Pakistan\u2019s Foreign Minister Ishaq Dar revealed on March 3 that Islamabad reminded Iran of its defense pact with Saudi Arabia and urged Tehran to halt attacks on Saudi territory. Iran responded by calling on Pakistan to ensure Saudi Arabia was not used as a base for actions against the Islamic Republic. Saudi Arabia rejected access to its airspace and bases to support the US operation. Moreover, it was reportedly Saudi Arabia that urged Trump to call off the recent strikes on Iran, fearing retaliation.\n\u2666\ufe0f However, with Turkey, a NATO ally, joining the Saudi-Pakistani alliance, the triumvirate could emerge as a more assertive bloc. Alliances built on the principle of \"an attack on one is an attack on all\" are particularly dangerous in today\u2019s Middle East, where such commitments could quickly become a major liability, experts warn.\nNew Middle Eastern order\nExperts describe the emerging power balance as a contest between [competing alliances](https://t.me/geopolitics_prime/71096):\n\u27a1\ufe0f [The Sunni Diamond](https://t.me/geopolitics_prime/72876) (\u201cIslamic NATO\u201d) \u2013 Turkey, Pakistan, Saudi Arabia, Egypt, and their partners\n\u27a1\ufe0f [The Hexagon Alliance](https://t.me/geopolitics_prime/69778) (\u201cAbraham Accords Axis\u201d) \u2013 Israel, the UAE, and aligned states\n\u27a1\ufe0f The Axis of Resistance \u2013 Iran, Lebanon\u2019s Hezbollah, Yemen\u2019s Ansar Allah, and Iraq\u2019s Popular Mobilization Forces\nBoth the Sunni Diamond and the Hexagon Alliance share one key patron: the US. This makes the rivalry appear less like a balanced contest and more like a struggle for regional dominance at Iran\u2019s expense. At the same time, Iran's growing global outreach and strategic ties with China and Russia cannot be ignored.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-07T21:54:53+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udee9\ud83c\uddf5\ud83c\uddf0 Pakistan's new kamikaze drone can strike targets at a range of up to 3,000 km\nPakistani defense manufacturer Heavy Industries Taxila (HIT) unveiled its newest loitering munition, the D-248, at the Indus Robotics and Autonomous Systems (RAS) Expo 2026, according to Pakistani media reports.\nKey specifications of the D-248:\n\ud83d\udd34 Range:\u00a0from 2,200 to 3,000 km, placing it in the class of strategic deep-strike systems.\n\ud83d\udd34 Flight endurance and altitude:\u00a0can loiter for up to 14 hours at altitudes of up to 4,500 meters, providing ample time for target acquisition.\n\ud83d\udd34 Weight and payload:\u00a0maximum takeoff weight is 240 kg, with a warhead weighing between 30 and 50 kg.\n\ud83d\udd34 Flight performance:\u00a0maximum speed reaches 225 km/h, with a cruising speed of 185 km/h.\nIt is emphasized that this is the largest and longest-range loitering munition in Pakistan's arsenal to date. Alongside the D-248, the S-369 drone was also presented, which has a shorter range (up to 2,000 km), indicating the development of a family of precision-strike weapons.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-07T15:41:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
