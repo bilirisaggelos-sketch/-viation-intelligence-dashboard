@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T18:48:25.462624+00:00",
+  "generated_at": "2026-08-08T19:36:00.545953+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -500,6 +500,82 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
+      "text": "WATCH: Russian troops firing with rifles at an incoming Ukrainian kamikaze drone, eventually managing to shoot it down.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-08T19:33:17+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "WATCH: Ukrainian drone footage shows a strike drone continuing toward Russian shadow-fleet-linked targets near Gelendzhik while a Pantsir-S1 fires three missiles and fails to intercept it.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-08T19:31:17+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "BIG: Ukraine is set to receive 70 x M39 ATACMS missiles from T\u00fcrkiye, alongside 12 x M270 launchers, 2,524 x M26 rockets, and 47,000 x cluster artillery shells. \nBecause the weapons are US-origin, Washington has approved the re-export, subject to congressional review. \nThe M39s are ~165 km-range cluster-warhead ATACMS.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-08T19:23:41+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Serbia plans to open a drone factory with Israel in September, President Aleksandar Vu\u010di\u0107 said, with the opening expected around September 15\u201320. \nHe added that while Ukraine has extensive drone-production capabilities, the Serbian project will be carried out with Israel.\nSource: CDM",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-08T18:55:11+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
       "text": "Zelensky:\nA decision has been made regarding 30,000 to 50,000 North Koreans being on Russian territory.\nThey are studying this war.\nWe have already found North Korean missiles on Ukrainian territory. They have already been used to carry out strikes. Today, this is an acknowledged fact.\nSouth Korea should have much closer cooperation with Ukraine. We are open to this.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -544,44 +620,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-08T18:20:00+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Bulgaria\u2019s Defence Ministry says the drone that crashed and exploded near the Romanian border was most likely a Ukrainian-used Maya decoy drone, based on an initial analysis of the wreckage.\nOfficials said there is currently no reason to believe the incident was intentional.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-08T16:12:15+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Israeli Diaspora Affairs Minister Amichai Chikli on Germany:\nIn places like Germany, where you have center-right parties such as the CDU, we have good relations with them.\nOn the other hand, the right-wing party there \u2014 the Alternative for Germany (AfD) \u2014 has not made the same statements regarding Hamas, Iran, and Hezbollah.\nSo, with them, there is currently no breakthrough in relations.\nJust because you are on the right does not mean we will automatically have a relationship with you.\nThey need to show where they stand on Hamas, Iran, and Hezbollah.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-08T15:32:42+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -750,6 +788,25 @@
     {
       "title": "Telegram",
       "publisher": "Mediterranean Man",
+      "text": "\u26a1\ud83c\uddf1\ud83c\uddfb\ud83c\uddfa\ud83c\udde6\u2694\ufe0f\ud83c\uddf7\ud83c\uddfa\ud83c\udde7\ud83c\uddfe Latvia called for kidnapping or killing Putin and Lukashenko, just like Nicol\u00e1s Maduro and the Supreme Leader of Iran.\nJ\u0101nis Slaid\u012b\u0146\u0161, an officer of the National Armed Forces headquarters, stated that the presidents of Russia and Belarus should be \"gotten rid of\" in the same way as the leaders of Venezuela and Iran.\nJanis added at the end that he regrets that Zelensky has not yet made their assassination a goal.\n\"I'm not entirely sure about Latvia's capabilities, but it would be worth at least trying to do it.\"",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-08T18:58:47+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
       "text": "\u26a1\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddf4\ud83c\udde7\ud83c\uddecA Ukrainian MAYA decoy drone entered Bulgaria from Romania and crashed this morning in Kardam, near the border and less than 1 km from the Trans-Balkan gas pipeline. No injuries or damage are reported. \nThe Bulgarian government confirms that the aircraft was not detected by Romanian and Bulgarian radar. The Bulgarian Ministry of Defense rules out an intentional act.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -787,25 +844,6 @@
         "Middle East Spectator"
       ],
       "verified_source_count": 3
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddf3\ud83c\uddf7 \ud83c\uddf0\ud83c\uddee \ud83c\udde8\ud83c\uddf3 \ud83c\udde6\ud83c\uddfa \ud83c\uddf3\ud83c\uddffNaoero and Kiribati blocked a joint statement from the Pacific Islands Forum that sought to condemn a recent ballistic missile test by China.\nAustralia and New Zealand made slanderous remarks, accusing Naoero and Kiribati of being under China's thumb.\nNeither of the two dissenting nations recognise Taiwan.\nThese actions are part of a larger trend of pacific island nations shifting their alliances from the West.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-08T12:29:42+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -1014,6 +1052,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddf9\ud83c\uddf7 Turkey\u2019s quiet Black Sea shipping squeeze \u2013 what if it becomes permanent?\n\u00a0\n\ud83d\udd34 The Turkish authority responsible for the monitoring and management of heavy commercial cargoes through the Bosporus and the Dardanelles has reportedly started restricting the passage of vessels bound to and from Russian and Ukrainian ports.\n\ud83d\udd34 Sources told Bloomberg the Directorate General of Coastal Safety has implemented de facto restrictions by halting the issuance of transit permits, or deliberately dragging out the review of applications. Ships bound for Turkish, Bulgarian, Romanian and Georgian ports are being allowed to proceed as normal.\n\ud83d\udd34 The restrictions come in the wake of a series of drone attacks on Turkish-flagged and owned vessels, plus the targeting of Russian compressor stations linked to TurkStream and Blue Stream gas pipeline infrastructure. Up to 10 crew members have been killed and 7 injured in the last month.\n\u00a0\nImplications\n\u00a0\n\u27a1\ufe0f the restrictions stretch the limits of Turkey\u2019s legal authority under the 1936 Montreux Convention, which guarantees \u201cabsolute freedom of navigation\u201d for commercial vessels. If they become permanent, that opens the door for other countries in command of natural or manmade maritime passages doing the same (Egypt, Panama, Spain, Iran, Yemen, Indonesia-Malaysia-Singapore, Chile, South Africa, Russia)\n\u27a1\ufe0f while the restrictions could hurt Russian energy and food exporters, they may absolutely cripple Ukraine, which has no alternative major maritime export routes\n\u27a1\ufe0f Kazak crude exports (80% of which pass through the Caspian Pipeline Consortium terminal at Novorossiysk) may also be severely affected. There are no viable, large-scale alternatives\n\u27a1\ufe0f a block on Russian energy exports will exacerbate the global energy crisis caused by the Iran war \u2013 pummeling net importers, especially if shipping restrictions are complemented by a shutdown of Turkey-bound natural gas exports, which besides Turkey also feed much of southeastern Europe\n\u27a1\ufe0f the Black Sea region accounts for up to 20% of global grain exports, 60% of sunflower oil exports, and 15% or more of global mineral fertilizer exports. Unless costly alternative overland routes are found, entire regions and subcontinents, from North Africa to the Middle East, could plunge into economic and political crises\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-08T19:17:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
