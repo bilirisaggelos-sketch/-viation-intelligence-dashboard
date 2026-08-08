@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T21:37:15.356787+00:00",
+  "generated_at": "2026-08-08T22:04:35.233403+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -500,6 +500,25 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
+      "text": "The Pentagon is pressing U.S. defense companies to rapidly boost weapons production after the Iran war sharply depleted missile stocks.\nFirms have 21 days to propose faster deliveries, expanded factories, and increased capacity.\nThe biggest concern is air-defense ammunition: Patriot inventories reportedly fell from about 2,200 to under 827, while THAAD stocks dropped from 452 to under 278. \nThe Pentagon is pursuing major production deals, including a $58.6 billion Lockheed Martin agreement, but much of the expansion depends on a $1.15 trillion defense spending bill stalled in Congress.\nSource: WaPo",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-08T21:53:29+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
       "text": "Ukraine destroyed a Russian Volna Kupol Garant Starlink-jamming system near Gelendzhik, Krasnodar Krai\u2014reportedly the third confirmed loss of this type.\nThe ~$1.5 million system uses powerful Ku-band uplink interference to temporarily disrupt Starlink over a small area (~20 km\u00b2). \nIts effectiveness is limited by Starlink\u2019s rapidly moving satellite network, while its large footprint and strong emissions make it relatively easy to detect and target.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -728,6 +747,44 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf1\u26a1\ufe0f \u2014 The downing of a U.S. F-15 has become a major symbol in Iran's narrative of air defense success, while the most valuable spoils Tehran has acquired are two intact drones \u2014 an American MQ-9 Reaper and an Israeli Hermes 900 \u2014 according to Eurasia Times.\n\u27a1\ufe0f Iran can exploit the technical information from these drones for reverse engineering, adapting them into its own programs and accessing critical technologies such as optics, sensors, stabilization systems, laser systems, and processing units.\n\u27a1\ufe0f The acquisitions could enable Iran to improve its night reconnaissance capabilities, as well as provide guidance on electronic warfare, jamming, and air defense strategies to counter similar Western weapons.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-08T21:51:09+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf1\u274c\ud83c\uddf1\ud83c\udde7 \u2014 Israeli drones over southern Lebanon.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-08T21:50:20+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
       "text": "\ud83c\uddee\ud83c\uddf6\u26a1\ufe0f \u2014 Sheikh Akram al kabee:\nIn the name of God, the Most Gracious, the Most Merciful\nHave they not traveled through the land and seen how was the end of those before them? God destroyed them, and for the disbelievers is a similar fate. That is because God is the protector of those who believe, and the disbelievers have no protector.\nGod Almighty has spoken the truth\nIt will become clear to all brothers that the option of diplomacy with the despicable Wahhabi Al Saud entity is futile, for it is a regime with a deviant ideology, behind many of the conspiracies that targeted Iraq and its people. Its hands are stained with our blood by the thousands of car bombs it funded and sent to kill innocent people, women, and children. This abhorrent entity is seen as a rabid dog against Muslims, but at the same time, it is a cowardly, milking cow with the Zionists and the enemies of Islam, subservient and humiliated to them. Therefore, the only skillful and correct way to discipline it is by humiliating it, as is its custom and what its Zionist masters have accustomed it to. This will only be achieved through a suitable military response that fulfills the duty to the blood of our righteous martyrs from the Popular Mobilization Forces who fell victim to its treachery. What compensations are you talking about that are equal to their sacred blood? What money can bring back joy to their orphans, their bereaved mothers, and their widowed wives?! Indeed, all the money in the world is not worth a single drop of the precious blood of Iraq's martyrs. Missiles are only answered with missiles, and fire is only met with fire.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -803,25 +860,6 @@
         "Middle East Spectator"
       ],
       "verified_source_count": 3
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddfa\ud83c\udde6\ud83c\udde9\ud83c\uddea\u26a1\ufe0f\ud83c\uddf7\ud83c\uddfaUkrainian soldiers have begun receiving new German Bundeswehr combat gear being introduced as part of Germany\u2019s major military modernization programme.\nThe equipment includes new combat shirts and trousers from Hexonia, part of the Bundeswehr\u2019s Kampfbekleidungssatz Streitkr\u00e4fte (KBS SK) modular combat-clothing system.\nThe wider system contains 100+ equipment items, including clothing, helmets, body armour and backpack systems, with Germany also upgrading individual ballistic protection under its MOBAST programme.\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-08T11:47:44+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
     },
     {
       "title": "Telegram",
