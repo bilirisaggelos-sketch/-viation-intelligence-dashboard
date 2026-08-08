@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T11:13:05.958142+00:00",
+  "generated_at": "2026-08-08T11:48:27.474743+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -249,6 +249,25 @@
       "verified_source_count": 1
     },
     {
+      "title": "Space Weather Message Code: ALTK04\r",
+      "text": "Space Weather Message Code: ALTK04\r\nSerial Number: 2679\r\nIssue Time: 2026 Aug 08 1140 UTC\r\n\r\nALERT: Geomagnetic K-index of 4 \nThreshold Reached: 2026 Aug 08 1136 UTC\nSynoptic Period: 0900-1200\nActive Warning: YES\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-08-08 11:40:07.080",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
       "title": "Space Weather Message Code: WARK04\r",
       "text": "Space Weather Message Code: WARK04\r\nSerial Number: 5399\r\nIssue Time: 2026 Aug 08 0959 UTC\r\n\r\nWARNING: Geomagnetic K-index of 4 expected \nValid From: 2026 Aug 08 0958 UTC\nValid To: 2026 Aug 08 2359 UTC\nWarning Conditions: Onset\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
       "source": "NOAA Space Weather",
@@ -314,25 +333,6 @@
       "severity": "warning",
       "icon": "\ud83d\udef0\ufe0f",
       "timestamp": "2026-08-03 20:03:52.160",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Space Weather Message Code: WARK05\r",
-      "text": "Space Weather Message Code: WARK05\r\nSerial Number: 2255\r\nIssue Time: 2026 Aug 03 0253 UTC\r\n\r\nEXTENDED WARNING: Geomagnetic K-index of 5 expected\nExtension to Serial Number: 2254\nValid From: 2026 Aug 02 1427 UTC\nNow Valid Until: 2026 Aug 03 1500 UTC\nWarning Condition: Persistence\n\r\n\r\nNOAA Scale: G1 - Minor\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-08-03 02:53:49.763",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -517,12 +517,12 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Zelensky:\nWho has anti-ballistic missiles and systems? The manufacturer is the United States of America, first of all. Can they help? We are working on it. \nWill they provide us with missiles every month? Yes. We have agreements. \nAre there enough of these missiles? No.",
+      "text": "Zelensky:\nI spoke with President Biden in the first year of the war. I asked him very strongly to give me licenses for Patriot.\nNow we have agreed with Trump that he will provide the licenses. \nBut imagine: if we had received them four years ago, we would already be making Patriots for everyone, believe me. \nAnd Europe\u2014those who want and wanted to have Patriot anti-ballistic systems and missiles\u2014would already have them. I am absolutely convinced of that.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-08T10:59:57+00:00",
+      "timestamp": "2026-08-08T11:30:58+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -536,12 +536,31 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Greece to Deploy AH-64D Apaches to Abu Dhabi as Drone Hunters\nGreece is considering deploying 2 AH-64D Apache attack helicopters to the UAE for counter-drone operations, a move grounded in a bilateral defence agreement signed in 2020.\n[READ MORE](https://clashreport.com/world/articles/greece-to-deploy-ah-64d-apaches-to-abu-dhabi-as-drone-hunters-mk5tyfky3l)",
+      "text": "Serbia's President Aleksandar Vu\u010di\u0107:\nWe will open a drone factory here in September, but with the Israelis. We are doing this with the Israelis. \nThe Ukrainians are very successful and have many of their own drone factories in this field, so we will invite you here for the opening.\nI think it will be sometime around September 15\u201320.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-08T08:42:48+00:00",
+      "timestamp": "2026-08-08T11:30:49+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Zelensky:\nWho has anti-ballistic missiles and systems? The manufacturer is the United States of America, first of all. Can they help? We are working on it. \nWill they provide us with missiles every month? Yes. We have agreements. \nAre there enough of these missiles? No.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-08T10:59:57+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -625,6 +644,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Our Wars Today"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddfa\ud83c\udde6\ud83c\udde9\ud83c\uddea\u26a1\ufe0f\ud83c\uddf7\ud83c\uddfaUkrainian soldiers have begun receiving new German Bundeswehr combat gear being introduced as part of Germany\u2019s major military modernization programme.\nThe equipment includes new combat shirts and trousers from Hexonia, part of the Bundeswehr\u2019s Kampfbekleidungssatz Streitkr\u00e4fte (KBS SK) modular combat-clothing system.\nThe wider system contains 100+ equipment items, including clothing, helmets, body armour and backpack systems, with Germany also upgrading individual ballistic protection under its MOBAST programme.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-08T11:47:44+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
       ],
       "verified_source_count": 1
     },
@@ -1076,25 +1114,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-08T00:57:53+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\udf2a THROWBACK: How the CIA turned a detainee into a training prop for torture\n\ud83d\udccc In 2003, the CIA captured Ammar al-Baluchi in Pakistan and secretly transferred him to the covert Detention Site Cobalt in Afghanistan. This was one of the facilities in a program that operated outside the rule of law, where detainees were held without access to lawyers and subjected to so-called \"enhanced interrogation techniques.\"\n\ud83d\udd34 Al-Baluchi spent 1,200 days in CIA custody, moving through prisons in Afghanistan, Poland, and Romania before reaching Guantanamo in September 2006. Once medics cleared him, the agency authorized walling, beatings, stress positions, water dousing, and sleep deprivation beyond 72 hours.\n\ud83d\udd34 Particular brutality came from interrogation chief NX2, later identified as Charlie Wise, a former CIA unit head who was removed and died in 2003 after overseeing al-Baluchi's abuse at Cobalt. The central technique was walling: al-Baluchi, stripped naked, had a towel wrapped around his neck and was slammed headfirst against a flexible wall, according to UK media.\n\ud83d\udd34 The CIA inspector general's report noted that trainees lined up to practice walling on al-Baluchi and get certified, with sessions running up to 2 hours until the interrogators tired out. Program architect James Mitchell testified that al-Baluchi was used as a \"training prop\" and called NX2's 20 slaps \"excessive.\"\n\ud83d\udd34 Al-Baluchi said he lost his sight and consciousness during the wall strikes, and later tests found moderate to severe brain damage affecting memory and behavior. He was also sleep-deprived for up to 82 hours, doused with ice water, forced into painful stress positions, shaved against his will, and put on limited rations.\n\ud83d\udd34 The CIA compiled an official menu of authorized torture methods for al-Baluchi, while a Senate inquiry later exposed abuse at Cobalt \u2014 nakedness, mock executions, and more. Over 3 years, he was held in at least 5 black sites; a 2004 photograph captured him emaciated and naked, and he was transferred to Guantanamo in September 2006.\n\ud83d\udd34 Al-Baluchi has been held at Guantanamo since 2006, awaiting trial on charges related to the 9/11 attacks. For years, his defense team sought an independent medical evaluation due to the aftereffects of torture, including traumatic brain injury. An appellate court rejected their request to compel a formal assessment that could have paved the way for repatriation.\n\ud83d\udd34 In April 2025, Colonel Matthew N. McCall ruled al-Baluchi's 2007 confessions inadmissible, as they were obtained under torture. The prosecution lost a key piece of evidence, and its appeal, along with a judge change in late 2025, has further delayed the case, making a trial unlikely anytime soon.\n\ud83d\udd34 Al-Baluchi remains in Guantanamo, awaiting the next development in his legal case. His lawyers have raised serious concerns about his declining health. He has been diagnosed with a spinal tumor that requires emergency surgery, a procedure unavailable inside the prison, according to court filings.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-07T23:20:53+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
