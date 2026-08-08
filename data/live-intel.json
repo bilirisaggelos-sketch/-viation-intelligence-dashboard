@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T13:58:40.419058+00:00",
+  "generated_at": "2026-08-08T14:42:02.443525+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -374,13 +374,14 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
       "verified_sources": [
+        "Alsaa Plus EN",
         "Mediterranean Man",
         "Middle East Spectator"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 3
     },
     {
       "title": "Telegram",
@@ -651,6 +652,46 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddfe\ud83c\uddea\u26a1\ufe0f \u2014 Ansarullah forces are hitting Ma'rib with drones, intensifying the long-running campaign to seize the oil-rich province that has repeatedly slipped through their grasp, according to Reuters.\n\u27a1\ufe0f The drone offensive against PLC-held territory has been grinding on quietly while attention focused on the Red Sea. Taking Ma'rib would represent a decisive strategic victory, and the group is pressing hard to secure it.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-08T14:36:12+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8\u26a1\ufe0f \u2014 Iran's Supreme National Security Council:\nUntil America corrects its behavior, the Strait of Hormuz will not be opened. Correcting behavior means: never threatening Iran with any language or insulting the sanctities of this nation; permanently ending the war and aggression against Iran and its allies in Lebanon, Palestine, Yemen, and Iraq; lifting the naval blockade and withdrawing U.S. naval and air forces from the area surrounding Iran; paying damages for the two aggressive wars imposed against Iran; lifting the cruel and illegal sanctions against the Iranian nation; and releasing the frozen and stolen assets of the Iranian people unconditionally. These are the demands of the Iranian people who have been relentlessly present in the squares and streets for 160 days. The Supreme National Security Council will never back down \u2014 whether in war or in negotiations.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-08T14:30:38+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Mediterranean Man",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 3
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
       "text": "\ud83c\uddfa\ud83c\udde6\ud83c\udde9\ud83c\uddea\u26a1\ufe0f\ud83c\uddf7\ud83c\uddfaUkrainian soldiers have begun receiving new German Bundeswehr combat gear being introduced as part of Germany\u2019s major military modernization programme.\nThe equipment includes new combat shirts and trousers from Hexonia, part of the Bundeswehr\u2019s Kampfbekleidungssatz Streitkr\u00e4fte (KBS SK) modular combat-clothing system.\nThe wider system contains 100+ equipment items, including clothing, helmets, body armour and backpack systems, with Germany also upgrading individual ballistic protection under its MOBAST programme.\n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
@@ -726,25 +767,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf7 Drones & F15 shot's down by the Iranian Air defense's.\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-07T11:37:35+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Mediterranean Man",
       "text": "\u26a1\ud83c\uddee\ud83c\uddf7 In his full statement he lists the conditions of the following to reach an understanding\n\"1. Never threaten Iran with any language or insult the sanctities of this nation.\n2- End the war and aggression against Iran and its allies in Lebanon, Palestine, Yemen, and Iraq forever.\n3- Lift the naval blockade and withdraw your naval and air forces from around Iran.\n4- Pay the damages of the two wars of aggression and imposition on Iran without any reductions.\n5- Lift the cruel and illegal sanctions against the Iranian nation.\n6- Unconditionally release the frozen and stolen assets of the Iranian people.\nThese are the demands of the Iranian people, who have been shouting it relentlessly in the squares and streets for 160 days.\nThe Supreme National Security Council will never back down;\nWhether in war or in negotiation\nMuhammad Baqir Zulqader\"",
       "source": "Telegram",
@@ -755,13 +777,14 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
       "verified_sources": [
+        "Alsaa Plus EN",
         "Mediterranean Man",
         "Middle East Spectator"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 3
     },
     {
       "title": "Telegram",
