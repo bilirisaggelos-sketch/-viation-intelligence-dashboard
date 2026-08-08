@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T22:04:35.233403+00:00",
+  "generated_at": "2026-08-08T22:48:54.758781+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -384,6 +384,25 @@
     {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
+      "text": "\u2014 \ud83c\uddee\ud83c\uddf6/\ud83c\uddee\ud83c\uddf6/\ud83c\uddee\ud83c\uddf7 NEW: Iraqi security forces arrested 3 people and seized a shipment of Iranian drones and drone parts in Babil, likely belonging to the Islamic Resistance in Iraq",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-08T22:30:26+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
       "text": "\u2014 \ud83c\uddee\ud83c\uddf7 Iran\u2019s Supreme National Security Council:\n\u2018Until America corrects its behavior, the Strait of Hormuz will not be opened.\nCorrecting behavior means:\n1. Never threaten Iran with any language nor insult the sanctities of this nation.\n2. End the war and aggression against Iran and its allies in Lebanon, Palestine, Yemen, and Iraq permanently.\n3. Lift the naval blockade and withdraw U.S. naval and air forces from the area surrounding Iran.\n4. Pay the damages for the two aggressive wars imposed against Iran.\n5. Lift the cruel and illegal sanctions against the Iranian nation.\n6. Release the frozen and stolen assets of the Iranian people unconditionally.\nThese are the demands of the Iranian people who have been relentlessly present in the squares and streets for 160 days.\nThe Supreme National Security Council will never back down; whether in war or in negotiations.\u2018",
       "source": "Telegram",
       "source_type": "telegram",
@@ -393,14 +412,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "Alsaa Plus EN",
         "Mediterranean Man",
         "Middle East Spectator"
       ],
-      "verified_source_count": 3
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -480,22 +498,23 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\ud83c\uddf8\ud83c\udde6\ud83c\uddee\ud83c\uddf7\ud83c\uddee\ud83c\uddf6\ud83c\uddfe\ud83c\uddea\u26a1\ufe0f \u2014 A senior Saudi official told CNN that Saudi Arabia is preparing for possible coordinated attacks by Iran-backed Iraqi militias and the Houthis (Ansarallah), citing intelligence from Saudi Arabia, the U.S., and regional partners.\nThe plan involves coordination with Iran's IRGC and could include simultaneous attacks from the north and south using drones and missiles.\nThe official said the suspected targets are primarily civilian and economic infrastructure, including energy facilities, ports, and airports.\nSaudi Arabia has detected meetings involving Iraqi militia members, Houthis, and IRGC personnel, as well as the movement of weapons.",
+      "publisher": "Clash Report",
+      "text": "Greenland has issued a \u201cstrong warning\u201d to US-based Greenland Energy after the Trump-linked oil company brought drilling equipment ashore without approval.\nThe company hopes to drill for oil in Jameson Land, claiming the area could hold $1 trillion worth of crude. \nGreenland Energy still needs government permission, and the proposed drilling area may overlap protected wetlands.\nGreenland\u2019s government says the application remains under review.\nSource: The Guardian",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-07T00:10:13+00:00",
+      "timestamp": "2026-08-08T22:13:56+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "Middle East Spectator"
+        "Alsaa Plus EN",
+        "Clash Report"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -651,25 +670,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Zelensky:\nWe had no choice but to rebuild our own industry from scratch. \nAnd I believe that technologically, in drones and other areas, we were able to make such leaps because it was a question of survival.\nBut when it comes to air defense, unfortunately, you know, hundreds of air-defense systems that Ukraine had in the 1990s were sold off, and this continued into the 2000s.\nThese were Soviet systems, Soviet missiles \u2014 primarily S-300 air-defense systems.\nNevertheless, we began working with our partners, and we are also working on these systems ourselves.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-08T18:20:00+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Our Wars Today",
       "text": "[Russia dismisses German drone incident as 'fabricated provocation'](https://www.reuters.com/world/europe/russia-dismisses-german-drone-incident-fabricated-provocation-2026-08-07/)\nThe Russian embassy in Berlin dismissed a suspected drone attack at a major German air freight hub this week \u200bas \"fabricated provocation\" on Friday, saying it was another example \u200cof accusations against Russia without evidence. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://www.reuters.com/world/europe/russia-dismisses-german-drone-incident-fabricated-provocation-2026-08-07/)\nReuters | reuters\u200b.com \u2022 Aug 7, 2026",
       "source": "Telegram",
@@ -741,6 +741,64 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Our Wars Today"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddec\ud83c\uddf1\ud83c\uddfa\ud83c\uddf8\u26a1\ufe0f \u2014 Greenland has issued a \"strong warning\" to U.S.-based Greenland Energy after the Trump-linked oil company brought drilling equipment ashore without approval, according to The Guardian.\n\u27a1\ufe0f The company hopes to drill in Jameson Land, claiming the area could hold $1 trillion worth of crude. Greenland's government says the application remains under review and that the proposed drilling area may overlap protected wetlands. Greenland Energy still requires government permission to proceed.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-08T22:18:29+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Clash Report"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf1\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfa\u26a1\ufe0f \u2014 Israeli radars have been deployed in Ukraine for air defense purposes, with their primary goal being to intercept Russian missiles, according to Israeli media.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-08T22:13:27+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\udde6\u26a1\ufe0f \u2014 The U.S. has burned through years of missile stocks fighting Iran, with more than 1,500 Patriot interceptors expended in a war now past five months and fewer than 1,700 left in the entire inventory \u2014 a gap that could take over two years to refill, according to the New York Times.\n\u27a1\ufe0f To sustain operations against Iran, the Pentagon has stripped air defenses from Europe and Asia, pulling Tomahawks and destroyers meant for a potential Taiwan contingency into the Middle East. Ukraine is feeling the impact first: Zelensky says interceptor deliveries to Kyiv dropped threefold this year, and this week Ukraine failed to stop any of 28 Russian missiles, leaving 17 dead.\n\u27a1\ufe0f Russia and China are closely monitoring U.S. stockpiles via satellite and budget documents, with one analyst describing the depletion as a \"generational annihilation of the means of conventional deterrence.\" The White House insists there is no shortage, and Trump has launched a leak investigation, vowing to prosecute anyone discussing the figures. The reloading timeline runs to over two years \u2014 and America's adversaries, the report notes, are not known for their patience.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-08T22:11:56+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
       ],
       "verified_source_count": 1
     },
@@ -823,46 +881,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddfe\ud83c\uddea\u26a1\ufe0f \u2014 Ansarullah forces are hitting Ma'rib with drones, intensifying the long-running campaign to seize the oil-rich province that has repeatedly slipped through their grasp, according to Reuters.\n\u27a1\ufe0f The drone offensive against PLC-held territory has been grinding on quietly while attention focused on the Red Sea. Taking Ma'rib would represent a decisive strategic victory, and the group is pressing hard to secure it.\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-08T14:36:12+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8\u26a1\ufe0f \u2014 Iran's Supreme National Security Council:\nUntil America corrects its behavior, the Strait of Hormuz will not be opened. Correcting behavior means: never threatening Iran with any language or insulting the sanctities of this nation; permanently ending the war and aggression against Iran and its allies in Lebanon, Palestine, Yemen, and Iraq; lifting the naval blockade and withdrawing U.S. naval and air forces from the area surrounding Iran; paying damages for the two aggressive wars imposed against Iran; lifting the cruel and illegal sanctions against the Iranian nation; and releasing the frozen and stolen assets of the Iranian people unconditionally. These are the demands of the Iranian people who have been relentlessly present in the squares and streets for 160 days. The Supreme National Security Council will never back down \u2014 whether in war or in negotiations.\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-08T14:30:38+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Mediterranean Man",
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 3
-    },
-    {
-      "title": "Telegram",
       "publisher": "Mediterranean Man",
       "text": "\u26a1\ud83c\uddf1\ud83c\uddfb\ud83c\uddfa\ud83c\udde6\u2694\ufe0f\ud83c\uddf7\ud83c\uddfa\ud83c\udde7\ud83c\uddfe Latvia called for kidnapping or killing Putin and Lukashenko, just like Nicol\u00e1s Maduro and the Supreme Leader of Iran.\nJ\u0101nis Slaid\u012b\u0146\u0161, an officer of the National Armed Forces headquarters, stated that the presidents of Russia and Belarus should be \"gotten rid of\" in the same way as the leaders of Venezuela and Iran.\nJanis added at the end that he regrets that Zelensky has not yet made their assassination a goal.\n\"I'm not entirely sure about Latvia's capabilities, but it would be worth at least trying to do it.\"",
       "source": "Telegram",
@@ -912,14 +930,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "Alsaa Plus EN",
         "Mediterranean Man",
         "Middle East Spectator"
       ],
-      "verified_source_count": 3
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -1255,25 +1272,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-08T07:07:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udca5 Russian missiles demolish Ukrainian logistics in overnight attack\nStriking footage shows missiles pounding a major infrastructure hub in the Dnepropetrovsk region.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-08T04:05:15+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
