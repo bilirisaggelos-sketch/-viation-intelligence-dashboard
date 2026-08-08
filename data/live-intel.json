@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T16:41:36.704733+00:00",
+  "generated_at": "2026-08-08T17:14:38.217870+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -633,7 +633,7 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\udde9\ud83c\uddea\ud83c\udde7\ud83c\uddec\u26a1\ufe0f\ud83c\uddf7\ud83c\uddfa DRONE INCIDENTS RAISE FRESH SECURITY CONCERNS ACROSS EUROPE\nA drone entered Bulgarian airspace on Saturday and exploded near the Romanian border, close to the Trans-Balkan gas pipeline. No casualties or significant damage were reported.\n\ud83c\udde9\ud83c\uddea Meanwhile, German authorities discovered a drone carrying an explosive device near a Ukrainian aircraft at Leipzig/Halle Airport, with bomb-disposal specialists called in.\nThe incidents are adding to growing concerns over drone-related security threats across Europe amid the Russia\u2013Ukraine war.\n However, authorities have not established that Russia was responsible for either incident.\n\u26aa\ufe0f",
+      "text": "\ud83c\udde9\ud83c\uddea\ud83c\udde7\ud83c\uddec\u26a1\ufe0f\ud83c\uddf7\ud83c\uddfa DRONE INCIDENTS RAISE FRESH SECURITY CONCERNS ACROSS EUROPE\nA drone entered Bulgarian airspace on Saturday and exploded near the Romanian border, close to the Trans-Balkan gas pipeline. No casualties or significant damage were reported.\n\ud83c\udde9\ud83c\uddea Meanwhile, German authorities discovered a drone carrying an explosive device near a Ukrainian aircraft at Leipzig/Halle Airport, with bomb-disposal specialists called in.\nThe incidents are adding to growing concerns over drone-related security threats across Europe amid the Russia\u2013Ukraine war.\nHowever, authorities have not established that Russia was responsible for either incident.\n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
@@ -642,12 +642,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "Alsaa Plus EN"
+        "Alsaa Plus EN",
+        "Mediterranean Man"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -764,6 +765,26 @@
         "Alsaa Plus EN"
       ],
       "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddf4\ud83c\udde7\ud83c\uddecA Ukrainian MAYA decoy drone entered Bulgaria from Romania and crashed this morning in Kardam, near the border and less than 1 km from the Trans-Balkan gas pipeline. No injuries or damage are reported. \nThe Bulgarian government confirms that the aircraft was not detected by Romanian and Bulgarian radar. The Bulgarian Ministry of Defense rules out an intentional act.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-08T16:54:03+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
