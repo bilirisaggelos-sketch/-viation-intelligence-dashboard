@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T17:17:20.043689+00:00",
+  "generated_at": "2026-08-09T18:00:54.438709+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -463,6 +463,25 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
+      "text": "The U.S. is reportedly increasing pressure on Israel to wind down fighting across Gaza, Lebanon, and Iran.\nWashington wants Israel to scale back strikes, withdraw from additional positions in southern Lebanon, and advance the multinational-force plan in Gaza. \nIsrael is resisting some of these demands, with Netanyahu saying the IDF will continue acting against threats and that Israel will retain the option to strike Iran if it resumes nuclear or ballistic-missile development.\nSource: Israeli Channel 13",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-09T17:49:27+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
       "text": "Iranian President Masoud Pezeshkian:\nOur communication with regional countries is improving\u2014compared to the past, and certainly compared to the height of the war, as relations were very good before.\nPakistan is now cooperating with all its heart. Afghanistan\u2019s cooperation is very good. Turkmenistan is good. Azerbaijan had closed all routes and shut down our bank... \nWe called and spoke with them; after a two-hour conversation, they reopened it. The bank, the embassy, and the routes were all reopened. \nDuring the war, they helped us significantly with various routes\u2014whether for Russia\u2019s [supplies] or their own\u2014they accompanied and assisted us with whatever we needed. Iraq is the same.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -701,13 +720,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
-        "Geopolitics Prime"
+        "Alsaa Plus EN"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -808,25 +826,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\udde6\u26a1\ufe0f \u2014 The U.S. has burned through years of missile stocks fighting Iran, with more than 1,500 Patriot interceptors expended in a war now past five months and fewer than 1,700 left in the entire inventory \u2014 a gap that could take over two years to refill, according to the New York Times.\n\u27a1\ufe0f To sustain operations against Iran, the Pentagon has stripped air defenses from Europe and Asia, pulling Tomahawks and destroyers meant for a potential Taiwan contingency into the Middle East. Ukraine is feeling the impact first: Zelensky says interceptor deliveries to Kyiv dropped threefold this year, and this week Ukraine failed to stop any of 28 Russian missiles, leaving 17 dead.\n\u27a1\ufe0f Russia and China are closely monitoring U.S. stockpiles via satellite and budget documents, with one analyst describing the depletion as a \"generational annihilation of the means of conventional deterrence.\" The White House insists there is no shortage, and Trump has launched a leak investigation, vowing to prosecute anyone discussing the figures. The reloading timeline runs to over two years \u2014 and America's adversaries, the report notes, are not known for their patience.\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-08T22:11:56+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Mediterranean Man",
       "text": "\u26a1\ufe0f\ud83c\uddeb\ud83c\uddf7 The Dassault Rafale, France's twin-engine 4.5-generation fighter was built to handle every combat aviation mission from a single airframe. Born from France's 1985 exit from a multinational fighter program over design disagreements, the jet emerged through the Avion de Combat Experimental effort, first flying in 1986 and entering service with the Navy in 2004 and the Air Force in 2006.\nThe aircraft replaced seven legacy platforms, simplifying training and logistics while becoming one of France's leading defense exports. Its canard-delta wing and fly-by-wire controls deliver strong agility, while the SPECTRA electronic warfare suite integrates jamming, radar warning and decoy systems for survivability in contested airspace.\nDespite that reputation, questions arose after a French lawmaker challenged SPECTRA's performance following a missile-detection failure during the 2025 India-Pakistan conflict. The Rafale also lacks true stealth, relying instead on electronic warfare and tactics rather than low observability.\nEven so, export orders continue from Qatar, Egypt, India, Greece, and others, and planned F5 upgrades aim to keep it relevant alongside France's future air combat systems well past 2060.",
       "source": "Telegram",
@@ -901,25 +900,6 @@
         "Middle East Spectator"
       ],
       "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddf2\ud83c\uddf1 JNIM forces have captured a Malian Armed Forces camp in San, Southern Mali, a deeper attack relative to their usual activity in Northern Mali.\nIt's worth noting that the russian Africa Corps is still conducting daily drone operations against JNIM forces.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-09T11:48:57+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -1000,6 +980,25 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddf7\ud83c\uddfa\ud83d\udca3 From shotguns to metal rods: How Russia downs Ukrainian drones with whatever works\nWith Ukraine desperately trying to win in drone warfare, Russian troops have turned the tables with simple and reliable counter-tactics, sometimes turning improvisation into a destruction skill.\nHere's how they're doing it:\n1\ufe0f\u20e3 Assault rifles: A viral night\u2011combat video shows a group of Russian soldiers firing AK assault rifles at an incoming Ukrainian FPV drone\u2014and actually bringing it down.\n2\ufe0f\u20e3 Shotguns: In a helmet-cam video, a Russian soldier is seen using apparently an MP\u2011155 shotgun to hit a suicide drone\u2014detonating its payload safely in mid\u2011air before it can reach its target.\n3\ufe0f\u20e3 Metal rods: In one of the attacks, a Russian FPV drone took out a Ukrainian UAV using nothing but metal rods\u2014no explosives and maximum efficiency.\n4\ufe0f\u20e3 Propellers: Ukrainian fiber-optic drones are immune to radio jamming\u2014but Russian operators found an even smarter workaround: they hunt them down and sever the cable with their own propellers, disabling the enemy without losing a single drone.\n5\ufe0f\u20e3 A sack of potatoes or a duffel bag: A Russian soldier managed to shoot down a Ukrainian FPV drone by throwing a heavy sack (reported by several sources as a sack of potatoes) at it. The impact damaged the propellers, causing the UAV to detonate a few meters away, while the soldier escaped with only minor burns.\n6\ufe0f\u20e3 A tree branch or stick: Footage shows Russian servicemen swatting an enemy drone out of the sky with a single precise blow from a wooden stick or tree branch. In another clip, a Russian soldier stands among bare trees, calmly deflecting an FPV drone with a stick and sending it crashing to the ground.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+tltgWD-GUqw0OTAy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-09T17:22:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
       "text": "\ud83c\udde8\ud83c\uddf4\ud83c\uddee\ud83c\uddf1 Colombia-Israel reset: reviving a partnership forged in blood and impunity\nFreshly inaugurated Colombian President Abelardo de la Espriella is wasting no time taking Bogota back to familiar territory.\nBreaking with his predecessor Gustavo Petro, who shredded diplomatic relations with Israel, Espriella plans to restore them, move Colombia\u2019s embassy to Jerusalem, pull out of South Africa\u2019s genocide case at the ICJ, and expand trade, technology, security and defense cooperation.\nDisappointing? Sure. Surprising? Not really.\nHistorically, Petro was the exception. Colombia and Israel built decades of close security ties, against the backdrop of Colombia\u2019s exceptionally bloody internal conflict. This included:\n\ud83d\udc49 massive formal defense ties, with Israel selling Colombia everything from small arms (Galil rifles, Uzi submachineguns) to Kfir jets, MX missiles, ATMOS artillery, Spike ATGMs and drones. From the 80s on, Israel consistently ranked the second biggest supplier of arms to Colombia after the US, reaching nearly 40% of all purchases by the mid-2010s\n\ud83d\udc49 Israeli training of Colombian army personnel and special forces, as well as far-right paramilitaries, complimented by the Defense Ministry\u2019s hiring of Israeli consultancies like Global CST to track and target FARC guerrillas\n\ud83d\udc49 IDF-linked operators like Yair Klein providing training to death squads and drug cartels, including Medellin, teaching recruits the basics of drive-by shootings, bombings, snipings and door-to-door killing. Linked to the CIA and Colombian intel, these groups would engage in the systematic murder of entire towns and villages, including Segovia (1988), Mapiripan (1997) and El Salado (2000), involving torture, beheadings, shootings, chainsaw hackings and rapes, including of women and children\n\ud83d\udc49 Israeli arms smuggling to paramilitaries and cartels, including guns used in the 1989 assassination of Liberal Party presidential candidate Luis Carlos Galan (see: the Antigua Affair)\n\ud83d\udc49 Intel collaboration, including the hiring of Mossad agent-turned-merc Rafael Eitan as security advisor by the Barco government in the 80s to eradicate FARC. Eitan\u2019s advice? The systematic murder of members of the Patriotic Union \u2013 a FARC-linked party looking to institutionalize the Left in Colombian politics to end the civil war. From 1984-2016, 5,733 members of the party were killed or forcibly disappeared, per Colombia\u2019s Special Jurisdiction for Peace\n\ud83d\udc49 Heavy Israeli involvement in the training and arming of Carlos Castano Gil\u2019s AUC paramilitaries, who are estimated to have killed nearly 100k civilians. Castano was personally trained in Israel in 1983-84. His forces would eventually account for ~40% of Colombia\u2019s illegal drug exports, and enjoy operational and financial support from the state, wealthy landowners (including president and Espriella ally Alvaro Uribe) and foreign multinationals like Coca-Cola and Chiquita\nIn other words, Espriella\u2019s Israel reset is less a dramatic new beginning than a return to an old playbook.\nAnd Washington appears delighted: Espriella had barely taken office before the Trump administration announced $1B in security assistance to his government.\nColombia and its right-wing governments, death squads and [drug cartels ](https://t.me/geopolitics_prime/69321)is just one of the instability-hit countries of Latin America [where Israel has been heavily invested. ](https://t.me/geopolitics_prime/71363)Others include Argentina ($1B+ in arms sales to the junta between 1976-1983), Guatemala (support for the counterinsurgency targeting of indigenous communities), Nicaragua (first Somoza, then the Contras), El Salvador, Pinochet\u2019s Chile and Paraguay.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+tltgWD-GUqw0OTAy) |",
       "source": "Telegram",
       "source_type": "telegram",
@@ -1067,13 +1066,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
         "Geopolitics Prime"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -1114,25 +1112,6 @@
         "Middle East Spectator"
       ],
       "verified_source_count": 3
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udca3 Massive Russian strike pounds Odessa \u2014 not a single missile intercepted\nRussian forces launched a huge attack on Odessa and the region overnight. Over 70 drones and around 20 missiles \u2014 including Iskander, Onyx, and Zircon, \u2014 were fired in just two hours.\nUkraine's Air Force admitted: not a single missile was intercepted. By morning, smoke covered the city.\nWhat was hit:\n\ud83c\udf0f The road bridge in Mayaky \u2014 the last direct land route connecting central Odessa to the south and the Danube ports. After the Zatoka bridge was knocked out, Mayaky became the only route that didn't require crossing through other countries' territory. Now it's hit too.\n\ud83c\udf0f Water supply was cut across much of the city after power to pumping stations was knocked out.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+tltgWD-GUqw0OTAy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-09T07:55:25+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
     },
     {
       "title": "Telegram",
