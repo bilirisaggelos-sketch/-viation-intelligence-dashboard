@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T21:53:43.449151+00:00",
+  "generated_at": "2026-08-09T22:38:26.840037+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -413,13 +413,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Geopolitics Prime",
         "Middle East Spectator"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -437,6 +436,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Iranian air defenses reportedly shot down an unidentified UAV over Sirik near the Strait of Hormuz.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-09T22:05:38+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
       ],
       "verified_source_count": 1
     },
@@ -488,25 +506,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-09T17:49:27+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Iranian President Masoud Pezeshkian:\nOur communication with regional countries is improving\u2014compared to the past, and certainly compared to the height of the war, as relations were very good before.\nPakistan is now cooperating with all its heart. Afghanistan\u2019s cooperation is very good. Turkmenistan is good. Azerbaijan had closed all routes and shut down our bank... \nWe called and spoke with them; after a two-hour conversation, they reopened it. The bank, the embassy, and the routes were all reopened. \nDuring the war, they helped us significantly with various routes\u2014whether for Russia\u2019s [supplies] or their own\u2014they accompanied and assisted us with whatever we needed. Iraq is the same.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-09T16:35:10+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -624,12 +623,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "Alsaa Plus EN"
+        "Alsaa Plus EN",
+        "Mediterranean Man"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -673,6 +673,26 @@
     {
       "title": "Telegram",
       "publisher": "Mediterranean Man",
+      "text": "\u26a1\ud83c\uddee\ud83c\uddf7 Reports of interceptions of two hostile drones in the airspace over southern Iran.\n-Iranian media stated that The drone that was shot down in the southern region is not American, but rather a Chinese-made drone.\n-This drone was owned and operated by the Royal Saudi Air Force (RSAF).\n-It is still unclear if Saudia actually launched this drone, if it is true, it'll be a big escalation of events between the two countries.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-09T21:54:08+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
       "text": "\u26a1\ud83c\uddfe\ud83c\uddea\ud83c\uddf8\ud83c\udde6 More visuals of missiles being launched at saudi targets",
       "source": "Telegram",
       "source_type": "telegram",
@@ -698,44 +718,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-09T20:59:12+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ufe0f\ud83c\uddeb\ud83c\uddf7 The Dassault Rafale, France's twin-engine 4.5-generation fighter was built to handle every combat aviation mission from a single airframe. Born from France's 1985 exit from a multinational fighter program over design disagreements, the jet emerged through the Avion de Combat Experimental effort, first flying in 1986 and entering service with the Navy in 2004 and the Air Force in 2006.\nThe aircraft replaced seven legacy platforms, simplifying training and logistics while becoming one of France's leading defense exports. Its canard-delta wing and fly-by-wire controls deliver strong agility, while the SPECTRA electronic warfare suite integrates jamming, radar warning and decoy systems for survivability in contested airspace.\nDespite that reputation, questions arose after a French lawmaker challenged SPECTRA's performance following a missile-detection failure during the 2025 India-Pakistan conflict. The Rafale also lacks true stealth, relying instead on electronic warfare and tactics rather than low observability.\nEven so, export orders continue from Qatar, Egypt, India, Greece, and others, and planned F5 upgrades aim to keep it relevant alongside France's future air combat systems well past 2060.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-09T16:10:03+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8 Firestorm Labs 3D-printed thousands of unique parts aboard the USS Essex while the amphibious assault ship pitched through Sea State 5 conditions en route to the RIMPAC exercise near Hawaii. Crews described the seas as the roughest off the California coast in five years. \nThe company relied on its xCell unit, a pair of 20-foot containers built for shipboard and field deployment, paired with HP's multi-jet fusion printing technology to keep production running despite the rough conditions.\nOutput ranged across the spectrum of military needs: protective stops to keep Apache helicopter rotors from scraping the ship's deck coating, prosthetics, and a dozen Squall first-person-view drones later flown as adversary aircraft during a counter-drone exercise.\nCEO Dan Magy framed the demo as proof of a contested logistics solution, noting many legacy systems lack reliable supply chains in forward locations like Okinawa or Bahrain. Field operations manager Duane Blank added that the real value is iterating and delivering parts at the point of need.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-09T15:45:15+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -974,26 +956,6 @@
         "Geopolitics Prime"
       ],
       "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udd25Houthis: Yeah, that Aramco fire was us\nSaudi Arabia reported a fire at [the Jazan refinery](https://t.me/geopolitics_prime/73233). The Houthis say it was caused by one of their drones.\nThey say the strike was retaliation for Saudi UAVs violating Yemeni airspace over Saada and Hajjah.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+tltgWD-GUqw0OTAy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-09T09:41:37+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Geopolitics Prime",
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 2
     },
     {
       "title": "Telegram",
