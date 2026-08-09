@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T13:32:28.137788+00:00",
+  "generated_at": "2026-08-09T14:20:29.576014+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -230,6 +230,25 @@
       "verified_source_count": 1
     },
     {
+      "title": "Space Weather Message Code: WATA20\r",
+      "text": "Space Weather Message Code: WATA20\r\nSerial Number: 1119\r\nIssue Time: 2026 Aug 09 1338 UTC\r\n\r\nWATCH: Geomagnetic Storm Category G1 Predicted \nHighest Storm Level Predicted by Day:\nAug 10: None (Below G1) Aug 11: None (Below G1) Aug 12: G1 (Minor) \nTHIS SUPERSEDES ANY/ALL PRIOR WATCHES IN EFFECT\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-08-09 13:38:09.543",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
       "title": "Space Weather Message Code: ALTK06\r",
       "text": "Space Weather Message Code: ALTK06\r\nSerial Number: 725\r\nIssue Time: 2026 Aug 08 2108 UTC\r\n\r\nALERT: Geomagnetic K-index of 6 \nThreshold Reached: 2026 Aug 08 2100 UTC\nSynoptic Period: 1800-2100\nActive Warning: YES\nNoaa Scale: G2 - Moderate\nComment: Corrected for synoptic period\nCORRECTED\r\n\r\nNOAA Scale: G2 - Moderate\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 55 degrees Geomagnetic Latitude.\r\nInduced Currents - Power grid fluctuations can occur. High-latitude power systems may experience voltage alarms.\r\nSpacecraft - Satellite orientation irregularities may occur; increased drag on low Earth-orbit satellites is possible.\r\nRadio - HF (high frequency) radio propagation can fade at higher latitudes.\r\nAurora - Aurora may be seen as low as New York to Wisconsin to Washington state.",
       "source": "NOAA Space Weather",
@@ -295,25 +314,6 @@
       "severity": "warning",
       "icon": "\ud83d\udef0\ufe0f",
       "timestamp": "2026-08-08 20:30:53.493",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Space Weather Message Code: WARK05\r",
-      "text": "Space Weather Message Code: WARK05\r\nSerial Number: 2258\r\nIssue Time: 2026 Aug 08 2029 UTC\r\n\r\nEXTENDED WARNING: Geomagnetic K-index of 5 expected\nExtension to Serial Number: 2257\nValid From: 2026 Aug 08 1222 UTC\nNow Valid Until: 2026 Aug 08 2359 UTC\nWarning Condition: Persistence\n\r\n\r\nNOAA Scale: G1 - Minor\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-08-08 20:29:48.177",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -444,6 +444,25 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
+      "text": "Netanyahu Rejects Trump Proposal to Disarm Hamas in Gaza\nIsraeli Prime Minister Benjamin Netanyahu has explicitly rejected a 15-point Gaza peace plan backed by the Trump administration, which envisioned a phased Israeli military withdrawal.\n[READ MORE](https://clashreport.com/world/articles/netanyahu-rejects-trump-proposal-to-disarm-hamas-in-gaza-aeu47spnvo)",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-09T14:17:41+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
       "text": "After 18 months of negotiations, Syria and Russia have reached an agreement on the future of the Russian presence at Hmeimim and Tartous.\nUnder the memorandum, civilian facilities\u2014including Hmeimim Airport and Tartous Port\u2019s fourth commercial berth\u2014will gradually return to Syrian state management. \nMilitary facilities will be restructured into joint Syrian-Russian training centers rather than operating as traditional military bases.\nThe transition is expected to be completed within three months.\nSource: SANA",
       "source": "Telegram",
       "source_type": "telegram",
@@ -462,42 +481,22 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "\ud83d\udcf8 Russian NADEZHDA Ro-Ro vessel in Samsun, T\u00fcrkiye, following a Ukrainian drone attack in the Black Sea.",
+      "publisher": "Our Wars Today",
+      "text": "\ud83c\uddee\ud83c\uddf1 \ud83c\uddfa\ud83c\uddf8 \ud83c\uddf5\ud83c\uddf8 #BREAKING #Netanyahu Rejects #Trump \"Board of Peace\" Plan To End #Israel's Gaza Genocide, Vows Against Any Form Of #Palestine Statehood, Denying Human Right Of Self-Determination: \nhttps://ground.news/article/israeli-prime-minister-benjamin-netanyahu-rejects-trumps-board-of-peace-plan-for-gaza?utm_source=ourwarstoday&utm_medium=pap-link#a_aid=ourwarstoday\nMore Coverage: T.me/ourwarstoday \n---\n24/7 LIVE News RSS feed: t.me/ournewsfeedtoday\n---\nFootage: t.me/ourwars\n---\nSupport OWT: https://ko-fi.com/ourwarstoday",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-09T09:15:15+00:00",
+      "timestamp": "2026-08-09T13:36:56+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Clash Report"
+        "Our Wars Today"
       ],
       "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Houthis launched ballistic missiles and drones at Yemen\u2019s Al-Mukha Port, causing fires and heavy smoke. \nReports indicate strikes inside the port, potentially targeting Saudi-backed military logistics.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-09T09:09:58+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Clash Report",
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -888,6 +887,25 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddf8\ud83c\udde6\ud83e\udd14 Houthis forcing Saudis into no-win dilemma\n\u00a0\nThe July 13 attack on Sanaa\u2019s international airport by either the Saudis or their Aden-based puppet government allies triggered the biggest surge in regional tensions since the 2022 truce, with Ansar Allah declaring a maritime embargo against Saudi oil exports, attacking the kingdom\u2019s refineries at Jizan and Yanbu, and fending off Saudi strikes in Hodeidah, Jawf and Kamaran Island.\nTensions escalated again this week after the Houthis hit puppet government forces preparing an offensive in Marib and Hadramout using missiles and drones, killing at least 58 enemy troops.\n\ud83d\udc49 The UN\u2019s special Yemen envoy warned Friday that Yemen now \u201cfaces a greater risk of renewed large-scale conflict than at any point since the UN-brokered truce,\u201d and urged \u201cmaximum restraint,\u201d talks and a halt to \u201cactions that encourage military retaliation.\u201d\nThe problem? While the UN wants dialogue between the Houthis in Sanaa and the \u201cinternationally recognized\u201d Aden government, the latter is so weak it would collapse under the weight of internal divisions if not for generous foreign backing.\nRiyadh provides 60-70% of Aden's operational budget, a $3B lifeline for civil and military salaries, and billions in cash and loans to prop up the rial. Aden also controls the oil and gas-rich regions of Shabwa and Mahra - containing almost the entirety of Yemen's energy reserves.\n\ud83e\ude96 The Houthis, by comparison, are resource poor, but masters of tribal alliances, capitalizing on anti-imperialist sentiments after the start of Saudi bombings in 2015, and standing alone in the Arabian Peninsula in support of Palestine since 2023.\nHouthi-led Yemen is currently home to 70-80% of the country\u2019s population, fortifying itself in the country\u2019s northwest. The Saudi-led government absorbed the UAE-backed Southern Transitional Council in early 2026, unifying anti-Houthi forces for the first time since 2019.\n\u00a0\n\ud83d\udc41 The Houthis\u2019 secret weapon?\n\u00a0\nZaydi Shiism has a thousand-year tradition of resistance and local self-rule. From the Ayyubids and Mamluks to the Ottomans and the British, no outside power ever managed to permanently subdue what is now western Yemen. Even before the rise of Islam, the Houthis\u2019 predecessors successfully fought off Ancient Egyptians and Roman legionnaires.\nIn the modern era, Houthis managed to checkmate not only the Saudi-led coalition (which at its height included Saudi Arabia, the UAE, Bahrain, Kuwait, Egypt, Jordan, Sudan and Morocco, with US and British logistical and arms support) but two separate US naval and air armadas trying to put a stop to their blockade of the Red Sea to Israeli shipping.\n\ud83d\udccc Saudi Arabia is now building a new \u2018maritime defense coalition\u2019, inviting 50 countries, and evoking interest from Turkey, Egypt, Pakistan, Nigeria and Qatar, among others.\nNone have confirmed willingness to deploy actual military forces. Given the humiliating [US track record](https://t.me/geopolitics_prime/68197), good luck to them[ if they ever do.](https://t.me/geopolitics_prime/60702)\nThe Houthi blockade of Saudi Red Sea oil shipments could expand to all of Riyadh\u2019s new allies, finish off a global energy market already pummelled by the Iran and NATO-Russia proxy wars, and trigger unrest among their populations \u2013 indignant to the fact that their self-proclaimed Muslim governments are attacking one of the only forces in the region to stand up to the US and Israel.\nRiyadh\u2019s other option? Admit that the Houthi regime change operation hasn\u2019t worked and can\u2019t work, and finally normalize relations with Yemen.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+tltgWD-GUqw0OTAy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-09T14:12:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
       "text": "\ud83d\udea8 Houthis launch massive strike on Saudi forces in Yemen \u2014 \"siege for siege, escalation for escalation\"\nYemen's Ansar Allah movement has carried out a large-scale attack on Saudi military positions and weapons depots in the port city of Mokha, using a significant number of missiles and drones.\nThe Houthis claim to have destroyed military equipment and inflicted casualties on Saudi forces, vowing to continue tracking Saudi movements under the principle: \"siege for siege, escalation for escalation.\"\n\ud83d\udc49 Pro-government media reported around 20 drone strikes on Mokha, causing severe damage to civilian infrastructure.\nJust days after Saudi Arabia signed the [\"Mecca Pact\"](https://t.me/geopolitics_prime/73191) with Turkey and Pakistan, the Houthis are testing whether Riyadh's new allies will actually show up \u2014 or just sign papers.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+tltgWD-GUqw0OTAy) |",
       "source": "Telegram",
       "source_type": "telegram",
@@ -897,13 +915,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Clash Report",
         "Geopolitics Prime"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -981,25 +998,6 @@
         "Geopolitics Prime"
       ],
       "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\udfe5US may be seeking an off-ramp with Iran; Israel keeps three reasons to bomb\nAs Washington searches for a way out of the Iran war, Israel is making clear that diplomacy does not necessarily mean the bombing stops. CNN reports that Joint Chiefs Chairman Gen. Dan Caine has been privately urging senior Trump officials to find an \"off-ramp\", warning about the limits of airpower and the risks of further escalation.\nAgainst that backdrop, Channel 13 has reported that Israel is keeping independent military options ready if a new arrangement with Tehran does not go its way:\n\u27a1\ufe0f If Iran is accused of violating a new agreement, Israel could launch strikes on its own.\n\u27a1\ufe0f Iran rebuilds missiles? The strike option stays open.\n\u27a1\ufe0f Iran strengthens its regional allies? You guessed it: the strike option stays open.\nIn other words, the US may be looking for an off-ramp, while Israel is making sure it still has a hammer ready for any outcome it dislikes.\nIran, meanwhile, is attaching its own price tag to de-escalation. Officials said Saturday that the Strait of Hormuz \u2013 a part of any settlement with the US \u2013 will not fully reopen simply because Iran and Oman reach a shipping deal.\n\ud83d\udd34Foreign Minister Abbas Araghchi said full reopening depends on the US compensating Iran for violations of the Islamabad agreement. \n\ud83d\udd34The IRGC stated the US must first accept Iran\u2019s conditions, while security chief Mohammad Baqer Zolqadr has demanded an end to threats and attacks, sanctions relief, the release of frozen assets, US military pullback around Iran and compensation for war damage.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-08T23:43:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
     },
     {
       "title": "Telegram",
