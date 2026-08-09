@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T00:34:48.331668+00:00",
+  "generated_at": "2026-08-09T02:52:47.322179+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -854,12 +854,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "Alsaa Plus EN"
+        "Alsaa Plus EN",
+        "Geopolitics Prime"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -941,12 +942,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddfe\ud83c\uddea Yemen\u2019s Presidential Leadership Council-affiliated Defense Ministry says its forces launched military attacks against the Houthis across multiple fronts in response to Houthi ballistic missile and drone attacks on Marib and Hadhramaut that the ministry says killed several PLC soldiers. \nThe ministry warned that any further Houthi attacks on its forces will be met with a military response.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\udde7\ud83c\uddec [France 24](https://www.france24.com/en/live-news/20260808-ukraine-denies-targeting-bulgaria-as-drone-explodes-near-pipeline):\u2060 Ukraine denied targeting Bulgaria after a drone exploded near a pipeline on Bulgarian territory.\nBulgarian authorities launched an investigation into the incident, which occurred near critical energy infrastructure.\nKyiv rejected suggestions that it was responsible for the drone, as authorities work to establish its origin and circumstances surrounding the explosion.\n\ud83d\udca7 [Rainbet.com](https://www.rainbet.com/) the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-08T04:39:46+00:00",
+      "timestamp": "2026-08-09T02:25:51+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -960,12 +961,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfa\ud83c\uddf0\ud83c\uddff [Bloomberg](https://www.bloomberg.com/news/articles/2026-08-08/us-says-ukraine-to-avoid-targeting-tankers-black-sea-oil-site): Ukraine has agreed not to target certain oil tankers and infrastructure linked to Kazakhstan\u2019s crude exports through the Black Sea. \nThe agreement covers vessels that are not sanctioned by Ukraine, do not carry Russian cargo, and are not owned by Russian individuals or entities. The deal could help restore shipments through the Caspian Pipeline Consortium terminal near Novorossiysk, after recent Ukrainian drone attacks disrupted oil loadings.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "Ahmed Faisal Rafaat Abu Marzouq, killed in a Rafah strike, was a Hamas member, per an obituary the group published today.\nIn Feb. 2024, the Irish Times profiled an Irish-based surgeon whose brother died when \"an Israeli bomb hit a refugee camp in Rafah.\" That brother was Abu Marzouq.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-08T04:39:38+00:00",
+      "timestamp": "2026-08-09T02:23:56+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -979,12 +980,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6 Russian Geran drones have reportedly struck a major logistics center in Ukraine\u2019s Dnipropetrovsk region.\n\ud83d\udca7 [Rainbet.com](https://www.rainbet.com/) the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "President Zelensky says a decision has been made for 30,000 to 50,000 North Koreans to be deployed in Russia, where he warns they are gaining experience in modern warfare. He said Ukraine has already found North Korean missiles on its territory and expects Pyongyang to receive licenses and military tools from Moscow. Zelensky urged South Korea to deepen cooperation with Ukraine, particularly on air defense, and said Kyiv is ready to work with Seoul on a potential Drone Deal.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-08T04:38:55+00:00",
+      "timestamp": "2026-08-09T02:19:56+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -998,12 +999,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfa Four Russian jet-powered UAV impacted Brovary, east of the Ukrainian capital Kyiv.\n\ud83d\udca7 [Rainbet.com](https://www.rainbet.com/) the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "A Russian D-20 howitzer and the vehicle towing it went up together. Drone pilots from Ukraine's 26th Artillery Brigade struck both targets, taking the gun out of action.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-08T04:38:52+00:00",
+      "timestamp": "2026-08-09T02:19:31+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -1017,12 +1018,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddea\ud83c\uddfa\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6 The European Union has added five individuals to its Russia sanctions list following Moscow\u2019s intensified strikes deliberately targeting civilians and civilian infrastructure in Ukraine, including a deadly barrage on Kyiv this week that killed 17. \nThose listed include Ramil Badgutdinov, head of a company producing components for Iskander\u2011M ballistic missiles, and Aleksandr Dyukarev, head of the KrasMash plant that produces Sarmat missiles. The remaining three are directors of Russian defence companies involved in communications systems and military UAV software. \n\u201cWith its army stalled on the battlefield, Moscow is further escalating its campaign of terror against civilians,\u201d said EU foreign policy chief Kaja Kallas. \u201cThe EU must continue to intensify pressure on Russia until Moscow ends its war.\u201d \n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "The NADEZHDA Ro-Ro vessel has reached Samsun after a Ukrainian drone attack in the Black Sea. The ship is now docked, with major damage visible across its deck.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-08T04:37:01+00:00",
+      "timestamp": "2026-08-09T02:19:14+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -1036,12 +1037,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddfe\ud83c\uddea\ud83c\uddfe\ud83c\uddea The Houthis attacked the city of Marib, Yemen, this morning with drones and missiles.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "\u2757\ufe0fA drone crossed Romania before exploding just 100 meters inside Bulgaria near the Trans-Balkan gas pipeline, AP reports. No casualties or building damage were reported, and its origin remains unknown. Bulgaria will reinforce anti-drone defenses on its Romanian border and raise the incident with NATO.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-08T04:32:52+00:00",
+      "timestamp": "2026-08-09T02:19:07+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -1055,12 +1056,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfa During last night\u2019s attacks, Ukrainian long range drones struck a Wildberries facility in Yekaterinburg, a distance of nearly 2,000 kilometers from the front lines.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "Packed with supply trucks, a Russian logistics park in occupied Luhansk was destroyed after Ukrainian drone strikes. The vehicles were used to move goods to Russian troops.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-08T04:32:44+00:00",
+      "timestamp": "2026-08-09T02:18:58+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -1073,80 +1074,23 @@
     },
     {
       "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfa [Reuters](https://www.reuters.com/world/ukrainian-attacks-wildberries-strike-heart-russia-inc-2026-08-07/): Ukrainian drone attacks on Russia\u2019s largest e-commerce retailer, Wildberries, have damaged or destroyed at least 1.18 million square meters of warehouse space, more than one-fifth of its total capacity. \nThe strikes have severely disrupted deliveries and businesses across Russia, with more than 3,100 Wildberries pickup points now listed for sale and some operators reporting sales drops of around 50%. \nKyiv says the campaign aims to \u201cbring the war home\u201d and increase the economic cost of the conflict for Russia, while Moscow warns the disruption could trigger bankruptcies across the retail sector. \n\ud83d\udca7 [Rainbet.com](https://www.rainbet.com/) the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udcb8 Sovereignty for sale: US offers Lebanon $200 million to sideline Hezbollah\nA bipartisan group of US senators has introduced legislation that would authorize $200 million annually in security assistance to Lebanon's armed forces, tying the aid to progress in countering Hezbollah, Bloomberg reports.\nThe bill would also impose sanctions on foreign entities that support the group, aiming to help Lebanon \"reclaim its sovereignty\" and break free from Iranian influence.\nYet Hezbollah seems not so easy to sidestep as the US expects.\n\u2666\ufe0f The group survived a devastating 2024 pager attack and the assassination of its leader Hassan Nasrallah \u2013 only to bounce back and rejoin the fight against Israel\n\u2666\ufe0f Israeli forces are now trapped in southern Lebanon, with Hezbollah grinding through heavy armor using cheap FPV drones \u2013 a far cry from the swift victory Netanyahu's advisors had envisioned\nLebanon's government is weak, its economy is shattered, and Hezbollah is deeply embedded in the state \u2013 providing social services, running schools, and operating hospitals in areas where the state has long been absent. Many locals view it as the only capable defender from Israeli attacks amid government paralysis.\nReplacing Hezbollah's social network, built over decades, with US-funded projects is a gamble. The US may be offering money, but the group is offering resilience \u2013 something that cannot be easily bought off.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+tltgWD-GUqw0OTAy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-08T04:32:38+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "Ukrainian \"Darts\" kamikaze drones are destroying a large amount of Russian logistical equipment, fuel tankers, and power substations near Donetsk.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-08T04:23:23+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "Several strikes with Lancet and Geran-4 seeker drones against Ukrainian cargo ships in Odesa ports and Black Sea.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-08T04:23:16+00:00",
+      "timestamp": "2026-08-09T01:23:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "PARTIALLY VERIFIED",
       "verification_confidence": 65,
       "verified_sources": [
-        "CASELS",
+        "Alsaa Plus EN",
         "Geopolitics Prime"
       ],
       "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "#Sudan \ud83c\uddf8\ud83c\udde9: Sudanese Forces have captured various weapons from Rapid Support Forces (#RSF).\nAmong the weapons two uncommon Yugoslav 90mm M79 \u201cOsa\u201d rocket launcher can be seen as well.\nhttps://x.com/i/status/2085713472860414027",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-08T04:18:58+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -1255,13 +1199,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "CASELS",
         "Geopolitics Prime"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
