@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T07:35:59.075398+00:00",
+  "generated_at": "2026-08-09T08:24:34.401801+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -397,10 +397,11 @@
       "verification_confidence": 90,
       "verified_sources": [
         "Alsaa Plus EN",
+        "Clash Report",
         "Mediterranean Man",
         "Middle East Spectator"
       ],
-      "verified_source_count": 3
+      "verified_source_count": 4
     },
     {
       "title": "Telegram",
@@ -497,6 +498,47 @@
         "Middle East Spectator"
       ],
       "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Ukraine launched a major drone attack on Russia\u2019s Belgorod overnight, with dozens of drones causing explosions, fires, and damage to apartment buildings.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-09T08:15:03+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Yemen\u2019s Houthis say they targeted the Aramco refinery in Jizan, Saudi Arabia, with a drone.\nThey said the attack came in response to Saudi drone incursions into the airspace of the Saada and Hajjah governorates.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-09T08:14:05+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Clash Report",
+        "Mediterranean Man",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 4
     },
     {
       "title": "Telegram",
@@ -654,63 +696,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Serbia plans to open a drone factory with Israel in September, President Aleksandar Vu\u010di\u0107 said, with the opening expected around September 15\u201320. \nHe added that while Ukraine has extensive drone-production capabilities, the Serbian project will be carried out with Israel.\nSource: CDM",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-08T18:55:11+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Zelensky:\nA decision has been made regarding 30,000 to 50,000 North Koreans being on Russian territory.\nThey are studying this war.\nWe have already found North Korean missiles on Ukrainian territory. They have already been used to carry out strikes. Today, this is an acknowledged fact.\nSouth Korea should have much closer cooperation with Ukraine. We are open to this.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-08T18:33:00+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "President Trump\u2019s war against Iran has severely depleted U.S. weapons stockpiles, forcing the Pentagon to pull missiles and other critical equipment from bases and forces in Europe and Asia. \nThis has reduced U.S. military readiness in those regions and delayed weapons deliveries to allies.\nSource: NYT",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-08T18:32:42+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Our Wars Today",
       "text": "[Russia dismisses German drone incident as 'fabricated provocation'](https://www.reuters.com/world/europe/russia-dismisses-german-drone-incident-fabricated-provocation-2026-08-07/)\nThe Russian embassy in Berlin dismissed a suspected drone attack at a major German air freight hub this week \u200bas \"fabricated provocation\" on Friday, saying it was another example \u200cof accusations against Russia without evidence. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://www.reuters.com/world/europe/russia-dismisses-german-drone-incident-fabricated-provocation-2026-08-07/)\nReuters | reuters\u200b.com \u2022 Aug 7, 2026",
       "source": "Telegram",
@@ -801,10 +786,11 @@
       "verification_confidence": 90,
       "verified_sources": [
         "Alsaa Plus EN",
+        "Clash Report",
         "Mediterranean Man",
         "Middle East Spectator"
       ],
-      "verified_source_count": 3
+      "verified_source_count": 4
     },
     {
       "title": "Telegram",
@@ -958,10 +944,11 @@
       "verification_confidence": 90,
       "verified_sources": [
         "Alsaa Plus EN",
+        "Clash Report",
         "Mediterranean Man",
         "Middle East Spectator"
       ],
-      "verified_source_count": 3
+      "verified_source_count": 4
     },
     {
       "title": "Telegram",
@@ -1100,6 +1087,25 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udca3 Massive Russian strike pounds Odessa \u2014 not a single missile intercepted\nRussian forces launched a huge attack on Odessa and the region overnight. Over 70 drones and around 20 missiles \u2014 including Iskander, Onyx, and Zircon, \u2014 were fired in just two hours.\nUkraine's Air Force admitted: not a single missile was intercepted. By morning, smoke covered the city.\nWhat was hit:\n\ud83c\udf0f The road bridge in Mayaky \u2014 the last direct land route connecting central Odessa to the south and the Danube ports. After the Zatoka bridge was knocked out, Mayaky became the only route that didn't require crossing through other countries' territory. Now it's hit too.\n\ud83c\udf0f Water supply was cut across much of the city after power to pumping stations was knocked out.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+tltgWD-GUqw0OTAy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-09T07:55:25+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
       "text": "\ud83d\udea8 Fires erupt at Saudi Aramco sites \u2014 Gulf and Red Sea coasts hit \n\ud83d\udd34 A major thermal event was detected at the Berri Gas Plant near Jubail on the Gulf coast, with an estimated 125 MW fire radiative power\n\ud83d\udd34 A separate fire broke out at Aramco's Jazan refinery on the Red Sea coast. Aramco crews extinguished the blaze, and no injuries were reported\nSaudi authorities have not confirmed what triggered either incident.\nAramco is the world's largest oil company, producing over 10% of global crude and controlling Saudi Arabia's entire energy infrastructure. Any disruption to its operations has immediate ripple effects on global oil prices.\n\u2757\ufe0fThe Houthi movement has claimed responsibility for a drone attack on the Jazan refinery.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+tltgWD-GUqw0OTAy) |",
       "source": "Telegram",
       "source_type": "telegram",
@@ -1202,25 +1208,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-08T16:19:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddee\ud83c\uddf1\ud83c\uddf8\ud83c\uddfe Israel's Syrian land grab: bulldozers, drones, and heavy machine guns\nIsraeli forces have carried out 20 incursions in Deraa and Quneitra in just the past week, conducting land-clearing operations, erecting checkpoints, and installing surveillance cameras, the Syrian Observatory for Human Rights reports. \nIsraeli troops also entered populated areas, firing heavy machine guns toward agricultural lands.\nThe strategic picture:\n\u27a1\ufe0f Israel is expanding its occupation of Syrian territory \u2014 including the Golan Heights, a UN buffer zone, and Mount Hermon \u2014 while bombing Syria's air defenses\n\u27a1\ufe0f Netanyahu has boasted that he helped install Syrian terrorist-turned-President Ahmed al-Sharaa (former HTS leader Abu Mohammad al-Julani) in power in Damascus\n\u27a1\ufe0f Sharaa's forces refuse to confront Israeli incursions \u2014 instead targeting Alawite and Druze minorities, including major massacres in March and July\nSOHR warned that Israel is \"creating new realities on the ground and gradually altering the border strip\" in the absence of any international measures to deter violations and respect Syrian sovereignty.\nIsrael is occupying Syria to control its water resources and expand Greater Israel \u2014 and Damascus is letting it happen.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-08T13:12:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
