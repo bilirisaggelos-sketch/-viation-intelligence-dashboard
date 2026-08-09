@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T09:19:24.322566+00:00",
+  "generated_at": "2026-08-09T10:06:44.594906+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -604,12 +604,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "Clash Report"
+        "Clash Report",
+        "Geopolitics Prime"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -620,25 +621,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-09T07:18:52+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Prolonged Iran War Weakens US Deterrence\nA prolonged military campaign is eroding US firepower across Europe and Asia, creating a strategic window that benefits Russia and China as American missile stockpiles face multi-year replenishment delays.\n[READ MORE](https://clashreport.com/world/articles/prolonged-iran-war-weakens-us-deterrence-handing-advantage-to-russia-and-china-pjyuff6vua/)",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-09T06:52:10+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -1037,12 +1019,12 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udca3 Massive Russian strike pounds Odessa \u2014 not a single missile intercepted\nRussian forces launched a huge attack on Odessa and the region overnight. Over 70 drones and around 20 missiles \u2014 including Iskander, Onyx, and Zircon, \u2014 were fired in just two hours.\nUkraine's Air Force admitted: not a single missile was intercepted. By morning, smoke covered the city.\nWhat was hit:\n\ud83c\udf0f The road bridge in Mayaky \u2014 the last direct land route connecting central Odessa to the south and the Danube ports. After the Zatoka bridge was knocked out, Mayaky became the only route that didn't require crossing through other countries' territory. Now it's hit too.\n\ud83c\udf0f Water supply was cut across much of the city after power to pumping stations was knocked out.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+tltgWD-GUqw0OTAy) |",
+      "text": "\ud83c\udde8\ud83c\uddf3\ud83e\ude96 China wants war \u2013 look how close they put their country next to US\u2019 planned new missile sub fleet\n\u00a0\nThe Navy\u2019s plans to more than triple the Tomahawk land attack and hypersonic capabilities of its Virginia-class attack subs are explicitly aimed at China, think tank eggheads have told US media.\n\ud83d\udcac \u201cSubmarines are one of the few capabilities which can loiter forward, near or within the First Island Chain in relative safety,\u201d Royal United Services Institute senior fellow Sidharth Kaushal told CNN, referencing the so-called Island Chain Strategy devised by the US in the 1950s[ to hem China into its home waters.](https://t.me/geopolitics_prime/61147)\n19 new boats fitted with Virginia Payload Modules are expected to more than triple available missile launch cells on each \u2013 from 12 to 40. Adding hypersonics into the mix \u201crepresent[s] a capability against which US adversaries \u2013 which otherwise enjoy robust air defenses \u2013 have more limited defenses,\u201d Kaushal says.\n\u00a0\nNot counting crushing problems in the[ US shipbuilding sector](https://t.me/geopolitics_prime/72896), and the draining of hard-to-replenish [missile stocks in Iran](https://t.me/geopolitics_prime/73162), there are a few other \u2018minor\u2019 problems with Washington\u2019s plans:\n\u27a1\ufe0f The Army is currently the only service branch with access to hypersonics \u2013 Dark Eagle missiles \u2013delivered at a rate of ~1 per month. The Navy and Air Force still don\u2019t have their own, despite years and tens of billions of dollars poured into research.\n\u27a1\ufe0f The Navy plans to retire its four Ohio-class subs \u2013 each with up to 154 Tomahawks onboard, by 2029, causing US undersea strike capability to plummet by ~60%, per the Submarine Industrial Base Council lobbying group. The delivery of upgraded Virginia-class subs isn\u2019t expected to be completed until 2038, and that\u2019s if everything goes well with appropriations and construction.\n\u27a1\ufe0f Unlike old Ohio-class boats, which had two-crews apiece, the Virginia-class has accommodations for only one crew at a time, cutting deployment time by half.\n\u27a1\ufe0f China won\u2019t just sit idly by and be surrounded, and can double down on its home field advantage by using vast sonar networks deployed in the East and South China Seas and at critical chokepoints, and combined arms tactics including surface warships, ASW helicopters, hunter subs and new classes of undersea drones.\n\u27a1\ufe0f China\u2019s military shipbuilding is already outpacing the US (it launched 10 subs between 2021-2025, compared to 7 by the US, per IISS calculations), and Beijing doesn\u2019t make a habit of trying to police the world\u2019s oceans \u2013 thus diluting its force potential.\n\u00a0\nOnce the new Virginia-class boats are operational, the US expects to \u201cdegrade an adversary\u2019s anti-surface capabilities to a level sufficient to enable other platforms such as surface ships to be moved forward at less risk\u2026setting the conditions for aircraft carriers to provide follow-on strikes,\u201d Kaushal says.\nOne problem with that: the US just tried it against Iran over these past six months, and failed utterly, as evidenced by ongoing reluctance to bring its naval armadas anywhere near Iran\u2019s coastline.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+tltgWD-GUqw0OTAy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-09T07:55:25+00:00",
+      "timestamp": "2026-08-09T09:56:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -1056,12 +1038,32 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udea8 Fires erupt at Saudi Aramco sites \u2014 Gulf and Red Sea coasts hit \n\ud83d\udd34 A major thermal event was detected at the Berri Gas Plant near Jubail on the Gulf coast, with an estimated 125 MW fire radiative power\n\ud83d\udd34 A separate fire broke out at Aramco's Jazan refinery on the Red Sea coast. Aramco crews extinguished the blaze, and no injuries were reported\nSaudi authorities have not confirmed what triggered either incident.\nAramco is the world's largest oil company, producing over 10% of global crude and controlling Saudi Arabia's entire energy infrastructure. Any disruption to its operations has immediate ripple effects on global oil prices.\n\u2757\ufe0fThe Houthi movement has claimed responsibility for a drone attack on the Jazan refinery.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+tltgWD-GUqw0OTAy) |",
+      "text": "\ud83d\udd25Houthis: Yeah, that Aramco fire was us\nSaudi Arabia reported a fire at [the Jazan refinery](https://t.me/geopolitics_prime/73233). The Houthis say it was caused by one of their drones.\nThey say the strike was retaliation for Saudi UAVs violating Yemeni airspace over Saada and Hajjah.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+tltgWD-GUqw0OTAy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-09T06:22:43+00:00",
+      "timestamp": "2026-08-09T09:41:37+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Clash Report",
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udca3 Massive Russian strike pounds Odessa \u2014 not a single missile intercepted\nRussian forces launched a huge attack on Odessa and the region overnight. Over 70 drones and around 20 missiles \u2014 including Iskander, Onyx, and Zircon, \u2014 were fired in just two hours.\nUkraine's Air Force admitted: not a single missile was intercepted. By morning, smoke covered the city.\nWhat was hit:\n\ud83c\udf0f The road bridge in Mayaky \u2014 the last direct land route connecting central Odessa to the south and the Danube ports. After the Zatoka bridge was knocked out, Mayaky became the only route that didn't require crossing through other countries' territory. Now it's hit too.\n\ud83c\udf0f Water supply was cut across much of the city after power to pumping stations was knocked out.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+tltgWD-GUqw0OTAy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-09T07:55:25+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -1120,44 +1122,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-08T19:17:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83e\udd25\ud83c\uddee\ud83c\uddf7 Trump\u2019s Iran brinksmanship painting him into a corner \u2013 and the US out of the Gulf\n\u00a0\nTrump may have believed his own hype, betting that restarting the Iran war would finally deliver the quick victory that eluded him the first time. Instead, Tehran now threatens to hand to hand Washington a defeat even more humiliating than the one delineated in the June 17 Memorandum of Understanding (MoU).\nWhile the MoU did not include explicit clauses that would strip the US military of its right to navigate Hormuz and the Persian Gulf, Iranian officials\u2019 latest terms in talks with Oman include demands that US Navy warships stay out of the area completely.\n\ud83d\udcac \u201cThe fundamental result is going to be significant Iranian de facto control over the Strait,\u201d former US intel officer Jonathan Panikoff told WSJ.\nUS officials insist Washington will not accept any deal which allows Iran to collect tolls, or deny access to the Strait.\nBut given the vast arsenal the IRGC has its disposal to target violating vessels, Washington doesn\u2019t seem to have much leverage in the matter. American warship and carrier strikes groups have already kept well away from the Iranian coastline throughout t the war, fearing ballistic, cruise missile and drone strikes.\nGulf officials have reportedly \u201cacknowledged\u201d that de facto Iranian control over the Strait may be the new normal, and the \u201cbest option,\u201d given the impact of its continued closure on global energy markets and regional economies.\n\u00a0\n\ud83e\udd14 History in the making?\n\u00a0\nA US retreat from the Gulf would set back US policy in the region 55 years \u2013 back to the 1971 basing agreement with Bahrain, and subsequent[ expansions to bases across Arab Gulf countries.](https://t.me/geopolitics_prime/73010) Iran\u2019s counterstrikes since February showed that these bases are not only defenseless, but pointless when it comes to the protection of America\u2019s Gulf allies. On the contrary \u2013 the more US bases a country hosts, the more vulnerable it is to Iranian strikes.\nPresident Masoud Pezeshkian reiterated Friday that Iran would do everything in its power to prevent the US and Israel from uniting the Gulf countries against it \u2013 starting with the reminder that unlike Israel, Iran has \u201cno intention of attacking other countries, seizing territory or expanding our borders.\u201d\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-08T17:48:02+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddee\ud83c\uddf1\ud83d\udd0d Why Israeli politicians are desperate to shut Palestinians out of power\nIsrael's opposition once argued that cooperation with Palestinian Arab parties was key to ending Benjamin Netanyahu's long dominance of Israeli politics.\nNow, the same politicians are trying to freeze Palestinian Arabs out of the government, despite the fact that they represent one-fifth of the population.\nThe pledge has been repeated in recent weeks by figures across the anti-Netanyahu camp, such as Naftali Bennett and Yair Lapid, who used to defend their partnership with Ra\u2019am leader Mansour Abbas as the necessary price of ending Netanyahu\u2019s dominance.\nThe same stance is shared by Gadi Eisenkot, who has been positioning himself as a potential PM. Opinion polls suggest that at the October election Eisenkot's bloc will be running neck-and-neck with Netanyahu's coalition.\n\ud83d\udc49 This marks a sharp retreat from the pragmatic experiment of 2021 and shows how the events of October 2023 rewired the political climate around cooperation with Palestinian citizens of Israel.\nThe latter make up roughly two million people and are descendants of those who remained after the 1948 war.\nTheir parties have sat on the political margins for decades, and the taboo was broken only in 2021, when Ra\u2019am\u2019s four seats allowed Bennett and Lapid to assemble a majority.\nHowever, that arrangement lasted barely a year. Now, the taboo appears to have returned.\n\ud83d\udd34 71.5% of Jewish Israelis oppose including Arab parties in the next government (Israel Democracy Institute)\n\ud83d\udd34 57% of Israelis oppose a Palestinian state under any circumstances (Institute for National Security Studies survey)\nPolitical arithmetic may ultimately prove more stubborn than campaign rhetoric since Israel's fragmented parliament has repeatedly produced deadlocks.\nRecent polling suggests neither bloc can count on securing a majority alone.\nThere is also another lingering question: whether the political cost of ignoring Palestinian citizens of Israel will eventually become too high for the Zionist state.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-08T16:19:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
