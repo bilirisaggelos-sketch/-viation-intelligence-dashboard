@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T21:15:26.043665+00:00",
+  "generated_at": "2026-08-09T21:53:43.449151+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -442,25 +442,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\uddee\ud83c\uddf7 Iran\u2019s Supreme National Security Council:\n\u2018Until America corrects its behavior, the Strait of Hormuz will not be opened.\nCorrecting behavior means:\n1. Never threaten Iran with any language nor insult the sanctities of this nation.\n2. End the war and aggression against Iran and its allies in Lebanon, Palestine, Yemen, and Iraq permanently.\n3. Lift the naval blockade and withdraw U.S. naval and air forces from the area surrounding Iran.\n4. Pay the damages for the two aggressive wars imposed against Iran.\n5. Lift the cruel and illegal sanctions against the Iranian nation.\n6. Release the frozen and stolen assets of the Iranian people unconditionally.\nThese are the demands of the Iranian people who have been relentlessly present in the squares and streets for 160 days.\nThe Supreme National Security Council will never back down; whether in war or in negotiations.\u2018",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-08T13:51:03+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Clash Report",
       "text": "WATCH: Yemen\u2019s Houthis release video showing ballistic missile and drone launches targeting Saudi forces and weapons depots.",
       "source": "Telegram",
@@ -526,25 +507,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-09T16:35:10+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Inspired by Ukraine, Taiwan Ramps Up Drone Production to Deter China\nTaiwan is rapidly expanding its production and deployment of military drones, aiming to construct a formidable \"hellscape\" defense to deter a potential Chinese amphibious assault.\n[READ MORE](https://clashreport.com/defense/articles/inspired-by-ukraine-taiwan-ramps-up-drone-production-to-deter-china-bbggsq0303b/)",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-09T16:19:07+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -653,6 +615,25 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf7\u25b6\ufe0f \u2014 Second hostile drone was targeted and shot down by Iranian air defenses in the airspace over southern Iran.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-09T21:44:32+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
       "text": "\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf1\ud83c\uddee\ud83c\uddf7\ud83c\uddf1\ud83c\udde7\ud83c\uddf5\ud83c\uddf8\u26a1\ufe0f \u2014 U.S. General Brad Cooper stated that he asked Israel to end the war on three fronts \u2014 Iran, Lebanon, and Palestine \u2014 but they strongly resisted, saying they are just reaching their important goals.\nAccording to Cooper, the Israelis responded: \"At least regarding Iran's nuclear and missile project, we will continue these operations even if you Americans do not accompany us.\"\n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
@@ -688,45 +669,6 @@
         "Clash Report"
       ],
       "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "A large fire is burning at the Al-Mukha Port in Yemen following Ansarallah ballistic missile strikes.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-09T15:19:47+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddf8\ud83c\udde6\u26a1\ufe0f \u2014 Intense fighting has erupted between Saudi-backed Yemeni government forces and Ansarallah across multiple frontlines in Taiz Governorate, with the Houthis firing 30 ballistic missiles at targets in Mokha and government forces downing 15 drones, according to Al Arabiya and Yemeni military sources.\n\u27a1\ufe0f A Houthi drone is continuously hovering over the Usayfirah area north of Taiz, with government air defenses attempting to shoot it down. Meanwhile, Houthi-run Al Masirah reported that a Saudi drone struck the Ghour al-Mashwat area of Saada Governorate, likely targeting Houthi positions. The escalation marks one of the heaviest exchanges on the Taiz front in recent weeks.\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-09T15:07:46+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -794,25 +736,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-09T15:45:15+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddfa\ud83c\uddf8\ud83c\udde9\ud83c\uddefA US military drone crashed near Chabelley airport in Djibouti, according to Djibouti's state news agency, ADI.\nAccording to various sources, it is an MQ-9 drone.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-09T15:13:32+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -1026,13 +949,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
         "Geopolitics Prime"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
