@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T15:02:48.579502+00:00",
+  "generated_at": "2026-08-09T15:48:37.367993+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -443,6 +443,44 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
+      "text": "Turkish defense firm STM launched the third and final corvette for the Royal Malaysian Navy, completing all three launches in just four months. \nThe ships \u2014 built under T\u00fcrkiye\u2019s first corvette export to Asia-Pacific \u2014 are now entering outfitting and sea trials, with delivery targeted by end of 2027. \nThe ~2,500-ton vessels carry Turkish-made weapons and sensors from about 50 domestic companies, including Aselsan radar, Roketsan anti-ship missiles, and Havelsan combat management systems.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-09T15:37:59+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Taiwan is rapidly expanding its use of drones and unmanned boats to prepare for a potential Chinese invasion, drawing heavily on lessons from Ukraine. \nIts strategy is to create a \u201chellscape\u201d around Taiwan by using large numbers of drones, missiles and artillery to locate and attack invading Chinese forces, making an amphibious assault extremely costly. \nThe challenge is that Taiwan still needs to change its military organization, training and doctrine to effectively operate drone swarms and survive Chinese electronic warfare. \nSource: NYT",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-09T15:16:31+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
       "text": "A U.S. MQ-9 drone crashed in Djibouti after reporting distress.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -596,6 +634,44 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
+      "text": "A large fire is burning at the Al-Mukha Port in Yemen following Ansarallah ballistic missile strikes.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-09T15:19:47+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddf8\ud83c\udde6\u26a1\ufe0f \u2014 Intense fighting has erupted between Saudi-backed Yemeni government forces and Ansarallah across multiple frontlines in Taiz Governorate, with the Houthis firing 30 ballistic missiles at targets in Mokha and government forces downing 15 drones, according to Al Arabiya and Yemeni military sources.\n\u27a1\ufe0f A Houthi drone is continuously hovering over the Usayfirah area north of Taiz, with government air defenses attempting to shoot it down. Meanwhile, Houthi-run Al Masirah reported that a Saudi drone struck the Ghour al-Mashwat area of Saada Governorate, likely targeting Houthi positions. The escalation marks one of the heaviest exchanges on the Taiz front in recent weeks.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-09T15:07:46+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
       "text": "\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddf8\ud83c\udde6 The spokesperson of Yemeni Forces: By the grace of God, the Yemeni Armed Forces have succeeded in targeting the Aramco refinery in Jizan with a drone, and the strike was precise.\nThis attack comes in response to the Saudi enemy\u2019s drones violating the airspace of the governorates of Sa\u2019ada and Hajjah.\n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
@@ -729,20 +805,39 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf6\u26a1\ufe0f \u2014 Sheikh Akram al kabee:\nIn the name of God, the Most Gracious, the Most Merciful\nHave they not traveled through the land and seen how was the end of those before them? God destroyed them, and for the disbelievers is a similar fate. That is because God is the protector of those who believe, and the disbelievers have no protector.\nGod Almighty has spoken the truth\nIt will become clear to all brothers that the option of diplomacy with the despicable Wahhabi Al Saud entity is futile, for it is a regime with a deviant ideology, behind many of the conspiracies that targeted Iraq and its people. Its hands are stained with our blood by the thousands of car bombs it funded and sent to kill innocent people, women, and children. This abhorrent entity is seen as a rabid dog against Muslims, but at the same time, it is a cowardly, milking cow with the Zionists and the enemies of Islam, subservient and humiliated to them. Therefore, the only skillful and correct way to discipline it is by humiliating it, as is its custom and what its Zionist masters have accustomed it to. This will only be achieved through a suitable military response that fulfills the duty to the blood of our righteous martyrs from the Popular Mobilization Forces who fell victim to its treachery. What compensations are you talking about that are equal to their sacred blood? What money can bring back joy to their orphans, their bereaved mothers, and their widowed wives?! Indeed, all the money in the world is not worth a single drop of the precious blood of Iraq's martyrs. Missiles are only answered with missiles, and fire is only met with fire.",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8 Firestorm Labs 3D-printed thousands of unique parts aboard the USS Essex while the amphibious assault ship pitched through Sea State 5 conditions en route to the RIMPAC exercise near Hawaii. Crews described the seas as the roughest off the California coast in five years. \nThe company relied on its xCell unit, a pair of 20-foot containers built for shipboard and field deployment, paired with HP's multi-jet fusion printing technology to keep production running despite the rough conditions.\nOutput ranged across the spectrum of military needs: protective stops to keep Apache helicopter rotors from scraping the ship's deck coating, prosthetics, and a dozen Squall first-person-view drones later flown as adversary aircraft during a counter-drone exercise.\nCEO Dan Magy framed the demo as proof of a contested logistics solution, noting many legacy systems lack reliable supply chains in forward locations like Okinawa or Bahrain. Field operations manager Duane Blank added that the real value is iterating and delivering parts at the point of need.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-08T20:51:13+00:00",
+      "timestamp": "2026-08-09T15:45:15+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN"
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ud83c\uddfa\ud83c\uddf8\ud83c\udde9\ud83c\uddefA US military drone crashed near Chabelley airport in Djibouti, according to Djibouti's state news agency, ADI.\nAccording to various sources, it is an MQ-9 drone.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-09T15:13:32+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
       ],
       "verified_source_count": 1
     },
@@ -858,6 +953,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\udde8\ud83c\uddf4\ud83c\uddee\ud83c\uddf1 Colombia-Israel reset: reviving a partnership forged in blood and impunity\nFreshly inaugurated Colombian President Abelardo de la Espriella is wasting no time taking Bogota back to familiar territory.\nBreaking with his predecessor Gustavo Petro, who shredded diplomatic relations with Israel, Espriella plans to restore them, move Colombia\u2019s embassy to Jerusalem, pull out of South Africa\u2019s genocide case at the ICJ, and expand trade, technology, security and defense cooperation.\nDisappointing? Sure. Surprising? Not really.\nHistorically, Petro was the exception. Colombia and Israel built decades of close security ties, against the backdrop of Colombia\u2019s exceptionally bloody internal conflict. This included:\n\ud83d\udc49 massive formal defense ties, with Israel selling Colombia everything from small arms (Galil rifles, Uzi submachineguns) to Kfir jets, MX missiles, ATMOS artillery, Spike ATGMs and drones. From the 80s on, Israel consistently ranked the second biggest supplier of arms to Colombia after the US, reaching nearly 40% of all purchases by the mid-2010s\n\ud83d\udc49 Israeli training of Colombian army personnel and special forces, as well as far-right paramilitaries, complimented by the Defense Ministry\u2019s hiring of Israeli consultancies like Global CST to track and target FARC guerrillas\n\ud83d\udc49 IDF-linked operators like Yair Klein providing training to death squads and drug cartels, including Medellin, teaching recruits the basics of drive-by shootings, bombings, snipings and door-to-door killing. Linked to the CIA and Colombian intel, these groups would engage in the systematic murder of entire towns and villages, including Segovia (1988), Mapiripan (1997) and El Salado (2000), involving torture, beheadings, shootings, chainsaw hackings and rapes, including of women and children\n\ud83d\udc49 Israeli arms smuggling to paramilitaries and cartels, including guns used in the 1989 assassination of Liberal Party presidential candidate Luis Carlos Galan (see: the Antigua Affair)\n\ud83d\udc49 Intel collaboration, including the hiring of Mossad agent-turned-merc Rafael Eitan as security advisor by the Barco government in the 80s to eradicate FARC. Eitan\u2019s advice? The systematic murder of members of the Patriotic Union \u2013 a FARC-linked party looking to institutionalize the Left in Colombian politics to end the civil war. From 1984-2016, 5,733 members of the party were killed or forcibly disappeared, per Colombia\u2019s Special Jurisdiction for Peace\n\ud83d\udc49 Heavy Israeli involvement in the training and arming of Carlos Castano Gil\u2019s AUC paramilitaries, who are estimated to have killed nearly 100k civilians. Castano was personally trained in Israel in 1983-84. His forces would eventually account for ~40% of Colombia\u2019s illegal drug exports, and enjoy operational and financial support from the state, wealthy landowners (including president and Espriella ally Alvaro Uribe) and foreign multinationals like Coca-Cola and Chiquita\nIn other words, Espriella\u2019s Israel reset is less a dramatic new beginning than a return to an old playbook.\nAnd Washington appears delighted: Espriella had barely taken office before the Trump administration announced $1B in security assistance to his government.\nColombia and its right-wing governments, death squads and [drug cartels ](https://t.me/geopolitics_prime/69321)is just one of the instability-hit countries of Latin America [where Israel has been heavily invested. ](https://t.me/geopolitics_prime/71363)Others include Argentina ($1B+ in arms sales to the junta between 1976-1983), Guatemala (support for the counterinsurgency targeting of indigenous communities), Nicaragua (first Somoza, then the Contras), El Salvador, Pinochet\u2019s Chile and Paraguay.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+tltgWD-GUqw0OTAy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-09T15:41:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
