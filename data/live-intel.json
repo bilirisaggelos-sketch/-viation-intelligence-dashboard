@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T23:35:37.509671+00:00",
+  "generated_at": "2026-08-09T00:34:48.331668+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -1145,6 +1145,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\udfe5US may be seeking an off-ramp with Iran; Israel keeps three reasons to bomb\nAs Washington searches for a way out of the Iran war, Israel is making clear that diplomacy does not necessarily mean the bombing stops. CNN reports that Joint Chiefs Chairman Gen. Dan Caine has been privately urging senior Trump officials to find an \"off-ramp\", warning about the limits of airpower and the risks of further escalation.\nAgainst that backdrop, Channel 13 has reported that Israel is keeping independent military options ready if a new arrangement with Tehran does not go its way:\n\u27a1\ufe0f If Iran is accused of violating a new agreement, Israel could launch strikes on its own.\n\u27a1\ufe0f Iran rebuilds missiles? The strike option stays open.\n\u27a1\ufe0f Iran strengthens its regional allies? You guessed it: the strike option stays open.\nIn other words, the US may be looking for an off-ramp, while Israel is making sure it still has a hammer ready for any outcome it dislikes.\nIran, meanwhile, is attaching its own price tag to de-escalation. Officials said Saturday that the Strait of Hormuz \u2013 a part of any settlement with the US \u2013 will not fully reopen simply because Iran and Oman reach a shipping deal.\n\ud83d\udd34Foreign Minister Abbas Araghchi said full reopening depends on the US compensating Iran for violations of the Islamabad agreement. \n\ud83d\udd34The IRGC stated the US must first accept Iran\u2019s conditions, while security chief Mohammad Baqer Zolqadr has demanded an end to threats and attacks, sanctions relief, the release of frozen assets, US military pullback around Iran and compensation for war damage.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-08T23:43:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
