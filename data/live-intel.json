@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T19:03:29.642814+00:00",
+  "generated_at": "2026-08-09T19:50:09.379735+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -377,7 +377,7 @@
       "verification_status": "PARTIALLY VERIFIED",
       "verification_confidence": 65,
       "verified_sources": [
-        "Mediterranean Man",
+        "Geopolitics Prime",
         "Middle East Spectator"
       ],
       "verified_source_count": 2
@@ -413,14 +413,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
         "Alsaa Plus EN",
-        "Geopolitics Prime",
         "Middle East Spectator"
       ],
-      "verified_source_count": 3
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -457,6 +456,45 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "WATCH: Yemen\u2019s Houthis release video showing ballistic missile and drone launches targeting Saudi forces and weapons depots.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-09T19:28:33+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Clash Report"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "NORAD F-16 jets intercepted two civilian general aviation aircraft that violated Temporary Flight Restrictions over Bedminster, New Jersey, near Trump National Golf Club.\nBoth planes were safely escorted out of the area with no further incident.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-09T19:15:49+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
       ],
       "verified_source_count": 1
     },
@@ -576,45 +614,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "A U.S. MQ-9 drone crashed in Djibouti after reporting distress.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-09T14:40:44+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Clash Report",
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Netanyahu Rejects Trump Proposal to Disarm Hamas in Gaza\nIsraeli Prime Minister Benjamin Netanyahu has explicitly rejected a 15-point Gaza peace plan backed by the Trump administration, which envisioned a phased Israeli military withdrawal.\n[READ MORE](https://clashreport.com/world/articles/netanyahu-rejects-trump-proposal-to-disarm-hamas-in-gaza-aeu47spnvo)",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-09T14:17:41+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Our Wars Today",
       "text": "\ud83c\uddee\ud83c\uddf1 \ud83c\uddfa\ud83c\uddf8 \ud83c\uddf5\ud83c\uddf8 #BREAKING #Netanyahu Rejects #Trump \"Board of Peace\" Plan To End #Israel's Gaza Genocide, Vows Against Any Form Of #Palestine Statehood, Denying Human Right Of Self-Determination: \nhttps://ground.news/article/israeli-prime-minister-benjamin-netanyahu-rejects-trumps-board-of-peace-plan-for-gaza?utm_source=ourwarstoday&utm_medium=pap-link#a_aid=ourwarstoday\nMore Coverage: T.me/ourwarstoday \n---\n24/7 LIVE News RSS feed: t.me/ournewsfeedtoday\n---\nFootage: t.me/ourwars\n---\nSupport OWT: https://ko-fi.com/ourwarstoday",
       "source": "Telegram",
@@ -711,6 +710,26 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddf8\ud83c\udde6 \u2014 Footage Revealed by Ansarallah Military shows the launch of several ballistic missiles and drones targeting Saudi Arabian gatherings and weapons depots in Al-Khawjah.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-09T19:42:58+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Clash Report"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
       "text": "A large fire is burning at the Al-Mukha Port in Yemen following Ansarallah ballistic missile strikes.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -758,14 +777,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
         "Alsaa Plus EN",
-        "Geopolitics Prime",
         "Middle East Spectator"
       ],
-      "verified_source_count": 3
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -795,25 +813,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-08T22:18:29+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf1\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfa\u26a1\ufe0f \u2014 Israeli radars have been deployed in Ukraine for air defense purposes, with their primary goal being to intercept Russian missiles, according to Israeli media.\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-08T22:13:27+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -880,26 +879,6 @@
         "Mediterranean Man"
       ],
       "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\ud83c\uddfe\ud83c\uddea\u203c\ufe0f - The Governor of Hodeidah survived a Houthi assassination attempt after a ballistic missile targeted his residence in Al-Khawkhah district south of Hodeidah.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-09T12:14:17+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Mediterranean Man",
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -1046,13 +1025,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Clash Report",
         "Geopolitics Prime"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -1066,12 +1044,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "Geopolitics Prime"
+        "Geopolitics Prime",
+        "Middle East Spectator"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -1123,14 +1102,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
-        "Geopolitics Prime",
-        "Middle East Spectator"
+        "Geopolitics Prime"
       ],
-      "verified_source_count": 3
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
