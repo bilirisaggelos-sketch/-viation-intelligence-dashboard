@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T08:24:34.401801+00:00",
+  "generated_at": "2026-08-09T09:19:24.322566+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -397,11 +397,10 @@
       "verification_confidence": 90,
       "verified_sources": [
         "Alsaa Plus EN",
-        "Clash Report",
         "Mediterranean Man",
         "Middle East Spectator"
       ],
-      "verified_source_count": 4
+      "verified_source_count": 3
     },
     {
       "title": "Telegram",
@@ -434,13 +433,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Mediterranean Man",
         "Middle East Spectator"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -502,6 +500,82 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
+      "text": "\ud83d\udcf8 Russian NADEZHDA Ro-Ro vessel in Samsun, T\u00fcrkiye, following a Ukrainian drone attack in the Black Sea.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-09T09:15:15+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Houthis launched ballistic missiles and drones at Yemen\u2019s Al-Mukha Port, causing fires and heavy smoke. \nReports indicate strikes inside the port, potentially targeting Saudi-backed military logistics.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-09T09:09:58+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Iraqi forces dismantled a three-person militia-linked cell and seized 12 Iranian-made drones and components.\nThe cell was allegedly preparing drone attacks outside Iraq and had links to Iranian operatives. \nThe drones have been identified as Shahed-101s, reportedly intended for strikes on Saudi Arabia.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-09T09:06:14+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Russian drone and missile strikes hit Odesa and Kharkiv in Ukraine, damaging residential buildings, injuring dozens, and killing two people in Kharkiv.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-09T08:28:20+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
       "text": "Ukraine launched a major drone attack on Russia\u2019s Belgorod overnight, with dozens of drones causing explosions, fires, and damage to apartment buildings.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -530,15 +604,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
-        "Clash Report",
-        "Mediterranean Man",
-        "Middle East Spectator"
+        "Clash Report"
       ],
-      "verified_source_count": 4
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -568,122 +639,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-09T06:52:10+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Greenland has issued a \u201cstrong warning\u201d to US-based Greenland Energy after the Trump-linked oil company brought drilling equipment ashore without approval.\nThe company hopes to drill for oil in Jameson Land, claiming the area could hold $1 trillion worth of crude. \nGreenland Energy still needs government permission, and the proposed drilling area may overlap protected wetlands.\nGreenland\u2019s government says the application remains under review.\nSource: The Guardian",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-08T22:13:56+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Clash Report"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "The Pentagon is pressing U.S. defense companies to rapidly boost weapons production after the Iran war sharply depleted missile stocks.\nFirms have 21 days to propose faster deliveries, expanded factories, and increased capacity.\nThe biggest concern is air-defense ammunition: Patriot inventories reportedly fell from about 2,200 to under 827, while THAAD stocks dropped from 452 to under 278. \nThe Pentagon is pursuing major production deals, including a $58.6 billion Lockheed Martin agreement, but much of the expansion depends on a $1.15 trillion defense spending bill stalled in Congress.\nSource: WaPo",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-08T21:53:29+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Clash Report"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Ukraine destroyed a Russian Volna Kupol Garant Starlink-jamming system near Gelendzhik, Krasnodar Krai\u2014reportedly the third confirmed loss of this type.\nThe ~$1.5 million system uses powerful Ku-band uplink interference to temporarily disrupt Starlink over a small area (~20 km\u00b2). \nIts effectiveness is limited by Starlink\u2019s rapidly moving satellite network, while its large footprint and strong emissions make it relatively easy to detect and target.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-08T19:39:30+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "WATCH: Russian troops firing with rifles at an incoming Ukrainian kamikaze drone, eventually managing to shoot it down.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-08T19:33:17+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "WATCH: Ukrainian drone footage shows a strike drone continuing toward Russian shadow-fleet-linked targets near Gelendzhik while a Pantsir-S1 fires three missiles and fails to intercept it.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-08T19:31:17+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "BIG: Ukraine is set to receive 70 x M39 ATACMS missiles from T\u00fcrkiye, alongside 12 x M270 launchers, 2,524 x M26 rockets, and 47,000 x cluster artillery shells. \nBecause the weapons are US-origin, Washington has approved the re-export, subject to congressional review. \nThe M39s are ~165 km-range cluster-warhead ATACMS.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-08T19:23:41+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -786,11 +741,10 @@
       "verification_confidence": 90,
       "verified_sources": [
         "Alsaa Plus EN",
-        "Clash Report",
         "Mediterranean Man",
         "Middle East Spectator"
       ],
-      "verified_source_count": 4
+      "verified_source_count": 3
     },
     {
       "title": "Telegram",
@@ -804,13 +758,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
-        "Clash Report"
+        "Alsaa Plus EN"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -824,13 +777,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
-        "Clash Report"
+        "Alsaa Plus EN"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -931,6 +883,25 @@
     {
       "title": "Telegram",
       "publisher": "Mediterranean Man",
+      "text": "\u26a1\ud83c\uddfe\ud83c\uddea\ud83c\uddf8\ud83c\udde6 The Houthi forces launched more than 20 missiles towards locations of Saudi mercenaries, the missiles landed on target according to the houthi correspondents. \n-the targets were military supplies that got immediately hit upon their arrival at the port of Al-Mukha, intended for Saudi-backed mercenaries.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-09T08:55:57+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
       "text": "\u26a1\ud83c\uddfe\ud83c\uddea\ud83c\uddf8\ud83c\udde6 In a statement by the yemani Houthi forces\n\"By the blessing of Allah, the Yemeni armed forces were able to target the Aramco refinery in Jizan with a drone, and the strike was accurate.\"\nThis targeting comes in response to the Saudi drone incursions into the airspace of the governorates of Saada and Hajjah.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -944,11 +915,10 @@
       "verification_confidence": 90,
       "verified_sources": [
         "Alsaa Plus EN",
-        "Clash Report",
         "Mediterranean Man",
         "Middle East Spectator"
       ],
-      "verified_source_count": 4
+      "verified_source_count": 3
     },
     {
       "title": "Telegram",
@@ -987,26 +957,6 @@
         "Mediterranean Man"
       ],
       "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddee\ud83c\uddf7 In his full statement he lists the conditions of the following to reach an understanding\n\"1. Never threaten Iran with any language or insult the sanctities of this nation.\n2- End the war and aggression against Iran and its allies in Lebanon, Palestine, Yemen, and Iraq forever.\n3- Lift the naval blockade and withdraw your naval and air forces from around Iran.\n4- Pay the damages of the two wars of aggression and imposition on Iran without any reductions.\n5- Lift the cruel and illegal sanctions against the Iranian nation.\n6- Unconditionally release the frozen and stolen assets of the Iranian people.\nThese are the demands of the Iranian people, who have been shouting it relentlessly in the squares and streets for 160 days.\nThe Supreme National Security Council will never back down;\nWhether in war or in negotiation\nMuhammad Baqir Zulqader\"",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-08T13:44:44+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Mediterranean Man",
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 2
     },
     {
       "title": "Telegram",
