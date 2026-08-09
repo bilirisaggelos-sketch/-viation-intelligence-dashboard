@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T10:54:04.310256+00:00",
+  "generated_at": "2026-08-09T11:36:30.571837+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -397,11 +397,10 @@
       "verification_confidence": 90,
       "verified_sources": [
         "Alsaa Plus EN",
-        "Geopolitics Prime",
         "Mediterranean Man",
         "Middle East Spectator"
       ],
-      "verified_source_count": 4
+      "verified_source_count": 3
     },
     {
       "title": "Telegram",
@@ -431,63 +430,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-08T13:51:03+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\uddfa\ud83c\uddf8/\ud83c\uddf8\ud83c\udde6 NEW: For the first time in years, due to Iran\u2019s closure of the Strait of Hormuz and Yemeni attacks against Aramco facilities, Saudi Arabia\u2019s oil exports to the United States have fallen to zero barrels",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-07T14:43:51+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\uddee\ud83c\uddf7/\ud83c\uddee\ud83c\uddf1 Israeli Hermes-900 drone, completely intact, likely brought down by electronic warfare or low-altitude interception",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-07T13:23:47+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7 Downed MQ-1C drone",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-07T11:21:07+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -533,7 +475,7 @@
       "verification_confidence": 65,
       "verified_sources": [
         "Clash Report",
-        "Mediterranean Man"
+        "Geopolitics Prime"
       ],
       "verified_source_count": 2
     },
@@ -546,44 +488,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-09T09:06:14+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Russian drone and missile strikes hit Odesa and Kharkiv in Ukraine, damaging residential buildings, injuring dozens, and killing two people in Kharkiv.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-09T08:28:20+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Ukraine launched a major drone attack on Russia\u2019s Belgorod overnight, with dozens of drones causing explosions, fires, and damage to apartment buildings.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-09T08:15:03+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -686,11 +590,10 @@
       "verification_confidence": 90,
       "verified_sources": [
         "Alsaa Plus EN",
-        "Geopolitics Prime",
         "Mediterranean Man",
         "Middle East Spectator"
       ],
-      "verified_source_count": 4
+      "verified_source_count": 3
     },
     {
       "title": "Telegram",
@@ -838,13 +741,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Clash Report",
         "Mediterranean Man"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -862,11 +764,10 @@
       "verification_confidence": 90,
       "verified_sources": [
         "Alsaa Plus EN",
-        "Geopolitics Prime",
         "Mediterranean Man",
         "Middle East Spectator"
       ],
-      "verified_source_count": 4
+      "verified_source_count": 3
     },
     {
       "title": "Telegram",
@@ -985,6 +886,26 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udea8 Houthis launch massive strike on Saudi forces in Yemen \u2014 \"siege for siege, escalation for escalation\"\nYemen's Ansar Allah movement has carried out a large-scale attack on Saudi military positions and weapons depots in the port city of Mokha, using a significant number of missiles and drones.\nThe Houthis claim to have destroyed military equipment and inflicted casualties on Saudi forces, vowing to continue tracking Saudi movements under the principle: \"siege for siege, escalation for escalation.\"\n\ud83d\udc49 Pro-government media reported around 20 drone strikes on Mokha, causing severe damage to civilian infrastructure.\nJust days after Saudi Arabia signed the [\"Mecca Pact\"](https://t.me/geopolitics_prime/73191) with Turkey and Pakistan, the Houthis are testing whether Riyadh's new allies will actually show up \u2014 or just sign papers.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+tltgWD-GUqw0OTAy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-09T11:11:02+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Clash Report",
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
       "text": "\ud83c\udde8\ud83c\uddf3\ud83e\ude96 China wants war \u2013 look how close they put their country next to US\u2019 planned new missile sub fleet\n\u00a0\nThe Navy\u2019s plans to more than triple the Tomahawk land attack and hypersonic capabilities of its Virginia-class attack subs are explicitly aimed at China, think tank eggheads have told US media.\n\ud83d\udcac \u201cSubmarines are one of the few capabilities which can loiter forward, near or within the First Island Chain in relative safety,\u201d Royal United Services Institute senior fellow Sidharth Kaushal told CNN, referencing the so-called Island Chain Strategy devised by the US in the 1950s[ to hem China into its home waters.](https://t.me/geopolitics_prime/61147)\n19 new boats fitted with Virginia Payload Modules are expected to more than triple available missile launch cells on each \u2013 from 12 to 40. Adding hypersonics into the mix \u201crepresent[s] a capability against which US adversaries \u2013 which otherwise enjoy robust air defenses \u2013 have more limited defenses,\u201d Kaushal says.\n\u00a0\nNot counting crushing problems in the[ US shipbuilding sector](https://t.me/geopolitics_prime/72896), and the draining of hard-to-replenish [missile stocks in Iran](https://t.me/geopolitics_prime/73162), there are a few other \u2018minor\u2019 problems with Washington\u2019s plans:\n\u27a1\ufe0f The Army is currently the only service branch with access to hypersonics \u2013 Dark Eagle missiles \u2013delivered at a rate of ~1 per month. The Navy and Air Force still don\u2019t have their own, despite years and tens of billions of dollars poured into research.\n\u27a1\ufe0f The Navy plans to retire its four Ohio-class subs \u2013 each with up to 154 Tomahawks onboard, by 2029, causing US undersea strike capability to plummet by ~60%, per the Submarine Industrial Base Council lobbying group. The delivery of upgraded Virginia-class subs isn\u2019t expected to be completed until 2038, and that\u2019s if everything goes well with appropriations and construction.\n\u27a1\ufe0f Unlike old Ohio-class boats, which had two-crews apiece, the Virginia-class has accommodations for only one crew at a time, cutting deployment time by half.\n\u27a1\ufe0f China won\u2019t just sit idly by and be surrounded, and can double down on its home field advantage by using vast sonar networks deployed in the East and South China Seas and at critical chokepoints, and combined arms tactics including surface warships, ASW helicopters, hunter subs and new classes of undersea drones.\n\u27a1\ufe0f China\u2019s military shipbuilding is already outpacing the US (it launched 10 subs between 2021-2025, compared to 7 by the US, per IISS calculations), and Beijing doesn\u2019t make a habit of trying to police the world\u2019s oceans \u2013 thus diluting its force potential.\n\u00a0\nOnce the new Virginia-class boats are operational, the US expects to \u201cdegrade an adversary\u2019s anti-surface capabilities to a level sufficient to enable other platforms such as surface ships to be moved forward at less risk\u2026setting the conditions for aircraft carriers to provide follow-on strikes,\u201d Kaushal says.\nOne problem with that: the US just tried it against Iran over these past six months, and failed utterly, as evidenced by ongoing reluctance to bring its naval armadas anywhere near Iran\u2019s coastline.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+tltgWD-GUqw0OTAy) |",
       "source": "Telegram",
       "source_type": "telegram",
@@ -1013,15 +934,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
-        "Geopolitics Prime",
-        "Mediterranean Man",
-        "Middle East Spectator"
+        "Geopolitics Prime"
       ],
-      "verified_source_count": 4
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -1071,25 +989,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-08T23:43:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddf9\ud83c\uddf7 Turkey\u2019s quiet Black Sea shipping squeeze \u2013 what if it becomes permanent?\n\u00a0\n\ud83d\udd34 The Turkish authority responsible for the monitoring and management of heavy commercial cargoes through the Bosporus and the Dardanelles has reportedly started restricting the passage of vessels bound to and from Russian and Ukrainian ports.\n\ud83d\udd34 Sources told Bloomberg the Directorate General of Coastal Safety has implemented de facto restrictions by halting the issuance of transit permits, or deliberately dragging out the review of applications. Ships bound for Turkish, Bulgarian, Romanian and Georgian ports are being allowed to proceed as normal.\n\ud83d\udd34 The restrictions come in the wake of a series of drone attacks on Turkish-flagged and owned vessels, plus the targeting of Russian compressor stations linked to TurkStream and Blue Stream gas pipeline infrastructure. Up to 10 crew members have been killed and 7 injured in the last month.\n\u00a0\nImplications\n\u00a0\n\u27a1\ufe0f the restrictions stretch the limits of Turkey\u2019s legal authority under the 1936 Montreux Convention, which guarantees \u201cabsolute freedom of navigation\u201d for commercial vessels. If they become permanent, that opens the door for other countries in command of natural or manmade maritime passages doing the same (Egypt, Panama, Spain, Iran, Yemen, Indonesia-Malaysia-Singapore, Chile, South Africa, Russia)\n\u27a1\ufe0f while the restrictions could hurt Russian energy and food exporters, they may absolutely cripple Ukraine, which has no alternative major maritime export routes\n\u27a1\ufe0f Kazak crude exports (80% of which pass through the Caspian Pipeline Consortium terminal at Novorossiysk) may also be severely affected. There are no viable, large-scale alternatives\n\u27a1\ufe0f a block on Russian energy exports will exacerbate the global energy crisis caused by the Iran war \u2013 pummeling net importers, especially if shipping restrictions are complemented by a shutdown of Turkey-bound natural gas exports, which besides Turkey also feed much of southeastern Europe\n\u27a1\ufe0f the Black Sea region accounts for up to 20% of global grain exports, 60% of sunflower oil exports, and 15% or more of global mineral fertilizer exports. Unless costly alternative overland routes are found, entire regions and subcontinents, from North Africa to the Middle East, could plunge into economic and political crises\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-08T19:17:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
