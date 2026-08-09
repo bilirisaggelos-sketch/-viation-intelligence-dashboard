@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T02:52:47.322179+00:00",
+  "generated_at": "2026-08-09T04:23:14.418178+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -67,25 +67,6 @@
       "severity": "critical",
       "icon": "\ud83d\udea8",
       "timestamp": "08/07/2026",
-      "location": "ZNY NJ",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nEast Rutherford, NJ, Friday, August 7, 2026 through Saturday, August 8, 2026 Local\nFacility: ZNY",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "08/06/2026",
       "location": "ZNY NJ",
       "lat": null,
       "lon": null,
@@ -1055,25 +1036,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "Packed with supply trucks, a Russian logistics park in occupied Luhansk was destroyed after Ukrainian drone strikes. The vehicles were used to move goods to Russian troops.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-09T02:18:58+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Geopolitics Prime",
       "text": "\ud83d\udcb8 Sovereignty for sale: US offers Lebanon $200 million to sideline Hezbollah\nA bipartisan group of US senators has introduced legislation that would authorize $200 million annually in security assistance to Lebanon's armed forces, tying the aid to progress in countering Hezbollah, Bloomberg reports.\nThe bill would also impose sanctions on foreign entities that support the group, aiming to help Lebanon \"reclaim its sovereignty\" and break free from Iranian influence.\nYet Hezbollah seems not so easy to sidestep as the US expects.\n\u2666\ufe0f The group survived a devastating 2024 pager attack and the assassination of its leader Hassan Nasrallah \u2013 only to bounce back and rejoin the fight against Israel\n\u2666\ufe0f Israeli forces are now trapped in southern Lebanon, with Hezbollah grinding through heavy armor using cheap FPV drones \u2013 a far cry from the swift victory Netanyahu's advisors had envisioned\nLebanon's government is weak, its economy is shattered, and Hezbollah is deeply embedded in the state \u2013 providing social services, running schools, and operating hospitals in areas where the state has long been absent. Many locals view it as the only capable defender from Israeli attacks amid government paralysis.\nReplacing Hezbollah's social network, built over decades, with US-funded projects is a gamble. The US may be offering money, but the group is offering resilience \u2013 something that cannot be easily bought off.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+tltgWD-GUqw0OTAy) |",
       "source": "Telegram",
@@ -1215,25 +1177,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-08T08:38:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddef\ud83c\uddf5 Is Japan about to outsource its military kill chain to Palantir's genocide-coded AI?\nJapan is on the brink of surrendering military decision-making to the surveillance-tech powerhouse that orchestrates the Pentagon\u2019s AI-driven kill chain.\n[It is mulling plugging](https://t.me/geopolitics_prime/71402) Palantir\u2019s [Maven Smart System](https://t.me/geopolitics_prime/71058) and Anduril\u2019s Lattice into the command-and-control structure of its Self-Defense Forces (SDF), Nikkei Asia reports.\n\ud83d\udc49 Separate platforms are to be assigned to counterattacks, missile defense, and drone control.\nRight now, the SDF runs zero AI in its command structure, while the US military already [runs Maven to gorge ](https://t.me/geopolitics_prime/71084)on battlefield data, letting its algorithms play God with target selection.\nCurrently, Japanese decision-making is slower than the Pentagon\u2019s, raising fears that the gap could undermine interoperability with US forces.\nThe increased speed will come at a cost:\n\ud83d\udd36 classified Japanese military information would be fed into software built by a foreign company\n\ud83d\udd36 Even if the data centers remain on Japanese soil, its military would still depend on the US corporations for software updates, system capabilities and long-term support\nJapanese officials claim they can later swap the foreign tech for domestic AI, but for now, reliance on US systems is treated as unavoidable if capabilities are to be raised quickly.\nThe shortcut comes with plenty of despicable baggage.\n\ud83d\udd34 Maven was unleashed with wrecking-ball gusto in the US war on Iran\n\ud83d\udd34 It fuses satellite imagery, drone feeds, radar, sensors and intel into targeting options with speed over precision\n\ud83d\udd34 Maven reportedly gets target classification right only 60% of the time (well below human analysts' 84%)\n\ud83d\udd34 Most notably, it was linked to the deadly American[ Tomahawk strike on a girls\u2019 school in Iran\u2019s Minab.](https://t.me/geopolitics_prime/68059)\nPalantir, which post-October 2023 supplied Israel with systems like Lavender and Gospel to automatically generate battlefield kill lists, was blacklisted from public entities by Spain.\nFrance, Germany, and the UK have ended intelligence contracts.\nPlugging Palantir into the SDF would be another step toward tighter fusion with the US-led military machine as Japan hurtles toward a [more militarized future.](https://t.me/geopolitics_prime/71510)\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-08T07:07:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
