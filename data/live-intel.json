@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T15:48:37.367993+00:00",
+  "generated_at": "2026-08-09T16:43:28.306353+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -325,6 +325,25 @@
       "verified_source_count": 1
     },
     {
+      "title": "Drones spotted over German base days after Leipzig bomb incident",
+      "text": "Drones spotted over German base days after Leipzig bomb incident\nPolice are investigating a drone sighting over a miltary base reportedly used for housing Patriot missile system parts.",
+      "source": "BBC",
+      "source_type": "osint",
+      "publisher": "BBC World News",
+      "severity": "info",
+      "icon": "\ud83d\udcf0",
+      "timestamp": "2026-08-09T16:18:10+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "BBC World News"
+      ],
+      "verified_source_count": 1
+    },
+    {
       "title": "Child among three killed in Russian missile attacks near Kyiv",
       "text": "Child among three killed in Russian missile attacks near Kyiv\nRussia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors.",
       "source": "BBC",
@@ -394,13 +413,14 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
       "verified_sources": [
         "Alsaa Plus EN",
+        "Geopolitics Prime",
         "Middle East Spectator"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 3
     },
     {
       "title": "Telegram",
@@ -437,6 +457,63 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Iranian President Masoud Pezeshkian:\nOur communication with regional countries is improving\u2014compared to the past, and certainly compared to the height of the war, as relations were very good before.\nPakistan is now cooperating with all its heart. Afghanistan\u2019s cooperation is very good. Turkmenistan is good. Azerbaijan had closed all routes and shut down our bank... \nWe called and spoke with them; after a two-hour conversation, they reopened it. The bank, the embassy, and the routes were all reopened. \nDuring the war, they helped us significantly with various routes\u2014whether for Russia\u2019s [supplies] or their own\u2014they accompanied and assisted us with whatever we needed. Iraq is the same.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-09T16:35:10+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Inspired by Ukraine, Taiwan Ramps Up Drone Production to Deter China\nTaiwan is rapidly expanding its production and deployment of military drones, aiming to construct a formidable \"hellscape\" defense to deter a potential Chinese amphibious assault.\n[READ MORE](https://clashreport.com/defense/articles/inspired-by-ukraine-taiwan-ramps-up-drone-production-to-deter-china-bbggsq0303b/)",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-09T16:19:07+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Ukraine Denies Targeting Bulgaria After Drone Explosion\nKyiv denied intentionally targeting Bulgarian territory after a drone, consistent with models deployed by Ukraine, detonated 1,000 meters from a critical gas pipeline connecting T\u00fcrkiye to Ukraine.\n[READ MORE](https://clashreport.com/world/articles/ukraine-denies-targeting-bulgaria-after-drone-explodes-near-pipeline-2zwjx08t6lw)",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-09T15:54:07+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
       ],
       "verified_source_count": 1
     },
@@ -643,12 +720,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "Alsaa Plus EN"
+        "Alsaa Plus EN",
+        "Geopolitics Prime"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -681,13 +759,14 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
       "verified_sources": [
         "Alsaa Plus EN",
+        "Geopolitics Prime",
         "Middle East Spectator"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 3
     },
     {
       "title": "Telegram",
@@ -800,6 +879,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ufe0f\ud83c\uddeb\ud83c\uddf7 The Dassault Rafale, France's twin-engine 4.5-generation fighter was built to handle every combat aviation mission from a single airframe. Born from France's 1985 exit from a multinational fighter program over design disagreements, the jet emerged through the Avion de Combat Experimental effort, first flying in 1986 and entering service with the Navy in 2004 and the Air Force in 2006.\nThe aircraft replaced seven legacy platforms, simplifying training and logistics while becoming one of France's leading defense exports. Its canard-delta wing and fly-by-wire controls deliver strong agility, while the SPECTRA electronic warfare suite integrates jamming, radar warning and decoy systems for survivability in contested airspace.\nDespite that reputation, questions arose after a French lawmaker challenged SPECTRA's performance following a missile-detection failure during the 2025 India-Pakistan conflict. The Rafale also lacks true stealth, relying instead on electronic warfare and tactics rather than low observability.\nEven so, export orders continue from Qatar, Egypt, India, Greece, and others, and planned F5 upgrades aim to keep it relevant alongside France's future air combat systems well past 2060.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-09T16:10:03+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
       ],
       "verified_source_count": 1
     },
@@ -1026,12 +1124,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
+        "Alsaa Plus EN",
         "Geopolitics Prime"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -1064,12 +1163,14 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
       "verified_sources": [
-        "Geopolitics Prime"
+        "Alsaa Plus EN",
+        "Geopolitics Prime",
+        "Middle East Spectator"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 3
     },
     {
       "title": "Telegram",
