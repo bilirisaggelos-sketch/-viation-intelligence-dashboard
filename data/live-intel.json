@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T14:20:29.576014+00:00",
+  "generated_at": "2026-08-09T15:02:48.579502+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -394,14 +394,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
         "Alsaa Plus EN",
-        "Mediterranean Man",
         "Middle East Spectator"
       ],
-      "verified_source_count": 3
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -440,6 +439,26 @@
         "Middle East Spectator"
       ],
       "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "A U.S. MQ-9 drone crashed in Djibouti after reporting distress.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-09T14:40:44+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Clash Report",
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -586,14 +605,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
         "Alsaa Plus EN",
-        "Mediterranean Man",
         "Middle East Spectator"
       ],
-      "verified_source_count": 3
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -702,13 +720,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
-        "Geopolitics Prime"
+        "Alsaa Plus EN"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -767,46 +784,6 @@
         "Mediterranean Man"
       ],
       "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddfe\ud83c\uddea\ud83c\uddf8\ud83c\udde6 The Houthi forces launched more than 20 missiles towards locations of Saudi mercenaries, the missiles landed on target according to the houthi correspondents. \n-the targets were military supplies that got immediately hit upon their arrival at the port of Al-Mukha, intended for Saudi-backed mercenaries.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-09T08:55:57+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddfe\ud83c\uddea\ud83c\uddf8\ud83c\udde6 In a statement by the yemani Houthi forces\n\"By the blessing of Allah, the Yemeni armed forces were able to target the Aramco refinery in Jizan with a drone, and the strike was accurate.\"\nThis targeting comes in response to the Saudi drone incursions into the airspace of the governorates of Saada and Hajjah.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-09T06:54:33+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Mediterranean Man",
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 3
     },
     {
       "title": "Telegram",
@@ -883,6 +860,26 @@
         "CASELS"
       ],
       "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udea8\ud83c\uddfa\ud83c\uddf8 US MQ-9 reportedly crashes in Djibouti\nArab media report that a US MQ-9 drone crashed in Djibouti, with some claims suggesting it was hit over the Bab el-Mandeb Strait.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+tltgWD-GUqw0OTAy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-09T14:45:29+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Clash Report",
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -978,26 +975,6 @@
         "Geopolitics Prime"
       ],
       "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udcb8 Sovereignty for sale: US offers Lebanon $200 million to sideline Hezbollah\nA bipartisan group of US senators has introduced legislation that would authorize $200 million annually in security assistance to Lebanon's armed forces, tying the aid to progress in countering Hezbollah, Bloomberg reports.\nThe bill would also impose sanctions on foreign entities that support the group, aiming to help Lebanon \"reclaim its sovereignty\" and break free from Iranian influence.\nYet Hezbollah seems not so easy to sidestep as the US expects.\n\u2666\ufe0f The group survived a devastating 2024 pager attack and the assassination of its leader Hassan Nasrallah \u2013 only to bounce back and rejoin the fight against Israel\n\u2666\ufe0f Israeli forces are now trapped in southern Lebanon, with Hezbollah grinding through heavy armor using cheap FPV drones \u2013 a far cry from the swift victory Netanyahu's advisors had envisioned\nLebanon's government is weak, its economy is shattered, and Hezbollah is deeply embedded in the state \u2013 providing social services, running schools, and operating hospitals in areas where the state has long been absent. Many locals view it as the only capable defender from Israeli attacks amid government paralysis.\nReplacing Hezbollah's social network, built over decades, with US-funded projects is a gamble. The US may be offering money, but the group is offering resilience \u2013 something that cannot be easily bought off.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+tltgWD-GUqw0OTAy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-09T01:23:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 2
     },
     {
       "title": "Telegram",
