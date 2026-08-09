@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T11:36:30.571837+00:00",
+  "generated_at": "2026-08-09T12:15:35.162288+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -732,6 +732,44 @@
     {
       "title": "Telegram",
       "publisher": "Mediterranean Man",
+      "text": "\ud83c\uddfe\ud83c\uddea\u203c\ufe0f - The Governor of Hodeidah survived a Houthi assassination attempt after a ballistic missile targeted his residence in Al-Khawkhah district south of Hodeidah.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-09T12:14:17+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ud83c\uddf2\ud83c\uddf1 JNIM forces have captured a Malian Armed Forces camp in San, Southern Mali, a deeper attack relative to their usual activity in Northern Mali.\nIt's worth noting that the russian Africa Corps is still conducting daily drone operations against JNIM forces.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-09T11:48:57+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
       "text": "\u26a1\ud83c\uddfe\ud83c\uddea\ud83c\uddf8\ud83c\udde6 The Houthi forces launched more than 20 missiles towards locations of Saudi mercenaries, the missiles landed on target according to the houthi correspondents. \n-the targets were military supplies that got immediately hit upon their arrival at the port of Al-Mukha, intended for Saudi-backed mercenaries.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -778,25 +816,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-08T18:58:47+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddf4\ud83c\udde7\ud83c\uddecA Ukrainian MAYA decoy drone entered Bulgaria from Romania and crashed this morning in Kardam, near the border and less than 1 km from the Trans-Balkan gas pipeline. No injuries or damage are reported. \nThe Bulgarian government confirms that the aircraft was not detected by Romanian and Bulgarian radar. The Bulgarian Ministry of Defense rules out an intentional act.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-08T16:54:03+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
