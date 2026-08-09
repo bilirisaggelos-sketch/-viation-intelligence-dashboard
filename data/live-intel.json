@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T20:41:13.595781+00:00",
+  "generated_at": "2026-08-09T21:15:26.043665+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -557,25 +557,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Ukraine Denies Targeting Bulgaria After Drone Explosion\nKyiv denied intentionally targeting Bulgarian territory after a drone, consistent with models deployed by Ukraine, detonated 1,000 meters from a critical gas pipeline connecting T\u00fcrkiye to Ukraine.\n[READ MORE](https://clashreport.com/world/articles/ukraine-denies-targeting-bulgaria-after-drone-explodes-near-pipeline-2zwjx08t6lw)",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-09T15:54:07+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Our Wars Today",
       "text": "\ud83c\uddee\ud83c\uddf1 \ud83c\uddfa\ud83c\uddf8 \ud83c\uddf5\ud83c\uddf8 #BREAKING #Netanyahu Rejects #Trump \"Board of Peace\" Plan To End #Israel's Gaza Genocide, Vows Against Any Form Of #Palestine Statehood, Denying Human Right Of Self-Determination: \nhttps://ground.news/article/israeli-prime-minister-benjamin-netanyahu-rejects-trumps-board-of-peace-plan-for-gaza?utm_source=ourwarstoday&utm_medium=pap-link#a_aid=ourwarstoday\nMore Coverage: T.me/ourwarstoday \n---\n24/7 LIVE News RSS feed: t.me/ournewsfeedtoday\n---\nFootage: t.me/ourwars\n---\nSupport OWT: https://ko-fi.com/ourwarstoday",
       "source": "Telegram",
@@ -744,6 +725,44 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ud83c\uddfe\ud83c\uddea\ud83c\uddf8\ud83c\udde6 More visuals of missiles being launched at saudi targets",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-09T21:00:27+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ud83c\uddfe\ud83c\uddea A number of rockets and drones were launched at Saudi gatherings and weapons depots in Al-Khawjah.\nSome reports indicate of impacts.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-09T20:59:12+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
       ],
       "verified_source_count": 1
     },
