@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T04:23:14.418178+00:00",
+  "generated_at": "2026-08-09T05:30:22.578684+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -1158,25 +1158,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-08T10:09:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddf8\ud83c\udde6\ud83d\udee2 Beyond the Gulf: How Saudi oil disruption is testing global markets\nUS imports of Saudi crude fell to zero in July for the first time since 1985, according to preliminary Department of Energy data. For a country that was importing more than 800,000 barrels a day from Saudi Arabia, that is a striking reversal.\nThe immediate problem is geography. The war with Iran has turned the Strait of Hormuz, the Gulf\u2019s main oil artery, into a major risk zone. Saudi Arabia can bypass Hormuz through its Red Sea terminals, but that route is also under pressure from the renewed conflict with the Houthis, which the kingdom itself helped reignite, leaving its exports exposed on both sides.\n\ud83e\udd14 The missing Saudi barrels are therefore more than a supply story. They show how quickly geopolitical confrontation can disrupt an oil system.\nFor US refiners, that means finding heavy crude elsewhere. Venezuelan shipments have risen sharply, from roughly 100,000 barrels a day in January to nearly 600,000 in July. But Venezuela is hardly the winner here: Washington spent years sanctioning and restricting its oil industry, only to turn back to Venezuelan barrels as disruptions elsewhere tightened supply.\nSaudi Arabia is having to adjust too, offering Asian buyers a $2-per-barrel discount against the Oman-Dubai benchmark for next month, a sign that disrupted trade routes are forcing even one of the world\u2019s biggest oil exporters to compete harder for buyers.\nThe bigger story is not simply that Saudi barrels disappeared from the US market. It is that the oil system is being forced to reroute around multiple political and military crises at once.\n\ud83d\udc49 Washington spent decades trying to shape who produces oil, who sells it, and where it flows. Riyadh spent years projecting military power across its neighborhood. Now both are being reminded of an inconvenient rule of energy geopolitics: you can pressure countries, sanction producers, and wage wars, but tankers still need a safe route from A to B.\nThat is what makes the current disruption bigger than the Gulf itself. If both Hormuz and the Red Sea remain under pressure, global oil flows will keep shifting, freight and insurance costs will rise, and refiners will compete harder for replacement barrels.\nThe world is not running out of oil. The problem is increasingly whether the oil can get where it needs to go without passing through someone else\u2019s war.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-08T08:38:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
