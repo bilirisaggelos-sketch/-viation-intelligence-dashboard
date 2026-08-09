@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T18:00:54.438709+00:00",
+  "generated_at": "2026-08-09T19:03:29.642814+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -974,6 +974,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddf8\ud83c\udde6 Saudi \u2018Sunni NATO\u2019 gets its first Houthi stress test\n\u00a0\n[Houthi drones ](https://t.me/geopolitics_prime/73233)and missiles are raining down relentlessly on [Saudi oil infrastructure](https://t.me/geopolitics_prime/73233), and the positions and arms depots of [Aden-based puppet Yemeni government forces.](https://t.me/geopolitics_prime/73245) The blockade of Saudi oil exports remains in force, with no signs of de-escalation in sight.\nPakistan and Turkey, which just signed a collective defense pact [with the Saudis on Friday](https://t.me/geopolitics_prime/73198), have yet to respond, much less announce or launch retaliatory strikes against Houthi positions.\nEbrahim Azizi, a member of the Iranian parliament\u2019s National Security & Foreign Policy Committee, warned this would happen.\n\ud83d\udcac \u201cSaudis must know that a paper agreement with Turkey and Pakistan will not bring them security, just as years of unilateral milking of the Americans did not bring them security. Reform your policies so that you do not need to beg for security from others,\u201d he tweeted.\nOuch.\nWhat\u2019s next? Turkish and Pakistani naval armadas in the Red Sea and regular ground forces, commandos or mercs on the ground in Yemen? The Ancient Romans, Ottomans, British, Gulf Arab sheikdoms and the United States couldn\u2019t do it, but sure, give it a whirl. N-teenth time\u2019s the charm?\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+tltgWD-GUqw0OTAy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-09T18:51:58+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
