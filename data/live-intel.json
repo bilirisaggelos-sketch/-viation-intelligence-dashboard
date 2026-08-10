@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T23:51:30.151175+00:00",
+  "generated_at": "2026-08-10T02:20:37.351449+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -79,25 +79,6 @@
     },
     {
       "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nMorristown, NJ, Sunday, August 9, 2026 through Sunday, August 9, 2026 Local\nFacility: ZNY",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "08/05/2026",
-      "location": "ZNY NJ",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nDenver, CO, Saturday, August 8, 2026 through Monday, August 10, 2026 Local\nFacility: ZDV",
       "source": "FAA",
       "source_type": "official",
@@ -125,25 +106,6 @@
       "icon": "\ud83d\udea8",
       "timestamp": "08/05/2026",
       "location": "ZDV SD",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nWest Chester, OH, Thursday, August 6, 2026 through Sunday, August 9, 2026 Local\nFacility: ZID",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "08/04/2026",
-      "location": "ZID OH",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
@@ -201,25 +163,6 @@
       "icon": "\ud83d\udea8",
       "timestamp": "08/02/2026",
       "location": "ZHN HI",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nGoodlettsville, TN, Saturday, August 1, 2026 through Sunday, August 1, 2027 UTC\nFacility: ZME",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "07/31/2026",
-      "location": "ZME TN",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
@@ -344,25 +287,6 @@
       "verified_source_count": 1
     },
     {
-      "title": "Child among three killed in Russian missile attacks near Kyiv",
-      "text": "Child among three killed in Russian missile attacks near Kyiv\nRussia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors.",
-      "source": "BBC",
-      "source_type": "osint",
-      "publisher": "BBC World News",
-      "severity": "info",
-      "icon": "\ud83d\udcf0",
-      "timestamp": "2026-08-08T18:06:25+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "BBC World News"
-      ],
-      "verified_source_count": 1
-    },
-    {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
       "text": "\u2014 \ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea NEW: Yemen\u2019s Armed Forces launched a ballistic missile at the house of the Saudi-backed governor of Hodeidah; he survived the attack",
@@ -451,13 +375,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
         "Clash Report"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -628,7 +551,7 @@
       "verification_confidence": 65,
       "verified_sources": [
         "Alsaa Plus EN",
-        "Clash Report"
+        "Mediterranean Man"
       ],
       "verified_source_count": 2
     },
@@ -683,12 +606,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
+        "Alsaa Plus EN",
         "Mediterranean Man"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -807,6 +731,44 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7From IRGC veteran to security chief: Mohsen Rezaei takes Iran's top security post\nMohsen Rezaei has been appointed as the new secretary of Iran's Supreme National Security Council, the country's top security body. He replaces Mohammad Bagher Zolghadr, who took over the position in March 2026 after his predecessor Ali Larijani was killed in an Israeli strike.\nThe Supreme National Security Council plays a critical role in deciding Iranian policy on the US-Iran conflict. It was the body that approved the June ceasefire memorandum that later collapsed over differences on the Strait of Hormuz.\nThe appointment, made by Supreme Leader Mojtaba Khamenei and formalised by President Pezeshkian, places the former IRGC commander at the heart of Iran's wartime decision-making.\nA career that mirrors the Islamic Republic's journey\n\ud83d\udfe5Born in 1954 in Khuzestan province, Rezai was arrested by the Shah's SAVAK secret police in 1971 and later helped draft the IRGC's founding charter after the 1979 revolution\n\ud83d\udfe5At just 27, he was appointed IRGC commander-in-chief by Imam Khomeini \u2013 a post he held for 16 years, making him the longest-serving commander in the force's history\n\ud83d\udfe5His tenure covered the entirety of the Iran-Iraq War, where he commanded major operations\nAfter stepping down in 1997, Rezaei served for 24 years as secretary of the Expediency Discernment Council. He later entered electoral politics, running for president four times between 2005 and 2021. Under President Raisi, he served as vice president for economic affairs. In March 2026, Khamenei appointed him as his military adviser.\nWhat this means for Iranian decision-making?\nAnalysts say Rezaei's appointment signals the further consolidation of power by Iran's security establishment. Rezaei has been a constant presence at the highest levels of Iranian politics and security for over four decades. His elevation also reflects the growing influence of the IRGC in shaping state policy, following its major role in repelling US attacks.\n\ud83d\udc49While Rezaei's appointment does not necessarily mean Iran is moving toward a more hard-line stance, it comes amid increasingly assertive Iranian demands in negotiations with Trump administration. \n\u27a1\ufe0fIran has insisted on its right to control the Strait of Hormuz and has rejected any deal that does not include a lifting of all sanctions. \n\u27a1\ufe0fIran's position has hardened since the collapse of the June ceasefire, with officials stating that future negotiations must be based on mutual respect and non-interference in Iran's internal affairs.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+tltgWD-GUqw0OTAy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-10T02:05:12+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\u2694\ufe0f WATCH: Houthi drones head for Saudi forces in Yemen\nNewly released footage from Yemen's Ansar Allah movement shows drone and ballistic missile launches on July 9 targeting military bases and troop concentrations of Saudi-backed forces [in the city of Mocha](https://t.me/geopolitics_prime/73245), southwestern Yemen.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+tltgWD-GUqw0OTAy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-10T00:40:09+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
       "text": "\u2721\ufe0f Israel quietly redraws borders across the Middle East\n\ud83d\udc49 In a now-deleted post on X, the Israeli Foreign Ministry\u2019s official account published a map alongside propaganda-style commentary on a new UNICEF report on food security in Gaza.\n\ud83d\udccc The map, purporting to show rates of \u201cAcute malnutrition among children under 5 in the Middle East,\u201d is surreal, showing Israel proper and the occupied West Bank jutting deep into Lebanon (roughly matching the areas of the country the IDF currently occupies), Egypt\u2019s Sinai Peninsula sliding south, away from Gaza, Kuwait apparently consumed by the Persian Gulf, and Israel getting a new land border with Saudi Arabia.\n\u2666\ufe0f Oh, and the post\u2019s claim \u2013 that UNICEF data shows the nutritional situation in Gaza to be \u201cbetter than in all neighboring Arab states and even better than in some European countries?\u201d Also false, with data actually showing Gaza and Lebanon glowing bright orange \u201cAcute Food Insecurity: Crisis,\u201d with none of the other countries in the Israeli map as affected.\n\u2666\ufe0f UNICEF says 67% of Gazans are facing \u201cacute food insecurity,\u201d and that \u201csome 74,000 children are still expected to require treatment for acute malnutrition over the coming year, with approximately 25,000 pregnant and breastfeeding mothers requiring nutrition support in the same period.\u201d\n\u2666\ufe0f Seems like the Foreign Ministry is having difficulty properly manipulating UN stats on Gaza. Too much[ Greater Israel](https://t.me/geopolitics_prime/71656) on the brain.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+tltgWD-GUqw0OTAy) |",
       "source": "Telegram",
       "source_type": "telegram",
@@ -918,25 +880,6 @@
         "Middle East Spectator"
       ],
       "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udea8 Houthis launch massive strike on Saudi forces in Yemen \u2014 \"siege for siege, escalation for escalation\"\nYemen's Ansar Allah movement has carried out a large-scale attack on Saudi military positions and weapons depots in the port city of Mokha, using a significant number of missiles and drones.\nThe Houthis claim to have destroyed military equipment and inflicted casualties on Saudi forces, vowing to continue tracking Saudi movements under the principle: \"siege for siege, escalation for escalation.\"\n\ud83d\udc49 Pro-government media reported around 20 drone strikes on Mokha, causing severe damage to civilian infrastructure.\nJust days after Saudi Arabia signed the [\"Mecca Pact\"](https://t.me/geopolitics_prime/73191) with Turkey and Pakistan, the Houthis are testing whether Riyadh's new allies will actually show up \u2014 or just sign papers.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+tltgWD-GUqw0OTAy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-09T11:11:02+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
     },
     {
       "title": "Telegram",
