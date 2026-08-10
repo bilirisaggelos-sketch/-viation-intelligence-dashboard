@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T09:40:23.622494+00:00",
+  "generated_at": "2026-08-10T10:48:58.845710+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -230,14 +230,14 @@
       "verified_source_count": 1
     },
     {
-      "title": "At least 13 killed in Ukrainian drone strike on Russia's Tatarstan region, officials say",
-      "text": "At least 13 killed in Ukrainian drone strike on Russia's Tatarstan region, officials say\nIt is one of the deadliest Ukrainian drone attacks on Russia since the start of Moscow's war on Ukraine.",
+      "title": "At least 13 killed in Ukrainian strike on Russia's Tatarstan region, officials say",
+      "text": "At least 13 killed in Ukrainian strike on Russia's Tatarstan region, officials say\nIt is one of the deadliest Ukrainian drone attacks on Russia since the start of Moscow's war on Ukraine.",
       "source": "BBC",
       "source_type": "osint",
       "publisher": "BBC World News",
       "severity": "info",
       "icon": "\ud83d\udcf0",
-      "timestamp": "2026-08-10T08:50:02+00:00",
+      "timestamp": "2026-08-10T10:03:58+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -380,26 +380,6 @@
         "Clash Report"
       ],
       "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Ukrainian drones struck a series of targets across Russia and occupied territory overnight.\nDrones set fire to the Galaktika shopping center in Makiivka, a former Epicentr seized by Russian forces in 2014.\nThey also struck the oil refinery in Nizhnekamsk, Tatarstan, while Russia claimed 15 drones were shot down near Moscow, disrupting airport operations.\nDrone strikes reportedly caused widespread power outages in Melitopol, Berdyansk, and Donetsk, while explosions and fires were reported in Sevastopol and Kerch.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-10T07:07:25+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "CASELS",
-        "Clash Report"
-      ],
-      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -546,13 +526,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
-        "Mediterranean Man"
+        "Alsaa Plus EN"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -594,26 +573,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddee\ud83c\uddf7 Reports of interceptions of two hostile drones in the airspace over southern Iran.\n-Iranian media stated that The drone that was shot down in the southern region is not American, but rather a Chinese-made drone.\n-This drone was owned and operated by the Royal Saudi Air Force (RSAF).\n-It is still unclear if Saudia actually launched this drone, if it is true, it'll be a big escalation of events between the two countries.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-09T21:54:08+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
       "publisher": "CASELS",
       "text": "Ukrainian drones reportedly struck and destroyed a power substation in Russian-occupied Donetsk.",
       "source": "Telegram",
@@ -624,13 +583,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "CASELS",
-        "Clash Report"
+        "CASELS"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -648,6 +606,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83e\udd25\ud83d\udc41 Space-Eyes deal: enter Trump Jr.?\nAmerican defense-tech upstart Space-Eyes is merging with SPAC McKinley Acquisition Corp. in a deal that pegs the combined company at $638 million.\nBut the thing is Eric Trump, the US president's son, is significantly upping his stake: he's now the third-largest private shareholder, set to serve as strategic advisor to the new entity, and has a hand in picking the board. There's no word from Trump's team on the terms.\nSpace-Eyes builds AI for geospatial intelligence and drone defense systems like SeaWatch and Morpheus. Its main bread and butter is, thus, government contracts. And that makes this whole arrangement land with a thud.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+tltgWD-GUqw0OTAy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-10T10:35:19+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
