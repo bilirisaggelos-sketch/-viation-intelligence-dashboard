@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T07:54:04.105284+00:00",
+  "generated_at": "2026-08-10T09:40:23.622494+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -230,6 +230,25 @@
       "verified_source_count": 1
     },
     {
+      "title": "At least 13 killed in Ukrainian drone strike on Russia's Tatarstan region, officials say",
+      "text": "At least 13 killed in Ukrainian drone strike on Russia's Tatarstan region, officials say\nIt is one of the deadliest Ukrainian drone attacks on Russia since the start of Moscow's war on Ukraine.",
+      "source": "BBC",
+      "source_type": "osint",
+      "publisher": "BBC World News",
+      "severity": "info",
+      "icon": "\ud83d\udcf0",
+      "timestamp": "2026-08-10T08:50:02+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "BBC World News"
+      ],
+      "verified_source_count": 1
+    },
+    {
       "title": "Drones spotted over German base days after Leipzig bomb incident",
       "text": "Drones spotted over German base days after Leipzig bomb incident\nPolice are investigating a drone sighting over a miltary base reportedly used for housing Patriot missile system parts.",
       "source": "BBC",
@@ -327,6 +346,25 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
+      "text": "Ukraine's Military Intelligence destroyed two Russian S-400 launchers and an antenna for controlling Orion drones during an operation in occupied Crimea.\nThe strikes used Magura naval drones as carriers for FPV drones.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-10T08:36:26+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
       "text": "The potential obstacle to Ukraine producing Patriot missiles may be competition, not just security.\nA Republican official said Lockheed Martin and Raytheon would publicly frame their concerns around intellectual-property theft and technology transfer.\nBut their real worry is that Ukraine could improve the Patriot system and produce it at scale, faster and for much less money than existing U.S. production lines.\nSource: The Atlantic",
       "source": "Telegram",
       "source_type": "telegram",
@@ -362,102 +400,6 @@
         "Clash Report"
       ],
       "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "A UK Navy drone\u2019s Chinese-made camera components were found sending \u201cheartbeat\u201d data to an IP address in China. \nThe MoD says no sensitive data was compromised, but the incident exposed a major supply-chain security problem: \nChinese components had made their way into equipment used around British special forces. \nThe cameras were disconnected from the internet, and the UK is now facing renewed concerns about Chinese technology inside sensitive military systems.\nSource: The Telegraph",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-10T06:38:53+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Iranian air defenses reportedly shot down an unidentified UAV over Sirik near the Strait of Hormuz.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-09T22:05:38+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "WATCH: Yemen\u2019s Houthis release video showing ballistic missile and drone launches targeting Saudi forces and weapons depots.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-09T19:28:33+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Clash Report"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "NORAD F-16 jets intercepted two civilian general aviation aircraft that violated Temporary Flight Restrictions over Bedminster, New Jersey, near Trump National Golf Club.\nBoth planes were safely escorted out of the area with no further incident.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-09T19:15:49+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "The U.S. is reportedly increasing pressure on Israel to wind down fighting across Gaza, Lebanon, and Iran.\nWashington wants Israel to scale back strikes, withdraw from additional positions in southern Lebanon, and advance the multinational-force plan in Gaza. \nIsrael is resisting some of these demands, with Netanyahu saying the IDF will continue acting against threats and that Israel will retain the option to strike Iran if it resumes nuclear or ballistic-missile development.\nSource: Israeli Channel 13",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-09T17:49:27+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -643,13 +585,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
-        "Clash Report"
+        "Alsaa Plus EN"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -707,6 +648,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udea8 German auto giant in Ukraine's Zhytomir shut down by Russia's very first strike\nDuring Russia's strikes on Ukraine on August 9, a missile struck the German-owned Kromberg & Schubert plant in Zhytomir.\n\ud83d\udc49 Officially, the facility is 100% foreign-owned, churning out onboard electrical systems, cable harnesses, and wiring kits for the likes of Volkswagen, Audi, BMW, Mercedes-Benz, Skoda, and Porsche.\nUkrainian media immediately cried foul\u2014\"attack on civilian industry,\" \"hundreds of jobs lost.\" But hey, let's not be naive.\n\u27a1\ufe0f German Chancellor Merz signaled as early as spring that Germany's auto sector would be \"massively pivoting\" to military production. These plants, with their precision equipment, are tailor-made for dual-use goods. Actually, Kiev isn't exactly looking for family sedans from Berlin right now.\nRussia's message, however, was crystal clear: any industrial asset on Ukrainian soil serving military purposes is a target. Thus, NATO just got the memo by Russian missiles.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+tltgWD-GUqw0OTAy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-10T09:02:04+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
@@ -833,25 +793,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-09T18:51:58+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddf7\ud83c\uddfa\ud83d\udca3 From shotguns to metal rods: How Russia downs Ukrainian drones with whatever works\nWith Ukraine desperately trying to win in drone warfare, Russian troops have turned the tables with simple and reliable counter-tactics, sometimes turning improvisation into a destruction skill.\nHere's how they're doing it:\n1\ufe0f\u20e3 Assault rifles: A viral night\u2011combat video shows a group of Russian soldiers firing AK assault rifles at an incoming Ukrainian FPV drone\u2014and actually bringing it down.\n2\ufe0f\u20e3 Shotguns: In a helmet-cam video, a Russian soldier is seen using apparently an MP\u2011155 shotgun to hit a suicide drone\u2014detonating its payload safely in mid\u2011air before it can reach its target.\n3\ufe0f\u20e3 Metal rods: In one of the attacks, a Russian FPV drone took out a Ukrainian UAV using nothing but metal rods\u2014no explosives and maximum efficiency.\n4\ufe0f\u20e3 Propellers: Ukrainian fiber-optic drones are immune to radio jamming\u2014but Russian operators found an even smarter workaround: they hunt them down and sever the cable with their own propellers, disabling the enemy without losing a single drone.\n5\ufe0f\u20e3 A sack of potatoes or a duffel bag: A Russian soldier managed to shoot down a Ukrainian FPV drone by throwing a heavy sack (reported by several sources as a sack of potatoes) at it. The impact damaged the propellers, causing the UAV to detonate a few meters away, while the soldier escaped with only minor burns.\n6\ufe0f\u20e3 A tree branch or stick: Footage shows Russian servicemen swatting an enemy drone out of the sky with a single precise blow from a wooden stick or tree branch. In another clip, a Russian soldier stands among bare trees, calmly deflecting an FPV drone with a stick and sending it crashing to the ground.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+tltgWD-GUqw0OTAy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-09T17:22:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
