@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T10:48:58.845710+00:00",
+  "generated_at": "2026-08-10T11:53:46.656939+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -346,12 +346,12 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Ukraine's Military Intelligence destroyed two Russian S-400 launchers and an antenna for controlling Orion drones during an operation in occupied Crimea.\nThe strikes used Magura naval drones as carriers for FPV drones.",
+      "text": "India's Akash-1S air defense system\u2014renamed \"Lusan\" (Lynx) in Armenian service\u2014is now in active use with Armenia's Armed Forces.\nArmenia was the first export customer for the system, under a 2022 deal worth roughly $720 million for 15 batteries. \nFirst deliveries arrived in November 2024, with a second batch after July 2025.\nThe Akash-1S is a medium-range SAM with about 25\u201330 km range, capable of tracking around 60 targets and engaging up to 16 simultaneously against aircraft, drones, and cruise missiles.\nArmenia is also reportedly eyeing the longer-range Akash-NG as a follow-on.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-10T08:36:26+00:00",
+      "timestamp": "2026-08-10T11:39:55+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -365,12 +365,12 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "The potential obstacle to Ukraine producing Patriot missiles may be competition, not just security.\nA Republican official said Lockheed Martin and Raytheon would publicly frame their concerns around intellectual-property theft and technology transfer.\nBut their real worry is that Ukraine could improve the Patriot system and produce it at scale, faster and for much less money than existing U.S. production lines.\nSource: The Atlantic",
+      "text": "Ukraine's Military Intelligence destroyed two Russian S-400 launchers and an antenna for controlling Orion drones during an operation in occupied Crimea.\nThe strikes used Magura naval drones as carriers for FPV drones.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-10T07:09:06+00:00",
+      "timestamp": "2026-08-10T08:36:26+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
