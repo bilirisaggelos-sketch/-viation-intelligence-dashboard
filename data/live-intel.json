@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T18:36:18.398734+00:00",
+  "generated_at": "2026-08-10T19:44:03.561935+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -336,14 +336,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
         "Alsaa Plus EN",
-        "Clash Report",
         "Middle East Spectator"
       ],
-      "verified_source_count": 3
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -386,6 +385,25 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
+      "text": "Zelensky:\nFor the first time, they cannot fight without \"additives\" from North Korea. They are now preparing to station an additional contingent of Koreans on their territory. They have received\u2014imagine this\u2014additional ballistics from North Korea.\nEveryone in the world must understand what this means. North Korean ballistics, their other weapons are being perfected through collaboration with Russia. \nThe more North Korean hits we have here in Ukraine and in Europe, the more their missiles and soldiers are used, the more they will correct their imperfections and lack of knowledge. \nConsequently, there will be even more danger later for Japan, for the Republic of Korea, for the Philippines, and other countries in the region.\nThis is why, when we speak about the necessity of helping us with air defense, we are also talking, in fact, about rebuffing North Korea's appetite and interest in coming here\u2014to our land, to our sky\u2014with its weapons to learn how to wage war.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-10T18:40:29+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
       "text": "WATCH: Ukrainian MiG-29 jet crashing in Odesa region after an air-to-air missile reportedly caught fire during launch against a drone.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -404,41 +422,20 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Trump:\nAlso, with respect to the Iran negotiations, Iran should be responsible for the damages and death caused to the people of Lebanon, Syria, Yemen, and Gaza!",
+      "publisher": "Our Wars Today",
+      "text": "[Ukraine's drone chief says push to cripple Russia in Crimea is just getting started](https://www.pbs.org/newshour/world/ukraines-drone-chief-says-push-to-cripple-russia-in-crimea-is-just-getting-started)\nUkraine's drone forces could strike seven times more targets in Crimea if Western funding came faster, according to the commander leading Ukraine's drone war. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://www.pbs.org/newshour/world/ukraines-drone-chief-says-push-to-cripple-russia-in-crimea-is-just-getting-started)\npbs\u200b.org \u2022 Aug 10, 2026",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-10T17:49:10+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Clash Report",
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 3
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "A Ukrainian MiG-29 crashed in Odesa region after catching fire during a missile launch. \nThe pilot survived.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-10T17:45:59+00:00",
+      "timestamp": "2026-08-10T18:44:52+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Clash Report"
+        "Our Wars Today"
       ],
       "verified_source_count": 1
     },
@@ -587,14 +584,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
         "Alsaa Plus EN",
-        "Clash Report",
         "Middle East Spectator"
       ],
-      "verified_source_count": 3
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -608,31 +604,52 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "Alsaa Plus EN"
+        "Alsaa Plus EN",
+        "Mediterranean Man"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf7\u25b6\ufe0f \u2014 Second hostile drone was targeted and shot down by Iranian air defenses in the airspace over southern Iran.\n\u26aa\ufe0f",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ufe0f\ud83c\uddf8\ud83c\uddfe\ud83c\uddee\ud83c\uddf1 Kan Hebrew Channel:\n A year and eight months after the Israeli army declared the destruction of the Syrian Air Force with the collapse of the Assad regime, the Israeli security establishment has recently observed that the Syrians have significantly accelerated the rebuilding of their air force: from recruiting new pilots and training with training aircraft and helicopters, to the first maneuver in the last 24 hours conducted using Sukhoi fighter jets in northern Syria.\nUnder the current regime, the Syrians receive support from Turkey, Saudi Arabia, Russia, France, and other countries in the region. Despite talk of a future security agreement with Israel, the security establishment is monitoring developments that could harm Israel's freedom of action in Syrian airspace. Israel's primary concern is the consolidation of the Turkish presence in Syria, including the deployment of air defense systems.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-09T21:44:32+00:00",
+      "timestamp": "2026-08-10T19:43:47+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN"
+        "Mediterranean Man"
       ],
       "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8 Unconfirmed reports of a missile launched towards an oil tanker in the Strait of Hormuz.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-10T18:55:48+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -707,6 +724,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83e\udd14 Can US military\u2019s new Africa propaganda unit psyop its way out of regional retreat?\n\u00a0\nAFRICOM has just activated \u2018Drongo Company\u2019 \u2013 a Fort Bragg, NC-based psychological operations unit tasked with \u201cexpanding\u201d the Pentagon\u2019s \u201cability to influence foreign audiences\u201d on the continent.\n\ud83d\udc49 Subordinated to the 7th Psychological Operations Battalion, Drongo Company fittingly derives its name from a native bird known for its ability to psyche out other animals to steal their food (just don\u2019t google what drongo means in Australian slang).\nDrongo Company\u2019s official mission sounds benign or even positive: fighting \u201cterrorist recruitment,\u201d criminal groups and \u201cextremist ideologies.\u201d But the fine print: \u201ccountering malign influence in the region\u201d \u2013 reveals the real objective: working to preserve some measure of US and NATO influence amid a regional retreat and the rise of \u201cstrategic competitors\u201d \u2013 China, Russia and [Iran, who challenge Western neocolonialism](https://t.me/geopolitics_prime/73126) and compete with the US for resources, [strategic footholds and trade arteries](https://t.me/geopolitics_prime/71428).\n\ud83d\udd0a The unit intends to create and distribute \u201cpersuasive messages intended to change how selected audiences think or act.\u201d\nWhile AFRICOM touts the use of \u201cprint media, radio broadcasts, text messaging, direct engagement, television programming, social media platforms, and online resources,\u201d its psyops forces\u2019 actual toolkits are known to contain an array of sophisticated tech, from jammers to customized Air Force aircraft \u201cspecifically modified for the PSYOP role\u201d (possibly including mental manipulation \u2013 read up on Operation Crimson Mist, codename for a suspected operation using ultra-low frequency electromagnetic waves which may have triggered the 1994 Rwandan genocide).\n\ud83d\udccc The DoD and the CIA have 70+ year record of experimenting with mind-altering experiments,[ from MK Ultra to aural psychological warfare](https://t.me/geopolitics_prime/71522) (Operation Wandering Soul in Vietnam for example involved the broadcast of haunting recordings designed to drive enemy forces insane).\nThe Pentagon\u2019s official psychological warfare manual admits that its objectives include altering targeted populations\u2019 \u201cemotions, motives, [and] objective reasoning,\u201d and doing so in such a way \u201cso that the role of the United States Government is not apparent or acknowledged publicly.\u201d In other words, don\u2019t expect Drongo Company to just do a few radio ads, print a couple leaflets and[ call it a day](https://t.me/geopolitics_prime/61604).\n\u00a0\n\ud83e\udd14 Why now?\n\u00a0\nThe 2025 US National Security Strategy classified Africa a source of energy, critical minerals and markets, but otherwise treats it as a secondary theater, calling for Washington to avoid \u201cany long-term American presence or commitments.\u201d\n\ud83d\udc49 Indeed, AFRICOM chief Dagvin R.M. Anderson lamented in testimony in May that his command\u2019s regional posture has suffered a \u201c75% reduction\u201d in capabilities over the last decade, creating an \u201cintelligence black hole.\u201d\nSince 2020, US and allied (mostly French, as well as German) forces have been kicked out of Mali, Burkina Faso, Niger, Chad, Ivory Coast, Senegal, and scaled back operations in Somalia.\n\ud83e\udd14 The US\u2019s new Africa strategy seems to be \u2018if you can\u2019t beat \u2018em, hypnotize \u2018em\u2019. Will it work? Only time will tell (if a bunch of regional countries with warm relations with US adversaries and competitors start suffering \u2018random\u2019 unrest, chaos, and color revolutions, for example).\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-10T19:32:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
@@ -890,25 +926,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-09T20:22:53+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddf8\ud83c\udde6 Saudi \u2018Sunni NATO\u2019 gets its first Houthi stress test\n\u00a0\n[Houthi drones ](https://t.me/geopolitics_prime/73233)and missiles are raining down relentlessly on [Saudi oil infrastructure](https://t.me/geopolitics_prime/73233), and the positions and arms depots of [Aden-based puppet Yemeni government forces.](https://t.me/geopolitics_prime/73245) The blockade of Saudi oil exports remains in force, with no signs of de-escalation in sight.\nPakistan and Turkey, which just signed a collective defense pact [with the Saudis on Friday](https://t.me/geopolitics_prime/73198), have yet to respond, much less announce or launch retaliatory strikes against Houthi positions.\nEbrahim Azizi, a member of the Iranian parliament\u2019s National Security & Foreign Policy Committee, warned this would happen.\n\ud83d\udcac \u201cSaudis must know that a paper agreement with Turkey and Pakistan will not bring them security, just as years of unilateral milking of the Americans did not bring them security. Reform your policies so that you do not need to beg for security from others,\u201d he tweeted.\nOuch.\nWhat\u2019s next? Turkish and Pakistani naval armadas in the Red Sea and regular ground forces, commandos or mercs on the ground in Yemen? The Ancient Romans, Ottomans, British, Gulf Arab sheikdoms and the United States couldn\u2019t do it, but sure, give it a whirl. N-teenth time\u2019s the charm?\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+tltgWD-GUqw0OTAy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-09T18:51:58+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
