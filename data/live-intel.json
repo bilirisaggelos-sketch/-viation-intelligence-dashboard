@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T05:50:33.365612+00:00",
+  "generated_at": "2026-08-10T07:54:04.105284+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -68,25 +68,6 @@
       "icon": "\ud83d\udea8",
       "timestamp": "08/07/2026",
       "location": "ZNY NJ",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nDenver, CO, Saturday, August 8, 2026 through Monday, August 10, 2026 Local\nFacility: ZDV",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "08/05/2026",
-      "location": "ZDV CO",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
@@ -340,6 +321,64 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "The potential obstacle to Ukraine producing Patriot missiles may be competition, not just security.\nA Republican official said Lockheed Martin and Raytheon would publicly frame their concerns around intellectual-property theft and technology transfer.\nBut their real worry is that Ukraine could improve the Patriot system and produce it at scale, faster and for much less money than existing U.S. production lines.\nSource: The Atlantic",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-10T07:09:06+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Ukrainian drones struck a series of targets across Russia and occupied territory overnight.\nDrones set fire to the Galaktika shopping center in Makiivka, a former Epicentr seized by Russian forces in 2014.\nThey also struck the oil refinery in Nizhnekamsk, Tatarstan, while Russia claimed 15 drones were shot down near Moscow, disrupting airport operations.\nDrone strikes reportedly caused widespread power outages in Melitopol, Berdyansk, and Donetsk, while explosions and fires were reported in Sevastopol and Kerch.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-10T07:07:25+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "CASELS",
+        "Clash Report"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "A UK Navy drone\u2019s Chinese-made camera components were found sending \u201cheartbeat\u201d data to an IP address in China. \nThe MoD says no sensitive data was compromised, but the incident exposed a major supply-chain security problem: \nChinese components had made their way into equipment used around British special forces. \nThe cameras were disconnected from the internet, and the UK is now facing renewed concerns about Chinese technology inside sensitive military systems.\nSource: The Telegraph",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-10T06:38:53+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
       ],
       "verified_source_count": 1
     },
@@ -644,12 +683,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "CASELS"
+        "CASELS",
+        "Clash Report"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -667,6 +707,44 @@
       "verification_confidence": 30,
       "verified_sources": [
         "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddec\ud83c\udde7\ud83c\udde8\ud83c\uddf3 How UK blames China for its own drone disaster\nBritish Royal Navy surveillance drones have been quietly beaming signals to China, local media claim.\nThe K3 Scout cameras contained Chinese-made components. An investigation later revealed they were sending regular \"pulse signals\" to a Chinese IP address\u2014routine pings confirming the devices were online and operational.\n\ud83d\udc49 In reality, here is a classic blame-shift. When a \"great island power\" and NATO stalwart can't even keep its own fleet's drones in working order, someone else has to carry the can, obviously. If not the Russians, then the Chinese will do it.\nBut the question is why wasn't UK sourcing components from its transatlantic NATO partner, the US? Or does even Trump draw the line at selling them this kind of tech?\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+tltgWD-GUqw0OTAy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-10T07:33:04+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udea8\ud83c\uddf8\ud83c\uddfe Syria wants Middle East\u2019s oil to run through jihadistan\nSyrian and Iraqi officials are \u201cfinalizing\u201d talks on reviving the defunct Kirkuk-Baniyas oil pipeline, which would carry Iraqi crude across Syria to the Mediterranean, Syrian Petroleum Company CEO Youssef Qablawi said this week.\n\ud83d\udc49 The roughly 891-km pipeline is envisioned with a capacity of 1.5-2 million barrels per day. Qablawi says construction could be completed within three years and generate \u201csubstantial revenues\u201d for both countries.\nWashington is backing the idea for an obvious geopolitical reason: every barrel that reaches the Mediterranean through Syria is one less barrel dependent on the Strait of Hormuz, weakening one of Iran\u2019s strongest pieces of regional leverage. US and Qatari-linked interests, including Chevron, TI Capital and UCC Holding, are expected to participate in financing the project.\n\u27a1\ufe0f There is just one problem: drawing a pipeline on a map is considerably easier than keeping one running through Iraq and post-war Syria.\nFirst opened in 1952, the Kirkuk-Baniyas pipeline was knocked out by US airstrikes in 2003. Even before that, it spent almost two decades idle between 1982 and 2000 because of hostility between Damascus and Baghdad. Reconstruction talks resurfaced in the late 2000s before [Syria\u2019s war buried the project again.](https://t.me/geopolitics_prime/68415)\nGetting it back online now means clearing a formidable list of obstacles:\n\u2666\ufe0f its $4.5-8B price tag, requiring significant investor appetite for risk\n\u2666\ufe0f the Iraqi section would pass through areas facing problems with ISIS remnants, not to mention ongoing disputes over oil management, export control and revenue sharing between Baghdad and Iraqi Kurdistan\n\u2666\ufe0f the Syrian section would be even more crowded with uncertainty, from ISIS and al-Qaeda insurgencies to Syrian Kurds\u2019 tensions with Damascus and persecuted Alawite groups in the western part of the country \u2013 all of which could be incentivized to sabotage operations.[ Renewed Houthi attacks on Saudi Arabia](https://t.me/geopolitics_prime/73243) just reminded the world how easy it is for drone and missile-armed non-state actors to wreak havoc on energy infrastructure\n\u2666\ufe0f [Syria\u2019s Turkish sponsors ](https://t.me/geopolitics_prime/72510?single)recently signed their own interim crude transit agreement with Iraq for 750k bpd via the Kirkuk-Ceyhan Pipeline, which has a 1.5M bpd nominal capacity, and may be expanded to 2.5M bpd. Given Ankara\u2019s ambitions as an energy transit mega-power, it\u2019s unclear whether it will tolerate sharing its geography-based advantage with its Damascus clients\n\u2666\ufe0f Plus there\u2019s the [Israeli wildcard,](https://t.me/geopolitics_prime/65909) including Tel Aviv\u2019s habit of targeting the infrastructure even of neutral or US-allied actors, and[ its ever-expanding occupation of Syria](https://t.me/geopolitics_prime/73221)\n\u2666\ufe0f The $150-500M in transit fees Syria hopes to get from the pipeline is pocket change next to the $216-$345B the World Bank says it will cost to rebuild the country. Incidentally, before 2011, when jihadists like al-Sharaa flooded in to destroy Syria, its modest oil sector generated ~$3.2B in annual income\n\u2666\ufe0f As for Iraq, even if the Syria-bound pipeline was rebuilt and exports via Turkey expanded, it would struggle to meet its pre-Iran war crude exports via Hormuz\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+tltgWD-GUqw0OTAy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-10T06:03:04+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
@@ -774,44 +852,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-09T17:22:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\udde8\ud83c\uddf4\ud83c\uddee\ud83c\uddf1 Colombia-Israel reset: reviving a partnership forged in blood and impunity\nFreshly inaugurated Colombian President Abelardo de la Espriella is wasting no time taking Bogota back to familiar territory.\nBreaking with his predecessor Gustavo Petro, who shredded diplomatic relations with Israel, Espriella plans to restore them, move Colombia\u2019s embassy to Jerusalem, pull out of South Africa\u2019s genocide case at the ICJ, and expand trade, technology, security and defense cooperation.\nDisappointing? Sure. Surprising? Not really.\nHistorically, Petro was the exception. Colombia and Israel built decades of close security ties, against the backdrop of Colombia\u2019s exceptionally bloody internal conflict. This included:\n\ud83d\udc49 massive formal defense ties, with Israel selling Colombia everything from small arms (Galil rifles, Uzi submachineguns) to Kfir jets, MX missiles, ATMOS artillery, Spike ATGMs and drones. From the 80s on, Israel consistently ranked the second biggest supplier of arms to Colombia after the US, reaching nearly 40% of all purchases by the mid-2010s\n\ud83d\udc49 Israeli training of Colombian army personnel and special forces, as well as far-right paramilitaries, complimented by the Defense Ministry\u2019s hiring of Israeli consultancies like Global CST to track and target FARC guerrillas\n\ud83d\udc49 IDF-linked operators like Yair Klein providing training to death squads and drug cartels, including Medellin, teaching recruits the basics of drive-by shootings, bombings, snipings and door-to-door killing. Linked to the CIA and Colombian intel, these groups would engage in the systematic murder of entire towns and villages, including Segovia (1988), Mapiripan (1997) and El Salado (2000), involving torture, beheadings, shootings, chainsaw hackings and rapes, including of women and children\n\ud83d\udc49 Israeli arms smuggling to paramilitaries and cartels, including guns used in the 1989 assassination of Liberal Party presidential candidate Luis Carlos Galan (see: the Antigua Affair)\n\ud83d\udc49 Intel collaboration, including the hiring of Mossad agent-turned-merc Rafael Eitan as security advisor by the Barco government in the 80s to eradicate FARC. Eitan\u2019s advice? The systematic murder of members of the Patriotic Union \u2013 a FARC-linked party looking to institutionalize the Left in Colombian politics to end the civil war. From 1984-2016, 5,733 members of the party were killed or forcibly disappeared, per Colombia\u2019s Special Jurisdiction for Peace\n\ud83d\udc49 Heavy Israeli involvement in the training and arming of Carlos Castano Gil\u2019s AUC paramilitaries, who are estimated to have killed nearly 100k civilians. Castano was personally trained in Israel in 1983-84. His forces would eventually account for ~40% of Colombia\u2019s illegal drug exports, and enjoy operational and financial support from the state, wealthy landowners (including president and Espriella ally Alvaro Uribe) and foreign multinationals like Coca-Cola and Chiquita\nIn other words, Espriella\u2019s Israel reset is less a dramatic new beginning than a return to an old playbook.\nAnd Washington appears delighted: Espriella had barely taken office before the Trump administration announced $1B in security assistance to his government.\nColombia and its right-wing governments, death squads and [drug cartels ](https://t.me/geopolitics_prime/69321)is just one of the instability-hit countries of Latin America [where Israel has been heavily invested. ](https://t.me/geopolitics_prime/71363)Others include Argentina ($1B+ in arms sales to the junta between 1976-1983), Guatemala (support for the counterinsurgency targeting of indigenous communities), Nicaragua (first Somoza, then the Contras), El Salvador, Pinochet\u2019s Chile and Paraguay.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+tltgWD-GUqw0OTAy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-09T15:41:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udea8\ud83c\uddfa\ud83c\uddf8 US MQ-9 reportedly crashes in Djibouti\nArab media report that a US MQ-9 drone crashed in Djibouti, with some claims suggesting it was hit over the Bab el-Mandeb Strait.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+tltgWD-GUqw0OTAy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-09T14:45:29+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
