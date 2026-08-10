@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T14:38:57.721590+00:00",
+  "generated_at": "2026-08-10T15:41:30.761860+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -327,6 +327,25 @@
     {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea NEW: Yemeni drones are striking Mokha Port, controlled by Saudi-backed mercenary forces",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-10T14:45:13+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
       "text": "\u2014 \ud83c\uddee\ud83c\uddf7/\ud83c\uddf8\ud83c\uddfe/\ud83c\uddee\ud83c\uddf1 NEW: The Shia faction \u2018Uli Al Ba\u2019s\u2019 (Posessors of Strength), also known as the Islamic Resistance Front in Syria, carried out an attack with 107mm unguided rockets against an Israeli outpost in Daraa Province\nLocal Shia fighters, as well as some former Hezbollah and Syrian Arab Army veterans, continue to carry out operations against the IDF occupation in southern Syria despite Jolani\u2019s rule.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -365,50 +384,69 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
+      "text": "Former Israeli PM Naftali Bennett:\nI absolutely do not want to see Benjamin Netanyahu in an orange uniform going into prison. \nFor many, many Israelis, he has long since become more than a prime minister \u2014 he is a symbol. \nI have nothing against him. I don\u2019t want to see him in prison. \nLet him go home, go back to his house, do whatever he wants.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-10T15:03:10+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Israel\u2019s Agriculture Minister Avi Dichter:\nPakistan, Saudi Arabia and T\u00fcrkiye. This is a very, very problematic Sunni alliance for the State of Israel.\nEgypt will apparently join this alliance as well.\nThere was an Iran\u2013Iraq\u2013Syria\u2013Lebanon axis, which we cut down, and Syria and Lebanon have left that game. Now we have another alliance.\nThis requires us to be very, very careful. Pakistan is a country with nuclear weapons, and on this issue we need to remain on guard.\nThis only strengthens the need for an alliance with a global superpower on the scale of the United States.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-10T14:46:24+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Somalia's House of the People elected Abdulkadir Mohamed Nur\u2014commonly known as Jama\u2014as its new Speaker. \nThe role is widely regarded as Somalia's second most powerful political position after the presidency.\nNur was educated in T\u00fcrkiye on a Turkish government scholarship, graduating from Ankara University in 2016. \nHe speaks fluent Turkish and served in Somalia's embassy in Ankara for years. \nHis previous roles include Minister of Justice, Minister of Defence, and most recently Minister of Ports and Maritime Transport.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-10T14:38:51+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
       "text": "Lockheed and Raytheon's Fear of Ukrainian Efficacy Could Derail Patriot Licensing\nThe defense giants are resisting Ukraine's push to manufacture Patriot missiles, fearing Kyiv will upgrade the interceptors and mass-produce them faster and cheaper.\n[READ MORE](https://clashreport.com/defense/articles/lockheed-and-raytheons-fear-of-ukrainian-efficacy-could-derail-patriot-licensing-kba0g01qwz)",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-10T14:17:53+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "WATCH: Chinese Long March 7A (CZ-7A) rocket exploded during first-stage flight, roughly 85 seconds after liftoff from the Wenchang Space Launch Site in Hainan. \nIt was the vehicle's 18th flight and only its second failure.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-10T13:36:20+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Russia is rapidly replacing its slow Shahed drones with much faster jet-powered versions that can reach 350\u2013600 km/h and, in some cases, use machine vision to track moving targets. \nThey are harder to intercept and have already reduced Ukraine\u2019s previously very high shoot-down rates. \nThe trade-off is that they cost more, have shorter range, and are less maneuverable. \nUkraine is now developing faster, autonomous and jet-powered interceptor drones to counter them.\nSource: BBC",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-10T13:24:49+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -644,6 +682,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83e\udd21\ud83c\uddee\ud83c\uddf1 AI cringe video made by Israel's Defense Minister 'Kach' based on generated airstrikes \nCringe, cringe. Israel's defense minister Katz just launched his campaign with AI-generated strikes on neighboring countries, and it's as awkward as it sounds.\n\ud83d\udc49 Sitting minister Israel Katz dropped a campaign video that's all bravado: bombing Lebanon, Gaza, and Iran.\nBut the whole \"boom-boom\" production is so half-baked that the AI voiceover doesn't even get his name right, chanting \"Kach\" instead of Katz.\n\ud83e\udd21 Nothing says \"I'm phoning this in\" like letting a robot mispronounce your own surname while you take credit for other people's wars.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-10T15:03:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
