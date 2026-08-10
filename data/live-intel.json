@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T17:39:10.375797+00:00",
+  "generated_at": "2026-08-10T18:36:18.398734+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -306,14 +306,14 @@
       "verified_source_count": 1
     },
     {
-      "title": "Drones spotted over German base days after Leipzig bomb incident",
-      "text": "Drones spotted over German base days after Leipzig bomb incident\nPolice are investigating a drone sighting over a miltary base reportedly used for housing Patriot missile system parts.",
+      "title": "How a schoolteacher's son became Kashmir's first India Test cricketer",
+      "text": "How a schoolteacher's son became Kashmir's first India Test cricketer\nAuqib Nabi becomes Jammu and Kashmir's first cricketer to get India Test call-up, inspiring millions.",
       "source": "BBC",
       "source_type": "osint",
       "publisher": "BBC World News",
       "severity": "info",
       "icon": "\ud83d\udcf0",
-      "timestamp": "2026-08-09T16:18:10+00:00",
+      "timestamp": "2026-08-09T03:00:44+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -323,6 +323,27 @@
         "BBC World News"
       ],
       "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014 \ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7 NEW: President Trump says Iran should pay damages for deaths caused in Lebanon, Syria, Yemen and Gaza",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-10T17:47:10+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Clash Report",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 3
     },
     {
       "title": "Telegram",
@@ -365,12 +386,12 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "On the same day a 7.4-magnitude earthquake struck Colombia's Pacific region, the new Colombian government announces its recognition of Israeli sovereignty over the Golan Heights.",
+      "text": "WATCH: Ukrainian MiG-29 jet crashing in Odesa region after an air-to-air missile reportedly caught fire during launch against a drone.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-10T16:10:42+00:00",
+      "timestamp": "2026-08-10T18:26:07+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -384,12 +405,33 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Iran\u2019s attacks have caused about $13 billion in damage to the U.S., with 2,000+ missile and drone strikes against U.S. bases since Operation Epic Fury began. \nThe attacks damaged 20 facilities in eight countries and damaged or destroyed 42 U.S. aircraft.\nSource: WSJ",
+      "text": "Trump:\nAlso, with respect to the Iran negotiations, Iran should be responsible for the damages and death caused to the people of Lebanon, Syria, Yemen, and Gaza!",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-10T15:56:45+00:00",
+      "timestamp": "2026-08-10T17:49:10+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Clash Report",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 3
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "A Ukrainian MiG-29 crashed in Odesa region after catching fire during a missile launch. \nThe pilot survived.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-10T17:45:59+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -536,6 +578,46 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
+      "text": "TRUMP: Iran to Pay for Regional Deaths & Destruction\nTrump demands Iran cover damages and deaths in Lebanon, Syria, Yemen, and Gaza. Washington and Tehran clash over compensation and negotiations.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-10T18:28:06+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Clash Report",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 3
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf7\u26a1\ufe0fUnconfirmed: A missile launch from Iran towards the Strait of Hormuz\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-10T17:56:25+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
       "text": "\ud83c\uddee\ud83c\uddf7\u25b6\ufe0f \u2014 Second hostile drone was targeted and shot down by Iranian air defenses in the airspace over southern Iran.\n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
@@ -549,6 +631,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf3\ud83c\uddeb\ud83c\uddf7 India has\u00a0initiated formal efforts to participate in the multinational\u00a0Future Combat Air System\u00a0(FCAS) sixth-generation fighter program, selecting the French-led initiative over the\u00a0Global Combat Air Program (GCAP)\u00a0consisting of Italy, Japan and the UK.\nNew Delhi\u2019s defense ministry verified it had \u201cinitiated efforts in a concerted manner to co-join\u201d the initiative in a document submitted to lawmakers in early August.\nThe Indian Parliament\u2019s Standing Committee on Defence has requested a detailed status report, roadmap, and timeline related to the potential acquisition in the defense agency\u2019s next submission.\nThis only strengthens the already existing aviation defence relationship between France and India even more with France promising to help India in its own 5th gen Advanced Medium Combat Aircraft (AMCA) endeavour and the delivery of the 114 Rafales that were bought.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-10T18:31:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
       ],
       "verified_source_count": 1
     },
@@ -606,6 +707,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddee\ud83c\uddf7\ud83d\udcf9Video resurfaces of Iranian strike damage at US base in Kuwait\nNew satellite imagery reveals a helicopter hangar at Camp Buehring was struck during Iranian missile attacks on April 14.\nCamp Buehring is a major US Army staging post and logistics hub located in the northwestern desert of Kuwait, near the Udairi Range Complex.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-10T18:01:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
