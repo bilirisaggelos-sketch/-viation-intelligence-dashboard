@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T21:22:15.732156+00:00",
+  "generated_at": "2026-08-10T22:09:13.717826+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -385,6 +385,25 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
+      "text": "Libya\u2019s National Oil Corporation says a drone attacked the Zawiya oil blending plant.\nIt follows several drone strikes around the Zawiya oil complex since Aug 8.\nNo group has claimed responsibility.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-10T22:05:48+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
       "text": "Abdul El-Sayed on Israel:\nWe\u2019ve got a responsibility in the United States to be holding countries accountable. \nLike, if any other country behaved the way that Israel behaved, we would treat them in a very different way, and we don\u2019t.\nAnd I think we have to be really considerate about why. Well, it\u2019s the same experience I just had, which is that you have one organization, a super PAC, committed to our foreign policy, backstopping a different foreign government, that is going to spend tens of millions of dollars to beat you if you\u2019re willing to speak about Palestinian rights to peace, dignity, and self-determination.\nAnd, you know, we came through it. They\u2019re coming back in the general. They\u2019re going to spend another $30 million to try to beat me. You failed last time, so good luck with that.\nBut I think the American public is starting to realize that we owe our own people to use our tax dollars here rather than to send our tax dollars abroad to drop bombs on other people and their kids.\nSource: The Jim Acosta Show",
       "source": "Telegram",
       "source_type": "telegram",
@@ -575,6 +594,25 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
+      "text": "\ud83d\udea8\ud83c\uddfe\ud83c\uddea \u2014 Yemen\u2019s government-aligned forces conducted a series of coordinated retaliatory strikes and drone operations against Houthi militia positions across the Al-Jawf and Shabwa-Marib border regions \u2014 Yemen Armed Forces Media / Al-Sahil news.\n\u27a1\ufe0f The Yemen Armed Forces Media Center released drone footage documenting strikes reportedly on Houthi personnel, hardware, and logistical movements throughout the eastern Al-Jawf governorate.\n\u27a1\ufe0f Under \"Operation Sahoom Shabwa,\" a coalition comprising the Shabwa Defense Forces, Saba Axis, and the 26th Brigade deployed artillery and UAVs against Houthi nodes in the Ain-Harib sector. The Joint Forces in the West Coast characterized the offensive as a \"retaliatory strike\" following a Houthi drone engagement on 3rd Brigade positions that resulted in two personnel killed and multiple others wounded.\n\u2b50\ufe0f Follow",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-10T21:46:09+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
       "text": "TRUMP: Iran to Pay for Regional Deaths & Destruction\nTrump demands Iran cover damages and deaths in Lebanon, Syria, Yemen, and Gaza. Washington and Tehran clash over compensation and negotiations.\n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
@@ -724,6 +762,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83e\ude96 The Suez Canal and 430,000 soldiers: Egypt may be the next to join the alliance of Sunni states\nThe trilateral defense agreement was signed in Mecca on August 7. The very next day, discussions about its expansion were already underway, with Turkish Foreign Minister Hakan Fidan telling the media:\u00a0\"Egypt will also be among us. There are only technical issues left.\"\n\ud83e\udd14 Why Egypt? The country possesses one of the largest armies in the region\u2014over 430,000 personnel. In addition, Egypt controls the Suez Canal \u2014 a strategic artery through which a significant portion of global trade passes \u2014 and has access to the Red Sea. The Red Sea and the Bab el-Mandeb Strait handle a substantial volume of oil transit from the Persian Gulf to Europe and North America. However, the strait itself lies outside Egypt's direct control.\nThe text of the agreement does not outline the distribution of roles among the participants. However, based on the geographic position and military potential of each country, one can speculate on how their roles might take shape.\n\ud83d\udc49 Pakistan is the only nuclear power in the Muslim world. Its army numbers over 650,000 personnel, and its naval bases provide a presence in the Arabian Sea and the northern Indian Ocean. Turkey possesses advanced defense technologies, while Saudi Arabia has significant financial resources.\nTogether, Egypt and Pakistan effectively command control over two key nodes of global oil logistics\u2014the Suez Canal and the approaches to the Strait of Hormuz. Both countries rank among the largest military powers in the Islamic world, making their joint presence in the alliance unprecedented in scale.\n\ud83d\udc4d Boost us | Chat |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-10T21:26:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
