@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T15:41:30.761860+00:00",
+  "generated_at": "2026-08-10T16:36:31.342097+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -384,12 +384,12 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Former Israeli PM Naftali Bennett:\nI absolutely do not want to see Benjamin Netanyahu in an orange uniform going into prison. \nFor many, many Israelis, he has long since become more than a prime minister \u2014 he is a symbol. \nI have nothing against him. I don\u2019t want to see him in prison. \nLet him go home, go back to his house, do whatever he wants.",
+      "text": "On the same day a 7.4-magnitude earthquake struck Colombia's Pacific region, the new Colombian government announces its recognition of Israeli sovereignty over the Golan Heights.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-10T15:03:10+00:00",
+      "timestamp": "2026-08-10T16:10:42+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -403,50 +403,12 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Israel\u2019s Agriculture Minister Avi Dichter:\nPakistan, Saudi Arabia and T\u00fcrkiye. This is a very, very problematic Sunni alliance for the State of Israel.\nEgypt will apparently join this alliance as well.\nThere was an Iran\u2013Iraq\u2013Syria\u2013Lebanon axis, which we cut down, and Syria and Lebanon have left that game. Now we have another alliance.\nThis requires us to be very, very careful. Pakistan is a country with nuclear weapons, and on this issue we need to remain on guard.\nThis only strengthens the need for an alliance with a global superpower on the scale of the United States.",
+      "text": "Iran\u2019s attacks have caused about $13 billion in damage to the U.S., with 2,000+ missile and drone strikes against U.S. bases since Operation Epic Fury began. \nThe attacks damaged 20 facilities in eight countries and damaged or destroyed 42 U.S. aircraft.\nSource: WSJ",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-10T14:46:24+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Somalia's House of the People elected Abdulkadir Mohamed Nur\u2014commonly known as Jama\u2014as its new Speaker. \nThe role is widely regarded as Somalia's second most powerful political position after the presidency.\nNur was educated in T\u00fcrkiye on a Turkish government scholarship, graduating from Ankara University in 2016. \nHe speaks fluent Turkish and served in Somalia's embassy in Ankara for years. \nHis previous roles include Minister of Justice, Minister of Defence, and most recently Minister of Ports and Maritime Transport.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-10T14:38:51+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Lockheed and Raytheon's Fear of Ukrainian Efficacy Could Derail Patriot Licensing\nThe defense giants are resisting Ukraine's push to manufacture Patriot missiles, fearing Kyiv will upgrade the interceptors and mass-produce them faster and cheaper.\n[READ MORE](https://clashreport.com/defense/articles/lockheed-and-raytheons-fear-of-ukrainian-efficacy-could-derail-patriot-licensing-kba0g01qwz)",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-10T14:17:53+00:00",
+      "timestamp": "2026-08-10T15:56:45+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -618,25 +580,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-09T19:53:48+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddf8\ud83c\udde6 \u2014 Footage Revealed by Ansarallah Military shows the launch of several ballistic missiles and drones targeting Saudi Arabian gatherings and weapons depots in Al-Khawjah.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-09T19:42:58+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
