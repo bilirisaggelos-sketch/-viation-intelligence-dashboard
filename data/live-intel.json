@@ -1,6 +1,25 @@
 {
-  "generated_at": "2026-08-10T22:09:13.717826+00:00",
+  "generated_at": "2026-08-10T22:58:20.514817+00:00",
   "events": [
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nDENVER, CO, Friday, August 14, 2026 through Saturday, August 15, 2026 Local\nFacility: ZDV",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "08/10/2026",
+      "location": "ZDV CO",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nMacon, GA, Wednesday, August 12, 2026 through Saturday, August 15, 2026 Local\nFacility: ZTL",
