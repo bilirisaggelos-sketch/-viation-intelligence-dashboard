@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T14:45:31.419713+00:00",
+  "generated_at": "2026-08-11T15:44:53.323656+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -482,6 +482,25 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
+      "text": "Investigators Uncover Antenna and DNA Traces in Leipzig Airport Drone Attack\nGerman investigators probing a failed drone attack on Ukrainian cargo planes uncovered forensic evidence, including a suspicious signal antenna and multiple DNA traces.\n[READ MORE](https://clashreport.com/world/articles/investigators-uncover-antenna-and-dna-traces-in-leipzig-airport-drone-attack-1rt1igftr8q)",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-11T15:14:51+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
       "text": "Investigators probing the suspected August 4 drone attack at Leipzig/Halle Airport found a suspicious antenna and several DNA traces that could help identify the perpetrators. \nThe modified drone carried a 5G router, two SIM cards, a camera and an extra battery, suggesting it could be remotely controlled over long distances. \nIt was also carrying around 600g of Semtex, but the explosive failed to detonate due to a defective detonator.\nSource: Tagesschau",
       "source": "Telegram",
       "source_type": "telegram",
@@ -671,25 +690,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Our Wars Today",
-      "text": "[An alarm was declared in Kyiv and a number of regions due to the threat of enemy drones](https://www.pravda.com.ua/news/2026/08/08/8047835/)\nAn air alert was declared in the capital and regions of Ukraine due to the threat of attack drones, the Air Force warns of the danger - Join Telegrams: t.me/ourwarstoday - Live: t.me/ournewsfeedtoday - Footage: t.me/ourwars - Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://www.pravda.com.ua/news/2026/08/08/8047835/)\n\u0406\u0440\u0438\u043d\u0430 \u0412\u0430\u043a\u0443\u043b\u044e\u043a | pravda\u200b.com\u200b.ua \u2022 Aug 7, 2026",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-08T01:56:44+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Our Wars Today"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Alsaa Plus EN",
       "text": "\ud83c\uddee\ud83c\uddf1\ud83c\uddfa\ud83c\uddf8\u26a1\ufe0f\ud83c\uddf9\ud83c\uddf7 Israel has informed the U.S. about Turkey\u2019s increasing military presence in Syria, including air-defense systems that could threaten Israeli operations.\nSyria recently conducted its first aerial exercise involving fighter jets and a Turkish helicopter, near the Turkish border.\nTurkey has reportedly urged Syria and Lebanon to make agreements with Israel to gain time for military buildup ahead of potential confrontations.\nThis follows the creation of a new defense pact among Turkey, Saudi Arabia, and Pakistan.\n\u26aa\ufe0f",
       "source": "Telegram",
@@ -757,12 +757,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "Alsaa Plus EN"
+        "Alsaa Plus EN",
+        "CASELS"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -901,25 +902,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddf1\ud83c\udde7\ud83c\uddee\ud83c\uddf1 An Israeli drone dropped incendiary substances near Ali Al Taher hill .",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-11T07:30:47+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "CASELS",
       "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfa Ukrainian drones have struck another Wildberries warehouse, this time in the city of Voronezh, located roughly 270km northeast of Kharkiv. \nFollowing the successful drone strike on the warehouse, smoke plumes were seen rising from it. \n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
@@ -969,10 +951,49 @@
       "location": "Global",
       "lat": null,
       "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "CASELS"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udc4c DARPA wants to turn 1982 Clint Eastwood technothriller about mind-controlled weapons into reality\n\u00a0\nDARPA\u2019s Biological Technologies Office (BTO) is hosting an in-person proposer day in September to advance its Firefox Program \u2013 dedicated to developing a \u201cnon-invasive brain-computer interface\u201d using light to read neural signals, and advanced computing tools to interpret them.\n\ud83d\udd0a The agency says it\u2019s already created \u201ca non-invasive coherent optical system capable of recording neural signals at cortical depth in humans.\u201d What it needs from proposers is help \u201covercoming key technological hurdles\u201d linked to building a high-performance, 100-channel brain-computer interface, and addressing \u201cbarriers of scale and processing speed.\u201d\nUsing 50-micron spatial and 100-microsecond temporal resolution, the system is intended to allow for \u201chuman-machine teaming\u201d to allow troops to control complex systems like autonomous drone swarms and vehicle formations using only their minds, without surgically implanted electrodes, and with minimal latency - meaning instantaneous reaction time in high-stress, data-heavy environments.\n\ud83d\udc49 Development is split into two areas: \u201cdeveloping dynamic scanning components for optical signals\u201d using spatial light modulators, microelectromechanical systems and Risley-prisms, and \u201cnew data processing architectures\u201d using all-optical, photonic, in-sensor and neuromorphic-photonic computing.\n\ud83d\udc49 Conceptually, Firefox is ripped straight out of the 1982 Clint Eastwood sci-fi techno-thriller of the same name, in which the CIA recruits a retired Air Force pilot (Eastwood) to steal the MiG-31 \u2013 a fictional Soviet jet with a revolutionary \u201cThought-Controlled Weapons Management System\u201d \u2013 a special helmet with embedded neural receptors linked to the aircraft\u2019s computer.\n\ud83d\udc49 BTO director Dr. Pedro Irazoqui and his colleagues are involved in an array of other dubious mind-and-body control and manipulation programs, including ingestible bioelectric platforms stimulating gut neurons, near-infrared light tech paired with photopharmaceuticals to artificially turn drugs on and off, and wireless neuromodulation interfaces targeting peripheral nerves.\nOther top DARPA figures involved in Firefox include Dr. Michael Koeris (whose work includes biological processing units built out of living neural tissue and brain organoids to run low-power AIs), and Dr. David Blodgett (optical non-invasive BCIs using near-infrared spectroscopy and digital holographic imaging).\n\u00a0\n\ud83e\udd14 In the 1982 movie, Eastwood\u2019s character was instructed to steal the mind-controlled MiG-31 because it posed an overwhelming military threat to the West. But apparently it\u2019s ok when DARPA does it.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime)\u00a0|[ Chat\u00a0](https://t.me/+HLrnOk92f31mYzIy)|",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-11T15:34:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "CASELS"
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83e\ude96\ud83d\udcc9 Epic Fury, Epic Fail: How the US pays the price for its Iran adventure\nAmerica\u2019s military has been \u201cdangerously exposed\u201d since the beginning of Operation Epic Fury against Iran in late February, the Wall Street Journal admits.\nReported statistics speak for themselves: \n\ud83d\udfe5 Iran has conducted more than 2,000 air, missile and drone strikes on US military bases across the Middle East\n\ud83d\udfe5 The strikes damaged at least 20 sites in eight countries used by the US military\n\ud83d\udfe5 In total, Iran has damaged or destroyed more than 42 US warplanes, several of which were parked on air bases\n\ud83d\udfe5 The Islamic Republic has so far inflicted a whopping $13 billion in equipment losses and facility damage on the US alone\nEpic Fury, indeed, and epic losses for US taxpayers.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime)\u00a0|[ Chat\u00a0](https://t.me/+HLrnOk92f31mYzIy)|",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-11T14:55:28+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
@@ -1061,82 +1082,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-11T00:05:08+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83e\ude96 The Suez Canal and 430,000 soldiers: Egypt may be the next to join the alliance of Sunni states\nThe trilateral defense agreement was signed in Mecca on August 7. The very next day, discussions about its expansion were already underway, with Turkish Foreign Minister Hakan Fidan telling the media:\u00a0\"Egypt will also be among us. There are only technical issues left.\"\n\ud83e\udd14 Why Egypt? The country possesses one of the largest armies in the region\u2014over 430,000 personnel. In addition, Egypt controls the Suez Canal \u2014 a strategic artery through which a significant portion of global trade passes \u2014 and has access to the Red Sea. The Red Sea and the Bab el-Mandeb Strait handle a substantial volume of oil transit from the Persian Gulf to Europe and North America. However, the strait itself lies outside Egypt's direct control.\nThe text of the agreement does not outline the distribution of roles among the participants. However, based on the geographic position and military potential of each country, one can speculate on how their roles might take shape.\n\ud83d\udc49 Pakistan is the only nuclear power in the Muslim world. Its army numbers over 650,000 personnel, and its naval bases provide a presence in the Arabian Sea and the northern Indian Ocean. Turkey possesses advanced defense technologies, while Saudi Arabia has significant financial resources.\nTogether, Egypt and Pakistan effectively command control over two key nodes of global oil logistics\u2014the Suez Canal and the approaches to the Strait of Hormuz. Both countries rank among the largest military powers in the Islamic world, making their joint presence in the alliance unprecedented in scale.\n\ud83d\udc4d Boost us | Chat |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-10T21:26:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83e\udd21 \ud83e\udd21Has the 'Zelensky Curse' claimed another scalp: this time a US Gen.?\nGeneral Charles Costanza, commander of the US Army's V Corps since April 2024 and the man in charge of American military operations across Europe, including Poland, has been summarily relieved. The decision landed just 2 month before his contract was set to expire. The Pentagon is still tight-lipped on the reasons.\nHere's what V Corps does, and what Costanza oversaw:\n\ud83d\udfe5 coordinating U.S. military posture across Europe;\n\ud83d\udfe5 anchoring the American presence on NATO's eastern flank;\n\ud83d\udfe5 serving as the linchpin of support for Ukraine;\n\ud83d\udfe5 running a forward command hub in Poland.\nSo, he wasn't some back-office general in Eastern Europe, but the commander of key center of US military power in Europe.\nSince late July, the Pentagon has been in purge mode, with War Secretary Hegseth pushing out or suspending more than 20 senior officers.\nBut Costanza's abrupt ouster likely has less to do with Hegseth's housecleaning, and more to do with what he was pushing. Word is, Costanza was lobbying to hand over Patriot missile production to Ukraine. That didn't sit well in the White House, and, even more, it really didn't sit well with America's defense contractors.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-10T20:04:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83e\udd14 Can US military\u2019s new Africa propaganda unit psyop its way out of regional retreat?\n\u00a0\nAFRICOM has just activated \u2018Drongo Company\u2019 \u2013 a Fort Bragg, NC-based psychological operations unit tasked with \u201cexpanding\u201d the Pentagon\u2019s \u201cability to influence foreign audiences\u201d on the continent.\n\ud83d\udc49 Subordinated to the 7th Psychological Operations Battalion, Drongo Company fittingly derives its name from a native bird known for its ability to psyche out other animals to steal their food (just don\u2019t google what drongo means in Australian slang).\nDrongo Company\u2019s official mission sounds benign or even positive: fighting \u201cterrorist recruitment,\u201d criminal groups and \u201cextremist ideologies.\u201d But the fine print: \u201ccountering malign influence in the region\u201d \u2013 reveals the real objective: working to preserve some measure of US and NATO influence amid a regional retreat and the rise of \u201cstrategic competitors\u201d \u2013 China, Russia and [Iran, who challenge Western neocolonialism](https://t.me/geopolitics_prime/73126) and compete with the US for resources, [strategic footholds and trade arteries](https://t.me/geopolitics_prime/71428).\n\ud83d\udd0a The unit intends to create and distribute \u201cpersuasive messages intended to change how selected audiences think or act.\u201d\nWhile AFRICOM touts the use of \u201cprint media, radio broadcasts, text messaging, direct engagement, television programming, social media platforms, and online resources,\u201d its psyops forces\u2019 actual toolkits are known to contain an array of sophisticated tech, from jammers to customized Air Force aircraft \u201cspecifically modified for the PSYOP role\u201d (possibly including mental manipulation \u2013 read up on Operation Crimson Mist, codename for a suspected operation using ultra-low frequency electromagnetic waves which may have triggered the 1994 Rwandan genocide).\n\ud83d\udccc The DoD and the CIA have 70+ year record of experimenting with mind-altering experiments,[ from MK Ultra to aural psychological warfare](https://t.me/geopolitics_prime/71522) (Operation Wandering Soul in Vietnam for example involved the broadcast of haunting recordings designed to drive enemy forces insane).\nThe Pentagon\u2019s official psychological warfare manual admits that its objectives include altering targeted populations\u2019 \u201cemotions, motives, [and] objective reasoning,\u201d and doing so in such a way \u201cso that the role of the United States Government is not apparent or acknowledged publicly.\u201d In other words, don\u2019t expect Drongo Company to just do a few radio ads, print a couple leaflets and[ call it a day](https://t.me/geopolitics_prime/61604).\n\u00a0\n\ud83e\udd14 Why now?\n\u00a0\nThe 2025 US National Security Strategy classified Africa a source of energy, critical minerals and markets, but otherwise treats it as a secondary theater, calling for Washington to avoid \u201cany long-term American presence or commitments.\u201d\n\ud83d\udc49 Indeed, AFRICOM chief Dagvin R.M. Anderson lamented in testimony in May that his command\u2019s regional posture has suffered a \u201c75% reduction\u201d in capabilities over the last decade, creating an \u201cintelligence black hole.\u201d\nSince 2020, US and allied (mostly French, as well as German) forces have been kicked out of Mali, Burkina Faso, Niger, Chad, Ivory Coast, Senegal, and scaled back operations in Somalia.\n\ud83e\udd14 The US\u2019s new Africa strategy seems to be \u2018if you can\u2019t beat \u2018em, hypnotize \u2018em\u2019. Will it work? Only time will tell (if a bunch of regional countries with warm relations with US adversaries and competitors start suffering \u2018random\u2019 unrest, chaos, and color revolutions, for example).\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-10T19:32:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddee\ud83c\uddf7\ud83d\udcf9Video resurfaces of Iranian strike damage at US base in Kuwait\nNew satellite imagery reveals a helicopter hangar at Camp Buehring was struck during Iranian missile attacks on April 14.\nCamp Buehring is a major US Army staging post and logistics hub located in the northwestern desert of Kuwait, near the Udairi Range Complex.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-10T18:01:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
