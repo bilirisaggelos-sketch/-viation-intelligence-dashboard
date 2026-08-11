@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T16:41:55.124294+00:00",
+  "generated_at": "2026-08-11T17:44:26.406808+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -403,6 +403,25 @@
     {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7 Secretary of Iran\u2019s Supreme National Security Council, Major General Mohsen Rezaei:\n\u2018Iran\u2019s message is clear: \nThe Strait of Hormuz will not reopen until the U.S. ends the war and blockade, releases Iran\u2019s frozen assets, and agrees to a region-wide ceasefire, including in Lebanon and Gaza. Until all conditions are met, the Strait will remain closed.\u2019",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-11T17:07:35+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
       "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf7/\ud83c\uddfa\ud83c\uddf8/\ud83c\uddf9\ud83c\uddf7 NEW: During President Trump\u2019s return flight from the NATO summit in Ankara to the UK last month, an Iranian assassination plot was foiled that has been downplayed by the White House, the [Washington Post](https://www.washingtonpost.com/national-security/2026/08/10/trump-flew-secrecy-amid-iran-threat-air-force-one-became-decoy/) reports\nThe threat of an Iranian assassination was considered so high that President Trump was secretly moved from Air Force One to a much smaller C-32A while hidden inside an \u2018airport catering truck\u2019 (a food and beverage cart).",
       "source": "Telegram",
       "source_type": "telegram",
@@ -431,13 +450,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
         "Middle East Spectator"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -461,20 +479,20 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7 NEW: President Trump says Iran should pay damages for deaths caused in Lebanon, Syria, Yemen and Gaza",
+      "publisher": "Clash Report",
+      "text": "Israel warned the Trump administration of intelligence indicating an \"Iranian plot to target\" Trump and Air Force One with shoulder-fired missiles.\nU.S. security officials secretly moved Trump to a military jet in an airport catering truck, while Secretary of State Marco Rubio, other senior aides and reporters remained aboard Air Force One as part of the decoy. \nNo missiles were ultimately fired, and the credibility of the threat remains unclear.\nSource: WSJ",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-10T17:47:10+00:00",
+      "timestamp": "2026-08-11T17:10:46+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Middle East Spectator"
+        "Clash Report"
       ],
       "verified_source_count": 1
     },
@@ -525,25 +543,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-11T14:20:48+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "UK Naval Drones Found Transmitting Data Signals to China\nA routine cyber audit by the UK Ministry of Defense revealed that cameras on Kraken Technology naval drones were transmitting signals to an internet address in China.\n[READ MORE](https://clashreport.com/world/articles/uk-naval-drones-found-transmitting-data-signals-to-china-ecmomxs1kew)",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-11T12:56:17+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -794,13 +793,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
-        "Middle East Spectator"
+        "Alsaa Plus EN"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -818,6 +816,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8 The US Marine Corps has awarded the electronic warfare company Epirus an $11-million contract to deliver a vehicle-mounted high-power microwave system to counter drone swarms.\nBased on Epirus\u2019 Leonidas weapon, the High-power Microwave Autonomous Vehicle Operational Capability (HAVOC) features a universal sled mount for integration across the Marine Corps\u2019 manned and unmanned ground vehicles.\nHAVOC is an evolution of Epirus\u2019\u00a0Expeditionary Directed Energy Counter-Swarm (ExDECS), which the company delivered to the USMC in 2025.\nAt the core of the Leonidas technology are solid-state high-power microwave components and gallium nitride amplifiers used to generate and amplify electromagnetic energy for engaging multiple unmanned aerial systems.\nCompared with ExDECS, HAVOC will reportedly deliver three times the power, greater range and ruggedness, and autonomous capabilities designed to reduce operators\u2019 decision-making burden.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-11T17:32:44+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
       ],
       "verified_source_count": 1
     },
@@ -952,6 +969,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udc41 Lockheed Martin tapped to build secure orbital comms for Trump\u2019s Star Wars 2.0\n\u00a0\nThe DoD has awarded Lockheed\u2019s space division $22M to work on Phase II of the Air Force\u2019s Space Data Networking Experimentation space-based internet project \u2013 jam-resistant, cyber-secure, autonomous data routing for satellites and other infrastructure in low Earth orbit.\nA keystone component in the Pentagon\u2019s Space Data Network initiative, the hybrid comms project is supposed to give the US a decisive advantage over strategic adversaries in space, using:\n\ud83d\udd34 space-based internet acting as the primary communications backbone of Trump\u2019s Golden Dome \u2013 the Star Wars 2.0-style, continental multi-layered US missile defense shield incorporating [space-based interceptors](https://t.me/geopolitics_prime/69509).\n\ud83d\udd34 dynamic routing and advanced mesh networking designed to defeat ground-based counter-measures, including jamming.\n\ud83d\udd34 AI-assisted elimination of the so-called \u201csensor-to-shooter latency\u201d using optical cross-links and cloud networking directly in orbit \u2013 bypassing traditional satellite systems\u2019 need to beam data down to ground stations for processing and analysis before it\u2019s beamed back up and acted on.\n\ud83d\udd34 Ostensibly designed to assist in the targeting of hypersonic threats, this is arguably the most dangerous component of the entire program, risking \u201cflash wars\u201d resulting from automated escalation using buggy, glitched or spoof-prone AI algorithms, with human commanders left totally out of the loop before it\u2019s too late.\n\ud83d\udd34 next-gen, software-based secure multi-band encryption, expected to [render cyberwarfare ineffective](https://t.me/geopolitics_prime/73129) (good luck with that)\n\u00a0\nIn an all-out war scenario, the proposed system can\u2019t survive enemy counterstrikes, ranging from co-orbital anti-satellite (ASAT) weapons, up to and including nuclear-delivered EMPs, to directed-energy weapons, like Russia\u2019s Peresvet laser platform, stalker inspect-and-interfere satellites, or supply chain interference (Chinese hardware trojans, for example).\n\ud83d\udc49 Russia and China predicted the dangers of an arms race in space in 2008, proposing the PAROS Treaty as a means to prevent the deployment of weapons systems in orbit and on celestial bodies. \nThe US scoffed at the idea, aggressively shifting its military doctrine to define space as an active warfighting domain, reactivating US Space Command, setting up US Space Force and starting work on Golden Dome.\n\ud83e\udd14 Lockheed is expected to complete engineering, developing and testing work on the \u201cPhase II\u201d hybrid communication architecture by 2028. If it fails, it will leave a giant blind spot in the multi-trillion-dollar Golden Dome initiative. SpaceX or Anduril Industries, which are working on their own secure space-routing equipment, could be asked to [pick up the slack](https://t.me/geopolitics_prime/70829).\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime)\u00a0|[ Chat\u00a0](https://t.me/+HLrnOk92f31mYzIy)|",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-11T17:07:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
