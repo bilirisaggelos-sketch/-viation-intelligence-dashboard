@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T03:56:39.216014+00:00",
+  "generated_at": "2026-08-11T05:16:27.300013+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -355,12 +355,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
+        "Clash Report",
         "Middle East Spectator"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -377,7 +378,7 @@
       "verification_status": "PARTIALLY VERIFIED",
       "verification_confidence": 65,
       "verified_sources": [
-        "Mediterranean Man",
+        "Alsaa Plus EN",
         "Middle East Spectator"
       ],
       "verified_source_count": 2
@@ -439,6 +440,26 @@
         "Middle East Spectator"
       ],
       "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Quite a story: After an Iranian assassination threat, Trump was secretly switched to a different plane while leaving the NATO summit in Ankara.\nHe\u2019d arrived in T\u00fcrkiye on the new Qatar-gifted 747-8 (its first international presidential trip). \nFor departure, he publicly boarded the older legacy Air Force One on camera, saying he wanted to fly it \u201cfor old time\u2019s sake.\u201d\nBut minutes after boarding, he and a few aides were transferred out of sight \u2014 via an airport catering truck whose container was hydraulically raised to a door on the side away from media \u2014 onto a smaller C-32A (modified 757). \nThe legacy 747 then flew as a decoy, still using the Air Force One call sign. \nJournalists and some White House staff on board had no idea Trump wasn\u2019t with them. \nThey were told to keep window shades closed, which is unusual.\nBoth planes landed at RAF Mildenhall in the UK minutes apart. \nSource: The Washington Post",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-11T04:26:31+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Clash Report",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -738,12 +759,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "Alsaa Plus EN"
+        "Alsaa Plus EN",
+        "Middle East Spectator"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -776,13 +798,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Mediterranean Man",
-        "Middle East Spectator"
+        "Mediterranean Man"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -844,12 +865,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Recent satellite imagery shows that the Russians have installed anti-drone netting on submarines in the Pacific Ocean, over 7,000 km from Ukraine. Ukrainian drones do not fly that far yet, but it seems the Russians have simply decided to take extra precautions.",
+      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfa Ukrainian drones have struck another Wildberries warehouse, this time in the city of Voronezh, located roughly 270km northeast of Kharkiv. \nFollowing the successful drone strike on the warehouse, smoke plumes were seen rising from it. \n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-11T03:54:24+00:00",
+      "timestamp": "2026-08-11T04:12:57+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -863,12 +884,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Ukrainian UAVs reached Tobolsk in Russia's Tyumen region for the first time. Explosions were reported in the area, and the \"ZapSibNeftekhim\" chemical plant is currently on fire. \nThe distance from the Ukrainian border exceeds 2,200 km.",
+      "text": "\u26a1\ufe0f\ud83c\uddf1\ud83c\uddfe Libya\u2019s state-owned Brega Petroleum Marketing Company said the fire broke out following a drone strike that targeted the plant in Zawiya. The company prompted the government to declare the matter a \"national emergency\". \nThe corporation said the targeted tank contained an estimated 4.5 million liters of gasoline, making the incident particularly dangerous because of the potential threat to the facility and nearby oil installations. No group has claimed responsibility of the attack.\nZawiya holds strategic and economic importance because of its coastal location, oil refinery and other energy facilities. Any security tension there affects transport movement as well as fuel and energy supplies. \n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-11T03:53:58+00:00",
+      "timestamp": "2026-08-11T04:12:29+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -882,12 +903,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Nothing left. Aftermath of the August 5 Ukrainian drone attack on a Wildberries facility in Aleksin, Russia.",
+      "text": "\u26a1\ufe0f\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6 Russia launched a major missile barrage against Ukraine, targeting Kyiv with 2 ballistic missiles and 4 hypersonic missiles.\nAnother 4 missiles reportedly impacted Zaporizhzhia, alongside at least 11 Russian glide bombs striking the city and its outskirts. \nPatriot interceptors were reportedly launched over Kyiv for the first time in weeks.\n\ud83d\udca7 [Rainbet.com](https://www.rainbet.com/) the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-11T03:53:05+00:00",
+      "timestamp": "2026-08-11T04:12:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -900,77 +921,20 @@
     },
     {
       "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "Ukraine's Air Force confirmed the loss of a MiG-29 fighter during a combat mission against enemy aerial targets over Odesa Oblast on August 10. Preliminary information indicates an abnormal situation occurred during an air-launched missile firing, after which the aircraft caught fire and the pilot lost control despite trying to save the jet. The pilot successfully ejected and was evacuated to a medical facility. The cause is under investigation.",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udea8 Night on fire: Ukraine burns again as Russian missiles strike\nSeveral industrial sites and critical infrastructure facilities have been hit in Kiev and Zaporozhye overnight, local media reports.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime)\u00a0|[ Chat\u00a0](https://t.me/+HLrnOk92f31mYzIy)|",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-11T03:52:41+00:00",
+      "timestamp": "2026-08-11T04:23:10+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "Ukraine's Azov Brigade says its unmanned systems battalion destroyed a Russian military transport column nearly 20 km behind the line of contact. The strike shows Ukrainian drone reach extending deeper into the rear, where Russian forces had apparently expected greater safety.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-11T03:52:20+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "Satellite imagery from DniproOsint shows damage from the July 25 FP-1 drone strike on the Tyumen refinery: one fuel tank destroyed, a second tank's protective net damaged, and a technical overpass hit. DniproOsint says satellite-visible damage may not reflect all impacts.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-11T03:52:16+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "Large fires are burning at SIBUR's central gas-fractionation unit in Tobolsk, Tyumen Oblast, after a Ukrainian drone attack. Footage from the industrial zone shows part of the facility engulfed in flames.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-11T03:51:37+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
@@ -1135,25 +1099,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-10T07:33:04+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udea8\ud83c\uddf8\ud83c\uddfe Syria wants Middle East\u2019s oil to run through jihadistan\nSyrian and Iraqi officials are \u201cfinalizing\u201d talks on reviving the defunct Kirkuk-Baniyas oil pipeline, which would carry Iraqi crude across Syria to the Mediterranean, Syrian Petroleum Company CEO Youssef Qablawi said this week.\n\ud83d\udc49 The roughly 891-km pipeline is envisioned with a capacity of 1.5-2 million barrels per day. Qablawi says construction could be completed within three years and generate \u201csubstantial revenues\u201d for both countries.\nWashington is backing the idea for an obvious geopolitical reason: every barrel that reaches the Mediterranean through Syria is one less barrel dependent on the Strait of Hormuz, weakening one of Iran\u2019s strongest pieces of regional leverage. US and Qatari-linked interests, including Chevron, TI Capital and UCC Holding, are expected to participate in financing the project.\n\u27a1\ufe0f There is just one problem: drawing a pipeline on a map is considerably easier than keeping one running through Iraq and post-war Syria.\nFirst opened in 1952, the Kirkuk-Baniyas pipeline was knocked out by US airstrikes in 2003. Even before that, it spent almost two decades idle between 1982 and 2000 because of hostility between Damascus and Baghdad. Reconstruction talks resurfaced in the late 2000s before [Syria\u2019s war buried the project again.](https://t.me/geopolitics_prime/68415)\nGetting it back online now means clearing a formidable list of obstacles:\n\u2666\ufe0f its $4.5-8B price tag, requiring significant investor appetite for risk\n\u2666\ufe0f the Iraqi section would pass through areas facing problems with ISIS remnants, not to mention ongoing disputes over oil management, export control and revenue sharing between Baghdad and Iraqi Kurdistan\n\u2666\ufe0f the Syrian section would be even more crowded with uncertainty, from ISIS and al-Qaeda insurgencies to Syrian Kurds\u2019 tensions with Damascus and persecuted Alawite groups in the western part of the country \u2013 all of which could be incentivized to sabotage operations.[ Renewed Houthi attacks on Saudi Arabia](https://t.me/geopolitics_prime/73243) just reminded the world how easy it is for drone and missile-armed non-state actors to wreak havoc on energy infrastructure\n\u2666\ufe0f [Syria\u2019s Turkish sponsors ](https://t.me/geopolitics_prime/72510?single)recently signed their own interim crude transit agreement with Iraq for 750k bpd via the Kirkuk-Ceyhan Pipeline, which has a 1.5M bpd nominal capacity, and may be expanded to 2.5M bpd. Given Ankara\u2019s ambitions as an energy transit mega-power, it\u2019s unclear whether it will tolerate sharing its geography-based advantage with its Damascus clients\n\u2666\ufe0f Plus there\u2019s the [Israeli wildcard,](https://t.me/geopolitics_prime/65909) including Tel Aviv\u2019s habit of targeting the infrastructure even of neutral or US-allied actors, and[ its ever-expanding occupation of Syria](https://t.me/geopolitics_prime/73221)\n\u2666\ufe0f The $150-500M in transit fees Syria hopes to get from the pipeline is pocket change next to the $216-$345B the World Bank says it will cost to rebuild the country. Incidentally, before 2011, when jihadists like al-Sharaa flooded in to destroy Syria, its modest oil sector generated ~$3.2B in annual income\n\u2666\ufe0f As for Iraq, even if the Syria-bound pipeline was rebuilt and exports via Turkey expanded, it would struggle to meet its pre-Iran war crude exports via Hormuz\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+tltgWD-GUqw0OTAy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-10T06:03:04+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
