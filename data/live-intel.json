@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T13:35:23.041576+00:00",
+  "generated_at": "2026-08-11T14:45:31.419713+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -482,6 +482,25 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
+      "text": "Investigators probing the suspected August 4 drone attack at Leipzig/Halle Airport found a suspicious antenna and several DNA traces that could help identify the perpetrators. \nThe modified drone carried a 5G router, two SIM cards, a camera and an extra battery, suggesting it could be remotely controlled over long distances. \nIt was also carrying around 600g of Semtex, but the explosive failed to detonate due to a defective detonator.\nSource: Tagesschau",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-11T14:20:48+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
       "text": "UK Naval Drones Found Transmitting Data Signals to China\nA routine cyber audit by the UK Ministry of Defense revealed that cameras on Kraken Technology naval drones were transmitting signals to an internet address in China.\n[READ MORE](https://clashreport.com/world/articles/uk-naval-drones-found-transmitting-data-signals-to-china-ecmomxs1kew)",
       "source": "Telegram",
       "source_type": "telegram",
@@ -507,25 +526,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-11T12:24:07+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Israeli Diaspora Affairs Minister Amichai Chikli:\nWe created a system of alliances in Europe unlike anything that existed before, with the deep conservative right. \nVox in Spain, led by Santiago Abascal\u2014today, he is the most Zionist voice there is in Spain: pro-Israel, anti-terror, anti-Hamas. \nThe same goes for Jordan Bardella and Marine Le Pen in France. \nWith these people, a genuine closeness was created. Now they are leading in all the polls.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-11T10:44:59+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -979,6 +979,25 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udea8 Drone strikes jet: Russian Geran knocks out Ukrainian MiG-29 over Odessa\nGraphic new imagery circulating in Ukrainian social media shows the remains of a Ukrainian warplane hit by Russian UAV, confirming a direct strike in the skies above Odessa.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime)\u00a0|[ Chat\u00a0](https://t.me/+HLrnOk92f31mYzIy)|",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-11T13:35:27+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
       "text": "\ud83d\udea8\ud83c\uddfa\ud83c\uddf8Five suicides in one month within US Cyber Command?\nBetween early June and early July, 5 people with ties to the command\u2014service members, civilian staff, or close affiliates\u2014took their own lives. The timing has alarmed officials, who have flagged the deaths as a potential cluster, an investigation is underway, US media reported. \n\ud83d\udc49 But the thing is the warning signs were already there.\nAs far back as April, Senator Roger Wicker publicly warned that cyber operators were burning out because of working crushing overtime with no relief in sight. \"How long can we sustain this pace?\" he asked.\n\u27a1\ufe0f At the same hearing, Senator Jack Reed revealed that Cyber Command is deeply enmeshed in operations against Iran, providing direct support for military action, information warfare, and intelligence. General Joshua Rudd, the command's head, later confirmed the command's active role in Middle East theater operations.\nBehind the scenes, Rudd had already sounded the alarm. In April, he requested $11 million for mental health programs, cautioning that without more resources, burnout would worsen, and combat readiness would erode.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime)\u00a0|[ Chat\u00a0](https://t.me/+HLrnOk92f31mYzIy)|",
       "source": "Telegram",
       "source_type": "telegram",
@@ -1118,25 +1137,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-10T18:01:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83e\udd21\ud83c\uddee\ud83c\uddf1 AI cringe video made by Israel's Defense Minister 'Kach' based on generated airstrikes \nCringe, cringe. Israel's defense minister Katz just launched his campaign with AI-generated strikes on neighboring countries, and it's as awkward as it sounds.\n\ud83d\udc49 Sitting minister Israel Katz dropped a campaign video that's all bravado: bombing Lebanon, Gaza, and Iran.\nBut the whole \"boom-boom\" production is so half-baked that the AI voiceover doesn't even get his name right, chanting \"Kach\" instead of Katz.\n\ud83e\udd21 Nothing says \"I'm phoning this in\" like letting a robot mispronounce your own surname while you take credit for other people's wars.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-10T15:03:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
