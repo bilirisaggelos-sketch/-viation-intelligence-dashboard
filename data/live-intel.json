@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T21:55:54.176103+00:00",
+  "generated_at": "2026-08-11T22:52:44.837585+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -771,63 +771,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Our Wars Today",
-      "text": "[Ukraine's drone chief says push to cripple Russia in Crimea is just getting started](https://www.pbs.org/newshour/world/ukraines-drone-chief-says-push-to-cripple-russia-in-crimea-is-just-getting-started)\nUkraine's drone forces could strike seven times more targets in Crimea if Western funding came faster, according to the commander leading Ukraine's drone war. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://www.pbs.org/newshour/world/ukraines-drone-chief-says-push-to-cripple-russia-in-crimea-is-just-getting-started)\npbs\u200b.org \u2022 Aug 10, 2026",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-10T18:44:52+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Our Wars Today"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Our Wars Today",
-      "text": ">wastes missile supply on failed smo, has to start buying back old stock and letting drones through\n>leaves allies facing invasion high and dry with promises forgotten\n>more americans dead, more ukrainians dead, more russians dead, more iranians dead, etc...\n>economy reeling, prices and energy skyrocketing \n>quick work for the writer of \"art of the deal\"",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-10T04:25:55+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Our Wars Today"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Our Wars Today",
-      "text": "[\u26a1\ufe0f -'We want missiles too' \u2014 Trump responds to Zelensky's appeal for additional military aid. U.S. President Donald Trum...](https://t.me/KyivIndependent_official/54681)\n\u26a1\ufe0f'We want missiles too' \u2014 Trump responds\n[https://kyivindependent.com/we-want-missiles-too-trump-responds-to-zelenskys-appeal-for-additional-military-aid/]\nto Zelensky's appeal for additional military aid.\nU.S. President Donald Trump said on Aug. 6 that the United States \"needs\nmissiles too\" when asked about President Volodymyr Zelensky's renewed calls for\nlong-range missiles and Patriot air defense systems. \u2013 Join Telegrams:\nt.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013\nSupport OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://t.me/KyivIndependent_official/54681)\n | t\u200b.me \u2022 Aug 6, 2026",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-10T04:22:24+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Our Wars Today"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Alsaa Plus EN",
       "text": "\ud83c\uddee\ud83c\uddf7\u26a1\ufe0f \u2014 Iranian General Mohammad Reza Naqdi:\nWe produce ballistic missiles at a rate exceeding the rate at which they are fired.\nIn the field of drones as well, our production capacity is far greater than the rate at which they are deployed.\nEven if the war lasts for several years, our ballistic missiles will continue to rain down on the enemy.\n\u26aa\ufe0f",
       "source": "Telegram",
@@ -1257,25 +1200,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-11T07:26:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udea8 Night on fire: Ukraine burns again as Russian missiles strike\nSeveral industrial sites and critical infrastructure facilities have been hit in Kiev and Zaporozhye overnight, local media reports.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime)\u00a0|[ Chat\u00a0](https://t.me/+HLrnOk92f31mYzIy)|",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-11T04:23:10+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
