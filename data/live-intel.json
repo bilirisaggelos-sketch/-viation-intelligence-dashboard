@@ -1,6 +1,25 @@
 {
-  "generated_at": "2026-08-11T22:52:44.837585+00:00",
+  "generated_at": "2026-08-11T23:50:23.216596+00:00",
   "events": [
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nEAST RUTHERFORD, NJ, Saturday, August 15, 2026 Local\nFacility: ZNY",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "08/11/2026",
+      "location": "ZNY NJ",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nMacon, GA, Thursday, August 13, 2026 through Saturday, August 15, 2026 Local\nFacility: ZTL",
@@ -920,6 +939,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ud83c\uddf0\ud83c\uddf5\ud83e\udd11 The North Korean economy is experiencing a significant boom, this is the third year in a row that an annual gdp growth of 3% was recorded. Footage of new cars and even more unbelievably traffic jam have surfaced online alognside reports about government-issued smartphones reaching normal citizens in the capital.\nThis recovery is mainly due to the increasing trade between Russia and N.K, the war on ukraine increased demand on korean artillery shells and other military equipments, things that North Korea spent years on producing and stocking incase of an all out war with their neighbor and rival South Korea. That, the korean troops being sent to the Ukrainian front lines and china enlarging their trade volume with NK led to the current boom.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-11T22:54:35+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
       ],
       "verified_source_count": 1
     },
