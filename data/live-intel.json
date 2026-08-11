@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T02:10:59.452993+00:00",
+  "generated_at": "2026-08-11T03:56:39.216014+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -843,32 +843,13 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ufe0f\ud83c\uddf5\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8 Isntrael Aerospace Industries\u00a0(IAI) has\u00a0completed\u00a0a new test of the\u00a0Arrow Weapon System\u00a0as Israel and the US continue upgrading the missile defense system against evolving threats.\nThe test was conducted with the Israeli Missile Defense Organization within Israel\u2019s Ministry of Defense, the US Missile Defense Agency and the Israel Defense Forces as part of a multiyear program to develop the Arrow\u2019s capabilities.\nIAI, the system\u2019s prime developer, did not disclose the specific scenario, interceptor variant or target used in the latest test. The company said the event was part of the broader effort to validate and improve the system\u2019s performance.\nThe Arrow is designed to provide Israel\u2019s upper-tier defense against long-range ballistic missiles. The system includes the Arrow 2 and Arrow 3 interceptors and was jointly developed by Israel and the US.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-10T16:50:03+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Ukrainian drones reportedly struck and destroyed a power substation in Russian-occupied Donetsk.",
+      "text": "Recent satellite imagery shows that the Russians have installed anti-drone netting on submarines in the Pacific Ocean, over 7,000 km from Ukraine. Ukrainian drones do not fly that far yet, but it seems the Russians have simply decided to take extra precautions.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-10T05:30:59+00:00",
+      "timestamp": "2026-08-11T03:54:24+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -882,12 +863,107 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\udde8\ud83c\uddf4 FARC dissidents attacked the mayor office in Rioblanco, southern Tolima department, with drones, before harassing security forces afterward, with authorities repelling the attack and no injuries reported.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "Ukrainian UAVs reached Tobolsk in Russia's Tyumen region for the first time. Explosions were reported in the area, and the \"ZapSibNeftekhim\" chemical plant is currently on fire. \nThe distance from the Ukrainian border exceeds 2,200 km.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-10T03:31:42+00:00",
+      "timestamp": "2026-08-11T03:53:58+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "Nothing left. Aftermath of the August 5 Ukrainian drone attack on a Wildberries facility in Aleksin, Russia.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-11T03:53:05+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "Ukraine's Air Force confirmed the loss of a MiG-29 fighter during a combat mission against enemy aerial targets over Odesa Oblast on August 10. Preliminary information indicates an abnormal situation occurred during an air-launched missile firing, after which the aircraft caught fire and the pilot lost control despite trying to save the jet. The pilot successfully ejected and was evacuated to a medical facility. The cause is under investigation.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-11T03:52:41+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "Ukraine's Azov Brigade says its unmanned systems battalion destroyed a Russian military transport column nearly 20 km behind the line of contact. The strike shows Ukrainian drone reach extending deeper into the rear, where Russian forces had apparently expected greater safety.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-11T03:52:20+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "Satellite imagery from DniproOsint shows damage from the July 25 FP-1 drone strike on the Tyumen refinery: one fuel tank destroyed, a second tank's protective net damaged, and a technical overpass hit. DniproOsint says satellite-visible damage may not reflect all impacts.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-11T03:52:16+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "Large fires are burning at SIBUR's central gas-fractionation unit in Tobolsk, Tyumen Oblast, after a Ukrainian drone attack. Footage from the industrial zone shows part of the facility engulfed in flames.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-11T03:51:37+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -1078,44 +1154,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-10T06:03:04+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udcc8\ud83c\udde8\ud83c\uddf3 China leverages its influence in 'Sunni Nato' as US security umbrella frays\nA security pact signed in Mecca this week between Saudi Arabia, Pakistan and Turkey marks one of the clearest indications yet that Gulf states are reconsidering their exclusive reliance on the US.\n\u2666\ufe0fThe closure of the Strait of Hormuz during the Iran war and sustained Iranian missile and drone strikes on Gulf infrastructure have highlighted the US's inability to provide comprehensive protection, even with extensive military presence in the region\n\u2666\ufe0fThe US-Saudi nuclear deal signed on July 22 was thrown into uncertainty the very next day when President Trump declared it was \"totally subject\" to Saudi Arabia normalizing relations with Israel, despite no such condition appearing in the original agreement\n\u2666\ufe0fThe threat underscored the White House's willingness to leverage security guarantees as a bargaining chip\nTrump's flip-flopping sent a strong signal to Saudi Arabia that the US remains unpredictable regardless of what is agreed or signed, further eroding trust in the partnership\nMeanwhile, for China, the Mecca pact represents a significant opportunity to gain access into the Gulf's defense architecture.\n\ud83d\udd34China has aggressively marketed its defense systems in the region, leveraging its close military relationship with Pakistan, which depends on Chinese equipment for more than 80% of its arms imports\n\ud83d\udd34Pakistan has already deployed JF-17 fighter jets and other Chinese-made systems to Saudi Arabia under bilateral defense agreements, giving them greater visibility and operational experience in the Gulf region\n\ud83d\udd34Chinese arms deals typically involve long-term commitments related to maintenance, spare parts, training and logistical support, embedding Chinese systems more deeply into the recipient's military structure\n\ud83d\udd34If Saudi Arabia seeks nuclear technology and the US blocks access, China could step in to provide civilian nuclear cooperation, as it has done with Pakistan\n\ud83d\udd34China has been steadily expanding its economic footprint in the Gulf through the Belt and Road Initiative and has positioned itself as a reliable alternative to Western partners\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+tltgWD-GUqw0OTAy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-10T03:31:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7From IRGC veteran to security chief: Mohsen Rezaei takes Iran's top security post\nMohsen Rezaei has been appointed as the new secretary of Iran's Supreme National Security Council, the country's top security body. He replaces Mohammad Bagher Zolghadr, who took over the position in March 2026 after his predecessor Ali Larijani was killed in an Israeli strike.\nThe Supreme National Security Council plays a critical role in deciding Iranian policy on the US-Iran conflict. It was the body that approved the June ceasefire memorandum that later collapsed over differences on the Strait of Hormuz.\nThe appointment, made by Supreme Leader Mojtaba Khamenei and formalised by President Pezeshkian, places the former IRGC commander at the heart of Iran's wartime decision-making.\nA career that mirrors the Islamic Republic's journey\n\ud83d\udfe5Born in 1954 in Khuzestan province, Rezai was arrested by the Shah's SAVAK secret police in 1971 and later helped draft the IRGC's founding charter after the 1979 revolution\n\ud83d\udfe5At just 27, he was appointed IRGC commander-in-chief by Imam Khomeini \u2013 a post he held for 16 years, making him the longest-serving commander in the force's history\n\ud83d\udfe5His tenure covered the entirety of the Iran-Iraq War, where he commanded major operations\nAfter stepping down in 1997, Rezaei served for 24 years as secretary of the Expediency Discernment Council. He later entered electoral politics, running for president four times between 2005 and 2021. Under President Raisi, he served as vice president for economic affairs. In March 2026, Khamenei appointed him as his military adviser.\nWhat this means for Iranian decision-making?\nAnalysts say Rezaei's appointment signals the further consolidation of power by Iran's security establishment. Rezaei has been a constant presence at the highest levels of Iranian politics and security for over four decades. His elevation also reflects the growing influence of the IRGC in shaping state policy, following its major role in repelling US attacks.\n\ud83d\udc49While Rezaei's appointment does not necessarily mean Iran is moving toward a more hard-line stance, it comes amid increasingly assertive Iranian demands in negotiations with Trump administration. \n\u27a1\ufe0fIran has insisted on its right to control the Strait of Hormuz and has rejected any deal that does not include a lifting of all sanctions. \n\u27a1\ufe0fIran's position has hardened since the collapse of the June ceasefire, with officials stating that future negotiations must be based on mutual respect and non-interference in Iran's internal affairs.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+tltgWD-GUqw0OTAy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-10T02:05:12+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
