@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T05:16:27.300013+00:00",
+  "generated_at": "2026-08-11T06:29:32.575776+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -378,7 +378,7 @@
       "verification_status": "PARTIALLY VERIFIED",
       "verification_confidence": 65,
       "verified_sources": [
-        "Alsaa Plus EN",
+        "Mediterranean Man",
         "Middle East Spectator"
       ],
       "verified_source_count": 2
@@ -759,13 +759,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
-        "Middle East Spectator"
+        "Alsaa Plus EN"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -798,12 +797,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "Mediterranean Man"
+        "Mediterranean Man",
+        "Middle East Spectator"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -833,25 +833,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-10T18:55:48+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf3\ud83c\uddeb\ud83c\uddf7 India has\u00a0initiated formal efforts to participate in the multinational\u00a0Future Combat Air System\u00a0(FCAS) sixth-generation fighter program, selecting the French-led initiative over the\u00a0Global Combat Air Program (GCAP)\u00a0consisting of Italy, Japan and the UK.\nNew Delhi\u2019s defense ministry verified it had \u201cinitiated efforts in a concerted manner to co-join\u201d the initiative in a document submitted to lawmakers in early August.\nThe Indian Parliament\u2019s Standing Committee on Defence has requested a detailed status report, roadmap, and timeline related to the potential acquisition in the defense agency\u2019s next submission.\nThis only strengthens the already existing aviation defence relationship between France and India even more with France promising to help India in its own 5th gen Advanced Medium Combat Aircraft (AMCA) endeavour and the delivery of the 114 Rafales that were bought.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-10T18:31:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -1080,25 +1061,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-10T09:02:04+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddec\ud83c\udde7\ud83c\udde8\ud83c\uddf3 How UK blames China for its own drone disaster\nBritish Royal Navy surveillance drones have been quietly beaming signals to China, local media claim.\nThe K3 Scout cameras contained Chinese-made components. An investigation later revealed they were sending regular \"pulse signals\" to a Chinese IP address\u2014routine pings confirming the devices were online and operational.\n\ud83d\udc49 In reality, here is a classic blame-shift. When a \"great island power\" and NATO stalwart can't even keep its own fleet's drones in working order, someone else has to carry the can, obviously. If not the Russians, then the Chinese will do it.\nBut the question is why wasn't UK sourcing components from its transatlantic NATO partner, the US? Or does even Trump draw the line at selling them this kind of tech?\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+tltgWD-GUqw0OTAy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-10T07:33:04+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
