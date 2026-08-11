@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T23:45:52.712104+00:00",
+  "generated_at": "2026-08-11T02:10:59.452993+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -344,23 +344,63 @@
       "verified_source_count": 1
     },
     {
-      "title": "How a schoolteacher's son became Kashmir's first India Test cricketer",
-      "text": "How a schoolteacher's son became Kashmir's first India Test cricketer\nAuqib Nabi becomes Jammu and Kashmir's first cricketer to get India Test call-up, inspiring millions.",
-      "source": "BBC",
-      "source_type": "osint",
-      "publisher": "BBC World News",
-      "severity": "info",
-      "icon": "\ud83d\udcf0",
-      "timestamp": "2026-08-09T03:00:44+00:00",
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf7/\ud83c\uddfa\ud83c\uddf8/\ud83c\uddf9\ud83c\uddf7 NEW: During President Trump\u2019s return flight from the NATO summit in Ankara to the UK last month, an Iranian assassination plot was foiled that has been downplayed by the White House, the [Washington Post](https://www.washingtonpost.com/national-security/2026/08/10/trump-flew-secrecy-amid-iran-threat-air-force-one-became-decoy/) reports\nThe threat of an Iranian assassination was considered so high that President Trump was secretly moved from Air Force One to a much smaller C-32A while hidden inside an \u2018airport catering truck\u2019 (a food and beverage cart).",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-11T01:59:48+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "BBC World News"
+        "Middle East Spectator"
       ],
       "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea NEW: For the third night in a row, the Yemeni Armed Forces carried out ballistic missile and drone attacks against Saudi-backed forces",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-11T01:29:16+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Mediterranean Man",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014 \ud83c\uddf1\ud83c\uddfe NEW: Unidentified drones struck oil storages in Al-Zawiya, Libya",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-11T01:28:22+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Clash Report",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -374,13 +414,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
         "Middle East Spectator"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -403,25 +442,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\uddee\ud83c\uddf7/\ud83c\uddf8\ud83c\uddfe/\ud83c\uddee\ud83c\uddf1 NEW: The Shia faction \u2018Uli Al Ba\u2019s\u2019 (Posessors of Strength), also known as the Islamic Resistance Front in Syria, carried out an attack with 107mm unguided rockets against an Israeli outpost in Daraa Province\nLocal Shia fighters, as well as some former Hezbollah and Syrian Arab Army veterans, continue to carry out operations against the IDF occupation in southern Syria despite Jolani\u2019s rule.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-10T04:05:34+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Clash Report",
       "text": "Libya\u2019s National Oil Corporation says a drone attacked the Zawiya oil blending plant.\nIt follows several drone strikes around the Zawiya oil complex since Aug 8.\nNo group has claimed responsibility.",
       "source": "Telegram",
@@ -432,12 +452,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "Clash Report"
+        "Clash Report",
+        "Middle East Spectator"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -632,6 +653,101 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddfe\ud83c\uddea\ud83c\uddf8\ud83c\udde6 \u2014 Ansar Allah (the Houthis) continue to launch missiles at positions of Saudi-backed Yemeni forces in the Mokha district, which is controlled by Saudi-backed Yemeni forces.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-11T01:49:51+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddf8\ud83c\udde6\ud83c\uddee\ud83c\uddf7 \u2014 The Wall Street Journal: Gulf energy producers in the Persian Gulf believe that Iranian control of the Strait of Hormuz could become permanent, threatening continued disruptions to oil and gas exports and energy flows to global markets.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-11T01:27:59+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddf7\ud83c\uddfa\u274c\ud83c\uddfa\ud83c\udde6 \u2014 Governor of Ukraine\u2019s Zaporizhzhia region: 5 people killed and 20 injured in a Russian missile attack on the city.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-11T00:40:42+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddfe\ud83c\uddea\ud83c\uddf8\ud83c\udde6 \u2014 Ansar Allah (the Houthis) launched a drone attack on gatherings of Saudi-backed forces west of Taiz.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-11T00:21:50+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddfe\ud83c\uddea\ud83c\uddf8\ud83c\udde6 \u2014 Ansar Allah (the Houthis) launched a missile toward gatherings of Saudi-backed forces.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-11T00:08:08+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
       "text": "\ud83d\udea8\ud83c\uddfe\ud83c\uddea \u2014 Yemen\u2019s government-aligned forces conducted a series of coordinated retaliatory strikes and drone operations against Houthi militia positions across the Al-Jawf and Shabwa-Marib border regions \u2014 Yemen Armed Forces Media / Al-Sahil news.\n\u27a1\ufe0f The Yemen Armed Forces Media Center released drone footage documenting strikes reportedly on Houthi personnel, hardware, and logistical movements throughout the eastern Al-Jawf governorate.\n\u27a1\ufe0f Under \"Operation Sahoom Shabwa,\" a coalition comprising the Shabwa Defense Forces, Saba Axis, and the 26th Brigade deployed artillery and UAVs against Houthi nodes in the Ain-Harib sector. The Joint Forces in the West Coast characterized the offensive as a \"retaliatory strike\" following a Houthi drone engagement on 3rd Brigade positions that resulted in two personnel killed and multiple others wounded.\n\u2b50\ufe0f Follow",
       "source": "Telegram",
       "source_type": "telegram",
@@ -650,41 +766,21 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "TRUMP: Iran to Pay for Regional Deaths & Destruction\nTrump demands Iran cover damages and deaths in Lebanon, Syria, Yemen, and Gaza. Washington and Tehran clash over compensation and negotiations.\n\u26aa\ufe0f",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf6 Iraqi Interior Ministry vs PMF: Conflicting Claims on \u201cGhost\u201d Bases\nInterior Ministry (Maj. Gen. Miqdad Miri):\n71 unauthorized \u201cghost\u201d offices claiming affiliation with the Popular Mobilization Forces have been closed. More than 500,000 weapons have been registered so far, with a national database now covering roughly 6 million firearms. The September 30 deadline for consolidating weapons under state authority remains in force. Unauthorized drone launches will be treated as terrorism.\nPopular Mobilization Forces response:\nThe fictitious headquarters announced by the Interior Ministry, which those operating them claimed were affiliated with the PMF, have no connection to the organization. The procedures for closing and monitoring these sites were carried out by the PMF\u2019s own General Directorate of Security and Discipline as part of the work of the Standing Committee for Weapons Control, formed by the Commander-in-Chief of the Armed Forces. The PMF reiterates its commitment to continue monitoring such cases and to take the necessary legal and administrative measures against anyone who attempts to impersonate the organization or exploit its name.\nBrief analysis:\nClosing impostor offices that falsely claim the PMF name is not new. The PMF has conducted its own internal crackdowns on these kinds of fake headquarters in the past, which have been used for fraud, recruitment scams, or cover by unaffiliated groups. The Iraqi Interior Ministry is attempting to maximize the appearance of central government effectiveness ahead of fhe politically sensitive September 30 weapons registration deadline.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-10T18:28:06+00:00",
+      "timestamp": "2026-08-11T00:03:04+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "PARTIALLY VERIFIED",
       "verification_confidence": 65,
       "verified_sources": [
-        "Alsaa Plus EN",
+        "Mediterranean Man",
         "Middle East Spectator"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf7\u26a1\ufe0fUnconfirmed: A missile launch from Iran towards the Strait of Hormuz\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-10T17:56:25+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Mediterranean Man"
       ],
       "verified_source_count": 2
     },
@@ -719,13 +815,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
         "Mediterranean Man"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -800,6 +895,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udd0d CIA will fight to the last Ukrainian to protect its orbital kill chains\nCIA director John Ratcliffe was the one who convinced Trump to continue giving Ukraine \u201cfree\u201d intelligence, including targeting data for strikes on Russian troops and civilian infrastructure deep inside Russia, sources have told The Atlantic.\n\ud83d\udc49 That\u2019s no surprise: to date, the Pentagon, CIA, NATO and MIC-linked corporations have given Ukraine extensive access to orbital intel gathering and kill chain-linked capabilities, without which Kiev wouldn\u2019t be able to fight, including:\n\ud83d\udd34 the Global Enhanced GEOINT Delivery (GEGD) system, managed by the National Geospatial Intelligence Agency and providing high-res commercial satellite imagery by Planet Labs and Maxar. Used to track troop movements in real time, pilot drones in conditions of heavy GPS jamming, facilitate deep strikes and assess post-strike damage\n\ud83d\udd34 Palantir\u2019s AI battlefield awareness and targeting software, including PRISMA and Brave1 Dataroom, integrated with GEGD data, plus commercial Synthetic Aperture Radar (SAR) imagery by Capella Space and others\n\ud83d\udd34 Additional geospatial and networking capabilities by other US tech companies, including Scale AI, BlackSky Technology, and Persistent Systems\n\ud83d\udd34 SpaceX\u2019s LEO Starlink satellites, used to deliver tactical voice, data and FPV drone coordination (and when spoofed, bypass Elon Musk\u2019s much-hyped geofencing restrictions on strikes deep inside Russia)\n\ud83d\udd34 \u201cintelligence and advisory\u201d support from NATO personnel (the alliance denies involvement in actual targeting, But Russia has pointed out repeatedly that Ukraine\u2019s military doesn\u2019t have the knowhow or clearance to operate much of this technically complex, proprietary infrastructure \u2013 or singlehandedly handle target selection, terrain-mapping and mid-flight corrections required to bypass Russian air defenses\n\u00a0\nRatcliffe\u2019s personal intervention to assure US orbital intelligence and targeting tools remain thoroughly embedded in Ukraine make it clear: the CIA won\u2019t has no intention of getting its blood-soaked meat hooks out of Ukraine any time soon. The problem? Russia\u2019s increasingly devastating counterstrikes are turning the country into a depopulated, [smouldering husk](https://t.me/geopolitics_prime/73237).\n\ud83e\udd14 CIA might probably respond with some variation of \u201cOh no! Anyway\u2026\u201d And then on to the next theater of operations, whether it\u2019s Cuba, Mexico, Iran, the South China Sea, Taiwan or the Korean Peninsula.\n\ud83d\udc4d Boost us | Chat |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-11T00:05:08+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
@@ -1002,25 +1116,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-10T02:05:12+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\u2694\ufe0f WATCH: Houthi drones head for Saudi forces in Yemen\nNewly released footage from Yemen's Ansar Allah movement shows drone and ballistic missile launches on July 9 targeting military bases and troop concentrations of Saudi-backed forces [in the city of Mocha](https://t.me/geopolitics_prime/73245), southwestern Yemen.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+tltgWD-GUqw0OTAy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-10T00:40:09+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
