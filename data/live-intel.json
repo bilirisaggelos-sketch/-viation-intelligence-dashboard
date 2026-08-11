@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T06:29:32.575776+00:00",
+  "generated_at": "2026-08-11T07:49:43.512638+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -355,13 +355,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Clash Report",
         "Middle East Spectator"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -375,13 +374,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Mediterranean Man",
         "Middle East Spectator"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -398,7 +396,7 @@
       "verification_status": "PARTIALLY VERIFIED",
       "verification_confidence": 65,
       "verified_sources": [
-        "Clash Report",
+        "CASELS",
         "Middle East Spectator"
       ],
       "verified_source_count": 2
@@ -444,52 +442,12 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Quite a story: After an Iranian assassination threat, Trump was secretly switched to a different plane while leaving the NATO summit in Ankara.\nHe\u2019d arrived in T\u00fcrkiye on the new Qatar-gifted 747-8 (its first international presidential trip). \nFor departure, he publicly boarded the older legacy Air Force One on camera, saying he wanted to fly it \u201cfor old time\u2019s sake.\u201d\nBut minutes after boarding, he and a few aides were transferred out of sight \u2014 via an airport catering truck whose container was hydraulically raised to a door on the side away from media \u2014 onto a smaller C-32A (modified 757). \nThe legacy 747 then flew as a decoy, still using the Air Force One call sign. \nJournalists and some White House staff on board had no idea Trump wasn\u2019t with them. \nThey were told to keep window shades closed, which is unusual.\nBoth planes landed at RAF Mildenhall in the UK minutes apart. \nSource: The Washington Post",
+      "text": "Austria dismantled a sanctions-evasion network that funneled over \u20ac3.3 million in European industrial equipment to Russian arms makers since 2022. \nThe Vienna-based company used shell firms across several countries and falsified end-user certificates; the equipment was reportedly used to produce engines for Russian missiles and fighter jets. \nA 28-year-old Belarusian company head was arrested.\nSource: Reuters",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-11T04:26:31+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Clash Report",
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Libya\u2019s National Oil Corporation says a drone attacked the Zawiya oil blending plant.\nIt follows several drone strikes around the Zawiya oil complex since Aug 8.\nNo group has claimed responsibility.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-10T22:05:48+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Clash Report",
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Abdul El-Sayed on Israel:\nWe\u2019ve got a responsibility in the United States to be holding countries accountable. \nLike, if any other country behaved the way that Israel behaved, we would treat them in a very different way, and we don\u2019t.\nAnd I think we have to be really considerate about why. Well, it\u2019s the same experience I just had, which is that you have one organization, a super PAC, committed to our foreign policy, backstopping a different foreign government, that is going to spend tens of millions of dollars to beat you if you\u2019re willing to speak about Palestinian rights to peace, dignity, and self-determination.\nAnd, you know, we came through it. They\u2019re coming back in the general. They\u2019re going to spend another $30 million to try to beat me. You failed last time, so good luck with that.\nBut I think the American public is starting to realize that we owe our own people to use our tax dollars here rather than to send our tax dollars abroad to drop bombs on other people and their kids.\nSource: The Jim Acosta Show",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-10T20:48:34+00:00",
+      "timestamp": "2026-08-11T07:37:56+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -503,12 +461,69 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Abdul El-Sayed:\nToo many of the same people who say that they're for a two-state solution are also for sending our taxpayer dollars to the tune of billions to a foreign government that is dead set on foreclosing on the possibility of a second state.\nYou can't say you're for a two-state solution when you're supporting the people who only want one state.\nSo I just think that we in this country have had an inconsistent approach to this for a very long time. \nAnd my responsibility as a senator from Michigan is the people of Michigan, not the people of Israel.\nSource: The Jim Acosta Show",
+      "text": "A Saudi commercial ship was reportedly hit by a missile in the Bab el-Mandeb Strait, with three crew members killed, including two Pakistanis and one Indonesian.\nSource: ISNA",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-10T20:45:25+00:00",
+      "timestamp": "2026-08-11T07:35:44+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "U.S. Army Avenger air-defense systems and Sentinel radar were deployed near Trump while he golfed, providing short-range protection against drones, aircraft and cruise missiles.\nThis wasn\u2019t a one-off deployment.\nAn Avenger was already visible at Bedminster on Aug. 1, when Trump joked he wasn\u2019t worried about \u201cmissiles and drones\u201d and an Army colonel replied, \u201cWe got it covered.\u201d",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-11T07:23:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Russian ballistic missile attack left two large impact craters on the grounds of a children\u2019s hospital in Shevchenkivskyi district, Kyiv region.\nChildren and staff were sheltering, so no one at the hospital was hurt. \nA nearby warehouse was also struck and burned, injuring one person.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-11T07:17:03+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Fire confirmed at Russia's Rosneft\u2019s Komsomolsk-on-Amur refinery, roughly 6,500 km from Ukraine \u2014 far beyond demonstrated Ukrainian UAV strike ranges.\nRussia says a technical failure ignited auxiliary equipment.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-11T07:13:56+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -788,32 +803,12 @@
     {
       "title": "Telegram",
       "publisher": "Mediterranean Man",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf6 Iraqi Interior Ministry vs PMF: Conflicting Claims on \u201cGhost\u201d Bases\nInterior Ministry (Maj. Gen. Miqdad Miri):\n71 unauthorized \u201cghost\u201d offices claiming affiliation with the Popular Mobilization Forces have been closed. More than 500,000 weapons have been registered so far, with a national database now covering roughly 6 million firearms. The September 30 deadline for consolidating weapons under state authority remains in force. Unauthorized drone launches will be treated as terrorism.\nPopular Mobilization Forces response:\nThe fictitious headquarters announced by the Interior Ministry, which those operating them claimed were affiliated with the PMF, have no connection to the organization. The procedures for closing and monitoring these sites were carried out by the PMF\u2019s own General Directorate of Security and Discipline as part of the work of the Standing Committee for Weapons Control, formed by the Commander-in-Chief of the Armed Forces. The PMF reiterates its commitment to continue monitoring such cases and to take the necessary legal and administrative measures against anyone who attempts to impersonate the organization or exploit its name.\nBrief analysis:\nClosing impostor offices that falsely claim the PMF name is not new. The PMF has conducted its own internal crackdowns on these kinds of fake headquarters in the past, which have been used for fraud, recruitment scams, or cover by unaffiliated groups. The Iraqi Interior Ministry is attempting to maximize the appearance of central government effectiveness ahead of fhe politically sensitive September 30 weapons registration deadline.",
+      "text": "\u26a1\ud83c\uddf1\ud83c\udde7\ud83c\uddee\ud83c\uddf1 An Israeli drone dropped incendiary substances near Ali Al Taher hill .",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-11T00:03:04+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Mediterranean Man",
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ufe0f\ud83c\uddf8\ud83c\uddfe\ud83c\uddee\ud83c\uddf1 Kan Hebrew Channel:\n A year and eight months after the Israeli army declared the destruction of the Syrian Air Force with the collapse of the Assad regime, the Israeli security establishment has recently observed that the Syrians have significantly accelerated the rebuilding of their air force: from recruiting new pilots and training with training aircraft and helicopters, to the first maneuver in the last 24 hours conducted using Sukhoi fighter jets in northern Syria.\nUnder the current regime, the Syrians receive support from Turkey, Saudi Arabia, Russia, France, and other countries in the region. Despite talk of a future security agreement with Israel, the security establishment is monitoring developments that could harm Israel's freedom of action in Syrian airspace. Israel's primary concern is the consolidation of the Turkish presence in Syria, including the deployment of air defense systems.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-10T19:43:47+00:00",
+      "timestamp": "2026-08-11T07:30:47+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -827,12 +822,69 @@
     {
       "title": "Telegram",
       "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8 Unconfirmed reports of a missile launched towards an oil tanker in the Strait of Hormuz.",
+      "text": "\u26a1\ud83c\uddf1\ud83c\udde7\ud83c\uddee\ud83c\uddf1 An Israeli drone strike struck a range rover on the outskirts of Doha kafr rumman/nabatiya .\nThen targeted the ambulance teams vehicle on the outskirts of the university district in Nabatieh while they were transporting an injured person, resulting in damage to a number of ambulances.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-10T18:55:48+00:00",
+      "timestamp": "2026-08-11T07:20:54+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8 EOTECH has announced the HWS CUAS (Counter Unmanned Aircraft Sight), a new holographic weapon sight purpose-built for rapid engagement of both stationary and moving unmanned aircraft.\nAvailable in two configurations, EXPS3 and XPS3, the CUAS features a sophisticated aiming reticle designed specifically around drone engagement geometry\nThe aiming reticle employs a primary center dot with fractured outer circles to enhance target acquisition on stationary aircraft. For moving targets, the design incorporates lead references that function as intuitive holds at multiple distances. According to EOTECH's engineering documentation, a user engaging a drone crossing at 30 mph in a 90-degree path would position the inner left or right dot on the aircraft at 50 meters and use the outer chevrons for engagement at 90 meters.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-11T07:03:47+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf6 Iraqi Interior Ministry vs PMF: Conflicting Claims on \u201cGhost\u201d Bases\nInterior Ministry (Maj. Gen. Miqdad Miri):\n71 unauthorized \u201cghost\u201d offices claiming affiliation with the Popular Mobilization Forces have been closed. More than 500,000 weapons have been registered so far, with a national database now covering roughly 6 million firearms. The September 30 deadline for consolidating weapons under state authority remains in force. Unauthorized drone launches will be treated as terrorism.\nPopular Mobilization Forces response:\nThe fictitious headquarters announced by the Interior Ministry, which those operating them claimed were affiliated with the PMF, have no connection to the organization. The procedures for closing and monitoring these sites were carried out by the PMF\u2019s own General Directorate of Security and Discipline as part of the work of the Standing Committee for Weapons Control, formed by the Commander-in-Chief of the Armed Forces. The PMF reiterates its commitment to continue monitoring such cases and to take the necessary legal and administrative measures against anyone who attempts to impersonate the organization or exploit its name.\nBrief analysis:\nClosing impostor offices that falsely claim the PMF name is not new. The PMF has conducted its own internal crackdowns on these kinds of fake headquarters in the past, which have been used for fraud, recruitment scams, or cover by unaffiliated groups. The Iraqi Interior Ministry is attempting to maximize the appearance of central government effectiveness ahead of fhe politically sensitive September 30 weapons registration deadline.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-11T00:03:04+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ufe0f\ud83c\uddf8\ud83c\uddfe\ud83c\uddee\ud83c\uddf1 Kan Hebrew Channel:\n A year and eight months after the Israeli army declared the destruction of the Syrian Air Force with the collapse of the Assad regime, the Israeli security establishment has recently observed that the Syrians have significantly accelerated the rebuilding of their air force: from recruiting new pilots and training with training aircraft and helicopters, to the first maneuver in the last 24 hours conducted using Sukhoi fighter jets in northern Syria.\nUnder the current regime, the Syrians receive support from Turkey, Saudi Arabia, Russia, France, and other countries in the region. Despite talk of a future security agreement with Israel, the security establishment is monitoring developments that could harm Israel's freedom of action in Syrian airspace. Israel's primary concern is the consolidation of the Turkish presence in Syria, including the deployment of air defense systems.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-10T19:43:47+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -874,12 +926,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "CASELS"
+        "CASELS",
+        "Middle East Spectator"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -897,6 +950,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udee9 Ukraine\u2019s own OSINT analysts admit drone campaign against Moscow is total failure\nZelensky\u2019s hopes of using his fancy new missile-and-drone Wunderwaffe to affect the outcome of the war have crashed and burned against the harsh reality that penetrating the air defenses of the Russian capital is virtually impossible, mathematically speaking.\nA pro-Ukraine OSINT Telegram and X resource (we won\u2019t say which one to avoid giving them needless publicity) has mapped out the trajectory of ~1.5k Ukrainian drones recently targeting Moscow, calculating that ~1.4k (93%) were intercepted in the first and second lines of air defense outside the city. \nAnother ~100 drones (6%) reached the Ring Road highway area. Just one \u2013 \u201cone single drone\u201d \u2013 was intercepted in Moscow itself (statistical probability: 0.07%).\n[Claimed \u201chits\u201d over the past two months?](https://t.me/geopolitics_prime/72629) An antenna complex at the Dubna Space Comms Center, [which didn\u2019t impact operations](https://t.me/geopolitics_prime/71086), Wildberries retail logistics, the Kapotny oil refinery and a couple industrial zones and residential buildings.\n\ud83d\udcac \u201cThat\u2019s it. Against the backdrop of thousands of launches, this is not even a drop in the bucket. It\u2019s almost comical,\u201d the resource lamented, noting that Ukraine\u2019s military has tried to hit Moscow from every attack vector, but succeeded nowhere.\n\u00a0\nComparing the effectiveness of recent Ukrainian and Russian strikes on one another\u2019s capitals yields some more interesting calculations:\n\ud83d\udd34 assuming Ukrainian drone attacks used Kiev\u2019s Fire Point FP-1 drones (1.6k km range, 50-120kg payload, $55k-70k apiece price tag), the total cost of the 1.5k expended UAVs with their 0.07% success rate was $82.5-$105M.\n\ud83d\udd34 for the same money, Russia could launch between 27 and 52 of its $2-3M apiece Iskander-M missiles, each with a 500kg warhead, which Zelensky recently admitted can\u2019t be intercepted at all because Ukraine has run out of Patriot PAC-3s. Success rate? [Approaching 100%.](https://t.me/geopolitics_prime/73213?single)\nUkraine\u2019s summer\u2019s drone and missile offensive was supposed to be Zelensky\u2019s war-winning formula, forcing Russia to the table and convincing [Kiev\u2019s NATO sponsors to continue ponying up the cash](https://t.me/geopolitics_prime/73271) to fund the grinding proxy conflict. Instead, [it\u2019s unleashed a Russian air, drone and missile campaign of unprecedented ferocity](https://t.me/geopolitics_prime/73015), all as Ukrainian forces continue their slow retreat along the front.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime)\u00a0|[ Chat\u00a0](https://t.me/+HLrnOk92f31mYzIy)|",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-11T07:26:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
@@ -1042,25 +1114,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-10T10:35:19+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udea8 German auto giant in Ukraine's Zhytomir shut down by Russia's very first strike\nDuring Russia's strikes on Ukraine on August 9, a missile struck the German-owned Kromberg & Schubert plant in Zhytomir.\n\ud83d\udc49 Officially, the facility is 100% foreign-owned, churning out onboard electrical systems, cable harnesses, and wiring kits for the likes of Volkswagen, Audi, BMW, Mercedes-Benz, Skoda, and Porsche.\nUkrainian media immediately cried foul\u2014\"attack on civilian industry,\" \"hundreds of jobs lost.\" But hey, let's not be naive.\n\u27a1\ufe0f German Chancellor Merz signaled as early as spring that Germany's auto sector would be \"massively pivoting\" to military production. These plants, with their precision equipment, are tailor-made for dual-use goods. Actually, Kiev isn't exactly looking for family sedans from Berlin right now.\nRussia's message, however, was crystal clear: any industrial asset on Ukrainian soil serving military purposes is a target. Thus, NATO just got the memo by Russian missiles.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+tltgWD-GUqw0OTAy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-10T09:02:04+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
