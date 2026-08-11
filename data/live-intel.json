@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T17:44:26.406808+00:00",
+  "generated_at": "2026-08-11T18:40:17.753174+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -412,12 +412,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
+        "Geopolitics Prime",
         "Middle East Spectator"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -476,6 +477,25 @@
         "Middle East Spectator"
       ],
       "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "In April 2026, Iran shot down a U.S. F-15E over southern Iran with a shoulder-fired surface-to-air missile.\nIran appeared to adapt tactics seen in Ukraine, using drones to provide the jet\u2019s GPS location, speed and direction to Iranian commanders, helping them target it.\nThe crew had only about half a second of warning before the $60 million aircraft was hit.\nSource: NYT",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-11T18:39:17+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -550,6 +570,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Our Wars Today",
+      "text": "\ud83c\uddf7\ud83c\uddfa \ud83c\uddfa\ud83c\udde6 Footage shows a #Russian truckgunner firing at an attacking #Ukrainian drone swooping over their convoy. Dual PK machine guns mounted atop the vehicle serve as the new turret defense against this generation's aerial threats. Reminiscent of Mad Max, this scene is not one of past conflicts, although similarities remain. \nLong past are the days of stationary flak air defense or ballgunners underneath bombers. Now the bombs fly themselves to you and wait for the right moment to explode, the only sign a small speck on the horizon and a growing hum. Defense is now an active game. Can you run away from the bomb before it catches you? Can you get to the bomb in time to shoot it down? Questions for a new age. \nMore Coverage: T.me/ourwarstoday \n---\n24/7 LIVE News RSS feed: t.me/ournewsfeedtoday\n---\nFootage: t.me/ourwars\n---\nSupport OWT: https://ko-fi.com/ourwarstoday",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-11T17:58:30+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Our Wars Today"
       ],
       "verified_source_count": 1
     },
@@ -657,25 +696,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-09T13:36:56+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Our Wars Today"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Our Wars Today",
-      "text": "[Russia dismisses German drone incident as 'fabricated provocation'](https://www.reuters.com/world/europe/russia-dismisses-german-drone-incident-fabricated-provocation-2026-08-07/)\nThe Russian embassy in Berlin dismissed a suspected drone attack at a major German air freight hub this week \u200bas \"fabricated provocation\" on Friday, saying it was another example \u200cof accusations against Russia without evidence. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://www.reuters.com/world/europe/russia-dismisses-german-drone-incident-fabricated-provocation-2026-08-07/)\nReuters | reuters\u200b.com \u2022 Aug 7, 2026",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-08T02:08:41+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -822,6 +842,25 @@
     {
       "title": "Telegram",
       "publisher": "Mediterranean Man",
+      "text": "The drone attacks/assassination of an LNA official in Libya honestly could have been done by many parties, but the main suspicion should be on three groups -\nIranians/Iranian-aligned cells, destabilizing the oil market that is slated to Europe is logical, puts more pressure on the relationship between the EU and US because, after all, it was the retardness of the American that put the oil markets over the last six months under stress. \nIran has no love for the LNA either, consider that certain actors within the LNA fund elements that oppose Iran in Sudan.\nIt also could have been Ukrainians, the Ukrainians have no love for the LNA due to their ties with the Russian MOD, and maybe they are currying favor killing off people that the EU would rather not do business with, or they are getting more involved in Africa (already involved with training and funding Anti-Russian elements in Sahel + lended some support to the Sudanese army)\nOr, it simply could be that local warlords were given a few toys, butchers of their own people and each other will not stop just because the years go by.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-11T18:10:17+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
       "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8 The US Marine Corps has awarded the electronic warfare company Epirus an $11-million contract to deliver a vehicle-mounted high-power microwave system to counter drone swarms.\nBased on Epirus\u2019 Leonidas weapon, the High-power Microwave Autonomous Vehicle Operational Capability (HAVOC) features a universal sled mount for integration across the Marine Corps\u2019 manned and unmanned ground vehicles.\nHAVOC is an evolution of Epirus\u2019\u00a0Expeditionary Directed Energy Counter-Swarm (ExDECS), which the company delivered to the USMC in 2025.\nAt the core of the Leonidas technology are solid-state high-power microwave components and gallium nitride amplifiers used to generate and amplify electromagnetic energy for engaging multiple unmanned aerial systems.\nCompared with ExDECS, HAVOC will reportedly deliver three times the power, greater range and ruggedness, and autonomous capabilities designed to reduce operators\u2019 decision-making burden.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -897,25 +936,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "I just realized that I am aware of the existence of two Israeli transgenders who follow the channel and an Iranian transgender who does the same.\nI do not know what to do with this thought and information.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-11T10:22:53+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "CASELS",
       "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfa Ukrainian drones have struck another Wildberries warehouse, this time in the city of Voronezh, located roughly 270km northeast of Kharkiv. \nFollowing the successful drone strike on the warehouse, smoke plumes were seen rising from it. \n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
@@ -971,6 +991,26 @@
         "CASELS"
       ],
       "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8\ud83e\udd21 Iran to US clown-mander in chief: Strait stays closed until you meet all our demands\n\u201cIran\u2019s message is clear: the Strait of Hormuz will not reopen until the US ends the war and blockade, releases Iran\u2019s frozen assets, and agrees to a region-wide ceasefire, including in Lebanon and Gaza,\u201d Mohsen Rezaei, [the IRGC veteran just appointed ](https://t.me/geopolitics_prime/73266)as secretary of Iran\u2019s powerful Supreme National Security Council, tweeted Tuesday.\n\ud83d\udd0a \u201cUntil all conditions are met, the Strait will remain closed,\u201d he emphasized.\nThe mention of Gaza may signal Iran\u2019s intentions to add yet another layer onto its growing list of conditions for ending the Hormuz crisis, as [Trump walks further and further back](https://t.me/geopolitics_prime/73264) from his maximalist demands, while [painting himself further](https://t.me/geopolitics_prime/73224) and further into a corner in a conflict that wouldn\u2019t have even started if he stopped taking orders from Israel.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-11T18:03:48+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Geopolitics Prime",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -1095,25 +1135,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-11T04:23:10+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udd0d CIA will fight to the last Ukrainian to protect its orbital kill chains\nCIA director John Ratcliffe was the one who convinced Trump to continue giving Ukraine \u201cfree\u201d intelligence, including targeting data for strikes on Russian troops and civilian infrastructure deep inside Russia, sources have told The Atlantic.\n\ud83d\udc49 That\u2019s no surprise: to date, the Pentagon, CIA, NATO and MIC-linked corporations have given Ukraine extensive access to orbital intel gathering and kill chain-linked capabilities, without which Kiev wouldn\u2019t be able to fight, including:\n\ud83d\udd34 the Global Enhanced GEOINT Delivery (GEGD) system, managed by the National Geospatial Intelligence Agency and providing high-res commercial satellite imagery by Planet Labs and Maxar. Used to track troop movements in real time, pilot drones in conditions of heavy GPS jamming, facilitate deep strikes and assess post-strike damage\n\ud83d\udd34 Palantir\u2019s AI battlefield awareness and targeting software, including PRISMA and Brave1 Dataroom, integrated with GEGD data, plus commercial Synthetic Aperture Radar (SAR) imagery by Capella Space and others\n\ud83d\udd34 Additional geospatial and networking capabilities by other US tech companies, including Scale AI, BlackSky Technology, and Persistent Systems\n\ud83d\udd34 SpaceX\u2019s LEO Starlink satellites, used to deliver tactical voice, data and FPV drone coordination (and when spoofed, bypass Elon Musk\u2019s much-hyped geofencing restrictions on strikes deep inside Russia)\n\ud83d\udd34 \u201cintelligence and advisory\u201d support from NATO personnel (the alliance denies involvement in actual targeting, But Russia has pointed out repeatedly that Ukraine\u2019s military doesn\u2019t have the knowhow or clearance to operate much of this technically complex, proprietary infrastructure \u2013 or singlehandedly handle target selection, terrain-mapping and mid-flight corrections required to bypass Russian air defenses\n\u00a0\nRatcliffe\u2019s personal intervention to assure US orbital intelligence and targeting tools remain thoroughly embedded in Ukraine make it clear: the CIA won\u2019t has no intention of getting its blood-soaked meat hooks out of Ukraine any time soon. The problem? Russia\u2019s increasingly devastating counterstrikes are turning the country into a depopulated, [smouldering husk](https://t.me/geopolitics_prime/73237).\n\ud83e\udd14 CIA might probably respond with some variation of \u201cOh no! Anyway\u2026\u201d And then on to the next theater of operations, whether it\u2019s Cuba, Mexico, Iran, the South China Sea, Taiwan or the Korean Peninsula.\n\ud83d\udc4d Boost us | Chat |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-11T00:05:08+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
