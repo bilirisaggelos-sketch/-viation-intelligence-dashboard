@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T15:44:53.323656+00:00",
+  "generated_at": "2026-08-11T16:41:55.124294+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -364,13 +364,13 @@
     },
     {
       "title": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
-      "text": "Russia using North Korean missiles to strike Ukraine, Zelensky says\nUkraine's president says strikes in Zaporizhzhia - which killed at least six and injured 19 - involved ballistic missiles from Russia's ally.",
+      "text": "Russia using North Korean missiles to strike Ukraine, Zelensky says\nUkraine's president says strikes in Zaporizhzhia - which killed seven people - involved ballistic missiles from Russia's ally.",
       "source": "BBC",
       "source_type": "osint",
       "publisher": "BBC World News",
       "severity": "info",
       "icon": "\ud83d\udcf0",
-      "timestamp": "2026-08-11T09:39:58+00:00",
+      "timestamp": "2026-08-11T16:19:44+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -393,13 +393,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "BBC World News",
-        "Mediterranean Man"
+        "BBC World News"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -482,6 +481,25 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
+      "text": "Ukraine Halts Missile Strike Reporting as Russian Attacks Overwhelm Defenses\nUkraine has stopped publishing data on incoming Russian missiles as its air defenses struggle under intensified strikes amid depleted interceptor stockpiles.\n[READ MORE](https://clashreport.com/world/articles/ukraine-missile-strike-reporting-as-russian-attacks-overwhelm-defenses-ifypxd5rt3m/)",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-11T15:54:09+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
       "text": "Investigators Uncover Antenna and DNA Traces in Leipzig Airport Drone Attack\nGerman investigators probing a failed drone attack on Ukrainian cargo planes uncovered forensic evidence, including a suspicious signal antenna and multiple DNA traces.\n[READ MORE](https://clashreport.com/world/articles/investigators-uncover-antenna-and-dna-traces-in-leipzig-airport-drone-attack-1rt1igftr8q)",
       "source": "Telegram",
       "source_type": "telegram",
@@ -526,25 +544,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-11T12:56:17+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Ukrainian Drones Destroy Air Defenses Shielding Putin's Holiday Palace\nUkrainian long-range drones have destroyed an S-400 missile launch pad deployed near Vladimir Putin's lavish Black Sea estate.\n[READ MORE](https://clashreport.com/world/articles/ukrainian-drones-destroy-air-defenses-shielding-putins-black-sea-holiday-palace-msnoac07kj)",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-11T12:24:07+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -757,13 +756,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
-        "CASELS"
+        "Alsaa Plus EN"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -826,6 +824,25 @@
     {
       "title": "Telegram",
       "publisher": "Mediterranean Man",
+      "text": "\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfa A pause in shelling is unlikely: Russia is fulfilling its missile production plan\n\u2013 Deputy Head of Ukraine's Main Intelligence Directorate of the Ministry of Defense, Skibitsky.\nFor major missile types, Russia is currently fulfilling its production plan at 110-120% per month.\nThe annual plan for Zircons and modernized Onyx missiles was completed in seven months.\nIn August, Moscow plans to produce 11,000 strike drones of various types. Russia is currently retooling its production, with a focus on turbojet Geran-4 and Geran-5 drones.\nThe increase in ballistic missile production happened in part because since April they suspended production of Kinzhals and Kh-32 missiles. Funds and components for them were reallocated to other missile types.\nRussia is creating a Starlink analog \u2013 Rassvet \u2013 and is deploying it significantly faster than their plans had assumed. For now they are operating fragmentarily, when the satellite passes over Ukrainian territory.\nRussia is concentrating its attacks on Ukraine's defense-industrial complex, logistics, and energy facilities that logistics and port infrastructure depend on. Additionally, it is trying to strike civilian infrastructure to sow panic and destabilize the situation in the country.\nIn July, Russia launched 153 cruise missiles and 198 ballistic and hypersonic missiles. In the future, the Russian Armed Forces may reduce the number of missiles targeting a single objective, but a pause in shelling is unlikely \u2013 this will depend on production capabilities.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-11T15:58:29+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
       "text": "\u26a1\ud83c\uddfa\ud83c\uddf8CEO of JPMorgan Jamie Dimon (literally me btw): U.S. Dollar could lose its reserve currency status within 25 years or less.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -882,26 +899,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\ud83c\uddf1\ud83c\uddfe The Libyan National Oil Corporation (NOC) has stated that it may declare force majeure and completely halt operations at the Zawiya refinery if drone attacks on oil infrastructure in the city continue, following reports of a third such attack between Sunday and Monday.\nThe NOC stated that the latest drone targeted a crude oil blending and filling facility operated by the Zawiya Oil Refining Company, landing near its main storage tank and a pipeline network used to produce oil for the domestic market. No injuries or material damage were reported.\nThe Zawiya refinery, located about 40 km west of Tripoli, has a capacity of 120,000 barrels per day and is connected to the Sharara oil field, which produces 300,000 barrels per day. It is currently Libya's largest operating refinery, as the Ras Lanuf refinery is out of service.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-11T09:10:53+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "BBC World News",
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
       "publisher": "CASELS",
       "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfa Ukrainian drones have struck another Wildberries warehouse, this time in the city of Voronezh, located roughly 270km northeast of Kharkiv. \nFollowing the successful drone strike on the warehouse, smoke plumes were seen rising from it. \n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
@@ -951,13 +948,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
         "CASELS"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
