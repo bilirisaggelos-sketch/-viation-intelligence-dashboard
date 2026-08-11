@@ -1,6 +1,25 @@
 {
-  "generated_at": "2026-08-11T20:54:57.771185+00:00",
+  "generated_at": "2026-08-11T21:55:54.176103+00:00",
   "events": [
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nMacon, GA, Thursday, August 13, 2026 through Saturday, August 15, 2026 Local\nFacility: ZTL",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "08/11/2026",
+      "location": "ZTL GA",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nDyersville, IA, Tuesday, August 11, 2026 through Thursday, August 13, 2026 Local\nFacility: ZAU",
@@ -68,25 +87,6 @@
       "icon": "\ud83d\udea8",
       "timestamp": "08/10/2026",
       "location": "ZDV CO",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nMacon, GA, Wednesday, August 12, 2026 through Saturday, August 15, 2026 Local\nFacility: ZTL",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "08/10/2026",
-      "location": "ZTL GA",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
@@ -249,6 +249,44 @@
       "verified_source_count": 1
     },
     {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nKaneohe, HI, Tuesday, August 4, 2026 through Tuesday, August 18, 2026 Local\nFacility: ZHN",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "08/02/2026",
+      "location": "ZHN HI",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Space Weather Message Code: WATA20\r",
+      "text": "Space Weather Message Code: WATA20\r\nSerial Number: 1120\r\nIssue Time: 2026 Aug 11 2055 UTC\r\n\r\nCANCEL WATCH: Geomagnetic Storm Category G1 Predicted \nCancel Serial Number: 1119\nOriginal Issue Time: 2026 Aug 09 1338 UTC\nCancelled Level Predicted:\nAug 10 : None (Bellow G1) Aug 11 : None (Bellow G1) Aug 12 : None (Bellow G1) \nCME arrival 11AUG\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-08-11 20:55:54.723",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
       "title": "Space Weather Message Code: SUMSUD\r",
       "text": "Space Weather Message Code: SUMSUD\r\nSerial Number: 302\r\nIssue Time: 2026 Aug 11 1141 UTC\r\n\r\nSUMMARY: Geomagnetic Sudden Impulse \nObserved: 2026 Aug 11 1133 UTC\nDeviation: 12 nT\nStation: BOU\nComment:",
       "source": "NOAA Space Weather",
@@ -325,25 +363,6 @@
       "verified_source_count": 1
     },
     {
-      "title": "Space Weather Message Code: ALTK06\r",
-      "text": "Space Weather Message Code: ALTK06\r\nSerial Number: 725\r\nIssue Time: 2026 Aug 08 2100 UTC\r\n\r\nALERT: Geomagnetic K-index of 6 \nThreshold Reached: 2026 Aug 08 2100 UTC\nSynoptic Period: 2100-2400\nActive Warning: YES\nNoaa Scale: G2 - Moderate\nComment: \r\n\r\nNOAA Scale: G2 - Moderate\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 55 degrees Geomagnetic Latitude.\r\nInduced Currents - Power grid fluctuations can occur. High-latitude power systems may experience voltage alarms.\r\nSpacecraft - Satellite orientation irregularities may occur; increased drag on low Earth-orbit satellites is possible.\r\nRadio - HF (high frequency) radio propagation can fade at higher latitudes.\r\nAurora - Aurora may be seen as low as New York to Wisconsin to Washington state.",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-08-08 21:00:26.140",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
       "title": "US says helicopter fired missiles to disable ship breaking Iran blockade",
       "text": "US says helicopter fired missiles to disable ship breaking Iran blockade\nUS Central Command says its helicopter hit the engine room of a Panama-flagged cargo vessel in the Gulf of Oman.",
       "source": "BBC",
@@ -351,7 +370,7 @@
       "publisher": "BBC World News",
       "severity": "info",
       "icon": "\ud83d\udcf0",
-      "timestamp": "2026-08-11T20:04:11+00:00",
+      "timestamp": "2026-08-11T21:14:56+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -498,6 +517,25 @@
         "Middle East Spectator"
       ],
       "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "WATCH: Russian mobile counter-drone gunner firing a twin-gun mount almost directly over nearby trucks at a low-flying Ukrainian UAV.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-11T21:02:18+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -658,6 +696,63 @@
     {
       "title": "Telegram",
       "publisher": "Our Wars Today",
+      "text": "[Army opens test ranges to small companies developing drones and missiles](https://apnews.com/article/driscoll-army-drones-munitions-iran-ukraine-innovation-183dba81a372db3fec175655013fe318)\nThe U.S. Army says it\u2019s opening up test ranges to private companies developing missiles and drones. Army Secretary Dan Driscoll told reporters Friday at a range in Michigan that the effort will cut the red tape that can stifle military contractors. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://apnews.com/article/driscoll-army-drones-munitions-iran-ukraine-innovation-183dba81a372db3fec175655013fe318)\nKonstantin Toropin | apnews\u200b.com \u2022 Aug 7, 2026",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-11T21:51:44+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Our Wars Today"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Our Wars Today",
+      "text": "[Army Downed More Than 1,400 Iranian Missiles And Drones In Epic Fury And 12-Day War](https://www.twz.com/land/army-downed-more-than-1400-iranian-missiles-and-drones-in-epic-fury-and-12-day-war)\nThe Army's air and missile defense boss offered new context about how the service defended against Iranian threats in the two most recent Middle East conflicts. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://www.twz.com/land/army-downed-more-than-1400-iranian-missiles-and-drones-in-epic-fury-and-12-day-war)\nHoward Altman | twz\u200b.com \u2022 Aug 11, 2026",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-11T21:50:17+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Our Wars Today"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Our Wars Today",
+      "text": "[The elaborate ruse used to conceal Trump's whereabouts](https://www.npr.org/2026/08/11/nx-s1-5928182/the-elaborate-ruse-used-to-conceal-trumps-whereabouts)\nThe scene of President Trump boarding Air Force One after last month\u2019s NATO summit in Turkey is one that TV cameras and photographers have captured countless times.\u00a0What happened in the moments after that was far from routine, according to exclusive reporting from the Washington Post.The Post reports that Trump was shuttled in an airport catering truck to a smaller military plane in which he then secretly departed, even as the White House announced he was flying aboard Air Force One.The operation was prompted by an Iranian assassination threat, a U.S. official familiar with the operation told the Post.We should note that NPR has not independently confirmed this rep... \n[Read More in Full Article](https://www.npr.org/2026/08/11/nx-s1-5928182/the-elaborate-ruse-used-to-conceal-trumps-whereabouts)\nNPR | npr\u200b.org \u2022 Aug 11, 2026",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-11T21:48:25+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Our Wars Today"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Our Wars Today",
       "text": "\ud83c\uddf7\ud83c\uddfa \ud83c\uddfa\ud83c\udde6 Footage shows a #Russian truckgunner firing at an attacking #Ukrainian drone swooping over their convoy in occupied Ukraine, Zaporizhzhia Dual PK machine guns mounted atop the vehicle serve as the new turret defense against this generation's aerial threats. Reminiscent of Mad Max, this scene is not one of past conflicts, although similarities remain. \"on the E58 highway in the occupied part of Zaporizhzhia region, on the road between Melitopol and Pryazovske.\" Location via instagram.com/born.for.war_\nLong past are the days of stationary flak air defense or ballgunners underneath bombers. Now the bombs fly themselves to you and wait for the right moment to explode, the only sign a small speck on the horizon and a growing hum. Defense is now an active game. Can you run away from the bomb before it catches you? Can you get to the bomb in time to shoot it down? Questions for a new age. \nMore Coverage: T.me/ourwarstoday \n---\n24/7 LIVE News RSS feed: t.me/ournewsfeedtoday\n---\nFootage: t.me/ourwars\n---\nSupport OWT: https://ko-fi.com/ourwarstoday",
       "source": "Telegram",
       "source_type": "telegram",
@@ -721,63 +816,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-10T04:22:24+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Our Wars Today"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Our Wars Today",
-      "text": "[\u26a1\ufe0f -Ukrainian-made ballistic missiles could hit Russia in the fall, Zelensky says. \"There are things that do not depend...](https://t.me/KyivIndependent_official/54716)\n\u26a1\ufe0fUkrainian-made ballistic missiles could hit\n[https://kyivindependent.com/ukrainian-made-ballistic-missiles-could-hit-russia-in-the-fall-zelensky-says/]\nRussia in the fall, Zelensky says.\n\"There are things that do not depend on Ukraine, because it's like with Russian\nballistics, there are elements from other countries,\" Zelensky said. \u2013 Join\nTelegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage:\nt.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://t.me/KyivIndependent_official/54716)\n | t\u200b.me \u2022 Aug 9, 2026",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-10T04:19:25+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Our Wars Today"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Our Wars Today",
-      "text": "[Patriot manufacturers fear that Ukraine will improve and make their missiles cheaper](https://www.pravda.com.ua/news/2026/08/10/8048014/)\nThe American defense companies Raytheon and Lockheed fear that Ukraine, in case of obtaining a license, will be able to improve Patriot anti-aircraft missiles and produce them faster and much cheaper than the USA. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://www.pravda.com.ua/news/2026/08/10/8048014/)\n\u0406\u0432\u0430\u043d \u0414'\u044f\u043a\u043e\u043d\u043e\u0432 | pravda\u200b.com\u200b.ua \u2022 Aug 9, 2026",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-10T04:18:00+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Our Wars Today"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Our Wars Today",
-      "text": "\ud83c\uddee\ud83c\uddf1 \ud83c\uddfa\ud83c\uddf8 \ud83c\uddf5\ud83c\uddf8 #BREAKING #Netanyahu Rejects #Trump \"Board of Peace\" Plan To End #Israel's Gaza Genocide, Vows Against Any Form Of #Palestine Statehood, Denying Human Right Of Self-Determination: \nhttps://ground.news/article/israeli-prime-minister-benjamin-netanyahu-rejects-trumps-board-of-peace-plan-for-gaza?utm_source=ourwarstoday&utm_medium=pap-link#a_aid=ourwarstoday\nMore Coverage: T.me/ourwarstoday \n---\n24/7 LIVE News RSS feed: t.me/ournewsfeedtoday\n---\nFootage: t.me/ourwars\n---\nSupport OWT: https://ko-fi.com/ourwarstoday",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-09T13:36:56+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -944,20 +982,39 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddfe\ud83c\uddea\ud83c\uddf8\ud83c\udde6 \u2014 Ansar Allah (the Houthis) launched a missile toward gatherings of Saudi-backed forces.\n\u26aa\ufe0f",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ud83c\uddf7\ud83c\uddf4\ud83c\uddf7\ud83c\uddfaTwo Russian drones found drifting near Romania's Neptun Deep project in the Black Sea were destroyed by a controlled detonation carried out by Romanian EOD divers.\nThe drones were discovered approximately 167 km from Constan\u021ba, within Romania's EEZ, after being spotted by a vessel in the area.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-11T00:08:08+00:00",
+      "timestamp": "2026-08-11T21:43:45+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN"
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ud83c\uddef\ud83c\uddf5\ud83c\uddf0\ud83c\uddf5 The Japanese Ministry of Defense has announced that North Korea likely launched a ballistic missile (a test most likely) and more information will be released soon.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-11T21:32:50+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
       ],
       "verified_source_count": 1
     },
@@ -1008,44 +1065,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-11T15:58:29+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddfa\ud83c\uddf8CEO of JPMorgan Jamie Dimon (literally me btw): U.S. Dollar could lose its reserve currency status within 25 years or less.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-11T11:25:03+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ufe0f\ud83c\uddf5\ud83c\uddf8 Isntrael\u2019s Iron Beam laser defense system\u00a0has yet to enter full operational use despite being delivered eight months ago, according to a senior Israeli defense official.\nOnly one Iron Beam system has so far been\u00a0handed over to the military, with the\u00a0first unit delivered in December 2025. The remaining steps needed to make the system operational have not been completed, according to the report.\nRafael Advanced Defense Systems developed Iron Beam as a high-power laser system designed to intercept rockets, mortars, drones, and other aerial threats. Israel has promoted the technology as a complement to its existing air defense systems.\nBut Rafael officials have said Iron Beam still requires adjustments before it becomes operational.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-11T11:00:02+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
