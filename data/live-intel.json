@@ -1,6 +1,25 @@
 {
-  "generated_at": "2026-08-11T10:13:35.393695+00:00",
+  "generated_at": "2026-08-11T11:08:38.057176+00:00",
   "events": [
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nMonteray, CA, Thursday, August 13, 2026 through Sunday, August 16, 2026 Local\nFacility: ZOA",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "08/11/2026",
+      "location": "ZOA CA",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nSAINT LOUIS, MO, Monday, August 17, 2026 through Sunday, August 23, 2026 Local\nFacility: ZKC",
@@ -230,6 +249,25 @@
       "verified_source_count": 1
     },
     {
+      "title": "Space Weather Message Code: WARSUD\r",
+      "text": "Space Weather Message Code: WARSUD\r\nSerial Number: 258\r\nIssue Time: 2026 Aug 11 1047 UTC\r\n\r\nWARNING: Geomagnetic Sudden Impulse expected \nValid From: 2026 Aug 11 1040 UTC\nValid To: 2026 Aug 11 1248 UTC\nIp Shock: 2026-08-11 10:43\nComment: Weak shock detected at L1.",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-08-11 10:47:33.163",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
       "title": "Space Weather Message Code: WATA20\r",
       "text": "Space Weather Message Code: WATA20\r\nSerial Number: 1119\r\nIssue Time: 2026 Aug 09 1338 UTC\r\n\r\nWATCH: Geomagnetic Storm Category G1 Predicted \nHighest Storm Level Predicted by Day:\nAug 10: None (Below G1) Aug 11: None (Below G1) Aug 12: G1 (Minor) \nTHIS SUPERSEDES ANY/ALL PRIOR WATCHES IN EFFECT\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
       "source": "NOAA Space Weather",
@@ -295,25 +333,6 @@
       "severity": "warning",
       "icon": "\ud83d\udef0\ufe0f",
       "timestamp": "2026-08-08 20:35:27.267",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Space Weather Message Code: ALTK05\r",
-      "text": "Space Weather Message Code: ALTK05\r\nSerial Number: 2044\r\nIssue Time: 2026 Aug 08 2030 UTC\r\n\r\nALERT: Geomagnetic K-index of 5 \nThreshold Reached: 2026 Aug 08 2030 UTC\nSynoptic Period: 1800-2100\nActive Warning: YES\nNoaa Scale: G1 - Minor\nComment: \r\n\r\nNOAA Scale: G1 - Minor\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-08-08 20:30:53.493",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -394,12 +413,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
+        "Alsaa Plus EN",
         "Middle East Spectator"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -462,6 +482,25 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
+      "text": "Israeli Diaspora Affairs Minister Amichai Chikli:\nWe created a system of alliances in Europe unlike anything that existed before, with the deep conservative right. \nVox in Spain, led by Santiago Abascal\u2014today, he is the most Zionist voice there is in Spain: pro-Israel, anti-terror, anti-Hamas. \nThe same goes for Jordan Bardella and Marine Le Pen in France. \nWith these people, a genuine closeness was created. Now they are leading in all the polls.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-11T10:44:59+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
       "text": "Ukrainian soldiers on the Zaporizhzhia front:\nOur relatives and our battalion command were being told that we are provided with everything and have everything we need. But this is not the case. \nGiven the situation, to sustain our bodies, we are drinking our own urine and waiting for them to drop at least something. \nOur Starlink was destroyed, and we only had contact via radio. \nWe were told that there were backup positions and main positions, and that they were ready for occupation. \nWe were told that supply and logistics were well-established and that they deliver everything to everyone via drones. This is also not true.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -487,25 +526,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-11T08:06:07+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Austria dismantled a sanctions-evasion network that funneled over \u20ac3.3 million in European industrial equipment to Russian arms makers since 2022. \nThe Vienna-based company used shell firms across several countries and falsified end-user certificates; the equipment was reportedly used to produce engines for Russian missiles and fighter jets. \nA 28-year-old Belarusian company head was arrested.\nSource: Reuters",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-11T07:37:56+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -671,6 +691,25 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf1\ud83c\uddfa\ud83c\uddf8\u26a1\ufe0f\ud83c\uddf9\ud83c\uddf7 Israel has informed the U.S. about Turkey\u2019s increasing military presence in Syria, including air-defense systems that could threaten Israeli operations.\nSyria recently conducted its first aerial exercise involving fighter jets and a Turkish helicopter, near the Turkish border.\nTurkey has reportedly urged Syria and Lebanon to make agreements with Israel to gain time for military buildup ahead of potential confrontations.\nThis follows the creation of a new defense pact among Turkey, Saudi Arabia, and Pakistan.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-11T10:45:35+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
       "text": "\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddfe\ud83c\uddea\ud83c\uddf8\ud83c\udde6 \u2014 Ansar Allah (the Houthis) continue to launch missiles at positions of Saudi-backed Yemeni forces in the Mokha district, which is controlled by Saudi-backed Yemeni forces.\n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
@@ -756,12 +795,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "Alsaa Plus EN"
+        "Alsaa Plus EN",
+        "Middle East Spectator"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -779,6 +819,44 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ufe0f\ud83c\uddf5\ud83c\uddf8 Isntrael\u2019s Iron Beam laser defense system\u00a0has yet to enter full operational use despite being delivered eight months ago, according to a senior Israeli defense official.\nOnly one Iron Beam system has so far been\u00a0handed over to the military, with the\u00a0first unit delivered in December 2025. The remaining steps needed to make the system operational have not been completed, according to the report.\nRafael Advanced Defense Systems developed Iron Beam as a high-power laser system designed to intercept rockets, mortars, drones, and other aerial threats. Israel has promoted the technology as a complement to its existing air defense systems.\nBut Rafael officials have said Iron Beam still requires adjustments before it becomes operational.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-11T11:00:02+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "I just realized that I am aware of the existence of two Israeli transgenders who follow the channel and an Iranian transgender who does the same.\nI do not know what to do with this thought and information.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-11T10:22:53+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
       ],
       "verified_source_count": 1
     },
@@ -861,25 +939,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf6 Iraqi Interior Ministry vs PMF: Conflicting Claims on \u201cGhost\u201d Bases\nInterior Ministry (Maj. Gen. Miqdad Miri):\n71 unauthorized \u201cghost\u201d offices claiming affiliation with the Popular Mobilization Forces have been closed. More than 500,000 weapons have been registered so far, with a national database now covering roughly 6 million firearms. The September 30 deadline for consolidating weapons under state authority remains in force. Unauthorized drone launches will be treated as terrorism.\nPopular Mobilization Forces response:\nThe fictitious headquarters announced by the Interior Ministry, which those operating them claimed were affiliated with the PMF, have no connection to the organization. The procedures for closing and monitoring these sites were carried out by the PMF\u2019s own General Directorate of Security and Discipline as part of the work of the Standing Committee for Weapons Control, formed by the Commander-in-Chief of the Armed Forces. The PMF reiterates its commitment to continue monitoring such cases and to take the necessary legal and administrative measures against anyone who attempts to impersonate the organization or exploit its name.\nBrief analysis:\nClosing impostor offices that falsely claim the PMF name is not new. The PMF has conducted its own internal crackdowns on these kinds of fake headquarters in the past, which have been used for fraud, recruitment scams, or cover by unaffiliated groups. The Iraqi Interior Ministry is attempting to maximize the appearance of central government effectiveness ahead of fhe politically sensitive September 30 weapons registration deadline.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-11T00:03:04+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "CASELS",
       "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfa Ukrainian drones have struck another Wildberries warehouse, this time in the city of Voronezh, located roughly 270km northeast of Kharkiv. \nFollowing the successful drone strike on the warehouse, smoke plumes were seen rising from it. \n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
@@ -933,6 +992,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udea8\ud83c\uddfa\ud83c\uddf8Five suicides in one month within US Cyber Command?\nBetween early June and early July, 5 people with ties to the command\u2014service members, civilian staff, or close affiliates\u2014took their own lives. The timing has alarmed officials, who have flagged the deaths as a potential cluster, an investigation is underway, US media reported. \n\ud83d\udc49 But the thing is the warning signs were already there.\nAs far back as April, Senator Roger Wicker publicly warned that cyber operators were burning out because of working crushing overtime with no relief in sight. \"How long can we sustain this pace?\" he asked.\n\u27a1\ufe0f At the same hearing, Senator Jack Reed revealed that Cyber Command is deeply enmeshed in operations against Iran, providing direct support for military action, information warfare, and intelligence. General Joshua Rudd, the command's head, later confirmed the command's active role in Middle East theater operations.\nBehind the scenes, Rudd had already sounded the alarm. In April, he requested $11 million for mental health programs, cautioning that without more resources, burnout would worsen, and combat readiness would erode.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime)\u00a0|[ Chat\u00a0](https://t.me/+HLrnOk92f31mYzIy)|",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-11T10:26:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
@@ -1078,25 +1156,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-10T15:03:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83e\udd25\ud83d\udc41 Space-Eyes deal: enter Trump Jr.?\nAmerican defense-tech upstart Space-Eyes is merging with SPAC McKinley Acquisition Corp. in a deal that pegs the combined company at $638 million.\nBut the thing is Eric Trump, the US president's son, is significantly upping his stake: he's now the third-largest private shareholder, set to serve as strategic advisor to the new entity, and has a hand in picking the board. There's no word from Trump's team on the terms.\nSpace-Eyes builds AI for geospatial intelligence and drone defense systems like SeaWatch and Morpheus. Its main bread and butter is, thus, government contracts. And that makes this whole arrangement land with a thud.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+tltgWD-GUqw0OTAy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-10T10:35:19+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
