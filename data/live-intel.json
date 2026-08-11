@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T11:08:38.057176+00:00",
+  "generated_at": "2026-08-11T11:59:44.462971+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -249,6 +249,25 @@
       "verified_source_count": 1
     },
     {
+      "title": "Space Weather Message Code: SUMSUD\r",
+      "text": "Space Weather Message Code: SUMSUD\r\nSerial Number: 302\r\nIssue Time: 2026 Aug 11 1141 UTC\r\n\r\nSUMMARY: Geomagnetic Sudden Impulse \nObserved: 2026 Aug 11 1133 UTC\nDeviation: 12 nT\nStation: BOU\nComment:",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-08-11 11:41:52.250",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
       "title": "Space Weather Message Code: WARSUD\r",
       "text": "Space Weather Message Code: WARSUD\r\nSerial Number: 258\r\nIssue Time: 2026 Aug 11 1047 UTC\r\n\r\nWARNING: Geomagnetic Sudden Impulse expected \nValid From: 2026 Aug 11 1040 UTC\nValid To: 2026 Aug 11 1248 UTC\nIp Shock: 2026-08-11 10:43\nComment: Weak shock detected at L1.",
       "source": "NOAA Space Weather",
@@ -314,25 +333,6 @@
       "severity": "warning",
       "icon": "\ud83d\udef0\ufe0f",
       "timestamp": "2026-08-08 21:00:26.140",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Space Weather Message Code: WARK06\r",
-      "text": "Space Weather Message Code: WARK06\r\nSerial Number: 670\r\nIssue Time: 2026 Aug 08 2035 UTC\r\n\r\nWARNING: Geomagnetic K-index of 6 expected \nValid From: 2026 Aug 08 2035 UTC\nValid To: 2026 Aug 08 2359 UTC\nWarning Conditions: Onset\nNoaa Scale: G2 - Moderate\nComment: \r\n\r\nNOAA Scale: G2 - Moderate\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 55 degrees Geomagnetic Latitude.\r\nInduced Currents - Power grid fluctuations can occur. High-latitude power systems may experience voltage alarms.\r\nSpacecraft - Satellite orientation irregularities may occur; increased drag on low Earth-orbit satellites is possible.\r\nRadio - HF (high frequency) radio propagation can fade at higher latitudes.\r\nAurora - Aurora may be seen as low as New York to Wisconsin to Washington state.",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-08-08 20:35:27.267",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -462,25 +462,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea NEW: Yemeni drones are striking Mokha Port, controlled by Saudi-backed mercenary forces",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-10T14:45:13+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Clash Report",
       "text": "Israeli Diaspora Affairs Minister Amichai Chikli:\nWe created a system of alliances in Europe unlike anything that existed before, with the deep conservative right. \nVox in Spain, led by Santiago Abascal\u2014today, he is the most Zionist voice there is in Spain: pro-Israel, anti-terror, anti-Hamas. \nThe same goes for Jordan Bardella and Marine Le Pen in France. \nWith these people, a genuine closeness was created. Now they are leading in all the polls.",
       "source": "Telegram",
@@ -507,25 +488,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-11T09:47:44+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Poland and the Baltic states are boosting security around critical infrastructure over fears Russia could stage a false-flag attack using Ukrainian drones to trigger a NATO crisis. \nLithuania has deployed troops to protect energy sites, while Latvia and Poland have tightened security around dams, gas facilities and power links. \nSource: Reuters",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-11T08:06:07+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -825,6 +787,25 @@
     {
       "title": "Telegram",
       "publisher": "Mediterranean Man",
+      "text": "\u26a1\ud83c\uddfa\ud83c\uddf8CEO of JPMorgan Jamie Dimon (literally me btw): U.S. Dollar could lose its reserve currency status within 25 years or less.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-11T11:25:03+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
       "text": "\u26a1\ufe0f\ud83c\uddf5\ud83c\uddf8 Isntrael\u2019s Iron Beam laser defense system\u00a0has yet to enter full operational use despite being delivered eight months ago, according to a senior Israeli defense official.\nOnly one Iron Beam system has so far been\u00a0handed over to the military, with the\u00a0first unit delivered in December 2025. The remaining steps needed to make the system operational have not been completed, according to the report.\nRafael Advanced Defense Systems developed Iron Beam as a high-power laser system designed to intercept rockets, mortars, drones, and other aerial threats. Israel has promoted the technology as a complement to its existing air defense systems.\nBut Rafael officials have said Iron Beam still requires adjustments before it becomes operational.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -908,25 +889,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-11T07:20:54+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8 EOTECH has announced the HWS CUAS (Counter Unmanned Aircraft Sight), a new holographic weapon sight purpose-built for rapid engagement of both stationary and moving unmanned aircraft.\nAvailable in two configurations, EXPS3 and XPS3, the CUAS features a sophisticated aiming reticle designed specifically around drone engagement geometry\nThe aiming reticle employs a primary center dot with fractured outer circles to enhance target acquisition on stationary aircraft. For moving targets, the design incorporates lead references that function as intuitive holds at multiple distances. According to EOTECH's engineering documentation, a user engaging a drone crossing at 30 mph in a 90-degree path would position the inner left or right dot on the aircraft at 50 meters and use the outer chevrons for engagement at 90 meters.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-11T07:03:47+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
