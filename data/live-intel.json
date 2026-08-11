@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T19:48:30.129913+00:00",
+  "generated_at": "2026-08-11T20:54:57.771185+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -249,25 +249,6 @@
       "verified_source_count": 1
     },
     {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nKaneohe, HI, Tuesday, August 4, 2026 through Tuesday, August 18, 2026 Local\nFacility: ZHN",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "08/02/2026",
-      "location": "ZHN HI",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
       "title": "Space Weather Message Code: SUMSUD\r",
       "text": "Space Weather Message Code: SUMSUD\r\nSerial Number: 302\r\nIssue Time: 2026 Aug 11 1141 UTC\r\n\r\nSUMMARY: Geomagnetic Sudden Impulse \nObserved: 2026 Aug 11 1133 UTC\nDeviation: 12 nT\nStation: BOU\nComment:",
       "source": "NOAA Space Weather",
@@ -361,6 +342,26 @@
         "NOAA Space Weather Prediction Center"
       ],
       "verified_source_count": 1
+    },
+    {
+      "title": "US says helicopter fired missiles to disable ship breaking Iran blockade",
+      "text": "US says helicopter fired missiles to disable ship breaking Iran blockade\nUS Central Command says its helicopter hit the engine room of a Panama-flagged cargo vessel in the Gulf of Oman.",
+      "source": "BBC",
+      "source_type": "osint",
+      "publisher": "BBC World News",
+      "severity": "info",
+      "icon": "\ud83d\udcf0",
+      "timestamp": "2026-08-11T20:04:11+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "BBC World News",
+        "Clash Report"
+      ],
+      "verified_source_count": 2
     },
     {
       "title": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
@@ -501,6 +502,64 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
+      "text": "Israel\u2019s Foreign Minister Gideon Sa'ar:\nThe IDF is stretched thin. \nWe have soldiers in Gaza, in Lebanon, and in Syria.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-11T20:36:17+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Iranian General Mohammad Reza Naqdi:\nWe produce ballistic missiles at a rate exceeding the rate at which they are fired.\nIn the field of drones as well, our production capacity is far greater than the rate at which they are deployed.\nEven if the war lasts for several years, our ballistic missiles will continue to rain down on the enemy.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-11T19:55:55+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Clash Report"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "U.S. forces fired ~50 Patriot interceptors in a single day during last month\u2019s Iranian attacks on bases in Jordan \u2014 roughly $200M in one day at ~$4M per interceptor. \nIran used course-changing missiles to force heavy expenditure and deplete scarce Patriot stocks.\nSource: NYT",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-11T19:54:44+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
       "text": "Yemen\u2019s Houthis say they struck Saudi military positions, weapons depots and command centers in Mokha and Marib with missiles and drones.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -530,12 +589,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
+        "BBC World News",
         "Clash Report"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -585,25 +645,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-11T15:54:09+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Investigators Uncover Antenna and DNA Traces in Leipzig Airport Drone Attack\nGerman investigators probing a failed drone attack on Ukrainian cargo planes uncovered forensic evidence, including a suspicious signal antenna and multiple DNA traces.\n[READ MORE](https://clashreport.com/world/articles/investigators-uncover-antenna-and-dna-traces-in-leipzig-airport-drone-attack-1rt1igftr8q)",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-11T15:14:51+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -746,6 +787,26 @@
         "Our Wars Today"
       ],
       "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf7\u26a1\ufe0f \u2014 Iranian General Mohammad Reza Naqdi:\nWe produce ballistic missiles at a rate exceeding the rate at which they are fired.\nIn the field of drones as well, our production capacity is far greater than the rate at which they are deployed.\nEven if the war lasts for several years, our ballistic missiles will continue to rain down on the enemy.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-11T20:26:21+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Clash Report"
+      ],
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
