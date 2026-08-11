@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T07:49:43.512638+00:00",
+  "generated_at": "2026-08-11T09:06:41.144585+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -442,6 +442,25 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
+      "text": "Poland and the Baltic states are boosting security around critical infrastructure over fears Russia could stage a false-flag attack using Ukrainian drones to trigger a NATO crisis. \nLithuania has deployed troops to protect energy sites, while Latvia and Poland have tightened security around dams, gas facilities and power links. \nSource: Reuters",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-11T08:06:07+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
       "text": "Austria dismantled a sanctions-evasion network that funneled over \u20ac3.3 million in European industrial equipment to Russian arms makers since 2022. \nThe Vienna-based company used shell firms across several countries and falsified end-user certificates; the equipment was reportedly used to produce engines for Russian missiles and fighter jets. \nA 28-year-old Belarusian company head was arrested.\nSource: Reuters",
       "source": "Telegram",
       "source_type": "telegram",
@@ -467,63 +486,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-11T07:35:44+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "U.S. Army Avenger air-defense systems and Sentinel radar were deployed near Trump while he golfed, providing short-range protection against drones, aircraft and cruise missiles.\nThis wasn\u2019t a one-off deployment.\nAn Avenger was already visible at Bedminster on Aug. 1, when Trump joked he wasn\u2019t worried about \u201cmissiles and drones\u201d and an Army colonel replied, \u201cWe got it covered.\u201d",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-11T07:23:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Russian ballistic missile attack left two large impact craters on the grounds of a children\u2019s hospital in Shevchenkivskyi district, Kyiv region.\nChildren and staff were sheltering, so no one at the hospital was hurt. \nA nearby warehouse was also struck and burned, injuring one person.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-11T07:17:03+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Fire confirmed at Russia's Rosneft\u2019s Komsomolsk-on-Amur refinery, roughly 6,500 km from Ukraine \u2014 far beyond demonstrated Ukrainian UAV strike ranges.\nRussia says a technical failure ignited auxiliary equipment.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-11T07:13:56+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -866,25 +828,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-11T00:03:04+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ufe0f\ud83c\uddf8\ud83c\uddfe\ud83c\uddee\ud83c\uddf1 Kan Hebrew Channel:\n A year and eight months after the Israeli army declared the destruction of the Syrian Air Force with the collapse of the Assad regime, the Israeli security establishment has recently observed that the Syrians have significantly accelerated the rebuilding of their air force: from recruiting new pilots and training with training aircraft and helicopters, to the first maneuver in the last 24 hours conducted using Sukhoi fighter jets in northern Syria.\nUnder the current regime, the Syrians receive support from Turkey, Saudi Arabia, Russia, France, and other countries in the region. Despite talk of a future security agreement with Israel, the security establishment is monitoring developments that could harm Israel's freedom of action in Syrian airspace. Israel's primary concern is the consolidation of the Turkish presence in Syria, including the deployment of air defense systems.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-10T19:43:47+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
