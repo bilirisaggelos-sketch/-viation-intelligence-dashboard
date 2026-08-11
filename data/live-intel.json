@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T18:40:17.753174+00:00",
+  "generated_at": "2026-08-11T19:48:30.129913+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -403,6 +403,26 @@
     {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
+      "text": "\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddfe\ud83c\uddea\ud83c\uddf8\ud83c\udde6 \u2014 Yemen\u2019s Houthis (Ansarallah) announced that they struck Saudi troop concentrations, weapons depots, and command centers in the Mokha area and at Tadaween camp in Marib with a large-scale barrage of ballistic missiles and drones, leaving dozens killed or wounded, including Saudi personnel.\nThe group says it will continue targeting Saudi military buildups that are intended to escalate the conflict. \nIt also renewed its warning to Yemenis fighting alongside Saudi-backed forces, urging them to withdraw \"before it is too late.\"",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-11T19:18:13+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Clash Report",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
       "text": "\u2014\u2757\ufe0f\ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7 Secretary of Iran\u2019s Supreme National Security Council, Major General Mohsen Rezaei:\n\u2018Iran\u2019s message is clear: \nThe Strait of Hormuz will not reopen until the U.S. ends the war and blockade, releases Iran\u2019s frozen assets, and agrees to a region-wide ceasefire, including in Lebanon and Gaza. Until all conditions are met, the Strait will remain closed.\u2019",
       "source": "Telegram",
       "source_type": "telegram",
@@ -481,12 +501,32 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "In April 2026, Iran shot down a U.S. F-15E over southern Iran with a shoulder-fired surface-to-air missile.\nIran appeared to adapt tactics seen in Ukraine, using drones to provide the jet\u2019s GPS location, speed and direction to Iranian commanders, helping them target it.\nThe crew had only about half a second of warning before the $60 million aircraft was hit.\nSource: NYT",
+      "text": "Yemen\u2019s Houthis say they struck Saudi military positions, weapons depots and command centers in Mokha and Marib with missiles and drones.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-11T18:39:17+00:00",
+      "timestamp": "2026-08-11T19:13:49+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Clash Report",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "CENTCOM:\nEarlier today, CENTCOM forces disabled the steering gear of Panama-flagged M/V Vela Nova as the cargo vessel attempted to transit the Gulf of Oman and violate the U.S. blockade against Iran by sailing toward an Iranian port.\nA U.S. Navy MH-60 helicopter fired two hellfire missiles into the Vela Nova\u2019s engine room after the ship\u2019s civilian crew ignored repeated warnings from American forces. The ship is no longer transiting to Iran in violation of the U.S. blockade, which remains in full effect.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-11T19:03:00+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -496,6 +536,26 @@
         "Clash Report"
       ],
       "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "In April 2026, Iran shot down a U.S. F-15E over southern Iran with a shoulder-fired surface-to-air missile.\nIran appeared to adapt tactics seen in Ukraine, using drones to provide the jet\u2019s GPS location, speed and direction to Iranian commanders, helping them target it.\nThe crew had only about half a second of warning before the $60 million aircraft was hit.\nSource: NYT",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-11T18:39:17+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Clash Report"
+      ],
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -556,27 +616,8 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Investigators probing the suspected August 4 drone attack at Leipzig/Halle Airport found a suspicious antenna and several DNA traces that could help identify the perpetrators. \nThe modified drone carried a 5G router, two SIM cards, a camera and an extra battery, suggesting it could be remotely controlled over long distances. \nIt was also carrying around 600g of Semtex, but the explosive failed to detonate due to a defective detonator.\nSource: Tagesschau",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-11T14:20:48+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Our Wars Today",
-      "text": "\ud83c\uddf7\ud83c\uddfa \ud83c\uddfa\ud83c\udde6 Footage shows a #Russian truckgunner firing at an attacking #Ukrainian drone swooping over their convoy. Dual PK machine guns mounted atop the vehicle serve as the new turret defense against this generation's aerial threats. Reminiscent of Mad Max, this scene is not one of past conflicts, although similarities remain. \nLong past are the days of stationary flak air defense or ballgunners underneath bombers. Now the bombs fly themselves to you and wait for the right moment to explode, the only sign a small speck on the horizon and a growing hum. Defense is now an active game. Can you run away from the bomb before it catches you? Can you get to the bomb in time to shoot it down? Questions for a new age. \nMore Coverage: T.me/ourwarstoday \n---\n24/7 LIVE News RSS feed: t.me/ournewsfeedtoday\n---\nFootage: t.me/ourwars\n---\nSupport OWT: https://ko-fi.com/ourwarstoday",
+      "text": "\ud83c\uddf7\ud83c\uddfa \ud83c\uddfa\ud83c\udde6 Footage shows a #Russian truckgunner firing at an attacking #Ukrainian drone swooping over their convoy in occupied Ukraine, Zaporizhzhia Dual PK machine guns mounted atop the vehicle serve as the new turret defense against this generation's aerial threats. Reminiscent of Mad Max, this scene is not one of past conflicts, although similarities remain. \"on the E58 highway in the occupied part of Zaporizhzhia region, on the road between Melitopol and Pryazovske.\" Location via instagram.com/born.for.war_\nLong past are the days of stationary flak air defense or ballgunners underneath bombers. Now the bombs fly themselves to you and wait for the right moment to explode, the only sign a small speck on the horizon and a growing hum. Defense is now an active game. Can you run away from the bomb before it catches you? Can you get to the bomb in time to shoot it down? Questions for a new age. \nMore Coverage: T.me/ourwarstoday \n---\n24/7 LIVE News RSS feed: t.me/ournewsfeedtoday\n---\nFootage: t.me/ourwars\n---\nSupport OWT: https://ko-fi.com/ourwarstoday",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
@@ -709,6 +750,45 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8\u26a1\ufe0f \u2014 In April 2026, Iran shot down a U.S. F-15E over southern Iran using a shoulder-fired surface-to-air missile, according to the NYT.\nIranian forces adapted tactics observed in Ukraine, employing drones to relay the jet's GPS coordinates, speed, and heading to commanders\u2014enabling precise targeting.\nThe crew reportedly received less than half a second of warning before the $60 million aircraft was struck.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-11T19:02:20+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Clash Report"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf7 \u2013 Iran used tactics seen in Ukraine to [shoot down an F-15E](https://t.me/GeoPWatch/30475?single) in April, including the deployment of a drone swarm to determine its location, speed and direction to intercept it with a shoulder-fired missile, likely of [Chinese](https://t.me/GeoPWatch/34396) origin.\nThe report also claims the pilots were given a warning only around half a second of warning before being struck. Both pilots [survived](https://t.me/GeoPWatch/30640) and were evacuated by U.S. forces.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-11T18:50:44+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
       "text": "\ud83c\uddee\ud83c\uddf1\ud83c\uddfa\ud83c\uddf8\u26a1\ufe0f\ud83c\uddf9\ud83c\uddf7 Israel has informed the U.S. about Turkey\u2019s increasing military presence in Syria, including air-defense systems that could threaten Israeli operations.\nSyria recently conducted its first aerial exercise involving fighter jets and a Turkish helicopter, near the Turkish border.\nTurkey has reportedly urged Syria and Lebanon to make agreements with Israel to gain time for military buildup ahead of potential confrontations.\nThis follows the creation of a new defense pact among Turkey, Saudi Arabia, and Pakistan.\n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
@@ -810,25 +890,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-11T00:08:08+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83d\udea8\ud83c\uddfe\ud83c\uddea \u2014 Yemen\u2019s government-aligned forces conducted a series of coordinated retaliatory strikes and drone operations against Houthi militia positions across the Al-Jawf and Shabwa-Marib border regions \u2014 Yemen Armed Forces Media / Al-Sahil news.\n\u27a1\ufe0f The Yemen Armed Forces Media Center released drone footage documenting strikes reportedly on Houthi personnel, hardware, and logistical movements throughout the eastern Al-Jawf governorate.\n\u27a1\ufe0f Under \"Operation Sahoom Shabwa,\" a coalition comprising the Shabwa Defense Forces, Saba Axis, and the 26th Brigade deployed artillery and UAVs against Houthi nodes in the Ain-Harib sector. The Joint Forces in the West Coast characterized the offensive as a \"retaliatory strike\" following a Houthi drone engagement on 3rd Brigade positions that resulted in two personnel killed and multiple others wounded.\n\u2b50\ufe0f Follow",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-10T21:46:09+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
