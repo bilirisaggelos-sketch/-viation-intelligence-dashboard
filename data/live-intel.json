@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T20:53:56.364914+00:00",
+  "generated_at": "2026-08-12T21:54:24.777086+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -823,6 +823,25 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddee\ud83c\udde9\ud83c\uddfa\ud83c\uddf8 Indonesia pushes back on US military footing\n\ud83d\udde3 Despite growing defense cooperation with the US, the option of hosting an American military base on Indonesia\u2019s territory remains off the table, Indonesian Defense Minister Sjafrie Sjamsoeddin said. \nIn April 2026, Indonesia and the US elevated their defense ties by establishing a Major Defense Cooperation Partnership (MDCP). The agreement marks a significant step in strengthening operational integration between the two countries.\n\ud83d\udd0a \u201cOur cooperation focuses on programs that help increase the national defense capacity, in particular education, training, personnel capabilities, and strengthening interoperability according to our needs and interests,\u201d Sjamsoeddin added.\nThe US maintains seven hundred military bases and sites across more than 80 countries worldwide, with its largest concentrations in East Asia and the Middle East, including bases and military facilities across the Gulf.\nRussian President Vladimir Putin, for his part, recently noted that NATO is slowly pushing into the Pacific region, and the deployment of new arms there is pointlessly driving up the threat of war.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-12T21:03:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
       "text": "\ud83c\udde6\ud83c\uddea\ud83c\uddee\ud83c\uddf6 UAE offers to run Iraq\u2019s oil through Hormuz to rewrite Gulf logistics\n\ud83d\udd0a As the waterway remains [closed](https://t.me/geopolitics_prime/73304), one regional player - the UAE - has offered to deploy its tried-and-tested clandestine playbook for clients, reports Bloomberg.\nEmirati giant Abu Dhabi National Oil Co. (ADNOC) is prepared to shuttle Iraqi crude through the waterway using the same \u201cdark transit\u201d tactics that have helped the UAE keep its own exports moving.\nADNOC\u2019s trading arm has reportedly been offering spot cargoes of Iraqi crude to Asian buyers, including Indian refiners. \nThe strategy involves:\n\u2666\ufe0f Short, sprint-like tanker voyages through the strait, often with transponders switched off to evade detection\n\u2666\ufe0f Cargo transfers to larger vessels waiting just outside the immediate threat zone\nFor Iraq, which has long relied on foreign trading houses like Vitol Group and France\u2019s TotalEnergies SE to carry its oil to market, the UAE\u2019s intervention could reshape those established logistics networks.\n\ud83d\udcc9 Iraq is making the dangerous voyage more attractive financially:\n\ud83d\udfe5 state oil marketer SOMO reportedly offers discounts of $30 a barrel below benchmark prices for crude loading \n\ud83d\udfe5 Basrah Medium was discounted by roughly $25\u2013$27 \nIraqi crude exports climbed to around 2 million barrels a day this month according to SOMO chief Ali Nizar - above the 1.5\u20131.7 million bpd estimate given by Iraq\u2019s oil minister last week. \nThe surge suggests that ADNOC\u2019s offers may already be having a tangible impact on the ground.\nIraq has so far sold its crude on a loading basis, leaving transportation to other companies. \nADNOC, by contrast, has its own expanded tanker fleet and has also chartered vessels from Sinokor Group, the world\u2019s largest oil supertanker owner. \nBut the strategy comes with risks: several ADNOC tankers were targeted while transiting the strait last week.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
@@ -886,25 +905,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-12T10:33:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\udfd7 Follow for live, firsthand updates on battles across the Middle East.\nThe most viewed news of the last 24 hours:\n\ud83d\udfe6Colombia\u2019s new far-right president Abelardo de la Espriella announced that Colombia recognized the Golan Heights as Israeli territory. \n\ud83d\udfe6Four drone attacks have targeted Libyan Zawiya oil refinery since yesterday afternoon.\n\ud83d\udfe6 Two commercial ship belonging to Saudi Arabia were targeted today in the Bab-el-Mandeb Strait.\n\ud83d\udd34If you don't have an EU phone number, you can follow our main channel:",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-12T07:28:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
