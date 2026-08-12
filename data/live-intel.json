@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T07:46:59.178457+00:00",
+  "generated_at": "2026-08-12T09:18:44.749532+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -461,6 +461,82 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
+      "text": "\ud83d\udcf8 Russian shadow-fleet tanker CARUZO, carrying ~1M barrels of crude through the Bosphorus, was spotted with improvised anti-drone netting and hanging IBC-container barriers to protect against Ukrainian aerial and sea drones.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-12T09:17:20+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "\ud83d\udcf8 Russian cargo ship MECHTA S was spotted in Istanbul\u2019s Haydarpa\u015fa Port painted in unusual naval-style dazzle camouflage, intended to complicate targeting by Ukrainian drones/USVs.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-12T09:11:56+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "An unclaimed FPV/suicide drone hit and destroyed the South Zawiya 30/11 kV substation in western Libya, causing a major fire and widespread outages south of Zawiya. \nThe strike is part of a recent series of unexplained drone attacks on Zawiya\u2019s power and oil infrastructure.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-12T09:09:09+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Major Ukrainian defence-tech company General Chereshnya topped Ukraine\u2019s Delta/e-points ranking again in July 2026. \nIts drones were credited with 16,000+ aerial targets hit\u2014about 13,000 fixed-wing UAVs and 3,000 FPV/copter targets. \nThe company placed 2nd overall in targets hit, 2nd in daytime hits, and 3rd in nighttime FPV. \nThe AIR Speed and Bullet interceptors specifically accounted for roughly 300 Shahed-type drones.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-12T08:10:27+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
       "text": "Ukrainian drones hit Novorossiysk, one of Russia\u2019s largest Black Sea ports and a key hub for oil exports and military activity. \nThe 5+ hour attack triggered air defenses and damaged buildings and a bread processing plant.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -505,44 +581,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-12T06:32:36+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "WATCH: Russian mobile counter-drone gunner firing a twin-gun mount almost directly over nearby trucks at a low-flying Ukrainian UAV.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-11T21:02:18+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Israel\u2019s Foreign Minister Gideon Sa'ar:\nThe IDF is stretched thin. \nWe have soldiers in Gaza, in Lebanon, and in Syria.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-11T20:36:17+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
