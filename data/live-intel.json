@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T02:29:06.718289+00:00",
+  "generated_at": "2026-08-12T04:25:31.881118+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -472,13 +472,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "CASELS",
         "Middle East Spectator"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -1002,12 +1001,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfa Ukrainian drones have struck another Wildberries warehouse, this time in the city of Voronezh, located roughly 270km northeast of Kharkiv. \nFollowing the successful drone strike on the warehouse, smoke plumes were seen rising from it. \n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "Four crew members were killed in a Houthi missile strike on the small Deck Cargo Ship Tihamah (IMO 1031329) near the Bab-al-Mandeb strait. The missile struck the ship's bridge, indicating the attack was intentional.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-11T04:12:57+00:00",
+      "timestamp": "2026-08-12T04:22:02+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -1021,32 +1020,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddf1\ud83c\uddfe Libya\u2019s state-owned Brega Petroleum Marketing Company said the fire broke out following a drone strike that targeted the plant in Zawiya. The company prompted the government to declare the matter a \"national emergency\". \nThe corporation said the targeted tank contained an estimated 4.5 million liters of gasoline, making the incident particularly dangerous because of the potential threat to the facility and nearby oil installations. No group has claimed responsibility of the attack.\nZawiya holds strategic and economic importance because of its coastal location, oil refinery and other energy facilities. Any security tension there affects transport movement as well as fuel and energy supplies. \n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "Hezbollah attempted to smuggle water by drone to fighters trapped on the Ali Tahr Ridge in Lebanon. The IDF uncovered the plan and downed several of the drones, Lebanese reports say.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-11T04:12:29+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "CASELS",
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6 Russia launched a major missile barrage against Ukraine, targeting Kyiv with 2 ballistic missiles and 4 hypersonic missiles.\nAnother 4 missiles reportedly impacted Zaporizhzhia, alongside at least 11 Russian glide bombs striking the city and its outskirts. \nPatriot interceptors were reportedly launched over Kyiv for the first time in weeks.\n\ud83d\udca7 [Rainbet.com](https://www.rainbet.com/) the #1 Non-KYC Crypto Casino & Sportsbook +18",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-11T04:12:01+00:00",
+      "timestamp": "2026-08-12T04:08:10+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -1054,6 +1033,139 @@
       "verification_confidence": 30,
       "verified_sources": [
         "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "Approximately 400 strike and jet-powered drones, along with USVs, have meowed their way towards Russia this evening. Looking forward to good news tomorrow.\nIf our translations help you stay informed, consider supporting the project.\nIt keeps WarTranslated independent and active every day.\n\ud83e\ude75 Patreon: patreon.com/c/WarTranslated\n\u2615\ufe0f BuyMeACoffee: buymeacoffee.com/wartranslated",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-12T04:04:10+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "Drones from the 12th \"Azov\" Special Forces Brigade wiped out a Russian column 20 km behind the frontline.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-12T04:02:55+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "The result of a Russian EW operation following yesterday\u2019s strike drone attack on the \"Taneco\" oil refinery in Nizhnekamsk, Tatarstan. Russian air defense downed a drone straight into an industrial zone hostel housing migrant workers, primarily from Uzbekistan, resulting in casualties.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-12T04:01:45+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "A single road has hundreds of Ukrainian FPV drone waiting to be used against Russian soldiers, a dead Russian body can be seen laying around the round.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-12T03:55:44+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "The Wildberries logistics hub near Voronezh that partially burned overnight during the Ukrainian drone operation.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-12T03:55:21+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "Ukrainian forces are attacking the Russian port of Novorossiysk, with Russian air defenses actively engaging. The attack comes shortly after reports that Ukraine launched around 400 drones.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-12T03:55:17+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udea8\ud83c\uddf7\ud83c\uddfa Night fire: Russian missiles strike Zaporozhye again\nJudging by the scale of the blaze, the strike hit an ammunition depot operating under the cover of a shopping mall sign. Footage is flooding social media from local residents on the ground.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-12T04:23:06+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
@@ -1124,44 +1236,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-11T14:55:28+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udea8 Drone strikes jet: Russian Geran knocks out Ukrainian MiG-29 over Odessa\nGraphic new imagery circulating in Ukrainian social media shows the remains of a Ukrainian warplane hit by Russian UAV, confirming a direct strike in the skies above Odessa.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime)\u00a0|[ Chat\u00a0](https://t.me/+HLrnOk92f31mYzIy)|",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-11T13:35:27+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udea8\ud83c\uddfa\ud83c\uddf8Five suicides in one month within US Cyber Command?\nBetween early June and early July, 5 people with ties to the command\u2014service members, civilian staff, or close affiliates\u2014took their own lives. The timing has alarmed officials, who have flagged the deaths as a potential cluster, an investigation is underway, US media reported. \n\ud83d\udc49 But the thing is the warning signs were already there.\nAs far back as April, Senator Roger Wicker publicly warned that cyber operators were burning out because of working crushing overtime with no relief in sight. \"How long can we sustain this pace?\" he asked.\n\u27a1\ufe0f At the same hearing, Senator Jack Reed revealed that Cyber Command is deeply enmeshed in operations against Iran, providing direct support for military action, information warfare, and intelligence. General Joshua Rudd, the command's head, later confirmed the command's active role in Middle East theater operations.\nBehind the scenes, Rudd had already sounded the alarm. In April, he requested $11 million for mental health programs, cautioning that without more resources, burnout would worsen, and combat readiness would erode.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime)\u00a0|[ Chat\u00a0](https://t.me/+HLrnOk92f31mYzIy)|",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-11T10:26:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
