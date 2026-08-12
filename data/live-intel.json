@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T15:17:06.384675+00:00",
+  "generated_at": "2026-08-12T16:28:15.484880+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -384,70 +384,12 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "North Korea Fires Ballistic Missile Ahead of US-South Korea Military Drills\nNorth Korea launched a ballistic missile off its east coast on Wednesday, traveling 700 kilometers, days before major joint military exercises between the US and South Korea.\n[READ MORE](https://clashreport.com/world/articles/north-korea-fires-ballistic-missile-ahead-of-us-south-korea-military-drills-6bm04wahjfv)",
+      "text": "Gamers Who Aced Infamous GTA Helicopter Mission Became Ukraine's Top FPV Drone Pilots\nUkrainian military trainers have identified an unconventional talent pipeline for combat aviation, discovering that video game GTA is a metric for success.\n[READ MORE](https://clashreport.com/world/articles/gamers-who-aced-infamous-gta-helicopter-mission-became-ukraines-top-fpv-drone-pilots-ll6lsv124zj)",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-12T14:41:40+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Israeli Defense Minister Israel Katz:\nWe will not withdraw\u2014not from Lebanon, not from Syria, and not from Gaza\u2014from the security zones.\nThis is our policy, and we will continue it. \nWe are up here, they are down there. Residents are outside, soldiers are inside, and the houses are destroyed.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-12T14:31:31+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Clash Report"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Ukrainian drone-training commander says GTA players who completed the infamous helicopter mission became some of their best FPV drone operators. \nGaming controller skills apparently transfer surprisingly well to real drone piloting.\nSource: Ukrinform",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-12T14:29:48+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Ecuadorian fishermen say mysterious English-speaking men wearing U.S. flag patches attacked their boats with explosive drones, leaving some dead or missing. \nNYT flight-data analysis found a privately registered maritime patrol plane based at a Salvadoran military facility repeatedly tracked the boats before the attacks. \nThe U.S. and El Salvador deny involvement, but the plane\u2019s links to military facilities and the attackers\u2019 apparent organization have raised questions about whether a U.S.-linked military contractor was behind the strikes.\nSource: NYT",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-12T14:19:12+00:00",
+      "timestamp": "2026-08-12T15:55:45+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -613,6 +555,25 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf6\ud83c\uddee\ud83c\uddf6\ud83c\uddee\ud83c\uddf6\u26a1\ufe0f \u2014 Iraqi Asa\u2019ib Ahl al-Haq:\nWe have handed over the medium and heavy weapons, including missiles and drones, to the brigades of the Iraqi Popular Mobilization Forces (PMF). We seek to build a well-governed civil state in which citizens do not feel threatened by any weapons outside the framework of the state.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-12T15:36:09+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
       "text": "\ud83c\uddee\ud83c\uddf1\u274c\ud83c\uddf1\ud83c\udde7\ud83c\uddf8\ud83c\uddfe\ud83c\uddf5\ud83c\uddf8 \u2014 Israeli Defense Minister Israel Katz:\nI instructed the military to take all necessary steps to ensure a long-term presence in the security zone in Lebanon, Syria, and Gaza.\n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
@@ -622,13 +583,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
-        "Clash Report"
+        "Alsaa Plus EN"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -715,25 +675,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-12T12:55:58+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "The schizophrenia of the gulf political leadership knows no bound.\nWhy don't you bomb Iran like we do? We don't do that in the Gulf\nWhy don't you bomb weddings in Yemen like we do? We don't do that in the Gulf\nAnd then he will have the gall to tell you that your military is useless, at the same sentence, he will tell you that he was extremely offended that you participated in the defense of the UAE (and the guys just stayed in the airbase doing nothing) and not send any air defense or air squadrons to Saudi Arabia.\nAnd then he will say you have \"no valuable input.\" for military affairs.\nHomosexuals! A quarter of the airbases near Yemen had to have our mechanics work on your drones and your jets, and who am I to even get mad at this? I am not the one hosting several thousand US airmen or marines.\nOverall, it was a seething article piece.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-12T10:22:36+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
