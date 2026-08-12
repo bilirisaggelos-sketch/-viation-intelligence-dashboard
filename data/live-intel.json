@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T09:18:44.749532+00:00",
+  "generated_at": "2026-08-12T10:36:53.730376+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -461,6 +461,25 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
+      "text": "NEW: Ukrainian intelligence says Russia has stockpiled around 6,200 Geran drones for mass strikes, potentially launching 600\u20131,000 drones in a single attack. \nProduction of Geran-4/5 alone is estimated at ~3,000 per month.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-12T09:22:05+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
       "text": "\ud83d\udcf8 Russian shadow-fleet tanker CARUZO, carrying ~1M barrels of crude through the Bosphorus, was spotted with improvised anti-drone netting and hanging IBC-container barriers to protect against Ukrainian aerial and sea drones.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -536,58 +555,58 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Ukrainian drones hit Novorossiysk, one of Russia\u2019s largest Black Sea ports and a key hub for oil exports and military activity. \nThe 5+ hour attack triggered air defenses and damaged buildings and a bread processing plant.",
+      "publisher": "Our Wars Today",
+      "text": "[Ukrainian anti-ship missiles and drones strike Russian naval stronghold](https://apnews.com/article/russia-ukraine-black-sea-attack-9eadff0d7590923e3d98c99e2b61150b)\nPresident Volodymyr Zelenskyy says Ukrainian anti-ship missiles and drones have blitzed a major Russian naval base on the Black Sea coast in a unique nighttime operation. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://apnews.com/article/russia-ukraine-black-sea-attack-9eadff0d7590923e3d98c99e2b61150b)\nIllia Novikov | apnews\u200b.com \u2022 Aug 12, 2026",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-12T07:14:39+00:00",
+      "timestamp": "2026-08-12T10:32:34+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Clash Report"
+        "Our Wars Today"
       ],
       "verified_source_count": 1
     },
     {
       "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "North Korea fired a ballistic missile about 700 km into the sea ahead of the U.S.-South Korea Ulchi Freedom Shield drills, scheduled for August 17\u201327. \nIt was North Korea\u2019s 11th suspected ballistic missile test of 2026, with South Korean analysts suggesting it may have been a hypersonic missile.\nSource: Reuters",
+      "publisher": "Our Wars Today",
+      "text": "[Zelenskyi: \"Palyanytsia\" drones and \"Neptun\" missiles worked at the Russian naval base in Novorossiysk](https://www.pravda.com.ua/news/2026/08/12/8048350/)\nUkraine struck the Russian naval base in Novorossiysk with Palyanitsa drones and Neptune missiles. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://www.pravda.com.ua/news/2026/08/12/8048350/)\n\u041e\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440 \u0428\u0443\u043c\u0456\u043b\u0456\u043d | pravda\u200b.com\u200b.ua \u2022 Aug 12, 2026",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-12T07:10:29+00:00",
+      "timestamp": "2026-08-12T10:32:26+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Clash Report"
+        "Our Wars Today"
       ],
       "verified_source_count": 1
     },
     {
       "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "NEW: Ukraine halted drone strikes on tankers using Russia\u2019s Novorossiysk port after JD Vance asked Zelensky to stop. \nWashington feared the attacks were disrupting global oil markets and hurting US interests, including Chevron and Exxon\u2019s stakes in Kazakhstan\u2019s main export route.\nSource: FT",
+      "publisher": "Our Wars Today",
+      "text": "[Media: Vance asked Zelensky not to hit tankers passing through Novorossiysk](https://www.pravda.com.ua/news/2026/08/12/8048342/)\nUkraine has halted an intensive campaign of drone strikes against oil tankers using the key Black Sea port of Novorossiysk, following a request made late last month by US Vice President JD Vance. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://www.pravda.com.ua/news/2026/08/12/8048342/)\n\u0406\u0432\u0430\u043d\u043d\u0430 \u041a\u043e\u0441\u0442\u0456\u043d\u0430,\u041e\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440 \u0428\u0443\u043c\u0456\u043b\u0456\u043d | pravda\u200b.com\u200b.ua \u2022 Aug 12, 2026",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-12T06:32:36+00:00",
+      "timestamp": "2026-08-12T10:32:13+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Clash Report"
+        "Our Wars Today"
       ],
       "verified_source_count": 1
     },
@@ -822,6 +841,63 @@
     {
       "title": "Telegram",
       "publisher": "Mediterranean Man",
+      "text": "The schizophrenia of the gulf political leadership knows no bound.\nWhy don't you bomb Iran like we do? We don't do that in the Gulf\nWhy don't you bomb weddings in Yemen like we do? We don't do that in the Gulf\nAnd then he will have the gall to tell you that your military is useless, at the same sentence, he will tell you that he was extremely offended that you participated in the defense of the UAE (and the guys just stayed in the airbase doing nothing) and not send any air defense or air squadrons to Saudi Arabia.\nAnd then he will say you have \"no valuable input.\" for military affairs.\nHomosexuals! A quarter of the airbases near Yemen had to have our mechanics work on your drones and your jets, and who am I to even get mad at this? I am not the one hosting several thousand US airmen or marines.\nOverall, it was a seething article piece.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-12T10:22:36+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ud83c\uddf1\ud83c\udde7 Lebanese people are furious that parliament approved an amended general amnesty law. This 'general amnesty' was introduced specifically to free the terrorist Ahmad al-Assir after his release was requested by the US on behalf of Syria.\nAhmad al-Assir spread hatred, formed an armed group, then on June 23, 2013 he orchestrated a deadly ambush against a Lebanese army checkpoint in Abra that resulted in the murder of 18 Lebanese soldiers.\nLebanese Armed Forces repelled the attack with assistance from Hezbollah, al-Assir fled and remained a fugitive until security forces finally arrested him at Beirut airport in 2015.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-12T09:57:08+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf0\ud83c\uddf5 Ukrainian President Volodymyr Zelensky said a decision has been made for 30,000 to 50,000 North Koreans to be deployed on the territory of Russia, raising his July estimate of 30,000. He did not disclose his source.\nZelensky said Kyiv had recovered North Korean missiles on Ukrainian territory without specifying locations.\nSince 2024, Pyongyang has provided between 11,000 and 14,000 troops to assist Moscow, mainly in Russia's Kursk region. A North Korean missile unit has reportedly begun deploying to western Russia, potentially equipped with 120 ballistic missiles and six launchers for strikes on Ukraine.\nZelensky urged South Korea to strengthen cooperation with Kyiv, particularly on air defense systems, where Ukraine faces shortages. Putin and Kim Jong Un signed a strategic partnership treaty in June 2024 including mutual assistance provisions. Neither the North Korean Embassy nor South Korea's Foreign Ministry responded to Reuters' requests for comment.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-12T09:27:21+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
       "text": "\u26a1\ud83c\uddf8\ud83c\udde9 The RSF militias targeted Omdurman, Al Abiedth, Otroba and Khartoum with long ranged drones hours ago.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -885,63 +961,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-11T21:43:45+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddef\ud83c\uddf5\ud83c\uddf0\ud83c\uddf5 The Japanese Ministry of Defense has announced that North Korea likely launched a ballistic missile (a test most likely) and more information will be released soon.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-11T21:32:50+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "The drone attacks/assassination of an LNA official in Libya honestly could have been done by many parties, but the main suspicion should be on three groups -\nIranians/Iranian-aligned cells, destabilizing the oil market that is slated to Europe is logical, puts more pressure on the relationship between the EU and US because, after all, it was the retardness of the American that put the oil markets over the last six months under stress. \nIran has no love for the LNA either, consider that certain actors within the LNA fund elements that oppose Iran in Sudan.\nIt also could have been Ukrainians, the Ukrainians have no love for the LNA due to their ties with the Russian MOD, and maybe they are currying favor killing off people that the EU would rather not do business with, or they are getting more involved in Africa (already involved with training and funding Anti-Russian elements in Sahel + lended some support to the Sudanese army)\nOr, it simply could be that local warlords were given a few toys, butchers of their own people and each other will not stop just because the years go by.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-11T18:10:17+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8 The US Marine Corps has awarded the electronic warfare company Epirus an $11-million contract to deliver a vehicle-mounted high-power microwave system to counter drone swarms.\nBased on Epirus\u2019 Leonidas weapon, the High-power Microwave Autonomous Vehicle Operational Capability (HAVOC) features a universal sled mount for integration across the Marine Corps\u2019 manned and unmanned ground vehicles.\nHAVOC is an evolution of Epirus\u2019\u00a0Expeditionary Directed Energy Counter-Swarm (ExDECS), which the company delivered to the USMC in 2025.\nAt the core of the Leonidas technology are solid-state high-power microwave components and gallium nitride amplifiers used to generate and amplify electromagnetic energy for engaging multiple unmanned aerial systems.\nCompared with ExDECS, HAVOC will reportedly deliver three times the power, greater range and ruggedness, and autonomous capabilities designed to reduce operators\u2019 decision-making burden.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-11T17:32:44+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -1120,6 +1139,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udde3\ud83e\udee1 Vance calls, Zelensky obeys?\nUS Vice President JD Vance personally called the Ukrainian leader and demanded an end to strikes on Caspian Pipeline Consortium facilities, according to the Financial Times.\n\ud83d\udcd1 Ukraine, the report says, quickly fell in line, as still clinging to hope for US licenses to produce Patriot interceptor missiles.\nWashington's main concern is that Ukrainian attacks are roiling global oil markets and hitting American corporate interests, the media claims. The CPC, after all, is an international player with US stakes.\nSo who actually decides what Ukraine hits? If the answer requires a courtesy call from the US Vice President, then what exactly is Ukrainian sovereignty? Independence, it seems, looks a lot like permission.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-12T10:33:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
