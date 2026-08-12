@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T17:34:03.519221+00:00",
+  "generated_at": "2026-08-12T18:38:50.095743+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -365,6 +365,25 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
+      "text": "Ukrainian drone units decisively beat a U.S. armored brigade in a major exercise in Germany, exposing gaps in America\u2019s adaptation to modern drone warfare. \nUkrainian operators quickly detected U.S. vehicles, then simulated destroying them with explosive and FPV drones\u2014so effectively that U.S. units had to repeatedly \u201crespawn.\u201d\nSource: WSJ",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-12T17:46:18+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
       "text": "INTERESTING: A UAE government VIP jet\u2014a Boeing 737-700 BBJ operated by Royal Jet\u2014made short visits to Iran on two consecutive days. \nOn Aug 11, it flew from Abu Dhabi to the Tehran area and stayed roughly one hour. \nOn Aug 12, the same aircraft returned, this time landing at Karaj/Payam Airport about 40 km west of Tehran, staying just 30 minutes before departing.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -612,50 +631,50 @@
     {
       "title": "Telegram",
       "publisher": "Mediterranean Man",
+      "text": "Note: The K2 Black Panther MBT is one of the only modern tank designs in the world that doesn't have built in anti-drone tech",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-12T18:16:40+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ufe0f\ud83c\uddf0\ud83c\uddf7 South Korea (The TRUE Korea, bite me) plans a 3.43-trillion-won ($2.43-billion) upgrade of its\u00a0K2 main battle tanks\u00a0to enhance their protection against emerging battlefield threats, including drones and anti-tank weapons.\nUnder the K2 Tank Performance Upgrade Project, the Hyundai Rotem-built tanks will be equipped with an active protection system, a jammer against drones and improvised explosive devices, and a remote-controlled weapon station, the country\u2019s Defense Acquisition Program Administration\u00a0said.\nThe project is scheduled to run from 2028 to 2046, the agency added.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-12T18:10:03+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
       "text": "\u26a1\ufe0f\ud83c\uddf2\ud83c\uddf2 Myanmar\u2019s military has intensified airstrikes on civilians ahead of elections held between 2025 and early this year, as war crimes and crimes against humanity escalated across the country.\nWhile investigators attributed much of the documented violence to the military, they said armed groups fighting the junta were also implicated in serious abuses, including alleged torture and sexual violence.\nMore than\u00a0100,000 people are estimated to have been killed\u00a0and 3.6 million\u00a0displaced\u00a0by conflict-related violence since Myanmar\u2019s\u00a0military coup five years ago\u00a0triggered a nationwide civil war.\nInvestigators identified a pattern of\u00a0airstrikes on homes, schools,\u00a0hospitals, religious buildings and camps for internally displaced people.\nThe military also expanded its use of drones, paramotors, and gyrocopters to drop unguided explosives from low altitude.\nIn several incidents under investigation, pilots allegedly switched off their engines while approaching their targets, allowing the aircraft to glide silently and giving civilians little warning.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-12T17:09:14+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8 The US is\u00a0asking\u00a0industry to help design a new hypersonic cruise missile that can outperform current systems while remaining affordable to produce at scale.\nThe\u00a0Defense Advanced Research Projects Agency\u00a0(DARPA) issued a request for information for the Next Generation Hypersonic Cruise Missile, a planned system-level effort to build and flight-test a fully integrated hypersonic cruise missile demonstrator.\nDARPA wants proposals capable of achieving a major improvement in range, cruise speed, altitude, or a combination of those factors.\nFor the missile itself, the agency is interested in air-breathing designs that could be launched from aircraft, ground systems, or surface platforms. Proposed concepts could range from fighter-carried weapons to larger systems intended for bombers or ground launch.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-12T13:10:06+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": ">\ud83c\uddf8\ud83c\udde6 normalizes with Assad, Assad gets overthrown\n>enters a military pact with Pakistan, Pakistan goes to war with India\n>makes 100b dollar investment with the US in Ai, iran/Houthis shoot missiles and Saudia becomes uninvestable\n>makes strategic investments in Iraq, iraq enters an economic slowdown and cancels\n>signs a military pact with turkey, their jets start falling down\nThey can't win istg lmao",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-12T12:55:58+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
