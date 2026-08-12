@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T04:25:31.881118+00:00",
+  "generated_at": "2026-08-12T05:59:45.022227+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -618,44 +618,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Israel warned the Trump administration of intelligence indicating an \"Iranian plot to target\" Trump and Air Force One with shoulder-fired missiles.\nU.S. security officials secretly moved Trump to a military jet in an airport catering truck, while Secretary of State Marco Rubio, other senior aides and reporters remained aboard Air Force One as part of the decoy. \nNo missiles were ultimately fired, and the credibility of the threat remains unclear.\nSource: WSJ",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-11T17:10:46+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Ukraine Halts Missile Strike Reporting as Russian Attacks Overwhelm Defenses\nUkraine has stopped publishing data on incoming Russian missiles as its air defenses struggle under intensified strikes amid depleted interceptor stockpiles.\n[READ MORE](https://clashreport.com/world/articles/ukraine-missile-strike-reporting-as-russian-attacks-overwhelm-defenses-ifypxd5rt3m/)",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-11T15:54:09+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Our Wars Today",
       "text": "[Army opens test ranges to small companies developing drones and missiles](https://apnews.com/article/driscoll-army-drones-munitions-iran-ukraine-innovation-183dba81a372db3fec175655013fe318)\nThe U.S. Army says it\u2019s opening up test ranges to private companies developing missiles and drones. Army Secretary Dan Driscoll told reporters Friday at a range in Michigan that the effort will cut the red tape that can stifle military contractors. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://apnews.com/article/driscoll-army-drones-munitions-iran-ukraine-innovation-183dba81a372db3fec175655013fe318)\nKonstantin Toropin | apnews\u200b.com \u2022 Aug 7, 2026",
       "source": "Telegram",
@@ -782,12 +744,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "Alsaa Plus EN"
+        "Alsaa Plus EN",
+        "Clash Report"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -1001,12 +964,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Four crew members were killed in a Houthi missile strike on the small Deck Cargo Ship Tihamah (IMO 1031329) near the Bab-al-Mandeb strait. The missile struck the ship's bridge, indicating the attack was intentional.",
+      "text": "\u26a1\ufe0f\ud83c\uddf1\ud83c\uddfe Additional footage of the drone strike that targeted the main power station in Zawiya, Libya, has been released with large flames engulfing the entire facility.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-12T04:22:02+00:00",
+      "timestamp": "2026-08-12T04:43:35+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -1020,12 +983,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Hezbollah attempted to smuggle water by drone to fighters trapped on the Ali Tahr Ridge in Lebanon. The IDF uncovered the plan and downed several of the drones, Lebanese reports say.",
+      "text": "\u26a1\ufe0f\ud83c\uddf1\ud83c\uddfe Al-Arabiya: Air defenses were activated near Camp 77 in Zawiya, Libya, to intercept drones that were attempting to strike the area.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-12T04:08:10+00:00",
+      "timestamp": "2026-08-12T04:43:30+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -1039,12 +1002,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Approximately 400 strike and jet-powered drones, along with USVs, have meowed their way towards Russia this evening. Looking forward to good news tomorrow.\nIf our translations help you stay informed, consider supporting the project.\nIt keeps WarTranslated independent and active every day.\n\ud83e\ude75 Patreon: patreon.com/c/WarTranslated\n\u2615\ufe0f BuyMeACoffee: buymeacoffee.com/wartranslated",
+      "text": "\u26a1\ufe0f\ud83c\uddf1\ud83c\uddfe Al-Arabiya: The main power station in Zawiya, Libya, was also targeted with a drone at the same time that the refinery was struck.\n \n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-12T04:04:10+00:00",
+      "timestamp": "2026-08-12T04:43:24+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -1058,12 +1021,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Drones from the 12th \"Azov\" Special Forces Brigade wiped out a Russian column 20 km behind the frontline.",
+      "text": "\u26a1\ufe0f\ud83c\uddf1\ud83c\uddfe Al-Hadath: The Zawiyah refinery has come under yet another drone strike in the early morning hours of August 12th.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-12T04:02:55+00:00",
+      "timestamp": "2026-08-12T04:43:20+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -1077,12 +1040,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "The result of a Russian EW operation following yesterday\u2019s strike drone attack on the \"Taneco\" oil refinery in Nizhnekamsk, Tatarstan. Russian air defense downed a drone straight into an industrial zone hostel housing migrant workers, primarily from Uzbekistan, resulting in casualties.",
+      "text": "\u26a1\ufe0f\ud83c\uddf1\ud83c\uddfe Footage shows the wreckage of the FPV drone that struck a diesel tank, leaving a large hole in the unit before crashing near the target site. \n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-12T04:01:45+00:00",
+      "timestamp": "2026-08-12T04:41:52+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -1096,12 +1059,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "A single road has hundreds of Ukrainian FPV drone waiting to be used against Russian soldiers, a dead Russian body can be seen laying around the round.",
+      "text": "\u26a1\ufe0f\ud83c\uddf1\ud83c\uddfe Al-Jazeera: Another drone strike targeted the Zawiyah refinery, west of Tripoli, causing yet another fire to engulf the facility.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-12T03:55:44+00:00",
+      "timestamp": "2026-08-12T04:41:45+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -1115,12 +1078,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "The Wildberries logistics hub near Voronezh that partially burned overnight during the Ukrainian drone operation.",
+      "text": "\u26a1\ufe0f\ud83c\uddf1\ud83c\uddfe [Al-Jazeera](https://www.aljazeera.com/news/2026/8/11/huge-fire-breaks-out-at-libyas-zawiya-refinery-after-drone-attack): A massive fire broke out at Libya's Zawiya refinery after a drone attack targeted a fuel tank containing around 4.5 million litres of petrol. The refinery has a capacity of 120,000 barrels per day.\nThe National Oil Corporation said the attack followed drone strikes on a desalination plant and a naphtha reservoir, with further attacks reported on Tuesday. No serious injuries were reported, although some people were treated for smoke inhalation.\nThe NOC warned that continued attacks could force it to declare force majeure and suspend operations at the refinery. No group has claimed responsibility for the attacks.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-12T03:55:21+00:00",
+      "timestamp": "2026-08-12T04:41:35+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -1134,12 +1097,31 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Ukrainian forces are attacking the Russian port of Novorossiysk, with Russian air defenses actively engaging. The attack comes shortly after reports that Ukraine launched around 400 drones.",
+      "text": "\u26a1\ufe0f\ud83c\uddf8\ud83c\udde6\ud83c\uddfe\ud83c\uddea\ud83c\uddf5\ud83c\uddf0\ud83c\uddfe\ud83c\uddea [Al-Hadath](https://www.alhadath.net/2026/08/11/%D8%B5%D8%A7%D8%B1%D9%88%D8%AE-%D8%A8%D8%A7%D9%84%D9%8A%D8%B3%D8%AA%D9%8A-%D8%AD%D9%88%D8%AB%D9%8A-%D9%8A%D9%82%D8%AA%D9%84-3-%D9%85%D9%86-%D8%B7%D8%A7%D9%82%D9%85-%D8%B3%D9%81%D9%8A%D9%86%D8%A9-%D8%AA%D8%AC%D8%A7%D8%B1%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A8%D8%A7%D8%A8-%D8%A7%D9%84%D9%85%D9%86%D8%AF%D8%A8): Three crew members of a commercial vessel were killed after a ballistic missile launched by the Houthis struck a commercial ship while it was sailing through the Bab el-Mandeb Strait. The victims were identified as two Pakistani nationals and one Indonesian national.\nThe missile was launched by the Houthis from eastern Taiz and struck the commercial vessel while it was transiting the strategic waterway. The attack comes amid continued Houthi threats to commercial shipping in the Red Sea and Bab el-Mandeb.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-12T03:55:17+00:00",
+      "timestamp": "2026-08-12T04:35:52+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "\u26a1\ufe0f\ud83c\uddf1\ud83c\uddfe [Satellite imagery](https://soaratlas.com/maps/142302?pos=32.78172730498266%2C12.698060274124147%2C16&basemap=Google+Satellite) from this morning shows the aftermath of the drone strike at Libya\u2019s Zawiya Oil Refinery, west of Tripoli.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-12T04:34:51+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
