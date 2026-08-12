@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T23:50:23.216596+00:00",
+  "generated_at": "2026-08-12T02:29:06.718289+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -249,44 +249,6 @@
       "verified_source_count": 1
     },
     {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nLaurel, MD, Thursday, August 6, 2026 through Friday, August 14, 2026 Local\nFacility: ZDC",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "08/02/2026",
-      "location": "ZDC MD",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nKaneohe, HI, Tuesday, August 4, 2026 through Tuesday, August 18, 2026 Local\nFacility: ZHN",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "08/02/2026",
-      "location": "ZHN HI",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
       "title": "Space Weather Message Code: WATA20\r",
       "text": "Space Weather Message Code: WATA20\r\nSerial Number: 1120\r\nIssue Time: 2026 Aug 11 2055 UTC\r\n\r\nCANCEL WATCH: Geomagnetic Storm Category G1 Predicted \nCancel Serial Number: 1119\nOriginal Issue Time: 2026 Aug 09 1338 UTC\nCancelled Level Predicted:\nAug 10 : None (Bellow G1) Aug 11 : None (Bellow G1) Aug 12 : None (Bellow G1) \nCME arrival 11AUG\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
       "source": "NOAA Space Weather",
@@ -410,25 +372,6 @@
       "severity": "info",
       "icon": "\ud83d\udcf0",
       "timestamp": "2026-08-11T16:19:44+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "BBC World News"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Libyan authorities battle big blaze at major oil refinery",
-      "text": "Libyan authorities battle big blaze at major oil refinery\nMonday's drone strike on the Zawiya refinery was the third such incident in two days.",
-      "source": "BBC",
-      "source_type": "osint",
-      "publisher": "BBC World News",
-      "severity": "info",
-      "icon": "\ud83d\udcf0",
-      "timestamp": "2026-08-11T08:28:24+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -1219,25 +1162,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-11T10:26:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udee9 Ukraine\u2019s own OSINT analysts admit drone campaign against Moscow is total failure\nZelensky\u2019s hopes of using his fancy new missile-and-drone Wunderwaffe to affect the outcome of the war have crashed and burned against the harsh reality that penetrating the air defenses of the Russian capital is virtually impossible, mathematically speaking.\nA pro-Ukraine OSINT Telegram and X resource (we won\u2019t say which one to avoid giving them needless publicity) has mapped out the trajectory of ~1.5k Ukrainian drones recently targeting Moscow, calculating that ~1.4k (93%) were intercepted in the first and second lines of air defense outside the city. \nAnother ~100 drones (6%) reached the Ring Road highway area. Just one \u2013 \u201cone single drone\u201d \u2013 was intercepted in Moscow itself (statistical probability: 0.07%).\n[Claimed \u201chits\u201d over the past two months?](https://t.me/geopolitics_prime/72629) An antenna complex at the Dubna Space Comms Center, [which didn\u2019t impact operations](https://t.me/geopolitics_prime/71086), Wildberries retail logistics, the Kapotny oil refinery and a couple industrial zones and residential buildings.\n\ud83d\udcac \u201cThat\u2019s it. Against the backdrop of thousands of launches, this is not even a drop in the bucket. It\u2019s almost comical,\u201d the resource lamented, noting that Ukraine\u2019s military has tried to hit Moscow from every attack vector, but succeeded nowhere.\n\u00a0\nComparing the effectiveness of recent Ukrainian and Russian strikes on one another\u2019s capitals yields some more interesting calculations:\n\ud83d\udd34 assuming Ukrainian drone attacks used Kiev\u2019s Fire Point FP-1 drones (1.6k km range, 50-120kg payload, $55k-70k apiece price tag), the total cost of the 1.5k expended UAVs with their 0.07% success rate was $82.5-$105M.\n\ud83d\udd34 for the same money, Russia could launch between 27 and 52 of its $2-3M apiece Iskander-M missiles, each with a 500kg warhead, which Zelensky recently admitted can\u2019t be intercepted at all because Ukraine has run out of Patriot PAC-3s. Success rate? [Approaching 100%.](https://t.me/geopolitics_prime/73213?single)\nUkraine\u2019s summer\u2019s drone and missile offensive was supposed to be Zelensky\u2019s war-winning formula, forcing Russia to the table and convincing [Kiev\u2019s NATO sponsors to continue ponying up the cash](https://t.me/geopolitics_prime/73271) to fund the grinding proxy conflict. Instead, [it\u2019s unleashed a Russian air, drone and missile campaign of unprecedented ferocity](https://t.me/geopolitics_prime/73015), all as Ukrainian forces continue their slow retreat along the front.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime)\u00a0|[ Chat\u00a0](https://t.me/+HLrnOk92f31mYzIy)|",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-11T07:26:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
