@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T21:54:24.777086+00:00",
+  "generated_at": "2026-08-12T22:50:36.618983+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -589,6 +589,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "For reference, in Egypt, I remember this one time I happened to be somewhere where there was a major terrorist incident, people bled in the streets like cattle and there happened to be troops of children around, of course, such a thing for teenagers was not healthy, and in a conversation with a friend of mine in the Ministry of Education I asked him if the government ever gave any counseling to these kids, and he was like, I shit you not, \"It's the responsibility of their parents to educate their children in how to process people dying violently in front of them, not me.\"\nRight now that's not the same, obviously, by law any child from a \"conflict zone\" (mostly Gaza) is guaranteed two months of therapy sessions with a state funded psychologist, in fact, considering Gaza kids are overwhelming the canal cities hospitals, there's some 5,000 shrinks over there helping them",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-12T22:08:56+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
       ],
       "verified_source_count": 1
     },
