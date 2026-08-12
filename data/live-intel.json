@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T05:59:45.022227+00:00",
+  "generated_at": "2026-08-12T07:46:59.178457+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -355,26 +355,6 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "BBC World News",
-        "Clash Report"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
-      "text": "Russia using North Korean missiles to strike Ukraine, Zelensky says\nUkraine's president says strikes in Zaporizhzhia - which killed seven people - involved ballistic missiles from Russia's ally.",
-      "source": "BBC",
-      "source_type": "osint",
-      "publisher": "BBC World News",
-      "severity": "info",
-      "icon": "\ud83d\udcf0",
-      "timestamp": "2026-08-11T16:19:44+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
@@ -394,13 +374,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Clash Report",
         "Middle East Spectator"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -482,6 +461,63 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
+      "text": "Ukrainian drones hit Novorossiysk, one of Russia\u2019s largest Black Sea ports and a key hub for oil exports and military activity. \nThe 5+ hour attack triggered air defenses and damaged buildings and a bread processing plant.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-12T07:14:39+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "North Korea fired a ballistic missile about 700 km into the sea ahead of the U.S.-South Korea Ulchi Freedom Shield drills, scheduled for August 17\u201327. \nIt was North Korea\u2019s 11th suspected ballistic missile test of 2026, with South Korean analysts suggesting it may have been a hypersonic missile.\nSource: Reuters",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-12T07:10:29+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "NEW: Ukraine halted drone strikes on tankers using Russia\u2019s Novorossiysk port after JD Vance asked Zelensky to stop. \nWashington feared the attacks were disrupting global oil markets and hurting US interests, including Chevron and Exxon\u2019s stakes in Kazakhstan\u2019s main export route.\nSource: FT",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-12T06:32:36+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
       "text": "WATCH: Russian mobile counter-drone gunner firing a twin-gun mount almost directly over nearby trucks at a low-flying Ukrainian UAV.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -516,105 +552,6 @@
         "Clash Report"
       ],
       "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Iranian General Mohammad Reza Naqdi:\nWe produce ballistic missiles at a rate exceeding the rate at which they are fired.\nIn the field of drones as well, our production capacity is far greater than the rate at which they are deployed.\nEven if the war lasts for several years, our ballistic missiles will continue to rain down on the enemy.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-11T19:55:55+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Clash Report"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "U.S. forces fired ~50 Patriot interceptors in a single day during last month\u2019s Iranian attacks on bases in Jordan \u2014 roughly $200M in one day at ~$4M per interceptor. \nIran used course-changing missiles to force heavy expenditure and deplete scarce Patriot stocks.\nSource: NYT",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-11T19:54:44+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Yemen\u2019s Houthis say they struck Saudi military positions, weapons depots and command centers in Mokha and Marib with missiles and drones.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-11T19:13:49+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Clash Report",
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "CENTCOM:\nEarlier today, CENTCOM forces disabled the steering gear of Panama-flagged M/V Vela Nova as the cargo vessel attempted to transit the Gulf of Oman and violate the U.S. blockade against Iran by sailing toward an Iranian port.\nA U.S. Navy MH-60 helicopter fired two hellfire missiles into the Vela Nova\u2019s engine room after the ship\u2019s civilian crew ignored repeated warnings from American forces. The ship is no longer transiting to Iran in violation of the U.S. blockade, which remains in full effect.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-11T19:03:00+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "BBC World News",
-        "Clash Report"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "In April 2026, Iran shot down a U.S. F-15E over southern Iran with a shoulder-fired surface-to-air missile.\nIran appeared to adapt tactics seen in Ukraine, using drones to provide the jet\u2019s GPS location, speed and direction to Iranian commanders, helping them target it.\nThe crew had only about half a second of warning before the $60 million aircraft was hit.\nSource: NYT",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-11T18:39:17+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Clash Report"
-      ],
-      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -704,13 +641,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
-        "Clash Report"
+        "Alsaa Plus EN"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -724,13 +660,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
-        "Clash Report"
+        "Alsaa Plus EN"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -744,13 +679,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
-        "Clash Report"
+        "Alsaa Plus EN"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -850,6 +784,44 @@
     {
       "title": "Telegram",
       "publisher": "Mediterranean Man",
+      "text": "\u26a1\ud83c\uddf8\ud83c\udde9 The RSF militias targeted Omdurman, Al Abiedth, Otroba and Khartoum with long ranged drones hours ago.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-12T06:55:44+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ud83c\uddfa\ud83c\udde6 Ukrainian Air Forces: We shot down 112 Russian drones yesterday\n\u26a1\ud83c\uddf7\ud83c\uddfa Russian Ministry of Defense: We shot down 502 Ukrainian drones last night \nTwo in one ahh news",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-12T06:51:03+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
       "text": "\u26a1\ud83c\uddf0\ud83c\uddf5\ud83e\udd11 The North Korean economy is experiencing a significant boom, this is the third year in a row that an annual gdp growth of 3% was recorded. Footage of new cars and even more unbelievably traffic jam have surfaced online alognside reports about government-issued smartphones reaching normal citizens in the capital.\nThis recovery is mainly due to the increasing trade between Russia and N.K, the war on ukraine increased demand on korean artillery shells and other military equipments, things that North Korea spent years on producing and stocking incase of an all out war with their neighbor and rival South Korea. That, the korean troops being sent to the Ukrainian front lines and china enlarging their trade volume with NK led to the current boom.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -932,25 +904,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-11T17:32:44+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfa A pause in shelling is unlikely: Russia is fulfilling its missile production plan\n\u2013 Deputy Head of Ukraine's Main Intelligence Directorate of the Ministry of Defense, Skibitsky.\nFor major missile types, Russia is currently fulfilling its production plan at 110-120% per month.\nThe annual plan for Zircons and modernized Onyx missiles was completed in seven months.\nIn August, Moscow plans to produce 11,000 strike drones of various types. Russia is currently retooling its production, with a focus on turbojet Geran-4 and Geran-5 drones.\nThe increase in ballistic missile production happened in part because since April they suspended production of Kinzhals and Kh-32 missiles. Funds and components for them were reallocated to other missile types.\nRussia is creating a Starlink analog \u2013 Rassvet \u2013 and is deploying it significantly faster than their plans had assumed. For now they are operating fragmentarily, when the satellite passes over Ukrainian territory.\nRussia is concentrating its attacks on Ukraine's defense-industrial complex, logistics, and energy facilities that logistics and port infrastructure depend on. Additionally, it is trying to strike civilian infrastructure to sow panic and destabilize the situation in the country.\nIn July, Russia launched 153 cruise missiles and 198 ballistic and hypersonic missiles. In the future, the Russian Armed Forces may reduce the number of missiles targeting a single objective, but a pause in shelling is unlikely \u2013 this will depend on production capabilities.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-11T15:58:29+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -1135,6 +1088,25 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
+      "text": "\ud83c\udfd7 Follow for live, firsthand updates on battles across the Middle East.\nThe most viewed news of the last 24 hours:\n\ud83d\udfe6Colombia\u2019s new far-right president Abelardo de la Espriella announced that Colombia recognized the Golan Heights as Israeli territory. \n\ud83d\udfe6Four drone attacks have targeted Libyan Zawiya oil refinery since yesterday afternoon.\n\ud83d\udfe6 Two commercial ship belonging to Saudi Arabia were targeted today in the Bab-el-Mandeb Strait.\n\ud83d\udd34If you don't have an EU phone number, you can follow our main channel:",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-12T07:28:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
       "text": "\ud83d\udea8\ud83c\uddf7\ud83c\uddfa Night fire: Russian missiles strike Zaporozhye again\nJudging by the scale of the blaze, the strike hit an ammunition depot operating under the cover of a shopping mall sign. Footage is flooding social media from local residents on the ground.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
@@ -1180,44 +1152,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-11T17:07:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udc4c DARPA wants to turn 1982 Clint Eastwood technothriller about mind-controlled weapons into reality\n\u00a0\nDARPA\u2019s Biological Technologies Office (BTO) is hosting an in-person proposer day in September to advance its Firefox Program \u2013 dedicated to developing a \u201cnon-invasive brain-computer interface\u201d using light to read neural signals, and advanced computing tools to interpret them.\n\ud83d\udd0a The agency says it\u2019s already created \u201ca non-invasive coherent optical system capable of recording neural signals at cortical depth in humans.\u201d What it needs from proposers is help \u201covercoming key technological hurdles\u201d linked to building a high-performance, 100-channel brain-computer interface, and addressing \u201cbarriers of scale and processing speed.\u201d\nUsing 50-micron spatial and 100-microsecond temporal resolution, the system is intended to allow for \u201chuman-machine teaming\u201d to allow troops to control complex systems like autonomous drone swarms and vehicle formations using only their minds, without surgically implanted electrodes, and with minimal latency - meaning instantaneous reaction time in high-stress, data-heavy environments.\n\ud83d\udc49 Development is split into two areas: \u201cdeveloping dynamic scanning components for optical signals\u201d using spatial light modulators, microelectromechanical systems and Risley-prisms, and \u201cnew data processing architectures\u201d using all-optical, photonic, in-sensor and neuromorphic-photonic computing.\n\ud83d\udc49 Conceptually, Firefox is ripped straight out of the 1982 Clint Eastwood sci-fi techno-thriller of the same name, in which the CIA recruits a retired Air Force pilot (Eastwood) to steal the MiG-31 \u2013 a fictional Soviet jet with a revolutionary \u201cThought-Controlled Weapons Management System\u201d \u2013 a special helmet with embedded neural receptors linked to the aircraft\u2019s computer.\n\ud83d\udc49 BTO director Dr. Pedro Irazoqui and his colleagues are involved in an array of other dubious mind-and-body control and manipulation programs, including ingestible bioelectric platforms stimulating gut neurons, near-infrared light tech paired with photopharmaceuticals to artificially turn drugs on and off, and wireless neuromodulation interfaces targeting peripheral nerves.\nOther top DARPA figures involved in Firefox include Dr. Michael Koeris (whose work includes biological processing units built out of living neural tissue and brain organoids to run low-power AIs), and Dr. David Blodgett (optical non-invasive BCIs using near-infrared spectroscopy and digital holographic imaging).\n\u00a0\n\ud83e\udd14 In the 1982 movie, Eastwood\u2019s character was instructed to steal the mind-controlled MiG-31 because it posed an overwhelming military threat to the West. But apparently it\u2019s ok when DARPA does it.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime)\u00a0|[ Chat\u00a0](https://t.me/+HLrnOk92f31mYzIy)|",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-11T15:34:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83e\ude96\ud83d\udcc9 Epic Fury, Epic Fail: How the US pays the price for its Iran adventure\nAmerica\u2019s military has been \u201cdangerously exposed\u201d since the beginning of Operation Epic Fury against Iran in late February, the Wall Street Journal admits.\nReported statistics speak for themselves: \n\ud83d\udfe5 Iran has conducted more than 2,000 air, missile and drone strikes on US military bases across the Middle East\n\ud83d\udfe5 The strikes damaged at least 20 sites in eight countries used by the US military\n\ud83d\udfe5 In total, Iran has damaged or destroyed more than 42 US warplanes, several of which were parked on air bases\n\ud83d\udfe5 The Islamic Republic has so far inflicted a whopping $13 billion in equipment losses and facility damage on the US alone\nEpic Fury, indeed, and epic losses for US taxpayers.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime)\u00a0|[ Chat\u00a0](https://t.me/+HLrnOk92f31mYzIy)|",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-11T14:55:28+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
