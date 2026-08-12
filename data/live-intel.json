@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T12:34:46.931527+00:00",
+  "generated_at": "2026-08-12T14:08:01.904172+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -106,44 +106,6 @@
       "icon": "\ud83d\udea8",
       "timestamp": "08/10/2026",
       "location": "ZDV CO",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nWhite Sands, NM, Friday, August 14, 2026 Local\nFacility: ZAB",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "08/10/2026",
-      "location": "ZAB NM",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nWhite Sands, NM, Wednesday, August 12, 2026 Local\nFacility: ZAB",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "08/10/2026",
-      "location": "ZAB NM",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
@@ -365,12 +327,12 @@
     {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7 IRGC Brigadier General Mohammad Reza Naqdi:\n\u2018The enemy always tries to count or estimate our number of missiles. I would like to clarify something.\nThe number of ballistic missiles we produce daily is more than the number we launch each day. In a country this vast, we can make them anywhere with no limitation.\nEven if this war lasts for years, we would not run out of missiles, and we\u2019d launch them until the last day.\u2019\nNOTE: If the General\u2019s words are to be taken at face value\u2014which I would, considering he was in the operations room of True Promise-1 and 2\u2014that means Iran produces at least 10,000 missiles per year.",
+      "text": "\u2014 \ud83c\uddf0\ud83c\uddfc/\ud83c\uddee\ud83c\uddf7 NEW: Kuwait announces it foiled a \u2018terrorist plot\u2019 to target vital facilities in the country with drones",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-12T11:38:03+00:00",
+      "timestamp": "2026-08-12T14:01:27+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -380,6 +342,26 @@
         "Middle East Spectator"
       ],
       "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014 \ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7 IRGC Brigadier General Mohammad Reza Naqdi:\n\u2018The enemy always tries to count or estimate our number of missiles. I would like to clarify something.\nThe number of ballistic missiles we produce daily is more than the number we launch each day. In a country this vast, we can make them anywhere with no limitation.\nEven if this war lasts for years, we would not run out of missiles, and we\u2019d launch them until the last day.\u2019\nNOTE: If the General\u2019s words are to be taken at face value\u2014which I would, considering he was in the operations room of True Promise-1 and 2\u2014that means Iran produces at least 10,000 missiles per year.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-12T11:38:03+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Clash Report",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -412,32 +394,32 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Geopolitics Prime",
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf7/\ud83c\uddfa\ud83c\uddf8/\ud83c\uddf9\ud83c\uddf7 NEW: During President Trump\u2019s return flight from the NATO summit in Ankara to the UK last month, an Iranian assassination plot was foiled that has been downplayed by the White House, the [Washington Post](https://www.washingtonpost.com/national-security/2026/08/10/trump-flew-secrecy-amid-iran-threat-air-force-one-became-decoy/) reports\nThe threat of an Iranian assassination was considered so high that President Trump was secretly moved from Air Force One to a much smaller C-32A while hidden inside an \u2018airport catering truck\u2019 (a food and beverage cart).",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-11T01:59:48+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
         "Middle East Spectator"
       ],
       "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Iranian General Mohammad Reza Naqdi:\nEven if this war lasts for years, until the last day, Iran's rockets will be launched. \nIf there comes a day when Iran has no more missiles left, that's when we will be even more dangerous for America.\nAmerica has thousands of economic interests throughout the world, and all of them can be easily destroyed.\nSource: PBS News",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-12T13:38:09+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Clash Report",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -458,25 +440,6 @@
         "Our Wars Today"
       ],
       "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "NEW: Ukrainian intelligence says Russia has stockpiled around 6,200 Geran drones for mass strikes, potentially launching 600\u20131,000 drones in a single attack. \nProduction of Geran-4/5 alone is estimated at ~3,000 per month.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-12T09:22:05+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -786,6 +749,44 @@
     {
       "title": "Telegram",
       "publisher": "Mediterranean Man",
+      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8 The US is\u00a0asking\u00a0industry to help design a new hypersonic cruise missile that can outperform current systems while remaining affordable to produce at scale.\nThe\u00a0Defense Advanced Research Projects Agency\u00a0(DARPA) issued a request for information for the Next Generation Hypersonic Cruise Missile, a planned system-level effort to build and flight-test a fully integrated hypersonic cruise missile demonstrator.\nDARPA wants proposals capable of achieving a major improvement in range, cruise speed, altitude, or a combination of those factors.\nFor the missile itself, the agency is interested in air-breathing designs that could be launched from aircraft, ground systems, or surface platforms. Proposed concepts could range from fighter-carried weapons to larger systems intended for bombers or ground launch.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-12T13:10:06+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": ">\ud83c\uddf8\ud83c\udde6 normalizes with Assad, Assad gets overthrown\n>enters a military pact with Pakistan, Pakistan goes to war with India\n>makes 100b dollar investment with the US in Ai, iran/Houthis shoot missiles and Saudia becomes uninvestable\n>makes strategic investments in Iraq, iraq enters an economic slowdown and cancels\n>signs a military pact with turkey, their jets start falling down\nThey can't win istg lmao",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-12T12:55:58+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
       "text": "The schizophrenia of the gulf political leadership knows no bound.\nWhy don't you bomb Iran like we do? We don't do that in the Gulf\nWhy don't you bomb weddings in Yemen like we do? We don't do that in the Gulf\nAnd then he will have the gall to tell you that your military is useless, at the same sentence, he will tell you that he was extremely offended that you participated in the defense of the UAE (and the guys just stayed in the airbase doing nothing) and not send any air defense or air squadrons to Saudi Arabia.\nAnd then he will say you have \"no valuable input.\" for military affairs.\nHomosexuals! A quarter of the airbases near Yemen had to have our mechanics work on your drones and your jets, and who am I to even get mad at this? I am not the one hosting several thousand US airmen or marines.\nOverall, it was a seething article piece.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -868,44 +869,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-12T06:51:03+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddf0\ud83c\uddf5\ud83e\udd11 The North Korean economy is experiencing a significant boom, this is the third year in a row that an annual gdp growth of 3% was recorded. Footage of new cars and even more unbelievably traffic jam have surfaced online alognside reports about government-issued smartphones reaching normal citizens in the capital.\nThis recovery is mainly due to the increasing trade between Russia and N.K, the war on ukraine increased demand on korean artillery shells and other military equipments, things that North Korea spent years on producing and stocking incase of an all out war with their neighbor and rival South Korea. That, the korean troops being sent to the Ukrainian front lines and china enlarging their trade volume with NK led to the current boom.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-11T22:54:35+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddf7\ud83c\uddf4\ud83c\uddf7\ud83c\uddfaTwo Russian drones found drifting near Romania's Neptun Deep project in the Black Sea were destroyed by a controlled detonation carried out by Romanian EOD divers.\nThe drones were discovered approximately 167 km from Constan\u021ba, within Romania's EEZ, after being spotted by a vessel in the area.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-11T21:43:45+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -1090,6 +1053,25 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddf1\ud83c\uddfb\ud83d\udee9 Latvia\u2019s anti-drone facepalm: Bought the systems but forgot the ammo\nLatvia has been strutting around with plans to blanket its entire eastern border with Russia and Belarus with a massive anti-drone shield by September 2026 - while plotting a joint drone factory with Ukraine and eyeing ambitions to become a regional UAV powerhouse.\nYet Prime Minister Andris Kulbergs has just confessed to an embarrassing flop: Latvia forgot to buy ammunition for its own anti-drone systems.\n\ud83d\udcac \u201cWe bought the equipment but forgot to buy the ammunition,\u201d Kulbergs admitted in an interview with LETA.\nHe declined to name which specific system or which bungling institution dropped the ball.\nThe PM also noted that while Latvia loves to call itself a \"drone superpower,\" but there is \"no substance behind it.\" \nThis embarrassing oversight is particularly rich given Latvia\u2019s scramble to create a unified system to synchronize the Border Guard and the Ministry of Defense to neutralize perceived threats with counter-drone means rather than expensive missiles.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-12T13:33:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
       "text": "\ud83d\udea8\ud83c\uddee\ud83c\uddf7 'Iran churns out more missiles per day than launches\u2019 \u2013 IRGC general\nIran is not reliant on missiles and drones alone \u201cto be victorious\u201d against its adversaries, General Mohammad Reza Naqdi, Supreme Adviser to IRGC Commander in Chief, tells PBS.\n\ud83d\udcac \u201cWe rely on our faith to be victorious,\u201d he says.\nThat is not to say the arsenal is lacking. \n\ud83d\udd0a \u201cAs for our missiles, the Americans and the Zionists always want to count our missiles. First of all, the number of missiles we manufacture every day is more than the number we launch,\u201d he said.\nWhen pressed on whether these critical manufacturing sites are hidden deep underground to avoid airstrikes, Naqdi remained opaque yet unflappable:\n\ud83d\udde3 \u201cIn a country this vast, we can make them wherever we want,\u201d he says\u2026 There are various ways to manufacture them securely.\u201d\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
@@ -1162,26 +1144,6 @@
         "Geopolitics Prime"
       ],
       "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8\ud83e\udd21 Iran to US clown-mander in chief: Strait stays closed until you meet all our demands\n\u201cIran\u2019s message is clear: the Strait of Hormuz will not reopen until the US ends the war and blockade, releases Iran\u2019s frozen assets, and agrees to a region-wide ceasefire, including in Lebanon and Gaza,\u201d Mohsen Rezaei, [the IRGC veteran just appointed ](https://t.me/geopolitics_prime/73266)as secretary of Iran\u2019s powerful Supreme National Security Council, tweeted Tuesday.\n\ud83d\udd0a \u201cUntil all conditions are met, the Strait will remain closed,\u201d he emphasized.\nThe mention of Gaza may signal Iran\u2019s intentions to add yet another layer onto its growing list of conditions for ending the Hormuz crisis, as [Trump walks further and further back](https://t.me/geopolitics_prime/73264) from his maximalist demands, while [painting himself further](https://t.me/geopolitics_prime/73224) and further into a corner in a conflict that wouldn\u2019t have even started if he stopped taking orders from Israel.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-11T18:03:48+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Geopolitics Prime",
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 2
     },
     {
       "title": "Telegram",
