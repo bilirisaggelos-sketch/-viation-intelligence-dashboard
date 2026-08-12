@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T16:28:15.484880+00:00",
+  "generated_at": "2026-08-12T17:34:03.519221+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -364,20 +364,39 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddfe\ud83c\uddea\ud83c\uddf8\ud83c\udde6 \u2014 Yemen\u2019s Houthis (Ansarallah) announced that they struck Saudi troop concentrations, weapons depots, and command centers in the Mokha area and at Tadaween camp in Marib with a large-scale barrage of ballistic missiles and drones, leaving dozens killed or wounded, including Saudi personnel.\nThe group says it will continue targeting Saudi military buildups that are intended to escalate the conflict. \nIt also renewed its warning to Yemenis fighting alongside Saudi-backed forces, urging them to withdraw \"before it is too late.\"",
+      "publisher": "Clash Report",
+      "text": "INTERESTING: A UAE government VIP jet\u2014a Boeing 737-700 BBJ operated by Royal Jet\u2014made short visits to Iran on two consecutive days. \nOn Aug 11, it flew from Abu Dhabi to the Tehran area and stayed roughly one hour. \nOn Aug 12, the same aircraft returned, this time landing at Karaj/Payam Airport about 40 km west of Tehran, staying just 30 minutes before departing.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-11T19:18:13+00:00",
+      "timestamp": "2026-08-12T17:06:44+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Middle East Spectator"
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Sen. Fetterman: When people, or a government, or people turn their back to the Jewish community, things end really badly.\nStewart: Jewish community and Israel are not the same thing, brother man. That is not the same thing.\nFetterman: I'm always going to stand with Israel.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-12T16:49:59+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
       ],
       "verified_source_count": 1
     },
@@ -397,6 +416,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Our Wars Today",
+      "text": "\ud83c\uddfa\ud83c\uddf8 \ud83c\uddee\ud83c\uddf1 \u26a0\ufe0f \ud83c\uddee\ud83c\uddf7 #BREAKING #Trump Pledges To Annex/\"Keep\" Strait Of Hormuz For Israeli-American War On #Iran, Unclear Whether #UnitedStates Or #Israel Will Retain Control In Future If #Netanyahu Ends War: \nMore Coverage: T.me/ourwarstoday \n---\n24/7 LIVE News RSS feed: t.me/ournewsfeedtoday\n---\nFootage: t.me/ourwars\n---\nSupport OWT: https://ko-fi.com/ourwarstoday",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-12T16:44:38+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Our Wars Today"
       ],
       "verified_source_count": 1
     },
@@ -535,25 +573,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Our Wars Today",
-      "text": "\ud83c\uddf7\ud83c\uddfa \ud83c\uddfa\ud83c\udde6 Footage shows a #Russian truckgunner firing at an attacking #Ukrainian drone swooping over their convoy in occupied Ukraine, Zaporizhzhia Dual PK machine guns mounted atop the vehicle serve as the new turret defense against this generation's aerial threats. Reminiscent of Mad Max, this scene is not one of past conflicts, although similarities remain. \"on the E58 highway in the occupied part of Zaporizhzhia region, on the road between Melitopol and Pryazovske.\" Location via instagram.com/born.for.war_\nLong past are the days of stationary flak air defense or ballgunners underneath bombers. Now the bombs fly themselves to you and wait for the right moment to explode, the only sign a small speck on the horizon and a growing hum. Defense is now an active game. Can you run away from the bomb before it catches you? Can you get to the bomb in time to shoot it down? Questions for a new age. \nMore Coverage: T.me/ourwarstoday \n---\n24/7 LIVE News RSS feed: t.me/ournewsfeedtoday\n---\nFootage: t.me/ourwars\n---\nSupport OWT: https://ko-fi.com/ourwarstoday",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-11T17:58:30+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Our Wars Today"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Alsaa Plus EN",
       "text": "\ud83c\uddee\ud83c\uddf6\ud83c\uddee\ud83c\uddf6\ud83c\uddee\ud83c\uddf6\u26a1\ufe0f \u2014 Iraqi Asa\u2019ib Ahl al-Haq:\nWe have handed over the medium and heavy weapons, including missiles and drones, to the brigades of the Iraqi Popular Mobilization Forces (PMF). We seek to build a well-governed civil state in which citizens do not feel threatened by any weapons outside the framework of the state.\n\u26aa\ufe0f",
       "source": "Telegram",
@@ -592,58 +611,20 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf7\u26a1\ufe0f \u2014 Iranian General Mohammad Reza Naqdi:\nWe produce ballistic missiles at a rate exceeding the rate at which they are fired.\nIn the field of drones as well, our production capacity is far greater than the rate at which they are deployed.\nEven if the war lasts for several years, our ballistic missiles will continue to rain down on the enemy.\n\u26aa\ufe0f",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ufe0f\ud83c\uddf2\ud83c\uddf2 Myanmar\u2019s military has intensified airstrikes on civilians ahead of elections held between 2025 and early this year, as war crimes and crimes against humanity escalated across the country.\nWhile investigators attributed much of the documented violence to the military, they said armed groups fighting the junta were also implicated in serious abuses, including alleged torture and sexual violence.\nMore than\u00a0100,000 people are estimated to have been killed\u00a0and 3.6 million\u00a0displaced\u00a0by conflict-related violence since Myanmar\u2019s\u00a0military coup five years ago\u00a0triggered a nationwide civil war.\nInvestigators identified a pattern of\u00a0airstrikes on homes, schools,\u00a0hospitals, religious buildings and camps for internally displaced people.\nThe military also expanded its use of drones, paramotors, and gyrocopters to drop unguided explosives from low altitude.\nIn several incidents under investigation, pilots allegedly switched off their engines while approaching their targets, allowing the aircraft to glide silently and giving civilians little warning.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-11T20:26:21+00:00",
+      "timestamp": "2026-08-12T17:09:14+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8\u26a1\ufe0f \u2014 In April 2026, Iran shot down a U.S. F-15E over southern Iran using a shoulder-fired surface-to-air missile, according to the NYT.\nIranian forces adapted tactics observed in Ukraine, employing drones to relay the jet's GPS coordinates, speed, and heading to commanders\u2014enabling precise targeting.\nThe crew reportedly received less than half a second of warning before the $60 million aircraft was struck.\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-11T19:02:20+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf7 \u2013 Iran used tactics seen in Ukraine to [shoot down an F-15E](https://t.me/GeoPWatch/30475?single) in April, including the deployment of a drone swarm to determine its location, speed and direction to intercept it with a shoulder-fired missile, likely of [Chinese](https://t.me/GeoPWatch/34396) origin.\nThe report also claims the pilots were given a warning only around half a second of warning before being struck. Both pilots [survived](https://t.me/GeoPWatch/30640) and were evacuated by U.S. forces.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-11T18:50:44+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
+        "Mediterranean Man"
       ],
       "verified_source_count": 1
     },
@@ -853,6 +834,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\udde6\ud83c\uddea\ud83c\uddee\ud83c\uddf6 UAE offers to run Iraq\u2019s oil through Hormuz to rewrite Gulf logistics\n\ud83d\udd0a As the waterway remains [closed](https://t.me/geopolitics_prime/73304), one regional player - the UAE - has offered to deploy its tried-and-tested clandestine playbook for clients, reports Bloomberg.\nEmirati giant Abu Dhabi National Oil Co. (ADNOC) is prepared to shuttle Iraqi crude through the waterway using the same \u201cdark transit\u201d tactics that have helped the UAE keep its own exports moving.\nADNOC\u2019s trading arm has reportedly been offering spot cargoes of Iraqi crude to Asian buyers, including Indian refiners. \nThe strategy involves:\n\u2666\ufe0f Short, sprint-like tanker voyages through the strait, often with transponders switched off to evade detection\n\u2666\ufe0f Cargo transfers to larger vessels waiting just outside the immediate threat zone\nFor Iraq, which has long relied on foreign trading houses like Vitol Group and France\u2019s TotalEnergies SE to carry its oil to market, the UAE\u2019s intervention could reshape those established logistics networks.\n\ud83d\udcc9 Iraq is making the dangerous voyage more attractive financially:\n\ud83d\udfe5 state oil marketer SOMO reportedly offers discounts of $30 a barrel below benchmark prices for crude loading \n\ud83d\udfe5 Basrah Medium was discounted by roughly $25\u2013$27 \nIraqi crude exports climbed to around 2 million barrels a day this month according to SOMO chief Ali Nizar - above the 1.5\u20131.7 million bpd estimate given by Iraq\u2019s oil minister last week. \nThe surge suggests that ADNOC\u2019s offers may already be having a tangible impact on the ground.\nIraq has so far sold its crude on a loading basis, leaving transportation to other companies. \nADNOC, by contrast, has its own expanded tanker fleet and has also chartered vessels from Sinokor Group, the world\u2019s largest oil supertanker owner. \nBut the strategy comes with risks: several ADNOC tankers were targeted while transiting the strait last week.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-12T16:33:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
