@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T14:08:01.904172+00:00",
+  "generated_at": "2026-08-12T15:17:06.384675+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -327,7 +327,7 @@
     {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\uddf0\ud83c\uddfc/\ud83c\uddee\ud83c\uddf7 NEW: Kuwait announces it foiled a \u2018terrorist plot\u2019 to target vital facilities in the country with drones",
+      "text": "\u2014 \ud83c\uddf0\ud83c\uddfc NEW: Kuwait announces it foiled a \u2018terrorist plot\u2019 to target vital facilities in the country with drones",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
@@ -355,13 +355,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Clash Report",
         "Middle East Spectator"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -384,62 +383,80 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7 Secretary of Iran\u2019s Supreme National Security Council, Major General Mohsen Rezaei:\n\u2018Iran\u2019s message is clear: \nThe Strait of Hormuz will not reopen until the U.S. ends the war and blockade, releases Iran\u2019s frozen assets, and agrees to a region-wide ceasefire, including in Lebanon and Gaza. Until all conditions are met, the Strait will remain closed.\u2019",
+      "publisher": "Clash Report",
+      "text": "North Korea Fires Ballistic Missile Ahead of US-South Korea Military Drills\nNorth Korea launched a ballistic missile off its east coast on Wednesday, traveling 700 kilometers, days before major joint military exercises between the US and South Korea.\n[READ MORE](https://clashreport.com/world/articles/north-korea-fires-ballistic-missile-ahead-of-us-south-korea-military-drills-6bm04wahjfv)",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-11T17:07:35+00:00",
+      "timestamp": "2026-08-12T14:41:40+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Middle East Spectator"
+        "Clash Report"
       ],
       "verified_source_count": 1
     },
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Iranian General Mohammad Reza Naqdi:\nEven if this war lasts for years, until the last day, Iran's rockets will be launched. \nIf there comes a day when Iran has no more missiles left, that's when we will be even more dangerous for America.\nAmerica has thousands of economic interests throughout the world, and all of them can be easily destroyed.\nSource: PBS News",
+      "text": "Israeli Defense Minister Israel Katz:\nWe will not withdraw\u2014not from Lebanon, not from Syria, and not from Gaza\u2014from the security zones.\nThis is our policy, and we will continue it. \nWe are up here, they are down there. Residents are outside, soldiers are inside, and the houses are destroyed.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-12T13:38:09+00:00",
+      "timestamp": "2026-08-12T14:31:31+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "PARTIALLY VERIFIED",
       "verification_confidence": 65,
       "verified_sources": [
-        "Clash Report",
-        "Middle East Spectator"
+        "Alsaa Plus EN",
+        "Clash Report"
       ],
       "verified_source_count": 2
     },
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Kyiv Pauses Black Sea Tanker Attacks Following Direct Appeal from JD Vance\nKyiv has suspended drone strikes against Black Sea oil shipping near Novorossiysk after JD Vance warned Zelensky that the raids damaged American corporate interests.\n[READ MORE](https://clashreport.com/world/articles/kyiv-pauses-black-sea-tanker-attacks-following-direct-appeal-from-jd-vance-y1mkueel1f)",
+      "text": "Ukrainian drone-training commander says GTA players who completed the infamous helicopter mission became some of their best FPV drone operators. \nGaming controller skills apparently transfer surprisingly well to real drone piloting.\nSource: Ukrinform",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-12T11:34:58+00:00",
+      "timestamp": "2026-08-12T14:29:48+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Clash Report",
-        "Our Wars Today"
+        "Clash Report"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Ecuadorian fishermen say mysterious English-speaking men wearing U.S. flag patches attacked their boats with explosive drones, leaving some dead or missing. \nNYT flight-data analysis found a privately registered maritime patrol plane based at a Salvadoran military facility repeatedly tracked the boats before the attacks. \nThe U.S. and El Salvador deny involvement, but the plane\u2019s links to military facilities and the attackers\u2019 apparent organization have raised questions about whether a U.S.-linked military contractor was behind the strikes.\nSource: NYT",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-12T14:19:12+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -453,13 +470,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Clash Report",
         "Our Wars Today"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -597,6 +613,26 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf1\u274c\ud83c\uddf1\ud83c\udde7\ud83c\uddf8\ud83c\uddfe\ud83c\uddf5\ud83c\uddf8 \u2014 Israeli Defense Minister Israel Katz:\nI instructed the military to take all necessary steps to ensure a long-term presence in the security zone in Lebanon, Syria, and Gaza.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-12T14:14:02+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Clash Report"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
       "text": "\ud83c\uddee\ud83c\uddf7\u26a1\ufe0f \u2014 Iranian General Mohammad Reza Naqdi:\nWe produce ballistic missiles at a rate exceeding the rate at which they are fired.\nIn the field of drones as well, our production capacity is far greater than the rate at which they are deployed.\nEven if the war lasts for several years, our ballistic missiles will continue to rain down on the enemy.\n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
@@ -641,101 +677,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-11T18:50:44+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf1\ud83c\uddfa\ud83c\uddf8\u26a1\ufe0f\ud83c\uddf9\ud83c\uddf7 Israel has informed the U.S. about Turkey\u2019s increasing military presence in Syria, including air-defense systems that could threaten Israeli operations.\nSyria recently conducted its first aerial exercise involving fighter jets and a Turkish helicopter, near the Turkish border.\nTurkey has reportedly urged Syria and Lebanon to make agreements with Israel to gain time for military buildup ahead of potential confrontations.\nThis follows the creation of a new defense pact among Turkey, Saudi Arabia, and Pakistan.\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-11T10:45:35+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddfe\ud83c\uddea\ud83c\uddf8\ud83c\udde6 \u2014 Ansar Allah (the Houthis) continue to launch missiles at positions of Saudi-backed Yemeni forces in the Mokha district, which is controlled by Saudi-backed Yemeni forces.\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-11T01:49:51+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddf8\ud83c\udde6\ud83c\uddee\ud83c\uddf7 \u2014 The Wall Street Journal: Gulf energy producers in the Persian Gulf believe that Iranian control of the Strait of Hormuz could become permanent, threatening continued disruptions to oil and gas exports and energy flows to global markets.\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-11T01:27:59+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddf7\ud83c\uddfa\u274c\ud83c\uddfa\ud83c\udde6 \u2014 Governor of Ukraine\u2019s Zaporizhzhia region: 5 people killed and 20 injured in a Russian missile attack on the city.\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-11T00:40:42+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddfe\ud83c\uddea\ud83c\uddf8\ud83c\udde6 \u2014 Ansar Allah (the Houthis) launched a drone attack on gatherings of Saudi-backed forces west of Taiz.\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-11T00:21:50+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -793,82 +734,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-12T10:22:36+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddf1\ud83c\udde7 Lebanese people are furious that parliament approved an amended general amnesty law. This 'general amnesty' was introduced specifically to free the terrorist Ahmad al-Assir after his release was requested by the US on behalf of Syria.\nAhmad al-Assir spread hatred, formed an armed group, then on June 23, 2013 he orchestrated a deadly ambush against a Lebanese army checkpoint in Abra that resulted in the murder of 18 Lebanese soldiers.\nLebanese Armed Forces repelled the attack with assistance from Hezbollah, al-Assir fled and remained a fugitive until security forces finally arrested him at Beirut airport in 2015.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-12T09:57:08+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf0\ud83c\uddf5 Ukrainian President Volodymyr Zelensky said a decision has been made for 30,000 to 50,000 North Koreans to be deployed on the territory of Russia, raising his July estimate of 30,000. He did not disclose his source.\nZelensky said Kyiv had recovered North Korean missiles on Ukrainian territory without specifying locations.\nSince 2024, Pyongyang has provided between 11,000 and 14,000 troops to assist Moscow, mainly in Russia's Kursk region. A North Korean missile unit has reportedly begun deploying to western Russia, potentially equipped with 120 ballistic missiles and six launchers for strikes on Ukraine.\nZelensky urged South Korea to strengthen cooperation with Kyiv, particularly on air defense systems, where Ukraine faces shortages. Putin and Kim Jong Un signed a strategic partnership treaty in June 2024 including mutual assistance provisions. Neither the North Korean Embassy nor South Korea's Foreign Ministry responded to Reuters' requests for comment.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-12T09:27:21+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddf8\ud83c\udde9 The RSF militias targeted Omdurman, Al Abiedth, Otroba and Khartoum with long ranged drones hours ago.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-12T06:55:44+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddfa\ud83c\udde6 Ukrainian Air Forces: We shot down 112 Russian drones yesterday\n\u26a1\ud83c\uddf7\ud83c\uddfa Russian Ministry of Defense: We shot down 502 Ukrainian drones last night \nTwo in one ahh news",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-12T06:51:03+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
