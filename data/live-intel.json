@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T22:51:09.260936+00:00",
+  "generated_at": "2026-08-13T23:50:04.612847+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -346,6 +346,25 @@
     {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
+      "text": "\u2014 \ud83c\uddee\ud83c\uddf7/\ud83c\uddee\ud83c\uddf6 NEW: Iran carried out a Shahed-136 drone attack against Erbil, Iraqi Kurdistan",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-13T23:49:08+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
       "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf1/\ud83c\uddee\ud83c\uddf7 BREAKING: Israeli intelligence believes Iran\u2019s military will be fully restored to pre-war status by mid 2027 at the latest\nThe Jerusalem Post, citing IDF and Mossad officials, reports that Israel is \u2018shocked\u2019 for the second time by Iran's rapid defense industry recovery in the aftermath of the joint Israeli-American war against Iran.\nThe report states that Iran will likely restore its capability to manufacture ballistic missiles at rates of 100-300 per month by mid-2027, comparable to its output pre-12 Day War.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -505,25 +524,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-12T18:53:26+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\uddf0\ud83c\uddfc NEW: Kuwait announces it foiled a \u2018terrorist plot\u2019 to target vital facilities in the country with drones",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-12T14:01:27+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -746,6 +746,25 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf7\u274c\ud83c\udf1e \u2014 Drone attack using Shahed-136 UAVs targeting Iranian Kurdish opposition parties in Erbil Governorate, northern Iraq.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-13T23:29:43+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
       "text": "The Jerusalem Post:\nIsraeli military intelligence estimates that Iran will increase its stockpile to 6,000 missiles by August 2027, and then to 8,800 missiles. If it continues at this rate, it will exceed 10,000 missiles at some point in 2028.\n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
@@ -803,20 +822,77 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf7 \u2014 U.S. Central Command: \nAn F/A-18 fighter jet launches from the flight deck of USS George H.W. Bush (CVN 77) while the ship sails in regional waters and supports enforcement of America\u2019s steel wall blockade against Iran. As of Aug. 12, U.S. forces have redirected 59 commercial vessels, disabled 3 and boarded 2 to ensure full compliance with the blockade.\n\u2b50\ufe0f Follow",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ud83c\uddee\ud83c\uddf6 Moments of a drone hitting target directly into a hotel in Erbil, smoke is rising.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-12T20:05:44+00:00",
+      "timestamp": "2026-08-13T23:48:48+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN"
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ud83c\uddee\ud83c\uddf6 Majority of the drones were indeed intercepted, this disproves the rumors of the US pulling out it's air defense capabilities from erbil.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-13T23:35:25+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ud83c\uddee\ud83c\uddf6 Once again, explosions were heard near Erbil airport and the Habbur base, which is controlled by the U.S. military, in northern Iraq.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-13T23:21:12+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ud83c\uddee\ud83c\uddf6 An explosion in Erbil, coinciding with the sound of drones flying overhead.\nThe explosions continue.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-13T23:19:54+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
       ],
       "verified_source_count": 1
     },
@@ -1038,25 +1114,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-13T09:05:24+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udc76\ud83c\udffb\ud83e\uddec How Silicon Valley pushes eugenics through 'genetically optimized & engineered' children\nNucleus Genomics is promising \u201cgenetic optimization\u201d for future babies, sparking ethical concerns and doubts over whether the hype is a market lure. But others are already going further \u2013 rewriting genomes.\nThiel\u2019s prot\u00e9g\u00e9\nFor $30,000, Nucleus offers IVF+, combining full DNA sequencing of both parents with genetic screening of up to 20 IVF embryos. The results are packaged as a polished, consumer-friendly menu of potential genetic outcomes. \nIVF is already widely used, and clinics routinely screen embryos for genetic abnormalities before implantation. But Nucleus CEO Kian Sadeghi claims his company goes further, potentially allowing parents to select desired traits for their future children \u2013 from height and weight to IQ.\nSadeghi founded Nucleus in 2021 at just 21. The company raised $18 million in 2022, with major backing from tech billionaire Peter Thiel\u2019s Founders Fund, Reddit co-founder Alexis Ohanian\u2019s venture firm and others. Thiel is known for his interest in extending human life and treating aging as a problem technology should solve. He was even rumored of using the[ blood of youths to halt aging](https://t.me/geopolitics_prime/64919).\nNucleus \u2013 an ethically dubious vehicle for enrichment?\nThe approach championed by Thiel\u2019s prot\u00e9g\u00e9 raises serious ethical, medical and financial questions.\n\ud83d\udd34 While embryo screening for certain physical and mental conditions appears to appeal to Americans \u2013 with 77% and 72% supporting it, respectively \u2013 support drops to 36% for selecting behavioral traits and just 30% for features such as eye color\n\ud83d\udd34The very idea of selecting embryos \u2013 potential future children \u2013 based on eye color, height or IQ can seem immoral and dehumanizing, as if parents were choosing a product off a shelf\n\ud83d\udd34 Critics argue that Nucleus\u2019s polygenic scores attempt to predict complex traits from an embryo\u2019s genetic variants and large-scale genetic datasets while largely overlooking environmental influences. But traits such as intelligence, appearance and cancer or schizophrenia risks are shaped by both genes and environment\n\ud83d\udd34With IVF itself, a successful pregnancy per embryo transfer is not guaranteed and depends on many factors. That means some parents may need to repeat the procedure \u2013 and pay again.\nSo, Sadeghi\u2019s promise looks less like groundbreaking science and more like a controversial business model built for profit.\nGenetically engineered babies\nPreventive \u2013 a startup backed by tech figures including Sam Altman and Brian Armstrong \u2013 is going even further working on creating children from gene-edited embryos, according to The Wall Street Journal. While creating genetically engineered babies is banned in the US and many other countries, companies are simply [using jurisdictions with looser rules](https://t.me/geopolitics_prime/63888), including the UAE.\nSuch high-stakes human experiments carry enormous uncertainties, raising even darker questions than Sadeghi\u2019s market lure.\nRemarkably, the transhumanist push is enthusiastically backed by techno-fascists like [Thiel and his Silicon Valley allies](https://t.me/geopolitics_prime/68660), who are simultaneously facilitating the killing of tens of thousands in Gaza, Iran and Ukraine.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-13T07:33:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
