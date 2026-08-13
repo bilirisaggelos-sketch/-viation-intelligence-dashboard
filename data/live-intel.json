@@ -1,6 +1,25 @@
 {
-  "generated_at": "2026-08-13T16:27:53.837897+00:00",
+  "generated_at": "2026-08-13T17:34:04.811592+00:00",
   "events": [
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nMorristown, NJ, Sunday, August 16, 2026 through Sunday, August 16, 2026 Local\nFacility: ZNY",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "08/13/2026",
+      "location": "ZNY NJ",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nGarden City, NY, Friday, August 14, 2026 Local\nFacility: ZNY",
@@ -308,6 +327,25 @@
     {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
+      "text": "\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddfe\ud83c\uddea \u2014 Damage is visible at Mokha Port in western Yemen following recent Houthi (Ansarallah) missile and drone strikes. \nAt least one hangar or warehouse at the Yemeni government-controlled base appears to have been completely destroyed, while a separate burn scar is visible within the commercial port.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-13T17:09:06+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
       "text": "\u2014 \ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7 NEW: The U.S. has lost 25% of all its MQ-9 \u2018Reaper\u2019 drones in the war with Iran",
       "source": "Telegram",
       "source_type": "telegram",
@@ -416,6 +454,45 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "WATCH: Russian air defence missile launched over the Black Sea and slamming straight into the water.\nUkrainian drones recently destroyed an S-400 and EW systems in the same area.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-13T17:09:43+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Clash Report",
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "CENTCOM:\nCENTCOM is creating Task Force Falcon Strike, its first multinational, multi-domain attack drone unit. \nLed by U.S. Special Operations Command Central, it will combine U.S. and regional partner drones operating in the air, on the sea, and underwater. \nThe force builds on Task Force Scorpion Strike and aims to create a unified drone-based deterrent across the Middle East.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-13T16:58:36+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
       ],
       "verified_source_count": 1
     },
@@ -612,6 +689,25 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddfa\ud83c\uddf8\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7 The Washington Post, citing three US officials : One-Quarter of US MQ-9 Drones Destroyed in War with Iran.\n\u27a1\ufe0f The US military has lost at least 45 MQ-9 Reaper drones during the war with Iran, equivalent to approximately 25 percent of its fleet of these drones.\n\u27a1\ufe0f The value of each MQ-9, depending on its equipment and armaments, ranges between $30 and $50 million.\n\u27a1\ufe0f These drones were used extensively around the Strait of Hormuz and have been relatively easy targets for Iran and resistance groups.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-13T16:51:21+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
       "text": "\ud83c\uddf5\ud83c\uddf8\ud83d\udfe2Hamas in official statement appreciates Iran's call to end wars in Gaza and Lebanon, stating that stopping the fighting serves the region's interest, while continuing it only benefits Israel's goal of destabilizing the region:\nThe Islamic Resistance Movement Hamas highly appreciates the statements of Mr. Mohsen Rezaei, Secretary of Iran's Supreme National Security Council, regarding the necessity of ending the war across the entire region, including Lebanon and Gaza.\nEnding these wars is a supreme interest for the region, its peoples, and its future, while their continuation serves only the schemes of the Zionist enemy, which are based on dismantling the region, destabilizing it, and draining its resources.\n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
@@ -694,44 +790,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-13T11:04:38+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "Iran provided Ethiopia with drones before the RSF conflict in Sudan, it was for the civil war in Tigray.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-13T11:03:21+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "Oh, yes, and Iran, Iran supported the genocidal government of Ethiopia, they gave them tons of drones in 2021, nobody knows why, I suppose for shits and giggles.. this wouldn't end well.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-13T10:51:42+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -878,6 +936,26 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udd25 Russia\u2019s new push to cut NATO supply routes to Ukraine via the Danube\nOvernight on August 13, Russian forces attacked the Ukrainian ports of Reni and Izmail with drones \u2013 a strike with a clear strategic aim.\n\ud83e\udd14 What role do these ports play?\nReni and Izmail are two key sea trade ports on the Ukrainian side of the Kiliya branch of the Danube, located just a few hundred meters from the Romanian shore.\n\u2666\ufe0f Izmail is a key transport hub connecting river, sea, rail, and road freight routes. Before the conflict, its capacity was around 1 million tonnes a year; by 2023-2024, it had been ramped up to 25-30 million tonnes.\n\u2666\ufe0f Reni is located at the junction of the Ukrainian, Romanian, and Moldovan borders. The port serves both maritime and river traffic. After the conflict began, its capacity was ramped up to 15-20 million tonnes.\nSince 2022, the ports\u2019 berths and warehouses have been used for military supplies, including fuel, equipment, ammunition, and drone components, brought up the Danube from Romania\u2019s strategic Black Sea port of Constanta, Russian military experts say. The main NATO military installation in the region \u2013 Mihail Kogalniceanu Air Base \u2013 is located near Constanta.\n\ud83d\udee9 Military logic behind the Russian strikes\nThe two ports are key links in the supply chain from NATO countries to the Ukrainian military, making the strategic objective clear: choke off Ukraine\u2019s last remaining maritime lifeline. The ports of Odessa, Chernomorsk, and Yuzhny [face daily pressure](https://t.me/geopolitics_prime/73237) and are effectively cut off from the Black Sea. The Danube has remained a vital rear supply route, shielded by its proximity to the Romanian shore. Russia's effort to isolate Ukraine\u2019s waterborne logistics in the south and southwest is entering [a new phase](https://t.me/geopolitics_prime/72561).\n\ud83d\udfe5 The first target is the Navy command post in Reni. The Danube ports host what remains of Ukraine\u2019s fleet after its withdrawal from the Black Sea: river boats, naval drones, communications hubs, and command posts\n\ud83d\udfe5 The second target is Izmail: a temporary deployment site for Ukrainian forces and port facilities used to unload military cargo.\nThe Ukrainian Armed Forces claimed that Russia launched 133 strike drones during the night. The strikes were carried out by [Geran-4 Seeker jet-powered kamikaze drones](https://t.me/geopolitics_prime/72759), according to Odessa-based social media channels. At the same time, Russian Geran drones reportedly began striking gas stations in the areas around the Danube ports. Ukraine's military logistics is crumbling at the seams.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-13T16:34:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Clash Report",
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
       "text": "\u2721\ufe0f Zionist settlers escalate West Bank invasions and block civilian homes\nOne of the videos circulating online shows a group of Israelis in the settlement of Khirbet Samra.\nAnother reveals that settlers blockaded three Palestinian families in the village of Qusra, also in the West Bank \u2014 they completely cut off water and electricity to the homes.\nThe families under siege say that Israeli police are refusing to intervene, while also not allowing medics to reach the scene.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
@@ -979,25 +1057,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-13T01:23:13+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddee\ud83c\udde9\ud83c\uddfa\ud83c\uddf8 Indonesia pushes back on US military footing\n\ud83d\udde3 Despite growing defense cooperation with the US, the option of hosting an American military base on Indonesia\u2019s territory remains off the table, Indonesian Defense Minister Sjafrie Sjamsoeddin said. \nIn April 2026, Indonesia and the US elevated their defense ties by establishing a Major Defense Cooperation Partnership (MDCP). The agreement marks a significant step in strengthening operational integration between the two countries.\n\ud83d\udd0a \u201cOur cooperation focuses on programs that help increase the national defense capacity, in particular education, training, personnel capabilities, and strengthening interoperability according to our needs and interests,\u201d Sjamsoeddin added.\nThe US maintains seven hundred military bases and sites across more than 80 countries worldwide, with its largest concentrations in East Asia and the Middle East, including bases and military facilities across the Gulf.\nRussian President Vladimir Putin, for his part, recently noted that NATO is slowly pushing into the Pacific region, and the deployment of new arms there is pointlessly driving up the threat of war.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-12T21:03:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
