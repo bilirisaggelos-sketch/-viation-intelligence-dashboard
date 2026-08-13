@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T07:55:53.068284+00:00",
+  "generated_at": "2026-08-13T09:20:14.099177+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -536,6 +536,25 @@
     {
       "title": "Telegram",
       "publisher": "Mediterranean Man",
+      "text": "\u26a1\ufe0f\ud83c\uddec\ud83c\udde7\ud83c\udde8\ud83c\uddf3 A routine cyber assessment revealed that the devices in the 12-million-pound ($16.2-million)\u00a0K3 Scout drone\u00a0fleet used by the Royal Navy\u2019s Special Boat Service were sending automated power-status signals to an internet protocol address in China, prompting the UK Ministry of Defence to sever all internet access to the fleet.\nThe vessels were supplied to the military earlier this year by British defense firm Kraken Technology Group, which developed the Scout using optical equipment sourced from a third-party vendor.\nHowever, defense officials insisted that no sensitive information had been accessed or transmitted outside the secure Ministry of Defence systems.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-13T08:26:52+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
       "text": "For reference, in Egypt, I remember this one time I happened to be somewhere where there was a major terrorist incident, people bled in the streets like cattle and there happened to be troops of children around, of course, such a thing for teenagers was not healthy, and in a conversation with a friend of mine in the Ministry of Education I asked him if the government ever gave any counseling to these kids, and he was like, I shit you not, \"It's the responsibility of their parents to educate their children in how to process people dying violently in front of them, not me.\"\nRight now that's not the same, obviously, by law any child from a \"conflict zone\" (mostly Gaza) is guaranteed two months of therapy sessions with a state funded psychologist, in fact, considering Gaza kids are overwhelming the canal cities hospitals, there's some 5,000 shrinks over there helping them",
       "source": "Telegram",
       "source_type": "telegram",
@@ -682,6 +701,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83e\udd25\ud83d\udcb5 Trump's White House glow-up set to swell past $900 Million\nThe Trump administration is quietly funneling at least $927 million into sweeping[ White House construction projects ](https://t.me/geopolitics_prime/73070)\u2013 largely sidestepping Congress, reports The Washington Post.\nBy shunting money from the Secret Service and other agencies into an obscure \u201cRepair and Restoration\u201d account normally used for minor fixes, the WH is sticking taxpayers with the bulk of the most extravagant [executive-mansion overhaul ](https://t.me/geopolitics_prime/69674)in eighty years.\nThis eye-watering figure is already far above earlier public estimates:\n\u2666\ufe0f Of the $875 million already funneled into the account, $500 million came from Secret Service and White House Military Office coffers\n\u2666\ufe0f $305M was syphoned from private donors; another $70M came from sources still unidentified\n\u2666\ufe0f More than $400 million of the Secret Service cash was moved in a single June transfer \nThe cash shifted in June came close on the heels of a failed legislative attempt by Capitol Hill allies to secure open funding for Trump\u2019s pet projects like a [gilded East Wing ballroom ](https://t.me/geopolitics_prime/68962)and a new visitor screening complex.\n\ud83d\udc49 Conveniently, the Executive Residence - a small WH office exempt from many standard federal disclosure requirements - is overseeing the contracts.\nThe administration insists the spending is justified by security needs, pointing to threats and arguing that the planned complex requires hardened, drone-proof infrastructure. \n\ud83d\udcb8 But the project goes well beyond a ballroom, with plans reportedly including a helipad and changes around Lafayette Square, pushing the broader cost toward $1 billion.\nA federal appeals court recently halted the centerpiece ballroom project, ruling that congressional approval is constitutionally required to authorize such [construction and demolition. ](https://t.me/geopolitics_prime/69124)\n\ud83d\udd28 The administration is expected to take the fight to the Supreme Court.\nMeanwhile, demolition proceeded anyway, because why wait for pesky court rulings when you've got a vision?\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-13T09:05:24+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
