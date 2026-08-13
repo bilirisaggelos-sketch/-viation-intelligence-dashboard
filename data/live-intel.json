@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T09:20:14.099177+00:00",
+  "generated_at": "2026-08-13T10:39:04.435416+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -346,12 +346,31 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Lebanese firefighters, residents and environmental groups say Israel is deliberately setting wildfires across southern Lebanon using drones, flares and incendiary munitions. \nThe fires have destroyed forests, olive groves and farmland, threatening ecosystems and livelihoods.\nSource: The Guardian",
+      "text": "Ukraine launched a major coordinated strike on Novorossiysk overnight 11\u201312 August using 15+ domestic weapon systems including missiles, jet drones, and sea drones. \nBoth key Kalibr-capable frigates (Admiral Makarov and Essen) were damaged, along with several other vessels. \nGrain terminals and oil export infrastructure were also hit. \nNo ships appear sunk, but the strike significantly degrades Black Sea Fleet capability and disrupts a major Russian export hub.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-13T07:26:24+00:00",
+      "timestamp": "2026-08-13T10:37:46+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Zelensky:\nThis year we have two and a half times less interceptors than we had in 2025.\nRussia has two times more ballistic missiles per month than they had before.\nIf the U.S. sells us 5%, we will go through the winter and save people\u2019s lives. If they can sell us 10%, we will destroy all the Russian ballistic missiles.\nFor today, I have 1%.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-13T10:15:05+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -707,6 +726,25 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddfa\ud83c\uddf8\ud83d\ude80 'Just 5%' \u2013 Zelensky the beggar comes knocking again for US missiles\nUkraine currently has only 1% of the Patriot interceptors it needs relative to America's total arsenal, he lamented.\n\ud83d\udcac \"I have a few months and a million phone calls... I'm trying to barter for missiles... I'm doing things I can't even disclose. Not illegal, just not for public consumption,\" he told CNN.\nAs for Trump's suggestion of a US license for domestic missile production, Zelensky admitted no final deal has been struck.\nBecause there's a world of difference between Trump grandstanding for the cameras and the hard reality: Americans are running low on munitions themselves, mired in their own aggression against Iran.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-13T10:35:26+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
       "text": "\ud83e\udd25\ud83d\udcb5 Trump's White House glow-up set to swell past $900 Million\nThe Trump administration is quietly funneling at least $927 million into sweeping[ White House construction projects ](https://t.me/geopolitics_prime/73070)\u2013 largely sidestepping Congress, reports The Washington Post.\nBy shunting money from the Secret Service and other agencies into an obscure \u201cRepair and Restoration\u201d account normally used for minor fixes, the WH is sticking taxpayers with the bulk of the most extravagant [executive-mansion overhaul ](https://t.me/geopolitics_prime/69674)in eighty years.\nThis eye-watering figure is already far above earlier public estimates:\n\u2666\ufe0f Of the $875 million already funneled into the account, $500 million came from Secret Service and White House Military Office coffers\n\u2666\ufe0f $305M was syphoned from private donors; another $70M came from sources still unidentified\n\u2666\ufe0f More than $400 million of the Secret Service cash was moved in a single June transfer \nThe cash shifted in June came close on the heels of a failed legislative attempt by Capitol Hill allies to secure open funding for Trump\u2019s pet projects like a [gilded East Wing ballroom ](https://t.me/geopolitics_prime/68962)and a new visitor screening complex.\n\ud83d\udc49 Conveniently, the Executive Residence - a small WH office exempt from many standard federal disclosure requirements - is overseeing the contracts.\nThe administration insists the spending is justified by security needs, pointing to threats and arguing that the planned complex requires hardened, drone-proof infrastructure. \n\ud83d\udcb8 But the project goes well beyond a ballroom, with plans reportedly including a helipad and changes around Lafayette Square, pushing the broader cost toward $1 billion.\nA federal appeals court recently halted the centerpiece ballroom project, ruling that congressional approval is constitutionally required to authorize such [construction and demolition. ](https://t.me/geopolitics_prime/69124)\n\ud83d\udd28 The administration is expected to take the fight to the Supreme Court.\nMeanwhile, demolition proceeded anyway, because why wait for pesky court rulings when you've got a vision?\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
@@ -789,25 +827,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-12T21:03:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\udde6\ud83c\uddea\ud83c\uddee\ud83c\uddf6 UAE offers to run Iraq\u2019s oil through Hormuz to rewrite Gulf logistics\n\ud83d\udd0a As the waterway remains [closed](https://t.me/geopolitics_prime/73304), one regional player - the UAE - has offered to deploy its tried-and-tested clandestine playbook for clients, reports Bloomberg.\nEmirati giant Abu Dhabi National Oil Co. (ADNOC) is prepared to shuttle Iraqi crude through the waterway using the same \u201cdark transit\u201d tactics that have helped the UAE keep its own exports moving.\nADNOC\u2019s trading arm has reportedly been offering spot cargoes of Iraqi crude to Asian buyers, including Indian refiners. \nThe strategy involves:\n\u2666\ufe0f Short, sprint-like tanker voyages through the strait, often with transponders switched off to evade detection\n\u2666\ufe0f Cargo transfers to larger vessels waiting just outside the immediate threat zone\nFor Iraq, which has long relied on foreign trading houses like Vitol Group and France\u2019s TotalEnergies SE to carry its oil to market, the UAE\u2019s intervention could reshape those established logistics networks.\n\ud83d\udcc9 Iraq is making the dangerous voyage more attractive financially:\n\ud83d\udfe5 state oil marketer SOMO reportedly offers discounts of $30 a barrel below benchmark prices for crude loading \n\ud83d\udfe5 Basrah Medium was discounted by roughly $25\u2013$27 \nIraqi crude exports climbed to around 2 million barrels a day this month according to SOMO chief Ali Nizar - above the 1.5\u20131.7 million bpd estimate given by Iraq\u2019s oil minister last week. \nThe surge suggests that ADNOC\u2019s offers may already be having a tangible impact on the ground.\nIraq has so far sold its crude on a loading basis, leaving transportation to other companies. \nADNOC, by contrast, has its own expanded tanker fleet and has also chartered vessels from Sinokor Group, the world\u2019s largest oil supertanker owner. \nBut the strategy comes with risks: several ADNOC tankers were targeted while transiting the strait last week.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-12T16:33:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
