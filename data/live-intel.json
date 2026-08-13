@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T10:39:04.435416+00:00",
+  "generated_at": "2026-08-13T11:32:57.534350+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -346,12 +346,12 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Ukraine launched a major coordinated strike on Novorossiysk overnight 11\u201312 August using 15+ domestic weapon systems including missiles, jet drones, and sea drones. \nBoth key Kalibr-capable frigates (Admiral Makarov and Essen) were damaged, along with several other vessels. \nGrain terminals and oil export infrastructure were also hit. \nNo ships appear sunk, but the strike significantly degrades Black Sea Fleet capability and disrupts a major Russian export hub.",
+      "text": "SINKEX: Two submarine-launched Harpoon missiles hitting the decommissioned USS Peleliu (LHA-5) during a sinking exercise off Hawaii during RIMPAC 2026 Exercise.\nThe nearly 40,000-ton ship also took hits from Spanish, Japanese, and allied weapons, plus a kamikaze USV \u2014 a first for a US SINKEX.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-13T10:37:46+00:00",
+      "timestamp": "2026-08-13T10:53:04+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -365,12 +365,50 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Zelensky:\nThis year we have two and a half times less interceptors than we had in 2025.\nRussia has two times more ballistic missiles per month than they had before.\nIf the U.S. sells us 5%, we will go through the winter and save people\u2019s lives. If they can sell us 10%, we will destroy all the Russian ballistic missiles.\nFor today, I have 1%.",
+      "text": "Ukraine's SBU Alpha unit operates the MICH 2000, a long-range strike drone (600\u20132,000 km range) reverse-engineered from a Chinese design and now ~85% domestically produced at ~$48k per unit. \nThousands launched since late 2024, with confirmed hits including a Tu-95MS bomber at Engels-2. \nProduction capacity around 6,000/year.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-13T10:15:05+00:00",
+      "timestamp": "2026-08-13T10:49:03+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Russian kid having fun while watching massive Ukrainian drone/missile barrage on Novorossiysk Port.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-13T10:43:33+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Ukraine launched a major coordinated strike on Novorossiysk overnight 11\u201312 August using 15+ domestic weapon systems including missiles, jet drones, and sea drones. \nBoth key Kalibr-capable frigates (Admiral Makarov and Essen) were damaged, along with several other vessels. \nGrain terminals and oil export infrastructure were also hit. \nNo ships appear sunk, but the strike significantly degrades Black Sea Fleet capability and disrupts a major Russian export hub.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-13T10:37:46+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -517,6 +555,25 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddf5\ud83c\uddf8\ud83d\udfe2Hamas in official statement appreciates Iran's call to end wars in Gaza and Lebanon, stating that stopping the fighting serves the region's interest, while continuing it only benefits Israel's goal of destabilizing the region:\nThe Islamic Resistance Movement Hamas highly appreciates the statements of Mr. Mohsen Rezaei, Secretary of Iran's Supreme National Security Council, regarding the necessity of ending the war across the entire region, including Lebanon and Gaza.\nEnding these wars is a supreme interest for the region, its peoples, and its future, while their continuation serves only the schemes of the Zionist enemy, which are based on dismantling the region, destabilizing it, and draining its resources.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-13T11:18:25+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
       "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf7 \u2014 U.S. Central Command: \nAn F/A-18 fighter jet launches from the flight deck of USS George H.W. Bush (CVN 77) while the ship sails in regional waters and supports enforcement of America\u2019s steel wall blockade against Iran. As of Aug. 12, U.S. forces have redirected 59 commercial vessels, disabled 3 and boarded 2 to ensure full compliance with the blockade.\n\u2b50\ufe0f Follow",
       "source": "Telegram",
       "source_type": "telegram",
@@ -535,32 +592,13 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf6\ud83c\uddee\ud83c\uddf6\ud83c\uddee\ud83c\uddf6\u26a1\ufe0f \u2014 Iraqi Asa\u2019ib Ahl al-Haq:\nWe have handed over the medium and heavy weapons, including missiles and drones, to the brigades of the Iraqi Popular Mobilization Forces (PMF). We seek to build a well-governed civil state in which citizens do not feel threatened by any weapons outside the framework of the state.\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-12T15:36:09+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Mediterranean Man",
-      "text": "\u26a1\ufe0f\ud83c\uddec\ud83c\udde7\ud83c\udde8\ud83c\uddf3 A routine cyber assessment revealed that the devices in the 12-million-pound ($16.2-million)\u00a0K3 Scout drone\u00a0fleet used by the Royal Navy\u2019s Special Boat Service were sending automated power-status signals to an internet protocol address in China, prompting the UK Ministry of Defence to sever all internet access to the fleet.\nThe vessels were supplied to the military earlier this year by British defense firm Kraken Technology Group, which developed the Scout using optical equipment sourced from a third-party vendor.\nHowever, defense officials insisted that no sensitive information had been accessed or transmitted outside the secure Ministry of Defence systems.",
+      "text": "The civil war in Tigray was classified as mass ethnic cleansing you fucking TWIT\nIt was YOUR DRONES alongside the Turks that halted the advance of the TPLF",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-13T08:26:52+00:00",
+      "timestamp": "2026-08-13T11:07:19+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -574,12 +612,88 @@
     {
       "title": "Telegram",
       "publisher": "Mediterranean Man",
-      "text": "For reference, in Egypt, I remember this one time I happened to be somewhere where there was a major terrorist incident, people bled in the streets like cattle and there happened to be troops of children around, of course, such a thing for teenagers was not healthy, and in a conversation with a friend of mine in the Ministry of Education I asked him if the government ever gave any counseling to these kids, and he was like, I shit you not, \"It's the responsibility of their parents to educate their children in how to process people dying violently in front of them, not me.\"\nRight now that's not the same, obviously, by law any child from a \"conflict zone\" (mostly Gaza) is guaranteed two months of therapy sessions with a state funded psychologist, in fact, considering Gaza kids are overwhelming the canal cities hospitals, there's some 5,000 shrinks over there helping them",
+      "text": "And as far as I\u2019m aware, they only got Mohajer-6 combat UAVs",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-12T22:08:56+00:00",
+      "timestamp": "2026-08-13T11:04:38+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "Iran provided Ethiopia with drones before the RSF conflict in Sudan, it was for the civil war in Tigray.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-13T11:03:21+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "Oh, yes, and Iran, Iran supported the genocidal government of Ethiopia, they gave them tons of drones in 2021, nobody knows why, I suppose for shits and giggles.. this wouldn't end well.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-13T10:51:42+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "The Southern Front of the Sudanese war is collapsing, the treacherous Ethiopian federal government has allowed the RSF to launch a full campaign from inside Ethiopia to Sudan, the unexpected direction where the campaign came from overwhelmed the local border garrisons.\nI wish the schizophrenics of Abiy Ahmed that \"a foreign power\" and \"special forces were on the ground\" aiding the TPLF were true, but the Abyssinian is proud. Drones from Turkey, money from the Emirates, and some signed contracts from China makes him feel at the top of the world.\nA Yugoslavia fate would only be considered kind for all their sins.\nThe war will likely drag on for another additional six months.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-13T10:44:04+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ufe0f\ud83c\uddec\ud83c\udde7\ud83c\udde8\ud83c\uddf3 A routine cyber assessment revealed that the devices in the 12-million-pound ($16.2-million)\u00a0K3 Scout drone\u00a0fleet used by the Royal Navy\u2019s Special Boat Service were sending automated power-status signals to an internet protocol address in China, prompting the UK Ministry of Defence to sever all internet access to the fleet.\nThe vessels were supplied to the military earlier this year by British defense firm Kraken Technology Group, which developed the Scout using optical equipment sourced from a third-party vendor.\nHowever, defense officials insisted that no sensitive information had been accessed or transmitted outside the secure Ministry of Defence systems.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-13T08:26:52+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
