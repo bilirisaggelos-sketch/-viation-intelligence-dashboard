@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T19:46:33.995261+00:00",
+  "generated_at": "2026-08-13T20:52:05.474839+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -518,12 +518,12 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Covert CIA Black Op Was Behind Drone Strikes on Ecuadorian Fishing Boats\nA classified CIA operation was responsible for a series of lethal drone strikes targeting Ecuadorian fishing vessels near the Gal\u00e1pagos Islands.\n[READ MORE](https://clashreport.com/world/articles/covert-cia-black-op-was-behind-drone-strikes-on-ecuadorian-fishing-boats-9xj8dreigh4)",
+      "text": "Israeli officials are shocked by Iran\u2019s rapid military recovery after the 2026 war. \nDespite thousands of strikes, Iran is rebuilding its ballistic-missile capabilities much faster than expected, potentially restoring its arsenal to pre-war levels by 2027 and becoming a \"major threat\" again by 2028.\nSource: The Jerusalem Post",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-13T19:42:15+00:00",
+      "timestamp": "2026-08-13T19:52:35+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -536,39 +536,20 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "WATCH: Russian air defence missile launched over the Black Sea and slamming straight into the water.\nUkrainian drones recently destroyed an S-400 and EW systems in the same area.",
+      "publisher": "Our Wars Today",
+      "text": "[U.S. Not Prepared To Handle Drone Attack From Inside Homeland: Deputy NORAD Commander](https://www.twz.com/air/u-s-not-prepared-to-handle-drone-attack-from-inside-homeland-deputy-norad-commander)\nA top general in charge of protecting the U.S. gave a refreshingly frank but also troubling assessment of America's drone defenses. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://www.twz.com/air/u-s-not-prepared-to-handle-drone-attack-from-inside-homeland-deputy-norad-commander)\nHoward Altman | twz\u200b.com \u2022 Aug 13, 2026",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-13T17:09:43+00:00",
+      "timestamp": "2026-08-13T20:14:55+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "CENTCOM:\nCENTCOM is creating Task Force Falcon Strike, its first multinational, multi-domain attack drone unit. \nLed by U.S. Special Operations Command Central, it will combine U.S. and regional partner drones operating in the air, on the sea, and underwater. \nThe force builds on Task Force Scorpion Strike and aims to create a unified drone-based deterrent across the Middle East.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-13T16:58:36+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
+        "Our Wars Today"
       ],
       "verified_source_count": 1
     },
@@ -702,6 +683,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Our Wars Today"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "The Jerusalem Post:\nIsraeli military intelligence estimates that Iran will increase its stockpile to 6,000 missiles by August 2027, and then to 8,800 missiles. If it continues at this rate, it will exceed 10,000 missiles at some point in 2028.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-13T19:56:46+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
       ],
       "verified_source_count": 1
     },
