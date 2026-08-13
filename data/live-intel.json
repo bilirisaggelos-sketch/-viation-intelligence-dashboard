@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T15:17:27.644910+00:00",
+  "generated_at": "2026-08-13T16:27:53.837897+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -308,6 +308,25 @@
     {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
+      "text": "\u2014 \ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7 NEW: The U.S. has lost 25% of all its MQ-9 \u2018Reaper\u2019 drones in the war with Iran",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-13T16:07:08+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
       "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea BREAKING: Yemeni drone attack against Aramco facilities in Jazan, Kingdom of Saudi Arabia",
       "source": "Telegram",
       "source_type": "telegram",
@@ -403,12 +422,12 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Taiwan is turning its coast guard into a stronger military support force to counter a potential Chinese invasion or blockade. \nCoast guard cutters are being equipped with antiship missiles and trained alongside the navy, with recent drills simulating a Chinese amphibious assault and blockade.\nSource: WSJ",
+      "text": "BIG: The U.S. has lost at least 45 MQ-9 Reaper drones\u2014about 25% of its fleet\u2014during the Iran war, with losses costing more than $1.3 billion. \nSource: WaPo",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-13T11:47:12+00:00",
+      "timestamp": "2026-08-13T15:58:53+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -422,12 +441,31 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "SINKEX: Two submarine-launched Harpoon missiles hitting the decommissioned USS Peleliu (LHA-5) during a sinking exercise off Hawaii during RIMPAC 2026 Exercise.\nThe nearly 40,000-ton ship also took hits from Spanish, Japanese, and allied weapons, plus a kamikaze USV \u2014 a first for a US SINKEX.",
+      "text": "Ukraine's Drones Outclassed American Armored Brigade in Exercise\nUkrainian drone operators easily defeated a US armored brigade during a recent military exercise in Germany, exposing significant American vulnerabilities to front-line uncrewed systems.\n[READ MORE](https://clashreport.com/world/articles/ukraines-drones-outclassed-american-armored-brigade-in-exercise-647elsskws)",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-13T10:53:04+00:00",
+      "timestamp": "2026-08-13T15:48:27+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Yemen\u2019s Houthi-run SABA news agency reported that Houthi forces targeted Saudi Aramco\u2019s Jizan refinery with two drones.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-13T15:20:23+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -612,6 +650,25 @@
     {
       "title": "Telegram",
       "publisher": "Mediterranean Man",
+      "text": "\u26a1\ud83c\uddee\ud83c\uddf9An ammunitions facility in Colleferro, Italy experienced a large explosion this morning. The facility manufactures solid rocket fuels in addition to ammo. First responders are now battling the fire that came from the initial explosion.\nThe building is owned by KNDS Ammo Italy. The town surrounding the facility is home to approximately 20,000 residents\nAll the workers were evacuated and no injuries are reported.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-13T15:46:30+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
       "text": "The civil war in Tigray was classified as mass ethnic cleansing you fucking TWIT\nIt was YOUR DRONES alongside the Turks that halted the advance of the TPLF",
       "source": "Telegram",
       "source_type": "telegram",
@@ -675,44 +732,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-13T10:51:42+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "The Southern Front of the Sudanese war is collapsing, the treacherous Ethiopian federal government has allowed the RSF to launch a full campaign from inside Ethiopia to Sudan, the unexpected direction where the campaign came from overwhelmed the local border garrisons.\nI wish the schizophrenics of Abiy Ahmed that \"a foreign power\" and \"special forces were on the ground\" aiding the TPLF were true, but the Abyssinian is proud. Drones from Turkey, money from the Emirates, and some signed contracts from China makes him feel at the top of the world.\nA Yugoslavia fate would only be considered kind for all their sins.\nThe war will likely drag on for another additional six months.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-13T10:44:04+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ufe0f\ud83c\uddec\ud83c\udde7\ud83c\udde8\ud83c\uddf3 A routine cyber assessment revealed that the devices in the 12-million-pound ($16.2-million)\u00a0K3 Scout drone\u00a0fleet used by the Royal Navy\u2019s Special Boat Service were sending automated power-status signals to an internet protocol address in China, prompting the UK Ministry of Defence to sever all internet access to the fleet.\nThe vessels were supplied to the military earlier this year by British defense firm Kraken Technology Group, which developed the Scout using optical equipment sourced from a third-party vendor.\nHowever, defense officials insisted that no sensitive information had been accessed or transmitted outside the secure Ministry of Defence systems.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-13T08:26:52+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
