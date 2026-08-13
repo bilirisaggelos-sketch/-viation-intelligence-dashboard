@@ -1,6 +1,25 @@
 {
-  "generated_at": "2026-08-12T23:50:18.581864+00:00",
+  "generated_at": "2026-08-13T02:30:32.348687+00:00",
   "events": [
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nKaneohe, HI, Thursday, August 13, 2026 Local\nFacility: ZHN",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "08/12/2026",
+      "location": "ZHN HI",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nEAST RUTHERFORD, NJ, Saturday, August 15, 2026 Local\nFacility: ZNY",
@@ -651,25 +670,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ufe0f\ud83c\uddf2\ud83c\uddf2 Myanmar\u2019s military has intensified airstrikes on civilians ahead of elections held between 2025 and early this year, as war crimes and crimes against humanity escalated across the country.\nWhile investigators attributed much of the documented violence to the military, they said armed groups fighting the junta were also implicated in serious abuses, including alleged torture and sexual violence.\nMore than\u00a0100,000 people are estimated to have been killed\u00a0and 3.6 million\u00a0displaced\u00a0by conflict-related violence since Myanmar\u2019s\u00a0military coup five years ago\u00a0triggered a nationwide civil war.\nInvestigators identified a pattern of\u00a0airstrikes on homes, schools,\u00a0hospitals, religious buildings and camps for internally displaced people.\nThe military also expanded its use of drones, paramotors, and gyrocopters to drop unguided explosives from low altitude.\nIn several incidents under investigation, pilots allegedly switched off their engines while approaching their targets, allowing the aircraft to glide silently and giving civilians little warning.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-12T17:09:14+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "CASELS",
       "text": "\u26a1\ufe0f\ud83c\uddf1\ud83c\uddfe Additional footage of the drone strike that targeted the main power station in Zawiya, Libya, has been released with large flames engulfing the entire facility.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
@@ -836,6 +836,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udcb0 US taxpayers funded a $533 million shell factory. It produced zero usable shells\nA US Army-funded artillery plant near Dallas, built to churn out 155mm shells for Ukraine, never produced a single usable shell, ProPublica reported.\nThe factory was supposed to be a symbol of the US military-industrial ramp-up.\nInstead, workers described robots catching fire, machines smashing into equipment, steel shells cracking beyond repair, and giant presses needing to be beaten with a sledgehammer just to function.\n\ud83d\udcac \u201cIt was just a bunch of guys taking turns going at the machine with a sledgehammer every night,\u201d one former employee said.\nThe project was rushed through under loosened Ukraine-related contracting rules, with the Army handing General Dynamics lucrative no-bid awards and betting on little-proven Turkish machinery that failed spectacularly.\nThe US Army halted work on two of the plant\u2019s three production lines in 2025 after General Dynamics blew multiple deadlines.\n\ud83d\udcc8 Cost to taxpayers: $533 million.\n\ud83d\udca5 Usable shells produced: zero.\n\ud83d\udca5 Money returned by General Dynamics: zero.\n\ud83d\udcc8 And after all that, the company was still awarded billions in new contracts.\nNow Secretary of War Pete Hegseth wants a $1.5 trillion military budget \u2014 more cash for missiles and interceptors after the US burned through stockpiles in its war against Iran.\nThe US cannot make one usable shell at a $533 million factory.\nNaturally, it now wants $1.5 trillion more.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-13T01:23:13+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
