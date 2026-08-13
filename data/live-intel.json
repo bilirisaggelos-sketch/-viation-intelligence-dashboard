@@ -1,6 +1,25 @@
 {
-  "generated_at": "2026-08-13T17:34:04.811592+00:00",
+  "generated_at": "2026-08-13T18:39:53.732066+00:00",
   "events": [
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nDyersville, IA\nFacility: ZAU",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "08/13/2026",
+      "location": "ZAU IA",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nMorristown, NJ, Sunday, August 16, 2026 through Sunday, August 16, 2026 Local\nFacility: ZNY",
@@ -327,6 +346,25 @@
     {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf7 NEW: A new type of ballistic missile or air defense projectile was tested in Kerman",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-13T17:45:27+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
       "text": "\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddfe\ud83c\uddea \u2014 Damage is visible at Mokha Port in western Yemen following recent Houthi (Ansarallah) missile and drone strikes. \nAt least one hangar or warehouse at the Yemeni government-controlled base appears to have been completely destroyed, while a separate burn scar is visible within the commercial port.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -355,12 +393,14 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
       "verified_sources": [
+        "Alsaa Plus EN",
+        "Clash Report",
         "Middle East Spectator"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 3
     },
     {
       "title": "Telegram",
@@ -469,13 +509,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Clash Report",
-        "Geopolitics Prime"
+        "Clash Report"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -508,12 +547,14 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
       "verified_sources": [
-        "Clash Report"
+        "Alsaa Plus EN",
+        "Clash Report",
+        "Middle East Spectator"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 3
     },
     {
       "title": "Telegram",
@@ -524,25 +565,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-13T15:48:27+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Yemen\u2019s Houthi-run SABA news agency reported that Houthi forces targeted Saudi Aramco\u2019s Jizan refinery with two drones.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-13T15:20:23+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -698,12 +720,14 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
       "verified_sources": [
-        "Alsaa Plus EN"
+        "Alsaa Plus EN",
+        "Clash Report",
+        "Middle East Spectator"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 3
     },
     {
       "title": "Telegram",
@@ -752,44 +776,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-13T15:46:30+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "The civil war in Tigray was classified as mass ethnic cleansing you fucking TWIT\nIt was YOUR DRONES alongside the Turks that halted the advance of the TPLF",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-13T11:07:19+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "And as far as I\u2019m aware, they only got Mohajer-6 combat UAVs",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-13T11:04:38+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -936,6 +922,25 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddf5\ud83c\uddf8\ud83c\udfa4 US non-profit bankrolled pro-Israel smear machine helping mark Palestinian journalists for death\nIn November 2023, the US nonprofit Knight Foundation funneled $100,000 to Honest Reporting - one of the most controversial pro-Zionist pressure groups operating today, reports Drop Site News.\nThe Foundation acknowledged that the money was earmarked for Media Central, an Honest Reporting program.\nThe recipient of that generous grant:\n\u2666\ufe0f monitors global media coverage of Israel\n\u2666\ufe0f produces reports to attack unfavorable narratives\n\u2666\ufe0f embeds journalists in curated pro-Israel access\nThe result has been the dismissal of journalists worldwide. But since October 7, 2023, its tactics have grown markedly more dangerous. \nThe group has systematically targeted Palestinian journalists by publishing material that questions their alleged ties to Hamas or other armed groups \u2013 leading a campaign of character assassination that has directly enabled the targeted killing of Palestinian reporters.\nOne of the most consequential cases involves Hassan Eslaiah, a freelance photographer and director of the Gaza-based Alam24 agency.\n\ud83d\udd34 On November 8, 2023, Honest Reporting published photographs of Palestinian journalists covering events near the Gaza border on October 7, including Hassan Eslaiah \n\ud83d\udd34 The article questioned whether these journalists could have had \u201cadvance knowledge\u201d of the Hamas attack\n\ud83d\udd34 It also featured a 2020 photograph of Eslaiah standing next to then-Hamas leader Yahya Sinwar \n\ud83d\udd34 Israel's official X account amplified the post \n\ud83d\udd34 On April 7, 2025, an Israeli airstrike struck a media tent outside Nasser Hospital in Khan Younis; Eslaiah was among the wounded\n\ud83d\udd34 On May 13, 2025, an Israeli drone bombed the surgical wing Eslaiah was recovering in and murdered him\n\ud83d\udd34 The Israeli military publicly announced it had deliberately targeted Eslaiah, posting a screenshot of him from October 7, 2023 - the very image Honest Reporting had featured \nSince the start of the genocide in Gaza, Honest Reporting has led a pressure campaign against the Committee to Protect Journalists, which maintains the most widely cited casualty list of media workers killed in Gaza.\nIt has pressured other press freedom bodies such as Reporters Without Borders and the International Federation of Journalists.\n\ud83d\udc49 Honest Reporting\u2019s leadership boast figures with long AIPAC tenures, and several staff members have served in the Israeli military. \nThe group maintains links to aggressive online blacklisting operations such as Canary Mission - the pro-Israel doxxing site that publishes dossiers on students, academics, and activists it accuses of anti-Semitism or support for Palestinian rights.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-13T18:05:34+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
       "text": "\ud83d\udd25 Russia\u2019s new push to cut NATO supply routes to Ukraine via the Danube\nOvernight on August 13, Russian forces attacked the Ukrainian ports of Reni and Izmail with drones \u2013 a strike with a clear strategic aim.\n\ud83e\udd14 What role do these ports play?\nReni and Izmail are two key sea trade ports on the Ukrainian side of the Kiliya branch of the Danube, located just a few hundred meters from the Romanian shore.\n\u2666\ufe0f Izmail is a key transport hub connecting river, sea, rail, and road freight routes. Before the conflict, its capacity was around 1 million tonnes a year; by 2023-2024, it had been ramped up to 25-30 million tonnes.\n\u2666\ufe0f Reni is located at the junction of the Ukrainian, Romanian, and Moldovan borders. The port serves both maritime and river traffic. After the conflict began, its capacity was ramped up to 15-20 million tonnes.\nSince 2022, the ports\u2019 berths and warehouses have been used for military supplies, including fuel, equipment, ammunition, and drone components, brought up the Danube from Romania\u2019s strategic Black Sea port of Constanta, Russian military experts say. The main NATO military installation in the region \u2013 Mihail Kogalniceanu Air Base \u2013 is located near Constanta.\n\ud83d\udee9 Military logic behind the Russian strikes\nThe two ports are key links in the supply chain from NATO countries to the Ukrainian military, making the strategic objective clear: choke off Ukraine\u2019s last remaining maritime lifeline. The ports of Odessa, Chernomorsk, and Yuzhny [face daily pressure](https://t.me/geopolitics_prime/73237) and are effectively cut off from the Black Sea. The Danube has remained a vital rear supply route, shielded by its proximity to the Romanian shore. Russia's effort to isolate Ukraine\u2019s waterborne logistics in the south and southwest is entering [a new phase](https://t.me/geopolitics_prime/72561).\n\ud83d\udfe5 The first target is the Navy command post in Reni. The Danube ports host what remains of Ukraine\u2019s fleet after its withdrawal from the Black Sea: river boats, naval drones, communications hubs, and command posts\n\ud83d\udfe5 The second target is Izmail: a temporary deployment site for Ukrainian forces and port facilities used to unload military cargo.\nThe Ukrainian Armed Forces claimed that Russia launched 133 strike drones during the night. The strikes were carried out by [Geran-4 Seeker jet-powered kamikaze drones](https://t.me/geopolitics_prime/72759), according to Odessa-based social media channels. At the same time, Russian Geran drones reportedly began striking gas stations in the areas around the Danube ports. Ukraine's military logistics is crumbling at the seams.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
@@ -945,13 +950,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Clash Report",
         "Geopolitics Prime"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
