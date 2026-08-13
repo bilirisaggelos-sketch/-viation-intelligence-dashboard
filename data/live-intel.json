@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T20:52:05.474839+00:00",
+  "generated_at": "2026-08-13T21:53:52.084850+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -346,6 +346,25 @@
     {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf1/\ud83c\uddee\ud83c\uddf7 BREAKING: Israeli intelligence believes Iran\u2019s military will be fully restored to pre-war status by mid 2027 at the latest\nThe Jerusalem Post, citing IDF and Mossad officials, reports that Israel is \u2018shocked\u2019 for the second time by Iran's rapid defense industry recovery in the aftermath of the joint Israeli-American war against Iran.\nThe report states that Iran will likely restore its capability to manufacture ballistic missiles at rates of 100-300 per month by mid-2027, comparable to its output pre-12 Day War.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-13T21:01:55+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
       "text": "\u2014 \ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea NEW: Saudi-backed forces are trying to shoot down Yemeni drones in Marib",
       "source": "Telegram",
       "source_type": "telegram",
@@ -518,12 +537,31 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Israeli officials are shocked by Iran\u2019s rapid military recovery after the 2026 war. \nDespite thousands of strikes, Iran is rebuilding its ballistic-missile capabilities much faster than expected, potentially restoring its arsenal to pre-war levels by 2027 and becoming a \"major threat\" again by 2028.\nSource: The Jerusalem Post",
+      "text": "Trump signed a proclamation imposing new tariffs on drone imports, citing national security concerns. \nRates include 100% on certain sensitive drones, 25% on smaller drones, 15% on imports from the EU and several allies, and 10% on UK drones.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-13T19:52:35+00:00",
+      "timestamp": "2026-08-13T21:49:00+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Netanyahu Derides UK as 'Islamic Republic of Britain'\nIsraeli Prime Minister Benjamin Netanyahu mocked the UK as the \"Islamic Republic of Britain\" during a podcast, deriding London's political climate.\n[READ MORE](https://clashreport.com/world/articles/netanyahu-derides-uk-as-islamic-republic-of-britain-n8by5uca8ae)",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-13T21:28:30+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -760,25 +798,6 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddee\ud83c\uddf9An ammunitions facility in Colleferro, Italy experienced a large explosion this morning. The facility manufactures solid rocket fuels in addition to ammo. First responders are now battling the fire that came from the initial explosion.\nThe building is owned by KNDS Ammo Italy. The town surrounding the facility is home to approximately 20,000 residents\nAll the workers were evacuated and no injuries are reported.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-13T15:46:30+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
       ],
       "verified_source_count": 1
     },
