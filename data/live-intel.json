@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T12:34:57.746584+00:00",
+  "generated_at": "2026-08-13T14:09:43.752516+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -853,6 +853,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\u2721\ufe0f Zionist settlers escalate West Bank invasions and block civilian homes\nOne of the videos circulating online shows a group of Israelis in the settlement of Khirbet Samra.\nAnother reveals that settlers blockaded three Palestinian families in the village of Qusra, also in the West Bank \u2014 they completely cut off water and electricity to the homes.\nThe families under siege say that Israeli police are refusing to intervene, while also not allowing medics to reach the scene.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-13T13:37:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
