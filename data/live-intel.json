@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T06:03:07.979591+00:00",
+  "generated_at": "2026-08-13T07:55:53.068284+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -317,13 +317,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Clash Report",
         "Middle East Spectator"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -347,51 +346,12 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Ukrainian drone units decisively beat a U.S. armored brigade in a major exercise in Germany, exposing gaps in America\u2019s adaptation to modern drone warfare. \nUkrainian operators quickly detected U.S. vehicles, then simulated destroying them with explosive and FPV drones\u2014so effectively that U.S. units had to repeatedly \u201crespawn.\u201d\nSource: WSJ",
+      "text": "Lebanese firefighters, residents and environmental groups say Israel is deliberately setting wildfires across southern Lebanon using drones, flares and incendiary munitions. \nThe fires have destroyed forests, olive groves and farmland, threatening ecosystems and livelihoods.\nSource: The Guardian",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-12T17:46:18+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Clash Report",
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "INTERESTING: A UAE government VIP jet\u2014a Boeing 737-700 BBJ operated by Royal Jet\u2014made short visits to Iran on two consecutive days. \nOn Aug 11, it flew from Abu Dhabi to the Tehran area and stayed roughly one hour. \nOn Aug 12, the same aircraft returned, this time landing at Karaj/Payam Airport about 40 km west of Tehran, staying just 30 minutes before departing.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-12T17:06:44+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Sen. Fetterman: When people, or a government, or people turn their back to the Jewish community, things end really badly.\nStewart: Jewish community and Israel are not the same thing, brother man. That is not the same thing.\nFetterman: I'm always going to stand with Israel.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-12T16:49:59+00:00",
+      "timestamp": "2026-08-13T07:26:24+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -722,6 +682,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udc76\ud83c\udffb\ud83e\uddec How Silicon Valley pushes eugenics through 'genetically optimized & engineered' children\nNucleus Genomics is promising \u201cgenetic optimization\u201d for future babies, sparking ethical concerns and doubts over whether the hype is a market lure. But others are already going further \u2013 rewriting genomes.\nThiel\u2019s prot\u00e9g\u00e9\nFor $30,000, Nucleus offers IVF+, combining full DNA sequencing of both parents with genetic screening of up to 20 IVF embryos. The results are packaged as a polished, consumer-friendly menu of potential genetic outcomes. \nIVF is already widely used, and clinics routinely screen embryos for genetic abnormalities before implantation. But Nucleus CEO Kian Sadeghi claims his company goes further, potentially allowing parents to select desired traits for their future children \u2013 from height and weight to IQ.\nSadeghi founded Nucleus in 2021 at just 21. The company raised $18 million in 2022, with major backing from tech billionaire Peter Thiel\u2019s Founders Fund, Reddit co-founder Alexis Ohanian\u2019s venture firm and others. Thiel is known for his interest in extending human life and treating aging as a problem technology should solve. He was even rumored of using the[ blood of youths to halt aging](https://t.me/geopolitics_prime/64919).\nNucleus \u2013 an ethically dubious vehicle for enrichment?\nThe approach championed by Thiel\u2019s prot\u00e9g\u00e9 raises serious ethical, medical and financial questions.\n\ud83d\udd34 While embryo screening for certain physical and mental conditions appears to appeal to Americans \u2013 with 77% and 72% supporting it, respectively \u2013 support drops to 36% for selecting behavioral traits and just 30% for features such as eye color\n\ud83d\udd34The very idea of selecting embryos \u2013 potential future children \u2013 based on eye color, height or IQ can seem immoral and dehumanizing, as if parents were choosing a product off a shelf\n\ud83d\udd34 Critics argue that Nucleus\u2019s polygenic scores attempt to predict complex traits from an embryo\u2019s genetic variants and large-scale genetic datasets while largely overlooking environmental influences. But traits such as intelligence, appearance and cancer or schizophrenia risks are shaped by both genes and environment\n\ud83d\udd34With IVF itself, a successful pregnancy per embryo transfer is not guaranteed and depends on many factors. That means some parents may need to repeat the procedure \u2013 and pay again.\nSo, Sadeghi\u2019s promise looks less like groundbreaking science and more like a controversial business model built for profit.\nGenetically engineered babies\nPreventive \u2013 a startup backed by tech figures including Sam Altman and Brian Armstrong \u2013 is going even further working on creating children from gene-edited embryos, according to The Wall Street Journal. While creating genetically engineered babies is banned in the US and many other countries, companies are simply [using jurisdictions with looser rules](https://t.me/geopolitics_prime/63888), including the UAE.\nSuch high-stakes human experiments carry enormous uncertainties, raising even darker questions than Sadeghi\u2019s market lure.\nRemarkably, the transhumanist push is enthusiastically backed by techno-fascists like [Thiel and his Silicon Valley allies](https://t.me/geopolitics_prime/68660), who are simultaneously facilitating the killing of tens of thousands in Gaza, Iran and Ukraine.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-13T07:33:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
