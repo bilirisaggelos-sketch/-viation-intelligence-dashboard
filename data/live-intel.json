@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T18:39:53.732066+00:00",
+  "generated_at": "2026-08-13T19:46:33.995261+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -346,6 +346,25 @@
     {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
+      "text": "\u2014 \ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea NEW: Saudi-backed forces are trying to shoot down Yemeni drones in Marib",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-13T19:34:48+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
       "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf7 NEW: A new type of ballistic missile or air defense projectile was tested in Kerman",
       "source": "Telegram",
       "source_type": "telegram",
@@ -393,14 +412,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
         "Alsaa Plus EN",
-        "Clash Report",
         "Middle East Spectator"
       ],
-      "verified_source_count": 3
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -500,6 +518,25 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
+      "text": "Covert CIA Black Op Was Behind Drone Strikes on Ecuadorian Fishing Boats\nA classified CIA operation was responsible for a series of lethal drone strikes targeting Ecuadorian fishing vessels near the Gal\u00e1pagos Islands.\n[READ MORE](https://clashreport.com/world/articles/covert-cia-black-op-was-behind-drone-strikes-on-ecuadorian-fishing-boats-9xj8dreigh4)",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-13T19:42:15+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
       "text": "WATCH: Russian air defence missile launched over the Black Sea and slamming straight into the water.\nUkrainian drones recently destroyed an S-400 and EW systems in the same area.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -525,46 +562,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-13T16:58:36+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "BIG: The U.S. has lost at least 45 MQ-9 Reaper drones\u2014about 25% of its fleet\u2014during the Iran war, with losses costing more than $1.3 billion. \nSource: WaPo",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-13T15:58:53+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Clash Report",
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 3
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Ukraine's Drones Outclassed American Armored Brigade in Exercise\nUkrainian drone operators easily defeated a US armored brigade during a recent military exercise in Germany, exposing significant American vulnerabilities to front-line uncrewed systems.\n[READ MORE](https://clashreport.com/world/articles/ukraines-drones-outclassed-american-armored-brigade-in-exercise-647elsskws)",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-13T15:48:27+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -720,14 +717,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
         "Alsaa Plus EN",
-        "Clash Report",
         "Middle East Spectator"
       ],
-      "verified_source_count": 3
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -1042,25 +1038,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-13T04:38:06+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udcb0 US taxpayers funded a $533 million shell factory. It produced zero usable shells\nA US Army-funded artillery plant near Dallas, built to churn out 155mm shells for Ukraine, never produced a single usable shell, ProPublica reported.\nThe factory was supposed to be a symbol of the US military-industrial ramp-up.\nInstead, workers described robots catching fire, machines smashing into equipment, steel shells cracking beyond repair, and giant presses needing to be beaten with a sledgehammer just to function.\n\ud83d\udcac \u201cIt was just a bunch of guys taking turns going at the machine with a sledgehammer every night,\u201d one former employee said.\nThe project was rushed through under loosened Ukraine-related contracting rules, with the Army handing General Dynamics lucrative no-bid awards and betting on little-proven Turkish machinery that failed spectacularly.\nThe US Army halted work on two of the plant\u2019s three production lines in 2025 after General Dynamics blew multiple deadlines.\n\ud83d\udcc8 Cost to taxpayers: $533 million.\n\ud83d\udca5 Usable shells produced: zero.\n\ud83d\udca5 Money returned by General Dynamics: zero.\n\ud83d\udcc8 And after all that, the company was still awarded billions in new contracts.\nNow Secretary of War Pete Hegseth wants a $1.5 trillion military budget \u2014 more cash for missiles and interceptors after the US burned through stockpiles in its war against Iran.\nThe US cannot make one usable shell at a $533 million factory.\nNaturally, it now wants $1.5 trillion more.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-13T01:23:13+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
