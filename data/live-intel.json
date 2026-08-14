@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T11:22:08.923858+00:00",
+  "generated_at": "2026-08-14T12:11:38.687102+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -537,6 +537,103 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
+      "text": "Lockheed Martin completed the first live-fire test of its Kodiak containerized launcher. \nThe system fits up to 12 GMLRS rockets in a standard shipping container, compatible with the full MLRS family including ATACMS and PrSM. \nDeployable by air, land, or sea, it's designed to disperse precision fires with a low-signature, hard-to-detect profile.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-14T12:09:56+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Israeli Finance Minister Bezalel Smotrich:\nThe prolonged war has created a new security reality. We have more territory to defend.\nWe will remain in the security zone in Gaza, in the security zone in Lebanon, and in the security zone in Syria. \nWe have no intention of withdrawing from there, despite what, unfortunately, they say on the left. And this reality will remain.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-14T12:04:57+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "The U.S. is pressing Benjamin Netanyahu to publicly condemn a nearly week-long settler siege of Palestinian homes in Qusra, West Bank. \nFifteen Palestinians, including two children, have been trapped without water or electricity. \nIsraeli soldiers later removed a settler tent, but residents say \"settlers\" remain in the area.\nSource: Reuters",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-14T11:56:24+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "NEW: Iran says it shot down a U.S. MQ-9 drone over Hormozgan using an IRGC air-defense system.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-14T11:43:10+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Clash Report",
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 3
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Poland is considering sending another batch of Patriot missiles to Ukraine, saying transferring just two or three missiles would not weaken Poland\u2019s air defences. \nDeputy Defence Minister Cezary Tomczyk argues that intercepting Russian missiles over Ukraine could actually improve Poland\u2019s security, especially after a recent Russian missile entered Polish territory. \nPoland previously transferred five Patriot missiles and is expected to decide on another transfer within days.\nSource: Pravda Ukraine",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-14T11:40:18+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
       "text": "Latvia reported an airspace threat after a UAV entered its airspace. \nFighter jets shot down the drone.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -709,6 +806,46 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf1\u274c\ud83c\uddf1\ud83c\udde7 \u2014 Israeli drone dropped explosive materials on the Ali Al-Taher hill, southern Lebanon.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-14T11:47:53+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf7\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8Destruction of an MQ-9 Drone in the Skies of Hormozgan\n An MQ-9 drone was intercepted and destroyed in the skies of Hormozgan province by the IRGC's advanced modern defense system, operating under the control of the country's integrated air defense network.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-14T11:28:55+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Clash Report",
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 3
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
       "text": "\ud83c\uddee\ud83c\uddf7\u274c\ud83c\udf1e \u2014 Drone attack using Shahed-136 UAVs targeting Iranian Kurdish opposition parties in Erbil Governorate, northern Iraq.\n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
@@ -805,25 +942,6 @@
     {
       "title": "Telegram",
       "publisher": "Mediterranean Man",
-      "text": "\u26a1\ufe0f\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8 From the Executive Office of the President of the United States, a new memorandum for the Department of War / Defense to create a new U.S Navy Shipyard && additional things.\nHere\u2019s the \u2018things\u2019:\n\u2022 Redesigning the Ford-class Supercarrier following USS Ford, USS JFK, & USS Enterprise to go BACK to CATOBAR / Steam Catapults for the fourth carrier. The Presidency cites that this is due to the Electromagnetic Aircraft Launch System, or EMALS being a big \u201chold up\u201d for these 3 first Ford carriers (its not been the \u2018primary\u2019 hold up, but definitely apart of the top 10 bigger \u2018hold ups\u2019 BECAUSE its all new tech). \n\u2022 The Trump administration will pursue a \u2018Finland style\u2019 or \u2018Finland model\u2019 allowing selected foreign shipyards to participate in building modules of certain classes of \u2018matured\u2019 U.S ships (I.E the Arleigh Burke destroyer).\n\u2022 NAVSEA will be overhauled and reformed following the catastrophe of the Constellation-class Guided Missile-launching Frigate to prevent a situation like so from happening again.\n\u2022 Executive Office also issued a demand for 3 new classes of surface vessels, one for Anti-Ship (Surface combat), one for Anti-Submarine (ASW), and the third & last being for \u2018maritime convoy escort & support\u2019.\n\u2022 A new U.S Navy built & operated shipyard with expanded capability to maintain and/or build both nuclear powered submarines & aircraft carriers. This would be the 5th US Navy ran yard in current operations.\nAll the above are to have preliminary reports on the desk of the Secretary of War / Defense within 60 days, with an explicit note that NO program will be funded if this deadline passes with nothing to yield.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-14T05:33:54+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
       "text": "\u26a1\ud83c\uddee\ud83c\uddf6 Moments of a drone hitting target directly into a hotel in Erbil, smoke is rising.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -840,6 +958,25 @@
         "Mediterranean Man"
       ],
       "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ud83c\uddee\ud83c\uddf6 Majority of the drones were indeed intercepted, this disproves the rumors of the US pulling out it's air defense capabilities from erbil.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-13T23:35:25+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -1032,6 +1169,27 @@
         "CASELS"
       ],
       "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udea8\ud83c\uddee\ud83c\uddf7Another MQ-9 meets Iran\u2019s air defenses over Hormozgan\nIran says a new IRGC air defense system, operating within the country\u2019s integrated air defense network, intercepted and destroyed an MQ-9 drone over Hormozgan province.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-14T11:45:51+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Clash Report",
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 3
     },
     {
       "title": "Telegram",
