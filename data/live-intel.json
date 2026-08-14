@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T13:47:20.252160+00:00",
+  "generated_at": "2026-08-14T14:58:28.122340+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -393,13 +393,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Clash Report",
         "Middle East Spectator"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -509,12 +508,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
+        "Alsaa Plus EN",
         "Middle East Spectator"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -582,102 +582,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-14T12:18:49+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Lockheed Martin completed the first live-fire test of its Kodiak containerized launcher. \nThe system fits up to 12 GMLRS rockets in a standard shipping container, compatible with the full MLRS family including ATACMS and PrSM. \nDeployable by air, land, or sea, it's designed to disperse precision fires with a low-signature, hard-to-detect profile.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-14T12:09:56+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Israeli Finance Minister Bezalel Smotrich:\nThe prolonged war has created a new security reality. We have more territory to defend.\nWe will remain in the security zone in Gaza, in the security zone in Lebanon, and in the security zone in Syria. \nWe have no intention of withdrawing from there, despite what, unfortunately, they say on the left. And this reality will remain.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-14T12:04:57+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "The U.S. is pressing Benjamin Netanyahu to publicly condemn a nearly week-long settler siege of Palestinian homes in Qusra, West Bank. \nFifteen Palestinians, including two children, have been trapped without water or electricity. \nIsraeli soldiers later removed a settler tent, but residents say \"settlers\" remain in the area.\nSource: Reuters",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-14T11:56:24+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "NEW: Iran says it shot down a U.S. MQ-9 drone over Hormozgan using an IRGC air-defense system.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-14T11:43:10+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Clash Report",
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Poland is considering sending another batch of Patriot missiles to Ukraine, saying transferring just two or three missiles would not weaken Poland\u2019s air defences. \nDeputy Defence Minister Cezary Tomczyk argues that intercepting Russian missiles over Ukraine could actually improve Poland\u2019s security, especially after a recent Russian missile entered Polish territory. \nPoland previously transferred five Patriot missiles and is expected to decide on another transfer within days.\nSource: Pravda Ukraine",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-14T11:40:18+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -929,31 +833,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "Alsaa Plus EN"
+        "Alsaa Plus EN",
+        "Middle East Spectator"
       ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddf5\ud83c\uddf8\ud83d\udfe2Hamas in official statement appreciates Iran's call to end wars in Gaza and Lebanon, stating that stopping the fighting serves the region's interest, while continuing it only benefits Israel's goal of destabilizing the region:\nThe Islamic Resistance Movement Hamas highly appreciates the statements of Mr. Mohsen Rezaei, Secretary of Iran's Supreme National Security Council, regarding the necessity of ending the war across the entire region, including Lebanon and Gaza.\nEnding these wars is a supreme interest for the region, its peoples, and its future, while their continuation serves only the schemes of the Zionist enemy, which are based on dismantling the region, destabilizing it, and draining its resources.\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-13T11:18:25+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
