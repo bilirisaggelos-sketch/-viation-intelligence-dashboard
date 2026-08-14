@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T07:45:33.319479+00:00",
+  "generated_at": "2026-08-14T09:13:29.691759+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -339,7 +339,7 @@
       "verification_status": "PARTIALLY VERIFIED",
       "verification_confidence": 65,
       "verified_sources": [
-        "CASELS",
+        "Alsaa Plus EN",
         "Middle East Spectator"
       ],
       "verified_source_count": 2
@@ -432,13 +432,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
         "Middle East Spectator"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -723,7 +722,7 @@
       "verification_confidence": 65,
       "verified_sources": [
         "Alsaa Plus EN",
-        "Geopolitics Prime"
+        "Middle East Spectator"
       ],
       "verified_source_count": 2
     },
@@ -758,13 +757,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
-        "Middle East Spectator"
+        "Alsaa Plus EN"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -838,7 +836,7 @@
       "verification_status": "PARTIALLY VERIFIED",
       "verification_confidence": 65,
       "verified_sources": [
-        "Geopolitics Prime",
+        "CASELS",
         "Mediterranean Man"
       ],
       "verified_source_count": 2
@@ -932,12 +930,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "CASELS"
+        "CASELS",
+        "Mediterranean Man"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -951,13 +950,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "CASELS",
-        "Middle East Spectator"
+        "CASELS"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -1057,6 +1055,25 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddee\ud83c\uddf7\ud83d\ude80 Iranian swift missile recovery leaves Israeli leadership in shock\nIsraeli military and intelligence officials have been caught off guard by the speed at which Iran has restored its military capabilities following the 2026 war, according to the Jerusalem Post.\nDuring the 40-day war in 2026, the US and Israel launched more than 30,000 strikes against approximately 2,600 military and industrial targets, vastly exceeding previous campaigns in both scale and intensity. Yet despite the scale of the damage, Israeli defense officials have privately acknowledged that Iran has managed to rebuild faster than anticipated.\n\ud83d\udd34 Iran used bulldozers to clear access to underground missile facilities that had been sealed off but not destroyed. This allowed it to regain access to stored munitions and arsenals\n\ud83d\udd34 More critically, Iranian officials have confirmed that new production is now resuming at a far greater speed than analysts had projected, almost returning to its previous pace\n\ud83d\udd34 If Iran can sustain a production rate of 100 to 300 missiles per month, it could restore its arsenal levels by mid-2027\nDespite IDF assurances that the situation remains under control, Israeli leadership is beginning to sense a strategic deadlock amid growing disagreements with the US, which has shown little appetite for further escalation.\nTrump's administration's \"peace rhetoric\" is driven by a stark contrast with Iran: while Iran is surging production, US stockpiles are being depleted at an alarming rate.\n\u27a1\ufe0f Nearly half of the US Tomahawk cruise missile inventory has been expended\n\u27a1\ufe0f Patriot interceptor stocks have dropped from roughly 2,200 before the war to between 759 and 827, while THAAD interceptors have fallen from 452 to fewer than 278\n\u27a1\ufe0f Gulf allies have also warned that missile interceptor shortages could weaken their capacity to intercept Iranian missiles if they come under retaliatory fire following further American strikes\n\u27a1\ufe0f US Army leadership, including Chairman of the Joint Chiefs General Dan Caine, is raising alarms and pressing Trump to withdraw from the conflict\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-14T08:08:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
       "text": "\ud83c\uddfa\ud83c\uddf8How CIA wages shadow war of terror in the Pacific\nWhile the Trump administration has been touting its [maritime strikes ](https://t.me/geopolitics_prime/68591)on boats in the Caribbean and eastern Pacific as \u201ccounternarcotics,\u201d while providing zero evidence, an even darker CIA program is terrorizing innocent fishermen in the Pacific, The Washington Post reports.\nMysterious attacks on Ecuadorian fishing boats near the Galapagos Islands were reportedly carried out as part of this covert program. \nThe strikes, which have killed at least eight crew members and left survivors traumatized, remain unclaimed by any government.\nEight crewmen from the Fiorella vessel vanished in January. \nTwo other boast were struck in March: the Negra Francisca Duarte II (attacked in inside Ecuador's exclusive economic zone), and The Don Maca.\nThe key facts don\u2019t fit the official \u201cdrug war\u201d narrative:\n\ud83d\udd34A Cessna Citation Longitude jet (callsign FENIX 701) equipped with surveillance technology repeatedly flew from El Salvador's Ilopango Airport - the same airport used in the 1980s Iran-Contra operations - toward the boats in the days before and on the days of the attacks\n\ud83d\udd34 The plane carries specialized belly radome gear; its US registration number is untraceable; the FAA listing leads to a UPS mailbox in Virginia\n\ud83d\udd34 Survivors say they were fishing, not smuggling, and no public evidence has linked any of the crews to cocaine\n\ud83d\udd34 After the drones struck, English-speaking men in khaki uniforms with long rifles boarded them, hooded and cuffed the fishermen, and delivered them to El Salvador\n\ud83d\udd34 Days later the survivors were quietly returned to Ecuador with no explanation\n\ud83d\udd34 Salvadoran navy vessels were allegedly pre-positioned - called by \u201cthe Americans\u201d before the attacks even happened\nThis is not the Pentagon\u2019s[ open campaign ](https://t.me/geopolitics_prime/72826)that has already killed more than 220 people with missiles and AC-130s. \nThis is classic CIA covert action echoing a familiar pattern.\nAfter Trump\u2019s regime-change ambitions in the region granted the CIA new authorities to counter alleged narcotics trafficking, the agency has surged resources to Latin America. \nIn Venezuela, CIA operatives helped locate and [abduct its legitimate President Maduro. ](https://t.me/geopolitics_prime/62567)\nWith Trump expanding the definition of \u201cterrorist,\u201d the agency is granted lethal authority to operate in the shadows in a pseudo-war on drugs without evidence or accountability.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
@@ -1104,13 +1121,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Geopolitics Prime",
-        "Mediterranean Man"
+        "Geopolitics Prime"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -1124,13 +1140,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
         "Geopolitics Prime"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
