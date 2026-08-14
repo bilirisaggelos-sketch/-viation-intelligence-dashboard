@@ -1,25 +1,6 @@
 {
-  "generated_at": "2026-08-14T04:25:36.034801+00:00",
+  "generated_at": "2026-08-14T05:59:17.004046+00:00",
   "events": [
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nDyersville, IA\nFacility: ZAU",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "08/13/2026",
-      "location": "ZAU IA",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nMorristown, NJ, Sunday, August 16, 2026 through Sunday, August 16, 2026 Local\nFacility: ZNY",
@@ -358,7 +339,7 @@
       "verification_status": "PARTIALLY VERIFIED",
       "verification_confidence": 65,
       "verified_sources": [
-        "CASELS",
+        "Alsaa Plus EN",
         "Middle East Spectator"
       ],
       "verified_source_count": 2
@@ -722,7 +703,7 @@
       "verification_confidence": 65,
       "verified_sources": [
         "Alsaa Plus EN",
-        "Geopolitics Prime"
+        "Middle East Spectator"
       ],
       "verified_source_count": 2
     },
@@ -787,12 +768,12 @@
     {
       "title": "Telegram",
       "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddee\ud83c\uddf6 Moments of a drone hitting target directly into a hotel in Erbil, smoke is rising.",
+      "text": "\u26a1\ufe0f\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8 From the Executive Office of the President of the United States, a new memorandum for the Department of War / Defense to create a new U.S Navy Shipyard && additional things.\nHere\u2019s the \u2018things\u2019:\n\u2022 Redesigning the Ford-class Supercarrier following USS Ford, USS JFK, & USS Enterprise to go BACK to CATOBAR / Steam Catapults for the fourth carrier. The Presidency cites that this is due to the Electromagnetic Aircraft Launch System, or EMALS being a big \u201chold up\u201d for these 3 first Ford carriers (its not been the \u2018primary\u2019 hold up, but definitely apart of the top 10 bigger \u2018hold ups\u2019 BECAUSE its all new tech). \n\u2022 The Trump administration will pursue a \u2018Finland style\u2019 or \u2018Finland model\u2019 allowing selected foreign shipyards to participate in building modules of certain classes of \u2018matured\u2019 U.S ships (I.E the Arleigh Burke destroyer).\n\u2022 NAVSEA will be overhauled and reformed following the catastrophe of the Constellation-class Guided Missile-launching Frigate to prevent a situation like so from happening again.\n\u2022 Executive Office also issued a demand for 3 new classes of surface vessels, one for Anti-Ship (Surface combat), one for Anti-Submarine (ASW), and the third & last being for \u2018maritime convoy escort & support\u2019.\n\u2022 A new U.S Navy built & operated shipyard with expanded capability to maintain and/or build both nuclear powered submarines & aircraft carriers. This would be the 5th US Navy ran yard in current operations.\nAll the above are to have preliminary reports on the desk of the Secretary of War / Defense within 60 days, with an explicit note that NO program will be funded if this deadline passes with nothing to yield.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-13T23:48:48+00:00",
+      "timestamp": "2026-08-14T05:33:54+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -802,6 +783,26 @@
         "Mediterranean Man"
       ],
       "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ud83c\uddee\ud83c\uddf6 Moments of a drone hitting target directly into a hotel in Erbil, smoke is rising.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-13T23:48:48+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Geopolitics Prime",
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -812,44 +813,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-13T23:35:25+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddee\ud83c\uddf6 Once again, explosions were heard near Erbil airport and the Habbur base, which is controlled by the U.S. military, in northern Iraq.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-13T23:21:12+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddee\ud83c\uddf6 An explosion in Erbil, coinciding with the sound of drones flying overhead.\nThe explosions continue.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-13T23:19:54+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -948,13 +911,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "CASELS",
-        "Middle East Spectator"
+        "CASELS"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -1053,25 +1015,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "WATCH: Ukraine's 208th Anti-Aircraft Missile Brigade fires US-made MIM-23 Hawk surface-to-air missiles at Russian Geran-4 jet-powered attack drones. Footage dated August 12, 2026.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-14T03:24:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Geopolitics Prime",
       "text": "Lockheed Martin blurs the line between civilian and military, turning 5G into future battlespace\nThe Pentagon military contractor has demonstrated an AI-powered drone-tracking system that uses existing commercial telecommunications infrastructure instead of a separate detection network.\nWhat's known about the system?\n\ud83d\udd34 Lockheed Martin's NetSense Airspace Awareness-as-a-Service platform uses the existing 5G network to detect changes in radio signals caused by drones. AI then analyzes those changes to spot, identify, track and predict the movement of unmanned aerial vehicles\n\ud83d\udd34 The key advantage is scale: because 5G infrastructure already exists across cities, the system could potentially monitor large areas without building a separate network of sensors\n\ud83d\udd34 Lockheed Martin says the tool could be used to secure critical civilian infrastructure, including power plants, schools, hospitals and airports. Astris AI, a Lockheed Martin subsidiary, will offer NetSense via a subscription-based model, with pilot deployments planned for late 2026 and early 2027.\n\ud83e\udd14 What could go wrong?\n\ud83c\udf0f While the platform\u2019s advocates point to the growing threat posed by unauthorized drones, critics are increasingly concerned about military contractor Lockheed Martin becoming more deeply embedded in civilian life and using civilian infrastructure for military and intelligence purposes. Bringing military-grade tracking technology into neighborhoods, schools and hospitals raises concerns about the \u201cmilitarization\u201d of everyday life\n\ud83c\udf0f NetSense continuously monitors changes in radio signals across urban areas, raising concerns that its \u201calways-on\u201d sensing could potentially be used to track not only drones in the air, but also vehicles on the ground \u2014 and, depending on how the system is deployed, potentially people without their knowledge\n\ud83c\udf0f Lockheed Martin\u2019s drone-tracking system is not immune to errors or hacking, with false alarms and public panic among the least serious potential consequences\n\ud83c\udf0f By integrating sensitive security data into commercial cellular networks, NetSense could effectively turn civilian telecom infrastructure into a target \u2014 and potentially a new digital battleground for attackers. In other words, the more security functions are layered onto civilian networks, the greater the potential consequences if those networks are compromised.\nMore importantly, NetSense is part of Lockheed Martin\u2019s broader 5G MIL program, which integrates commercial 5G with military networks through tactical gateways and open architecture. The goal? \u201cBattlespace dominance,\u201d according to the program\u2019s own website.\n\ud83d\udcd1 Main pillars of 5G MIL program:\n\u27a1\ufe0f Network cohesion: \"In the 21st Century battlespace, dominance will be determined by the\u00a0ability to bring together high-tech platforms into one cohesive network that spans every domain \u2013 air,\u00a0land, sea, space and cyber\"\n\u27a1\ufe0f Resilient communications: Combines military and commercial 5G infrastructure to maintain communications in contested environments\n\u27a1\ufe0f Existing networks: Integrates legacy tactical networks through distributed gateways, reducing single points of failure\n\u27a1\ufe0f Combating threats: AI, edge computing and 5G MIL connectivity allow to connect all\u00a0assets seamlessly \"in the joint battlespace for unparalleled situational awareness to enable\u00a0decisive action\".\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
@@ -1101,12 +1044,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "Geopolitics Prime"
+        "Geopolitics Prime",
+        "Mediterranean Man"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -1120,26 +1064,6 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udd25 New Iranian LEGO-style clip roasts Trump\u2019s empty missile shelves\nThe clip ends with a message for Demented Don:\n\ud83d\udcac \u201cYou shouldn't have trusted Hegseth, LOSER! :)\u201d\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-13T23:53:52+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
@@ -1150,12 +1074,12 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddf5\ud83c\uddf8\ud83c\udfa4 US non-profit bankrolled pro-Israel smear machine helping mark Palestinian journalists for death\nIn November 2023, the US nonprofit Knight Foundation funneled $100,000 to Honest Reporting - one of the most controversial pro-Zionist pressure groups operating today, reports Drop Site News.\nThe Foundation acknowledged that the money was earmarked for Media Central, an Honest Reporting program.\nThe recipient of that generous grant:\n\u2666\ufe0f monitors global media coverage of Israel\n\u2666\ufe0f produces reports to attack unfavorable narratives\n\u2666\ufe0f embeds journalists in curated pro-Israel access\nThe result has been the dismissal of journalists worldwide. But since October 7, 2023, its tactics have grown markedly more dangerous. \nThe group has systematically targeted Palestinian journalists by publishing material that questions their alleged ties to Hamas or other armed groups \u2013 leading a campaign of character assassination that has directly enabled the targeted killing of Palestinian reporters.\nOne of the most consequential cases involves Hassan Eslaiah, a freelance photographer and director of the Gaza-based Alam24 agency.\n\ud83d\udd34 On November 8, 2023, Honest Reporting published photographs of Palestinian journalists covering events near the Gaza border on October 7, including Hassan Eslaiah \n\ud83d\udd34 The article questioned whether these journalists could have had \u201cadvance knowledge\u201d of the Hamas attack\n\ud83d\udd34 It also featured a 2020 photograph of Eslaiah standing next to then-Hamas leader Yahya Sinwar \n\ud83d\udd34 Israel's official X account amplified the post \n\ud83d\udd34 On April 7, 2025, an Israeli airstrike struck a media tent outside Nasser Hospital in Khan Younis; Eslaiah was among the wounded\n\ud83d\udd34 On May 13, 2025, an Israeli drone bombed the surgical wing Eslaiah was recovering in and murdered him\n\ud83d\udd34 The Israeli military publicly announced it had deliberately targeted Eslaiah, posting a screenshot of him from October 7, 2023 - the very image Honest Reporting had featured \nSince the start of the genocide in Gaza, Honest Reporting has led a pressure campaign against the Committee to Protect Journalists, which maintains the most widely cited casualty list of media workers killed in Gaza.\nIt has pressured other press freedom bodies such as Reporters Without Borders and the International Federation of Journalists.\n\ud83d\udc49 Honest Reporting\u2019s leadership boast figures with long AIPAC tenures, and several staff members have served in the Israeli military. \nThe group maintains links to aggressive online blacklisting operations such as Canary Mission - the pro-Israel doxxing site that publishes dossiers on students, academics, and activists it accuses of anti-Semitism or support for Palestinian rights.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83d\udd25 New Iranian LEGO-style clip roasts Trump\u2019s empty missile shelves\nThe clip ends with a message for Demented Don:\n\ud83d\udcac \u201cYou shouldn't have trusted Hegseth, LOSER! :)\u201d\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-13T18:05:34+00:00",
+      "timestamp": "2026-08-13T23:53:52+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
