@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T20:05:00.870920+00:00",
+  "generated_at": "2026-08-14T20:47:42.132017+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -537,25 +537,6 @@
         "Middle East Spectator"
       ],
       "verified_source_count": 3
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Meme war: Russia's Defense Ministry posted a meme showing Shahed drones with the caption \"Like snow on your head\" and a threat of a winter \"freeze\" on Ukrainian energy infrastructure. \nUkraine's StratCom fired back within hours with an image of a burning Russian oil refinery captioned \"We'll warm ourselves with the fire of Russian refineries.\"",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-14T17:03:23+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
     },
     {
       "title": "Telegram",
