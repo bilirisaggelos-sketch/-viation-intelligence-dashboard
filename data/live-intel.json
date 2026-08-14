@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T16:00:12.268419+00:00",
+  "generated_at": "2026-08-14T17:05:31.511794+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -144,25 +144,6 @@
       "icon": "\ud83d\udea8",
       "timestamp": "08/11/2026",
       "location": "ZNY NJ",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nMacon, GA, Thursday, August 13, 2026 through Saturday, August 15, 2026 Local\nFacility: ZTL",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "08/11/2026",
-      "location": "ZTL GA",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
@@ -403,12 +384,12 @@
     {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7 NEW: Iranian air defenses shot down an American MQ-9 \u2018Reaper\u2019 drone near Hormozgan Province, Iran\u2019s southern coast",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea NEW: The fire is still rising at Mokha Port, after 4 ballistic missiles struck it",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-14T13:30:59+00:00",
+      "timestamp": "2026-08-14T16:53:19+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -418,6 +399,64 @@
         "Middle East Spectator"
       ],
       "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea BREAKING: Dozens of Saudi-backed mercenaries were killed in the missile attack",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-14T16:33:20+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014 \ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf1/\ud83c\uddee\ud83c\uddf7 NEW: Captured American and Israeli drones are showcased in one of the underground bases of the IRGC Aerospace Force\nIranian engineers have already begun to reverse engineer the equipment, especially the advanced optics and surveillance parts.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-14T16:25:46+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7 NEW: Iranian air defenses shot down an American MQ-9 \u2018Reaper\u2019 drone near Hormozgan Province, Iran\u2019s southern coast",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-14T13:30:59+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Clash Report",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -479,89 +518,13 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf7 NEW: A new type of ballistic missile or air defense projectile was tested in Kerman",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-13T17:45:27+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddfe\ud83c\uddea \u2014 Damage is visible at Mokha Port in western Yemen following recent Houthi (Ansarallah) missile and drone strikes. \nAt least one hangar or warehouse at the Yemeni government-controlled base appears to have been completely destroyed, while a separate burn scar is visible within the commercial port.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-13T17:09:06+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7 NEW: The U.S. has lost 25% of all its MQ-9 \u2018Reaper\u2019 drones in the war with Iran",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-13T16:07:08+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea BREAKING: Yemeni drone attack against Aramco facilities in Jazan, Kingdom of Saudi Arabia",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-13T15:11:36+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Zelensky Says 10 Percent of US Patriot Stockpile Can Destroy All Russian Missiles\nUkrainian president claimed that with 10%, they could destroy all Russian missiles, while with 5%, Ukraine would survive through winter, adding that currently \"I have 1%.\"\n[READ MORE](https://clashreport.com/defense/articles/zelensky-says-10-percent-of-us-patriot-stockpile-can-destroy-all-russian-missiles-l1tgdaoauv)",
+      "text": "Meme war: Russia's Defense Ministry posted a meme showing Shahed drones with the caption \"Like snow on your head\" and a threat of a winter \"freeze\" on Ukrainian energy infrastructure. \nUkraine's StratCom fired back within hours with an image of a burning Russian oil refinery captioned \"We'll warm ourselves with the fire of Russian refineries.\"",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-14T13:27:25+00:00",
+      "timestamp": "2026-08-14T17:03:23+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -575,31 +538,32 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "WATCH: Ukrainian MiG-29 jet chasing a Russian jet-powered Shahed drone at extremely low altitude along Odesa region coastline, ending with a visible explosion and downing.",
+      "text": "Wreckage of US MQ-9 Reaper drone, shot down by Iran over Hormozgan province near the Strait of Hormuz.\nAt least 45 Reapers have been lost in the Iran conflict \u2014 roughly 25% of the fleet, worth over $1.3 billion. \nThis would be the 46th Reaper.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-14T12:24:23+00:00",
+      "timestamp": "2026-08-14T16:57:25+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "Clash Report"
+        "Clash Report",
+        "Middle East Spectator"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "A man in Sinop, T\u00fcrkiye pulls a rusty, missile-shaped cylinder from the Black Sea and casually carried it across the beach. \nIt's a spent first-stage booster from a Russian Pantsir-S1 surface-to-air missile.",
+      "text": "How does a military that spends a trillion dollars a year run out of missiles?",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-14T12:18:49+00:00",
+      "timestamp": "2026-08-14T16:03:59+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -829,25 +793,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-13T19:56:46+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddfa\ud83c\uddf8\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7 The Washington Post, citing three US officials : One-Quarter of US MQ-9 Drones Destroyed in War with Iran.\n\u27a1\ufe0f The US military has lost at least 45 MQ-9 Reaper drones during the war with Iran, equivalent to approximately 25 percent of its fleet of these drones.\n\u27a1\ufe0f The value of each MQ-9, depending on its equipment and armaments, ranges between $30 and $50 million.\n\u27a1\ufe0f These drones were used extensively around the Strait of Hormuz and have been relatively easy targets for Iran and resistance groups.\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-13T16:51:21+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
