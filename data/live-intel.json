@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T02:28:37.612540+00:00",
+  "generated_at": "2026-08-14T04:25:36.034801+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -355,12 +355,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
+        "CASELS",
         "Middle East Spectator"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -795,13 +796,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Geopolitics Prime",
         "Mediterranean Man"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -863,12 +863,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ud83c\udde8\ud83c\uddf4 Colombia military intelligence said the civilian injuries reported after the August 10 bombings in Norte de Santander may have actually been caused by ELN drones used to attack troops, rather than the airstrikes themselves.\nAuthorities reported 1.5 tons of explosives, 440 drone-adapted grenades, five camps, and two bunkers destroyed during the operation, as two ELN members were killed.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "\u26a1\ufe0f\ud83c\uddf5\ud83c\uddf0 Three police personnel were killed and four others, including a passer-by, were injured in two separate attacks in Lahore, according to police. The first incident took place in Badami Bagh, where Sub-Inspector Adeel and Head Constable Asad were killed when suspects opened fire during an intelligence-led raid.\nA second attack occurred at Yateem Khana Chowk, where three suspects allegedly opened fire on a police team deployed to protect the headquarters of a banned religious organisation. Police said four people were injured in the attack, while the suspects fled in a government vehicle taken from the scene.\nPolice said the suspects were affiliated with Tehreek-e-Taliban Pakistan (TTP), while Jamaat-ul-Ahrar claimed responsibility for both attacks. Authorities have intensified the search for those responsible, with teams from the Crime Control Department, Investigation and Operations wings involved in the operation.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-13T05:29:38+00:00",
+      "timestamp": "2026-08-14T03:33:55+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -882,12 +882,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddf9\ud83c\uddf7\ud83c\uddfa\ud83c\udde6\ud83c\uddfa\ud83c\uddf8 [HRW](https://www.hrw.org/news/2026/08/11/turkiye-seeks-to-transfer-us-cluster-munitions-to-ukraine): Turkey has formally requested U.S. permission to transfer 70 M39 ATACMS ballistic missiles, 2,524 M26 rockets, and 47,000 M509A1 203mm artillery. All three types were originally produced under U.S. licenses initiated in 1987. The value of the deal is approximately $256 million. \nThe State Department notified Congress of the proposed transfer on August 6, stating the U.S. government is prepared to authorize it and that Ukraine seeks the weapons to strengthen its fire support capabilities against Russia. The deal also helps Turkey reduce their inventory of older defense articles to invest financial resources on modernization and sustainment of existing systems.\nHuman Rights Watch called on Congress to block the transfer, stating that the transferred weapons include submunitions which can cause substantial unintentional damage to civilians. \n\ud83d\udca7 [Rainbet.com](https://www.rainbet.com/) the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "\u26a1\ufe0f\ud83c\uddf1\ud83c\uddfb\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfa The Latvian Armed Forces say NATO fighter jets shot down an unidentified drone that entered Latvia\u2019s airspace. \n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-13T05:24:23+00:00",
+      "timestamp": "2026-08-14T03:33:21+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -901,12 +901,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfa [Reuters](https://www.reuters.com/world/russias-novorossiysk-grain-terminal-halts-operations-after-ukrainian-drone-2026-08-12/): Russia's Novorossiysk grain terminal has \u200bhalted operations following the substantial damage as a result of last night\u2019s Ukrainian drone strikes. \nRussia is the world\u2019s largest wheat exporter and most of the wheat is exported via the Novorossiysk port. The terminal has 7.1 million metric tons annual export capacity.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7\ud83c\uddee\ud83c\uddf6\ud83c\uddee\ud83c\uddf6Footage of the earlier drone strikes appears to show a possible impact in Erbil, Iraqi Kurdistan, directly after a separate drone had been intercepted. \n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-13T05:23:42+00:00",
+      "timestamp": "2026-08-14T03:33:07+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -920,12 +920,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6 Russia carried out another wave of Geran-2/4 drone strikes across Ukraine, targeting transport, energy and logistics infrastructure.\nReported hits included locomotives, gas and fuel facilities, an oil refinery and warehouses, alongside alleged Ukrainian drone positions and storage sites.\n\ud83d\udca7 [Rainbet.com](https://www.rainbet.com/) the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7\ud83c\uddee\ud83c\uddf6\ud83c\uddee\ud83c\uddf6 Smoke was observed in the center of Erbil, Iraqi Kurdistan, after a drone crashed near the Arjaan Rotana Hotel. \nIt's currently unclear whether or not one of the Iranian drones successfully struck near the hotel or if the smoke is just a result of debris from earlier interceptions crashing near the site.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-13T05:19:44+00:00",
+      "timestamp": "2026-08-14T03:33:02+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -939,12 +939,32 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddf0\ud83c\uddf5\ud83c\uddf0\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8 [Reuters](https://www.reuters.com/world/asia-pacific/north-korea-fires-unidentified-projectile-media-says-2026-08-11/):\u2060 North Korea fired a ballistic missile from the Wonsan area toward the sea off the Korean Peninsula\u2019s east coast. The missile flew around 700 km. \nThe launch came six days after another missile firing from the same area and marks North Korea\u2019s 11th suspected ballistic missile test of 2026. \nThe launch comes days before major U.S.-South Korean military exercises scheduled for August 17\u201327. \n\ud83d\udca7 [Rainbet.com](https://www.rainbet.com/) the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "\u26a1\ufe0f\u2600\ufe0f\ud83c\uddee\ud83c\uddf7\ud83c\uddee\ud83c\uddf6 The explosions heard in Erbil, Iraqi Kurdistan, were from interceptions of Iranian Shaheed-136 drones.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-13T05:15:29+00:00",
+      "timestamp": "2026-08-14T03:32:57+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "CASELS",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "\u26a1\ufe0f\ud83c\udde8\ud83c\uddf4 ELN members launched 43 explosive devices via drones against a military base in Convenci\u00f3n, Norte de Santander department, leaving two soldiers wounded.\nAuthorities are conducting operations in the area to determine the circumstances and those responsible.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-14T03:32:26+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -958,12 +978,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Heavy gunfire and explosions rocked Sevastopol in Russian-occupied Crimea tonight amid a reported Ukrainian drone attack.",
+      "text": "\u26a1\ufe0f\ud83c\uddf8\ud83c\udde9 The Sudanese Armed Forces (SAF) reportedly seized a large quantity of equipment and weapons from Rapid Support Forces (RSF) fighters in the Kordofan region of Sudan. The seized materiel reportedly included containers of Serbian-made projectiles and Kornit missiles.\nThe seizure also included modified and armoured Toyota Land Cruiser vehicles. The operation represents another reported capture of RSF military equipment in the ongoing conflict.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-13T05:13:07+00:00",
+      "timestamp": "2026-08-14T03:32:21+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -977,12 +997,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Widespread outages hit areas south of Zawiya in western Libya after an FPV drone struck and destroyed the South Zawiya 30/11 kV substation, triggering a major fire. The attack, still unclaimed, adds to a recent wave of drone strikes on the region's power and oil sites.",
+      "text": "\u26a1\ufe0f\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6 Footage captures a Russian surface-to-air missile system over the Black Sea near Gelendzhik, followed by a large explosion on the water.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-13T04:43:08+00:00",
+      "timestamp": "2026-08-14T03:30:49+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -990,6 +1010,82 @@
       "verification_confidence": 30,
       "verified_sources": [
         "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1\ud83c\uddf5\ud83c\uddf8 A short while ago, an IDF drone struck a person in Khan Younis, Gaza, killing him.\nAccording to reports, the man killed was a company commander in Hamas.\nUPDATE: The IDF has confirmed that it struck a company commander in Hamas\u2019s military wing in the Khan Younis area earlier today. According to the IDF, the commander had planned attacks against Israeli troops operating in the Gaza Strip and was targeted in an airstrike to eliminate the threat.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-14T03:29:25+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "Jamal Mahmoud Abu Kamil, a Hamas commander who took part in the October 7 massacre, was eliminated in an airstrike in Gaza City earlier today.\nThe operation was carried out by the IDF under Shin Bet direction.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-14T03:26:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "WATCH: Ukraine's 208th Anti-Aircraft Missile Brigade fires US-made MIM-23 Hawk surface-to-air missiles at Russian Geran-4 jet-powered attack drones. Footage dated August 12, 2026.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-14T03:24:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "Lockheed Martin blurs the line between civilian and military, turning 5G into future battlespace\nThe Pentagon military contractor has demonstrated an AI-powered drone-tracking system that uses existing commercial telecommunications infrastructure instead of a separate detection network.\nWhat's known about the system?\n\ud83d\udd34 Lockheed Martin's NetSense Airspace Awareness-as-a-Service platform uses the existing 5G network to detect changes in radio signals caused by drones. AI then analyzes those changes to spot, identify, track and predict the movement of unmanned aerial vehicles\n\ud83d\udd34 The key advantage is scale: because 5G infrastructure already exists across cities, the system could potentially monitor large areas without building a separate network of sensors\n\ud83d\udd34 Lockheed Martin says the tool could be used to secure critical civilian infrastructure, including power plants, schools, hospitals and airports. Astris AI, a Lockheed Martin subsidiary, will offer NetSense via a subscription-based model, with pilot deployments planned for late 2026 and early 2027.\n\ud83e\udd14 What could go wrong?\n\ud83c\udf0f While the platform\u2019s advocates point to the growing threat posed by unauthorized drones, critics are increasingly concerned about military contractor Lockheed Martin becoming more deeply embedded in civilian life and using civilian infrastructure for military and intelligence purposes. Bringing military-grade tracking technology into neighborhoods, schools and hospitals raises concerns about the \u201cmilitarization\u201d of everyday life\n\ud83c\udf0f NetSense continuously monitors changes in radio signals across urban areas, raising concerns that its \u201calways-on\u201d sensing could potentially be used to track not only drones in the air, but also vehicles on the ground \u2014 and, depending on how the system is deployed, potentially people without their knowledge\n\ud83c\udf0f Lockheed Martin\u2019s drone-tracking system is not immune to errors or hacking, with false alarms and public panic among the least serious potential consequences\n\ud83c\udf0f By integrating sensitive security data into commercial cellular networks, NetSense could effectively turn civilian telecom infrastructure into a target \u2014 and potentially a new digital battleground for attackers. In other words, the more security functions are layered onto civilian networks, the greater the potential consequences if those networks are compromised.\nMore importantly, NetSense is part of Lockheed Martin\u2019s broader 5G MIL program, which integrates commercial 5G with military networks through tactical gateways and open architecture. The goal? \u201cBattlespace dominance,\u201d according to the program\u2019s own website.\n\ud83d\udcd1 Main pillars of 5G MIL program:\n\u27a1\ufe0f Network cohesion: \"In the 21st Century battlespace, dominance will be determined by the\u00a0ability to bring together high-tech platforms into one cohesive network that spans every domain \u2013 air,\u00a0land, sea, space and cyber\"\n\u27a1\ufe0f Resilient communications: Combines military and commercial 5G infrastructure to maintain communications in contested environments\n\u27a1\ufe0f Existing networks: Integrates legacy tactical networks through distributed gateways, reducing single points of failure\n\u27a1\ufe0f Combating threats: AI, edge computing and 5G MIL connectivity allow to connect all\u00a0assets seamlessly \"in the joint battlespace for unparalleled situational awareness to enable\u00a0decisive action\".\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-14T03:36:52+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
@@ -1005,13 +1101,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Geopolitics Prime",
-        "Mediterranean Man"
+        "Geopolitics Prime"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
