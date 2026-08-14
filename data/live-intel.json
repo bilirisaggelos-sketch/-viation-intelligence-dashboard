@@ -1,6 +1,25 @@
 {
-  "generated_at": "2026-08-14T14:58:28.122340+00:00",
+  "generated_at": "2026-08-14T16:00:12.268419+00:00",
   "events": [
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nDes Moines, IA, Tuesday, August 18, 2026 through Thursday, August 20, 2026 Local\nFacility: ZMP",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "08/14/2026",
+      "location": "ZMP IA",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nWilliamsport, PA, Tuesday, August 18, 2026 through Tuesday, August 18, 2026 Local\nFacility: ZNY",
@@ -508,13 +527,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
         "Middle East Spectator"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -833,13 +851,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
-        "Middle East Spectator"
+        "Alsaa Plus EN"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -1067,6 +1084,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddee\ud83c\uddf1 Did Israel play the \u201cIran threat\u201d card AGAIN to push Trump toward war?\nThe secret operation to spirit President Donald Trump out of Turkey last month undercover was based on Israeli intelligence that US officials themselves viewed as \"low confidence,\" according to the Wall St. Journal.\n\ud83d\udd34 The information, which suggested Iran might assassinate Trump using a shoulder-launched missile, prompted the Secret Service to move the president from Air Force One to a separate C-32A aircraft using a catering truck\n\ud83d\udd34 But the CIA never found the intelligence compelling, and Turkish officials also told their American counterparts that they had no evidence to support the Israeli claims\nSome US intelligence officials now suspect Israel's warnings were designed less to inform and more to influence Trump's attitude toward escalation with Iran and to worsen relations with Turkey, Israel's longstanding rival.\nThis apparent attempt to pressure the American president fits a broader pattern of Israeli efforts to shape US policy. Israel reportedly signaled last week that it would continue the war against Iran alone if the US withdraws from the conflict \u2013 possibly trying to force Trump to maintain the current course and derail talks with Iran.\nIsrael has a long history of using the Iranian threat as a pretext for its global interests.\n\ud83d\udd36 Netanyahu used a similar scheme in 2012 when he accused Iran of being in the final stages of building a nuclear bomb during his UN speech \u2013 information that was never confirmed\n\ud83d\udd36 Israeli warnings of Iranian assassination plots intensified before the US launched strikes on Iran in February and before the June 2025 war\n\ud83d\udd36 Earlier this year, US intelligence assessed that Iran was not actively building a nuclear weapon, but Israel argued Iran posed an urgent threat \u2013 and Trump moved forward with military action anyway\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-14T15:44:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
