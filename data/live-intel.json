@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T18:08:38.042782+00:00",
+  "generated_at": "2026-08-14T19:16:31.277437+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -384,6 +384,25 @@
     {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
+      "text": "\u2014 \ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7 NEW: Iranian State TV shows evidence, for the first time, that Elon Musk\u2019s \u2018Starlink\u2019 devices are used in American military drones",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-14T18:09:11+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
       "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea NEW: The Yemeni missile strike on Mokha Port earlier destroyed two Saudi logistics ships carrying weapons and equipment",
       "source": "Telegram",
       "source_type": "telegram",
@@ -450,12 +469,14 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
       "verified_sources": [
+        "Clash Report",
+        "Mediterranean Man",
         "Middle East Spectator"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 3
     },
     {
       "title": "Telegram",
@@ -495,6 +516,27 @@
         "Middle East Spectator"
       ],
       "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Yemen\u2019s Houthis say they struck Saudi-backed forces, weapons and warboats in Mocha with ballistic missiles, destroying equipment and causing dozens of casualties.\nThey vowed to continue targeting Saudi military concentrations.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-14T18:48:24+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
+      "verified_sources": [
+        "Clash Report",
+        "Mediterranean Man",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 3
     },
     {
       "title": "Telegram",
@@ -689,25 +731,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Our Wars Today",
-      "text": "[Army opens test ranges to small companies developing drones and missiles](https://apnews.com/article/driscoll-army-drones-munitions-iran-ukraine-innovation-183dba81a372db3fec175655013fe318)\nThe U.S. Army says it\u2019s opening up test ranges to private companies developing missiles and drones. Army Secretary Dan Driscoll told reporters Friday at a range in Michigan that the effort will cut the red tape that can stifle military contractors. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://apnews.com/article/driscoll-army-drones-munitions-iran-ukraine-innovation-183dba81a372db3fec175655013fe318)\nKonstantin Toropin | apnews\u200b.com \u2022 Aug 7, 2026",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-11T21:51:44+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Our Wars Today"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Alsaa Plus EN",
       "text": "\ud83c\uddee\ud83c\uddf1\u274c\ud83c\uddf1\ud83c\udde7 \u2014 Israeli drone dropped explosive materials on the Ali Al-Taher hill, southern Lebanon.\n\u26aa\ufe0f",
       "source": "Telegram",
@@ -786,31 +809,33 @@
     {
       "title": "Telegram",
       "publisher": "Mediterranean Man",
+      "text": "\u26a1\ud83c\uddfe\ud83c\uddea The Yemeni (Houthi) Armed Forces: \"With God's help, we were able to target enemy Saudi Arabian troop concentrations and weapons, as well as warships belonging to its agents and mercenaries in the Al-Mukha area, using a large number of ballistic missiles. The strikes were accurate, thanks to God, and resulted in the destruction of the boats and weapons, as well as the deaths and injuries of dozens of enemy Saudi Arabian troops.\"\n\"We will continue, with God's help, to target any enemy Saudi Arabian military concentrations, wherever they may be.\"\n-U.S. crude oil futures rise by 1.42% since.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-14T18:50:11+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
+      "verified_sources": [
+        "Clash Report",
+        "Mediterranean Man",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 3
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
       "text": "25% of Reapers have killed themselves in the last three years.\nThis means more Reaper drones, proportionally, have killed themselves more than transgenders, women afflicted with BDP, listeners of Radiohead, US veterans, and duped MAGA voters combined.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-14T12:36:06+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ufe0f\u26a1\ud83c\uddfe\ud83c\uddea BREAKING \u2014 Yemen is witnessing its largest escalation in ground fighting since the 2022 truce, with Houthi forces opening or intensifying operations across multiple fronts as fighting spreads from Marib to the Red Sea coast.\nHeavy clashes are currently being reported around Mokha and Hays in western Yemen, where Houthi forces are attempting to advance south along the Red Sea coastal axis against Saudi-backed government forces. Pro-Houthi and battlefield mapping sources report new territorial advances along the road south of Hays and northeast of Mawza, potentially threatening approaches toward the strategically important port of Mokha.\nThe fighting follows several days of escalating Houthi missile and drone attacks against Mokha and its port, alongside renewed combat around Marib, where Houthi forces have also increased military pressure against government-held positions.\nThe simultaneous escalation is particularly significant because Mokha sits close to the Bab al-Mandab maritime chokepoint, while Marib remains one of the most strategically important government-held areas in northern Yemen.\nReports from battlefield sources now claim Houthi forces are massing around Marib and that a larger offensive could follow.\nThe renewed fighting increasingly threatens to unravel the relative calm that had largely frozen Yemen's major frontlines since 2022.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-14T06:08:56+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -1116,44 +1141,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-14T08:08:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddfa\ud83c\uddf8How CIA wages shadow war of terror in the Pacific\nWhile the Trump administration has been touting its [maritime strikes ](https://t.me/geopolitics_prime/68591)on boats in the Caribbean and eastern Pacific as \u201ccounternarcotics,\u201d while providing zero evidence, an even darker CIA program is terrorizing innocent fishermen in the Pacific, The Washington Post reports.\nMysterious attacks on Ecuadorian fishing boats near the Galapagos Islands were reportedly carried out as part of this covert program. \nThe strikes, which have killed at least eight crew members and left survivors traumatized, remain unclaimed by any government.\nEight crewmen from the Fiorella vessel vanished in January. \nTwo other boast were struck in March: the Negra Francisca Duarte II (attacked in inside Ecuador's exclusive economic zone), and The Don Maca.\nThe key facts don\u2019t fit the official \u201cdrug war\u201d narrative:\n\ud83d\udd34A Cessna Citation Longitude jet (callsign FENIX 701) equipped with surveillance technology repeatedly flew from El Salvador's Ilopango Airport - the same airport used in the 1980s Iran-Contra operations - toward the boats in the days before and on the days of the attacks\n\ud83d\udd34 The plane carries specialized belly radome gear; its US registration number is untraceable; the FAA listing leads to a UPS mailbox in Virginia\n\ud83d\udd34 Survivors say they were fishing, not smuggling, and no public evidence has linked any of the crews to cocaine\n\ud83d\udd34 After the drones struck, English-speaking men in khaki uniforms with long rifles boarded them, hooded and cuffed the fishermen, and delivered them to El Salvador\n\ud83d\udd34 Days later the survivors were quietly returned to Ecuador with no explanation\n\ud83d\udd34 Salvadoran navy vessels were allegedly pre-positioned - called by \u201cthe Americans\u201d before the attacks even happened\nThis is not the Pentagon\u2019s[ open campaign ](https://t.me/geopolitics_prime/72826)that has already killed more than 220 people with missiles and AC-130s. \nThis is classic CIA covert action echoing a familiar pattern.\nAfter Trump\u2019s regime-change ambitions in the region granted the CIA new authorities to counter alleged narcotics trafficking, the agency has surged resources to Latin America. \nIn Venezuela, CIA operatives helped locate and [abduct its legitimate President Maduro. ](https://t.me/geopolitics_prime/62567)\nWith Trump expanding the definition of \u201cterrorist,\u201d the agency is granted lethal authority to operate in the shadows in a pseudo-war on drugs without evidence or accountability.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-14T06:37:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "Lockheed Martin blurs the line between civilian and military, turning 5G into future battlespace\nThe Pentagon military contractor has demonstrated an AI-powered drone-tracking system that uses existing commercial telecommunications infrastructure instead of a separate detection network.\nWhat's known about the system?\n\ud83d\udd34 Lockheed Martin's NetSense Airspace Awareness-as-a-Service platform uses the existing 5G network to detect changes in radio signals caused by drones. AI then analyzes those changes to spot, identify, track and predict the movement of unmanned aerial vehicles\n\ud83d\udd34 The key advantage is scale: because 5G infrastructure already exists across cities, the system could potentially monitor large areas without building a separate network of sensors\n\ud83d\udd34 Lockheed Martin says the tool could be used to secure critical civilian infrastructure, including power plants, schools, hospitals and airports. Astris AI, a Lockheed Martin subsidiary, will offer NetSense via a subscription-based model, with pilot deployments planned for late 2026 and early 2027.\n\ud83e\udd14 What could go wrong?\n\ud83c\udf0f While the platform\u2019s advocates point to the growing threat posed by unauthorized drones, critics are increasingly concerned about military contractor Lockheed Martin becoming more deeply embedded in civilian life and using civilian infrastructure for military and intelligence purposes. Bringing military-grade tracking technology into neighborhoods, schools and hospitals raises concerns about the \u201cmilitarization\u201d of everyday life\n\ud83c\udf0f NetSense continuously monitors changes in radio signals across urban areas, raising concerns that its \u201calways-on\u201d sensing could potentially be used to track not only drones in the air, but also vehicles on the ground \u2014 and, depending on how the system is deployed, potentially people without their knowledge\n\ud83c\udf0f Lockheed Martin\u2019s drone-tracking system is not immune to errors or hacking, with false alarms and public panic among the least serious potential consequences\n\ud83c\udf0f By integrating sensitive security data into commercial cellular networks, NetSense could effectively turn civilian telecom infrastructure into a target \u2014 and potentially a new digital battleground for attackers. In other words, the more security functions are layered onto civilian networks, the greater the potential consequences if those networks are compromised.\nMore importantly, NetSense is part of Lockheed Martin\u2019s broader 5G MIL program, which integrates commercial 5G with military networks through tactical gateways and open architecture. The goal? \u201cBattlespace dominance,\u201d according to the program\u2019s own website.\n\ud83d\udcd1 Main pillars of 5G MIL program:\n\u27a1\ufe0f Network cohesion: \"In the 21st Century battlespace, dominance will be determined by the\u00a0ability to bring together high-tech platforms into one cohesive network that spans every domain \u2013 air,\u00a0land, sea, space and cyber\"\n\u27a1\ufe0f Resilient communications: Combines military and commercial 5G infrastructure to maintain communications in contested environments\n\u27a1\ufe0f Existing networks: Integrates legacy tactical networks through distributed gateways, reducing single points of failure\n\u27a1\ufe0f Combating threats: AI, edge computing and 5G MIL connectivity allow to connect all\u00a0assets seamlessly \"in the joint battlespace for unparalleled situational awareness to enable\u00a0decisive action\".\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-14T03:36:52+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
