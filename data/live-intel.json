@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T22:00:48.891227+00:00",
+  "generated_at": "2026-08-14T22:42:43.834778+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -106,25 +106,6 @@
       "icon": "\ud83d\udea8",
       "timestamp": "08/13/2026",
       "location": "ZNY NJ",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nGarden City, NY, Friday, August 14, 2026 Local\nFacility: ZNY",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "08/13/2026",
-      "location": "ZNY NY",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
@@ -709,25 +690,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "The Jerusalem Post:\nIsraeli military intelligence estimates that Iran will increase its stockpile to 6,000 missiles by August 2027, and then to 8,800 missiles. If it continues at this rate, it will exceed 10,000 missiles at some point in 2028.\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-13T19:56:46+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Mediterranean Man",
       "text": "\u26a1\ud83c\uddfe\ud83c\uddea The Yemeni (Houthi) Armed Forces: \"With God's help, we were able to target enemy Saudi Arabian troop concentrations and weapons, as well as warships belonging to its agents and mercenaries in the Al-Mukha area, using a large number of ballistic missiles. The strikes were accurate, thanks to God, and resulted in the destruction of the boats and weapons, as well as the deaths and injuries of dozens of enemy Saudi Arabian troops.\"\n\"We will continue, with God's help, to target any enemy Saudi Arabian military concentrations, wherever they may be.\"\n-U.S. crude oil futures rise by 1.42% since.",
       "source": "Telegram",
@@ -745,25 +707,6 @@
         "Middle East Spectator"
       ],
       "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "25% of Reapers have killed themselves in the last three years.\nThis means more Reaper drones, proportionally, have killed themselves more than transgenders, women afflicted with BDP, listeners of Radiohead, US veterans, and duped MAGA voters combined.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-14T12:36:06+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -952,6 +895,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udea8\ud83c\uddfa\ud83c\uddf8 White House Promised $3 Gas \u2014 Iran War Sends U.S. Fuel Prices to Seasonal Record Highs\nTreasury Secretary Scott Bessent predicted in April that gasoline would return to $3 a gallon between June 20 and September 20. By mid-August, gasoline still averaged about $4.03 and diesel about $5.35. Americans have never paid this much for fuel this late in the year.\nGasoline was $2.98 on February 27, the day before the US and Israel attacked Iran. The war has added more than $1 to every gallon even after prices retreated from their May peak. Diesel has risen from about $3.76, adding more than $1.50 per gallon to the fuel used by trucks, farms, construction equipment and freight trains.\nPump prices normally decline in August as summer road travel slows and refineries prepare to switch to cheaper winter-grade gasoline. Restricted traffic through the Strait of Hormuz and a global shortage of refined products have overwhelmed this pattern.\nAmerican oil production cannot quickly fill the gap. US refineries are already operating at about 96% of capacity. Distillate inventories, which include diesel and heating oil, stood at 107.2M barrels at the end of July\u2014the lowest level for this point of the year in three decades.\nThe shortage is concentrated inside the refining system, not solely in crude markets. Diesel refining margins reached a record $93.84 per barrel on August 10, while gasoline margins recently hit $60. Producing more high-margin diesel and jet fuel limits the output of other products, keeping gasoline expensive even when crude prices ease.\nThe [beneficiaries](https://t.me/newrulesgeo/2278) are easy to identify. Marathon Petroleum, Phillips 66 and Valero earned a combined $12.6B in the second quarter, compared with $2.9B a year earlier. They returned $6.3B to shareholders through dividends and buybacks, while their shares rose between 75% and 110% this year.\nFuel accounts for 20\u201325% of US trucking companies\u2019 operating costs. The higher diesel bill moves through freight rates into groceries, deliveries, building materials and almost every product carried by road.\nThe White House treated America\u2019s position as the world\u2019s largest oil producer as protection from a war around Hormuz. Domestic wells supply crude; they do not instantly create the gasoline and diesel required by a continental economy. With refineries near their limits and inventories depleted, disrupted Gulf flows continue to reach American households through fuel bills, freight costs and inflation.\n us on X](https://x.com/NewRulesGeo?t=6cJ2ZyQr-1f_lBvKPNggKw&s=09)",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-14T22:23:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
