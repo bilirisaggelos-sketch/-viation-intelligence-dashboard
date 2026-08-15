@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T12:54:09.465366+00:00",
+  "generated_at": "2026-08-15T13:35:35.763558+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -517,6 +517,25 @@
     {
       "title": "Telegram",
       "publisher": "Our Wars Today",
+      "text": "[Ukraine says it hit Russian rocket centre linked to Starlink-style network](https://www.reuters.com/business/aerospace-defense/ukraine-says-it-hit-russian-rocket-centre-linked-starlink-style-network-2026-08-15/)\nUkraine said on Saturday \u200bits long-range strikes had hit a Russian military airfield and a rocket centre that Kyiv says \u200csupports Russia's nascent Starlink-style satellite internet network. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://www.reuters.com/business/aerospace-defense/ukraine-says-it-hit-russian-rocket-centre-linked-starlink-style-network-2026-08-15/)\nReuters | reuters\u200b.com \u2022 Aug 15, 2026",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-15T13:01:36+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Our Wars Today"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Our Wars Today",
       "text": "[Turkey cuts Russian oil imports as Black Sea export disruptions curb supplies, data shows](https://www.reuters.com/business/energy/turkey-cuts-russian-oil-imports-black-sea-export-disruptions-curb-supplies-data-2026-08-14/)\nTurkey reduced oil purchases from Russian ports in July and is set to cut them further in August after Ukrainian drone attacks disrupted \u200bexports from Russia's Black Sea terminals, according to traders and LSEG \u200cshipping data. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://www.reuters.com/business/energy/turkey-cuts-russian-oil-imports-black-sea-export-disruptions-curb-supplies-data-2026-08-14/)\nReuters | reuters\u200b.com \u2022 Aug 14, 2026",
       "source": "Telegram",
       "source_type": "telegram",
@@ -599,44 +618,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-12T10:32:34+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Our Wars Today"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Our Wars Today",
-      "text": "[Zelenskyi: \"Palyanytsia\" drones and \"Neptun\" missiles worked at the Russian naval base in Novorossiysk](https://www.pravda.com.ua/news/2026/08/12/8048350/)\nUkraine struck the Russian naval base in Novorossiysk with Palyanitsa drones and Neptune missiles. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://www.pravda.com.ua/news/2026/08/12/8048350/)\n\u041e\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440 \u0428\u0443\u043c\u0456\u043b\u0456\u043d | pravda\u200b.com\u200b.ua \u2022 Aug 12, 2026",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-12T10:32:26+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Our Wars Today"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Our Wars Today",
-      "text": "[Media: Vance asked Zelensky not to hit tankers passing through Novorossiysk](https://www.pravda.com.ua/news/2026/08/12/8048342/)\nUkraine has halted an intensive campaign of drone strikes against oil tankers using the key Black Sea port of Novorossiysk, following a request made late last month by US Vice President JD Vance. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://www.pravda.com.ua/news/2026/08/12/8048342/)\n\u0406\u0432\u0430\u043d\u043d\u0430 \u041a\u043e\u0441\u0442\u0456\u043d\u0430,\u041e\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440 \u0428\u0443\u043c\u0456\u043b\u0456\u043d | pravda\u200b.com\u200b.ua \u2022 Aug 12, 2026",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-12T10:32:13+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
