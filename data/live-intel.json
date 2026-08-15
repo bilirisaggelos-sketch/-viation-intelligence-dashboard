@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T02:57:42.543081+00:00",
+  "generated_at": "2026-08-15T03:48:23.768989+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -239,25 +239,6 @@
       "icon": "\ud83d\udea8",
       "timestamp": "08/07/2026",
       "location": "ZDV CO",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nEAST RUTHERFORD, NJ, Friday, August 14, 2026 through Friday, August 14, 2026 Local\nFacility: ZNY",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "08/07/2026",
-      "location": "ZNY NJ",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
@@ -661,13 +642,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
-        "Geopolitics Prime"
+        "Alsaa Plus EN"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -711,12 +691,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Looks like Ukrainian forces haven't stopped their attacks in the Oleksandrivka axis. Russian troops in the Komar area say Ukrainian sabotage-recon groups are already entering the Komar settlement. They claim Ukrainian FPV drones completely control their logistics, with numerous drones targeting a single vehicle or quad bike.",
+      "text": "\u26a1\ufe0f\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6 Russian Defence Ministry announced that Geran strike drones targeted Ukrainian railway locomotives across the Odesa, Zaporizhzhia and Sumy regions.\nThe strikes targeted railway transport infrastructure used across several parts of Ukraine.\nRussia has increasingly targeted Ukraine\u2019s railway network and locomotives as part of its campaign against Ukrainian logistics. \n\ud83d\udca7 Rainbet.com\u00a0the #1 Non-KYC Crypto Casino & Sportsbook \u00a0+18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-15T02:49:48+00:00",
+      "timestamp": "2026-08-15T03:43:09+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -730,12 +710,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Ukrainian MiG-29s intercept Russian Geran drones over Odesa region earlier today as Russia attacked the coastal region with Banderol cruise missiles and drones. Footage captures Ukrainian fighter aviation engaging the incoming drones while another impact is visible.",
+      "text": "Network GEOINT-\nA flamingo cruise missile likely struck the TsSKB-Progress plant in Samara, which is Russia's sole builder of the Soyuz launch vehicle. The scale of damage is unknown currently\nRocket Man\ud83d\ude80\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\udde6 (\nA Ukrainian Flamingo cruise missile has likely struck the TsSKB-Progress plant in Samara, Russia. \n53.217413\u00b0N 50.302171\u00b0E\nhttps://t.me/exilenova_plus/28847\nGeolocation below",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-15T02:48:17+00:00",
+      "timestamp": "2026-08-15T03:18:25+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -749,12 +729,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Ukraine\u2019s first jet-powered interceptor drones are undergoing combat testing as Russia gradually replaces conventional Shaheds with faster jet-powered variants, former Defense Minister Mykhailo Fedorov says. Several Ukrainian manufacturers have developed solutions. One interceptor uses a jet engine to reach more than 600 km/h and is now being tested in combat conditions, with Ukraine awaiting its first confirmed interceptions.",
+      "text": "Sudan's RSF advanced into Kurmuk, a strategic town on the Ethiopian border, as the army withdrew, military sources told Al Jazeera. The local administration reported three days of drone and artillery attacks from \"the regional neighbourhood\" and said the army was confronting them in defence of the town.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-15T02:46:17+00:00",
+      "timestamp": "2026-08-15T03:11:36+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -768,12 +748,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Zelensky said Russian attacks killed three people overnight, including a child. In Kramatorsk, an aerial bomb collapsed part of a 10-story building, killing one and injuring 16. A Shahed struck a home in Stepanivka, killing two, including a child, while five people were injured when a drone hit a nine-story building in Smila. Zelensky said Russia uses around 220 guided aerial bombs against Ukraine\u2019s frontline communities every day.",
+      "text": "Russians are making tunnels for soldiers to stay safe from Ukrainian drones while navigating toward the frontlines.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-15T02:43:47+00:00",
+      "timestamp": "2026-08-15T03:09:23+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -787,12 +767,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u2757\ufe0fUkrainian serviceman and political commentator Kyrylo Sazonov claims HUR destroyed a Russian military train carrying North Korean KN-23/KN-24 ballistic missiles and ammunition on the Trans-Siberian Railway, more than 6,000 km from Ukraine. Sazonov says remotely controlled explosives were used against the tracks and train, triggering secondary detonations that destroyed the echelon and damaged the railway. Ukraine\u2019s HUR has not officially confirmed the operation.",
+      "text": "Off the coast of Sinop, Turkey, a man dragged a rusty, missile-shaped cylinder out of the Black Sea and carried it across the beach. It's a spent first-stage booster from a Russian Pantsir-S1 surface-to-air missile.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-15T02:43:01+00:00",
+      "timestamp": "2026-08-15T03:04:03+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -898,26 +878,6 @@
         "Geopolitics Prime"
       ],
       "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udea8\ud83c\uddee\ud83c\uddf7Another MQ-9 meets Iran\u2019s air defenses over Hormozgan\nIran says a new IRGC air defense system, operating within the country\u2019s integrated air defense network, intercepted and destroyed an MQ-9 drone over Hormozgan province.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-14T11:45:51+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 2
     },
     {
       "title": "Telegram",
