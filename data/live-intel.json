@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T21:37:26.886413+00:00",
+  "generated_at": "2026-08-15T21:59:08.514166+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -124,25 +124,6 @@
       "severity": "critical",
       "icon": "\ud83d\udea8",
       "timestamp": "08/13/2026",
-      "location": "ZNY NJ",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nEAST RUTHERFORD, NJ, Saturday, August 15, 2026 Local\nFacility: ZNY",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "08/11/2026",
       "location": "ZNY NJ",
       "lat": null,
       "lon": null,
@@ -675,25 +656,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-15T18:44:09+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\udde8\ud83c\uddf4\ud83c\uddee\ud83c\uddf1\u26a1\ufe0f \u2014 Colombian President:\nI had a very warm and enriching conversation with the Prime Minister of Israel, Benjamin Netanyahu.\nI deeply thanked him for all the humanitarian aid and for the rescuers that Israel has sent to Colombia during these very difficult times.\nThis is a new time for relations between Colombia and Israel: a relationship based on friendship, solidarity, cooperation, and mutual respect.\nColombia and Israel, always friends and allies!",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-15T18:18:41+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
