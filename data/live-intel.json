@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T11:58:21.161678+00:00",
+  "generated_at": "2026-08-15T12:54:09.465366+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -911,6 +911,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddee\ud83c\uddf7\ud83d\udea2 Shipments around Persian Gulf completely paralyzed\nThe security situation in the Persian Gulf has entered a more dangerous phase, as the US blockade of Iranian ports coincides with targeted Iranian and Houthi attacks at both key chokepoints, according to maritime intelligence group Marisks.\n\u27a1\ufe0f These two routes, which carry the bulk of energy exports from the Gulf, can no longer be assessed independently. Pressure at Hormuz is diverting traffic toward Saudi Arabia's Red Sea outlets, while Houthi attacks simultaneously threaten that alternative, leaving shipping with no viable workaround\n\u27a1\ufe0f The shipping industry has responded by turning off transponders to avoid detection. In the three weeks since the US blockade was reimposed, more than half of all tankers crossing the Strait of Hormuz have gone dark\nFor Gulf states, the economic pain is compounded by the loss of shipping revenue and the rising cost of war risk insurance, which has increased premiums by more than 500% for vessels transiting the region. With no safe passage available, the global economy is beginning to feel the strain of a crisis that shows no signs of abating.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-15T12:16:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
