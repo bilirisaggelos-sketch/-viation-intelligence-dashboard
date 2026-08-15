@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T05:04:22.660372+00:00",
+  "generated_at": "2026-08-15T05:43:50.026234+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -687,6 +687,25 @@
         "Middle East Spectator"
       ],
       "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfa In short.. Russian soldier drives car on front.. Ukrainian drone strikes car.. Russian soldier looses his leg above the knee and dislocates his hip. If he\u2019s lucky and there\u2019s no infection he\u2019ll live the rest of his life with no leg if not \ud83d\udc80\n10/10 don\u2019t recommend",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-15T05:25:20+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
