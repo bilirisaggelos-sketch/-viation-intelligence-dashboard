@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T03:48:23.768989+00:00",
+  "generated_at": "2026-08-15T04:38:00.893668+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -691,12 +691,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6 Russian Defence Ministry announced that Geran strike drones targeted Ukrainian railway locomotives across the Odesa, Zaporizhzhia and Sumy regions.\nThe strikes targeted railway transport infrastructure used across several parts of Ukraine.\nRussia has increasingly targeted Ukraine\u2019s railway network and locomotives as part of its campaign against Ukrainian logistics. \n\ud83d\udca7 Rainbet.com\u00a0the #1 Non-KYC Crypto Casino & Sportsbook \u00a0+18",
+      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfa A suspected Ukrainian strike has targeted Russia\u2019s aerospace industry in Samara, with explosions and a fire reported near the TsSKB-Progress facility.\nThe facility specializes in producing medium-class space launch vehicles, while the nearby Aviakor plant repairs and modernizes aircraft.\nThe weapon used remains unclear, although speculation has emerged that Ukraine\u2019s Flamingo missile may have been involved.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-15T03:43:09+00:00",
+      "timestamp": "2026-08-15T04:08:11+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -710,12 +710,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Network GEOINT-\nA flamingo cruise missile likely struck the TsSKB-Progress plant in Samara, which is Russia's sole builder of the Soyuz launch vehicle. The scale of damage is unknown currently\nRocket Man\ud83d\ude80\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\udde6 (\nA Ukrainian Flamingo cruise missile has likely struck the TsSKB-Progress plant in Samara, Russia. \n53.217413\u00b0N 50.302171\u00b0E\nhttps://t.me/exilenova_plus/28847\nGeolocation below",
+      "text": "\u26a1\ufe0f\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6 Ukraine missile targeted the southern western Russian city of Samara a few moments ago.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-15T03:18:25+00:00",
+      "timestamp": "2026-08-15T04:05:38+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -729,50 +729,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Sudan's RSF advanced into Kurmuk, a strategic town on the Ethiopian border, as the army withdrew, military sources told Al Jazeera. The local administration reported three days of drone and artillery attacks from \"the regional neighbourhood\" and said the army was confronting them in defence of the town.",
+      "text": "\u26a1\ufe0f\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6 [Euronews](https://www.euronews.com/my-europe/2026/08/14/russia-admits-new-petrol-shortages-amid-ongoing-long-range-ukrainian-strikes): Russia has acknowledged fresh petrol shortages as continued Ukrainian long-range strikes disrupt the country\u2019s oil-refining sector. \nThe Orsk refinery has completely shut down after a Ukrainian drone strike, with repairs potentially taking up to six months because damaged equipment is difficult to replace under sanctions. \nAuthorities in the Orenburg region say only around 80% of filling stations remain operational, with emergency and specialised vehicles receiving priority for fuel. \n\ud83d\udca7 [Rainbet.com](https://www.rainbet.com/) the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-15T03:11:36+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "Russians are making tunnels for soldiers to stay safe from Ukrainian drones while navigating toward the frontlines.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-15T03:09:23+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "Off the coast of Sinop, Turkey, a man dragged a rusty, missile-shaped cylinder out of the Black Sea and carried it across the beach. It's a spent first-stage booster from a Russian Pantsir-S1 surface-to-air missile.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-15T03:04:03+00:00",
+      "timestamp": "2026-08-15T03:58:24+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
