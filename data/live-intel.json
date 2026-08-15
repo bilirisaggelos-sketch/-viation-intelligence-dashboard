@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T10:00:42.784202+00:00",
+  "generated_at": "2026-08-15T10:42:06.224964+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -441,6 +441,25 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
+      "text": "Russia's Volgograd: People fighting at the pumps at gas station amid Russia's ongoing fuel crisis. \nSouthern Russia has faced recurring shortages since Ukrainian drone strikes hit refineries.\nStations have imposed purchase limits, queues stretch for kilometers, and drivers have camped overnight for fuel.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-15T10:31:27+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
       "text": "Zelensky:\nIn the Samara region of Russia, one of the key enterprises within the \"Roscosmos\" corporation was hit \u2013 the \"Progress\" center, which was involved in the production of electronics.\nThe distance from our border is approximately 900 kilometers. \nOur long-range sanctions have also reached the \"Savasleika\" airfield, where carriers of Russian missiles that attack our cities and villages are based.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -631,6 +650,25 @@
     {
       "title": "Telegram",
       "publisher": "Mediterranean Man",
+      "text": "\u26a1\ud83c\uddf1\ud83c\udde7\ud83c\uddf8\ud83c\uddfe13 years ago,on August 15, 2013,a devastating explosion rocked the heart of Beirut, carrying a message of terror intended to break the resilience of the people and plunge Lebanon into strife.\nMartyrs fell and the streets were scarred by destruction, but the true takeaway was clear: Lebanon would not wait for terrorism to reach its doorstep.\nAs terrorist groups expanded along the Syrian border and in the rugged outskirts (Jurud), the decision was taken to confront the threat head-on.\n Resistance fighters advanced into the hard-to-reach strongholds of these armed groups, fighting harsh battles until the militants were forced to retreat beyond the Syrian border.\nThis fight was never about defending a single region or sect it was a battle for all of Lebanon. From the blood-stained streets of the Southern Suburbs to the high ridges along the border where the banners of victory were raised, the objective remained constant: to drive terrorism away and keep Lebanon\u2019s borders and people safe.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-15T10:27:23+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
       "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6 Ukrainian drone developer Temerland has\u00a0introduced\u00a0the Gnom L2, a modified unmanned ground vehicle (UGV) designed to transport heavy military loads across challenging terrain.\nThe vehicle is based on the company\u2019s flagship\u00a0Gnom logistic\u00a0modular platform, which is already\u00a0in service\u00a0with the Ukrainian Armed Forces.\nThe Gnom L2 features higher-capacity batteries for longer endurance, a reinforced cargo basket, and a hybrid wheel-and-track system for improved off-road mobility.\nThe UGV can carry up to 210 kilograms (463 pounds) of cargo, reach a top speed of 12 kilometers (7 miles) per hour, and operate over a range of 50 kilometers (31 miles).\nSoldiers control the vehicle remotely using specialized HotRC hardware.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -659,12 +697,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
+        "Geopolitics Prime",
         "Mediterranean Man"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -887,12 +926,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "Geopolitics Prime"
+        "Geopolitics Prime",
+        "Mediterranean Man"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
