@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T21:01:13.224517+00:00",
+  "generated_at": "2026-08-15T21:37:26.886413+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -306,6 +306,25 @@
       "verified_source_count": 1
     },
     {
+      "title": "Qatar denies capturing three Iranian pilots after downing fighter jets",
+      "text": "Qatar denies capturing three Iranian pilots after downing fighter jets\nIran claims they have been held since Qatar downed two fighter jets at the start of the US-Iran war.",
+      "source": "BBC",
+      "source_type": "osint",
+      "publisher": "BBC World News",
+      "severity": "info",
+      "icon": "\ud83d\udcf0",
+      "timestamp": "2026-08-15T21:03:57+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "BBC World News"
+      ],
+      "verified_source_count": 1
+    },
+    {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
       "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea NEW: The Yemeni Armed Forces struck Saudi-aligned positions in Taizz with missiles and drones",
@@ -517,6 +536,25 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf1\u274c\ud83c\uddf8\ud83c\uddfe \u2014 Intense activity of Israeli warplanes in the airspace over southern Syria.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-15T21:21:03+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
       "text": "\ud83c\uddee\ud83c\uddf1\u274c\ud83c\uddf1\ud83c\udde7 \u2014 Israeli Channel 13: \nThe prime minister and the army claim that Hezbollah violated the ceasefire, but the sequence of events is that Israel is operating in the Ali al-Taher heights, which Hezbollah views as a ceasefire violation, prompting it to respond with an explosive-laden drone.\n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
@@ -675,25 +713,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-15T17:50:10+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddf1\ud83c\udde7\ud83c\uddf8\ud83c\uddfe13 years ago,on August 15, 2013,a devastating explosion rocked the heart of Beirut, carrying a message of terror intended to break the resilience of the people and plunge Lebanon into strife.\nMartyrs fell and the streets were scarred by destruction, but the true takeaway was clear: Lebanon would not wait for terrorism to reach its doorstep.\nAs terrorist groups expanded along the Syrian border and in the rugged outskirts (Jurud), the decision was taken to confront the threat head-on.\n Resistance fighters advanced into the hard-to-reach strongholds of these armed groups, fighting harsh battles until the militants were forced to retreat beyond the Syrian border.\nThis fight was never about defending a single region or sect it was a battle for all of Lebanon. From the blood-stained streets of the Southern Suburbs to the high ridges along the border where the banners of victory were raised, the objective remained constant: to drive terrorism away and keep Lebanon\u2019s borders and people safe.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-15T10:27:23+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
