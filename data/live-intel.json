@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T00:02:06.704574+00:00",
+  "generated_at": "2026-08-15T01:52:00.178234+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -359,6 +359,25 @@
       "verification_confidence": 100,
       "verified_sources": [
         "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014 \ud83c\uddee\ud83c\uddf1/\ud83c\uddfa\ud83c\uddf8/\ud83c\uddf1\ud83c\udde7 NOTE: Earlier today, Yedioth Ahronoth reported that Israel was still awaiting the \u2018green light\u2019 from President Trump to seize Ali Al-Taher Hill, the strategic underground Hezbollah fortress where dozens of fighters are thought to be besieged\nIt seems the green light has now been given by the United States.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-15T01:50:19+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
       ],
       "verified_source_count": 1
     },
