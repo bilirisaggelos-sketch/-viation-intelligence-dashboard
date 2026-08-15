@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T15:01:35.903176+00:00",
+  "generated_at": "2026-08-15T15:36:46.379410+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -573,44 +573,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Our Wars Today",
-      "text": "[Ukrainian anti-ship missiles and drones strike Russian naval stronghold](https://apnews.com/article/russia-ukraine-black-sea-attack-9eadff0d7590923e3d98c99e2b61150b)\nPresident Volodymyr Zelenskyy says Ukrainian anti-ship missiles and drones have blitzed a major Russian naval base on the Black Sea coast in a unique nighttime operation. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://apnews.com/article/russia-ukraine-black-sea-attack-9eadff0d7590923e3d98c99e2b61150b)\nIllia Novikov | apnews\u200b.com \u2022 Aug 12, 2026",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-12T10:32:34+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Our Wars Today"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf1\u274c\ud83c\uddf1\ud83c\udde7 \u2014 Israeli drone dropped explosive materials on the Ali Al-Taher hill, southern Lebanon.\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-14T11:47:53+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Mediterranean Man",
       "text": "\u26a1\ud83c\uddf1\ud83c\udde7\ud83c\uddf8\ud83c\uddfe13 years ago,on August 15, 2013,a devastating explosion rocked the heart of Beirut, carrying a message of terror intended to break the resilience of the people and plunge Lebanon into strife.\nMartyrs fell and the streets were scarred by destruction, but the true takeaway was clear: Lebanon would not wait for terrorism to reach its doorstep.\nAs terrorist groups expanded along the Syrian border and in the rugged outskirts (Jurud), the decision was taken to confront the threat head-on.\n Resistance fighters advanced into the hard-to-reach strongholds of these armed groups, fighting harsh battles until the militants were forced to retreat beyond the Syrian border.\nThis fight was never about defending a single region or sect it was a battle for all of Lebanon. From the blood-stained streets of the Southern Suburbs to the high ridges along the border where the banners of victory were raised, the objective remained constant: to drive terrorism away and keep Lebanon\u2019s borders and people safe.",
       "source": "Telegram",
@@ -659,13 +621,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Geopolitics Prime",
         "Mediterranean Man"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -841,6 +802,25 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddee\ud83c\uddf7\ud83c\udde7\ud83c\udded Iran's opening salvo: Bahrain base strike sparked US carrier supply crisis\nThe supply issues plaguing the USS Abraham Lincoln and other maritime forces in the Iran war stem from the destruction of the US Fifth Fleet base in Bahrain, according to the NYT. \n\u27a1\ufe0f Iranian missiles and drones[ struck the base on the first day of the conflict](https://t.me/geopolitics_prime/65551), eliminating the primary supply point the navy has relied on for decades and forcing a scramble for alternatives \n\u27a1\ufe0f The other major maritime logistics hub, Fujairah in the UAE, is also well within range of Iranian missiles\n\u27a1\ufe0f As a result, the Pentagon turned to Diego Garcia, a British-controlled island in the Indian Ocean roughly 2,200 miles from where the carrier strike groups were operating\n\u27a1\ufe0f The base has since become the main logistics hub for[ the US Navy's operations in the region](https://t.me/geopolitics_prime/67050). The shift may explain why Iran attacked the island with ballistic missiles in March \nThe loss of the Bahrain hub has contributed to a host of reported problems on carriers operating against Iran, with media outlets citing shortages of basic supplies and [deteriorating mental health ](https://t.me/geopolitics_prime/73343)among crew members. \nThe Lincoln was on a scheduled deployment from San Diego when it was redirected to the Middle East in January and has been extended multiple times without a clear end date. Some of the crew have been told they will not return home until 2027, while the carrier has now gone 250 days without a port visit.\nThe Pentagon has turned to Diego Garcia as an alternative, but it is far from the operating area and lacks the infrastructure and supplies needed to support a carrier group. The supply chain is so stretched that some essential items are flown in on military cargo planes rather than shipped by sea, rendering[ the blockade of Iran a painfully Sisyphean task.](https://t.me/geopolitics_prime/73394) \n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-15T15:18:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
       "text": "\ud83c\uddee\ud83c\uddf7\ud83d\udea2 Shipments around Persian Gulf completely paralyzed\nThe security situation in the Persian Gulf has entered a more dangerous phase, as the US blockade of Iranian ports coincides with targeted Iranian and Houthi attacks at both key chokepoints, according to maritime intelligence group Marisks.\n\u27a1\ufe0f These two routes, which carry the bulk of energy exports from the Gulf, can no longer be assessed independently. Pressure at Hormuz is diverting traffic toward Saudi Arabia's Red Sea outlets, while Houthi attacks simultaneously threaten that alternative, leaving shipping with no viable workaround\n\u27a1\ufe0f The shipping industry has responded by turning off transponders to avoid detection. In the three weeks since the US blockade was reimposed, more than half of all tankers crossing the Strait of Hormuz have gone dark\nFor Gulf states, the economic pain is compounded by the loss of shipping revenue and the rising cost of war risk insurance, which has increased premiums by more than 500% for vessels transiting the region. With no safe passage available, the global economy is beginning to feel the strain of a crisis that shows no signs of abating.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
@@ -913,26 +893,6 @@
         "Geopolitics Prime"
       ],
       "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddee\ud83c\uddf7\ud83d\udca3 How new indigenous Iranian air defenses turn the skies into an intelligence goldmine\nIran has showcased US and Israeli drones \u2013 some remarkably intact \u2013 that were intercepted by the Islamic Republic\u2019s local defense systems during the war.\nMQ-9 Reaper, Hermes 900 and Hermes 450 unmanned aerial vehicles, along with technical equipment from an MQ-9 and a US F-15 fighter jet, have been put on display at one of the IRGC\u2019s underground bases and aired by IRIB on August 14.\n\ud83d\udcac \u201cThanks to measures taken before the war, more than 85 percent of the production infrastructure for air-defense systems manufactured by the Aerospace Force\u2019s Self-Sufficiency Jihad Organization was preserved,\u201d an IRGC officer said, as quoted by Press TV.\nIn March, the IRGC stated it had seized a fully armed Hermes 900 medium-altitude, long-endurance strike drone. According to the force, the drone was detected, electronically trapped and brought under Iranian control by a newly-deployed air-defense system before it could carry out a strike.\nCapturing an intact UAV offers a rare intelligence windfall, turning air-defense operations into an intelligence-gathering strategy, Defense Security Asia reported at the time.\n\ud83d\udc49 The outlet suggested Iran\u2019s success stems from a layered air-defense network combining sensors, radar, interceptor missiles and electronic warfare systems to detect and neutralize aerial threats across different ranges and altitudes. Overlapping detection and engagement zones make it harder for reconnaissance and strike drones to penetrate defended airspace.\nMore importantly, captured drones give Iranian specialists valuable material to further refine the country\u2019s electronic-warfare countermeasures against similar systems.\nA total of 171 airborne targets were reportedly hit during the 40-day war, including 10 manned aircraft, Press TV reported, citing IRGC officers.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-15T06:12:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Geopolitics Prime",
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 2
     },
     {
       "title": "Telegram",
