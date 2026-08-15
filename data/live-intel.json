@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T21:59:08.514166+00:00",
+  "generated_at": "2026-08-15T22:32:49.474276+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -441,6 +441,25 @@
     {
       "title": "Telegram",
       "publisher": "Our Wars Today",
+      "text": "\ud83c\uddf7\ud83c\uddfa \ud83c\uddfa\ud83c\udde6 Audio-Based Drone Ambush Attacks: \nVia \"Russian Waiter FPV drones now have audio intakes: New versions of the \u201cZhdu\u201d FPV drones, equipped with microphones, have begun to appear in Russian forces. This allows the operator to hear approaching vehicles and detect their presence without revealing the drone\u2019s own position. This makes it somewhat more difficult to detect an ambush and leaves the driver with minimal time to react. The drone managed to hit a supply truck with Ukrainian soldiers on the back without any protection. It took less than 20 seconds for ambush to start and end. The idea of recording audio with an FPV drone is far from new. There\u2019s no technological revolution here. But as a method for organizing an ambush, the approach is quite effective.\"\nMore Coverage: T.me/ourwarstoday \n---\n24/7 LIVE News RSS feed: t.me/ournewsfeedtoday\n---\nFootage: t.me/ourwars\n---\nSupport OWT: https://ko-fi.com/ourwarstoday",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-15T22:11:59+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Our Wars Today"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Our Wars Today",
       "text": "[Ukraine says it hit Russian rocket centre linked to Starlink-style network](https://www.reuters.com/business/aerospace-defense/ukraine-says-it-hit-russian-rocket-centre-linked-starlink-style-network-2026-08-15/)\nUkraine said on Saturday \u200bits long-range strikes had hit a Russian military airfield and a rocket centre that Kyiv says \u200csupports Russia's nascent Starlink-style satellite internet network. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://www.reuters.com/business/aerospace-defense/ukraine-says-it-hit-russian-rocket-centre-linked-starlink-style-network-2026-08-15/)\nReuters | reuters\u200b.com \u2022 Aug 15, 2026",
       "source": "Telegram",
       "source_type": "telegram",
@@ -834,6 +853,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\u2721\ufe0f Israel bombs southern Lebanon again despite \"ceasefire\"\nIsraeli fighter jets carried out airstrikes on the Jabal Ali al-Taher area of southern Lebanon, Lebanese media reported.\nGunfire was also heard in the area following the strikes.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-15T22:24:55+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
