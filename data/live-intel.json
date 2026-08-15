@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T08:47:50.275701+00:00",
+  "generated_at": "2026-08-15T09:32:16.782555+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -355,13 +355,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Geopolitics Prime",
         "Middle East Spectator"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -651,6 +650,25 @@
     {
       "title": "Telegram",
       "publisher": "Mediterranean Man",
+      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6 Ukrainian drone developer Temerland has\u00a0introduced\u00a0the Gnom L2, a modified unmanned ground vehicle (UGV) designed to transport heavy military loads across challenging terrain.\nThe vehicle is based on the company\u2019s flagship\u00a0Gnom logistic\u00a0modular platform, which is already\u00a0in service\u00a0with the Ukrainian Armed Forces.\nThe Gnom L2 features higher-capacity batteries for longer endurance, a reinforced cargo basket, and a hybrid wheel-and-track system for improved off-road mobility.\nThe UGV can carry up to 210 kilograms (463 pounds) of cargo, reach a top speed of 12 kilometers (7 miles) per hour, and operate over a range of 50 kilometers (31 miles).\nSoldiers control the vehicle remotely using specialized HotRC hardware.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-15T08:50:05+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
       "text": "\u26a1\ud83c\uddee\ud83c\uddf1\ud83c\uddf1\ud83c\udde7 Israeli fighter jets entered low altitude airspace over southern Lebanon then an explosion was heard.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -660,13 +678,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Geopolitics Prime",
         "Mediterranean Man"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -842,6 +859,25 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddee\ud83c\uddf7\ud83e\ude90 Elon Musk\u2019s Starlink promised faster data, Iran\u2019s air defenses promised faster downing, guess who won?\nThe IRGC is now displaying wreckage from 171 downed US and Israeli aircraft and drones \u2014 including MQ-9 Reapers, Hermes 900s, an F-15 fighter jet, and Starlink modems recovered from the wreckage.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-15T09:14:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
       "text": "\ud83c\uddf7\ud83c\uddfa\ud83c\udde8\ud83c\uddf3 How Russia and China turn Arctic into working trade corridor\nRussia and China are giving the Arctic route something it has long lacked - regular commercial traffic.\nChinese shipping companies are expanding operations along Russia\u2019s Northern Sea Route, with at least six operators reportedly planning more than 50 voyages this season, mostly between Russian and Chinese ports.\n\ud83d\udea2 Sea Legend is preparing a seasonal China-Europe container service with an advertised transit time of around 20 days, while New New Shipping has opened a route linking Tianjin with Murmansk.\nEnergy is part of the same picture. Russian LNG is increasingly moving through the route toward Chinese markets.\nChina heads north\nBeijing\u2019s Arctic interest is not new. Under its \u201cPolar Silk Road\u201d concept, China has long viewed northern shipping lanes as a possible extension of its trade network, while Chinese companies invested in projects such as Yamal LNG and Arctic LNG 2.\n\u274c For years, however, harsh conditions, high costs and limited traffic kept those ambitions modest.\nThat started to change after 2022, when Western companies pulled back from several Russian Arctic projects. Russia needed new buyers, capital and logistics partners; China wanted secure energy supplies and greater access to northern routes.\nNew Arctic landscape\n\ud83d\udc49 China is no longer simply buying Russian resources. Its shipping companies are gaining practical experience operating along the NSR, building knowledge of Arctic navigation, logistics and seasonal trade. At the same time, the route is beginning to support two-way trade: Chinese goods are moving north toward Russia while Russian raw materials travel in the opposite direction, gradually turning the Northern Sea Route into a more integrated trade corridor.\nDisruptions around the Red Sea and Strait of Hormuz have shown how quickly conflict can interfere with global energy and shipping flows, giving Russia and China another reason to develop alternative routes outside the most exposed regions.\nWhile traffic along the Northern Sea Route remains small compared with established global routes, the direction of change is clear - Chinese and Russian economic interests are increasingly intertwined.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
@@ -870,13 +906,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Geopolitics Prime",
-        "Mediterranean Man"
+        "Geopolitics Prime"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -915,26 +950,6 @@
         "Geopolitics Prime"
       ],
       "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udd25 WATCH: Houthis set Mokha port ablaze\nYemen\u2019s Ansar Allah struck Saudi-backed forces, weapons stockpiles and warboats in the Mokha area with a large number of ballistic missiles, Brigadier General Yahya Saree said.\nThe strike reportedly hit two vessels docked at the port, destroying boats and weapons and killing or wounding dozens of Saudi-backed forces, while footage showed fires tearing through the vessels after direct impacts.\nAnsar Allah warned it will continue targeting Saudi military gatherings wherever they are.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-14T19:38:02+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Geopolitics Prime",
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 2
     },
     {
       "title": "Telegram",
