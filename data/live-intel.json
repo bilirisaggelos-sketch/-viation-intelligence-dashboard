@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T15:58:46.402458+00:00",
+  "generated_at": "2026-08-15T16:35:59.353766+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -421,25 +421,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea BREAKING: Dozens of Saudi-backed mercenaries were killed in the missile attack",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-14T16:33:20+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Clash Report",
       "text": "Ukraine\u2019s Patriot interceptors are running critically low, leaving Kyiv unable to intercept recent Russian ballistic missile attacks. \nWith Russia increasing missile production ahead of winter and US and allied stocks depleted, Ukraine fears its air defences\u2014and its recent battlefield momentum\u2014could collapse without urgent resupply.\nSource: FT",
       "source": "Telegram",
@@ -599,25 +580,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-15T08:33:48+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ufe0f\ud83c\uddfb\ud83c\uddf3 Vietnam has\u00a0begun construction on its largest and most advanced domestically designed anti-submarine frigate, marking a key milestone in Hanoi\u2019s push to build a sovereign defense industry and reduce its historical dependence on Russian military imports.\nAssembly of the multipurpose vessel is expected to take 36 months to complete, with state defense firm Viettel Group alongside state military factories supplying most of the warship\u2019s weapons, components, and battle management capabilities.\nThe surface combatant will incorporate an active electronically scanned array radar, air-defense and anti-ship missiles, torpedo launchers, and a flight deck for a maritime helicopter.\nThroughout the program, the Vietnam People\u2019s Navy will act as the primary project owner overseeing system integration, testing, and handover of the platform.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-15T08:15:05+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
