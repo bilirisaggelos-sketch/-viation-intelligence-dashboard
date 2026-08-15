@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T11:01:34.328588+00:00",
+  "generated_at": "2026-08-15T11:35:48.220246+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -308,6 +308,25 @@
     {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
+      "text": "\u2014 \ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea NEW: Saudi-controlled Mokha Port was largely destroyed by Yemeni missile strukes",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-15T11:20:49+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
       "text": "\u2014 \ud83c\uddee\ud83c\uddf1/\ud83c\uddfa\ud83c\uddf8/\ud83c\uddf1\ud83c\udde7 NOTE: Earlier today, Yedioth Ahronoth reported that Israel was still awaiting the \u2018green light\u2019 from President Trump to seize Ali Al-Taher Hill, the strategic underground Hezbollah fortress where dozens of fighters are thought to be besieged\nIt seems the green light has now been given by the United States.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -421,20 +440,20 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf1/\ud83c\uddee\ud83c\uddf7 NEW: Captured American and Israeli drones are showcased in one of the underground bases of the IRGC Aerospace Force\nIranian engineers have already begun to reverse engineer the equipment, especially the advanced optics and surveillance parts.",
+      "publisher": "Clash Report",
+      "text": "WATCH: Russia has started using \"lurker drones\" that land and hide out of sight near roads, using microphones to listen for approaching vehicles. \nThe drone can wait in ambush for hours and activate when it detects a vehicle nearby.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-14T16:25:46+00:00",
+      "timestamp": "2026-08-15T11:04:14+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Middle East Spectator"
+        "Clash Report"
       ],
       "verified_source_count": 1
     },
@@ -716,12 +735,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
+        "Geopolitics Prime",
         "Mediterranean Man"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -963,12 +983,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "Geopolitics Prime"
+        "Geopolitics Prime",
+        "Mediterranean Man"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
