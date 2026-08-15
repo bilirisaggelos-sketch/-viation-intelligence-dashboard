@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T22:32:49.474276+00:00",
+  "generated_at": "2026-08-15T23:00:07.017071+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -656,25 +656,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-15T18:48:42+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddfe\ud83c\uddea\ud83c\uddfe\ud83c\uddea\ud83c\uddf8\ud83c\udde6 \u2014 Yemeni local authorities backed by Saudi Arabia in Marib Governorate: Houthi forces targeted the city with four ballistic missiles and four drones.\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-15T18:44:09+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
