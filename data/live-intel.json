@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T08:01:15.534797+00:00",
+  "generated_at": "2026-08-15T08:47:50.275701+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -413,13 +413,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Mediterranean Man",
         "Middle East Spectator"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -437,6 +436,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Zelensky:\nIn the Samara region of Russia, one of the key enterprises within the \"Roscosmos\" corporation was hit \u2013 the \"Progress\" center, which was involved in the production of electronics.\nThe distance from our border is approximately 900 kilometers. \nOur long-range sanctions have also reached the \"Savasleika\" airfield, where carriers of Russian missiles that attack our cities and villages are based.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-15T08:46:14+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
       ],
       "verified_source_count": 1
     },
@@ -633,22 +651,41 @@
     {
       "title": "Telegram",
       "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddfe\ud83c\uddea The Yemeni (Houthi) Armed Forces: \"With God's help, we were able to target enemy Saudi Arabian troop concentrations and weapons, as well as warships belonging to its agents and mercenaries in the Al-Mukha area, using a large number of ballistic missiles. The strikes were accurate, thanks to God, and resulted in the destruction of the boats and weapons, as well as the deaths and injuries of dozens of enemy Saudi Arabian troops.\"\n\"We will continue, with God's help, to target any enemy Saudi Arabian military concentrations, wherever they may be.\"\n-U.S. crude oil futures rise by 1.42% since.",
+      "text": "\u26a1\ud83c\uddee\ud83c\uddf1\ud83c\uddf1\ud83c\udde7 Israeli fighter jets entered low altitude airspace over southern Lebanon then an explosion was heard.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-14T18:50:11+00:00",
+      "timestamp": "2026-08-15T08:33:48+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "PARTIALLY VERIFIED",
       "verification_confidence": 65,
       "verified_sources": [
-        "Mediterranean Man",
-        "Middle East Spectator"
+        "Geopolitics Prime",
+        "Mediterranean Man"
       ],
       "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ufe0f\ud83c\uddfb\ud83c\uddf3 Vietnam has\u00a0begun construction on its largest and most advanced domestically designed anti-submarine frigate, marking a key milestone in Hanoi\u2019s push to build a sovereign defense industry and reduce its historical dependence on Russian military imports.\nAssembly of the multipurpose vessel is expected to take 36 months to complete, with state defense firm Viettel Group alongside state military factories supplying most of the warship\u2019s weapons, components, and battle management capabilities.\nThe surface combatant will incorporate an active electronically scanned array radar, air-defense and anti-ship missiles, torpedo launchers, and a flight deck for a maritime helicopter.\nThroughout the program, the Vietnam People\u2019s Navy will act as the primary project owner overseeing system integration, testing, and handover of the platform.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-15T08:15:05+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -833,12 +870,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "Geopolitics Prime"
+        "Geopolitics Prime",
+        "Mediterranean Man"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
