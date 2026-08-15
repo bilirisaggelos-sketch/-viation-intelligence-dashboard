@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T14:00:46.286823+00:00",
+  "generated_at": "2026-08-15T14:41:51.110040+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -466,44 +466,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-15T11:04:14+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "EXCLUSIVE: Sudan Army\u2019s AKINCI drone shot down a Chinese-made CH-95 drone operated by the UAE-backed RSF terror group in an air-to-air engagement.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-15T10:58:11+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Russia's Volgograd: People fighting at the pumps at gas station amid Russia's ongoing fuel crisis. \nSouthern Russia has faced recurring shortages since Ukrainian drone strikes hit refineries.\nStations have imposed purchase limits, queues stretch for kilometers, and drivers have camped overnight for fuel.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-15T10:31:27+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
