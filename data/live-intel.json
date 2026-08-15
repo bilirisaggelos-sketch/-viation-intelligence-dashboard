@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T09:32:16.782555+00:00",
+  "generated_at": "2026-08-15T10:00:42.784202+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -618,25 +618,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-14T11:28:55+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf7\u274c\ud83c\udf1e \u2014 Drone attack using Shahed-136 UAVs targeting Iranian Kurdish opposition parties in Erbil Governorate, northern Iraq.\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-13T23:29:43+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
