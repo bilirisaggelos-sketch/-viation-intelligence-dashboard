@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T23:40:00.205824+00:00",
+  "generated_at": "2026-08-15T00:02:06.704574+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -258,25 +258,6 @@
       "icon": "\ud83d\udea8",
       "timestamp": "08/07/2026",
       "location": "ZNY NJ",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nSturgis, SD, Friday, August 7, 2026 through Sunday, August 16, 2026 Local\nFacility: ZDV",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "08/05/2026",
-      "location": "ZDV SD",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
@@ -914,6 +895,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udc79 Netanyahu: UK is first 'Islamic republic' with nuclear weapons\nThe UK has become the \"first Islamic republic to get a nuclear weapon,\" Israeli PM Benjamin Netanyahu declared in a podcast interview for Israel's army radio.\nHis comments were praised by no one except the host, who helpfully asked whether Netanyahu thought \"all of Europe is like that\" \u2013 a prompt the prime minister eagerly accepted.\nThe statement came as relations with the UK have been cooling, with Britain signaling a reassessment of its approach to Israel. The UK is preparing to ban goods from illegal Israeli settlements in the West Bank, is considering further sanctions on individuals and organizations linked to the settler movement, and has already imposed sanctions on far-right ministers Itamar Ben Gvir and Bezalel Smotrich.\nIt seems the prime minister has decided to simplify the task for the British and make the choice for them.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-14T23:50:21+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
