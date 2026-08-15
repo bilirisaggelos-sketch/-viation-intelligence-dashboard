@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T10:42:06.224964+00:00",
+  "generated_at": "2026-08-15T11:01:34.328588+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -441,6 +441,25 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
+      "text": "EXCLUSIVE: Sudan Army\u2019s AKINCI drone shot down a Chinese-made CH-95 drone operated by the UAE-backed RSF terror group in an air-to-air engagement.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-15T10:58:11+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
       "text": "Russia's Volgograd: People fighting at the pumps at gas station amid Russia's ongoing fuel crisis. \nSouthern Russia has faced recurring shortages since Ukrainian drone strikes hit refineries.\nStations have imposed purchase limits, queues stretch for kilometers, and drivers have camped overnight for fuel.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -697,13 +716,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Geopolitics Prime",
         "Mediterranean Man"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -879,6 +897,25 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udc79\ud83c\uddee\ud83c\uddf1US presses Netanyahu to condemn settler siege of Palestinian homes\nThe Trump administration is urging Benjamin Netanyahu to issue clear public condemnation of the actions of [the militant settlers](https://t.me/geopolitics_prime/73353), reports Reuters.\nThe pressure intensified after the White House learned that one of the targeted homes belongs to a Palestinian-American, a US official and an Israeli official are cited as saying.\nEven US Ambassador to Israel Mike Huckabee - normally a vocal supporter of Jewish settlement activity - on Thursday labeled the settlers \u201cIsraeli terrorists.\u201d\nFor nearly a week, settlers have [encircled homes ](https://t.me/geopolitics_prime/73330)in the village of Qusra.\n\ud83d\udd36 They sealed off the road to three houses and pitched a tent in the front yards, blocking anyone from entering or leaving\n\ud83d\udd36 They earlier cut electricity and water supplies\n\ud83d\udd36 Some 15 Palestinians, including two children, have been trapped inside without running water or power\nForeign and Israeli activists delivered limited aid - food, bottled water, and canned goods - on Friday, but the IDF that arrived on Thursday barred them from reaching the homes directly, declaring the area a closed military zone for non-residents.\nWhat is happening in Qusra is part of a systematic, calculated strategy by extremist settlers and the Israeli government to seize Palestinian land in the occupied West Bank.\n\ud83d\udc49 According to rights groups, settlers are attempting to seize properties on the outskirts of Qusra and neighboring Jalud in order to connect them with nearby larger settlements in classic land-grab tactics.\nUnder the official pretext of stopping escalating settler attacks, the IDF has been extensively using [a new military decree](https://t.me/geopolitics_prime/73395) and declaring areas a \"closed military zone\", in effect allowing settler attacks to continue with impunity.\nNetanyahu\u2019s government has aggressively accelerated settlement expansion in land Israel captured in 1967, establishing dozens of new settlements and outposts.\nPublic condemnation just two months before an election could alienate the settler movement - a powerful voting bloc that forms a crucial pillar of Netanyahu\u2019s right-wing coalition.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-15T10:45:28+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
       "text": "\ud83c\uddee\ud83c\uddf7\ud83e\ude90 Elon Musk\u2019s Starlink promised faster data, Iran\u2019s air defenses promised faster downing, guess who won?\nThe IRGC is now displaying wreckage from 171 downed US and Israeli aircraft and drones \u2014 including MQ-9 Reapers, Hermes 900s, an F-15 fighter jet, and Starlink modems recovered from the wreckage.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
@@ -926,13 +963,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Geopolitics Prime",
-        "Mediterranean Man"
+        "Geopolitics Prime"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
