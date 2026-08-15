@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T06:03:25.400692+00:00",
+  "generated_at": "2026-08-15T06:59:48.305717+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -200,44 +200,6 @@
       "severity": "critical",
       "icon": "\ud83d\udea8",
       "timestamp": "08/10/2026",
-      "location": "ZDV CO",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nMAYPORT, FL, Monday, August 10, 2026 through Saturday, August 15, 2026 Local\nFacility: ZJX",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "08/08/2026",
-      "location": "ZJX FL",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nDENVER, CO, Thursday, August 13, 2026 through Friday, August 14, 2026 Local\nFacility: ZDV",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "08/07/2026",
       "location": "ZDV CO",
       "lat": null,
       "lon": null,
@@ -691,6 +653,101 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
+      "text": "The Progress complex in Samara is burning heavily this morning after an FP-5 Flamingo missile strike. Severe damage appears likely, but satellite imagery is still needed to confirm the impact. The regional governor confirmed a missile hit on an enterprise, for once not debris.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-15T06:58:11+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "\u2757\ufe0fTwo Ukrainian FP-5 Flamingo cruise missiles reportedly struck Samara. The likely target was TsSKB-Progress. TsSKB-Progress develops, produces and operates medium-class launch vehicles and spacecraft for Earth observation and scientific purposes. The enterprise says more than 1,700 launch vehicles and 950 spacecraft of its design have been launched.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-15T06:57:58+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "\u2757\ufe0fUkrainian drones struck Russia\u2019s Savasleyka military airfield in Nizhny Novgorod region. The base hosts MiG-31K aircraft capable of launching Kinzhal missiles. Russian aircraft are reportedly being evacuated as the attack continues, while air defenses have been active near the airfield. Fires were reported in the area following explosions, but the full extent of any damage is still being assessed.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-15T06:57:54+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "Ukraine says air defenses downed or suppressed 127 Russian aerial targets overnight: 124 Shahed, Gerbera and other drones, plus 3 Banderol loitering munitions. Russia launched 152 aerial targets in total; impacts were recorded at 16 locations.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-15T06:57:48+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "\u26a1\ufe0f\ud83c\uddf1\ud83c\udde7\ud83c\uddee\ud83c\uddf1 An Israeli drone dropped an explosive device on the Ali al-Taher heights in southern Lebanon.\u200f\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n \n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-15T06:57:36+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
       "text": "\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfa In short.. Russian soldier drives car on front.. Ukrainian drone strikes car.. Russian soldier looses his leg above the knee and dislocates his hip. If he\u2019s lucky and there\u2019s no infection he\u2019ll live the rest of his life with no leg if not \ud83d\udc80\n10/10 don\u2019t recommend",
       "source": "Telegram",
       "source_type": "telegram",
@@ -728,39 +785,20 @@
     },
     {
       "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6 Ukraine missile targeted the southern western Russian city of Samara a few moments ago.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddee\ud83c\uddf7\ud83d\udca3 How new indigenous Iranian air defenses turn the skies into an intelligence goldmine\nIran has showcased US and Israeli drones \u2013 some remarkably intact \u2013 that were intercepted by the Islamic Republic\u2019s local defense systems during the war.\nMQ-9 Reaper, Hermes 900 and Hermes 450 unmanned aerial vehicles, along with technical equipment from an MQ-9 and a US F-15 fighter jet, have been put on display at one of the IRGC\u2019s underground bases and aired by IRIB on August 14.\n\ud83d\udcac \u201cThanks to measures taken before the war, more than 85 percent of the production infrastructure for air-defense systems manufactured by the Aerospace Force\u2019s Self-Sufficiency Jihad Organization was preserved,\u201d an IRGC officer said, as quoted by Press TV.\nIn March, the IRGC stated it had seized a fully armed Hermes 900 medium-altitude, long-endurance strike drone. According to the force, the drone was detected, electronically trapped and brought under Iranian control by a newly-deployed air-defense system before it could carry out a strike.\nCapturing an intact UAV offers a rare intelligence windfall, turning air-defense operations into an intelligence-gathering strategy, Defense Security Asia reported at the time.\n\ud83d\udc49 The outlet suggested Iran\u2019s success stems from a layered air-defense network combining sensors, radar, interceptor missiles and electronic warfare systems to detect and neutralize aerial threats across different ranges and altitudes. Overlapping detection and engagement zones make it harder for reconnaissance and strike drones to penetrate defended airspace.\nMore importantly, captured drones give Iranian specialists valuable material to further refine the country\u2019s electronic-warfare countermeasures against similar systems.\nA total of 171 airborne targets were reportedly hit during the 40-day war, including 10 manned aircraft, Press TV reported, citing IRGC officers.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-15T04:05:38+00:00",
+      "timestamp": "2026-08-15T06:12:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6 [Euronews](https://www.euronews.com/my-europe/2026/08/14/russia-admits-new-petrol-shortages-amid-ongoing-long-range-ukrainian-strikes): Russia has acknowledged fresh petrol shortages as continued Ukrainian long-range strikes disrupt the country\u2019s oil-refining sector. \nThe Orsk refinery has completely shut down after a Ukrainian drone strike, with repairs potentially taking up to six months because damaged equipment is difficult to replace under sanctions. \nAuthorities in the Orenburg region say only around 80% of filling stations remain operational, with emergency and specialised vehicles receiving priority for fuel. \n\ud83d\udca7 [Rainbet.com](https://www.rainbet.com/) the #1 Non-KYC Crypto Casino & Sportsbook +18",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-15T03:58:24+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
@@ -821,25 +859,6 @@
         "Middle East Spectator"
       ],
       "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddee\ud83c\uddf1 Did Israel play the \u201cIran threat\u201d card AGAIN to push Trump toward war?\nThe secret operation to spirit President Donald Trump out of Turkey last month undercover was based on Israeli intelligence that US officials themselves viewed as \"low confidence,\" according to the Wall St. Journal.\n\ud83d\udd34 The information, which suggested Iran might assassinate Trump using a shoulder-launched missile, prompted the Secret Service to move the president from Air Force One to a separate C-32A aircraft using a catering truck\n\ud83d\udd34 But the CIA never found the intelligence compelling, and Turkish officials also told their American counterparts that they had no evidence to support the Israeli claims\nSome US intelligence officials now suspect Israel's warnings were designed less to inform and more to influence Trump's attitude toward escalation with Iran and to worsen relations with Turkey, Israel's longstanding rival.\nThis apparent attempt to pressure the American president fits a broader pattern of Israeli efforts to shape US policy. Israel reportedly signaled last week that it would continue the war against Iran alone if the US withdraws from the conflict \u2013 possibly trying to force Trump to maintain the current course and derail talks with Iran.\nIsrael has a long history of using the Iranian threat as a pretext for its global interests.\n\ud83d\udd36 Netanyahu used a similar scheme in 2012 when he accused Iran of being in the final stages of building a nuclear bomb during his UN speech \u2013 information that was never confirmed\n\ud83d\udd36 Israeli warnings of Iranian assassination plots intensified before the US launched strikes on Iran in February and before the June 2025 war\n\ud83d\udd36 Earlier this year, US intelligence assessed that Iran was not actively building a nuclear weapon, but Israel argued Iran posed an urgent threat \u2013 and Trump moved forward with military action anyway\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-14T15:44:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
     },
     {
       "title": "Telegram",
