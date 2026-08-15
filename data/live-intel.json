@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T06:59:48.305717+00:00",
+  "generated_at": "2026-08-15T07:38:49.163742+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -653,6 +653,44 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
+      "text": "CyberBoroshno\u2019s preliminary analysis says FP-5 Flamingo missiles likely struck Building 106A at RKC Progress in Samara, the only Russian facility serially assembling Soyuz-2 launch vehicles. The building reportedly handles onboard electrical systems, instruments, circuit boards, control systems and cabling. Building 106B, used for final assembly, is located nearby. The full scale of damage is still being assessed through satellite imagery.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-15T07:21:13+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "Russian cope nets. Ships calling at Russian seaports have begun being covered with anti-drone nets.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-15T07:21:05+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
       "text": "The Progress complex in Samara is burning heavily this morning after an FP-5 Flamingo missile strike. Severe damage appears likely, but satellite imagery is still needed to confirm the impact. The regional governor confirmed a missile hit on an enterprise, for once not debris.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -754,25 +792,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-15T05:25:20+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfa A suspected Ukrainian strike has targeted Russia\u2019s aerospace industry in Samara, with explosions and a fire reported near the TsSKB-Progress facility.\nThe facility specializes in producing medium-class space launch vehicles, while the nearby Aviakor plant repairs and modernizes aircraft.\nThe weapon used remains unclear, although speculation has emerged that Ukraine\u2019s Flamingo missile may have been involved.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-15T04:08:11+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
