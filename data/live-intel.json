@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T13:35:35.763558+00:00",
+  "generated_at": "2026-08-15T14:00:46.286823+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -441,6 +441,25 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
+      "text": "Ukraine\u2019s Patriot interceptors are running critically low, leaving Kyiv unable to intercept recent Russian ballistic missile attacks. \nWith Russia increasing missile production ahead of winter and US and allied stocks depleted, Ukraine fears its air defences\u2014and its recent battlefield momentum\u2014could collapse without urgent resupply.\nSource: FT",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-15T13:53:37+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
       "text": "WATCH: Russia has started using \"lurker drones\" that land and hide out of sight near roads, using microphones to listen for approaching vehicles. \nThe drone can wait in ambush for hours and activate when it detects a vehicle nearby.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -485,25 +504,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-15T10:31:27+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Zelensky:\nIn the Samara region of Russia, one of the key enterprises within the \"Roscosmos\" corporation was hit \u2013 the \"Progress\" center, which was involved in the production of electronics.\nThe distance from our border is approximately 900 kilometers. \nOur long-range sanctions have also reached the \"Savasleika\" airfield, where carriers of Russian missiles that attack our cities and villages are based.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-15T08:46:14+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -637,25 +637,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-14T11:47:53+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf7\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8Destruction of an MQ-9 Drone in the Skies of Hormozgan\n An MQ-9 drone was intercepted and destroyed in the skies of Hormozgan province by the IRGC's advanced modern defense system, operating under the control of the country's integrated air defense network.\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-14T11:28:55+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -990,44 +971,6 @@
         "Mediterranean Man"
       ],
       "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udc79 Netanyahu: UK is first 'Islamic republic' with nuclear weapons\nThe UK has become the \"first Islamic republic to get a nuclear weapon,\" Israeli PM Benjamin Netanyahu declared in a podcast interview for Israel's army radio.\nHis comments were praised by no one except the host, who helpfully asked whether Netanyahu thought \"all of Europe is like that\" \u2013 a prompt the prime minister eagerly accepted.\nThe statement came as relations with the UK have been cooling, with Britain signaling a reassessment of its approach to Israel. The UK is preparing to ban goods from illegal Israeli settlements in the West Bank, is considering further sanctions on individuals and organizations linked to the settler movement, and has already imposed sanctions on far-right ministers Itamar Ben Gvir and Bezalel Smotrich.\nIt seems the prime minister has decided to simplify the task for the British and make the choice for them.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-14T23:50:21+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udea8\ud83c\uddfa\ud83c\uddf8 White House Promised $3 Gas \u2014 Iran War Sends U.S. Fuel Prices to Seasonal Record Highs\nTreasury Secretary Scott Bessent predicted in April that gasoline would return to $3 a gallon between June 20 and September 20. By mid-August, gasoline still averaged about $4.03 and diesel about $5.35. Americans have never paid this much for fuel this late in the year.\nGasoline was $2.98 on February 27, the day before the US and Israel attacked Iran. The war has added more than $1 to every gallon even after prices retreated from their May peak. Diesel has risen from about $3.76, adding more than $1.50 per gallon to the fuel used by trucks, farms, construction equipment and freight trains.\nPump prices normally decline in August as summer road travel slows and refineries prepare to switch to cheaper winter-grade gasoline. Restricted traffic through the Strait of Hormuz and a global shortage of refined products have overwhelmed this pattern.\nAmerican oil production cannot quickly fill the gap. US refineries are already operating at about 96% of capacity. Distillate inventories, which include diesel and heating oil, stood at 107.2M barrels at the end of July\u2014the lowest level for this point of the year in three decades.\nThe shortage is concentrated inside the refining system, not solely in crude markets. Diesel refining margins reached a record $93.84 per barrel on August 10, while gasoline margins recently hit $60. Producing more high-margin diesel and jet fuel limits the output of other products, keeping gasoline expensive even when crude prices ease.\nThe [beneficiaries](https://t.me/newrulesgeo/2278) are easy to identify. Marathon Petroleum, Phillips 66 and Valero earned a combined $12.6B in the second quarter, compared with $2.9B a year earlier. They returned $6.3B to shareholders through dividends and buybacks, while their shares rose between 75% and 110% this year.\nFuel accounts for 20\u201325% of US trucking companies\u2019 operating costs. The higher diesel bill moves through freight rates into groceries, deliveries, building materials and almost every product carried by road.\nThe White House treated America\u2019s position as the world\u2019s largest oil producer as protection from a war around Hormuz. Domestic wells supply crude; they do not instantly create the gasoline and diesel required by a continental economy. With refineries near their limits and inventories depleted, disrupted Gulf flows continue to reach American households through fuel bills, freight costs and inflation.\n us on X](https://x.com/NewRulesGeo?t=6cJ2ZyQr-1f_lBvKPNggKw&s=09)",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-14T22:23:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
     },
     {
       "title": "Telegram",
