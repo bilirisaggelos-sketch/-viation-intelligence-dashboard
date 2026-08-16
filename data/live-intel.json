@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T15:59:56.053186+00:00",
+  "generated_at": "2026-08-16T16:37:20.211082+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -346,6 +346,25 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
+      "text": "US servicemen in the Middle East scrawled protest messages in dust on a drone flap, including \"be a good goy and do what Israel tells you to,\" \"Operation Epstein Fury, and \"ALL THIS FOR THE HOLY LAND.\"",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-16T16:19:24+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
       "text": "WATCH: Russian soldier shoots down an FPV drone seconds before it hits the vehicle.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -649,6 +668,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Our Wars Today"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddf1\ud83c\udde7\u274c\ud83c\uddee\ud83c\uddf1 \u2014 The Israeli newspaper Yedioth Ahronoth:\nAfter 32 years since his father was injured in the Sujud area in southern Lebanon, the soldier (A) was seriously wounded as a result of the explosion of a Hezbollah drone packed with explosives in the Ali al-Tahir area, on Saturday morning.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-16T16:11:17+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
       ],
       "verified_source_count": 1
     },
