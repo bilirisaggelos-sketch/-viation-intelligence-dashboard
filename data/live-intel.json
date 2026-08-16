@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T04:01:26.341116+00:00",
+  "generated_at": "2026-08-16T04:52:12.840420+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -383,63 +383,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea NEW: Saudi-controlled Mokha Port was largely destroyed by Yemeni missile strukes",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-15T11:20:49+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "NEW: Hezbollah hit IDF forces with an explosive drone on the Ali al-Taher Ridge in southern Lebanon, seriously wounding three Israeli soldiers.\nIsrael responded by striking a Radwan Force headquarters in Ansar, killing battalion commander Ali Samir Al-Haj Hassan and several operatives.\nLebanese authorities reported seven dead in the strike, including Hassan's wife and four children.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-15T17:05:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Yemen's Houthis fired six ballistic missiles at the government-held port of Mocha on the Red Sea coast.\nAt least seven people were killed, vessels were sunk, and fishing boats set on fire.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-15T16:50:50+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Our Wars Today",
       "text": "\ud83c\uddf7\ud83c\uddfa \ud83c\uddfa\ud83c\udde6 Audio-Based Drone Ambush Attacks: \nVia \"Russian Waiter FPV drones now have audio intakes: New versions of the \u201cZhdu\u201d FPV drones, equipped with microphones, have begun to appear in Russian forces. This allows the operator to hear approaching vehicles and detect their presence without revealing the drone\u2019s own position. This makes it somewhat more difficult to detect an ambush and leaves the driver with minimal time to react. The drone managed to hit a supply truck with Ukrainian soldiers on the back without any protection. It took less than 20 seconds for ambush to start and end. The idea of recording audio with an FPV drone is far from new. There\u2019s no technological revolution here. But as a method for organizing an ambush, the approach is quite effective.\"\nMore Coverage: T.me/ourwarstoday \n---\n24/7 LIVE News RSS feed: t.me/ournewsfeedtoday\n---\nFootage: t.me/ourwars\n---\nSupport OWT: https://ko-fi.com/ourwarstoday",
       "source": "Telegram",
@@ -649,25 +592,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddf6\ud83c\udde6\ud83c\uddee\ud83c\uddf7 \u2014 Qatari Foreign Ministry spokesperson:\nWe categorically deny the claims circulating regarding the detention of Iranian pilots, and we are surprised by these misleading statements at this particular time, amid ongoing diplomatic efforts and initiatives aimed at de-escalating tensions in the region.\nWe confirm that contact was made with the pilots concerned after they violated Qatari airspace, and the trajectory of the targeting was verified. After following the rules of engagement and attempting to communicate with them without receiving a response, the necessary measures were taken to defend our territory in accordance with international law, as was clarified at the time through official channels.\nIn this context, we note that Qatari search-and-rescue teams, which possess world-class expertise and capabilities, carried out their duties fully in searching for the remains of the pilots. The State of Qatar also contacted the Iranian side to coordinate the handover of the remains of one of the pilots who was found, in accordance with the relevant provisions of international humanitarian law. Qatar also invited a team to visit and review the details of the search-and-rescue operations last April, but the Iranian side has not responded to the invitation to date.\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-15T18:48:42+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Mediterranean Man",
       "text": "\u26a1\ufe0f\ud83c\uddf8\ud83c\udde9\ud83c\uddee\ud83c\uddf7 Sudanese Armed Forces (SAF) operating technicals armed with multiple rocket Launchers and brand new Iranian rockets.\nFighters are using 107mm Fadjr-1 rockets \u2014 seemingly made in 2025 / 2026 and indicate that the supply chain originating from Iran is still active (at least for some of the ammunition/rockets). \nAlso note the first guy armed with a custom painted M14 at the beginning of the video. A pink mag and 2 tone green wood chassis is certainly a choice.",
       "source": "Telegram",
@@ -682,6 +606,44 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "Another Wildberries warehouse in Russia has reportedly been struck by Ukrainian drones, this time at the company's facility in Koledino, Moscow Oblast, in an attack that occurred within the past several hours.\nThe strike comes as Ukraine has conducted a sustained campaign against Wildberries' logistics network. Reuters previously assessed that more than 20% of the company's nationwide warehouse capacity, approximately 1.18 million square meters, had been damaged or destroyed in attacks since mid-July.\nWildberries is Russia's largest online retailer, and the repeated attacks have disrupted inventory, warehouse operations and deliveries across its nationwide distribution network. The company has reportedly begun taking measures to move goods and adjust its logistics operations in response to the damage.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-16T04:43:58+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "Iranian officials have accused Qatar of holding three Iranian military pilots who went missing after their aircraft were downed in March, confirming that Iranian aircraft violated Qatari airspace.\nQatar has rejected the claim, saying the aircraft violated sovereign Qatari airspace and that Qatari authorities attempted to contact the aircraft but received no response. Qatar says that \"necessary measures were taken to defend our territory.\"\nQatar subsequently conducted search-and-rescue operations and says it recovered the remains of one pilot. Doha says it contacted Tehran to coordinate the handover but received no response, and has invited Iranian officials to review the details of the incident.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-16T04:43:47+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
       ],
       "verified_source_count": 1
     },
@@ -751,82 +713,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-15T06:57:58+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "\u2757\ufe0fUkrainian drones struck Russia\u2019s Savasleyka military airfield in Nizhny Novgorod region. The base hosts MiG-31K aircraft capable of launching Kinzhal missiles. Russian aircraft are reportedly being evacuated as the attack continues, while air defenses have been active near the airfield. Fires were reported in the area following explosions, but the full extent of any damage is still being assessed.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-15T06:57:54+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "Ukraine says air defenses downed or suppressed 127 Russian aerial targets overnight: 124 Shahed, Gerbera and other drones, plus 3 Banderol loitering munitions. Russia launched 152 aerial targets in total; impacts were recorded at 16 locations.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-15T06:57:48+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddf1\ud83c\udde7\ud83c\uddee\ud83c\uddf1 An Israeli drone dropped an explosive device on the Ali al-Taher heights in southern Lebanon.\u200f\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n \n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-15T06:57:36+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfa In short.. Russian soldier drives car on front.. Ukrainian drone strikes car.. Russian soldier looses his leg above the knee and dislocates his hip. If he\u2019s lucky and there\u2019s no infection he\u2019ll live the rest of his life with no leg if not \ud83d\udc80\n10/10 don\u2019t recommend",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-15T05:25:20+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
