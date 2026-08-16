@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T21:57:58.671990+00:00",
+  "generated_at": "2026-08-16T22:31:27.841136+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -393,12 +393,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "Clash Report"
+        "Clash Report",
+        "Geopolitics Prime"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -728,25 +729,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1\ud83c\uddf1\ud83c\udde7\ud83c\uddf5\ud83c\uddf8\ud83c\uddee\ud83c\uddf7 \u2014 IDF Assesses Growing Hamas-Hezbollah Coordination Backed by Iran Amid Border Escalations, \u2014 THE JERUSALEM POST. \n\u200b\u27a1\ufe0f The IDF has assessed that Hamas and Hezbollah have begun coordinating their increased military activities with assistance from Iran in an effort to rebuild their regional axis and ramp up pressure on Israel. The heightened friction spans both fronts, highlighted by a recent fiber-optic drone attack along the Ali Taher ridge in southern Lebanon that wounded three Yahalom engineering soldiers, as well as an explosive device detonation targeting an IDF tank in the southern Gaza Strip.\n\u200b\u27a1\ufe0f On the northern front, military operations are locked in a tactical \"battle of wits\" as troops work to block underground supply routes and neutralize Hezbollah operatives emerging for provisions. Meanwhile, retaliatory strikes remain bound by diplomatic constraints; restrictions from the White House have kept Beirut off-limits for senior Shiite leadership and prevented broad strikes in Gaza City following the recent escalation along the Yellow Line.\n\u2b50\ufe0f Follow",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-16T10:57:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Mediterranean Man",
       "text": "\u26a1\ud83c\uddf1\ud83c\udde7\ud83c\uddee\ud83c\uddf1 Yedioth Ahronoth newspaper : 32 years after his father was injured in the Suajd (Sughd) region of southern Lebanon, Soldier (A) was seriously injured yesterday morning (Saturday) due to the explosion of a Hezbollah explosive drone in the Ali al-Tahir region.\nNote: The strategic area and site of Suajd in Mount Rihan in Iqlim al Tuffah (Apple region) , southern Lebanon, was liberated through a series of successful military operations, most notably the Islamic Resistance's (Hezbollah) famous storming of the site on September 18, 1986, before its complete liberation and the liberation of the entire area were finalized with the liberation of 2000.",
       "source": "Telegram",
@@ -878,6 +860,26 @@
         "CASELS"
       ],
       "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udc51 Trump KNEELS before Kim Jong-un, reduces drills with South Korea\nDemented Don has ordered Pete Hegseth to \u201csubstantially reduce\u201d US-South Korea military exercises, calling them costly, \u201ctotally inappropriate and hostile\u201d toward North Korea.\n\ud83d\udcac \u201cBased on my very good relationship with Kim Jong Un, of North Korea... a Country that, as long as Donald J. Trump has been President, has been unthreatening and respectful,\u201d he said, laying it on thick and licking Kim\u2019s boots.\nThen NORTHCOM helpfully explained the real reason the Emperor is worshiping his former arch-enemy.\n\ud83d\udcac \u201cThe North Koreans have successfully flight-tested ICBMs with enough boost to deliver a nuclear payload anywhere in North America,\u201d Deputy Commander Lt. Gen. Joseph Jarrard warned.\n\ud83c\udff3\ufe0f He also admitted that \u201cgeography no longer provides the protection\u201d the US once enjoyed.\nThe US missile stockpiles are reportedly running so dry thanks to Trump\u2019s war against Iran and support for Ukraine that the US really cannot afford another war right now.\n\ud83d\udca5 Iran should have gotten nukes like North Korea did. Maybe Iran would be reading Trump\u2019s love letters now instead of annihilation threats. \ud83d\udc8c \n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-16T22:28:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Clash Report",
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
