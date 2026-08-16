@@ -1,6 +1,25 @@
 {
-  "generated_at": "2026-08-16T21:00:41.058665+00:00",
+  "generated_at": "2026-08-16T21:35:42.018467+00:00",
   "events": [
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nWilliamsport, PA, Sunday, August 23, 2026 through Sunday, August 23, 2026 Local\nFacility: ZNY",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "08/16/2026",
+      "location": "ZNY PA",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nEast Rutherford, NJ, Friday, August 21, 2026 through Wednesday, August 26, 2026 Local\nFacility: ZNY",
@@ -697,25 +716,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-16T10:57:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddf1\ud83c\udde7\u274c\ud83c\uddee\ud83c\uddf1 \u2014 Walla Hebrew website, citing a senior Israeli army official: \nWhat happened on Saturday was that Hezbollah detected our movements in the Ali Al-Taher area and attacked us with a drone.\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-16T10:01:59+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
