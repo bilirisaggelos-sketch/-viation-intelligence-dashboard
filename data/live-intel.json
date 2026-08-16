@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T17:57:58.699696+00:00",
+  "generated_at": "2026-08-16T18:40:50.624608+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -854,25 +854,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-16T11:11:59+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddf1\ud83c\udde7\ud83c\uddee\ud83c\uddf1 Apache attack helicopters are opening fire toward Ali Al-Taher Hill. Coupled with heavy airstrikes and artillery bombardment targeting the hill and surrounding areas.\nThe assault resembles a full scale mountain military operation.\nHowever Hezbollah launched drone strikes aimed at the advancing troops and military vehicles, successfully stopping the Israeli advance.\nFollowing that, Israeli forces bombed the Jabal Al-Rafi mountain in the Iqlim Al-Tuffah (Apple region) for some reason.\nThe Iqlim Al-Tuffah (Apple region) is widely recognized for its extensive Hezbollah underground networks and fortified positions. In 2000, the area witnessed intense fighting where Hezbollah held off advancing Israeli forces, which in a way reflects the ongoing defense of the Ali Al-Taher hill today.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-16T06:44:24+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
