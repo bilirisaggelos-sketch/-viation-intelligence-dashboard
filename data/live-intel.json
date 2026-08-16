@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T14:01:49.475903+00:00",
+  "generated_at": "2026-08-16T14:41:40.862971+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -346,6 +346,25 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
+      "text": "WATCH: Russian soldier shoots down an FPV drone seconds before it hits the vehicle.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-16T14:29:24+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
       "text": "Ukraine has knocked out 7 of Wildberries' 10 largest logistics centers. \nIn total, 21 of the top 30 warehouses of Russia's biggest e-commerce platform have been struck by drone attacks.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -395,12 +414,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "Clash Report"
+        "Clash Report",
+        "Our Wars Today"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -474,11 +494,186 @@
       "verification_status": "VERIFIED",
       "verification_confidence": 90,
       "verified_sources": [
-        "CASELS",
         "Clash Report",
-        "Mediterranean Man"
+        "Mediterranean Man",
+        "Our Wars Today"
       ],
       "verified_source_count": 3
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Our Wars Today",
+      "text": "[A NATO fighter shot down a drone over Romania](https://www.pravda.com.ua/news/2026/08/16/8048864/)\nA Spanish F-18 fighter jet shot down a drone over Romania. This is the fourth incident of a drone intrusion into Romanian airspace. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://www.pravda.com.ua/news/2026/08/16/8048864/)\n\u0420\u043e\u043c\u0430\u043d \u041f\u0435\u0442\u0440\u0435\u043d\u043a\u043e | pravda\u200b.com\u200b.ua \u2022 Aug 16, 2026",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-16T14:37:45+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
+      "verified_sources": [
+        "Clash Report",
+        "Mediterranean Man",
+        "Our Wars Today"
+      ],
+      "verified_source_count": 3
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Our Wars Today",
+      "text": "[Ukraine launches one of its largest aerial attacks of the war, killing at least 6 people in Russia](https://apnews.com/article/russia-ukraine-war-01294bf8744282086e8f76c8130e16ba)\nUkraine has launched hundreds of drones across Russia, marking one of Kyiv\u2019s largest aerial attacks of the war. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://apnews.com/article/russia-ukraine-war-01294bf8744282086e8f76c8130e16ba)\nThe Associated Press | apnews\u200b.com \u2022 Aug 16, 2026",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-16T14:37:36+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Our Wars Today"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Our Wars Today",
+      "text": "[US top Middle East commander visits deployed aircraft carrier, and other Mideast news](https://apnews.com/article/iran-us-israel-lebanon-gaza-uss-lincoln-august-16-2026-98f43f920c102080a3526981cf0dd7b8)\nAdm. Brad Cooper, the top U.S. military commander in the Middle East, has visited the USS Lincoln in the Arabian Sea. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://apnews.com/article/iran-us-israel-lebanon-gaza-uss-lincoln-august-16-2026-98f43f920c102080a3526981cf0dd7b8)\nThe Associated Press | apnews\u200b.com \u2022 Aug 16, 2026",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-16T14:37:25+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Geopolitics Prime",
+        "Our Wars Today"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Our Wars Today",
+      "text": "[The General Staff confirmed the destruction of a missile unit in Crimea and a bridge in Zaporizhzhia](https://www.pravda.com.ua/news/2026/08/16/8048870/)\nOn the night of August 16, the Defense Forces hit the concentration area of \u200b\u200bthe Russian missile unit in the occupied Crimea, the railway bridge in Zaporizhzhia, and enemy warehouses in Donetsk region. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://www.pravda.com.ua/news/2026/08/16/8048870/)\n\u0420\u043e\u043c\u0430\u043d \u041f\u0435\u0442\u0440\u0435\u043d\u043a\u043e | pravda\u200b.com\u200b.ua \u2022 Aug 16, 2026",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-16T14:37:16+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Our Wars Today"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Our Wars Today",
+      "text": "[Ukrainian drones strike Moscow region, killing one](https://www.reuters.com/world/ukrainian-drones-strike-moscow-region-killing-one-2026-08-16/)\nUkrainian drones struck Moscow region overnight on Sunday in what the provincial \u200bgovernor said was one of the largest \u200cattacks to have targeted the region, and which he said had left at least one person \u200bdead. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://www.reuters.com/world/ukrainian-drones-strike-moscow-region-killing-one-2026-08-16/)\nReuters | reuters\u200b.com \u2022 Aug 16, 2026",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-16T14:37:04+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Our Wars Today"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Our Wars Today",
+      "text": "[\u26a1\ufe0f - Russian attacks across Ukraine kill 7, injure 51 as Kyiv hit in overnight barrage; drone downed over Romania. Most...](https://t.me/KyivIndependent_official/54825)\n\u26a1\ufe0f Russian attacks across Ukraine kill\n[https://kyivindependent.com/russian-attacks-across-ukraine-kill-at-least-7-injure-51/]\n7, injure 51 as Kyiv hit in overnight barrage; drone downed over Romania.\nMost of the overnight Russian attacks targeted Kyiv, Kremenchuk in Poltava\nOblast, and Kryvyi Rih in Dnipropetrovsk Oblast. \u2013 Join Telegrams:\nt.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013\nSupport OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://t.me/KyivIndependent_official/54825)\n | t\u200b.me \u2022 Aug 16, 2026",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-16T14:36:49+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Our Wars Today"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Our Wars Today",
+      "text": "[Russia attacked a post office in a shopping center near Odesa, there are casualties](https://www.pravda.com.ua/news/2026/08/16/8048887/)\nRussian troops attacked a post office in a shopping center in the suburbs of Odessa with a jet drone, injuring two people. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://www.pravda.com.ua/news/2026/08/16/8048887/)\n\u0420\u043e\u043c\u0430\u043d \u041f\u0435\u0442\u0440\u0435\u043d\u043a\u043e | pravda\u200b.com\u200b.ua \u2022 Aug 16, 2026",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-16T14:36:28+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Clash Report",
+        "Our Wars Today"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Our Wars Today",
+      "text": "[An object similar to a sea drone was found in Romania](https://www.pravda.com.ua/news/2026/08/16/8048891/)\nSuspicious objects were discovered on the beach of Romanian Constanta, one of which looks like a marine drone. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://www.pravda.com.ua/news/2026/08/16/8048891/)\n\u041e\u043b\u044c\u0433\u0430 \u041a\u043e\u0432\u0430\u043b\u044c\u0447\u0443\u043a,\u0420\u043e\u043c\u0430\u043d \u041f\u0435\u0442\u0440\u0435\u043d\u043a\u043e | pravda\u200b.com\u200b.ua \u2022 Aug 16, 2026",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-16T14:36:10+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Our Wars Today"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Our Wars Today",
+      "text": "[Ministry of Defense: Ukraine disabled 7 of the 10 largest Wildberries logistics centers](https://www.pravda.com.ua/news/2026/08/16/8048882/)\nAs a result of the drone attack, Ukraine stopped the operation of key Wildberries warehouses in the Russian Federation. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://www.pravda.com.ua/news/2026/08/16/8048882/)\n\u0420\u043e\u043c\u0430\u043d \u041f\u0435\u0442\u0440\u0435\u043d\u043a\u043e | pravda\u200b.com\u200b.ua \u2022 Aug 16, 2026",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-16T14:35:18+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Our Wars Today"
+      ],
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -489,82 +684,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-15T22:11:59+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Our Wars Today"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Our Wars Today",
-      "text": "[Ukraine says it hit Russian rocket centre linked to Starlink-style network](https://www.reuters.com/business/aerospace-defense/ukraine-says-it-hit-russian-rocket-centre-linked-starlink-style-network-2026-08-15/)\nUkraine said on Saturday \u200bits long-range strikes had hit a Russian military airfield and a rocket centre that Kyiv says \u200csupports Russia's nascent Starlink-style satellite internet network. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://www.reuters.com/business/aerospace-defense/ukraine-says-it-hit-russian-rocket-centre-linked-starlink-style-network-2026-08-15/)\nReuters | reuters\u200b.com \u2022 Aug 15, 2026",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-15T13:01:36+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Our Wars Today"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Our Wars Today",
-      "text": "[Turkey cuts Russian oil imports as Black Sea export disruptions curb supplies, data shows](https://www.reuters.com/business/energy/turkey-cuts-russian-oil-imports-black-sea-export-disruptions-curb-supplies-data-2026-08-14/)\nTurkey reduced oil purchases from Russian ports in July and is set to cut them further in August after Ukrainian drone attacks disrupted \u200bexports from Russia's Black Sea terminals, according to traders and LSEG \u200cshipping data. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://www.reuters.com/business/energy/turkey-cuts-russian-oil-imports-black-sea-export-disruptions-curb-supplies-data-2026-08-14/)\nReuters | reuters\u200b.com \u2022 Aug 14, 2026",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-14T13:33:03+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Our Wars Today"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Our Wars Today",
-      "text": "[U.S. Not Prepared To Handle Drone Attack From Inside Homeland: Deputy NORAD Commander](https://www.twz.com/air/u-s-not-prepared-to-handle-drone-attack-from-inside-homeland-deputy-norad-commander)\nA top general in charge of protecting the U.S. gave a refreshingly frank but also troubling assessment of America's drone defenses. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://www.twz.com/air/u-s-not-prepared-to-handle-drone-attack-from-inside-homeland-deputy-norad-commander)\nHoward Altman | twz\u200b.com \u2022 Aug 13, 2026",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-13T20:14:55+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Our Wars Today"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Our Wars Today",
-      "text": "\ud83c\uddfa\ud83c\uddf8 \ud83c\uddee\ud83c\uddf1 \u26a0\ufe0f \ud83c\uddee\ud83c\uddf7 #BREAKING #Trump Pledges To Annex/\"Keep\" Strait Of Hormuz For Israeli-American War On #Iran, Unclear Whether #UnitedStates Or #Israel Will Retain Control In Future If #Netanyahu Ends War: \nMore Coverage: T.me/ourwarstoday \n---\n24/7 LIVE News RSS feed: t.me/ournewsfeedtoday\n---\nFootage: t.me/ourwars\n---\nSupport OWT: https://ko-fi.com/ourwarstoday",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-12T16:44:38+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -668,9 +787,9 @@
       "verification_status": "VERIFIED",
       "verification_confidence": 90,
       "verified_sources": [
-        "CASELS",
         "Clash Report",
-        "Mediterranean Man"
+        "Mediterranean Man",
+        "Our Wars Today"
       ],
       "verified_source_count": 3
     },
@@ -762,14 +881,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "CASELS",
-        "Clash Report",
-        "Mediterranean Man"
+        "CASELS"
       ],
-      "verified_source_count": 3
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -861,12 +978,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "Geopolitics Prime"
+        "Geopolitics Prime",
+        "Our Wars Today"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
