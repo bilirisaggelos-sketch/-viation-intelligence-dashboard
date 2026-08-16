@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T05:34:17.708990+00:00",
+  "generated_at": "2026-08-16T06:03:08.850699+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -163,25 +163,6 @@
       "icon": "\ud83d\udea8",
       "timestamp": "08/10/2026",
       "location": "ZKC MO",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nDENVER, CO, Friday, August 14, 2026 through Saturday, August 15, 2026 Local\nFacility: ZDV",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "08/10/2026",
-      "location": "ZDV CO",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
@@ -612,6 +593,120 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
+      "text": "\u26a1\ufe0f\ud83c\uddfe\ud83c\uddea\ud83c\uddfe\ud83c\uddea\ud83c\uddf8\ud83c\udde6 [Reuters](https://www.reuters.com/world/middle-east/yemens-mocha-port-halts-operations-after-houthi-attacks-port-director-says-2026-08-15/): Yemen\u2019s Mokha port has suspended commercial and maritime operations after being hit by more than 25 missiles in Houthi attacks over recent days, the port\u2019s director said. The attacks killed seven people and caused an estimated $16 million in losses, according to the director.\nMokha is a Red Sea port near the Bab el-Mandab Strait, a strategic chokepoint connecting the Red Sea with the Gulf of Aden and an important route for international shipping. The port is controlled by forces aligned with Yemen\u2019s internationally recognised government and has a smaller cargo capacity than the country\u2019s main ports of Aden and Hodeidah.\nYemen\u2019s government said the Houthis fired six ballistic missiles at Mocha on Friday, killing at least four civilians and targeting civilian, economic and maritime facilities. The Houthis said they had targeted a military build-up of weapons and warships belonging to Saudi-backed forces in Mokha, while the escalation has raised concerns about a return to large-scale conflict in Yemen.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-16T06:00:43+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1\ud83c\uddf1\ud83c\udde7\ud83c\uddf1\ud83c\udde7 The IDF has released a statement, saying that it struck a central Hezbollah Radwan Force headquarters in the Ansar area of southern Lebanon overnight, killing Ali Samir al-Haj Hassan, a Radwan Force battalion commander, along with several other operatives.\nThe IDF added that at the time of the strike, Hassan\u2019s family was also present with him inside the military headquarters and emphasized that the family members were not the target of the strike:\nThe strike was specifically directed at Hassan, who was a lawful target under international law. The terrorist used his family as human shields, hiding alongside them inside the military headquarters.\n\ud83d\udca7 [Rainbet.com](https://www.rainbet.com/) the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-16T05:49:15+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "A senior Hezbollah commander was killed in an Israeli airstrike in the southern Lebanon town of Deir al-Zahrani yesterday, the military announces.\nThe IDF says the strike came in response to a Hezbollah explosive drone attack early Saturday that seriously wounded three soldiers.\nLebanese media reported that the Deir al-Zahrani strike on Saturday morning killed two people.\nAmong those killed was Ali Muhammad Fakhr al-Din, also known as Abu Hassan Alaa, who is identified by the IDF as a \"senior commander\" in Hezbollah's Badr regional division. The regional unit is tasked with the area north of the Litani River.\nThe IDF says that as part of his role, Hassan Alaa took part in numerous attacks on Israeli troops in southern Lebanon.\nThe elimination of Hassan Alaa is in addition to the killing of another senior Hezbollah commander in an Israeli strike yesterday. The IDF announced earlier that it had killed Ali Samir Al-Haj Hassan, a battalion commander in Hezbollah's elite Radwan Force, in a strike in the town of Ansar, also in response to the drone attack.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-16T05:45:12+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "#Myanmar \ud83c\uddf2\ud83c\uddf2: Anti-Junta Rebels struck a couple of Burmese Army (Tatmadaw) ships with FPV Drones in #Sagaing Region.\nFighters used FPV Kamikaze Drones \u2014very likely armed with HE MK II bombs or/and MR-2 HEAT RPG warheads.\nhttps://x.com/i/status/2088830263644078391",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-16T05:44:26+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "#Sudan \ud83c\uddf8\ud83c\udde9: Sudanese Forces (#SAF) operating technicals armed with 107mm Multiple Rocket Launchers and brand new #Iranian \ud83c\uddee\ud83c\uddf7 rockets.\nFighters use 107mm Fadjr-1 rockets \u2014seemingly made in 2025 / 2026 and indicate that the supply chain originating from #Iran \ud83c\uddee\ud83c\uddf7 is still active (at least for some of the ammunition / rockets).\nhttps://x.com/i/status/2088650050582823318",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-16T05:43:37+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "Qatar denies Iran's claim that three pilots were detained, saying its forces defended Qatari airspace and that search teams recovered one pilot's remains. Qatar's foreign ministry spokesperson said it invited Iran to review the search operation, but received no response.\nFaytuks Network (\nIran says three pilots whose Su-24s were downed during attacks on Qatar in March were captured by Qatari forces and have been held for six months. In a letter to the ICRC, Iran accused Qatar of denying the pilots contact with their families and Iranian officials and urged the Red Cross to verify their condition. The fourth pilot, Majid Kazemi, was killed, with his body later returned to Iran, according to the letter.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-16T05:36:07+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
       "text": "Six ballistic missiles fired by the Houthis hit the government-held Red Sea port of Mocha. At least seven killed. Vessels sunk and fishing boats set ablaze.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -656,120 +751,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-16T05:19:32+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "\ud83c\uddfe\ud83c\uddea #Yemen: The Houthis have intensified their attacks inside Yemen, launching a sixth ballistic missile toward residential areas in Marib just moments ago, amid their wider escalation that has also included strikes against Saudi Arabia.\nOver the past day, Yemeni government forces have also targeted Houthi positions, gatherings and vehicles across several areas. The Yemeni Armed Forces has released footage of artillery strikes against Houthi positions on the western front in Marib Province, as well as drone strikes.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-16T05:14:48+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "Russian shadow fleet tankers are wrapping themselves in anti-drone nets, Exilenova+ reports. Sanctioned tankers Caruzo and Rizvel were spotted with metal structures, nets and water tanks for protection against Ukrainian drones. Russia is also boosting Novorossiysk port defenses.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-16T05:13:14+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "Ukraine's General Staff confirmed strikes on Progress Rocket and Space Center in Samara and Savasleyka airbase overnight. Direct hits and fires reported at both facilities.\nProgress produces Soyuz rockets used to launch Russian military, reconnaissance and communications satellites, including the Rassvet satellite internet system positioned as Russia's Starlink analog, the General Staff notes.\nSavasleyka airbase hosts MiG-31K fighter-interceptors that carry Kinzhal hypersonic missiles, they add. The General Staff says work on key military and defense industry targets continues.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-16T05:13:11+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "CyberBoroshno reports the Flamingo strike on Progress Rocket Center hit building 106A, which assembles electronics and control systems for Soyuz rockets. Building 106B for final assembly is nearby.\nThis is Russia's only serial assembly point for the entire Soyuz-2 lineup used for military orbital missions like Liana reconnaissance and Persona/Razdan optical intel, plus Rassvet satellite internet, the analysts note. No backup exists.\nRepairs could take months due to cleanroom requirements and sanctions on electronics components, analysts explain. Fire, smoke and water damage means recertification of clean zones and tech processes. Without this facility, rockets can't be assembled even when fuel tanks are ready.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-16T05:12:33+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "422 Luftwaffe, SBU's Special Operations Center A, and HUR destroyed a Russian missile and artillery weapons depot in occupied Crimea on August 13th. Middstrike UAV \"Zozulya\" doing the work.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-16T05:12:28+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "Ukrainian drones hit the Savasleyka military airbase overnight, forcing Russians to scramble jets to safety.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-16T05:11:37+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
