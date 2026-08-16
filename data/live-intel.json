@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T07:47:23.370766+00:00",
+  "generated_at": "2026-08-16T08:37:30.151045+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -364,6 +364,25 @@
     },
     {
       "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Ukrainian forces struck a Russian Bastion missile system site in occupied Crimea, causing significant equipment and personnel losses. \nThe system is used to launch Oniks and Zircon missiles.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-16T08:29:56+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
       "publisher": "Our Wars Today",
       "text": "\ud83c\uddf7\ud83c\uddfa \ud83c\uddfa\ud83c\udde6 Audio-Based Drone Ambush Attacks: \nVia \"Russian Waiter FPV drones now have audio intakes: New versions of the \u201cZhdu\u201d FPV drones, equipped with microphones, have begun to appear in Russian forces. This allows the operator to hear approaching vehicles and detect their presence without revealing the drone\u2019s own position. This makes it somewhat more difficult to detect an ambush and leaves the driver with minimal time to react. The drone managed to hit a supply truck with Ukrainian soldiers on the back without any protection. It took less than 20 seconds for ambush to start and end. The idea of recording audio with an FPV drone is far from new. There\u2019s no technological revolution here. But as a method for organizing an ambush, the approach is quite effective.\"\nMore Coverage: T.me/ourwarstoday \n---\n24/7 LIVE News RSS feed: t.me/ournewsfeedtoday\n---\nFootage: t.me/ourwars\n---\nSupport OWT: https://ko-fi.com/ourwarstoday",
       "source": "Telegram",
@@ -574,7 +593,7 @@
     {
       "title": "Telegram",
       "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddf1\ud83c\udde7\ud83c\uddee\ud83c\uddf1 Apache attack helicopters are opening fire toward Ali Al-Taher Hill. Coupled with heavy airstrikes and artillery bombardment targeting the hill and surrounding areas.\nThe assault resembles a full scale mountain military operation.\nHowever Hezbollah launched drone strikes aimed at the advancing troops and military vehicles, successfully stopping the Israeli advance.\nFollowing that, Israeli forces bombed the Jabal Al-Rafi mountain in the Iqlim Al-Tuffah (Apple region) for some reason.\nThe Iqlim Al-Tuffah (Apple region) is widely recognized for its extensive Hezbollah underground networks and fortified positions. In 2006, the area witnessed intense fighting where Hezbollah held off advancing Israeli forces, which in a way reflects the ongoing defense of the Ali Al-Taher hill today.",
+      "text": "\u26a1\ud83c\uddf1\ud83c\udde7\ud83c\uddee\ud83c\uddf1 Apache attack helicopters are opening fire toward Ali Al-Taher Hill. Coupled with heavy airstrikes and artillery bombardment targeting the hill and surrounding areas.\nThe assault resembles a full scale mountain military operation.\nHowever Hezbollah launched drone strikes aimed at the advancing troops and military vehicles, successfully stopping the Israeli advance.\nFollowing that, Israeli forces bombed the Jabal Al-Rafi mountain in the Iqlim Al-Tuffah (Apple region) for some reason.\nThe Iqlim Al-Tuffah (Apple region) is widely recognized for its extensive Hezbollah underground networks and fortified positions. In 2000, the area witnessed intense fighting where Hezbollah held off advancing Israeli forces, which in a way reflects the ongoing defense of the Ali Al-Taher hill today.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
