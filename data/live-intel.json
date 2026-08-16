@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T22:59:12.661409+00:00",
+  "generated_at": "2026-08-16T23:30:11.608326+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -601,25 +601,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-16T14:35:18+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Our Wars Today"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Our Wars Today",
-      "text": "\ud83c\uddf7\ud83c\uddfa \ud83c\uddfa\ud83c\udde6 Audio-Based Drone Ambush Attacks: \nVia \"Russian Waiter FPV drones now have audio intakes: New versions of the \u201cZhdu\u201d FPV drones, equipped with microphones, have begun to appear in Russian forces. This allows the operator to hear approaching vehicles and detect their presence without revealing the drone\u2019s own position. This makes it somewhat more difficult to detect an ambush and leaves the driver with minimal time to react. The drone managed to hit a supply truck with Ukrainian soldiers on the back without any protection. It took less than 20 seconds for ambush to start and end. The idea of recording audio with an FPV drone is far from new. There\u2019s no technological revolution here. But as a method for organizing an ambush, the approach is quite effective.\"\nMore Coverage: T.me/ourwarstoday \n---\n24/7 LIVE News RSS feed: t.me/ournewsfeedtoday\n---\nFootage: t.me/ourwars\n---\nSupport OWT: https://ko-fi.com/ourwarstoday",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-15T22:11:59+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
