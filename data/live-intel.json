@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T14:41:40.862971+00:00",
+  "generated_at": "2026-08-16T15:01:51.999513+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -691,6 +691,44 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Our Wars Today"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddf7\ud83c\uddfa\u26a1\ud83c\uddfa\ud83c\udde6 Ukraine Strikes Major Wildberries Warehouse Near Moscow\nUkrainian drones struck a massive Wildberries logistics hub in Koledino, Moscow Region, on August 16, triggering a major fire.\n\ud83c\uddfa\ud83c\udde6 Ukrainian defence firm Fire Point said its FP-1 long-range drones carried out the strike, alleging the facility handled dual-use goods.\nThe attack came during one of Ukraine\u2019s largest drone barrages against Russia, with Moscow reporting 822 drones intercepted nationwide.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-16T14:59:40+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf1\u274c\ud83c\uddf1\ud83c\udde7 \u2014 An Israeli drone dropped explosive materials on the Harsh Ali al-Taher area.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-16T14:57:02+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
       ],
       "verified_source_count": 1
     },
