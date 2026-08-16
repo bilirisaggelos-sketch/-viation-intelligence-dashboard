@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T12:56:55.968371+00:00",
+  "generated_at": "2026-08-16T13:38:36.629303+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -87,25 +87,6 @@
       "icon": "\ud83d\udea8",
       "timestamp": "08/14/2026",
       "location": "ZJX FL",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nLibby AAF, AZ, Friday, August 14, 2026 through Sunday, August 16, 2026 Local\nFacility: ZAB",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "08/14/2026",
-      "location": "ZAB AZ",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
@@ -365,6 +346,25 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
+      "text": "Ukraine has knocked out 7 of Wildberries' 10 largest logistics centers. \nIn total, 21 of the top 30 warehouses of Russia's biggest e-commerce platform have been struck by drone attacks.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-16T13:06:08+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
       "text": "Iranian Army Chief General Hatami:\nThe expulsion of the United States has been carried out, and they are no longer permitted to enter the Persian Gulf, the Sea of Oman, and the Strait of Hormuz.\nEveryone should know that American bases will never be able to return to their previous state, and Iran will never allow this to happen.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -374,13 +374,14 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
       "verified_sources": [
         "Alsaa Plus EN",
-        "Clash Report"
+        "Clash Report",
+        "Geopolitics Prime"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 3
     },
     {
       "title": "Telegram",
@@ -478,25 +479,6 @@
         "Mediterranean Man"
       ],
       "verified_source_count": 3
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Ukrainian forces struck a Russian Bastion missile system site in occupied Crimea, causing significant equipment and personnel losses. \nThe system is used to launch Oniks and Zircon missiles.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-16T08:29:56+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -605,13 +587,14 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
       "verified_sources": [
         "Alsaa Plus EN",
-        "Clash Report"
+        "Clash Report",
+        "Geopolitics Prime"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 3
     },
     {
       "title": "Telegram",
@@ -863,6 +846,27 @@
         "CASELS"
       ],
       "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udea8\ud83c\uddee\ud83c\uddf7 Iran to Trump: Hormuz isn\u2019t yours and US forces aren\u2019t coming back\nUS forces should forget about a return to business as usual in the Persian Gulf, the Sea of Oman, or the Strait of Hormuz, Iran\u2019s army chief, Major General Amir Hatami, said during a ceremony honoring journalists.\n\ud83d\udcac\"The Strait of Hormuz is a God-given geopolitical asset. We will protect it with all our might as ordered by the Supreme Commander. This leverage is one of the necessities for ending the war in a way that the shadow of war is lifted from Iran.\"\nHatami also had a message for Donald Trump after the US president floated the idea of turning the Strait of Hormuz into American territory: not happening. He said Trump was \u201cway out of line,\u201d adding that calling it a joke afterward did not make the remark any less absurd.\nHatami went on to say that:\n\ud83d\udd34 US forces are no longer permitted to enter the Persian Gulf, the Sea of Oman, or the Strait of Hormuz\n\ud83d\udd34 American bases in the region will never return to their previous state\n\ud83d\udd34 A $30,000 reward (5 billion Tomans) is now offered by the Iranian Army for every American soldier killed or captured\n\ud83d\udd34 Iranian women who carry out such an action will receive double the reward\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-16T13:29:18+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Clash Report",
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 3
     },
     {
       "title": "Telegram",
