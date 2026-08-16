@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T11:59:26.969317+00:00",
+  "generated_at": "2026-08-16T12:56:55.968371+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -365,6 +365,26 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
+      "text": "Iranian Army Chief General Hatami:\nThe expulsion of the United States has been carried out, and they are no longer permitted to enter the Persian Gulf, the Sea of Oman, and the Strait of Hormuz.\nEveryone should know that American bases will never be able to return to their previous state, and Iran will never allow this to happen.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-16T12:28:27+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Clash Report"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
       "text": "WATCH: A Russian Shahed drone strikes a shopping center on the outskirts of Odesa, injuring two people.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -450,13 +470,14 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
       "verified_sources": [
         "CASELS",
-        "Clash Report"
+        "Clash Report",
+        "Mediterranean Man"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 3
     },
     {
       "title": "Telegram",
@@ -575,6 +596,26 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddee\ud83c\uddf1 \u2014 Commander of the Army, Brigadier General Amir Hatami:\nThe criminal Trump says he wants to declare the Strait of Hormuz as part of the United States. He is gravely mistaken! And after seeing the reactions, he claimed he was joking.\nMaking jokes with such statements is a serious mistake, because this is Iran, and it has protectors who will break your leg.\nAmerica has practically been removed, and they no longer have permission to enter the Persian Gulf, the Sea of Oman, or the Strait of Hormuz.\nEveryone should know that the American forces are incapable of returning to their previous position, and Iran will never allow that to happen.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-16T12:38:20+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Clash Report"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
       "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1\ud83c\uddf1\ud83c\udde7\ud83c\uddf5\ud83c\uddf8\ud83c\uddee\ud83c\uddf7 \u2014 IDF Assesses Growing Hamas-Hezbollah Coordination Backed by Iran Amid Border Escalations, \u2014 THE JERUSALEM POST. \n\u200b\u27a1\ufe0f The IDF has assessed that Hamas and Hezbollah have begun coordinating their increased military activities with assistance from Iran in an effort to rebuild their regional axis and ramp up pressure on Israel. The heightened friction spans both fronts, highlighted by a recent fiber-optic drone attack along the Ali Taher ridge in southern Lebanon that wounded three Yahalom engineering soldiers, as well as an explosive device detonation targeting an IDF tank in the southern Gaza Strip.\n\u200b\u27a1\ufe0f On the northern front, military operations are locked in a tactical \"battle of wits\" as troops work to block underground supply routes and neutralize Hezbollah operatives emerging for provisions. Meanwhile, retaliatory strikes remain bound by diplomatic constraints; restrictions from the White House have kept Beirut off-limits for senior Shiite leadership and prevented broad strikes in Gaza City following the recent escalation along the Yellow Line.\n\u2b50\ufe0f Follow",
       "source": "Telegram",
       "source_type": "telegram",
@@ -628,6 +669,27 @@
         "Alsaa Plus EN"
       ],
       "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ud83c\uddea\ud83c\uddf8\ud83c\uddf7\ud83c\uddf4 A Spanish F-18 fighter pilot on a NATO air policing mission shot down a drone that was illegally violating Romanian national airspace, the fourth unmanned aircraft shot down by the country this year, the Romanian Ministry of Defense stated.\nThe ministry did not specify the drone's origin, stating that its radars detected it entering the country from neighboring Moldova, about 24 km north of the Romanian southeastern city of Galati.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-16T12:42:39+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
+      "verified_sources": [
+        "CASELS",
+        "Clash Report",
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 3
     },
     {
       "title": "Telegram",
@@ -736,13 +798,14 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
       "verified_sources": [
         "CASELS",
-        "Clash Report"
+        "Clash Report",
+        "Mediterranean Man"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 3
     },
     {
       "title": "Telegram",
@@ -798,6 +861,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddee\ud83c\uddf7Iran lays bare US overstretch & limits to power projection in Middle East and Asia-Pacific\nThe reported mutiny aboard the USS Abraham Lincoln is a clear sign that American maritime hegemony is fracturing beyond repair \u2013 not just in the Middle East, but far beyond.\nTasnim News Agency detailed the case, citing informed sources: a CENTCOM adviser was reportedly booed and pelted with water bottles aboard the USS Abraham Lincoln amid crew complaints over its prolonged deployment. The confrontation allegedly escalated into a knife fight, leaving seven dead and several wounded.\n\ud83d\udc49 CENTCOM quickly denied the story, but declining morale aboard the ship and incidents of US Navy sailors jumping overboard have been reported by The Guardian, Navy News, Stars and Stripes, and other outlets.\nPrevious reporting has highlighted shattered navy morale surrounding the Iran campaign, while the USS Gerald R. Ford [suffered sewage problems](https://t.me/geopolitics_prime/65208) shortly before Operation Epic Fury. On March 12, a non-combat fire left more than 600 crew members without beds and left 200 injured, forcing the carrier to sail to Souda Bay, Crete, for repairs. There were strong suspicions that USS Ford sailors had deliberately set [the fire to end the deployment](https://t.me/geopolitics_prime/66874).\n\ud83c\uddfa\ud83c\uddf8\u274c US no longer a dominant sea power\nThe reported mutiny aboard the USS Abraham Lincoln \"is the screaming symptom of a force pushed beyond its breaking point, confronting an adversary that refuses to break,\" argues Substack's Middle East Report newsletter.\nWhile the Trump administration threatens Iran with an indefinite blockade, the Fifth Fleet is keeping as far from the Iranian coast as possible, operating in the Arabian Sea rather than projecting force in the Strait of Hormuz, after the USS Lincoln was reportedly struck by Iranian missiles and drones in mid-March. The Fifth Fleet's headquarters[ in Bahrain have been largely dismantled by Iran](https://t.me/geopolitics_prime/69208).\nIt's a stark contrast to US naval dominance in the Middle East in the 1990s \u2013 and a far cry from when Washington could project carrier power and expect the world to immediately fall in line, geopolitical observers say.\n\ud83d\udc41 Asia-Pacific region sees America's decline\nThe erosion of US naval dominance \u2013 reminiscent of the decline once experienced by the British Empire \u2013 is increasingly evident to the Global South, particularly in the Asia-Pacific, where Washington has sought to counter China.\nDespite signing a Major Defense Cooperation Partnership (MDCP) with the US in April, Indonesia has made clear that it does not want [US military bases on its territory.](https://t.me/geopolitics_prime/73337)\n\ud83c\uddf2\ud83c\uddfe Malaysia, which oversees the strategically vital Strait of Malacca, is now seeking to deepen defense ties with Iran, including through a memorandum of understanding on defense cooperation. Iran\u2019s Acting Defense Minister Brig. Gen. Majid Ebn-e-Reza has signaled that Tehran is eager to share its [defense expertise](https://t.me/geopolitics_prime/73426) with the Muslim world.\nIran could also share its experience on countering[ Israel\u2019s Elbit Systems technologies](https://t.me/geopolitics_prime/73415) with China, particularly following its interception of a Hermes 900 drone. This could prove timely, as expanding US-Israeli military cooperation with Taiwan is further muddying the waters in the Asia-Pacific despite Chinese protests.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-16T12:46:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
