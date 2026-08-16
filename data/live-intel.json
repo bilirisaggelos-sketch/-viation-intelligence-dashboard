@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T11:36:48.532780+00:00",
+  "generated_at": "2026-08-16T11:59:26.969317+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -359,6 +359,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "WATCH: A Russian Shahed drone strikes a shopping center on the outskirts of Odesa, injuring two people.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-16T11:58:03+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
       ],
       "verified_source_count": 1
     },
@@ -779,6 +798,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddee\ud83c\uddf7 US Gray Eagle joins Iran\u2019s trophy collection\n\ud83d\udcf9Newly released footage shows the moment Iran\u2019s IRGC Aerospace Force shot down a US MQ-1C Gray Eagle on May 31, 2026, [using an advanced air-defense system](https://t.me/geopolitics_prime/73415?single).\n\u27a1\ufe0fThe wreckage [is now displayed](https://t.me/geopolitics_prime/73183) by the IRGC among aircraft downed during the war, confirming the drone was not the older MQ-1 Predator initially mentioned in reports but the much more capable MQ-1C Gray Eagle reconnaissance-and-strike platform operated by the US Army.\n\u27a1\ufe0fThe Gray Eagle is designed for long-endurance surveillance and precision strikes. Iran apparently [had other plans](https://t.me/geopolitics_prime/73426) for this one.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-16T11:54:29+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
