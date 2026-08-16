@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T15:01:51.999513+00:00",
+  "generated_at": "2026-08-16T15:39:03.538610+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -462,46 +462,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Ukraine has used British-made drones for the first time in deep strikes inside Russia, targeting oil refineries near Moscow, Yaroslavl and Volgograd, as well as Belgorod. \nThe reported use of British weapons marks a new phase in UK-Ukraine military cooperation and could prompt Russia to intensify hybrid attacks against Britain.\nSource: The Times",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-16T08:51:40+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "A Spanish F-18 shot down a drone that breached Romanian airspace near Gala\u021bi. \nIt was the fourth drone Romania has shot down this year amid repeated incursions linked to Russia\u2019s war in Ukraine.\nSource: Reuters",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-16T08:48:02+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
-      "verified_sources": [
-        "Clash Report",
-        "Mediterranean Man",
-        "Our Wars Today"
-      ],
-      "verified_source_count": 3
-    },
-    {
-      "title": "Telegram",
       "publisher": "Our Wars Today",
       "text": "[A NATO fighter shot down a drone over Romania](https://www.pravda.com.ua/news/2026/08/16/8048864/)\nA Spanish F-18 fighter jet shot down a drone over Romania. This is the fourth incident of a drone intrusion into Romanian airspace. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://www.pravda.com.ua/news/2026/08/16/8048864/)\n\u0420\u043e\u043c\u0430\u043d \u041f\u0435\u0442\u0440\u0435\u043d\u043a\u043e | pravda\u200b.com\u200b.ua \u2022 Aug 16, 2026",
       "source": "Telegram",
@@ -512,14 +472,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Clash Report",
-        "Mediterranean Man",
         "Our Wars Today"
       ],
-      "verified_source_count": 3
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -813,6 +771,25 @@
     {
       "title": "Telegram",
       "publisher": "Mediterranean Man",
+      "text": "\u26a1\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfa Just this week alone, Russia launched over 1,550 strike drones, nearly 1,560 aerial bombs, and 62 missiles at Ukraine, \u2014 Zelensky.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-16T15:16:39+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
       "text": "\u26a1\ud83c\uddea\ud83c\uddf8\ud83c\uddf7\ud83c\uddf4 A Spanish F-18 fighter pilot on a NATO air policing mission shot down a drone that was illegally violating Romanian national airspace, the fourth unmanned aircraft shot down by the country this year, the Romanian Ministry of Defense stated.\nThe ministry did not specify the drone's origin, stating that its radars detected it entering the country from neighboring Moldova, about 24 km north of the Romanian southeastern city of Galati.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -822,14 +799,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "Clash Report",
-        "Mediterranean Man",
-        "Our Wars Today"
+        "CASELS",
+        "Mediterranean Man"
       ],
-      "verified_source_count": 3
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -919,12 +895,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "CASELS"
+        "CASELS",
+        "Mediterranean Man"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
