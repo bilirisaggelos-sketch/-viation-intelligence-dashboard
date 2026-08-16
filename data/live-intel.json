@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T17:02:33.015127+00:00",
+  "generated_at": "2026-08-16T17:35:56.214491+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -450,25 +450,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-16T10:48:48+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Ukraine's Unmanned Systems Forces Commander Robert Brovdi allegedly emailed the brother of a Turkish sailor killed in a Ukrainian drone strike on the cargo ship MV Reyhan Sar\u0131 near Novorossiysk in July.\nThe message reportedly stated: \nYour brother consciously chose this path. What they did contributed to enriching the Russian Federation, and he got what he deserved.\nSava\u015f \u00c7akar, a Turkish crew member, was killed when the coal-carrying vessel was hit. \nHis brother Abbas \u00c7akar, a journalist, said the message doubled his anger and vowed to pursue accountability.\nUkraine has not officially confirmed or denied the email. \nThe family is reportedly preparing an ICC complaint.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-16T10:35:33+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
