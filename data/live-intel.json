@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T13:38:36.629303+00:00",
+  "generated_at": "2026-08-16T14:01:49.475903+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -702,25 +702,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-16T06:44:24+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ufe0f\ud83c\uddf8\ud83c\udde9\ud83c\uddee\ud83c\uddf7 Sudanese Armed Forces (SAF) operating technicals armed with multiple rocket Launchers and brand new Iranian rockets.\nFighters are using 107mm Fadjr-1 rockets \u2014 seemingly made in 2025 / 2026 and indicate that the supply chain originating from Iran is still active (at least for some of the ammunition/rockets). \nAlso note the first guy armed with a custom painted M14 at the beginning of the video. A pink mag and 2 tone green wood chassis is certainly a choice.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-15T17:50:10+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
