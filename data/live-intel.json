@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T18:40:50.624608+00:00",
+  "generated_at": "2026-08-16T19:04:43.036959+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -443,25 +443,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "A biologist who moonlighted as an escort is accused of assassinating a senior Russian submarine officer in occupied Sevastopol on August 13.\nMargarita Reut, 32, allegedly planted an IED in a trash bin and remotely detonated it as Robert Shageev walked past, killing him instantly.\nRussian authorities say she acted on Ukrainian intelligence orders and was paid in cryptocurrency.\nShageev was a former Ukrainian Navy captain who defected in 2014, surrendering Ukraine's only submarine, and later commanded Russian Kalibr-capable submarines used to strike Ukrainian cities.\nReut had a prior record \u2014 fined in 2025 for shouting \"That's what you deserve, Russians!\" after a Ukrainian drone strike hit a train station.\nShe reportedly confessed and showed no remorse.\nSource: NY Post",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-16T10:48:48+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Our Wars Today",
       "text": "[A NATO fighter shot down a drone over Romania](https://www.pravda.com.ua/news/2026/08/16/8048864/)\nA Spanish F-18 fighter jet shot down a drone over Romania. This is the fourth incident of a drone intrusion into Romanian airspace. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://www.pravda.com.ua/news/2026/08/16/8048864/)\n\u0420\u043e\u043c\u0430\u043d \u041f\u0435\u0442\u0440\u0435\u043d\u043a\u043e | pravda\u200b.com\u200b.ua \u2022 Aug 16, 2026",
       "source": "Telegram",
@@ -683,12 +664,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "Alsaa Plus EN"
+        "Alsaa Plus EN",
+        "Mediterranean Man"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -805,6 +787,26 @@
         "Alsaa Plus EN"
       ],
       "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ud83c\uddf1\ud83c\udde7\ud83c\uddee\ud83c\uddf1 Yedioth Ahronoth newspaper : 32 years after his father was injured in the Suajd (Sughd) region of southern Lebanon, Soldier (A) was seriously injured yesterday morning (Saturday) due to the explosion of a Hezbollah explosive drone in the Ali al-Tahir region.\nNote: The strategic area and site of Suajd in Mount Rihan in Iqlim al Tuffah (Apple region) , southern Lebanon, was liberated through a series of successful military operations, most notably the Islamic Resistance's (Hezbollah) famous storming of the site on September 18, 1986, before its complete liberation and the liberation of the entire area were finalized with the liberation of 2000.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-16T18:50:34+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
