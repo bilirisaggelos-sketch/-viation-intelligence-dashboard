@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T20:33:09.827932+00:00",
+  "generated_at": "2026-08-16T21:00:41.058665+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -365,12 +365,12 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "US servicemen in the Middle East scrawled protest messages in dust on a drone flap, including \"be a good goy and do what Israel tells you to,\" \"Operation Epstein Fury, and \"ALL THIS FOR THE HOLY LAND.\"",
+      "text": "NEW: Russian forces strapped mirrored panels onto a Bukhanka van as a makeshift countermeasure against drones that use optical or AI-guided targeting.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-16T16:19:24+00:00",
+      "timestamp": "2026-08-16T20:47:59+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -716,25 +716,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-16T10:01:59+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddf7\ud83c\uddfa\u274c\ud83c\uddfa\ud83c\udde6 \u2014 Russian air defenses announce the downing of 1,478 drones over Russia during the past 24 hours.\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-16T09:29:37+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
