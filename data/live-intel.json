@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T07:01:17.973909+00:00",
+  "generated_at": "2026-08-16T07:47:23.370766+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -612,6 +612,63 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
+      "text": "Ukraine says air defenses downed or suppressed 88 Russian aerial targets overnight: 85 Shahed, Gerbera and other drones, plus 3 Kh-59/69 missiles. Russia also launched Oniks and Iskander-M/S-400/KN-23 missiles at Kyiv, Kremenchuk and Kryvyi Rih. Impacts were recorded at 13 locations.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-16T07:38:33+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "\u26a1\ufe0f\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6 A massive Ukrainian drone attack targeted Russia's largest \"Wildberries\" facility in the Moscow region, leaving it aflame. Moscow Mayor Sergei Sobyanin claimed that a staggering 600 UAVs were launched, of which only 201 were intercepted by Russian air defense systems.\nThe drone swarm was so large that it led to the suspension of departures at Vnukovo, Domodedovo, and Zhukovsky airports. Among the targets were the Wildberries Distribution Center in Podolsk and the Domodedovo Warehouse Complex, with injuries reported in the MKAD area of Moscow.\nThe latest attacks point to a growing escalation in the Russia-Ukraine war, with large-scale drone and missile strikes becoming increasingly prominent.\n[ \n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook [ +18",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-16T07:38:27+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "A Spanish fighter jet shot down a drone after it violated Romanian airspace, Romania\u2019s Defense Ministry said.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-16T07:38:21+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
       "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1\ud83c\uddf1\ud83c\udde7\ud83c\uddf1\ud83c\udde7 IDF: We eliminated Abu Hassan Ala, a prominent leader in Hezbollah\u2019s Badr unit, in a strike on the Deir al-Zahran area on Saturday. Ala was involved in planning and carrying out attacks against Israeli forces operating in the security zone, including the use of explosive drones in southern Lebanon.\nThe killing will affect the Badr unit\u2019s operational capabilities and following the elimination of Ali Samir Haj Hassan, a Radwan Force company commander killed at a command post in Ansar. We will continue acting against what it considers threats to Israeli forces and civilians.\n[\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
@@ -656,120 +713,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-16T06:00:43+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1\ud83c\uddf1\ud83c\udde7\ud83c\uddf1\ud83c\udde7 The IDF has released a statement, saying that it struck a central Hezbollah Radwan Force headquarters in the Ansar area of southern Lebanon overnight, killing Ali Samir al-Haj Hassan, a Radwan Force battalion commander, along with several other operatives.\nThe IDF added that at the time of the strike, Hassan\u2019s family was also present with him inside the military headquarters and emphasized that the family members were not the target of the strike:\nThe strike was specifically directed at Hassan, who was a lawful target under international law. The terrorist used his family as human shields, hiding alongside them inside the military headquarters.\n\ud83d\udca7 [Rainbet.com](https://www.rainbet.com/) the #1 Non-KYC Crypto Casino & Sportsbook +18",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-16T05:49:15+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "A senior Hezbollah commander was killed in an Israeli airstrike in the southern Lebanon town of Deir al-Zahrani yesterday, the military announces.\nThe IDF says the strike came in response to a Hezbollah explosive drone attack early Saturday that seriously wounded three soldiers.\nLebanese media reported that the Deir al-Zahrani strike on Saturday morning killed two people.\nAmong those killed was Ali Muhammad Fakhr al-Din, also known as Abu Hassan Alaa, who is identified by the IDF as a \"senior commander\" in Hezbollah's Badr regional division. The regional unit is tasked with the area north of the Litani River.\nThe IDF says that as part of his role, Hassan Alaa took part in numerous attacks on Israeli troops in southern Lebanon.\nThe elimination of Hassan Alaa is in addition to the killing of another senior Hezbollah commander in an Israeli strike yesterday. The IDF announced earlier that it had killed Ali Samir Al-Haj Hassan, a battalion commander in Hezbollah's elite Radwan Force, in a strike in the town of Ansar, also in response to the drone attack.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-16T05:45:12+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "#Myanmar \ud83c\uddf2\ud83c\uddf2: Anti-Junta Rebels struck a couple of Burmese Army (Tatmadaw) ships with FPV Drones in #Sagaing Region.\nFighters used FPV Kamikaze Drones \u2014very likely armed with HE MK II bombs or/and MR-2 HEAT RPG warheads.\nhttps://x.com/i/status/2088830263644078391",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-16T05:44:26+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "#Sudan \ud83c\uddf8\ud83c\udde9: Sudanese Forces (#SAF) operating technicals armed with 107mm Multiple Rocket Launchers and brand new #Iranian \ud83c\uddee\ud83c\uddf7 rockets.\nFighters use 107mm Fadjr-1 rockets \u2014seemingly made in 2025 / 2026 and indicate that the supply chain originating from #Iran \ud83c\uddee\ud83c\uddf7 is still active (at least for some of the ammunition / rockets).\nhttps://x.com/i/status/2088650050582823318",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-16T05:43:37+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "Qatar denies Iran's claim that three pilots were detained, saying its forces defended Qatari airspace and that search teams recovered one pilot's remains. Qatar's foreign ministry spokesperson said it invited Iran to review the search operation, but received no response.\nFaytuks Network (\nIran says three pilots whose Su-24s were downed during attacks on Qatar in March were captured by Qatari forces and have been held for six months. In a letter to the ICRC, Iran accused Qatar of denying the pilots contact with their families and Iranian officials and urged the Red Cross to verify their condition. The fourth pilot, Majid Kazemi, was killed, with his body later returned to Iran, according to the letter.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-16T05:36:07+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "Six ballistic missiles fired by the Houthis hit the government-held Red Sea port of Mocha. At least seven killed. Vessels sunk and fishing boats set ablaze.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-16T05:27:11+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
