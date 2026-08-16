@@ -1,6 +1,25 @@
 {
-  "generated_at": "2026-08-16T22:31:27.841136+00:00",
+  "generated_at": "2026-08-16T22:59:12.661409+00:00",
   "events": [
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nMAYPORT, FL, Monday, August 17, 2026 through Saturday, August 22, 2026 Local\nFacility: ZJX",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "08/16/2026",
+      "location": "ZJX FL",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nWilliamsport, PA, Sunday, August 23, 2026 through Sunday, August 23, 2026 Local\nFacility: ZNY",
