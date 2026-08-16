@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T03:06:33.697077+00:00",
+  "generated_at": "2026-08-16T04:01:26.341116+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -903,25 +903,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-15T16:49:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddee\ud83c\uddf7\ud83c\udde7\ud83c\udded Iran's opening salvo: Bahrain base strike sparked US carrier supply crisis\nThe supply issues plaguing the USS Abraham Lincoln and other maritime forces in the Iran war stem from the destruction of the US Fifth Fleet base in Bahrain, according to the NYT. \n\u27a1\ufe0f Iranian missiles and drones[ struck the base on the first day of the conflict](https://t.me/geopolitics_prime/65551), eliminating the primary supply point the navy has relied on for decades and forcing a scramble for alternatives \n\u27a1\ufe0f The other major maritime logistics hub, Fujairah in the UAE, is also well within range of Iranian missiles\n\u27a1\ufe0f As a result, the Pentagon turned to Diego Garcia, a British-controlled island in the Indian Ocean roughly 2,200 miles from where the carrier strike groups were operating\n\u27a1\ufe0f The base has since become the main logistics hub for[ the US Navy's operations in the region](https://t.me/geopolitics_prime/67050). The shift may explain why Iran attacked the island with ballistic missiles in March \nThe loss of the Bahrain hub has contributed to a host of reported problems on carriers operating against Iran, with media outlets citing shortages of basic supplies and [deteriorating mental health ](https://t.me/geopolitics_prime/73343)among crew members. \nThe Lincoln was on a scheduled deployment from San Diego when it was redirected to the Middle East in January and has been extended multiple times without a clear end date. Some of the crew have been told they will not return home until 2027, while the carrier has now gone 250 days without a port visit.\nThe Pentagon has turned to Diego Garcia as an alternative, but it is far from the operating area and lacks the infrastructure and supplies needed to support a carrier group. The supply chain is so stretched that some essential items are flown in on military cargo planes rather than shipped by sea, rendering[ the blockade of Iran a painfully Sisyphean task.](https://t.me/geopolitics_prime/73394) \n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-15T15:18:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
