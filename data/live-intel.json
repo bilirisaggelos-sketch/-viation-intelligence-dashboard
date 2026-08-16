@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T19:57:56.975748+00:00",
+  "generated_at": "2026-08-16T20:33:09.827932+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -383,86 +383,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "WATCH: Russian soldier shoots down an FPV drone seconds before it hits the vehicle.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-16T14:29:24+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Ukraine has knocked out 7 of Wildberries' 10 largest logistics centers. \nIn total, 21 of the top 30 warehouses of Russia's biggest e-commerce platform have been struck by drone attacks.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-16T13:06:08+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Clash Report",
-        "Our Wars Today"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Iranian Army Chief General Hatami:\nThe expulsion of the United States has been carried out, and they are no longer permitted to enter the Persian Gulf, the Sea of Oman, and the Strait of Hormuz.\nEveryone should know that American bases will never be able to return to their previous state, and Iran will never allow this to happen.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-16T12:28:27+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Clash Report",
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 3
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "WATCH: A Russian Shahed drone strikes a shopping center on the outskirts of Odesa, injuring two people.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-16T11:58:03+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Clash Report",
-        "Our Wars Today"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
       "publisher": "Our Wars Today",
       "text": "[A NATO fighter shot down a drone over Romania](https://www.pravda.com.ua/news/2026/08/16/8048864/)\nA Spanish F-18 fighter jet shot down a drone over Romania. This is the fourth incident of a drone intrusion into Romanian airspace. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://www.pravda.com.ua/news/2026/08/16/8048864/)\n\u0420\u043e\u043c\u0430\u043d \u041f\u0435\u0442\u0440\u0435\u043d\u043a\u043e | pravda\u200b.com\u200b.ua \u2022 Aug 16, 2026",
       "source": "Telegram",
@@ -588,13 +508,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Clash Report",
         "Our Wars Today"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -627,13 +546,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Clash Report",
         "Our Wars Today"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -762,14 +680,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
         "Alsaa Plus EN",
-        "Clash Report",
         "Geopolitics Prime"
       ],
-      "verified_source_count": 3
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -993,14 +910,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
         "Alsaa Plus EN",
-        "Clash Report",
         "Geopolitics Prime"
       ],
-      "verified_source_count": 3
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -1088,25 +1004,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-16T06:42:02+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udd25 Russia hammers Ukraine's war industry and fuel infrastructure\nRussian missile strikes hit Kiev, Kremenchug and Krivoy Rog overnight, with intense fires reported at industrial, military, fuel and warehouse facilities.\n\ud83c\udf0f In Kiev, fires broke out in the Obolonsky and Goloseevsky districts, including non-residential and storage sites.\n\ud83c\udf0f In Krivoy Rog, major fires were recorded near ArcelorMittal Krivoy Rog, Krivoy RogCement and warehouse facilities.\n\ud83c\udf0f In Kremenchug, two very large fires erupted at the Kremenchug Oil Refinery in the Poltava region, after ballistic missile strikes, according to reports citing NASA FIRMS data.\n\ud83d\ude80 The attack reportedly involved Iskander-M, S-400 and Zircon missiles, while locals complained that Ukrainian air defenses did not even appear to try intercepting them.\nRussia keeps turning Ukraine\u2019s Nazi war machine into smoke.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-16T05:11:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
