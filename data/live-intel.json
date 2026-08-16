@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T08:37:30.151045+00:00",
+  "generated_at": "2026-08-16T09:06:26.956235+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -365,6 +365,45 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
+      "text": "Ukraine has used British-made drones for the first time in deep strikes inside Russia, targeting oil refineries near Moscow, Yaroslavl and Volgograd, as well as Belgorod. \nThe reported use of British weapons marks a new phase in UK-Ukraine military cooperation and could prompt Russia to intensify hybrid attacks against Britain.\nSource: The Times",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-16T08:51:40+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "A Spanish F-18 shot down a drone that breached Romanian airspace near Gala\u021bi. \nIt was the fourth drone Romania has shot down this year amid repeated incursions linked to Russia\u2019s war in Ukraine.\nSource: Reuters",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-16T08:48:02+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "CASELS",
+        "Clash Report"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
       "text": "Ukrainian forces struck a Russian Bastion missile system site in occupied Crimea, causing significant equipment and personnel losses. \nThe system is used to launch Oniks and Zircon missiles.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -678,12 +717,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "CASELS"
+        "CASELS",
+        "Clash Report"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
