@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T09:06:26.956235+00:00",
+  "generated_at": "2026-08-16T09:44:16.174141+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -275,7 +275,7 @@
       "publisher": "BBC World News",
       "severity": "info",
       "icon": "\ud83d\udcf0",
-      "timestamp": "2026-08-15T21:03:57+00:00",
+      "timestamp": "2026-08-16T09:27:58+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -518,6 +518,25 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddf7\ud83c\uddfa\u274c\ud83c\uddfa\ud83c\udde6 \u2014 Russian air defenses announce the downing of 1,478 drones over Russia during the past 24 hours.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-16T09:29:37+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
       "text": "\ud83c\uddee\ud83c\uddf1\u274c\ud83c\uddf8\ud83c\uddfe \u2014 Intense activity of Israeli warplanes in the airspace over southern Syria.\n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
@@ -562,63 +581,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-15T19:10:26+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf7\u25b6\ufe0f \u2014 Iran launches 3 missiles towards the Strait of Hormuz.\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-15T19:02:16+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf1\u274c\ud83c\uddf1\ud83c\udde7 \u2014 Israeli Channel 13 correspondent Raviv Drucker: \nOnce again, as in the case of the deadly explosive device, the Prime Minister and the military claim that Hezbollah violated the ceasefire. However, the sequence of events is that Israel is active in the Ali Taher heights. Hezbollah views this as a violation of the ceasefire and responds with a drone carrying explosives.\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-15T19:00:56+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf7\u274c\ud83d\udee5 \u2014 Unconfirmed reports of cruise missiles being launched from Sirik, southern Iran, toward vessels in violation of restrictions in the Strait of Hormuz.\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-15T18:59:39+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -785,6 +747,25 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udd0d Pentagon knew Iran war would bleed US dry yet Trump walked straight into the trap\nThe US has been caught off guard by Iran\u2019s resilience, military prowess, and missile capabilities \u2013 but it cannot be said that US politicians and war planners were completely unaware of what was coming.\nDwindling missile stockpiles\nIn fact, they knew exactly what they would face, raising questions about why that expertise was ignored, argues Substack\u2019s Amerikanets channel.\n\ud83c\udf0f In January 2025, Vice Adm. Brendan McLane warned of the US Navy\u2019s high interceptor expenditure during Operation Prosperity Guardian in the Red Sea\n\ud83c\udf0f Ukraine\u2019s heavy use of Patriot interceptors since 2022 was another warning sign, as was the fact that no THAAD systems were delivered to the US military between 2023 and the end of 2025\n\ud83c\udf0f The June 2025 Israel-Iran war underscored the growing role of missiles and drones, while heavy US spending on air-defense interceptors highlighted their scarcity, CSIS reported\n\ud83c\udf0f Before Operation Epic Fury, Joint Chiefs Chairman Gen. Dan Caine warned Trump that war with Iran would severely deplete key US munitions stocks \u2013 [but to no avail](https://t.me/geopolitics_prime/73162).\n\ud83d\udccc Iran's 'deeply buried targets'\nA 2001 Pentagon report laid it bare to the US Congress that the country has no easy way to neutralize hardened, deeply buried targets, [such as underground missile cities](https://t.me/geopolitics_prime/70601): \"Defeat of most of these facilities with [conventional means is impossible](https://t.me/geopolitics_prime/68755).\"\nThe 2019 Defense Intelligence Agency (DIA) assessment stated that Iran not only had hidden its most valuable assets deep underground, but developed a sophisticated denial and deception (D&D) doctrine, which includes [camouflage and concealment, force dispersals, decoys](https://t.me/geopolitics_prime/68098), and highly mobile units.\n\ud83d\udc41 The Strait of Hormuz leverage\nThe Office of Naval Intelligence (ONI) warned in 2009 that Iran could cripple traffic through the Strait https://t.me/geopolitics_prime/73180, while the Center for Naval Analyses (CNA) cautioned in 2011 that even a partial closure could damage the US economy.\nThe ONI concluded in 2017 that Iran was \u201cwell positioned\u201d to leverage the Strait of Hormuz, while the 2019 World Threat Assessment similarly acknowledged that Iran continued to develop, field and improve military capabilities to target US and allied forces and disrupt traffic through the strait.\n\ud83c\uddfa\ud83c\uddf8 US bases in the Gulf are easy targets\nThat has been an open secret since 1997, when the US Air Force (USAF) had commissioned a RAND study on the vulnerability of US air bases to cruise and ballistic missile attacks. In 2022, CENTCOM commander Gen. Frank McKenzie proposed relocating USAF bases to Israel and Egypt in the event of war with Iran. He warned in 2024 that US bases in the Gulf could be swiftly rendered unusable [by sustained Iranian attack](https://t.me/geopolitics_prime/69251).\n\ud83e\udd14 Stupidity or betrayal?\nIt raises questions about why Trump agreed to a doomed campaign.\nThe New York Times suggested that Israel managed to sell the Iran war to the US administration, even though senior US military and intelligence officials reportedly dismissed Netanyahu\u2019s plan as farcical.\nSome analysts believe that Israel has compromising information on Trump related to the Epstein scandal, while others argue that his family and son-in-law Jared Kushner stand to [benefit financially from the resulting turmoil](https://t.me/geopolitics_prime/73148).\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-16T09:44:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
       "text": "\ud83e\udd25 Hormuz drama: Trump waits for Iran to blink, but the US is the one who's sweating\nDonald Trump has been ratcheting up sanctions and blockade pressure on Iran to make the Islamic Republic blink first, even vowing to turn the Strait of Hormuz into US territory \u201cpretty soon.\u201d \nBut there\u2019s a growing sense that Trump has lost the plot.\nMaximum pressure, minimum results\nOn August 13,[ Treasury Secretary Scott Bessent](https://t.me/geopolitics_prime/72956) threatened new economic measures aimed at Iran that \"have never been seen in the history of economic isolation on a country.\" The same day, Secretary of War Pete Hegseth claimed the US is ready to maintain a naval blockade of Iran indefinitely. Iran's reaction? Two UAE ships in the strait were struck later in the day and transit through the strategic waterway grinded to a near standstill on August 14. Western media has interpreted that as a clear signal the Islamic Republic wouldn't back down no matter what. \n\ud83c\uddee\ud83c\uddf7 Iran's resilience\nTehran Times reports indicate Iran's economy is continuing to adapt to the growing pressure through cooperation with [Middle Eastern and Central Asian states and BRICS+.](https://t.me/geopolitics_prime/73126)\nIran operates 8\u20139 [regional corridors](https://t.me/geopolitics_prime/70493), linking it to 50 countries. It can withstand a US maritime blockade in the south while keeping the Strait of Hormuz closed, thanks to its expanding land-route network:\n\u2666\ufe0f North: Four Caspian Sea hubs\n\u2666\ufe0f West: Corridors through Turkey and Iraq\n\u2666\ufe0f East: Corridors through Pakistan and China\n\ud83d\udcca US risks global economic crisis\nBessent's claims that the Strait of Hormuz would soon become irrelevant and that oil pipelines bypassing the strait would solve the oil prices dilemma don't hold water, argues former CIA analyst Larry Johnson in his Sonar21 blog.\n\u27a1\ufe0f ~20 million barrels/day of crude, condensate, and products normally transited the strait. Existing bypass capacity is only ~4.7 million barrels/day\n\u27a1\ufe0f oil is not the only commodity stuck in the waterway: the Strait of Hormuz is also crucial for carrying LNG, fertilizers, sulphur and helium\nOut of 27 global chokepoints, the Strait of Hormuz is especially vulnerable, Oxford Economics experts told CBS News. Unlike other global chokepoints, it is directly tied to key oil production sites and there is no viable alternative route for rerouting the oil flows it carries.\nInternational experts warned that the protracted closure of the Strait of Hormuz could spark a global economic crisis akin to [one that happened in 2008](https://t.me/geopolitics_prime/69921). Some Western analysts have already agreed that Iran's fee system [in the strait looks sane](https://t.me/geopolitics_prime/70628). A recent Forbes op-ed argued the US economy won't lose anything if Iran ends-up controlling the strait. Against this backdrop, Trump\u2019s willingness to risk a global economic crisis appears increasingly questionable.\n\u26f4 US Navy in crisis\nHegseth\u2019s claim that the US can maintain the blockade \u201cindefinitely\u201d also appears increasingly questionable, given the unfolding crisis aboard [the USS Abraham Lincoln](https://t.me/geopolitics_prime/73343), which is deployed to the Middle East.\n\ud83d\udd36 The roughly 5,000 US personnel aboard the carrier are overworked and facing shortages of basic hygiene supplies and adequate nutrition after more than 200 consecutive days at sea, according to their relatives and US lawmakers\n\ud83d\udd36 Seven US Navy sailors have been killed in an onboard mutiny, Iranian media reported\n\ud83d\udd36 Multiple attempts by sailors to jump overboard were reported by the Navy Times and Stars and Stripes\n\ud83d\udd36 Johnson cites a friend in the US Army, saying that the reported six suicide attempts aboard the ship is a significant undercount with the real number of attempts is likely being \"fivefold or tenfold\"\n\ud83d\udd36 Replacing the USS Abraham Lincoln with the USS George Washington is unlikely to solve [the logistics and morale dilemma ](https://t.me/geopolitics_prime/73394)\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
@@ -829,25 +810,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-15T22:24:55+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83e\ude96 Ukraine's air defenses crumble as Patriot interceptors run dry\n\ud83d\udc49 The depletion of Patriot interceptor stocks adds to[ Ukraine's defensive woes](https://t.me/geopolitics_prime/73351), just as Russia is increasing the intensity of its strikes.\n\ud83c\udf0f Ukrainian crews were unable to do anything when recent Russian ballistic missiles [smashed through Kiev's air defenses](https://t.me/geopolitics_prime/73163) amid empty interceptor arsenals.\n\ud83c\udf0f In response, Ukraine has stopped publishing [detailed counts of incoming missiles](https://t.me/geopolitics_prime/73344) and interception statistics. Officials claim this was done to hide the effectiveness of strikes from the Russian side, but the most probable reason lies in the unwillingness to deal a blow to public morale and show the real picture of the strategic gap with Russia, the Financial Times reports. \n\u27a1\ufe0f Russia has ramped up production of ballistic missiles and is now launching them at record rates. In July alone, Russian forces used nearly 200 ballistic and hypersonic missiles\n\u27a1\ufe0f Ukrainian air defenses intercepted only 29 of them, a roughly 15% success rate\n\ud83c\udf0f Ukraine estimates it needs at least 300 PAC-3 interceptors to survive the coming winter bombardment. The country's partners in Europe have been asked to release some of their own stocks, but many are reluctant. The[ war with Iran has drained US reserves](https://t.me/geopolitics_prime/73162), and replacement timelines stretch into years. Spain and Greece, which hold substantial Patriot inventories, have not yet agreed to share them.\n\ud83c\udf0f A tentative US plan to grant Ukraine a [license to produce Patriot interceptors](https://t.me/geopolitics_prime/72933) on its own soil or in Europe appears to be stalling as well. During a White House meeting in late July, President Donald Trump did not commit to providing additional missiles for the months ahead, leaving Ukrainian officials still waiting for a clear answer.\n\ud83c\udf0f The result is a deepening crisis for Ukraine. The country is entering a winter of heavy bombardment with its primary defense against ballistic missiles reduced to almost nothing, while Russian production lines continue to deliver new missiles at an accelerating pace.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-15T20:23:55+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
