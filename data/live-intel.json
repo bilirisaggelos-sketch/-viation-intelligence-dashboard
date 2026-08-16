@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T17:35:56.214491+00:00",
+  "generated_at": "2026-08-16T17:57:58.699696+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -649,6 +649,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Our Wars Today"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf1\u274c\ud83c\uddf5\ud83c\uddf8 \u2014 Israeli Channel 14: \nThe security failure in Gaza continues with Hamas fighters once again seizing engineering equipment belonging to Israeli forces in the southern Strip.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-16T17:43:40+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
       ],
       "verified_source_count": 1
     },
