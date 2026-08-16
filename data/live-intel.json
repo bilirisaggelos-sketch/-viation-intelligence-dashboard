@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T04:52:12.840420+00:00",
+  "generated_at": "2026-08-16T05:34:17.708990+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -612,12 +612,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Another Wildberries warehouse in Russia has reportedly been struck by Ukrainian drones, this time at the company's facility in Koledino, Moscow Oblast, in an attack that occurred within the past several hours.\nThe strike comes as Ukraine has conducted a sustained campaign against Wildberries' logistics network. Reuters previously assessed that more than 20% of the company's nationwide warehouse capacity, approximately 1.18 million square meters, had been damaged or destroyed in attacks since mid-July.\nWildberries is Russia's largest online retailer, and the repeated attacks have disrupted inventory, warehouse operations and deliveries across its nationwide distribution network. The company has reportedly begun taking measures to move goods and adjust its logistics operations in response to the damage.",
+      "text": "Six ballistic missiles fired by the Houthis hit the government-held Red Sea port of Mocha. At least seven killed. Vessels sunk and fishing boats set ablaze.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-16T04:43:58+00:00",
+      "timestamp": "2026-08-16T05:27:11+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -631,12 +631,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Iranian officials have accused Qatar of holding three Iranian military pilots who went missing after their aircraft were downed in March, confirming that Iranian aircraft violated Qatari airspace.\nQatar has rejected the claim, saying the aircraft violated sovereign Qatari airspace and that Qatari authorities attempted to contact the aircraft but received no response. Qatar says that \"necessary measures were taken to defend our territory.\"\nQatar subsequently conducted search-and-rescue operations and says it recovered the remains of one pilot. Doha says it contacted Tehran to coordinate the handover but received no response, and has invited Iranian officials to review the details of the incident.",
+      "text": "Russian drone with a microphone hears a Ukrainian vehicle and ambush it, unprotected soldiers can be seen sitting on top.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-16T04:43:47+00:00",
+      "timestamp": "2026-08-16T05:19:44+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -650,12 +650,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "CyberBoroshno\u2019s preliminary analysis says FP-5 Flamingo missiles likely struck Building 106A at RKC Progress in Samara, the only Russian facility serially assembling Soyuz-2 launch vehicles. The building reportedly handles onboard electrical systems, instruments, circuit boards, control systems and cabling. Building 106B, used for final assembly, is located nearby. The full scale of damage is still being assessed through satellite imagery.",
+      "text": "Ukrainian tugboat hit by a \"Geran-4 Seeker\" kamikaze drone in the area of Ochakiv.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-15T07:21:13+00:00",
+      "timestamp": "2026-08-16T05:19:32+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -669,12 +669,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Russian cope nets. Ships calling at Russian seaports have begun being covered with anti-drone nets.",
+      "text": "\ud83c\uddfe\ud83c\uddea #Yemen: The Houthis have intensified their attacks inside Yemen, launching a sixth ballistic missile toward residential areas in Marib just moments ago, amid their wider escalation that has also included strikes against Saudi Arabia.\nOver the past day, Yemeni government forces have also targeted Houthi positions, gatherings and vehicles across several areas. The Yemeni Armed Forces has released footage of artillery strikes against Houthi positions on the western front in Marib Province, as well as drone strikes.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-15T07:21:05+00:00",
+      "timestamp": "2026-08-16T05:14:48+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -688,12 +688,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "The Progress complex in Samara is burning heavily this morning after an FP-5 Flamingo missile strike. Severe damage appears likely, but satellite imagery is still needed to confirm the impact. The regional governor confirmed a missile hit on an enterprise, for once not debris.",
+      "text": "Russian shadow fleet tankers are wrapping themselves in anti-drone nets, Exilenova+ reports. Sanctioned tankers Caruzo and Rizvel were spotted with metal structures, nets and water tanks for protection against Ukrainian drones. Russia is also boosting Novorossiysk port defenses.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-15T06:58:11+00:00",
+      "timestamp": "2026-08-16T05:13:14+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -707,12 +707,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u2757\ufe0fTwo Ukrainian FP-5 Flamingo cruise missiles reportedly struck Samara. The likely target was TsSKB-Progress. TsSKB-Progress develops, produces and operates medium-class launch vehicles and spacecraft for Earth observation and scientific purposes. The enterprise says more than 1,700 launch vehicles and 950 spacecraft of its design have been launched.",
+      "text": "Ukraine's General Staff confirmed strikes on Progress Rocket and Space Center in Samara and Savasleyka airbase overnight. Direct hits and fires reported at both facilities.\nProgress produces Soyuz rockets used to launch Russian military, reconnaissance and communications satellites, including the Rassvet satellite internet system positioned as Russia's Starlink analog, the General Staff notes.\nSavasleyka airbase hosts MiG-31K fighter-interceptors that carry Kinzhal hypersonic missiles, they add. The General Staff says work on key military and defense industry targets continues.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-15T06:57:58+00:00",
+      "timestamp": "2026-08-16T05:13:11+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -720,6 +720,82 @@
       "verification_confidence": 30,
       "verified_sources": [
         "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "CyberBoroshno reports the Flamingo strike on Progress Rocket Center hit building 106A, which assembles electronics and control systems for Soyuz rockets. Building 106B for final assembly is nearby.\nThis is Russia's only serial assembly point for the entire Soyuz-2 lineup used for military orbital missions like Liana reconnaissance and Persona/Razdan optical intel, plus Rassvet satellite internet, the analysts note. No backup exists.\nRepairs could take months due to cleanroom requirements and sanctions on electronics components, analysts explain. Fire, smoke and water damage means recertification of clean zones and tech processes. Without this facility, rockets can't be assembled even when fuel tanks are ready.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-16T05:12:33+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "422 Luftwaffe, SBU's Special Operations Center A, and HUR destroyed a Russian missile and artillery weapons depot in occupied Crimea on August 13th. Middstrike UAV \"Zozulya\" doing the work.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-16T05:12:28+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "Ukrainian drones hit the Savasleyka military airbase overnight, forcing Russians to scramble jets to safety.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-16T05:11:37+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udd25 Russia hammers Ukraine's war industry and fuel infrastructure\nRussian missile strikes hit Kiev, Kremenchug and Krivoy Rog overnight, with intense fires reported at industrial, military, fuel and warehouse facilities.\n\ud83c\udf0f In Kiev, fires broke out in the Obolonsky and Goloseevsky districts, including non-residential and storage sites.\n\ud83c\udf0f In Krivoy Rog, major fires were recorded near ArcelorMittal Krivoy Rog, Krivoy RogCement and warehouse facilities.\n\ud83c\udf0f In Kremenchug, two very large fires erupted at the Kremenchug Oil Refinery in the Poltava region, after ballistic missile strikes, according to reports citing NASA FIRMS data.\n\ud83d\ude80 The attack reportedly involved Iskander-M, S-400 and Zircon missiles, while locals complained that Ukrainian air defenses did not even appear to try intercepting them.\nRussia keeps turning Ukraine\u2019s Nazi war machine into smoke.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-16T05:11:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
@@ -770,25 +846,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-15T19:42:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddfa\ud83c\uddf8\ud83d\udee9 US \u2018ill-equipped\u2019 to defend homeland from drone swarms - general\nAsked point-blank if the US could stop an attacking swarm of drones, Army Lt. Gen. Joseph Jarrard, deputy commander of Northern Command, served up a curt \u201cNo.\u201d\n\ud83d\udcac \"We don't have the sensors,\" he told the Space and Missile Defense Symposium (SMD) in Alabama.\nHe went even further, indicating that even if they somehow detect the threat, they might not have \u201ceffectors\" - military speak for anything to actually stop the swarm.\nDetection, he confessed, is \u201cthe biggest issue,\u201d as well as having the proper authority to use the right systems against detected drones.\nThe general\u2019s own words were:\n\ud83d\udcac \u201cWe are ill-equipped right now to handle something like that, and obviously we\u2019ve got to figure out how to mitigate that threat.\u201d\nThe US military has been scrambling to field counter-drone systems to address the growing imbalance of using expensive interceptors to destroy cheap drones - a cycle that has played out during the failed war on Iran.\nNot only did America spent a fortune shooting down cheap drones, but it[ burned through its interceptor stocks.](https://t.me/geopolitics_prime/73162)\nThe Pentagon has asked for a record-breaking $21 billion dedicated to counter-drone (C-UAS) systems and related interceptor munitions, but, like the general said, \u201cwe\u2019re not there yet.\u201d\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-15T16:49:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
