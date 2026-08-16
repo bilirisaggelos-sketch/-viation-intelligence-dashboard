@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T19:36:28.565796+00:00",
+  "generated_at": "2026-08-16T19:57:56.975748+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -412,12 +412,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "Clash Report"
+        "Clash Report",
+        "Our Wars Today"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -626,12 +627,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
+        "Clash Report",
         "Our Wars Today"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -848,64 +850,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfa Just this week alone, Russia launched over 1,550 strike drones, nearly 1,560 aerial bombs, and 62 missiles at Ukraine, \u2014 Zelensky.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-16T15:16:39+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddea\ud83c\uddf8\ud83c\uddf7\ud83c\uddf4 A Spanish F-18 fighter pilot on a NATO air policing mission shot down a drone that was illegally violating Romanian national airspace, the fourth unmanned aircraft shot down by the country this year, the Romanian Ministry of Defense stated.\nThe ministry did not specify the drone's origin, stating that its radars detected it entering the country from neighboring Moldova, about 24 km north of the Romanian southeastern city of Galati.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-16T12:42:39+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "CASELS",
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "All boring on all the fronts so I post this:\n\ud83c\uddf8\ud83c\uddfe\ud83c\uddf7\ud83c\uddfa Arrival of the first Syrian Airlines flights from Moscow to Damascus International Airport, after the liberation and resumption of air travel between Syria and Russia.\n\ud83c\uddf8\ud83c\uddfe\ud83c\udde9\ud83c\uddea And before it by a day, the first direct flight by \"Sundair\" from Berlin Airport in Germany to Damascus International Airport arrived after a 14-year suspension.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-16T11:11:59+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "CASELS",
       "text": "Ukraine says air defenses downed or suppressed 88 Russian aerial targets overnight: 85 Shahed, Gerbera and other drones, plus 3 Kh-59/69 missiles. Russia also launched Oniks and Iskander-M/S-400/KN-23 missiles at Kyiv, Kremenchuk and Kryvyi Rih. Impacts were recorded at 13 locations.",
       "source": "Telegram",
@@ -954,13 +898,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "CASELS",
-        "Mediterranean Man"
+        "CASELS"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
