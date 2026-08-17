@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T07:34:24.910981+00:00",
+  "generated_at": "2026-08-17T08:26:05.800853+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -365,6 +365,25 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
+      "text": "BIG: Two Iranian Hadid-110 explosive drones targeted Kurdistan Region PM Masrour Barzani's private office and the intelligence chief's residence in Erbil's Pirmam district earlier today.\nNo casualties or damage reported.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-17T08:01:21+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
       "text": "Russia has built at least 10 new drone bases with 59 launch rails near its borders with Belarus and Ukraine, according to a Telegraph investigation using satellite imagery and leaked documents. \nThe bases can deploy increasingly advanced long-range drones, some capable of reaching Poland, raising concerns that Moscow could threaten NATO infrastructure in a future conflict. \nSeveral sites are already being used against Ukraine, while Russia continues expanding its drone-launch capacity.\nSource: The Telegraph",
       "source": "Telegram",
       "source_type": "telegram",
@@ -722,6 +741,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ufe0f\ud83c\uddf7\ud83c\uddfa\ud83c\uddee\ud83c\uddf3 Russia has offered a quick transfer of 8-10 Sukhoi-57 twin-engine multirole fighters (approximately half a squadron) armed with 200km range R-77M radar-guided BVR A2A missiles to India.\n(Also yes the pic is AI before y'all start hounding about the Hebrew on the side)\n(This one is also going to be rejected most likely)",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-17T07:40:09+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
       ],
       "verified_source_count": 1
     },
