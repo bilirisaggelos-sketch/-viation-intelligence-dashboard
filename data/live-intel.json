@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T03:55:55.187152+00:00",
+  "generated_at": "2026-08-17T04:52:41.554622+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -268,6 +268,25 @@
       "verified_source_count": 1
     },
     {
+      "title": "Trump envoy Kushner arrives in Israel after rare Hamas talks on Gaza peace plan",
+      "text": "Trump envoy Kushner arrives in Israel after rare Hamas talks on Gaza peace plan\nKushner is expected to meet Israeli Prime Minister Benjamin Netanyahu later on Monday.",
+      "source": "BBC",
+      "source_type": "osint",
+      "publisher": "BBC World News",
+      "severity": "info",
+      "icon": "\ud83d\udcf0",
+      "timestamp": "2026-08-17T04:50:56+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "BBC World News"
+      ],
+      "verified_source_count": 1
+    },
+    {
       "title": "Qatar denies capturing three Iranian pilots after downing fighter jets",
       "text": "Qatar denies capturing three Iranian pilots after downing fighter jets\nIran claims they have been held since Qatar downed two fighter jets at the start of the US-Iran war.",
       "source": "BBC",
@@ -451,13 +470,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Geopolitics Prime",
         "Our Wars Today"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -570,6 +588,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Our Wars Today"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddfa\ud83c\udde6\u26a1\ud83c\uddf7\ud83c\uddfaUkraine launched one of its largest drone offensives of the war on August 16, targeting Moscow and multiple Russian regions.\n\ud83c\uddf7\ud83c\uddfa Russia claimed it intercepted 822 Ukrainian drones nationwide, including hundreds headed toward the Moscow region.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-17T04:25:56+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
       ],
       "verified_source_count": 1
     },
@@ -692,12 +729,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Major drone attack by Ukraine is currently underway against Moscow and other parts of Central and Southern Russia, including Russian-occupied Crimea.",
+      "text": "Russian soldier guns down an FPV drone right before it strikes his vehicle.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-17T03:53:09+00:00",
+      "timestamp": "2026-08-17T04:52:17+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -711,12 +748,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Video footage published earlier today by the Yemeni Armed Forces, the military forces of the Republic of Yemen, showing a drone being used to drop bombs on Iranian-backed Houthi positions in the Al-Jawf Governorate, a previously unseen capability that has grown due to the Russia-Ukraine War.",
+      "text": "#Afghanistan \ud83c\udde6\ud83c\uddeb: \u201cAfghanistan Freedom Front\u201d (#AFF) carried out an attack on #Taliban positions in Zibak, Badakhshan Province.\nAFF members used Chinese Type 69 RPG Launcher with OG-7V rockets, RPK / RPD light machine gun and Type 56-1 rifles.\nhttps://x.com/i/status/2088992652796563658",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-17T03:53:06+00:00",
+      "timestamp": "2026-08-17T04:39:37+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -730,12 +767,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "A Spanish F-18 operating under NATO air-policing authorities shot down a drone that breached Romanian airspace early Sunday, according to Romania\u2019s Defense Ministry.\nRomanian radars detected the drone entering from neighboring Moldova, about 15 miles north of Gala\u021bi. The F-18 established radar contact and received authorization to engage, bringing the drone down at 05:01 local time. Debris reportedly fell in an uninhabited area.\nRomania says this is the fourth drone it has shot down this year. The country has experienced repeated Russian drone incursions during the war in Ukraine, including three Russian drones shot down by Romanian F-16s in July.",
+      "text": "BAE Systems\u2019 Nyan jet-powered drones have been used by Ukrainian forces for six months, The Sunday Times says. The 250 km version carries a 20 kg warhead and costs from $67,000. A 1,000 km version was allegedly used against Volgograd and Yaroslavl.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-17T03:52:55+00:00",
+      "timestamp": "2026-08-17T04:38:28+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -749,12 +786,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Ukraine says air defenses downed or suppressed 88 Russian aerial targets overnight: 85 Shahed, Gerbera and other drones, plus 3 Kh-59/69 missiles. Russia also launched Oniks and Iskander-M/S-400/KN-23 missiles at Kyiv, Kremenchuk and Kryvyi Rih. Impacts were recorded at 13 locations.",
+      "text": "Ukrainian border guards from the Steel Border Brigade struck a Russian tractor and the artillery piece it was towing in a coordinated double attack. One drone hit the tractor\u2019s fuel tank, while a second drone flew directly into the towed gun.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-16T07:38:33+00:00",
+      "timestamp": "2026-08-17T04:38:16+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -768,12 +805,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6 A massive Ukrainian drone attack targeted Russia's largest \"Wildberries\" facility in the Moscow region, leaving it aflame. Moscow Mayor Sergei Sobyanin claimed that a staggering 600 UAVs were launched, of which only 201 were intercepted by Russian air defense systems.\nThe drone swarm was so large that it led to the suspension of departures at Vnukovo, Domodedovo, and Zhukovsky airports. Among the targets were the Wildberries Distribution Center in Podolsk and the Domodedovo Warehouse Complex, with injuries reported in the MKAD area of Moscow.\nThe latest attacks point to a growing escalation in the Russia-Ukraine war, with large-scale drone and missile strikes becoming increasingly prominent.\n[ \n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook [ +18",
+      "text": "Two assault troops from Ukraine\u2019s 475th Code 9.2 Regiment captured Russian positions but were badly wounded by Molniya drones on the way back. A ground robotic platform sent to evacuate them was also hit. Company commander Vladyslav Polskyi then drove a civilian pickup into the strike zone without body armor, reached the disabled robot, loaded both wounded troops himself and evacuated them to cover.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-16T07:38:27+00:00",
+      "timestamp": "2026-08-17T04:38:10+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -787,12 +824,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "A Spanish fighter jet shot down a drone after it violated Romanian airspace, Romania\u2019s Defense Ministry said.",
+      "text": "Claimed aftermath footage of a Ukrainian drone/missile attack on the Kamensky Combine in Kamensk-Shakhtinsky, Rostov region, overnight. The Russian defense plant produces solid rocket fuel for Uragan, Smerch and Tornado-S MLRS ammunition and other missile systems.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-16T07:38:21+00:00",
+      "timestamp": "2026-08-17T04:37:49+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -806,12 +843,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1\ud83c\uddf1\ud83c\udde7\ud83c\uddf1\ud83c\udde7 IDF: We eliminated Abu Hassan Ala, a prominent leader in Hezbollah\u2019s Badr unit, in a strike on the Deir al-Zahran area on Saturday. Ala was involved in planning and carrying out attacks against Israeli forces operating in the security zone, including the use of explosive drones in southern Lebanon.\nThe killing will affect the Badr unit\u2019s operational capabilities and following the elimination of Ali Samir Haj Hassan, a Radwan Force company commander killed at a command post in Ansar. We will continue acting against what it considers threats to Israeli forces and civilians.\n[\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "Ukraine\u2019s General Staff confirmed a strike on the Kamensky Combine in Rostov region, where a fire was recorded. The plant produces solid rocket fuel for Uragan, Smerch and Tornado-S ammunition. It also confirmed ZapSibNeftekhim in Tobolsk stopped operating after the August 10 strike on its central gas fractionation unit, and that five processing units at the Orsk refinery were hit on August 11.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-16T06:09:10+00:00",
+      "timestamp": "2026-08-17T04:37:46+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -825,12 +862,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddf7\ud83c\uddf4\ud83c\uddea\ud83c\uddf8 Romania\u2019s Defence Ministry says a Spanish F-18 fighter jet on a NATO air-policing mission shot down a drone that had illegally entered Romanian airspace.\nThey did not specify the origin of the drone.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "\u2757\ufe0fUkraine\u2019s Navy struck Russian Bastion coastal missile system positions and its deployment site in occupied Crimea overnight. The Navy says significant losses in weapons and personnel were inflicted. Bastion systems are used to launch Oniks and Zircon missiles at Ukraine.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-16T06:07:06+00:00",
+      "timestamp": "2026-08-17T04:34:49+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -844,12 +881,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddfe\ud83c\uddea\ud83c\uddfe\ud83c\uddea\ud83c\uddf8\ud83c\udde6 [Reuters](https://www.reuters.com/world/middle-east/yemens-mocha-port-halts-operations-after-houthi-attacks-port-director-says-2026-08-15/): Yemen\u2019s Mokha port has suspended commercial and maritime operations after being hit by more than 25 missiles in Houthi attacks over recent days, the port\u2019s director said. The attacks killed seven people and caused an estimated $16 million in losses, according to the director.\nMokha is a Red Sea port near the Bab el-Mandab Strait, a strategic chokepoint connecting the Red Sea with the Gulf of Aden and an important route for international shipping. The port is controlled by forces aligned with Yemen\u2019s internationally recognised government and has a smaller cargo capacity than the country\u2019s main ports of Aden and Hodeidah.\nYemen\u2019s government said the Houthis fired six ballistic missiles at Mocha on Friday, killing at least four civilians and targeting civilian, economic and maritime facilities. The Houthis said they had targeted a military build-up of weapons and warships belonging to Saudi-backed forces in Mokha, while the escalation has raised concerns about a return to large-scale conflict in Yemen.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "Zelensky says Russian strikes killed 2 people in Kryvyi Rih and 1 in Sumy, while 20 others were injured in Kyiv, its region and Kryvyi Rih. He said 13 regions were attacked this week as Russia launched over 1,550 attack drones, nearly 1,560 guided bombs and 62 missiles.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-16T06:00:43+00:00",
+      "timestamp": "2026-08-17T04:34:42+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -917,45 +954,6 @@
         "Geopolitics Prime"
       ],
       "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udea8\ud83c\uddee\ud83c\uddf7 Iran to Trump: Hormuz isn\u2019t yours and US forces aren\u2019t coming back\nUS forces should forget about a return to business as usual in the Persian Gulf, the Sea of Oman, or the Strait of Hormuz, Iran\u2019s army chief, Major General Amir Hatami, said during a ceremony honoring journalists.\n\ud83d\udcac\"The Strait of Hormuz is a God-given geopolitical asset. We will protect it with all our might as ordered by the Supreme Commander. This leverage is one of the necessities for ending the war in a way that the shadow of war is lifted from Iran.\"\nHatami also had a message for Donald Trump after the US president floated the idea of turning the Strait of Hormuz into American territory: not happening. He said Trump was \u201cway out of line,\u201d adding that calling it a joke afterward did not make the remark any less absurd.\nHatami went on to say that:\n\ud83d\udd34 US forces are no longer permitted to enter the Persian Gulf, the Sea of Oman, or the Strait of Hormuz\n\ud83d\udd34 American bases in the region will never return to their previous state\n\ud83d\udd34 A $30,000 reward (5 billion Tomans) is now offered by the Iranian Army for every American soldier killed or captured\n\ud83d\udd34 Iranian women who carry out such an action will receive double the reward\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-16T13:29:18+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddee\ud83c\uddf7Iran lays bare US overstretch & limits to power projection in Middle East and Asia-Pacific\nThe reported mutiny aboard the USS Abraham Lincoln is a clear sign that American maritime hegemony is fracturing beyond repair \u2013 not just in the Middle East, but far beyond.\nTasnim News Agency detailed the case, citing informed sources: a CENTCOM adviser was reportedly booed and pelted with water bottles aboard the USS Abraham Lincoln amid crew complaints over its prolonged deployment. The confrontation allegedly escalated into a knife fight, leaving seven dead and several wounded.\n\ud83d\udc49 CENTCOM quickly denied the story, but declining morale aboard the ship and incidents of US Navy sailors jumping overboard have been reported by The Guardian, Navy News, Stars and Stripes, and other outlets.\nPrevious reporting has highlighted shattered navy morale surrounding the Iran campaign, while the USS Gerald R. Ford [suffered sewage problems](https://t.me/geopolitics_prime/65208) shortly before Operation Epic Fury. On March 12, a non-combat fire left more than 600 crew members without beds and left 200 injured, forcing the carrier to sail to Souda Bay, Crete, for repairs. There were strong suspicions that USS Ford sailors had deliberately set [the fire to end the deployment](https://t.me/geopolitics_prime/66874).\n\ud83c\uddfa\ud83c\uddf8\u274c US no longer a dominant sea power\nThe reported mutiny aboard the USS Abraham Lincoln \"is the screaming symptom of a force pushed beyond its breaking point, confronting an adversary that refuses to break,\" argues Substack's Middle East Report newsletter.\nWhile the Trump administration threatens Iran with an indefinite blockade, the Fifth Fleet is keeping as far from the Iranian coast as possible, operating in the Arabian Sea rather than projecting force in the Strait of Hormuz, after the USS Lincoln was reportedly struck by Iranian missiles and drones in mid-March. The Fifth Fleet's headquarters[ in Bahrain have been largely dismantled by Iran](https://t.me/geopolitics_prime/69208).\nIt's a stark contrast to US naval dominance in the Middle East in the 1990s \u2013 and a far cry from when Washington could project carrier power and expect the world to immediately fall in line, geopolitical observers say.\n\ud83d\udc41 Asia-Pacific region sees America's decline\nThe erosion of US naval dominance \u2013 reminiscent of the decline once experienced by the British Empire \u2013 is increasingly evident to the Global South, particularly in the Asia-Pacific, where Washington has sought to counter China.\nDespite signing a Major Defense Cooperation Partnership (MDCP) with the US in April, Indonesia has made clear that it does not want [US military bases on its territory.](https://t.me/geopolitics_prime/73337)\n\ud83c\uddf2\ud83c\uddfe Malaysia, which oversees the strategically vital Strait of Malacca, is now seeking to deepen defense ties with Iran, including through a memorandum of understanding on defense cooperation. Iran\u2019s Acting Defense Minister Brig. Gen. Majid Ebn-e-Reza has signaled that Tehran is eager to share its [defense expertise](https://t.me/geopolitics_prime/73426) with the Muslim world.\nIran could also share its experience on countering[ Israel\u2019s Elbit Systems technologies](https://t.me/geopolitics_prime/73415) with China, particularly following its interception of a Hermes 900 drone. This could prove timely, as expanding US-Israeli military cooperation with Taiwan is further muddying the waters in the Asia-Pacific despite Chinese protests.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-16T12:46:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Geopolitics Prime",
-        "Our Wars Today"
-      ],
-      "verified_source_count": 2
     },
     {
       "title": "Telegram",
