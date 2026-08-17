@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T15:43:05.234414+00:00",
+  "generated_at": "2026-08-17T16:02:22.955818+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -298,12 +298,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
+        "Alsaa Plus EN",
         "Middle East Spectator"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -437,26 +438,6 @@
         "Clash Report"
       ],
       "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Yemen\u2019s Houthis say they struck a Saudi military landing ship and four escort boats off Mokha with ballistic missiles, destroying the ship and several boats.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-17T11:50:51+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Clash Report",
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -632,6 +613,26 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf6\ud83c\uddee\ud83c\uddf7\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf1 Al-Mayadeen: Today's Incident in Erbil Was a False Flag Operation\n\u00a0\u00a0 A senior Iranian source, speaking to Al-Mayadeen, described today's incident in Erbil, the capital of Iraq's Kurdistan Region, as yet another example of a so-called \"false flag\" operation.\n\u00a0\u00a0 Earlier, the official Iraqi news agency, citing the Kurdistan Counter-Terrorism Service, reported that two drones targeted the office of the Prime Minister of the Kurdistan Regional Government and the residence of the security directorate chief.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-17T15:43:24+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
       "text": "\ud83c\uddfe\ud83c\uddea\u26a1\ufe0f\ud83c\uddf8\ud83c\udde6 Houthis Claim Missile Attack on Saudi Naval Group\nYemen\u2019s Iran-aligned Houthi movement says it launched a missile attack on a Saudi military vessel and four accompanying vessels in the Red Sea, off Al-Makha (Mocha), according to military spokesman Yahya Saree.\n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
@@ -641,12 +642,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "Alsaa Plus EN"
+        "Alsaa Plus EN",
+        "Geopolitics Prime"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -891,7 +893,7 @@
       "verification_status": "PARTIALLY VERIFIED",
       "verification_confidence": 65,
       "verified_sources": [
-        "Clash Report",
+        "Alsaa Plus EN",
         "Geopolitics Prime"
       ],
       "verified_source_count": 2
