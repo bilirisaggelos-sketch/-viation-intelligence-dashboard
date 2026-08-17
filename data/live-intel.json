@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T04:52:41.554622+00:00",
+  "generated_at": "2026-08-17T05:40:23.972548+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -269,32 +269,13 @@
     },
     {
       "title": "Trump envoy Kushner arrives in Israel after rare Hamas talks on Gaza peace plan",
-      "text": "Trump envoy Kushner arrives in Israel after rare Hamas talks on Gaza peace plan\nKushner is expected to meet Israeli Prime Minister Benjamin Netanyahu later on Monday.",
+      "text": "Trump envoy Kushner arrives in Israel after rare Hamas talks on Gaza peace plan\nUS President Trump's son-in-law Jared Kushner is expected to meet Israeli Prime Minister Benjamin Netanyahu later on Monday.",
       "source": "BBC",
       "source_type": "osint",
       "publisher": "BBC World News",
       "severity": "info",
       "icon": "\ud83d\udcf0",
       "timestamp": "2026-08-17T04:50:56+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "BBC World News"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Qatar denies capturing three Iranian pilots after downing fighter jets",
-      "text": "Qatar denies capturing three Iranian pilots after downing fighter jets\nIran claims they have been held since Qatar downed two fighter jets at the start of the US-Iran war.",
-      "source": "BBC",
-      "source_type": "osint",
-      "publisher": "BBC World News",
-      "severity": "info",
-      "icon": "\ud83d\udcf0",
-      "timestamp": "2026-08-16T09:27:58+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -729,6 +710,44 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
+      "text": "\u26a1\ufe0f\ud83c\udde8\ud83c\uddf4 ELN members harassed the area around the \u00c1brego hospital in Norte de Santander department, where wounded soldiers were being treated following a drone explosive attack that killed professional soldier Neiver Ricardo and injured five other troops.\nMedical staff, patients, and administrative personnel had to take shelter while security forces secured the area.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-17T05:00:20+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "A Yemeni Armed Forces drone struck a tunnel-drilling machine used by the Iran-backed Houthis.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-17T04:54:29+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
       "text": "Russian soldier guns down an FPV drone right before it strikes his vehicle.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -792,101 +811,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-17T04:38:16+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "Two assault troops from Ukraine\u2019s 475th Code 9.2 Regiment captured Russian positions but were badly wounded by Molniya drones on the way back. A ground robotic platform sent to evacuate them was also hit. Company commander Vladyslav Polskyi then drove a civilian pickup into the strike zone without body armor, reached the disabled robot, loaded both wounded troops himself and evacuated them to cover.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-17T04:38:10+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "Claimed aftermath footage of a Ukrainian drone/missile attack on the Kamensky Combine in Kamensk-Shakhtinsky, Rostov region, overnight. The Russian defense plant produces solid rocket fuel for Uragan, Smerch and Tornado-S MLRS ammunition and other missile systems.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-17T04:37:49+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "Ukraine\u2019s General Staff confirmed a strike on the Kamensky Combine in Rostov region, where a fire was recorded. The plant produces solid rocket fuel for Uragan, Smerch and Tornado-S ammunition. It also confirmed ZapSibNeftekhim in Tobolsk stopped operating after the August 10 strike on its central gas fractionation unit, and that five processing units at the Orsk refinery were hit on August 11.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-17T04:37:46+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "\u2757\ufe0fUkraine\u2019s Navy struck Russian Bastion coastal missile system positions and its deployment site in occupied Crimea overnight. The Navy says significant losses in weapons and personnel were inflicted. Bastion systems are used to launch Oniks and Zircon missiles at Ukraine.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-17T04:34:49+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "Zelensky says Russian strikes killed 2 people in Kryvyi Rih and 1 in Sumy, while 20 others were injured in Kyiv, its region and Kryvyi Rih. He said 13 regions were attacked this week as Russia launched over 1,550 attack drones, nearly 1,560 guided bombs and 62 missiles.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-17T04:34:42+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
