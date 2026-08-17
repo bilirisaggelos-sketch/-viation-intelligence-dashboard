@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T17:33:50.289822+00:00",
+  "generated_at": "2026-08-17T18:13:24.381324+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -404,88 +404,31 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
+      "text": "Russia warned that T\u00fcrkiye's planned transfer of US-origin weapons to Ukraine would cause \"serious damage\" to Moscow's relations with both Ankara and Washington.\nThe package includes 12 M270 MLRS launchers, 70 ATACMS missiles, and thousands of cluster munition rounds \u2014 containing over 10 million submunitions \u2014 from T\u00fcrkiye's Cold War-era stockpiles worth roughly $260 million.\nThe US State Department is prepared to approve the deal. \nRussia has requested explanations from both capitals, saying supplying weapons while claiming a mediator role \"inevitably undermines mutual trust.\"",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-17T17:51:49+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
       "text": "Ukraine's Ambassador to Ankara Nariman Dzhelyal denies claims that Ukrainian drone forces commander Robert Brovdi made remarks about the death of Turkish sailor Sava\u015f \u00c7akar, calling it \"an overt act of disinformation and manipulation.\"\nWhoever created this fake news, their goal is clear.\nTo exploit a tragedy in order to generate negative sentiment against Ukraine within Turkish society. \nWe must not allow this.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-17T17:20:59+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "WATCH: CNN gained first-ever media access to a Ukrainian Patriot launcher, sitting idle in a cornfield near Kyiv with all 16 tubes empty. \nIt hasn't fired in roughly 10 weeks.\nIts chief engineer: \nBallistic missiles are flying over your head and you are not able to do anything with it, and behind you, there are civilians.\nHe blamed the global interceptor shortage on the Iran war: \nWe were very shocked by how many missiles they launched \u2014 the very missiles that we could use against Russian ballistic missiles.\nSource: CNN",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-17T17:04:59+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Former Ukrainian Minister of Defense Fedorov:\nTwo or three years ago, our partners didn\u2019t understand the new reality. \nThey asked us why we were betting on drones, why we invested a lot in these directions, and they didn\u2019t believe that the future belongs to drones and that the war is the drone. \nBut today, I can say that all our key partners really understand that the situation is different, and the future belongs to drones and robotic technologies.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-17T16:31:50+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Former Ukrainian Minister of Defense Fedorov:\nThe next stage of this war will be robots and drones fighting other autonomous robots and drones.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-17T16:27:59+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Former Ukrainian Minister of Defense Fedorov:\nThree to six months\u2014a Ukrainian ballistic missile will hit Russia.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-17T16:26:36+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -876,6 +819,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8 Iran\u2019s \u2018peace through strength\u2019 doctrine leaves US military options looking thinner\nIran has taken a clear lesson from its past with the U.S.: when America speaks of peace, it helps to watch its bombers. \nSo, according to the WSJ, Iran has spent the past two months building a layered deterrence strategy designed to make another US attack far harder to launch \u2014 and much harder to contain.\n\ud83d\udc49 Iran had reasons to be suspicious. In June 2025, Washington was publicly talking up diplomatic progress through mediators before joining Israeli strikes during the 12-day war. Then, in February 2026, US bombing began just two days after talks in Geneva.\nSo when a memorandum of understanding was signed in mid-June, Iran apparently decided that taking American assurances at face value would be a rather expensive habit.\nOver the following two months:\n\ud83d\udd36 The IRGC expanded its oversight of the regular army, elevated [commanders with battlefield experience](https://t.me/geopolitics_prime/73266) from the Iran-Iraq war to key posts, and stepped up domestic counterintelligence \n\ud83d\udd36 Production of missiles and drones was accelerated, while military advisers were dispatched to Iran-aligned groups in Iraq, Yemen, and Lebanon to[ prepare for joint operations ](https://t.me/geopolitics_prime/73028)\n\ud83d\udd36 Saudi Arabia found its oil exports more [exposed to attacks](https://t.me/geopolitics_prime/73490) from both Yemen and Iraq, and Gulf states received a stark warning not to interfere in the conflict\n\ud83d\udd36 Iran also [struck Kurdish separatist groups](https://t.me/geopolitics_prime/73370) to guarantee their non-interference in the event of a potential US ground invasion.\nBy expanding its forces and creating multiple points of tension across the region, Iran has forced its counterparts to [stretch their resources](https://t.me/geopolitics_prime/73465) and raises the cost of escalation, compelling the US to reconsider a military solution to the conflict.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-17T17:34:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
