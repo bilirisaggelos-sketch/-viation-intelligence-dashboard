@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T10:44:52.504854+00:00",
+  "generated_at": "2026-08-17T11:11:50.416938+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -421,64 +421,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Russia has built at least 10 new drone bases with 59 launch rails near its borders with Belarus and Ukraine, according to a Telegraph investigation using satellite imagery and leaked documents. \nThe bases can deploy increasingly advanced long-range drones, some capable of reaching Poland, raising concerns that Moscow could threaten NATO infrastructure in a future conflict. \nSeveral sites are already being used against Ukraine, while Russia continues expanding its drone-launch capacity.\nSource: The Telegraph",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-17T06:18:13+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "CASELS",
-        "Clash Report"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Iran\u2019s leadership appears to be preparing for a broader, longer conflict rather than trusting U.S.-Iran diplomacy.\nIntelligence cited by the WSJ suggests Tehran used the lull after the June agreement to rebuild missile and drone capabilities, strengthen the Revolutionary Guard, coordinate regional militias, and prepare offensive operations.\nIran has since intensified pressure on shipping in the Strait of Hormuz and Red Sea, threatened Gulf energy infrastructure, and expanded attacks involving U.S. and regional targets. \nMeanwhile, hard-liners have gained greater control over Iran\u2019s military and internal-security apparatus.\nThe strategy appears aimed at raising the cost of attacking Iran so dramatically that the U.S., Israel, and Gulf states are deterred from future strikes. \nAlthough Iran remains economically and militarily weakened, its leadership increasingly seems to view the current fighting not as the end of the war, but as preparation for a potentially larger confrontation.\nSource: WSJ",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-17T06:16:09+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "NORTHCOM Deputy Commander Lt. Gen. Joseph Jarrard warns the U.S. is \u201cill-equipped\u201d to defend against a drone swarm attack on U.S. soil:\n\u201cWe don\u2019t have the sensors\u2026 [or] effectors to go after that problem.\u201d",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-16T21:39:00+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Our Wars Today",
       "text": "[A NATO fighter shot down a drone over Romania](https://www.pravda.com.ua/news/2026/08/16/8048864/)\nA Spanish F-18 fighter jet shot down a drone over Romania. This is the fourth incident of a drone intrusion into Romanian airspace. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://www.pravda.com.ua/news/2026/08/16/8048864/)\n\u0420\u043e\u043c\u0430\u043d \u041f\u0435\u0442\u0440\u0435\u043d\u043a\u043e | pravda\u200b.com\u200b.ua \u2022 Aug 16, 2026",
       "source": "Telegram",
@@ -812,13 +754,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "CASELS",
-        "Clash Report"
+        "CASELS"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
