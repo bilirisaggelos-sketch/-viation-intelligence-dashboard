@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T15:04:10.885664+00:00",
+  "generated_at": "2026-08-17T15:43:05.234414+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -688,25 +688,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ufe0f\ud83c\uddf7\ud83c\uddfa Russia has unveiled a floating platform armed with a remotely operated machine gun to deal with USVs.\nLeningrad Governor\u00a0Alexander Drozdenko shared\u00a0a first look at the \u201cPlot-40\u201d experimental fire support prototype, which he said could also protect naval bases and coastal ports from drone attacks.\nImages show a pontoon-like structure with an open deck supporting the platform\u2019s gun, while an enclosed section at the bottom could potentially accommodate personnel or tactical equipment.\nTechnical details about the platform, including its total displacement, remain undisclosed. Developers have also yet to confirm whether it will feature AI-assisted targeting or require personnel onboard to support weapon operations.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-17T12:15:06+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "CASELS",
       "text": "The U.S. is \"ill-equipped\" to defend against a drone swarm attack on American soil, NORTHCOM Deputy Commander Lt. Gen. Joseph Jarrard warns.\n\"We don't have the sensors\u2026 [or] effectors to go after that problem.\"",
       "source": "Telegram",
@@ -835,6 +816,44 @@
       "verification_confidence": 30,
       "verified_sources": [
         "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udc4fStaged drama for the goyim? Kushner said to grill Netanyahu for four hours on Gaza\nThe Trump son-in-law and Middle East policy point man met with Israel\u2019s prime minister in Egypt on Sunday and demanded that Netanyahu \u201cnot create obstacles\u201d to the implementation of the Gaza ceasefire plan, an Israeli source \u201cfamiliar with the discussions\u201d told CNN.\n\ud83d\udc79Netanyahu\u2019s reaction? That it would be \u201cproblematic\u201d to implement the plan ahead of Israel\u2019s looming elections. Instead, Hamas should completely disarm first, according to Bibi \u2013 a complete non-starter for the Palestinian militant group.\n\ud83d\udc49Kushner and members of the Board of Peace also separately [met with a Hamas delegation](https://t.me/geopolitics_prime/73505), where specific mechanisms for disarmament, the transfer of power, Israeli withdrawal, humanitarian aid, and Israel\u2019s ceasefire violations were discussed, with Kushner pressured to \u201ccompel\u201d Israel to honor the US-brokered agreement.\n\ud83d\udc49Trump, for his part, said Monday that he \u201cmay endorse somebody\u201d ahead of Israel\u2019s looming vote, but will otherwise \u201cstay out of Israeli elections.\u201d\n\ud83d\udc49Kushner\u2019s supposed hard line on Netanyahu echoes the back-and-forth, Days of Our Lives-style soap opera of public friction in the [Trump-Netanyahu relationship](https://t.me/geopolitics_prime/72864), which first began in 2020 after Bibi rushed to congratulate Biden in an election whose results Trump was contesting. \n\ud83d\udc49From [Trump\u2019s threats to leave Netanyahu alone](https://t.me/geopolitics_prime/71186) with Iran, to calling him \u201cf*cking crazy\u201d over his bombing of Lebanon, to declarations that \u201cwithout [Trump], there would be no Israel,\u201d the public jabs have had absolutely no discernable impact on US foreign policy, which remains as slavishly pro-Israel as ever.\nAnd Kushner? Far be it for him to actually criticize Israel, given his status as arguably the most influential [agent of Tel Aviv](https://t.me/geopolitics_prime/65306) in the entire Trump administration.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-17T15:37:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddfa\ud83c\uddf8\ud83e\udd21 US justifies deadly Israeli strikes in Lebanon\n\ud83d\udd34 The US has placed full responsibility on Hezbollah for Israel's prolonged occupation of parts of southern Lebanon and its [recent strikes](https://t.me/geopolitics_prime/73443), marking a clear shift in Washington's public stance toward the escalating conflict, Haaretz reports.\n\ud83d\udd34 Just days after the State Department criticized Israeli Defense Minister Israel Katz's statements that Israel would stay in occupied southern Lebanon, US officials have now accepted Israel's explanations for the attacks. A State Department spokesperson stated that the group \"must be disarmed and dismantled.\"\n\ud83d\udd34 The shift comes as Israeli forces [expanded their attacks](https://t.me/geopolitics_prime/73423?single) across five southern Lebanese districts this weekend, killing at least 11 people, including women and children. Israel claimed the strikes were a response to a Hezbollah drone attack that wounded three Israeli soldiers, though the resistance group has not claimed responsibility for the attack.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-17T15:21:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
