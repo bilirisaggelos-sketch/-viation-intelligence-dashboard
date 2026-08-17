@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T06:21:25.941035+00:00",
+  "generated_at": "2026-08-17T07:34:24.910981+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -680,13 +680,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
-        "Mediterranean Man"
+        "Alsaa Plus EN"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -728,23 +727,22 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddf1\ud83c\udde7\ud83c\uddee\ud83c\uddf1 Yedioth Ahronoth newspaper : 32 years after his father was injured in the Suajd (Sughd) region of southern Lebanon, Soldier (A) was seriously injured yesterday morning (Saturday) due to the explosion of a Hezbollah explosive drone in the Ali al-Tahir region.\nNote: The strategic area and site of Suajd in Mount Rihan in Iqlim al Tuffah (Apple region) , southern Lebanon, was liberated through a series of successful military operations, most notably the Islamic Resistance's (Hezbollah) famous storming of the site on September 18, 1986, before its complete liberation and the liberation of the entire area were finalized with the liberation of 2000.",
+      "publisher": "CASELS",
+      "text": "The U.S. is \"ill-equipped\" to defend against a drone swarm attack on American soil, NORTHCOM Deputy Commander Lt. Gen. Joseph Jarrard warns.\n\"We don't have the sensors\u2026 [or] effectors to go after that problem.\"",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-16T18:50:34+00:00",
+      "timestamp": "2026-08-17T06:40:19+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
-        "Mediterranean Man"
+        "CASELS"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -863,20 +861,20 @@
     },
     {
       "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "BAE Systems\u2019 Nyan jet-powered drones have been used by Ukrainian forces for six months, The Sunday Times says. The 250 km version carries a 20 kg warhead and costs from $67,000. A 1,000 km version was allegedly used against Volgograd and Yaroslavl.",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udea8 Russian strikes leave Ukrainian base and fuel station in flames\nRussian Geran drones struck a temporary deployment point and ammunition depots of Ukrainian forces near Sumy, triggering a massive fire.\nIn a separate strike, Geran-4 drones hit a Ukrainian WOG gas station in Zaporozhye.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-17T04:38:28+00:00",
+      "timestamp": "2026-08-17T07:11:02+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "CASELS"
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
