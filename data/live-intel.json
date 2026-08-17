@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T22:43:49.665941+00:00",
+  "generated_at": "2026-08-17T23:03:03.841838+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -192,6 +192,25 @@
       "verified_source_count": 1
     },
     {
+      "title": "Space Weather Message Code: WATA20\r",
+      "text": "Space Weather Message Code: WATA20\r\nSerial Number: 1121\r\nIssue Time: 2026 Aug 17 2246 UTC\r\n\r\nWATCH: Geomagnetic Storm Category G1 Predicted \nHighest Storm Level Predicted by Day:\nAug 18: None (Below G1) Aug 19: G1 (Minor) Aug 20: None (Below G1) \nTHIS SUPERSEDES ANY/ALL PRIOR WATCHES IN EFFECT\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-08-17 22:46:24.740",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
       "title": "Space Weather Message Code: ALTK04\r",
       "text": "Space Weather Message Code: ALTK04\r\nSerial Number: 2680\r\nIssue Time: 2026 Aug 17 2105 UTC\r\n\r\nALERT: Geomagnetic K-index of 4 \nThreshold Reached: 2026 Aug 17 2059 UTC\nSynoptic Period: 1800-2100\nActive Warning: YES\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
       "source": "NOAA Space Weather",
@@ -257,25 +276,6 @@
       "severity": "warning",
       "icon": "\ud83d\udef0\ufe0f",
       "timestamp": "2026-08-14 10:54:33.670",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Space Weather Message Code: ALTTP2\r",
-      "text": "Space Weather Message Code: ALTTP2\r\nSerial Number: 1520\r\nIssue Time: 2026 Aug 14 0715 UTC\r\n\r\nALERT: Type II Radio Emission \nBegin Time: 2026 Aug 14 0650 UTC\nEstimate Velocity: 671 km/s\nComment:",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-08-14 07:15:21.773",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -467,25 +467,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-16T14:36:28+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Our Wars Today"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Our Wars Today",
-      "text": "[An object similar to a sea drone was found in Romania](https://www.pravda.com.ua/news/2026/08/16/8048891/)\nSuspicious objects were discovered on the beach of Romanian Constanta, one of which looks like a marine drone. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://www.pravda.com.ua/news/2026/08/16/8048891/)\n\u041e\u043b\u044c\u0433\u0430 \u041a\u043e\u0432\u0430\u043b\u044c\u0447\u0443\u043a,\u0420\u043e\u043c\u0430\u043d \u041f\u0435\u0442\u0440\u0435\u043d\u043a\u043e | pravda\u200b.com\u200b.ua \u2022 Aug 16, 2026",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-16T14:36:10+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
