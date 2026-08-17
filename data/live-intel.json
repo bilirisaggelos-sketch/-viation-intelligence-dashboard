@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T05:40:23.972548+00:00",
+  "generated_at": "2026-08-17T06:21:25.941035+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -365,6 +365,45 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
+      "text": "Russia has built at least 10 new drone bases with 59 launch rails near its borders with Belarus and Ukraine, according to a Telegraph investigation using satellite imagery and leaked documents. \nThe bases can deploy increasingly advanced long-range drones, some capable of reaching Poland, raising concerns that Moscow could threaten NATO infrastructure in a future conflict. \nSeveral sites are already being used against Ukraine, while Russia continues expanding its drone-launch capacity.\nSource: The Telegraph",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-17T06:18:13+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "CASELS",
+        "Clash Report"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Iran\u2019s leadership appears to be preparing for a broader, longer conflict rather than trusting U.S.-Iran diplomacy.\nIntelligence cited by the WSJ suggests Tehran used the lull after the June agreement to rebuild missile and drone capabilities, strengthen the Revolutionary Guard, coordinate regional militias, and prepare offensive operations.\nIran has since intensified pressure on shipping in the Strait of Hormuz and Red Sea, threatened Gulf energy infrastructure, and expanded attacks involving U.S. and regional targets. \nMeanwhile, hard-liners have gained greater control over Iran\u2019s military and internal-security apparatus.\nThe strategy appears aimed at raising the cost of attacking Iran so dramatically that the U.S., Israel, and Gulf states are deterred from future strikes. \nAlthough Iran remains economically and militarily weakened, its leadership increasingly seems to view the current fighting not as the end of the war, but as preparation for a potentially larger confrontation.\nSource: WSJ",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-17T06:16:09+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
       "text": "NORTHCOM Deputy Commander Lt. Gen. Joseph Jarrard warns the U.S. is \u201cill-equipped\u201d to defend against a drone swarm attack on U.S. soil:\n\u201cWe don\u2019t have the sensors\u2026 [or] effectors to go after that problem.\u201d",
       "source": "Telegram",
       "source_type": "telegram",
@@ -710,6 +749,45 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
+      "text": "Russia has built 10 drone bases with at least 59 new launch rails along its borders with Ukraine and Belarus, according to a Telegraph investigation using leaked documents and satellite imagery. Around 20 extended rails appear capable of launching Russia\u2019s latest long-range attack drones, potentially putting Warsaw within range. One site has enough storage for more than 1,000 drones, while additional launch rails are still being built. Seven of the 10 sites have recently been used against Kyiv.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-17T06:13:12+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "CASELS",
+        "Clash Report"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "Ukraine says air defenses downed or suppressed 106 of 128 Russian drones overnight into August 17. The attack included Shahed, jet-powered Shahed, Gerbera and Parodiya decoys. Drone impacts were recorded at 14 locations, with debris at two more.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-17T06:12:38+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
       "text": "\u26a1\ufe0f\ud83c\udde8\ud83c\uddf4 ELN members harassed the area around the \u00c1brego hospital in Norte de Santander department, where wounded soldiers were being treated following a drone explosive attack that killed professional soldier Neiver Ricardo and injured five other troops.\nMedical staff, patients, and administrative personnel had to take shelter while security forces secured the area.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
@@ -804,20 +882,20 @@
     },
     {
       "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "Ukrainian border guards from the Steel Border Brigade struck a Russian tractor and the artillery piece it was towing in a coordinated double attack. One drone hit the tractor\u2019s fuel tank, while a second drone flew directly into the towed gun.",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddf8\ud83c\udde6\ud83d\udca3 Houthis threaten to burn Saudi Arabia to the ground as war expands\n \n\ud83d\udcac \u201cWe cannot accept Yemeni territory being turned into an open arena for confrontation while Saudi territory and interests remain immune from its repercussions. Our response will be commensurate\u201d with the nature of aggression, Dr. Abdulaziz Saleh Bin Habtoor, the Houthi-led Yemeni government\u2019s former prime minister and member of the Supreme Political Council has announced.\n\ud83d\udde3 \u201cThe attempt to transfer the escalation to the Yemeni interior using low-grade local forces and mercenaries does not change the nature of Saudi complicity,\u201d the official warned, adding that although Yemen has demonstrated in recent years that it is not seeking a return to war, it will not accept \u201cthe exploitation of a truce for mobilization or the imposition of new military realities on the ground.\u201d\n\ud83d\udcac \u201cThe shortest path to avoiding escalation remains clear: stop the mobilizations and hostile actions, and move from managing the crisis and exerting pressure on Yemen to addressing its causes and implementing the requirements of peace in a serious and responsible manner,\u201d Habtoor stressed.\nHis comments follow reports of new Houthi attacks on an Aramco refinery in Jazan, Saudi Arabia and precision strikes on kingdom-backed forces in Marib and Mocha.\nThe dramatic escalation in Houthi-Saudi tensions follows last month\u2019s attack on Saana\u2019s International Airport during the arrival of an Iranian flight carrying high-ranking Houthi officials from the funeral of Iranian Supreme Leader Ali Khamanei. The Houthis\u2019 response has included a counterblockade on all [Saudi oil shipping in the Red Sea](https://t.me/geopolitics_prime/73171), and strikes on the kingdom\u2019s energy production.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-17T04:38:16+00:00",
+      "timestamp": "2026-08-17T05:42:14+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "CASELS"
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
@@ -859,25 +937,6 @@
         "Geopolitics Prime"
       ],
       "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udc40 The US umbrella is fading \u2014 and Asia is feeling the chill\nWhile the Trump administration insists it is \"digging in\" in the Indo-Pacific, the reality on the ground suggests otherwise. The war in Iran has stretched US military capacity thin, and the Pentagon has made clear that it can no longer \"indefinitely shoulder Asia's security costs,\" SCMP reports.\n\ud83c\udf0f The US has redeployed the aircraft carrier USS George Washington to the Middle East to replace the exhausted USS Abraham Lincoln\n\ud83c\udf0f War-depleted arsenals have also caused delays in weapons deliveries to regional allies: Japan cannot receive 400 promised Tomahawk missiles, while the total value of the backlog for undelivered US arms to Taiwan is approximately $21.5 billion\nRegional countries are being told to boost defense spending, improve their military capabilities, and take on more responsibility for their own security. For regional states, this raises questions about whether the US is already stretched too thin and how reliable its security guarantees really are.\n\ud83d\udd36 Japan and the Philippines are already building a parallel security framework, expanding joint drills and intelligence exchanges\n\ud83d\udd36 Regional countries are being forced to rely more heavily on existing blocs such as the Quad and AUKUS, escalating military spending and nuclear risks and making bloc polarization more pronounced\n\ud83d\udd36 Other Southeast Asian states are signaling unease about being drawn into a confrontation between the US and China\nThe message from the White House may be about shared responsibility, but the regional response suggests a different reading \u2013 allies are hedging against a US that is increasingly distracted and asking them to carry the burden of a confrontation they did not ask for.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-16T15:48:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
     },
     {
       "title": "Telegram",
