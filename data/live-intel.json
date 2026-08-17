@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T18:13:24.381324+00:00",
+  "generated_at": "2026-08-17T19:02:21.853102+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -346,101 +346,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea NEW: Yemeni missile strikes against Mokha Port, controlled by Saudi-backed forces\nNOTE: The port is already shut down and almost completely destroyed due to strikes from the past few days.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-16T01:00:28+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea NEW: The Yemeni Armed Forces struck Saudi-aligned positions in Taizz with missiles and drones",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-15T19:43:17+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\uddee\ud83c\uddf7/\ud83c\uddfe\ud83c\uddea/\ud83c\uddf8\ud83c\udde6 NEW: Iranian satellites are providing guidance to Yemeni ballistic missiles against Saudi-backed targets\nIn recent weeks, Iran has provided Yemen\u2019s Armed Forces with GNSS guidance modules and anti-jamming capabilities for their ballistic missiles.\nThese 4-element GNSS modules use a combination of Russian and Iranian satellites to provide more accuracy in the terminal guidance phase.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-15T19:07:11+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Russia warned that T\u00fcrkiye's planned transfer of US-origin weapons to Ukraine would cause \"serious damage\" to Moscow's relations with both Ankara and Washington.\nThe package includes 12 M270 MLRS launchers, 70 ATACMS missiles, and thousands of cluster munition rounds \u2014 containing over 10 million submunitions \u2014 from T\u00fcrkiye's Cold War-era stockpiles worth roughly $260 million.\nThe US State Department is prepared to approve the deal. \nRussia has requested explanations from both capitals, saying supplying weapons while claiming a mediator role \"inevitably undermines mutual trust.\"",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-17T17:51:49+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Ukraine's Ambassador to Ankara Nariman Dzhelyal denies claims that Ukrainian drone forces commander Robert Brovdi made remarks about the death of Turkish sailor Sava\u015f \u00c7akar, calling it \"an overt act of disinformation and manipulation.\"\nWhoever created this fake news, their goal is clear.\nTo exploit a tragedy in order to generate negative sentiment against Ukraine within Turkish society. \nWe must not allow this.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-17T17:20:59+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Our Wars Today",
       "text": "[Kushner, Netanyahu agree on path forward for Gaza, Board of Peace official says](https://www.reuters.com/world/middle-east/kushner-netanyahu-agree-path-forward-gaza-board-peace-official-says-2026-08-17/)\nA meeting \u200bon Monday \u200cbetween Donald Trump's envoy \u200band son-in-law \u200bJared Kushner and \u2060Israeli \u200bPrime Minister Benjamin \u200bNetanyahu was \"lengthy, in depth, and \u200bvery \u200bproductive,\" a Board of \u200cPeace \u2060official said, adding that agreement \u200bwas \u200breached \u2060with Netanyahu on \u200ba path \u200bforward \u2060for the Gaza \u2060conflict. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://www.reuters.com/world/middle-east/kushner-netanyahu-agree-path-forward-gaza-board-peace-official-says-2026-08-17/)\nReuters | reuters\u200b.com \u2022 Aug 17, 2026",
       "source": "Telegram",
@@ -650,25 +555,6 @@
         "Geopolitics Prime"
       ],
       "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddfa\ud83c\udde6\u26a1\ud83c\uddf7\ud83c\uddfaUkraine launched one of its largest drone offensives of the war on August 16, targeting Moscow and multiple Russian regions.\n\ud83c\uddf7\ud83c\uddfa Russia claimed it intercepted 822 Ukrainian drones nationwide, including hundreds headed toward the Moscow region.\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-17T04:25:56+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -966,25 +852,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-17T07:11:02+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddf8\ud83c\udde6\ud83d\udca3 Houthis threaten to burn Saudi Arabia to the ground as war expands\n \n\ud83d\udcac \u201cWe cannot accept Yemeni territory being turned into an open arena for confrontation while Saudi territory and interests remain immune from its repercussions. Our response will be commensurate\u201d with the nature of aggression, Dr. Abdulaziz Saleh Bin Habtoor, the Houthi-led Yemeni government\u2019s former prime minister and member of the Supreme Political Council has announced.\n\ud83d\udde3 \u201cThe attempt to transfer the escalation to the Yemeni interior using low-grade local forces and mercenaries does not change the nature of Saudi complicity,\u201d the official warned, adding that although Yemen has demonstrated in recent years that it is not seeking a return to war, it will not accept \u201cthe exploitation of a truce for mobilization or the imposition of new military realities on the ground.\u201d\n\ud83d\udcac \u201cThe shortest path to avoiding escalation remains clear: stop the mobilizations and hostile actions, and move from managing the crisis and exerting pressure on Yemen to addressing its causes and implementing the requirements of peace in a serious and responsible manner,\u201d Habtoor stressed.\nHis comments follow reports of new Houthi attacks on an Aramco refinery in Jazan, Saudi Arabia and precision strikes on kingdom-backed forces in Marib and Mocha.\nThe dramatic escalation in Houthi-Saudi tensions follows last month\u2019s attack on Saana\u2019s International Airport during the arrival of an Iranian flight carrying high-ranking Houthi officials from the funeral of Iranian Supreme Leader Ali Khamanei. The Houthis\u2019 response has included a counterblockade on all [Saudi oil shipping in the Red Sea](https://t.me/geopolitics_prime/73171), and strikes on the kingdom\u2019s energy production.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-17T05:42:14+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
