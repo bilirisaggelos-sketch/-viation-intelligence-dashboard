@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T02:48:10.104175+00:00",
+  "generated_at": "2026-08-17T03:55:55.187152+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -688,6 +688,63 @@
         "Mediterranean Man"
       ],
       "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "Major drone attack by Ukraine is currently underway against Moscow and other parts of Central and Southern Russia, including Russian-occupied Crimea.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-17T03:53:09+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "Video footage published earlier today by the Yemeni Armed Forces, the military forces of the Republic of Yemen, showing a drone being used to drop bombs on Iranian-backed Houthi positions in the Al-Jawf Governorate, a previously unseen capability that has grown due to the Russia-Ukraine War.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-17T03:53:06+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "A Spanish F-18 operating under NATO air-policing authorities shot down a drone that breached Romanian airspace early Sunday, according to Romania\u2019s Defense Ministry.\nRomanian radars detected the drone entering from neighboring Moldova, about 15 miles north of Gala\u021bi. The F-18 established radar contact and received authorization to engage, bringing the drone down at 05:01 local time. Debris reportedly fell in an uninhabited area.\nRomania says this is the fourth drone it has shot down this year. The country has experienced repeated Russian drone incursions during the war in Ukraine, including three Russian drones shot down by Romanian F-16s in July.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-17T03:52:55+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
