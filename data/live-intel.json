@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T09:11:23.564716+00:00",
+  "generated_at": "2026-08-17T10:00:20.804220+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -365,6 +365,25 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
+      "text": "EXCLUSIVE: Sudan Army\u2019s AKINCI drone shot down yet another Chinese-made CH-95 drone operated by the UAE-backed RSF terror group in an air-to-air engagement.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-17T09:58:53+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
       "text": "Iraq's Kurdistan Region PM Masrour Barzani:\nMy personal office and the home of the head of the Security and Intelligence Agency were targeted by Iranian drone attacks earlier today.\nI condemn these reckless and unacceptable attacks in the strongest terms. \nThis is a dangerous escalation and a direct threat to the security and stability of the Kurdistan Region.\nThese attacks will not deter us from carrying out our duties and protecting our citizens.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -722,6 +741,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ufe0f\ud83c\uddf7\ud83c\uddfa A US-made AI chip has been found inside Russia\u2019s new S-71 Monochrome cruise missile.\nUkraine\u2019s military intelligence agency, HUR, identified an Nvidia Jetson Orin computer module among the components of the new Russian air-launched missile.\nThe agency said the presence of the module may point to the integration of artificial intelligence into the weapon, although it did not specify what role the chip plays.\nThe finding was part of HUR\u2019s latest research, which identified 35 foreign electronic components in Russian weapons.\nBeyond the Jetson Orin module, the list includes radar-seeker components used in Geran-2 drones, a Chinese camera found in Geran-4, and components from Kinzhal\u2019s active radar seeker.\nAccording to HUR, two years of research show that Russia has yet to fully replace foreign high-tech components with domestic alternatives.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-17T09:17:48+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
       ],
       "verified_source_count": 1
     },
