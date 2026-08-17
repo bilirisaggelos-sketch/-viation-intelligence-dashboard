@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T13:54:59.795810+00:00",
+  "generated_at": "2026-08-17T14:35:01.033589+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -460,25 +460,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "India signed a $203 million lease for two MQ-9B SeaGuardian drones for the Navy, covering 30 months. \nThe deal serves as a bridge while India's larger $3-4 billion acquisition of 31 MQ-9B drones proceeds, with deliveries expected around 2028-2029.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-17T11:25:21+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Our Wars Today",
       "text": "[A NATO fighter shot down a drone over Romania](https://www.pravda.com.ua/news/2026/08/16/8048864/)\nA Spanish F-18 fighter jet shot down a drone over Romania. This is the fourth incident of a drone intrusion into Romanian airspace. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://www.pravda.com.ua/news/2026/08/16/8048864/)\n\u0420\u043e\u043c\u0430\u043d \u041f\u0435\u0442\u0440\u0435\u043d\u043a\u043e | pravda\u200b.com\u200b.ua \u2022 Aug 16, 2026",
       "source": "Telegram",
@@ -651,6 +632,25 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddfe\ud83c\uddea\u26a1\ufe0f\ud83c\uddf8\ud83c\udde6 Houthis Claim Missile Attack on Saudi Naval Group\nYemen\u2019s Iran-aligned Houthi movement says it launched a missile attack on a Saudi military vessel and four accompanying vessels in the Red Sea, off Al-Makha (Mocha), according to military spokesman Yahya Saree.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-17T13:57:36+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
       "text": "\ud83c\uddfa\ud83c\udde6\u26a1\ud83c\uddf7\ud83c\uddfaUkraine launched one of its largest drone offensives of the war on August 16, targeting Moscow and multiple Russian regions.\n\ud83c\uddf7\ud83c\uddfa Russia claimed it intercepted 822 Ukrainian drones nationwide, including hundreds headed toward the Moscow region.\n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
@@ -688,25 +688,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf1\u274c\ud83c\uddf5\ud83c\uddf8 \u2014 Israeli Channel 14: \nThe security failure in Gaza continues with Hamas fighters once again seizing engineering equipment belonging to Israeli forces in the southern Strip.\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-16T17:43:40+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Mediterranean Man",
       "text": "\u26a1\ufe0f\ud83c\uddf7\ud83c\uddfa Russia has unveiled a floating platform armed with a remotely operated machine gun to deal with USVs.\nLeningrad Governor\u00a0Alexander Drozdenko shared\u00a0a first look at the \u201cPlot-40\u201d experimental fire support prototype, which he said could also protect naval bases and coastal ports from drone attacks.\nImages show a pontoon-like structure with an open deck supporting the platform\u2019s gun, while an enclosed section at the bottom could potentially accommodate personnel or tactical equipment.\nTechnical details about the platform, including its total displacement, remain undisclosed. Developers have also yet to confirm whether it will feature AI-assisted targeting or require personnel onboard to support weapon operations.",
       "source": "Telegram",
@@ -714,25 +695,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-17T12:15:06+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ufe0f\ud83c\uddf7\ud83c\uddfa A US-made AI chip has been found inside Russia\u2019s new S-71 Monochrome cruise missile.\nUkraine\u2019s military intelligence agency, HUR, identified an Nvidia Jetson Orin computer module among the components of the new Russian air-launched missile.\nThe agency said the presence of the module may point to the integration of artificial intelligence into the weapon, although it did not specify what role the chip plays.\nThe finding was part of HUR\u2019s latest research, which identified 35 foreign electronic components in Russian weapons.\nBeyond the Jetson Orin module, the list includes radar-seeker components used in Geran-2 drones, a Chinese camera found in Geran-4, and components from Kinzhal\u2019s active radar seeker.\nAccording to HUR, two years of research show that Russia has yet to fully replace foreign high-tech components with domestic alternatives.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-17T09:17:48+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -873,6 +835,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\uddfa Kushner's Hamas talks: More empty Gaza diplomacy\nPresident Trump's son-in-law Jared Kushner has held a rare meeting with Hamas leaders in Egypt, attempting to salvage a stalled ceasefire plan for Gaza. The talks came just days after Israeli Prime Minister Benjamin Netanyahu publicly rejected the US-backed 15-point roadmap, which calls for Hamas to disarm and Israel to withdraw from the flattened enclave.\nKushner's diplomatic efforts, however, have yielded little more than a string of failed projects and broken promises. He has spent months shuttling between Hamas and Israeli officials, but [the situation has barely shifted from its stalemate](https://t.me/geopolitics_prime/72935).\n\ud83d\udc4d Grand ambitions and dismal outcomes\nKushner's diplomatic role is less about achieving peace than about shaping perception. His once relentlessly touted $70\u2013112 billion [Gaza \"Riviera\" redevelopment plan](https://t.me/geopolitics_prime/61181) has been [reduced to a pilot project](https://t.me/geopolitics_prime/72346) involving portable cabins in Rafah. Yet even that modest scheme remains dead in the water with no cabins built, and the international security force intended to oversee it now a mere mirage. \nIn Albania, Kushner's pattern of self-serving grandiosity is even more visible. He and Ivanka Trump are promoting a $4 billion luxury resort on the protected coast of one of Europe's poorest nations,[ sparking outrage and mass protests](https://t.me/geopolitics_prime/72831) among locals.\n\ud83d\udc79 No leverage over Israel\nAs a negotiator, Kushner appears to have no meaningful sway over Israel. Netanyahu has publicly rejected the US roadmap, and Israeli strikes on Gaza continue unabated.\nThe White House, nevertheless, has not withdrawn its support from the Israeli prime minister, viewing his actions as part of his election campaign strategy.\nKushner's meetings with Hamas leaders ultimately appear to be little more than a performance, designed to create the illusion of diplomatic activity while [Israel retains full freedom of action](https://t.me/geopolitics_prime/73274).\n\u2757\ufe0fMeanwhile, the situation in Gaza continues to deteriorate at an alarming pace:\n\ud83d\udd34 Israel now occupies roughly 60 percent of the territory and has signaled its intention to expand control to 70 percent. Periodic ceasefire violations and airstrikes have killed and wounded dozens of Palestinians in recent days\n\ud83d\udd34 Hospitals are running out of electricity and essential medications, including treatments for[ cancer patients](https://t.me/geopolitics_prime/73453). The enclave's 2 million residents face severe shortages of food, water, and medical supplies, with the UN warning of potential famine-like conditions in the north\n\ud83d\udd34 Almost 90 percent of the population has been displaced, and reconstruction remains impossible as Israel continues to block the entry of construction materials and heavy equipment\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-17T14:29:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
