@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T23:03:03.841838+00:00",
+  "generated_at": "2026-08-17T23:40:07.015478+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -645,6 +645,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf7\ud83c\uddee\ud83c\uddf6 US strikes fail to break Iraq's resistance as it adopts Iran's fragmentation deterrence strategy\nAs the US increases pressure on Iraq to confront pro-Iranian armed groups, the resistance appears to be hardening its position and restructuring its operational approach, according to The Cradle.\n\ud83d\udd36 On July 29, US and Saudi [forces carried out airstrikes](https://t.me/geopolitics_prime/72849) against Popular Mobilization Units across seven Iraqi provinces, from Basra to Nineveh\n\ud83d\udd36 The strikes were presented as retaliation for drone attacks on Saudi energy infrastructure that the US claimed had originated from Iraqi territory\n\ud83d\udd36 However, no concrete evidence was provided to substantiate these allegations, and Iraqi authorities were not given advance notice of the operation. Iraq had requested intelligence and formed an investigative committee, but the airstrikes overtook the inquiry before it could reach any conclusion\n\ud83d\udd34 The fragmentation strategy\nThe strikes have not led to capitulation or inflicted lasting damage on the resistance, which has already adapted to such pressure. New cells have emerged from within the resistance factions, formed by elements who left larger groups partly in opposition to proposed disarmament plans.\n\ud83d\udd34 This fragmentation offers several strategic advantages:\n\ud83d\udd34 A dispersed structure makes it significantly more difficult for adversaries to predict actions or dismantle the organization through targeted strikes against leadership or intelligence penetration\n\ud83d\udd34 The decentralized command structure allows autonomous operations without waiting for orders from central leadership, complicating attribution and response\n\ud83d\udd34 Destroying one group does not solve the problem\u2014new formations emerge to fill the void\nThis is a proven Iranian tactic, refined during the war with the US. Iran's [\"mosaic defense\" doctrine](https://t.me/geopolitics_prime/65841) organizes defensive structures into multiple semi-independent regional layers instead of concentrating power in a single chain of command that could be paralyzed by a decapitation strike.\nUnder this model, if senior leaders are killed or communications are cut, local units still retain the authority and capacity to act. This approach was successfully employed to preserve military capabilities and strike US bases, and Iraqi factions are now adopting the same strategy for their own operations.\n\ud83d\udd34 White House's leverage and its limits\nThe US wields significant economic leverage over Iraq through its dependence on oil revenues held at the Federal Reserve Bank of New York. The Iraqi state budget is almost entirely financed by crude exports, which means the [US holds the country's economy hostage](https://t.me/geopolitics_prime/72019).\n\ud83d\udc49 However, the same pressure that works on the Iraqi government has not produced the intended result among the armed factions, who operate through informal networks and decentralized structures that are less vulnerable to financial coercion.\nThe US-Saudi strikes were meant to signal that attacks on Gulf targets would not be tolerated. Instead, they have accelerated the fragmentation of Iraq's resistance and obscured its chain of command, making future operations harder to attribute and deter. The resistance remains an important component of [the regional axis opposing US and Saudi influence](https://t.me/geopolitics_prime/73028) in the Middle East, and its ability to adapt and endure continues to pose a strategic challenge that America's current toolkit of airstrikes and financial pressure is not designed to resolve.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-17T23:07:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
