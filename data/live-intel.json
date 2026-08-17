@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T08:26:05.800853+00:00",
+  "generated_at": "2026-08-17T09:11:23.564716+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -275,7 +275,7 @@
       "publisher": "BBC World News",
       "severity": "info",
       "icon": "\ud83d\udcf0",
-      "timestamp": "2026-08-17T04:50:56+00:00",
+      "timestamp": "2026-08-17T08:43:12+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -365,6 +365,25 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
+      "text": "Iraq's Kurdistan Region PM Masrour Barzani:\nMy personal office and the home of the head of the Security and Intelligence Agency were targeted by Iranian drone attacks earlier today.\nI condemn these reckless and unacceptable attacks in the strongest terms. \nThis is a dangerous escalation and a direct threat to the security and stability of the Kurdistan Region.\nThese attacks will not deter us from carrying out our duties and protecting our citizens.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-17T08:32:36+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
       "text": "BIG: Two Iranian Hadid-110 explosive drones targeted Kurdistan Region PM Masrour Barzani's private office and the intelligence chief's residence in Erbil's Pirmam district earlier today.\nNo casualties or damage reported.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -439,25 +458,6 @@
         "Geopolitics Prime"
       ],
       "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "NEW: Russian forces strapped mirrored panels onto a Bukhanka van as a makeshift countermeasure against drones that use optical or AI-guided targeting.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-16T20:47:59+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -727,25 +727,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf1\u274c\ud83c\uddf1\ud83c\udde7 \u2014 An Israeli drone dropped explosive materials on the Harsh Ali al-Taher area.\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-16T14:57:02+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Mediterranean Man",
       "text": "\u26a1\ufe0f\ud83c\uddf7\ud83c\uddfa\ud83c\uddee\ud83c\uddf3 Russia has offered a quick transfer of 8-10 Sukhoi-57 twin-engine multirole fighters (approximately half a squadron) armed with 200km range R-77M radar-guided BVR A2A missiles to India.\n(Also yes the pic is AI before y'all start hounding about the Hebrew on the side)\n(This one is also going to be rejected most likely)",
       "source": "Telegram",
@@ -894,6 +875,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddfa\ud83c\uddf8\ud83d\udca3\ud83c\uddee\ud83c\uddf7 US war aims in Iran shrink along with its military gains\nThe Trump administration's objectives in the Iran conflict have undergone a steady transformation over the past six months. What began with ambitious promises of regime change and complete Iranian surrender has now been reduced to a far more modest set of priorities.\nVice President JD Vance recently outlined the current goals in a Fox News appearance, placing energy price stability at the top of the list and relegating nuclear non-proliferation to second place. This marks a significant departure from the administration's earlier absolutist stance, CNN reports.\nThe list of US war aims has never been particularly consistent.\n\ud83d\udd34 Different officials have offered varying combinations of objectives, with some including the destruction of Iran's missile infrastructure or the end of support for regional proxies, while others omitted these items entirely\n\ud83d\udd34 Throughout the war, the Trump administration deliberately used vague language and avoided clear definitions of its war goals. This was driven both by a desire to maintain flexibility for the public image and by the objective impossibility of fulfilling the initial grandiose promises\nNow, the administration seems to have settled on a far more pragmatic objective, which is essentially a return to the pre-war status quo: ensuring the Strait of Hormuz is open and maintaining stable oil prices. The emphasis on economic pressure reflects a realization that military force is unable to achieve the desired results.\nThe administration is returning to a familiar playbook, calling this latest effort \"Operation Economic Fury.\"\n\ud83d\udd36 Officials argue that months of bombing have pushed Iran's economy to a breaking point and that a suffocating combination of sanctions and naval blockade will force Tehran to capitulate.\n\ud83d\udd36 President Trump has claimed that Iran is \"broke,\" with \"300% inflation\" and no money to pay its soldiers, an assertion that exceeds the estimates cited by his own officials.\n\ud83d\udd36 The strategy is to target Iran's oil revenues by tightening the noose on its remaining export channels, including the possibility of sanctioning major buyers like China, which accounts for over 90% of Iran's oil exports.\nHowever, this return to a policy that failed to produce results during Trump's first term, and which has been a constant feature of US-Iran relations for decades, has prompted skepticism. Analysts argue that economic pressure is a long-haul tactic, not a shortcut to peace, and that extra sanctions could destroy the last, best chances of a US withdrawal without total humiliation.\nThe fundamental problem with this approach is that Iran has been under some form of US sanctions for over 40 years.\n\ud83c\udf0f The Iranian state has developed a \"resistance economy\" designed to survive precisely this kind of pressure.\n\ud83c\udf0f Its leadership has endured decades of economic hardship and proven adept at finding workarounds, from underground financial networks to informal trade and strategic partnerships with countries like China and Russia.\nFor a country that has already absorbed the shock of military strikes, the prospect of more sanctions is unlikely to break its will. The Iranian leadership believes it can outlast the US, particularly given the upcoming US elections and Trump's political vulnerability to high gas prices.\nThe Trump administration is now in a race against time. Its military campaign has not achieved its objectives, and its pivot to increased economic pressure is a bet that Iran's economic pain will translate into political concessions. But Iran has shown that it can survive and adapt to such pressure, and the US administration's constantly shrinking goals suggest that it is the US, not Iran, that is running out of options.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-17T08:33:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
