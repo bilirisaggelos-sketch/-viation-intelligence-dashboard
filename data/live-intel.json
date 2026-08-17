@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T19:44:05.426702+00:00",
+  "generated_at": "2026-08-17T20:10:17.836314+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -538,25 +538,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u2014 \ud83c\uddee\ud83c\uddf1/\ud83c\uddfa\ud83c\uddf8/\ud83c\uddf5\ud83c\uddf8 NEW: Netanyahu, Board of Peace agree Gaza must be demilitarized before reconstruction\nIsraeli Prime Minister Benjamin Netanyahu and the Board of Peace agreed to establish two working groups following talks with Jared Kushner, according to Netanyahu\u2019s office.\nOne group will focus on disarmament and demilitarization of Gaza, which both sides say must be completed before reconstruction begins. A second group will address sanitation, clean water and other public health issues in the enclave.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-17T16:03:46+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "CASELS",
       "text": "The U.S. is \"ill-equipped\" to defend against a drone swarm attack on American soil, NORTHCOM Deputy Commander Lt. Gen. Joseph Jarrard warns.\n\"We don't have the sensors\u2026 [or] effectors to go after that problem.\"",
       "source": "Telegram",
@@ -685,6 +666,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\ude32 Sharaa\u2019s pipe dream bursts: Syria-Iraq oil pipeline will cost double, take until at least 2030 to build\n\u00a0\nThe 2M bpd mega-energy link designed to give Iraq\u2019s oil producers a Mediterranean alternative to Hormuz and provide Syria with much-needed transit fee income to rebuild its shattered economy has run into two new impediments: price and time.\nSources informed with the project told Reuters the project would cost \u201cat least $15B.\u201d That\u2019s ~188-333% more than [the previously estimated $4.5-8B price tag. ](https://t.me/geopolitics_prime/73269)\nHopes of rehabilitating the existing pipeline (long defunct and damaged during the 2003 US invasion of Iraq) are not feasible, with \u201centirely new infrastructure\u201d required, the sources said. That means a construction timeframe of at least four years \u2013 possibly more to dismantle the old pipeline and resecure land rights in Syria.\n\ud83d\udc49 The new \u201cintegrated crude oil pipeline system\u201d would also need to connect to southern Iraqi oil fields via a hub in Haditha, Anbar governorate, per demands from US oil giant Chevron, which is involved in the technical studies on the project, and looking to secure new oil rights in southern Iraq\u2019s West Qurna 2 and Nassiriya fields.\nUS officials present the Syria-Iraq pipeline plan as a prospective alternative to Hormuz, with Treasury chief Bessent recently declaring that \u201cthe Strait is going to become irrelevant,\u201d and claiming that 50-70% of its oil shipments will be passed on to pipelines over the next two years.\n\ud83d\udee2 But Bessent\u2019s math doesn\u2019t add up. Diverting 10-14M bpd of oil from Hormuz to pipelines runs up against a shortfall of 5.3-9.3B bpd in pipeline capacity, not counting the fact that Saudi Arabia\u2019s 7M bpd nominal capacity East-West pipeline with 2M bpd to spare is currently paralyzed by [the Houthis\u2019 blockade on the Saudis\u2019 Red Sea ports.](https://t.me/geopolitics_prime/72694)\nThe UAE\u2019s ADCOP Pipeline, another Hormuz workaround, has a 1.5M bpd capacity, with plans to more than double it to 3.6M bpd, but not before mid-2027 at the earliest.\nAs for the Syrian route, has Washington forgotten that the country\u2019s been destroyed in a CIA dirty war and turned into a partially occupied failed state of roving terrorist gangs, disaffected Assad supporters, Kurdish forces and pro-Iranian militia neighbors?\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-17T19:54:58+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
