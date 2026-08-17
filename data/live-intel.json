@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T12:03:28.524956+00:00",
+  "generated_at": "2026-08-17T13:08:07.239842+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -346,6 +346,63 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
+      "text": "INTERESTING: USS Benfold, a guided-missile destroyer, lost all power for four days in the South China Sea after a generator failure on July 24. \nThe crew of roughly 300 had no working toilets, air conditioning, kitchen, or water systems in extreme heat.\nThe ship drifted powerless until tugboats towed it to Subic Bay, Philippines, where power was restored six days later. \nAnother warship in the carrier group had to provide cooked meals.\nIt's the second US destroyer to suffer a power failure in the Indo-Pacific this year.\nSource: CNN",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-17T13:07:40+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Russia Constructed Secret Network of Bases for Deep Drone Strikes on NATO\nRussia has established a covert network of 10 launch bases fitted with advanced long-range strike drones capable of hitting targets deep inside NATO territory.\n[READ MORE](https://clashreport.com/world/articles/russia-constructed-secret-network-of-bases-for-deep-drone-strikes-on-nato-18nhj67tnk8/)",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-17T12:43:34+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "RTX\u2019s Raytheon won a $22.9B multi-year U.S. Navy contract to produce Tomahawk cruise missiles, targeting annual production of 1,000+ missiles.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-17T12:33:43+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
       "text": "Yemen\u2019s Houthis say they struck a Saudi military landing ship and four escort boats off Mokha with ballistic missiles, destroying the ship and several boats.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -371,44 +428,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-17T11:25:21+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "A 35-year-old Israeli tourist was arrested on Crete, Greece for negligent arson after lighting a BBQ at a rented villa near Sellia despite explicit warnings from the owner and an island-wide burn ban. \nWind carried embers into dry vegetation, sparking a wildfire that took over 60 firefighters and helicopters four hours to contain.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-17T11:12:16+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "EXCLUSIVE: Sudan Army\u2019s AKINCI drone shot down a Chinese-made CH-95 operated by the UAE-backed RSF terror group in an air-to-air engagement.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-17T10:21:02+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -649,51 +668,13 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddf1\ud83c\udde7\u274c\ud83c\uddee\ud83c\uddf1 \u2014 The Israeli newspaper Yedioth Ahronoth:\nAfter 32 years since his father was injured in the Sujud area in southern Lebanon, the soldier (A) was seriously wounded as a result of the explosion of a Hezbollah drone packed with explosives in the Ali al-Tahir area, on Saturday morning.\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-16T16:11:17+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddf7\ud83c\uddfa\u26a1\ud83c\uddfa\ud83c\udde6 Ukraine Strikes Major Wildberries Warehouse Near Moscow\nUkrainian drones struck a massive Wildberries logistics hub in Koledino, Moscow Region, on August 16, triggering a major fire.\n\ud83c\uddfa\ud83c\udde6 Ukrainian defence firm Fire Point said its FP-1 long-range drones carried out the strike, alleging the facility handled dual-use goods.\nThe attack came during one of Ukraine\u2019s largest drone barrages against Russia, with Moscow reporting 822 drones intercepted nationwide.\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-16T14:59:40+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Mediterranean Man",
-      "text": "\u26a1\ufe0f\ud83c\uddf7\ud83c\uddfa A US-made AI chip has been found inside Russia\u2019s new S-71 Monochrome cruise missile.\nUkraine\u2019s military intelligence agency, HUR, identified an Nvidia Jetson Orin computer module among the components of the new Russian air-launched missile.\nThe agency said the presence of the module may point to the integration of artificial intelligence into the weapon, although it did not specify what role the chip plays.\nThe finding was part of HUR\u2019s latest research, which identified 35 foreign electronic components in Russian weapons.\nBeyond the Jetson Orin module, the list includes radar-seeker components used in Geran-2 drones, a Chinese camera found in Geran-4, and components from Kinzhal\u2019s active radar seeker.\nAccording to HUR, two years of research show that Russia has yet to fully replace foreign high-tech components with domestic alternatives.",
+      "text": "\u26a1\ufe0f\ud83c\uddf7\ud83c\uddfa Russia has unveiled a floating platform armed with a remotely operated machine gun to deal with USVs.\nLeningrad Governor\u00a0Alexander Drozdenko shared\u00a0a first look at the \u201cPlot-40\u201d experimental fire support prototype, which he said could also protect naval bases and coastal ports from drone attacks.\nImages show a pontoon-like structure with an open deck supporting the platform\u2019s gun, while an enclosed section at the bottom could potentially accommodate personnel or tactical equipment.\nTechnical details about the platform, including its total displacement, remain undisclosed. Developers have also yet to confirm whether it will feature AI-assisted targeting or require personnel onboard to support weapon operations.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-17T09:17:48+00:00",
+      "timestamp": "2026-08-17T12:15:06+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -707,12 +688,12 @@
     {
       "title": "Telegram",
       "publisher": "Mediterranean Man",
-      "text": "\u26a1\ufe0f\ud83c\uddf7\ud83c\uddfa\ud83c\uddee\ud83c\uddf3 Russia has offered a quick transfer of 8-10 Sukhoi-57 twin-engine multirole fighters (approximately half a squadron) armed with 200km range R-77M radar-guided BVR A2A missiles to India.\n(Also yes the pic is AI before y'all start hounding about the Hebrew on the side)\n(This one is also going to be rejected most likely)",
+      "text": "\u26a1\ufe0f\ud83c\uddf7\ud83c\uddfa A US-made AI chip has been found inside Russia\u2019s new S-71 Monochrome cruise missile.\nUkraine\u2019s military intelligence agency, HUR, identified an Nvidia Jetson Orin computer module among the components of the new Russian air-launched missile.\nThe agency said the presence of the module may point to the integration of artificial intelligence into the weapon, although it did not specify what role the chip plays.\nThe finding was part of HUR\u2019s latest research, which identified 35 foreign electronic components in Russian weapons.\nBeyond the Jetson Orin module, the list includes radar-seeker components used in Geran-2 drones, a Chinese camera found in Geran-4, and components from Kinzhal\u2019s active radar seeker.\nAccording to HUR, two years of research show that Russia has yet to fully replace foreign high-tech components with domestic alternatives.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-17T07:40:09+00:00",
+      "timestamp": "2026-08-17T09:17:48+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
