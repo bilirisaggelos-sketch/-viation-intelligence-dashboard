@@ -1,6 +1,44 @@
 {
-  "generated_at": "2026-08-17T16:02:22.955818+00:00",
+  "generated_at": "2026-08-17T16:47:48.798572+00:00",
   "events": [
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nDestin, FL, Tuesday, August 18, 2026 Local\nFacility: ZJX",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "08/17/2026",
+      "location": "ZJX FL",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nDestin, FL, Tuesday, August 18, 2026 Local\nFacility: ZJX",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "08/17/2026",
+      "location": "ZJX FL",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nMAYPORT, FL, Monday, August 17, 2026 through Saturday, August 22, 2026 Local\nFacility: ZJX",
@@ -366,6 +404,63 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
+      "text": "Former Ukrainian Minister of Defense Fedorov:\nTwo or three years ago, our partners didn\u2019t understand the new reality. \nThey asked us why we were betting on drones, why we invested a lot in these directions, and they didn\u2019t believe that the future belongs to drones and that the war is the drone. \nBut today, I can say that all our key partners really understand that the situation is different, and the future belongs to drones and robotic technologies.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-17T16:31:50+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Former Ukrainian Minister of Defense Fedorov:\nThe next stage of this war will be robots and drones fighting other autonomous robots and drones.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-17T16:27:59+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Former Ukrainian Minister of Defense Fedorov:\nThree to six months\u2014a Ukrainian ballistic missile will hit Russia.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-17T16:26:36+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
       "text": "EXCLUSIVE: Sudan Army's AKINCI drone shot down another Chinese-made CH-95 drone operated by the UAE-backed RSF terror group in an air-to-air engagement.\nIt's the second such shootdown today.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -403,41 +498,23 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Russia Constructed Secret Network of Bases for Deep Drone Strikes on NATO\nRussia has established a covert network of 10 launch bases fitted with advanced long-range strike drones capable of hitting targets deep inside NATO territory.\n[READ MORE](https://clashreport.com/world/articles/russia-constructed-secret-network-of-bases-for-deep-drone-strikes-on-nato-18nhj67tnk8/)",
+      "publisher": "Our Wars Today",
+      "text": "[Kushner, Netanyahu agree on path forward for Gaza, Board of Peace official says](https://www.reuters.com/world/middle-east/kushner-netanyahu-agree-path-forward-gaza-board-peace-official-says-2026-08-17/)\nA meeting \u200bon Monday \u200cbetween Donald Trump's envoy \u200band son-in-law \u200bJared Kushner and \u2060Israeli \u200bPrime Minister Benjamin \u200bNetanyahu was \"lengthy, in depth, and \u200bvery \u200bproductive,\" a Board of \u200cPeace \u2060official said, adding that agreement \u200bwas \u200breached \u2060with Netanyahu on \u200ba path \u200bforward \u2060for the Gaza \u2060conflict. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://www.reuters.com/world/middle-east/kushner-netanyahu-agree-path-forward-gaza-board-peace-official-says-2026-08-17/)\nReuters | reuters\u200b.com \u2022 Aug 17, 2026",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-17T12:43:34+00:00",
+      "timestamp": "2026-08-17T16:19:06+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "Clash Report"
+        "Geopolitics Prime",
+        "Our Wars Today"
       ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "RTX\u2019s Raytheon won a $22.9B multi-year U.S. Navy contract to produce Tomahawk cruise missiles, targeting annual production of 1,000+ missiles.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-17T12:33:43+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -593,25 +670,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Our Wars Today",
-      "text": "[Ministry of Defense: Ukraine disabled 7 of the 10 largest Wildberries logistics centers](https://www.pravda.com.ua/news/2026/08/16/8048882/)\nAs a result of the drone attack, Ukraine stopped the operation of key Wildberries warehouses in the Russian Federation. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://www.pravda.com.ua/news/2026/08/16/8048882/)\n\u0420\u043e\u043c\u0430\u043d \u041f\u0435\u0442\u0440\u0435\u043d\u043a\u043e | pravda\u200b.com\u200b.ua \u2022 Aug 16, 2026",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-16T14:35:18+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Our Wars Today"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Alsaa Plus EN",
       "text": "\ud83c\uddee\ud83c\uddf6\ud83c\uddee\ud83c\uddf7\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf1 Al-Mayadeen: Today's Incident in Erbil Was a False Flag Operation\n\u00a0\u00a0 A senior Iranian source, speaking to Al-Mayadeen, described today's incident in Erbil, the capital of Iraq's Kurdistan Region, as yet another example of a so-called \"false flag\" operation.\n\u00a0\u00a0 Earlier, the official Iraqi news agency, citing the Kurdistan Counter-Terrorism Service, reported that two drones targeted the office of the Prime Minister of the Kurdistan Regional Government and the residence of the security directorate chief.\n\u26aa\ufe0f",
       "source": "Telegram",
@@ -671,20 +729,20 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf1\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf7\u26a1\ufe0f \u2014 Israeli Channel 13: \nAfter 60 days, no agreement has been reached, not even preliminary terms, while the Strait of Hormuz remains closed and Trump\u2019s efforts have failed. Meanwhile, sanctions on Iran were lifted for a limited period, billions of dollars flowed into its coffers, and the world discovered the severe shortage of interceptor and attack missiles facing the United States. Trump\u2019s threats to annex the Strait of Hormuz were met with Iranian mockery.\nThere is no doubt that Trump is learning a familiar lesson from his own experience and from all of ours: starting a war is far easier than ending one.\n\u26aa\ufe0f",
+      "publisher": "Mediterranean Man",
+      "text": "\u2014 \ud83c\uddee\ud83c\uddf1/\ud83c\uddfa\ud83c\uddf8/\ud83c\uddf5\ud83c\uddf8 NEW: Netanyahu, Board of Peace agree Gaza must be demilitarized before reconstruction\nIsraeli Prime Minister Benjamin Netanyahu and the Board of Peace agreed to establish two working groups following talks with Jared Kushner, according to Netanyahu\u2019s office.\nOne group will focus on disarmament and demilitarization of Gaza, which both sides say must be completed before reconstruction begins. A second group will address sanitation, clean water and other public health issues in the enclave.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-16T19:22:28+00:00",
+      "timestamp": "2026-08-17T16:03:46+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN"
+        "Mediterranean Man"
       ],
       "verified_source_count": 1
     },
@@ -833,12 +891,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "Geopolitics Prime"
+        "Geopolitics Prime",
+        "Our Wars Today"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
