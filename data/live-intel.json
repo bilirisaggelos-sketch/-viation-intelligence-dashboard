@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T17:13:26.067065+00:00",
+  "generated_at": "2026-08-18T17:47:51.311476+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -394,25 +394,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-18T12:39:13+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\uddfe/\ud83c\uddee\ud83c\uddf1 BREAKING: At least 4 airstrikes against a military airport in Idlib, Syria, marking the first Israeli strikes in many months",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-18T03:20:04+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
