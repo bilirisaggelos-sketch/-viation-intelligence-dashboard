@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T23:04:31.258133+00:00",
+  "generated_at": "2026-08-18T23:39:56.219647+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -679,44 +679,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-18T17:49:50+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddfe\ud83c\uddea\ud83c\uddf8\ud83c\udde6A drone was shot down in Marib province, Yemen.\nFunny how a multi million dollar drone was shot down by some men wearing flipflops.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-18T15:38:30+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddee\ud83c\uddf1\ud83c\uddf1\ud83c\udde7 An Israeli drone released incendiary substances near civilian homes in the southern Lebanese town of Harouf, triggering sudden fires.\nIsraeli military forces have made a daily habit of dropping incendiary materials, white phosphorus, and flares from drones to systematically burn residential areas, historic olive groves, and farmlands across southern Lebanon.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-18T15:32:11+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
