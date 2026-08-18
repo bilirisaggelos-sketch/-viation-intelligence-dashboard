@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T01:52:23.493373+00:00",
+  "generated_at": "2026-08-18T03:01:33.543256+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -192,6 +192,44 @@
       "verified_source_count": 1
     },
     {
+      "title": "Space Weather Message Code: WARK04\r",
+      "text": "Space Weather Message Code: WARK04\r\nSerial Number: 5403\r\nIssue Time: 2026 Aug 18 0227 UTC\r\n\r\nEXTENDED WARNING: Geomagnetic K-index of 4 expected\nExtension to Serial Number: 5402\nValid From: 2026 Aug 17 2101 UTC\nNow Valid Until: 2026 Aug 18 1500 UTC\nWarning Condition: Persistence\n\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-08-18 02:27:43.313",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Space Weather Message Code: WARK05\r",
+      "text": "Space Weather Message Code: WARK05\r\nSerial Number: 2259\r\nIssue Time: 2026 Aug 18 0227 UTC\r\n\r\nWARNING: Geomagnetic K-index of 5 expected \nValid From: 2026 Aug 18 0224 UTC\nValid To: 2026 Aug 18 1200 UTC\nWarning Conditions: Onset\nNoaa Scale: G1 - Minor\nComment: \r\n\r\nNOAA Scale: G1 - Minor\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-08-18 02:27:00.810",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
       "title": "Space Weather Message Code: WATA20\r",
       "text": "Space Weather Message Code: WATA20\r\nSerial Number: 1121\r\nIssue Time: 2026 Aug 17 2246 UTC\r\n\r\nWATCH: Geomagnetic Storm Category G1 Predicted \nHighest Storm Level Predicted by Day:\nAug 18: None (Below G1) Aug 19: G1 (Minor) Aug 20: None (Below G1) \nTHIS SUPERSEDES ANY/ALL PRIOR WATCHES IN EFFECT\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
       "source": "NOAA Space Weather",
@@ -238,44 +276,6 @@
       "severity": "warning",
       "icon": "\ud83d\udef0\ufe0f",
       "timestamp": "2026-08-17 21:01:58.877",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Space Weather Message Code: ALTTP2\r",
-      "text": "Space Weather Message Code: ALTTP2\r\nSerial Number: 1521\r\nIssue Time: 2026 Aug 17 1719 UTC\r\n\r\nALERT: Type II Radio Emission \nBegin Time: 2026 Aug 17 1637 UTC\nEstimate Velocity: 825 km/s\nComment:",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-08-17 17:19:21.257",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Space Weather Message Code: WARK04\r",
-      "text": "Space Weather Message Code: WARK04\r\nSerial Number: 5401\r\nIssue Time: 2026 Aug 14 1054 UTC\r\n\r\nWARNING: Geomagnetic K-index of 4 expected \nValid From: 2026 Aug 14 1052 UTC\nValid To: 2026 Aug 14 2359 UTC\nWarning Conditions: Onset\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-08-14 10:54:33.670",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -393,12 +393,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
+        "Geopolitics Prime",
         "Our Wars Today"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -688,12 +689,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "The U.S. is \"ill-equipped\" to defend against a drone swarm attack on American soil, NORTHCOM Deputy Commander Lt. Gen. Joseph Jarrard warns.\n\"We don't have the sensors\u2026 [or] effectors to go after that problem.\"",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf6\u2600\ufe0f Local media outlet Kurdish Channel 8, citing a civil defense source, denies the report of a drone attack, stating the cause of a fire was a fuel depot explosion.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-17T06:40:19+00:00",
+      "timestamp": "2026-08-18T02:38:27+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -707,12 +708,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Russia has built 10 drone bases with at least 59 new launch rails along its borders with Ukraine and Belarus, according to a Telegraph investigation using leaked documents and satellite imagery. Around 20 extended rails appear capable of launching Russia\u2019s latest long-range attack drones, potentially putting Warsaw within range. One site has enough storage for more than 1,000 drones, while additional launch rails are still being built. Seven of the 10 sites have recently been used against Kyiv.",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf6\ud83c\udff3\ufe0fReports indicate a drone strike in Suleymaniyah, Iraq, showing that a fire broke out in the area. \n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-17T06:13:12+00:00",
+      "timestamp": "2026-08-18T02:38:22+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -726,88 +727,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Ukraine says air defenses downed or suppressed 106 of 128 Russian drones overnight into August 17. The attack included Shahed, jet-powered Shahed, Gerbera and Parodiya decoys. Drone impacts were recorded at 14 locations, with debris at two more.",
+      "text": "\u26a1\ufe0f\ud83c\uddf8\ud83c\udde9\ud83c\udde6\ud83c\uddea A Sudanese Army AKINCI drone reportedly shot down another Chinese-made CH-95 drone operated by the UAE-backed RSF in an air-to-air engagement.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-17T06:12:38+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\udde8\ud83c\uddf4 ELN members harassed the area around the \u00c1brego hospital in Norte de Santander department, where wounded soldiers were being treated following a drone explosive attack that killed professional soldier Neiver Ricardo and injured five other troops.\nMedical staff, patients, and administrative personnel had to take shelter while security forces secured the area.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-17T05:00:20+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "A Yemeni Armed Forces drone struck a tunnel-drilling machine used by the Iran-backed Houthis.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-17T04:54:29+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "Russian soldier guns down an FPV drone right before it strikes his vehicle.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-17T04:52:17+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "#Afghanistan \ud83c\udde6\ud83c\uddeb: \u201cAfghanistan Freedom Front\u201d (#AFF) carried out an attack on #Taliban positions in Zibak, Badakhshan Province.\nAFF members used Chinese Type 69 RPG Launcher with OG-7V rockets, RPK / RPD light machine gun and Type 56-1 rifles.\nhttps://x.com/i/status/2088992652796563658",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-17T04:39:37+00:00",
+      "timestamp": "2026-08-18T02:35:56+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -906,12 +831,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "Geopolitics Prime"
+        "Geopolitics Prime",
+        "Our Wars Today"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -960,25 +886,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-17T13:41:17+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddee\ud83c\uddf7 Iran\u2019s latest surprise intel source? Gym bros at US Mideast bases\nIt\u2019s been nearly ten years since the Pentagon first found out that fitness tracking app Strava was inadvertently exposing secret US military bases and[ patrol routes from Syria to Afghanistan.](https://t.me/geopolitics_prime/72210)\nIn 2018, the DoD banned deployed troops from using geolocation-dependent apps and wearable devices in operational areas.\nFast forward almost a decade and multiple wars later\u2026and servicemen are still using them.\n\ud83d\udc49 Over 1.3k personnel deployed across the Middle East have been caught broadcasting sensitive info about their workout routines, per a Sky News investigation, giving Iran a peek into bases, deployment patterns and movements between facilities, some of them secret. Best of all? Troops use their real names, allowing them to be easily identified by rank and operational role.\nBesides geotagging and operational intel, the devices\u2019 movements have given anyone watching a big picture view of macro trends, including troops\u2019 mass redeployment out of their bases and out of the region as Iran began turning facilities into smoldering ruins.\n\ud83e\ude96 Troops apparently even gave away the locations of troops secretly stashed at luxury hotels across the Gulf, with a contractor spotted jogging around the Manama naval base later caught in the courtyard of a swanky business city hotel, which later got bombed. At Jordan\u2019s Muwaffaq Al Salti Air Base, barracks where Strava tracking was rife eventually also got targeted.\nThe data even found the jogging patterns of three unknown personnel inside Israel\u2019s super-secret Dimona nuclear center (also bombed by Iran).\nStrava is just one of the OSINT tools[ Iran may have used in the current war. ](https://t.me/geopolitics_prime/72210)Others include tracking the roaming phones of enemy personnel using commercial ad tools like SS7, or [monitoring social media accounts](https://t.me/geopolitics_prime/72969) to reveal base layouts, movements and defensive positions.\nOf course, commanders could simply take away soldiers\u2019 tech devices. But then how would Kyle from 1st Theater Sustainment Command show off his sick obliques? \ud83d\udcaa\ud83c\udffd\ud83e\udd74\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-17T10:06:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
