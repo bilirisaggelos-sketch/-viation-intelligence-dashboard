@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T03:01:33.543256+00:00",
+  "generated_at": "2026-08-18T03:59:50.764033+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -308,6 +308,25 @@
     {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\uddfe/\ud83c\uddee\ud83c\uddf1 BREAKING: At least 4 airstrikes against a military airport in Idlib, Syria, marking the first Israeli strikes in many months",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-18T03:20:04+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
       "text": "\u2014 \ud83c\uddee\ud83c\uddf7 Meanwhile, Iran\u2019s inflation unfortunately continues to skyrocket, mostly due to Reformist policies enacted by Pezeshkian",
       "source": "Telegram",
       "source_type": "telegram",
@@ -512,6 +531,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ufe0f\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8 U.S Government awards Raytheon (RTX) a near $23 Billion dollar contract for a \u201cscaled-up manufacturing\u201d of the Tomahawk multipurpose cruise missile, with the goal to have a sustained order of 1,000/year (This is NOT including any and all foreign users of the Tomahawk missile, and specifically only for the Navy\u2019s Vertical-Launch System variant of the Tomahawk).\nThis goes without saying, INDOPACCOM will likely not see any of these.\nEverything to CENTCOM.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-18T03:28:58+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
       ],
       "verified_source_count": 1
     },
