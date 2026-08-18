@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T21:02:56.861393+00:00",
+  "generated_at": "2026-08-18T21:41:10.263192+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -10,25 +10,6 @@
       "severity": "critical",
       "icon": "\ud83d\udea8",
       "timestamp": "08/18/2026",
-      "location": "ZJX FL",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nDestin, FL, Tuesday, August 18, 2026 Local\nFacility: ZJX",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "08/17/2026",
       "location": "ZJX FL",
       "lat": null,
       "lon": null,
@@ -308,12 +289,12 @@
     {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf7/\ud83c\udde6\ud83c\uddea UAE Ministry of Defense in a statement:\n\u200e\u2019The Ministry of Defense announces that the UAE air defenses detected two ballistic missiles launched from Iran toward the country, with the first falling outside the country's territorial waters, while the second fell within the territorial waters.\n\u200eThe Ministry of Defense confirms that it is on high alert and fully prepared to deal with any threats, and to firmly confront anything aimed at undermining the security of the state, thereby ensuring the preservation of its sovereignty, security, and stability, and protecting its interests and national capabilities.\n\u200eIt also urges the esteemed public to obtain all news from official sources in the country and to avoid rumors and false information.\u2019",
+      "text": "\u2014 \ud83c\udde6\ud83c\uddea/\ud83c\uddee\ud83c\uddf7 NEW: Iran\u2019s Foreign Ministry denies that any missiles were launched at the United Arab Emirates today",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-18T16:38:30+00:00",
+      "timestamp": "2026-08-18T21:29:08+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -328,6 +309,25 @@
     {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf7/\ud83c\udde6\ud83c\uddea UAE Ministry of Defense in a statement:\n\u200e\u2019The Ministry of Defense announces that the UAE air defenses detected two ballistic missiles launched from Iran toward the country, with the first falling outside the country's territorial waters, while the second fell within the territorial waters.\n\u200eThe Ministry of Defense confirms that it is on high alert and fully prepared to deal with any threats, and to firmly confront anything aimed at undermining the security of the state, thereby ensuring the preservation of its sovereignty, security, and stability, and protecting its interests and national capabilities.\n\u200eIt also urges the esteemed public to obtain all news from official sources in the country and to avoid rumors and false information.\u2019",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-18T16:38:30+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
       "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf7/\ud83c\udde6\ud83c\uddea BREAKING: The UAE Ministry of Defense announces that Iran launched two ballistic missiles at the country; one fell in the sea outside the country\u2019s borders, the other fell in Emirati territorial waters",
       "source": "Telegram",
       "source_type": "telegram",
@@ -337,13 +337,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
         "Middle East Spectator"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -453,12 +452,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
+        "Alsaa Plus EN",
         "Clash Report"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -554,6 +554,45 @@
         "Our Wars Today"
       ],
       "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\u26a1\ufe0f\ud83c\uddf7\ud83c\uddfa\ud83c\uddee\ud83c\uddf7 \u2014 New York Post: Russia is sending drones and explosives to help rebuild Iran\u2019s military stockpiles following the U.S.-Israeli strikes.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-18T21:10:59+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\udde6\ud83c\uddea\ud83c\uddee\ud83c\uddf7\u26a1\ufe0f \u2014 The UAE MoD says that the two Iranian ballistic missiles detected earlier today were targeting maritime vessel traffic and were not launched toward the UAE.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-18T21:03:30+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Clash Report"
+      ],
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -718,25 +757,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-18T15:05:34+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\udde6\ud83c\uddea Early reports indicate Missiles might have came from Yemen. (unconfirmed)",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-18T15:01:18+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
