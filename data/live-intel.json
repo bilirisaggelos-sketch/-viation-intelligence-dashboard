@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T21:41:10.263192+00:00",
+  "generated_at": "2026-08-18T22:00:46.122244+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -655,25 +655,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8 \u2014 Iranian Deputy Foreign Minister Gharibabadi:\nJust as Trump correctly wrote the name of the eternal Persian Gulf, soon his delusion regarding the Strait of Hormuz will either be corrected or we will correct the delusions of this deluded man.\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-18T16:20:24+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Mediterranean Man",
       "text": "\u26a1\ud83c\uddf1\ud83c\udde7\ud83c\uddee\ud83c\uddf1Hezbollah released video footage showing attack drone operations targeting Israeli forces and vehicles on the southern outskirts of Zawtar al-Sharqiya days before the ceasefire.",
       "source": "Telegram",
@@ -738,25 +719,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-18T15:32:11+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\udde6\ud83c\uddea UAE officials: The situation is currently safe after the missile threat.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-18T15:05:34+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
