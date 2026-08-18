@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T07:06:42.946052+00:00",
+  "generated_at": "2026-08-18T07:55:57.832049+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -359,6 +359,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Ukraine is increasingly using near-real-time commercial satellite imagery to give frontline drone teams accurate information on Russian positions.\nSatellite images that once took days to reach soldiers can now arrive in 15 minutes to a few hours, letting drone teams quickly identify Russian troops, equipment, supply routes and hidden positions. \nThis has made strikes more precise and harder for Russia to evade, and has helped Ukraine target air defenses, electronic-warfare systems, logistics and positions in Crimea and occupied territory. \nThe broader trend is turning satellite intelligence into a frontline tool rather than something used only by senior commanders.\nSource: NYT",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-18T07:19:51+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
       ],
       "verified_source_count": 1
     },
