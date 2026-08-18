@@ -1,25 +1,6 @@
 {
-  "generated_at": "2026-08-18T15:59:04.728383+00:00",
+  "generated_at": "2026-08-18T16:43:20.177467+00:00",
   "events": [
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nDestin, FL, Tuesday, August 18, 2026 Local\nFacility: ZJX",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "08/17/2026",
-      "location": "ZJX FL",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nDestin, FL, Tuesday, August 18, 2026 Local\nFacility: ZJX",
@@ -308,6 +289,67 @@
     {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf7/\ud83c\udde6\ud83c\uddea UAE Ministry of Defense in a statement:\n\u200e\u2019The Ministry of Defense announces that the UAE air defenses detected two ballistic missiles launched from Iran toward the country, with the first falling outside the country's territorial waters, while the second fell within the territorial waters.\n\u200eThe Ministry of Defense confirms that it is on high alert and fully prepared to deal with any threats, and to firmly confront anything aimed at undermining the security of the state, thereby ensuring the preservation of its sovereignty, security, and stability, and protecting its interests and national capabilities.\n\u200eIt also urges the esteemed public to obtain all news from official sources in the country and to avoid rumors and false information.\u2019",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-18T16:38:30+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Clash Report",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 3
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf7/\ud83c\udde6\ud83c\uddea BREAKING: The UAE Ministry of Defense announces that Iran launched two ballistic missiles at the country; one fell in the sea outside the country\u2019s borders, the other fell in Emirati territorial waters",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-18T16:36:56+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Clash Report",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 3
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014 \ud83c\uddfe\ud83c\uddea/\ud83c\udde6\ud83c\uddea UPDATE: Yemeni sources, speaking to Iran\u2019s Tasnim News Agency, deny that Ansarallah launched missiles at the United Arab Emirates\nThe missiles were launched at Saudi positions inside Yemen.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-18T16:17:10+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
       "text": "\u2014\u2757\ufe0f\ud83c\uddfe\ud83c\uddea/\ud83c\uddf8\ud83c\udde6 NEW: Yemen\u2019s Ansarallah targeted the Aramco refinery in Jazan, Saudi Arabia, with drones earlier today, in response to airspace violations",
       "source": "Telegram",
       "source_type": "telegram",
@@ -384,6 +426,27 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
+      "text": "UAE MoD says two ballistic missiles from Iran were detected: one fell outside UAE territorial waters and the other inside.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-18T16:37:42+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Clash Report",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 3
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
       "text": "Yemen's Houthis likely launched missiles on UAE.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -412,12 +475,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
+        "Alsaa Plus EN",
         "Clash Report"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -431,31 +495,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
+        "Alsaa Plus EN",
         "Clash Report"
       ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Ukraine Launches Massive Drone Swarm at Moscow, Hits Wildberries Logistics Hub\nUkraine launched a massive swarm of drones overnight, with 620 drones targeting Moscow region, hitting the largest logistics facility of Russian e-commerce giant Wildberries.\n[READ MORE](https://clashreport.com/world/articles/ukraine-launches-massive-drone-swarm-at-moscow-hits-wildberries-logistics-hub-qt9pp5rckwk/)",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-18T12:23:41+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -555,6 +601,47 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\udde6\ud83c\uddea\ud83c\uddee\ud83c\uddf7\u26a1\ufe0f \u2014 The UAE Ministry of Defense announced that Emirati air defenses detected two ballistic missiles launched from Iran toward the country. One fell outside the UAE\u2019s territorial waters, while the other fell within the territorial waters of the United Arab Emirates.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-18T16:39:50+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Clash Report",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 3
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8 \u2014 Iranian Deputy Foreign Minister Gharibabadi:\nJust as Trump correctly wrote the name of the eternal Persian Gulf, soon his delusion regarding the Strait of Hormuz will either be corrected or we will correct the delusions of this deluded man.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-18T16:20:24+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Clash Report"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
       "text": "\ud83c\uddee\ud83c\uddf1\u274c\ud83c\uddf8\ud83c\uddfe \u2014 Israeli Channel 12:\nHighly sensitive intelligence was shared with the United States in advance before the attack on Abu al-Duhur military airport, regarding Syria\u2019s attempts to strengthen its military forces, as the new Syrian president understands that he will not be able to act as the previous Syrian regime did.\n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
@@ -583,50 +670,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "Alsaa Plus EN"
+        "Alsaa Plus EN",
+        "Clash Report"
       ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddf7\ud83c\uddfa\u274c\ud83c\uddfa\ud83c\udde6 \u2014 Russian Defense Ministry: Russian air defenses destroyed 791 Ukrainian drones over several Russian regions overnight.\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-18T06:11:46+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf6\ud83c\uddee\ud83c\uddf6\u274c\ud83c\uddfa\ud83c\uddf8 \u2014 Abu Mujahid Al-Assaf, the security official of the Iraqi Hezbollah Brigades (Kata\u2019ib Hezbollah), issued a statement outlining the conditions set by the Islamic Resistance in Iraq for engaging with any government with the aim of organizing the issue of \u201cdignity weapons.\u201d These conditions include the complete and genuine withdrawal of U.S. forces from Iraqi territory and airspace, with assurances that they will not return; freeing Iraq\u2019s political and economic decision-making from U.S. influence; the withdrawal of Turkish forces from northern Iraq; and the dissolution of the Peshmerga forces.\n\u27a1\ufe0fHe declared that patience had run out after more than 100 days of statements by Iraqi Prime Minister Ali al-Zaidi, hoping that he would understand the prevailing political equations and the advice of senior politicians. He added that the situation had worsened due to al-Zaidi\u2019s insistence on listening to those hostile toward the Shiites of Imam Ali and toward Tom Barrack, the head of the Syria government. He also said patience had run out over what he described as al-Zaidi\u2019s provocative actions, including raids on homes and terrorizing the families of martyrs and fighters under direct U.S. supervision, warning against applying the principle of \u201can eye for an eye, and the one who starts it is more unjust.\u201d\n\u27a1\ufe0fIn conclusion, the statement said that the Resistance was waiting for the \u201csenior brothers\u201d and their wise figures to work to correct the security imbalance caused by the designated prime minister, so that no one would have an excuse, stability and dignity would be preserved, and Iraq would not be dragged into actions that would please its enemies.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-17T21:26:25+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -713,25 +763,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-18T11:44:31+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf1 US Elections Update. Today, August 18th, is a big day in Florida in the continuing war of the American people vs AIPAC, the Israeli Lobby. Here are the races to watch today:\nFL-05: Brit Robinson vs Lashonda Holloway\nFL-06: Dan Bilzerian vs Randy Fine\nFL-07: Marialana Kinter vs Bale Dalton \nFL-20: Elijah Manley vs Debbie Wasserman Schultz\nFL-21: Bernard Taylor vs Brian Mast\nFL-25: Oliver Larkin vs Jared Moskovitz\nFL-26: Nicole Locklin vs Mario Diaz-Balart\nFL-SEN: Angie Nixon vs Alex Vindman\nFL-GOV: James Fishback vs Byron Donalds\nCA-14: Aisha Wahab vs Melissa Hernandez\nGUIDE: The first entry in every matchup is the clean candidate. The second candidate is the one supported by AIPAC. Most of these races are for congressional seats in the federal government.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-18T09:46:00+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
