@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T14:45:17.179614+00:00",
+  "generated_at": "2026-08-18T15:16:37.104524+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -383,20 +383,39 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\uddee\ud83c\uddf7 Meanwhile, Iran\u2019s inflation unfortunately continues to skyrocket, mostly due to Reformist policies enacted by Pezeshkian",
+      "publisher": "Clash Report",
+      "text": "Yemen's Houthis likely launched missiles on UAE.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-17T13:52:26+00:00",
+      "timestamp": "2026-08-18T15:01:03+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Middle East Spectator"
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "BREAKING: UAE air defence systems detected a missile threat, according to a post by the UAE Defense Ministry on X.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-18T14:59:17+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
       ],
       "verified_source_count": 1
     },
@@ -631,6 +650,44 @@
     {
       "title": "Telegram",
       "publisher": "Mediterranean Man",
+      "text": "\u26a1\ud83c\udde6\ud83c\uddea UAE officials: The situation is currently safe after the missile threat.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-18T15:05:34+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ud83c\udde6\ud83c\uddea Early reports indicate Missiles might have came from Yemen. (unconfirmed)",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-18T15:01:18+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
       "text": "\u26a1\ufe0f\ud83c\uddf0\ud83c\uddf7 Hyundai Rotem and Korea Aerospace Industries (KAI) have\u00a0partnered\u00a0to develop long-range air-to-air missile technology for South Korea\u2019s KF-21 fighter jet.\nUnder the partnership, Hyundai Rotem will contribute its guided weapons and propulsion technologies, while KAI will provide aircraft integration expertise as the prime developer of the KF-21.\u00a0\nThe Hyundai Rotem-KAI agreement is the latest in a series of collaborations centered on South Korea\u2019s air defense.\nIn February,\u00a0Hanwha Aerospace partnered with KAI\u00a0on aerial weapons development, including technologies that could be integrated into future variants of the KF-21.\nIn March, South Korea and the UAE\u00a0signed a defense cooperation framework\u00a0worth more than $35 billion, establishing collaboration.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -656,139 +713,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-18T09:46:00+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ufe0f\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8 U.S Government awards Raytheon (RTX) a near $23 Billion dollar contract for a \u201cscaled-up manufacturing\u201d of the Tomahawk multipurpose cruise missile, with the goal to have a sustained order of 1,000/year (This is NOT including any and all foreign users of the Tomahawk missile, and specifically only for the Navy\u2019s Vertical-Launch System variant of the Tomahawk).\nThis goes without saying, INDOPACCOM will likely not see any of these.\nEverything to CENTCOM.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-18T03:28:58+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83d\udee2\ufe0f Another day and another 10m+ barrels released from the strategic reserve, Now at the lowest level since 1982.\nIf the trend continues and we reach the 75m \"danger zone\" (remember that number) then oil risk premium WILL sky rocket, issuing an actual oil crisis which will Dwarf the Saudi oil embargo of the 70s.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-18T01:38:41+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "6 gorilin rockets",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-18T01:05:49+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "Another 10 drones.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-18T01:04:29+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "At this stage its hard to say what will happen. Either the Moscow city authorities are summing up and reporting a higher number instead of the usual five drones at a time, or this is going to be a massive attack.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-18T00:43:43+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "Another 40 drones.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-18T00:37:32+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "Another 10 drones.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-18T00:07:45+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
