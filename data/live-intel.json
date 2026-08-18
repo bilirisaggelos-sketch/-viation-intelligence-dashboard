@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T10:04:34.185666+00:00",
+  "generated_at": "2026-08-18T10:48:28.880053+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -365,6 +365,25 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
+      "text": "NEW: Russia is shipping drone components, ammunition, and TNT to Iran via the Caspian Sea to help rebuild stockpiles damaged by US and Israeli strikes.\nThe Caspian route is effectively unblockable.\nWestern navies have no legal access under the 2018 convention, and vessels routinely switch off tracking systems.\nSource: NBC",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-18T10:04:49+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
       "text": "Japanese F-15J fighter jet made an emergency landing at Naha Airport in Okinawa after its left landing gear failed while returning from a scramble intercept mission. \nThe aircraft skidded, rotated 180\u00b0, and came to rest with its left wing touching the runway.\nThe pilot exited unharmed.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -390,63 +409,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-18T09:32:12+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Russia Threatens UK Over Ukrainian Strikes Using British Drones\nRussia issued a direct warning to the UK, stating London will face severe consequences after reports revealed Ukraine deployed British-made drones to strike deep inside Russian territory.\n[READ MORE](https://clashreport.com/world/articles/russia-threatens-uk-over-ukrainian-strikes-using-british-drones-1xppxh0ibm3)",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-18T08:55:41+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Ukraine is increasingly using near-real-time commercial satellite imagery to give frontline drone teams accurate information on Russian positions.\nSatellite images that once took days to reach soldiers can now arrive in 15 minutes to a few hours, letting drone teams quickly identify Russian troops, equipment, supply routes and hidden positions. \nThis has made strikes more precise and harder for Russia to evade, and has helped Ukraine target air defenses, electronic-warfare systems, logistics and positions in Crimea and occupied territory. \nThe broader trend is turning satellite intelligence into a frontline tool rather than something used only by senior commanders.\nSource: NYT",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-18T07:19:51+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "NEW: Israeli jets hit Abu al-Duhur Air Base in eastern Idlib, Syria with four airstrikes overnight, targeting the runway.\nThe base houses Syria's fledgling post-Assad air force \u2014 roughly two restored Su-22s, several L-39 trainers, and old helicopters. \nThe strike came after footage emerged of Su-22s conducting training flights over northern Syria.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-18T04:48:55+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -580,25 +542,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-16T14:37:16+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Our Wars Today"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Our Wars Today",
-      "text": "[Ukrainian drones strike Moscow region, killing one](https://www.reuters.com/world/ukrainian-drones-strike-moscow-region-killing-one-2026-08-16/)\nUkrainian drones struck Moscow region overnight on Sunday in what the provincial \u200bgovernor said was one of the largest \u200cattacks to have targeted the region, and which he said had left at least one person \u200bdead. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://www.reuters.com/world/ukrainian-drones-strike-moscow-region-killing-one-2026-08-16/)\nReuters | reuters\u200b.com \u2022 Aug 16, 2026",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-16T14:37:04+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
