@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T13:10:40.442968+00:00",
+  "generated_at": "2026-08-18T13:59:04.901696+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -308,6 +308,25 @@
     {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddfe\ud83c\uddea/\ud83c\uddf8\ud83c\udde6 NEW: Yemen\u2019s Ansarallah targeted the Aramco refinery in Jazan, Saudi Arabia, with drones earlier today, in response to airspace violations",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-18T13:57:19+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
       "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf1/\ud83c\uddf9\ud83c\uddf7/\ud83c\uddf8\ud83c\uddfe Ammunitions cookoff at the military airport in Idlib, Syria",
       "source": "Telegram",
       "source_type": "telegram",
@@ -383,20 +402,20 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\uddee\ud83c\uddf7/\ud83c\uddf9\ud83c\uddf7 NEW: Two Iranian \u2018Hadid-110\u2019 fast stealth drones allegedly targeted the private office of Masrour Barzani, the Prime Minister of Iraqi Kurdistan, last night",
+      "publisher": "Clash Report",
+      "text": "Iranian Deputy Foreign Minister Kazem Gharibabadi:\nJust as Trump correctly wrote the name of the eternal Persian Gulf, soon his delusion regarding the Strait of Hormuz will either be corrected or we will correct the delusions of this deluded man.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-17T13:37:09+00:00",
+      "timestamp": "2026-08-18T13:39:17+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Middle East Spectator"
+        "Clash Report"
       ],
       "verified_source_count": 1
     },
@@ -530,6 +549,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Our Wars Today"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf1\u274c\ud83c\uddf8\ud83c\uddfe \u2014 Israeli Channel 12:\nHighly sensitive intelligence was shared with the United States in advance before the attack on Abu al-Duhur military airport, regarding Syria\u2019s attempts to strengthen its military forces, as the new Syrian president understands that he will not be able to act as the previous Syrian regime did.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-18T13:33:41+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
       ],
       "verified_source_count": 1
     },
@@ -770,25 +808,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-18T00:04:20+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ufe0f\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6 Moscow is under attack by Ukrainian long range drones. Russian AD is active on the outskirts of the city.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-17T23:59:37+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
