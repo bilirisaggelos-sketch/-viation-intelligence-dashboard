@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T10:48:28.880053+00:00",
+  "generated_at": "2026-08-18T11:31:19.822139+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -383,39 +383,20 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Japanese F-15J fighter jet made an emergency landing at Naha Airport in Okinawa after its left landing gear failed while returning from a scramble intercept mission. \nThe aircraft skidded, rotated 180\u00b0, and came to rest with its left wing touching the runway.\nThe pilot exited unharmed.",
+      "publisher": "Our Wars Today",
+      "text": "[General Staff: Defense forces hit the ammunition warehouse and 5 drone control points of the occupiers](https://www.pravda.com.ua/news/2026/08/18/8049142/)\nOn August 17-18, Ukrainian troops hit an ammunition depot and six Russian control points. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://www.pravda.com.ua/news/2026/08/18/8049142/)\n\u0421\u0442\u0430\u043d\u0456\u0441\u043b\u0430\u0432 \u041f\u043e\u0433\u043e\u0440\u0456\u043b\u043e\u0432 | pravda\u200b.com\u200b.ua \u2022 Aug 18, 2026",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-18T09:45:30+00:00",
+      "timestamp": "2026-08-18T10:48:31+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "After 4-Hour Kushner Meeting, No Indication Netanyahu Will Choose Peace\nA four-hour meeting between Jared Kushner and Benjamin Netanyahu ended without a clear signal that Israel is ready to advance the White House Gaza peace framework.\n[READ MORE](https://clashreport.com/world/articles/after-4-hour-kushner-meeting-no-indication-netanyahu-will-choose-peace-q6gabvvqib)",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-18T09:32:12+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
+        "Our Wars Today"
       ],
       "verified_source_count": 1
     },
@@ -485,63 +466,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-16T14:37:45+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Our Wars Today"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Our Wars Today",
-      "text": "[Ukraine launches one of its largest aerial attacks of the war, killing at least 6 people in Russia](https://apnews.com/article/russia-ukraine-war-01294bf8744282086e8f76c8130e16ba)\nUkraine has launched hundreds of drones across Russia, marking one of Kyiv\u2019s largest aerial attacks of the war. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://apnews.com/article/russia-ukraine-war-01294bf8744282086e8f76c8130e16ba)\nThe Associated Press | apnews\u200b.com \u2022 Aug 16, 2026",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-16T14:37:36+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Our Wars Today"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Our Wars Today",
-      "text": "[US top Middle East commander visits deployed aircraft carrier, and other Mideast news](https://apnews.com/article/iran-us-israel-lebanon-gaza-uss-lincoln-august-16-2026-98f43f920c102080a3526981cf0dd7b8)\nAdm. Brad Cooper, the top U.S. military commander in the Middle East, has visited the USS Lincoln in the Arabian Sea. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://apnews.com/article/iran-us-israel-lebanon-gaza-uss-lincoln-august-16-2026-98f43f920c102080a3526981cf0dd7b8)\nThe Associated Press | apnews\u200b.com \u2022 Aug 16, 2026",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-16T14:37:25+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Our Wars Today"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Our Wars Today",
-      "text": "[The General Staff confirmed the destruction of a missile unit in Crimea and a bridge in Zaporizhzhia](https://www.pravda.com.ua/news/2026/08/16/8048870/)\nOn the night of August 16, the Defense Forces hit the concentration area of \u200b\u200bthe Russian missile unit in the occupied Crimea, the railway bridge in Zaporizhzhia, and enemy warehouses in Donetsk region. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://www.pravda.com.ua/news/2026/08/16/8048870/)\n\u0420\u043e\u043c\u0430\u043d \u041f\u0435\u0442\u0440\u0435\u043d\u043a\u043e | pravda\u200b.com\u200b.ua \u2022 Aug 16, 2026",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-16T14:37:16+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -840,6 +764,25 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
+      "text": "\u2764\ufe0f\ud83d\udcc9 Epstein Coalition outspent Iran 100 to 1, still couldn\u2019t win\nIran \u201cwas able to manage a war at one one-hundredth of the enemy\u2019s expenditure, ultimately securing victory for the warriors of Islam\u201d against US-Israeli aggression, IRGC deputy commander Mostafa Izadi said Monday.\n\u201cThe world\u2019s greatest military power and the backstop of NATO went to war with the Islamic Republic, but Iran endured and stood firm against its enemies,\u201d who have now been \u201cweakened both regionally and globally,\u201d Izadi said.\nHow accurate is the 1/100th estimate?\nSurprisingly, not at all far off.\nSIPRI says Iran\u2019s baseline defense spending was $7.4B in 2025, about 2% of nominal GDP. The sum is equivalent to ~$80.50 per person per year. Accounting for the IRGC, Basij and other military, paramilitary and security formations, the IISS estimates that Iran spends ~3.8% of its GDP ($17-21B) on defense, broadly defined.\nAnd the US? $954B in spending in 2025 (2.9% of nominal GDP, $2.7k for every single man, woman and child), i.e. ~98 times more than Iran.\nHow does Iran do it?\n1\ufe0f\u20e3 a wholly government-run, self-sufficient defense industrial base, controlled by the state, not controlling the state through lobbying and kickbacks to push overpriced equipment\n2\ufe0f\u20e3 Asymmetric thrift versus technological over-engineering as the overarching principle of production. When you shoot down used [sedan-priced drones with moped-derived engines](https://t.me/geopolitics_prime/71012) using multi-million-dollar interceptor missiles, costs add up fast\n3\ufe0f\u20e3 [Laser-sharp geostrategic focus instead of global imperial overstretch ](https://t.me/geopolitics_prime/65841)\u2013 with Iran using its mountainous geography to its advantage to create autonomous, hard to spot and strike missile cities, cavernous naval bases, and other sites that can't be effectively targeted using anything but the heaviest bunker-busters \u2013 hence Trump\u2019s embarrassing inability to reopen Hormuz Strait\n4\ufe0f\u20e3 Vietnam-style metrics for victory, where the winner isn\u2019t the side that accrues more kills and damage on a buggy, AI-powered analytics scoreboard, but imposes unsustainable financial, material and reputational burdens on the enemy, ultimately forcing them to give in.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-18T11:07:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
       "text": "\u26f4 Saudis activate dark fleet after being caught in Houthi-Hormuz pincer\nSaudi Aramco has begun selling oil on a \u201cship-to-ship basis\u201d from off the Gulf of Oman, US business media reports, citing sources familiar with the operations.\n\ud83d\udc49 The process involves \u201cshuttling\u201d \u2013 the use of small tankers to quietly ferry crude (in this case Arab Medium and Arab Heavy) out of the dangerous and restricted waters of the Persian Gulf, before transferring it to larger tankers once in a safer location.\nSatellite snaps analyzed by Bloomberg apparently saw a major uptick in activity at Saudi Arabia\u2019s Gulf ports, with vessels with 9M+ barrels\u2019 worth of capacity spotted near Ras Tanura over the past week, and a \u201clarge cluster\u201d of supertankers seen loitering just outside the Gulf.\n\ud83d\udcca That\u2019s a far cry from the estimated 7M bpd in exports the country was enjoying before the start of the Hormuz crisis, and the Houthis\u2019 counterblockade in the Red Sea. Still, it\u2019s better than nothing for a country where oil accounts for ~60% of the state budget.\nBloomberg characterizes Saudi shuttling as a noble gesture \u201chelping to keep a lid on oil prices and assuaging fears of an energy-driven inflation spike,\u201d although apparently it\u2019s blatantly illegal, [sanctions-skirting activity when countries like Iran, Russia and Venezuela do it.](https://t.me/geopolitics_prime/64683)\nRiyadh\u2019s desperate move comes amid the renewed[ escalation of the Yemen war, ](https://t.me/geopolitics_prime/73504)which a Gulf coalition first waded into in 2015, along with Trump\u2019s ongoing war with Iran,[ which has left ~20M bpd in daily maritime oil shipments](https://t.me/geopolitics_prime/73501) trapped in the Gulf and clawing for alternative routes.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
@@ -998,25 +941,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-17T14:29:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udea8 Houthis score devastating hit on Saudi warships, sinking escort vessels \u2014 spokesperson\nHouthi forces struck a Saudi naval vessel and accompanying military boats with multiple ballistic missiles, \u201cresulting in the ship being completely engulfed in flames, while several of the boats were sunk and the remainder caught fire,\u201d the movement\u2019s spokesperson Yahya Saree announced.\nSince July, the Houthis have ramped up their retaliatory campaign against Saudi Arabia, effectively blocking the kingdom\u2019s shipping in the Red Sea, as well as carrying out several strikes on Saudi facilities.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-17T13:41:17+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
