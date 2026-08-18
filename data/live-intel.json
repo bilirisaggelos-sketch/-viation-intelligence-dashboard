@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T08:47:44.871677+00:00",
+  "generated_at": "2026-08-18T09:39:44.625580+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -287,14 +287,14 @@
       "verified_source_count": 1
     },
     {
-      "title": "Russia says UK 'will pay' for supplying drones to Ukraine",
-      "text": "Russia says UK 'will pay' for supplying drones to Ukraine\nAn MoD spokesperson responds by saying Britain stands \"shoulder to shoulder\" with Ukraine.",
+      "title": "Russia warns UK will pay for supplying drones to Ukraine",
+      "text": "Russia warns UK will pay for supplying drones to Ukraine\nRussia accuses the UK after British-made drones were used in Ukrainian strikes, but the MoD says it stands against Russian aggression.",
       "source": "BBC",
       "source_type": "osint",
       "publisher": "BBC World News",
       "severity": "info",
       "icon": "\ud83d\udcf0",
-      "timestamp": "2026-08-18T06:40:00+00:00",
+      "timestamp": "2026-08-18T09:33:49+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -359,6 +359,44 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "After 4-Hour Kushner Meeting, No Indication Netanyahu Will Choose Peace\nA four-hour meeting between Jared Kushner and Benjamin Netanyahu ended without a clear signal that Israel is ready to advance the White House Gaza peace framework.\n[READ MORE](https://clashreport.com/world/articles/after-4-hour-kushner-meeting-no-indication-netanyahu-will-choose-peace-q6gabvvqib)",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-18T09:32:12+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Russia Threatens UK Over Ukrainian Strikes Using British Drones\nRussia issued a direct warning to the UK, stating London will face severe consequences after reports revealed Ukraine deployed British-made drones to strike deep inside Russian territory.\n[READ MORE](https://clashreport.com/world/articles/russia-threatens-uk-over-ukrainian-strikes-using-british-drones-1xppxh0ibm3)",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-18T08:55:41+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
       ],
       "verified_source_count": 1
     },
@@ -754,12 +792,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
+        "Geopolitics Prime",
         "Mediterranean Man"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -840,6 +879,25 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
+      "text": "\u26f4 Saudis activate dark fleet after being caught in Houthi-Hormuz pincer\nSaudi Aramco has begun selling oil on a \u201cship-to-ship basis\u201d from off the Gulf of Oman, US business media reports, citing sources familiar with the operations.\n\ud83d\udc49 The process involves \u201cshuttling\u201d \u2013 the use of small tankers to quietly ferry crude (in this case Arab Medium and Arab Heavy) out of the dangerous and restricted waters of the Persian Gulf, before transferring it to larger tankers once in a safer location.\nSatellite snaps analyzed by Bloomberg apparently saw a major uptick in activity at Saudi Arabia\u2019s Gulf ports, with vessels with 9M+ barrels\u2019 worth of capacity spotted near Ras Tanura over the past week, and a \u201clarge cluster\u201d of supertankers seen loitering just outside the Gulf.\n\ud83d\udcca That\u2019s a far cry from the estimated 7M bpd in exports the country was enjoying before the start of the Hormuz crisis, and the Houthis\u2019 counterblockade in the Red Sea. Still, it\u2019s better than nothing for a country where oil accounts for ~60% of the state budget.\nBloomberg characterizes Saudi shuttling as a noble gesture \u201chelping to keep a lid on oil prices and assuaging fears of an energy-driven inflation spike,\u201d although apparently it\u2019s blatantly illegal, [sanctions-skirting activity when countries like Iran, Russia and Venezuela do it.](https://t.me/geopolitics_prime/64683)\nRiyadh\u2019s desperate move comes amid the renewed[ escalation of the Yemen war, ](https://t.me/geopolitics_prime/73504)which a Gulf coalition first waded into in 2015, along with Trump\u2019s ongoing war with Iran,[ which has left ~20M bpd in daily maritime oil shipments](https://t.me/geopolitics_prime/73501) trapped in the Gulf and clawing for alternative routes.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-18T09:35:24+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
       "text": "\ud83d\udea8\ud83e\ude96 Houthis going ballistic from Bab al-Mandab Strait to Saudi heartland\nYemen\u2019s besandaled holy warriors have made good on their promises of tit-for-tat \u201cescalation for escalation\u201d following[ the July 13 Saudi airstrike in Sanaa](https://t.me/geopolitics_prime/72020), which kicked off an unprecedentedly fierce round of regional fighting.\nIn the past few days alone, the Houthis have:\n\ud83d\udca5 targeted a Saudi military landing ship and four escorts[ near Bab el-Mandeb Strait off Mokha using ballistic missiles ](https://t.me/geopolitics_prime/73504)\n\ud83d\udca5subjected camps and command nodes of Saudi puppet government forces in oil-rich Marib and Hadramaut in the east and the Mokha port in the west to repeated missile and drone bombardments, completely halting the port\u2019s operations\n\ud83d\udca5targeted enemy forces on Al-Mayun \u2013 a volcanic island in Bab el-Mandeb off Yemen\u2019s southwest coast which has a military airfield on it recently built by the Emiratis\n\ud83d\udca5 cut off enemy supply lines on the Marib front\n\ud83d\udca5 targeted Saudi Aramco facilities deep inside the Saudi heartland\n\ud83d\udca5 continued their de facto blockade of the Red Sea to Saudi crude oil, paralyzing the kingdom\u2019s exports and [forcing Riyadh to resort to dark fleet tactics](https://t.me/geopolitics_prime/73428)\n\ud83d\udca5engaged in fierce fighting with puppet government forces across the front, with enemy media reporting 181 military operations in just 24 hours over the weekend\n\u201cThere is a clear and consistent Yemeni equation called \u2018siege for siege\u2019. Another equation supports it: \u2018escalation for escalation\u2019,\u201d Houthi deputy information minister Tawfiq al-Hamiri told Tasnim.\n\ud83d\udcac \u201cThese two equations have shattered the bones of Saudi Arabia. Yemen emphasizes its full right to exercise sovereignty over its territory, and Sanaa\u2019s forces follow this approach on a broad scale. Any aggressive operations against the territory and airspace of the republic are responded to with continuous attacks and immediate deterrence. The same approach is followed in our territorial waters.\u201d\nSaudi Arabia\u2019s newfound allies? Still nowhere [to be found amid the escalation.](https://t.me/geopolitics_prime/73473)\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
@@ -887,12 +945,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "Geopolitics Prime"
+        "Geopolitics Prime",
+        "Mediterranean Man"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
