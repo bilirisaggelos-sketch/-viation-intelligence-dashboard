@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T17:47:51.311476+00:00",
+  "generated_at": "2026-08-18T18:48:00.479220+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -456,13 +456,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
         "Clash Report"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -582,42 +581,22 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf1\u274c\ud83c\uddf8\ud83c\uddfe \u2014 Israeli Channel 12:\nHighly sensitive intelligence was shared with the United States in advance before the attack on Abu al-Duhur military airport, regarding Syria\u2019s attempts to strengthen its military forces, as the new Syrian president understands that he will not be able to act as the previous Syrian regime did.\n\u26aa\ufe0f",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ufe0f\ud83c\uddf9\ud83c\uddf7\ud83c\uddee\ud83c\uddf1\ud83c\uddf8\ud83c\uddfe Israeli warplanes have bombed Turkish military assets in Syria at Abu al-Duhur military airport.\nTurkey has denied having any military presence at that airport.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-18T13:33:41+00:00",
+      "timestamp": "2026-08-18T17:49:50+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN"
+        "Mediterranean Man"
       ],
       "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf1 \u2014 Expiration of U.S.-Iran 60-Day Negotiation Window Triggers Regional Rearmament and Air-Defense Race, \u2014 THE JERUSALEM POST. \n\u200b\u27a1\ufe0f The 60-day diplomatic window aimed at securing a durable settlement between the U.S. and Iran has expired without a comprehensive agreement, leaving behind an unstable \"armed pause.\" Amid the stalemate, Iran has utilized the period of reduced fighting to repair damaged military infrastructure, restore underground launcher capacity, and accelerate missile and drone production\u2014including upcoming shipments of shoulder-fired air-defense systems from China.\n\u200b\u27a1\ufe0f Concurrently, the conflict has exposed a severe regional air-defense drain. While Washington and Gulf states scramble to replenish exhausted Patriot, THAAD, and Tomahawk inventories through multi-billion-dollar production contracts, Israel is accelerating its domestic Arrow interceptor and munition output. However, analysts note that Israel's strategic calculus remains deeply constrained by high structural dependence on Washington, as the Trump administration pushes for regional quiet to avoid a renewed multi-front escalation.\n\u2b50\ufe0f Follow",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-18T11:40:33+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Clash Report"
-      ],
-      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -697,25 +676,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ufe0f\ud83c\uddf0\ud83c\uddf7 Hyundai Rotem and Korea Aerospace Industries (KAI) have\u00a0partnered\u00a0to develop long-range air-to-air missile technology for South Korea\u2019s KF-21 fighter jet.\nUnder the partnership, Hyundai Rotem will contribute its guided weapons and propulsion technologies, while KAI will provide aircraft integration expertise as the prime developer of the KF-21.\u00a0\nThe Hyundai Rotem-KAI agreement is the latest in a series of collaborations centered on South Korea\u2019s air defense.\nIn February,\u00a0Hanwha Aerospace partnered with KAI\u00a0on aerial weapons development, including technologies that could be integrated into future variants of the KF-21.\nIn March, South Korea and the UAE\u00a0signed a defense cooperation framework\u00a0worth more than $35 billion, establishing collaboration.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-18T11:44:31+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "CASELS",
       "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf6\u2600\ufe0f Local media outlet Kurdish Channel 8, citing a civil defense source, denies the report of a drone attack, stating the cause of a fire was a fuel depot explosion.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
@@ -768,6 +728,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udee2 Pakistan's US oil imports rise\u2014along with its dollar debt to Washington\nPakistan's refiner Cnergyico purchased US crude for the first time last year and has since imported about 8.1 million barrels over nine months, of which 7.1 million, worth $750 million, came in the last fiscal year. The company is considering both spot and long-term contracts.\n\ud83d\udc49 The reason is necessity. About 90% of Pakistan's oil and LNG imports passed through the Strait of Hormuz. The US war with Iran disrupted shipping, threatening\u043c supplies from Saudi Arabia and the UAE. Islamabad turned to the US market\u2014the same player whose actions caused the blockade.\nPakistan has a trade surplus with the US, largely from textiles (74% of exports). The Trump administration used this to impose high duties\u2014Pakistan faced a 29% tariff, later reduced to 19%. By increasing US oil purchases, Islamabad hopes to narrow the gap and gain tariff relief.\n\ud83d\udcc8 However, this creates a growing dependence. Central bank data shows Pakistan's payments for US imports rose by $914 million to $3.27 billion last fiscal year, with Cnergyico accounting for about 80% of the increase. Islamabad also proposed an EXIM Bank facility with payment deferrals of up to three years, but critics warn dollar-denominated lending increases external debt and risks.\nCnergyico plans $1.2 billion in upgrades, including a second mooring for large tankers, to boost capacity to 200,000 bpd. But these investments serve US export logistics, not Pakistan's energy independence. The country is trading Gulf dependence for Washington's\u2014on less favorable terms.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-18T18:33:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
