@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T16:43:20.177467+00:00",
+  "generated_at": "2026-08-18T17:13:26.067065+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -485,26 +485,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Iranian Deputy Foreign Minister Kazem Gharibabadi:\nJust as Trump correctly wrote the name of the eternal Persian Gulf, soon his delusion regarding the Strait of Hormuz will either be corrected or we will correct the delusions of this deluded man.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-18T13:39:17+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Clash Report"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
       "publisher": "Our Wars Today",
       "text": "[General Staff: Defense forces hit the ammunition warehouse and 5 drone control points of the occupiers](https://www.pravda.com.ua/news/2026/08/18/8049142/)\nOn August 17-18, Ukrainian troops hit an ammunition depot and six Russian control points. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://www.pravda.com.ua/news/2026/08/18/8049142/)\n\u0421\u0442\u0430\u043d\u0456\u0441\u043b\u0430\u0432 \u041f\u043e\u0433\u043e\u0440\u0456\u043b\u043e\u0432 | pravda\u200b.com\u200b.ua \u2022 Aug 18, 2026",
       "source": "Telegram",
@@ -581,25 +561,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Our Wars Today",
-      "text": "[A NATO fighter shot down a drone over Romania](https://www.pravda.com.ua/news/2026/08/16/8048864/)\nA Spanish F-18 fighter jet shot down a drone over Romania. This is the fourth incident of a drone intrusion into Romanian airspace. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://www.pravda.com.ua/news/2026/08/16/8048864/)\n\u0420\u043e\u043c\u0430\u043d \u041f\u0435\u0442\u0440\u0435\u043d\u043a\u043e | pravda\u200b.com\u200b.ua \u2022 Aug 16, 2026",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-16T14:37:45+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Our Wars Today"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Alsaa Plus EN",
       "text": "\ud83c\udde6\ud83c\uddea\ud83c\uddee\ud83c\uddf7\u26a1\ufe0f \u2014 The UAE Ministry of Defense announced that Emirati air defenses detected two ballistic missiles launched from Iran toward the country. One fell outside the UAE\u2019s territorial waters, while the other fell within the territorial waters of the United Arab Emirates.\n\u26aa\ufe0f",
       "source": "Telegram",
@@ -631,13 +592,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
-        "Clash Report"
+        "Alsaa Plus EN"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -896,82 +856,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-18T06:34:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf7\ud83c\uddee\ud83c\uddf6 US strikes fail to break Iraq's resistance as it adopts Iran's fragmentation deterrence strategy\nAs the US increases pressure on Iraq to confront pro-Iranian armed groups, the resistance appears to be hardening its position and restructuring its operational approach, according to The Cradle.\n\ud83d\udd36 On July 29, US and Saudi [forces carried out airstrikes](https://t.me/geopolitics_prime/72849) against Popular Mobilization Units across seven Iraqi provinces, from Basra to Nineveh\n\ud83d\udd36 The strikes were presented as retaliation for drone attacks on Saudi energy infrastructure that the US claimed had originated from Iraqi territory\n\ud83d\udd36 However, no concrete evidence was provided to substantiate these allegations, and Iraqi authorities were not given advance notice of the operation. Iraq had requested intelligence and formed an investigative committee, but the airstrikes overtook the inquiry before it could reach any conclusion\n\ud83d\udd34 The fragmentation strategy\nThe strikes have not led to capitulation or inflicted lasting damage on the resistance, which has already adapted to such pressure. New cells have emerged from within the resistance factions, formed by elements who left larger groups partly in opposition to proposed disarmament plans.\n\ud83d\udd34 This fragmentation offers several strategic advantages:\n\ud83d\udd34 A dispersed structure makes it significantly more difficult for adversaries to predict actions or dismantle the organization through targeted strikes against leadership or intelligence penetration\n\ud83d\udd34 The decentralized command structure allows autonomous operations without waiting for orders from central leadership, complicating attribution and response\n\ud83d\udd34 Destroying one group does not solve the problem\u2014new formations emerge to fill the void\nThis is a proven Iranian tactic, refined during the war with the US. Iran's [\"mosaic defense\" doctrine](https://t.me/geopolitics_prime/65841) organizes defensive structures into multiple semi-independent regional layers instead of concentrating power in a single chain of command that could be paralyzed by a decapitation strike.\nUnder this model, if senior leaders are killed or communications are cut, local units still retain the authority and capacity to act. This approach was successfully employed to preserve military capabilities and strike US bases, and Iraqi factions are now adopting the same strategy for their own operations.\n\ud83d\udd34 White House's leverage and its limits\nThe US wields significant economic leverage over Iraq through its dependence on oil revenues held at the Federal Reserve Bank of New York. The Iraqi state budget is almost entirely financed by crude exports, which means the [US holds the country's economy hostage](https://t.me/geopolitics_prime/72019).\n\ud83d\udc49 However, the same pressure that works on the Iraqi government has not produced the intended result among the armed factions, who operate through informal networks and decentralized structures that are less vulnerable to financial coercion.\nThe US-Saudi strikes were meant to signal that attacks on Gulf targets would not be tolerated. Instead, they have accelerated the fragmentation of Iraq's resistance and obscured its chain of command, making future operations harder to attribute and deter. The resistance remains an important component of [the regional axis opposing US and Saudi influence](https://t.me/geopolitics_prime/73028) in the Middle East, and its ability to adapt and endure continues to pose a strategic challenge that America's current toolkit of airstrikes and financial pressure is not designed to resolve.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-17T23:07:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udea8\ud83c\udde8\ud83c\uddf3 China\u2019s Unique Carrier Doctrine Uses Mainland to Counter U.S. Carrier Fleet\n\u2693\ufe0f China\u2019s emerging carrier doctrine treats each ship as a mobile aviation node inside a much larger regional combat system. In the Western Pacific, land-based aircraft, missiles, satellites and sensors can perform functions that an American carrier group must carry at sea or obtain from overseas bases.\n\ud83c\uddfa\ud83c\uddf8 The US Navy built its carrier force for expeditionary warfare thousands of kilometers from the continental United States. A strike group therefore brings its own fighters, early-warning aircraft, electronic warfare, air defenses, escorts and supply ships. Everything must fit aboard a limited number of hulls and remain connected across long maritime logistics lines.\n\ud83d\uddfa China\u2019s principal theaters\u2014the Taiwan Strait, East and South China Seas and the approaches to the Western Pacific\u2014lie beside its industrial and military heartland. Carriers operating there can remain connected to airfields, command centers, repair infrastructure and ammunition stocks on Chinese territory.\n\ud83d\ude80 The supporting firepower extends far beyond the coastline. J-20 and J-16 fighters, H-6 missile-carrying bombers and land-based early-warning aircraft can reinforce the carrier air wing. The Rocket Force fields the DF-21D anti-ship ballistic missile with a range exceeding 1,500 km and the longer-range DF-26, while satellites and other sensors help track targets across the region.\n\ud83c\udfaf These systems allow a Chinese carrier to concentrate on the missions where mobility matters most: moving stealth fighters and radar coverage beyond the coast, closing gaps between land-based aviation zones and establishing air and sea control on the Pacific side of Taiwan. The carrier is not required to generate the entire attack by itself.\n\ud83d\udeeb Fujian gives this concept a substantially stronger mobile component. The 80,000-ton carrier\u2019s electromagnetic catapults can launch J-35 stealth fighters, heavily loaded J-15T fighters, J-15DT electronic-warfare aircraft and the KJ-600 fixed-wing early-warning aircraft. Unlike the ski-jump systems on Liaoning and Shandong, catapults allow aircraft to take off with more fuel and weapons while supporting large specialized aircraft.\n\ud83e\udde9 China\u2019s Defense Ministry calls this combination of stealth fighter, multirole fighter, electronic-warfare aircraft, fixed-wing early warning and anti-submarine helicopter the carrier\u2019s \u201cfive-piece set.\u201d Its official purpose is to create the system-level combat capability of the entire formation, rather than merely adding more jets to one ship.\n\ud83d\udd25 Around Taiwan, the carrier can operate east of the island while mainland missiles and aircraft cover the strait and place approaching US forces and regional bases under pressure. Pentagon reporting says China has already incorporated carriers into simulated blockade operations intended to complicate third-party intervention.\n\u2696\ufe0f China currently has three carriers against America\u2019s 11, although the Pentagon expects the Chinese fleet to reach nine by 2035. That comparison understates the regional balance. In a Western Pacific conflict, the relevant equation is three Chinese flight decks backed by the PLA\u2019s mainland missile, air and sensor network against US carriers operating inside the reach of that same network.\n us on X](https://x.com/NewRulesGeo?t=6cJ2ZyQr-1f_lBvKPNggKw&s=09)",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-17T21:36:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\ude32 Sharaa\u2019s pipe dream bursts: Syria-Iraq oil pipeline will cost double, take until at least 2030 to build\n\u00a0\nThe 2M bpd mega-energy link designed to give Iraq\u2019s oil producers a Mediterranean alternative to Hormuz and provide Syria with much-needed transit fee income to rebuild its shattered economy has run into two new impediments: price and time.\nSources informed with the project told Reuters the project would cost \u201cat least $15B.\u201d That\u2019s ~188-333% more than [the previously estimated $4.5-8B price tag. ](https://t.me/geopolitics_prime/73269)\nHopes of rehabilitating the existing pipeline (long defunct and damaged during the 2003 US invasion of Iraq) are not feasible, with \u201centirely new infrastructure\u201d required, the sources said. That means a construction timeframe of at least four years \u2013 possibly more to dismantle the old pipeline and resecure land rights in Syria.\n\ud83d\udc49 The new \u201cintegrated crude oil pipeline system\u201d would also need to connect to southern Iraqi oil fields via a hub in Haditha, Anbar governorate, per demands from US oil giant Chevron, which is involved in the technical studies on the project, and looking to secure new oil rights in southern Iraq\u2019s West Qurna 2 and Nassiriya fields.\nUS officials present the Syria-Iraq pipeline plan as a prospective alternative to Hormuz, with Treasury chief Bessent recently declaring that \u201cthe Strait is going to become irrelevant,\u201d and claiming that 50-70% of its oil shipments will be passed on to pipelines over the next two years.\n\ud83d\udee2 But Bessent\u2019s math doesn\u2019t add up. Diverting 10-14M bpd of oil from Hormuz to pipelines runs up against a shortfall of 5.3-9.3B bpd in pipeline capacity, not counting the fact that Saudi Arabia\u2019s 7M bpd nominal capacity East-West pipeline with 2M bpd to spare is currently paralyzed by [the Houthis\u2019 blockade on the Saudis\u2019 Red Sea ports.](https://t.me/geopolitics_prime/72694)\nThe UAE\u2019s ADCOP Pipeline, another Hormuz workaround, has a 1.5M bpd capacity, with plans to more than double it to 3.6M bpd, but not before mid-2027 at the earliest.\nAs for the Syrian route, has Washington forgotten that the country\u2019s been destroyed in a CIA dirty war and turned into a partially occupied failed state of roving terrorist gangs, disaffected Assad supporters, Kurdish forces and pro-Iranian militia neighbors?\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-17T19:54:58+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8 Iran\u2019s \u2018peace through strength\u2019 doctrine leaves US military options looking thinner\nIran has taken a clear lesson from its past with the U.S.: when America speaks of peace, it helps to watch its bombers. \nSo, according to the WSJ, Iran has spent the past two months building a layered deterrence strategy designed to make another US attack far harder to launch \u2014 and much harder to contain.\n\ud83d\udc49 Iran had reasons to be suspicious. In June 2025, Washington was publicly talking up diplomatic progress through mediators before joining Israeli strikes during the 12-day war. Then, in February 2026, US bombing began just two days after talks in Geneva.\nSo when a memorandum of understanding was signed in mid-June, Iran apparently decided that taking American assurances at face value would be a rather expensive habit.\nOver the following two months:\n\ud83d\udd36 The IRGC expanded its oversight of the regular army, elevated [commanders with battlefield experience](https://t.me/geopolitics_prime/73266) from the Iran-Iraq war to key posts, and stepped up domestic counterintelligence \n\ud83d\udd36 Production of missiles and drones was accelerated, while military advisers were dispatched to Iran-aligned groups in Iraq, Yemen, and Lebanon to[ prepare for joint operations ](https://t.me/geopolitics_prime/73028)\n\ud83d\udd36 Saudi Arabia found its oil exports more [exposed to attacks](https://t.me/geopolitics_prime/73490) from both Yemen and Iraq, and Gulf states received a stark warning not to interfere in the conflict\n\ud83d\udd36 Iran also [struck Kurdish separatist groups](https://t.me/geopolitics_prime/73370) to guarantee their non-interference in the event of a potential US ground invasion.\nBy expanding its forces and creating multiple points of tension across the region, Iran has forced its counterparts to [stretch their resources](https://t.me/geopolitics_prime/73465) and raises the cost of escalation, compelling the US to reconsider a military solution to the conflict.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-17T17:34:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
