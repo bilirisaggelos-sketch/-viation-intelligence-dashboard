@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T23:40:07.015478+00:00",
+  "generated_at": "2026-08-18T00:00:51.392201+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -493,6 +493,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ufe0f\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6 Moscow is under attack by Ukrainian long range drones. Russian AD is active on the outskirts of the city.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-17T23:59:37+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
       ],
       "verified_source_count": 1
     },
