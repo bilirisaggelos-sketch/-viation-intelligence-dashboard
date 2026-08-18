@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T19:59:49.735227+00:00",
+  "generated_at": "2026-08-18T20:35:37.352355+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -424,6 +424,25 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
+      "text": "The UAE Defense Ministry says the two Iranian ballistic missiles detected today were aimed at maritime traffic and were not intentionally fired at the UAE.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-18T20:08:30+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
       "text": "INTERESTING: Unusual aerial activity reported by Syrian sources.\nIsraeli warplane entered Daraa airspace, heading northeast. \nThey were last tracked entering Iraqi airspace after exiting Syria.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -723,6 +742,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udcd1 China's strategic gains in the Gulf: Mecca Agreement and the Pakistan factor\nThe Mecca Defense Agreement between Saudi Arabia, Turkey, and Pakistan has been described by some analysts as a direct response to the US failure to guarantee security for its allies in the Persian Gulf. It is viewed by many as an alternative to American military presence in the region. China is not a party to the agreement, but through Pakistan it gains strategic leverage and enhanced influence.\n\ud83d\udc49 Pakistan is a founding member of the agreement and China's closest ally. Over the past 5 years, China has accounted for 80\u201381% of Pakistan's total military imports. Pakistan is the largest buyer of Chinese weapons (61% of China's military exports). Cooperation includes joint development and licensed production: JF-17 Thunder fighters, J-10C fighters, Hangor-class submarines, HQ-9/P air defense systems, and PL-15 missiles. Pakistan also uses China's BeiDou satellite navigation system. Chinese weapons form the backbone of Pakistan's defense capability.\n\ud83d\udc49 Pakistan has deployed JF-17s and HQ-9 systems in Saudi Arabia under previous bilateral arrangements. In May 2025, the Pakistani Air Force used J-10Cs in a conflict with India, confirming the effectiveness of Chinese equipment. Pakistan is becoming a \"showcase\" for China's defense industry in the Middle East.\n\ud83d\udc49 According to unofficial media reports, Saudi Arabia is negotiating with Pakistan to convert about $2 billion in loans into JF-17 procurements, with the total value potentially reaching $4 billion, including equipment and armaments. Talks intensified after a bilateral defense agreement in September 2025. China gains indirect access to defense markets without assuming collective defense obligations.\n\u2757\ufe0f The agreement aligns with China's concept of a multipolar world, where regional players take responsibility for their own security, reducing dependence on the US. Chinese Foreign Minister Wang Yi expressed support for the agreement and readiness to cooperate with its participants.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-18T20:05:24+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
