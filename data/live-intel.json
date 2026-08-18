@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T00:00:51.392201+00:00",
+  "generated_at": "2026-08-18T01:52:23.493373+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -287,6 +287,25 @@
       "verified_source_count": 1
     },
     {
+      "title": "Russia warns UK over supplying drones to Ukraine",
+      "text": "Russia warns UK over supplying drones to Ukraine\nAn MoD spokesperson responds by saying Britain stands \"shoulder to shoulder\" with Ukraine.",
+      "source": "BBC",
+      "source_type": "osint",
+      "publisher": "BBC World News",
+      "severity": "info",
+      "icon": "\ud83d\udcf0",
+      "timestamp": "2026-08-18T01:16:41+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "BBC World News"
+      ],
+      "verified_source_count": 1
+    },
+    {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
       "text": "\u2014 \ud83c\uddee\ud83c\uddf7 Meanwhile, Iran\u2019s inflation unfortunately continues to skyrocket, mostly due to Reformist policies enacted by Pezeshkian",
@@ -327,6 +346,44 @@
     {
       "title": "Telegram",
       "publisher": "Our Wars Today",
+      "text": "[In Moscow, they complain about the attack of drones](https://www.pravda.com.ua/news/2026/08/18/8049082/)\nRussia announced another drone attack on Moscow. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://www.pravda.com.ua/news/2026/08/18/8049082/)\n\u041e\u043b\u044c\u0433\u0430 \u0413\u043b\u0443\u0449\u0435\u043d\u043a\u043e | pravda\u200b.com\u200b.ua \u2022 Aug 18, 2026",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-18T01:26:48+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Our Wars Today"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Our Wars Today",
+      "text": "[\u26a1\ufe0f - Fire reported near Moscow as Ukraine launches dozens of drones towards Russian capital . Moscow Mayor Sergey Sobyan...](https://t.me/KyivIndependent_official/54848)\n\u26a1\ufe0fFire reported near Moscow\n[https://kyivindependent.com/fires-reported-near-moscow-as-ukraine-launches-dozens-of-drones-towards-russian-capital/]\nas Ukraine launches dozens of drones towards Russian capital.\nMoscow Mayor Sergey Sobyanin said that at least 63 Ukrainian drones were shot\ndown over the Moscow Oblast during the attack. \u2013 Join Telegrams:\nt.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013\nSupport OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://t.me/KyivIndependent_official/54848)\n | t\u200b.me \u2022 Aug 18, 2026",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-18T01:26:37+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Our Wars Today"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Our Wars Today",
       "text": "[Kushner, Netanyahu agree on path forward for Gaza, Board of Peace official says](https://www.reuters.com/world/middle-east/kushner-netanyahu-agree-path-forward-gaza-board-peace-official-says-2026-08-17/)\nA meeting \u200bon Monday \u200cbetween Donald Trump's envoy \u200band son-in-law \u200bJared Kushner and \u2060Israeli \u200bPrime Minister Benjamin \u200bNetanyahu was \"lengthy, in depth, and \u200bvery \u200bproductive,\" a Board of \u200cPeace \u2060official said, adding that agreement \u200bwas \u200breached \u2060with Netanyahu on \u200ba path \u200bforward \u2060for the Gaza \u2060conflict. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://www.reuters.com/world/middle-east/kushner-netanyahu-agree-path-forward-gaza-board-peace-official-says-2026-08-17/)\nReuters | reuters\u200b.com \u2022 Aug 17, 2026",
       "source": "Telegram",
       "source_type": "telegram",
@@ -336,13 +393,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Geopolitics Prime",
         "Our Wars Today"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -441,44 +497,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Our Wars Today",
-      "text": "[\u26a1\ufe0f - Russian attacks across Ukraine kill 7, injure 51 as Kyiv hit in overnight barrage; drone downed over Romania. Most...](https://t.me/KyivIndependent_official/54825)\n\u26a1\ufe0f Russian attacks across Ukraine kill\n[https://kyivindependent.com/russian-attacks-across-ukraine-kill-at-least-7-injure-51/]\n7, injure 51 as Kyiv hit in overnight barrage; drone downed over Romania.\nMost of the overnight Russian attacks targeted Kyiv, Kremenchuk in Poltava\nOblast, and Kryvyi Rih in Dnipropetrovsk Oblast. \u2013 Join Telegrams:\nt.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013\nSupport OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://t.me/KyivIndependent_official/54825)\n | t\u200b.me \u2022 Aug 16, 2026",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-16T14:36:49+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Our Wars Today"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Our Wars Today",
-      "text": "[Russia attacked a post office in a shopping center near Odesa, there are casualties](https://www.pravda.com.ua/news/2026/08/16/8048887/)\nRussian troops attacked a post office in a shopping center in the suburbs of Odessa with a jet drone, injuring two people. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://www.pravda.com.ua/news/2026/08/16/8048887/)\n\u0420\u043e\u043c\u0430\u043d \u041f\u0435\u0442\u0440\u0435\u043d\u043a\u043e | pravda\u200b.com\u200b.ua \u2022 Aug 16, 2026",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-16T14:36:28+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Our Wars Today"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Alsaa Plus EN",
       "text": "\ud83c\uddee\ud83c\uddf6\ud83c\uddee\ud83c\uddf6\u274c\ud83c\uddfa\ud83c\uddf8 \u2014 Abu Mujahid Al-Assaf, the security official of the Iraqi Hezbollah Brigades (Kata\u2019ib Hezbollah), issued a statement outlining the conditions set by the Islamic Resistance in Iraq for engaging with any government with the aim of organizing the issue of \u201cdignity weapons.\u201d These conditions include the complete and genuine withdrawal of U.S. forces from Iraqi territory and airspace, with assurances that they will not return; freeing Iraq\u2019s political and economic decision-making from U.S. influence; the withdrawal of Turkish forces from northern Iraq; and the dissolution of the Peshmerga forces.\n\u27a1\ufe0fHe declared that patience had run out after more than 100 days of statements by Iraqi Prime Minister Ali al-Zaidi, hoping that he would understand the prevailing political equations and the advice of senior politicians. He added that the situation had worsened due to al-Zaidi\u2019s insistence on listening to those hostile toward the Shiites of Imam Ali and toward Tom Barrack, the head of the Syria government. He also said patience had run out over what he described as al-Zaidi\u2019s provocative actions, including raids on homes and terrorizing the families of martyrs and fighters under direct U.S. supervision, warning against applying the principle of \u201can eye for an eye, and the one who starts it is more unjust.\u201d\n\u27a1\ufe0fIn conclusion, the statement said that the Resistance was waiting for the \u201csenior brothers\u201d and their wise figures to work to correct the security imbalance caused by the designated prime minister, so that no one would have an excuse, stability and dignity would be preserved, and Iraq would not be dragged into actions that would please its enemies.",
       "source": "Telegram",
@@ -493,6 +511,139 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ud83d\udee2\ufe0f Another day and another 10m+ barrels released from the strategic reserve, Now at the lowest level since 1982.\nIf the trend continues and we reach the 75m \"danger zone\" (remember that number) then oil risk premium WILL sky rocket, issuing an actual oil crisis which will Dwarf the Saudi oil embargo of the 70s.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-18T01:38:41+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "6 gorilin rockets",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-18T01:05:49+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "Another 10 drones.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-18T01:04:29+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "At this stage its hard to say what will happen. Either the Moscow city authorities are summing up and reporting a higher number instead of the usual five drones at a time, or this is going to be a massive attack.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-18T00:43:43+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "Another 40 drones.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-18T00:37:32+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "Another 10 drones.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-18T00:07:45+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "14 drones have already been shot down. Judging by the frequency of the alerts, this wont be a very large attack. More like a few dozen drones rather than hundreds, as sometimes happens.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-18T00:04:20+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
       ],
       "verified_source_count": 1
     },
@@ -755,13 +906,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Geopolitics Prime",
-        "Our Wars Today"
+        "Geopolitics Prime"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -829,25 +979,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-17T10:06:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddfa\ud83c\uddf8\ud83d\udca3\ud83c\uddee\ud83c\uddf7 US war aims in Iran shrink along with its military gains\nThe Trump administration's objectives in the Iran conflict have undergone a steady transformation over the past six months. What began with ambitious promises of regime change and complete Iranian surrender has now been reduced to a far more modest set of priorities.\nVice President JD Vance recently outlined the current goals in a Fox News appearance, placing energy price stability at the top of the list and relegating nuclear non-proliferation to second place. This marks a significant departure from the administration's earlier absolutist stance, CNN reports.\nThe list of US war aims has never been particularly consistent.\n\ud83d\udd34 Different officials have offered varying combinations of objectives, with some including the destruction of Iran's missile infrastructure or the end of support for regional proxies, while others omitted these items entirely\n\ud83d\udd34 Throughout the war, the Trump administration deliberately used vague language and avoided clear definitions of its war goals. This was driven both by a desire to maintain flexibility for the public image and by the objective impossibility of fulfilling the initial grandiose promises\nNow, the administration seems to have settled on a far more pragmatic objective, which is essentially a return to the pre-war status quo: ensuring the Strait of Hormuz is open and maintaining stable oil prices. The emphasis on economic pressure reflects a realization that military force is unable to achieve the desired results.\nThe administration is returning to a familiar playbook, calling this latest effort \"Operation Economic Fury.\"\n\ud83d\udd36 Officials argue that months of bombing have pushed Iran's economy to a breaking point and that a suffocating combination of sanctions and naval blockade will force Tehran to capitulate.\n\ud83d\udd36 President Trump has claimed that Iran is \"broke,\" with \"300% inflation\" and no money to pay its soldiers, an assertion that exceeds the estimates cited by his own officials.\n\ud83d\udd36 The strategy is to target Iran's oil revenues by tightening the noose on its remaining export channels, including the possibility of sanctioning major buyers like China, which accounts for over 90% of Iran's oil exports.\nHowever, this return to a policy that failed to produce results during Trump's first term, and which has been a constant feature of US-Iran relations for decades, has prompted skepticism. Analysts argue that economic pressure is a long-haul tactic, not a shortcut to peace, and that extra sanctions could destroy the last, best chances of a US withdrawal without total humiliation.\nThe fundamental problem with this approach is that Iran has been under some form of US sanctions for over 40 years.\n\ud83c\udf0f The Iranian state has developed a \"resistance economy\" designed to survive precisely this kind of pressure.\n\ud83c\udf0f Its leadership has endured decades of economic hardship and proven adept at finding workarounds, from underground financial networks to informal trade and strategic partnerships with countries like China and Russia.\nFor a country that has already absorbed the shock of military strikes, the prospect of more sanctions is unlikely to break its will. The Iranian leadership believes it can outlast the US, particularly given the upcoming US elections and Trump's political vulnerability to high gas prices.\nThe Trump administration is now in a race against time. Its military campaign has not achieved its objectives, and its pivot to increased economic pressure is a bet that Iran's economic pain will translate into political concessions. But Iran has shown that it can survive and adapt to such pressure, and the US administration's constantly shrinking goals suggest that it is the US, not Iran, that is running out of options.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-17T08:33:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
