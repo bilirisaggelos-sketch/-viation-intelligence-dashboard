@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T04:47:00.039724+00:00",
+  "generated_at": "2026-08-18T05:35:48.993024+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -192,6 +192,25 @@
       "verified_source_count": 1
     },
     {
+      "title": "Space Weather Message Code: ALTK05\r",
+      "text": "Space Weather Message Code: ALTK05\r\nSerial Number: 2045\r\nIssue Time: 2026 Aug 18 0506 UTC\r\n\r\nALERT: Geomagnetic K-index of 5 \nThreshold Reached: 2026 Aug 18 0505 UTC\nSynoptic Period: 0300-0600\nActive Warning: YES\nNoaa Scale: G1 - Minor\nComment: \r\n\r\nNOAA Scale: G1 - Minor\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-08-18 05:06:25.137",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
       "title": "Space Weather Message Code: WARK04\r",
       "text": "Space Weather Message Code: WARK04\r\nSerial Number: 5403\r\nIssue Time: 2026 Aug 18 0227 UTC\r\n\r\nEXTENDED WARNING: Geomagnetic K-index of 4 expected\nExtension to Serial Number: 5402\nValid From: 2026 Aug 17 2101 UTC\nNow Valid Until: 2026 Aug 18 1500 UTC\nWarning Condition: Persistence\n\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
       "source": "NOAA Space Weather",
@@ -268,25 +287,6 @@
       "verified_source_count": 1
     },
     {
-      "title": "Space Weather Message Code: WARK04\r",
-      "text": "Space Weather Message Code: WARK04\r\nSerial Number: 5402\r\nIssue Time: 2026 Aug 17 2101 UTC\r\n\r\nWARNING: Geomagnetic K-index of 4 expected \nValid From: 2026 Aug 17 2101 UTC\nValid To: 2026 Aug 18 0600 UTC\nWarning Conditions: Onset\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-08-17 21:01:58.877",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
       "title": "Russia warns UK over supplying drones to Ukraine",
       "text": "Russia warns UK over supplying drones to Ukraine\nAn MoD spokesperson responds by saying Britain stands \"shoulder to shoulder\" with Ukraine.",
       "source": "BBC",
@@ -294,7 +294,7 @@
       "publisher": "BBC World News",
       "severity": "info",
       "icon": "\ud83d\udcf0",
-      "timestamp": "2026-08-18T01:16:41+00:00",
+      "timestamp": "2026-08-18T04:59:25+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -359,6 +359,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "NEW: Israeli jets hit Abu al-Duhur Air Base in eastern Idlib, Syria with four airstrikes overnight, targeting the runway.\nThe base houses Syria's fledgling post-Assad air force \u2014 roughly two restored Su-22s, several L-39 trainers, and old helicopters. \nThe strike came after footage emerged of Su-22s conducting training flights over northern Syria.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-18T04:48:55+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
       ],
       "verified_source_count": 1
     },
