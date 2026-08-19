@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T07:08:11.499367+00:00",
+  "generated_at": "2026-08-19T07:56:02.455742+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -365,6 +365,63 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
+      "text": "A suspected drone crashed into the grounds of a police station in Arsin, Trabzon, T\u00fcrkiye, on August 18.\nNo one was injured, but three parked vehicles were damaged. \nAuthorities are investigating the drone\u2019s origin.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-19T07:39:25+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "US Special Envoy Tom Barrack:\nSyria\u2019s ability to maintain safe and reliable civilian aviation within the country depends on having functioning civilian radar infrastructure. \nWe remain convinced that this technical requirement should not constitute a security concern.\nSource: i24",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-19T07:37:42+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "U.S. Ambassador to T\u00fcrkiye Tom Barrack told i24NEWS that the Israeli airstrike on the Abu al-Duhur military airbase in Syria \u201ccarried a real risk of rapidly escalating into a direct military confrontation between Israel and T\u00fcrkiye, as well as Syria.\u201d\n\u201cThe Turkish forces did not know that Israeli aircraft were making their way to this specific Syrian base, nor did they know what their objective was, and therefore they might have decided to scramble fighter jets under the belief that they themselves were under attack,\u201d Barrack told i24NEWS.\nHe added: \u201cYesterday\u2019s events were serious and concerning. Nevertheless, we are relieved that no lives were lost and that the situation did not escalate.\u201d",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-19T07:34:43+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
       "text": "Iranian Foreign Ministry spokesperson Esmaeil Baghaei has rejected the UAE\u2019s claim that missiles were launched from Iran towards the Gulf country.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -381,45 +438,6 @@
         "Clash Report"
       ],
       "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "The UAE Defense Ministry says the two Iranian ballistic missiles detected today were aimed at maritime traffic and were not intentionally fired at the UAE.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-18T20:08:30+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Clash Report"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "INTERESTING: Unusual aerial activity reported by Syrian sources.\nIsraeli warplane entered Daraa airspace, heading northeast. \nThey were last tracked entering Iraqi airspace after exiting Syria.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-18T19:35:17+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -547,13 +565,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
-        "Clash Report"
+        "Alsaa Plus EN"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -635,6 +652,101 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
+      "text": "Ukrainian drones struck Ufa, Russia, with one hitting an industrial zone and starting a fire, Bashkortostan head Radiy Khabirov said. Another UAV, diverted by electronic warfare, hit an apartment building, damaging upper-floor windows and parked cars. One person was injured and hospitalized.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-19T07:24:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "A large drone attack hit Dzerzhinsk in Russia\u2019s Nizhny Novgorod region, with residents reporting intense explosions and air-defense fire. Preliminary reports say the Y. M. Sverdlov explosives and ammunition plant was a primary target. A residential high-rise was also damaged.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-19T07:23:56+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "Russia struck Zaporizhzhia region 1,019 times over 24 hours, hitting 52 settlements, regional authorities say. Two people were killed and 10 injured. The attacks included 717 drones, 276 artillery strikes, 19 airstrikes and 7 MLRS strikes; 192 damage reports were filed.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-19T07:23:52+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "Ukraine\u2019s air defenses downed or suppressed 58 Russian aerial targets overnight: 56 Shahed, Gerbera and other drones, plus two Banderol loitering munitions. Russia launched 65 drones and two Iskander-M ballistic missiles. Strikes were recorded at 10 locations across Ukraine.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-19T07:23:48+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "Direct flights between Israel and Marrakesh, Morocco resume today, after a three-year suspension.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-19T07:23:40+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
       "text": "\u26a1\ufe0f\ud83c\uddfe\ud83c\uddea\ud83c\uddf8\ud83c\udde6 A Houthi drone attempting to target the Thaniya camp, belonging to the First Brigade of the Yemeni Emergency Forces east of Marib, has been intercepted by the internationally recognized Yemeni Armed Forces.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
@@ -660,44 +772,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-19T05:41:10+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "A Houthi ballistic missile crashed seconds after launch from Mount Mirab in Yemen's Taiz Governorate.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-19T05:37:27+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "Turkish official to Axios:\nThere was no Turkish presence at the air base. Israel is inventing excuses to bomb neighboring countries and destabilize the region.\nIsraeli jets reportedly hit Abu al-Duhur Air Base in eastern Idlib with four airstrikes overnight, targeting the runway.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-19T05:36:29+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
