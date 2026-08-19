@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T18:01:14.860893+00:00",
+  "generated_at": "2026-08-19T18:55:30.003738+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -405,25 +405,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Israeli Chief of Staff Eyal Zamir:\nWe see what is happening and are closely monitoring the changes on the Syrian front \u2014 we must prepare accordingly. \nWe will not allow hostile forces to establish themselves along our borders, and we know how to employ our power precisely where and when necessary. \nWe must prevent the development of terrorist threats, while at the same time preventing the emergence of a significant military threat along our borders.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-19T15:43:40+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Our Wars Today",
       "text": "\ud83c\uddfa\ud83c\udde6 \ud83e\udd16 Evacuation work with a friend, via instagram.com/bogdanzuyakov\nThe reality of the steady implementation of ground drones, following in the steps of aerial drones, is apparent in Ukraine. Aquatic drones grow in usage in unison. Robotic and autonomous warfare ad infinitum is upon us.\n#Ukraine #Drone #UGV #UGCV\nMore Coverage: T.me/ourwarstoday \n---\n24/7 LIVE News RSS feed: t.me/ournewsfeedtoday\n---\nFootage: t.me/ourwars\n---\nSupport OWT: https://ko-fi.com/ourwarstoday",
       "source": "Telegram",
@@ -514,6 +495,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Our Wars Today"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf1\ud83c\uddf8\ud83c\uddfe\ud83c\uddf9\ud83c\uddf7\u26a1\ufe0f \u2014 Israeli PM Benjamin Netanyahu on Syria:\n\u201cWe will not tolerate a Turkish military entrenchment that moves south. We have made this clear in general terms. \nNow, we saw that there was an intention by T\u00fcrkiye to establish itself in an airfield near Aleppo. And we delivered a message. \nThe message was delivered, but apparently they didn't hear it. So we made sure they understood it in a better way.\u201d\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-19T18:29:14+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
       ],
       "verified_source_count": 1
     },
