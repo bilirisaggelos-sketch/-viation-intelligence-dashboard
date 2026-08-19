@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T15:37:59.233502+00:00",
+  "generated_at": "2026-08-19T16:04:37.153184+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -270,6 +270,25 @@
     {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
+      "text": "\u2014 \ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7 President Trump: \n\u2018We have posession, we completely control the Strait of Hormuz. Except for some minor nuisances.\nYou know, they shoot a drone every once in a while. Not everybody is going to go through, but they come through.\nOver the last few weeks, we\u2019ve had a lot of oil coming in. It\u2019s not going to be perfect, but it\u2019s a lot of oil coming in. Actually, people are amazed.\u2019",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-19T15:42:41+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
       "text": "\u2014\u2757\ufe0f\ud83c\uddea\ud83c\uddfa/\ud83c\uddee\ud83c\uddf7 NEW: In a statement, NATO says it is prepared to deal with any threat against its member states, emphasizing that NATO air defenses have already intercepted Iranian ballistic missiles on 4 occasions headed to Turkey in the past",
       "source": "Telegram",
       "source_type": "telegram",
@@ -298,13 +317,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Clash Report",
         "Middle East Spectator"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -318,12 +336,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
+        "Alsaa Plus EN",
         "Middle East Spectator"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -337,60 +356,23 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
+        "Alsaa Plus EN",
         "Middle East Spectator"
       ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf7/\ud83c\udde6\ud83c\uddea BREAKING: The UAE Ministry of Defense announces that Iran launched two ballistic missiles at the country; one fell in the sea outside the country\u2019s borders, the other fell in Emirati territorial waters",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-18T16:36:56+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\uddfe\ud83c\uddea/\ud83c\udde6\ud83c\uddea UPDATE: Yemeni sources, speaking to Iran\u2019s Tasnim News Agency, deny that Ansarallah launched missiles at the United Arab Emirates\nThe missiles were launched at Saudi positions inside Yemen.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-18T16:17:10+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "U.S. Ambassador to India Sergio Gor calls Jammu and Kashmir \u201can important part of India.\u201d",
+      "text": "Israeli Chief of Staff Eyal Zamir:\nWe see what is happening and are closely monitoring the changes on the Syrian front \u2014 we must prepare accordingly. \nWe will not allow hostile forces to establish themselves along our borders, and we know how to employ our power precisely where and when necessary. \nWe must prevent the development of terrorist threats, while at the same time preventing the emergence of a significant military threat along our borders.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-19T13:44:51+00:00",
+      "timestamp": "2026-08-19T15:43:40+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -400,26 +382,6 @@
         "Clash Report"
       ],
       "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Yemen\u2019s Houthis say they have established three key deterrence equations:\nBlockade for blockade: preventing Saudi maritime traffic from passing.\nTargeting Saudi military buildups: striking forces and equipment wherever they are deployed.\nDefending Yemeni sovereignty: confronting any violation of Yemen\u2019s territory or airspace.\nFrom July 20 to August 19, Yemen\u2019s Houthis say they targeted eight Saudi oil vessels\u2014five in the Red Sea and three in the Gulf of Aden and Arabian Sea\u2014and forced 48 others to turn back.\nThey also report carrying out nine operations in response to attacks on Sana\u2019a Airport and Hodeidah Port, targeting locations including Yanbu, Najran, Jizan and Abha, as well as oil supplies in eastern Saudi Arabia.\nYemen\u2019s Houthis say they conducted another 14 operations against Saudi military buildups, equipment and transport vessels. They claim the attacks caused hundreds of casualties, destroyed equipment and storage facilities, sank or burned two military landing ships, and destroyed more than ten military boats.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-19T12:42:06+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Clash Report",
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -566,12 +528,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "Alsaa Plus EN"
+        "Alsaa Plus EN",
+        "Middle East Spectator"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -779,6 +742,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udd25Russian pincer putting Ukraine\u2019s last line of defense in the Donbass into a massive pocket\n\u00a0\nRussia\u2019s MoD just reported the liberation of Orekhovatka and Krasnopodolye \u2013 two settlements surrounding the Slavyansk-Kramatorsk agglomeration \u2013 twin \u201cFortress Belt\u201d cities serving as the last line of defense for Ukrainian forces in the Donbass.\n\ud83d\udccc Orekhovatka is situated ~8km southeast of the Slavyansk, cutting across the strategic E40 highway, and putting Russian forces within short-range artillery and drone strike range of the approaches to the city.\n\ud83d\udccc Krasnopodolye is about 44km southwest of Kramatorsk. It\u2019s capture forces the enemy to redeploy troops to prevent being flanked, and indicates that Russian troops are casting a large, kilometers-wide net around the twin cities \u2013 either in preparation to storm them, or envelop them into a strategic pocket and besiege them \u2013 preventing enemy forces from escaping or evacuating heavy equipment, or bringing supplies and reinforcements in.\n\ud83d\udcccThe Slavyansk-Kramatorsk agglomeration itself is ~40-45 km east of the administrative border with Dnepropetrovsk region in the west, and ~30-35 km south and southeast of the boundary with Kharkov region.\nOnce captured, it will signify the total collapse of Ukraine\u2019s defenses in the areas, fulfilling one of Russia\u2019s central war goals: control over all of Donetsk region as one of the four new regions integrated into the Russian Federation in late 2022, and the destruction of Ukraine\u2019s primary defensive line and logistical HQ in the east. Beyond these areas, terrain flattens significantly, favoring advance, and few deeply prepared urban defense networks exist.\nBut before that, Russia will have a tough fight ahead of it destroying the enemy Fortress Belt \u2013 built up over 12 years with generous Western assistance. The belt features multi-layered urban strongholds \u2013 industrial zones, factory complexes, multistorey basements converted into underground bunkers, tunnels and interconnected concrete firing points, extensive trench and barrier networks purportedly spanning hundreds of kilometers, minefields, anti-tank obstacles, etc.\n\ud83d\udd28 The built-up defensive line\u2019s very existence shows that Ukraine was being pumped up and prepared for war with Russia for more than a decade, even during the years that Moscow was still trying to bring a peaceable end to what was then seen as a smoldering civil conflict.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-19T16:04:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
