@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T07:56:02.455742+00:00",
+  "generated_at": "2026-08-19T08:48:21.670903+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -365,6 +365,44 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
+      "text": "Turkish drone strike neutralized 4 suspected pirates off Somalia after they hijacked a Turkish-owned cargo ship the day before.\nArmed men seized the MV Lutuf off Puntland on Aug 17. \nOn Aug 18, a Turkish drone struck four of them in a small boat near shore.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-19T08:40:50+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "China successfully launched the reusable Zhuque-3 on August 19, achieving its first successful land recovery of the rocket\u2019s first stage. \nThe milestone marks a major step forward for China\u2019s reusable-rocket technology and low-cost satellite launches.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-19T08:18:35+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
       "text": "A suspected drone crashed into the grounds of a police station in Arsin, Trabzon, T\u00fcrkiye, on August 18.\nNo one was injured, but three parked vehicles were damaged. \nAuthorities are investigating the drone\u2019s origin.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -418,26 +456,6 @@
         "Clash Report"
       ],
       "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Iranian Foreign Ministry spokesperson Esmaeil Baghaei has rejected the UAE\u2019s claim that missiles were launched from Iran towards the Gulf country.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-18T20:49:44+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Clash Report"
-      ],
-      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -584,13 +602,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
-        "Clash Report"
+        "Alsaa Plus EN"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -608,6 +625,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ufe0f\ud83c\udde8\ud83c\uddf3 China becomes the first country to recover orbital launch rockets with 2 distinct methods (one on sea, one on land).\nThe Zhuque-3, developed LandSpace, is also China\u2019s first reusable rocket.\n(The one that was caught at sea was developed by CASC, while LandSpace is a private firm).\nEdit: Americans online have begun coping by calling it AI or saying it\u2019s a straight copy of SpaceX as \u201cChina cannot innovate but only replicate.\u201d Cope harder",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-19T08:24:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
       ],
       "verified_source_count": 1
     },
