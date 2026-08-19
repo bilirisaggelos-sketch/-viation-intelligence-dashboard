@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T01:49:11.397067+00:00",
+  "generated_at": "2026-08-19T03:04:23.455053+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -245,25 +245,6 @@
       "verification_confidence": 100,
       "verified_sources": [
         "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning",
-      "text": "UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning\nRussia accuses the UK of escalating the Ukraine war by supplying British-made drones as the prime minister vows to support Kyiv in its \"hour of need\".",
-      "source": "BBC",
-      "source_type": "osint",
-      "publisher": "BBC World News",
-      "severity": "info",
-      "icon": "\ud83d\udcf0",
-      "timestamp": "2026-08-18T12:36:11+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "BBC World News"
       ],
       "verified_source_count": 1
     },
@@ -616,12 +597,12 @@
     {
       "title": "Telegram",
       "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddf1\ud83c\udde7\ud83c\uddee\ud83c\uddf1Hezbollah released video footage showing attack drone operations targeting Israeli forces and vehicles on the southern outskirts of Zawtar al-Sharqiya days before the ceasefire.",
+      "text": "\u26a1\ud83c\udde6\ud83c\uddfa \ud83c\uddef\ud83c\uddf5 Japan will conduct tests of hypersonic missiles and other projectiles on Australian soil, the two countries\u2019 defence ministers said on Aug 18 as they discussed deepened military cooperation and a co-developed laser system.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-18T19:21:45+00:00",
+      "timestamp": "2026-08-19T02:08:05+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -686,6 +667,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udea8\ud83d\udd25 Hezbollah releases footage of Israeli forces obliterated in southern Lebanon\nThe Islamic Resistance published video from the final days before the ceasefire, showing the aftermath of their deadliest strikes against Israeli positions near Zawtar Al-Sharqiyah.\nThe footage shows:\n\ud83c\udf0f D9 bulldozers\u00a0\u2014 two separate hits\n\ud83c\udf0f Merkava tanks\u00a0\u2014 three confirmed strikes\n\ud83c\udf0f Camouflaged military vehicles\u00a0\u2014 three destroyed\n\ud83c\udf0f Military Humvee\u00a0\u2014 directly targeted\n\ud83c\udf0f Troop gatherings\u00a0\u2014 struck with a swarm of Ababil FPV drones\nThe last clip shows a swarm of FPV drones slamming into a concentration of IDF soldiers and vehicles just days before the truce took effect.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-19T02:23:23+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
