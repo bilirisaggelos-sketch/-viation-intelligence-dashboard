@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T14:00:15.557731+00:00",
+  "generated_at": "2026-08-19T14:47:28.556577+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -245,6 +245,25 @@
       "verification_confidence": 100,
       "verified_sources": [
         "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddea\ud83c\uddfa/\ud83c\uddee\ud83c\uddf7 NEW: In a statement, NATO says it is prepared to deal with any threat against its member states, emphasizing that NATO air defenses have already intercepted Iranian ballistic missiles on 4 occasions headed to Turkey in the past",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-19T14:32:59+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
       ],
       "verified_source_count": 1
     },
