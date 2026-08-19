@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T16:48:46.084873+00:00",
+  "generated_at": "2026-08-19T17:32:24.346332+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -425,6 +425,25 @@
     {
       "title": "Telegram",
       "publisher": "Our Wars Today",
+      "text": "\ud83c\uddfa\ud83c\udde6 \ud83e\udd16 Evacuation work with a friend, via instagram.com/bogdanzuyakov\nThe reality of the steady implementation of ground drones, following in the steps of aerial drones, is apparent in Ukraine. Aquatic drones grow in usage in unison. Robotic and autonomous warfare ad infinitum is upon us.\n#Ukraine #Drone #UGV #UGCV\nMore Coverage: T.me/ourwarstoday \n---\n24/7 LIVE News RSS feed: t.me/ournewsfeedtoday\n---\nFootage: t.me/ourwars\n---\nSupport OWT: https://ko-fi.com/ourwarstoday",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-19T17:04:37+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Our Wars Today"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Our Wars Today",
       "text": "[General Staff: Defense forces hit the ammunition warehouse and 5 drone control points of the occupiers](https://www.pravda.com.ua/news/2026/08/18/8049142/)\nOn August 17-18, Ukrainian troops hit an ammunition depot and six Russian control points. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://www.pravda.com.ua/news/2026/08/18/8049142/)\n\u0421\u0442\u0430\u043d\u0456\u0441\u043b\u0430\u0432 \u041f\u043e\u0433\u043e\u0440\u0456\u043b\u043e\u0432 | pravda\u200b.com\u200b.ua \u2022 Aug 18, 2026",
       "source": "Telegram",
       "source_type": "telegram",
@@ -591,6 +610,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "Actually the politics of the Arab world during the cold war were rather schizophrenic to an extent.\nFor example, Nasser was telling the Soviet Union that their investments in Syria will not be permanent (socially speaking) because Syrian society will never accept the principles of Baathism as a whole because it is too alien, synthetic, and fabricated, however, the Soviets said that the Baathists in Syria were the closest to establishing a workers society in the Arab world... considering that neither society currently exists, it is clear to who won that argument.\nI mean, the man was respected by the Socialist world, not because he was aurafarming, but because, to an extent, he actually knew what he was talking about, just because he lost one (1) war does not remove his legacy and invalidate his opinions, is Napoleon considered a runt because he lost Waterloo?\nIts almost funny... one of the four Mosques in Moscow were actually closed during the Soviet Era, however, in a visit to Moscow they opened it up so Nasser can pray there, he liked it so much, that the Russians just decided to keep it open because he preferred so, same thing in Yugoslavia, Nasser told Tito that he did not like the treatment of Bosnian Muslims, and reforms actually happened in the sixties in that republic because of this, a lot of Bosnians like Nasser for a reason.\nBut, back to the point, overall, it is just quite sad, what could have been was not meant to be, it simply was. Life moves in strange ways.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-19T16:50:45+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
       ],
       "verified_source_count": 1
     },
