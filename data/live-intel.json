@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T14:47:28.556577+00:00",
+  "generated_at": "2026-08-19T15:37:59.233502+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -245,6 +245,25 @@
       "verification_confidence": 100,
       "verified_sources": [
         "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Watch: SpaceX rocket spotted off Christmas Island coast",
+      "text": "Watch: SpaceX rocket spotted off Christmas Island coast\nA SpaceX rocket that blasted off from Texas in July and crashed into the Indian Ocean hadn't been seen since - but now Christmas Island residents say they have spotted it being towed just off their coast.",
+      "source": "BBC",
+      "source_type": "osint",
+      "publisher": "BBC World News",
+      "severity": "info",
+      "icon": "\ud83d\udcf0",
+      "timestamp": "2026-08-19T15:01:57+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "BBC World News"
       ],
       "verified_source_count": 1
     },
