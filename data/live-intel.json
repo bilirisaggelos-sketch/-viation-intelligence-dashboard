@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T06:04:57.994131+00:00",
+  "generated_at": "2026-08-19T07:08:11.499367+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -597,6 +597,25 @@
     {
       "title": "Telegram",
       "publisher": "Mediterranean Man",
+      "text": "\u26a1\ud83c\uddf1\ud83c\udde7\ud83c\uddee\ud83c\uddf1 An Israeli sky lark 3 drone is flying at extremely low altitude (1 meter above a roof) in the southern lebanese town of Harouf.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-19T06:29:26+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
       "text": "\u26a1\ud83c\udde6\ud83c\uddfa \ud83c\uddef\ud83c\uddf5 Japan will conduct tests of hypersonic missiles and other projectiles on Australian soil, the two countries\u2019 defence ministers said on Aug 18 as they discussed deepened military cooperation and a co-developed laser system.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -692,6 +711,44 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udcbf The drone swarm\u2019s new brain: memory that laughs at radiation and jamming\nDARPA just opened its wallet for another patent from Rice University\u2019s James Mitchell Tour, a chemist so cited he sits in the global top 10, and the man behind Flash Graphene, a trick that turns any carbon rubbish (plastic, leftovers, coal) into pure gold-grade material.\n\ud83d\udc49 Tour doesn't just publish, mostly he builds dozens of startups trace back to his lab. And the Pentagon keeps the pipeline flowing, as DARPA and the US Army Corps of Engineers are the key regulars on his grant list. For example, their latest payoff: superlattices purpose-built for autonomous weapons.\nThis time, the main topic for research is hafnium oxide, which normally just a boring insulator. But Tour\u2019s team found that when you grow it in atom-thin layers, separated by nanometer spacers of aluminum or zirconium oxide, something wakes up: it's ferroelectricity. The material starts flipping its internal polarization at the slightest voltage, holding that state like a magnetic switch: no power, no problem.\n\u27a1\ufe0f To bake this stuff, it normally takes hours in a furnace. Try that on top of a finished silicon processor, and the transistors melt while the superlattice crumbles.\nTour\u2019s fix marks his trademark pulse of current. A massive jolt sends the structure to 900\u00b0C in a split second, then cools it just as fast. The right state gets frozen in, while everything else stays intact.\n\ud83d\udc41 The patent reads like sci-fi: under 3 volts (flash needs 20), nanosecond switching, over 100 million rewrite cycles, with a trillion in sight, and data retention north of a decade.\nThe thing is the accelerated testing at 125\u00b0C with strict signal standards cuts life expectancy to about 2 years. This is unacceptable for phones but perfect for a loitering munition: 2 years in a bunker, 20 the air.\nToday\u2019s NAND and DRAM memories crumble under radiation and heat. Fly a drone into heavy EW clutter, lose the link, lose the data \u2014 lose the mission. That\u2019s exactly why DARPA is all in this research. No more shuttling weights between processor and storage. The AI stays where it fights: right inside the chip.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-19T07:05:17+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udea8\ud83c\uddf7\ud83c\uddfa Night fire: Russian missiles and drones back in the fight\nRussian forces hammered Ukrainian-linked targets overnight, according to monitoring reports, unleashing a wave of missile and drone strikes across multiple regions.\nKey hits include:\n\ud83c\udf0f Odessa region: UAV swarm struck Illyechevsk and the Yuzhny Black Sea port, igniting fires at multiple impact points;\n\ud83c\udf0f Zaporozhye: drones hit targets just before midnight, with blazes flaring up soon after;\n\ud83c\udf0f Kharkov region: Ukrainian troops positions came under fire in Volchy Yar, Balakleya, and Barvinkovoye. In Volchy Yar, jet-powered drones sparked a major fire;\n\ud83c\udf0f An Iskander-M strike was recorded in Krasnopavlovka, Kharkov region, with Ukrainian monitors reporting at least one missile carrying a cluster warhead;\n\ud83c\udf0f Lone drones and small UAV groups also hit targets in the Black Sea, Kherson, Chernigov, Sumy, and Poltava regions, as well as Ukrainian-held parts of Donbass. \n\ud83c\udf0f In turn, Russia's Defense Ministry confirmed the strikes destroyed fuel depots at Chernomorsk port and sank a dry cargo vessel in the Black Sea.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-19T06:30:55+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
       "text": "\ud83d\udea8\ud83d\udd25 Hezbollah releases footage of Israeli forces obliterated in southern Lebanon\nThe Islamic Resistance published video from the final days before the ceasefire, showing the aftermath of their deadliest strikes against Israeli positions near Zawtar Al-Sharqiyah.\nThe footage shows:\n\ud83c\udf0f D9 bulldozers\u00a0\u2014 two separate hits\n\ud83c\udf0f Merkava tanks\u00a0\u2014 three confirmed strikes\n\ud83c\udf0f Camouflaged military vehicles\u00a0\u2014 three destroyed\n\ud83c\udf0f Military Humvee\u00a0\u2014 directly targeted\n\ud83c\udf0f Troop gatherings\u00a0\u2014 struck with a swarm of Ababil FPV drones\nThe last clip shows a swarm of FPV drones slamming into a concentration of IDF soldiers and vehicles just days before the truce took effect.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
@@ -755,25 +812,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-18T18:33:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83e\udd7a\ud83d\ude80 'Give us missiles' one more time\nSeems that CNN serves up yet another plea-for-arms reel out of Ukraine, filming Patriot launchers parked idle near Kiev, because no one can deliver the ammunition Zelensky's mafia so desperately needs.\nBut here's the problem: US is now has to search for the very same thing. A deepening missile crunch, brought on by its aggression against Iran, has left America's own stockpiles running on empty.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-18T12:30:56+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
