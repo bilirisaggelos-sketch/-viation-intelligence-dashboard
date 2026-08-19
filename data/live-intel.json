@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T00:00:19.296832+00:00",
+  "generated_at": "2026-08-19T01:49:11.397067+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -106,25 +106,6 @@
       "icon": "\ud83d\udea8",
       "timestamp": "08/14/2026",
       "location": "ZMP IA",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nWilliamsport, PA, Tuesday, August 18, 2026 through Tuesday, August 18, 2026 Local\nFacility: ZNY",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "08/14/2026",
-      "location": "ZNY PA",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
@@ -402,25 +383,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf1/\ud83c\uddf9\ud83c\uddf7/\ud83c\uddf8\ud83c\uddfe NEW: Hours after the Israeli strikes on Abu Dhuhur Military Airport in Idlib, secondary explosions are now happening",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-18T12:39:13+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Clash Report",
       "text": "Iranian Foreign Ministry spokesperson Esmaeil Baghaei has rejected the UAE\u2019s claim that missiles were launched from Iran towards the Gulf country.",
       "source": "Telegram",
@@ -672,25 +634,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ufe0f\ud83c\uddf9\ud83c\uddf7\ud83c\uddee\ud83c\uddf1\ud83c\uddf8\ud83c\uddfe Israeli warplanes have bombed Turkish military assets in Syria at Abu al-Duhur military airport.\nTurkey has denied having any military presence at that airport.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-18T17:49:50+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "CASELS",
       "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf6\u2600\ufe0f Local media outlet Kurdish Channel 8, citing a civil defense source, denies the report of a drone attack, stating the cause of a fire was a fuel depot explosion.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
@@ -743,6 +686,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udd0d\u2694\ufe0f US believes Netanyahu attacked Syria to save his election\nIsrael bombed the Abu al-Duhur airbase in northern Syria, 70 km from Turkey, damaging the runways. \nUS Ambassador to Turkey Tom Barrack publicly confirmed that Israel was responsible for the attack and condemned it as \"an unnecessary escalation.\"\n\ud83d\udd34 The government of Syrian terrorist-turned-President Ahmed al-Sharaa (aka Nusra Front leader Abu al-Julani) had sought de-escalation and a coordination mechanism with Israel, but Israel refused to implement it and increased incursions into southern Syria.\n\ud83d\udd34 Some senior US officials believe the strike was partly motivated by Israel's upcoming October election.\n\ud83d\udd34 According to Axios, the Trump administration has urged Syria to show restraint and has told officials that tensions may be easier to address after the Israeli election.\nThe US is being dragged along by Netanyahu's campaign strategy, and the region is paying the price. The empire's ally is bombing for votes, and the empire can't stop it.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-19T00:34:56+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
@@ -831,25 +793,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-18T09:35:24+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udea8\ud83e\ude96 Houthis going ballistic from Bab al-Mandab Strait to Saudi heartland\nYemen\u2019s besandaled holy warriors have made good on their promises of tit-for-tat \u201cescalation for escalation\u201d following[ the July 13 Saudi airstrike in Sanaa](https://t.me/geopolitics_prime/72020), which kicked off an unprecedentedly fierce round of regional fighting.\nIn the past few days alone, the Houthis have:\n\ud83d\udca5 targeted a Saudi military landing ship and four escorts[ near Bab el-Mandeb Strait off Mokha using ballistic missiles ](https://t.me/geopolitics_prime/73504)\n\ud83d\udca5subjected camps and command nodes of Saudi puppet government forces in oil-rich Marib and Hadramaut in the east and the Mokha port in the west to repeated missile and drone bombardments, completely halting the port\u2019s operations\n\ud83d\udca5targeted enemy forces on Al-Mayun \u2013 a volcanic island in Bab el-Mandeb off Yemen\u2019s southwest coast which has a military airfield on it recently built by the Emiratis\n\ud83d\udca5 cut off enemy supply lines on the Marib front\n\ud83d\udca5 targeted Saudi Aramco facilities deep inside the Saudi heartland\n\ud83d\udca5 continued their de facto blockade of the Red Sea to Saudi crude oil, paralyzing the kingdom\u2019s exports and [forcing Riyadh to resort to dark fleet tactics](https://t.me/geopolitics_prime/73428)\n\ud83d\udca5engaged in fierce fighting with puppet government forces across the front, with enemy media reporting 181 military operations in just 24 hours over the weekend\n\u201cThere is a clear and consistent Yemeni equation called \u2018siege for siege\u2019. Another equation supports it: \u2018escalation for escalation\u2019,\u201d Houthi deputy information minister Tawfiq al-Hamiri told Tasnim.\n\ud83d\udcac \u201cThese two equations have shattered the bones of Saudi Arabia. Yemen emphasizes its full right to exercise sovereignty over its territory, and Sanaa\u2019s forces follow this approach on a broad scale. Any aggressive operations against the territory and airspace of the republic are responded to with continuous attacks and immediate deterrence. The same approach is followed in our territorial waters.\u201d\nSaudi Arabia\u2019s newfound allies? Still nowhere [to be found amid the escalation.](https://t.me/geopolitics_prime/73473)\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-18T06:34:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
