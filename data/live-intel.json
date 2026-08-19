@@ -1,6 +1,25 @@
 {
-  "generated_at": "2026-08-19T16:04:37.153184+00:00",
+  "generated_at": "2026-08-19T16:48:46.084873+00:00",
   "events": [
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nDestin, FL, Wednesday, August 19, 2026 Local\nFacility: ZJX",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "08/19/2026",
+      "location": "ZJX FL",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nDestin, FL, Wednesday, August 19, 2026 Local\nFacility: ZJX",
@@ -317,12 +336,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
+        "Mediterranean Man",
         "Middle East Spectator"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -363,6 +383,25 @@
         "Middle East Spectator"
       ],
       "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Iranian General Mohammad Reza Naqdi:\nThe Strait of Hormuz will never lose its importance. This is where oil and gas are produced\u2014the Persian Gulf itself is a center of oil and gas production.\nYou can\u2019t pull the oil wells out of the ground and move them somewhere else. At most, instead of loading it onto ships, they can put it through pipelines and take it somewhere else. \nBut those pipelines are still vulnerable\u2014they can still be struck and damaged. It\u2019s not as though they can simply solve the problem that way. \nBuilding that infrastructure would also take years. And many products aren\u2019t easily transferable at all. Gas, for example, requires complex and expensive processing and infrastructure. \nSo it\u2019s not as though they can make themselves independent of this region.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-19T16:45:17+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -558,6 +597,45 @@
     {
       "title": "Telegram",
       "publisher": "Mediterranean Man",
+      "text": "\u26a1\ufe0f\ud83c\uddfe\ud83c\uddea\ud83c\uddf8\ud83c\udde6The Yemeni armed forces have launched a missile towards Saudi Arabian troop concentrations",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-19T16:21:14+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Mediterranean Man",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf3 India\u2019s Reliance Industries and British aerospace company Rolls-Royce have\u00a0announced their intent to partner on the co-development and manufacture of a sovereign indigenous combat aircraft engine for the country\u2019s\u00a0Advanced Medium Combat Aircraft\u00a0(AMCA) program.\nThe proposed engine is reported to deliver more than 120 kilonewtons of thrust and is intended to power the AMCA Mk2, the more advanced variant of the indigenous stealth fighter expected to enter production in the late 2030s.\nRolls-Royce has previously\u00a0said the new engine would be designed and developed in India, with the country receiving full technology transfer and control over the intellectual property developed under the project.\nSuch ownership would give New Delhi greater freedom to upgrade, modify, manufacture, and maintain the engine throughout its service life without relying on its foreign partner for every major change.\nThe engine is expected to make its first test flight in 2034 and enter production by 2036.\n(Idk how Rolls Royce plans to focus on this engine considering they're also developing 2 different jet engines for Germany's UCAV and Germany's 6th gen fighter)",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-19T16:10:04+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
       "text": "\u26a1\ufe0f\ud83c\udde8\ud83c\uddf3 China becomes the first country to recover orbital launch rockets with 2 distinct methods (one on sea, one on land).\nThe Zhuque-3, developed LandSpace, is also China\u2019s first reusable rocket.\n(The one that was caught at sea was developed by CASC, while LandSpace is a private firm).\nEdit: Americans online have begun coping by calling it AI or saying it\u2019s a straight copy of SpaceX as \u201cChina cannot innovate but only replicate.\u201d Cope harder",
       "source": "Telegram",
       "source_type": "telegram",
@@ -742,6 +820,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udea8 Blast hits National Police headquarters in Ukraine\u2019s Zhitomir\nA rocket and drone strike targeted military and industrial infrastructure in the city, preliminary reports show. \nThe Russian Defense Ministry earlier reported strikes on Ukrainian military-industrial, energy, and transport infrastructure.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-19T16:14:05+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
