@@ -1,6 +1,25 @@
 {
-  "generated_at": "2026-08-19T20:01:06.825273+00:00",
+  "generated_at": "2026-08-19T20:47:37.616403+00:00",
   "events": [
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nDestin, FL, Thursday, August 20, 2026 Local\nFacility: ZJX",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "08/19/2026",
+      "location": "ZJX FL",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nDestin, FL, Wednesday, August 19, 2026 Local\nFacility: ZJX",
@@ -250,7 +269,7 @@
     },
     {
       "title": "Watch: SpaceX rocket spotted off Christmas Island coast",
-      "text": "Watch: SpaceX rocket spotted off Christmas Island coast\nA SpaceX rocket that blasted off from Texas in July and crashed into the Indian Ocean hadn't been seen since - but now Christmas Island residents say they have spotted it being towed just off their coast.",
+      "text": "Watch: SpaceX rocket spotted off Christmas Island coast\nA SpaceX rocket that blasted off from Texas in July, and crashed into the Indian Ocean, made an unexpected appearance off Christmas Island.",
       "source": "BBC",
       "source_type": "osint",
       "publisher": "BBC World News",
@@ -364,6 +383,25 @@
         "Middle East Spectator"
       ],
       "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "U.S. Ambassador to Israel Mike Huckabee on Iran:\nThe Iranians have been kicked in the butt twice. You would think that after that they might begin to learn that President Trump is serious when it comes to taking military action when he thinks it's the only option.\nHe has expressed to them that if they're unwilling to give up their nuclear weapons ambitions and their enrichment ambitions and if they're unwilling to open up the Strait of Hormuz, then major combat is on the table. \nIs that what he's going to do? I can't answer that because he is the only person elected and the only person who's authorized to make the decision and then to carry it out. \nBut I trust his instincts. He's had good instincts on this issue.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-19T20:34:05+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -801,6 +839,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83e\udd21\ud83d\udd0a Trump: We'll suddenly win or we'll keep losing\nThe president admits there's no clear way out for the US in Iran.\n\"It'll either be extremely good and oil prices are going to drop like a rock, or we'll continue to do exactly what we're doing.\"\nThe only certainty is more of the same.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-19T20:43:58+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
