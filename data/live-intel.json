@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T13:11:50.451300+00:00",
+  "generated_at": "2026-08-19T14:00:15.557731+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -341,6 +341,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "U.S. Ambassador to India Sergio Gor calls Jammu and Kashmir \u201can important part of India.\u201d",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-19T13:44:51+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
       ],
       "verified_source_count": 1
     },
