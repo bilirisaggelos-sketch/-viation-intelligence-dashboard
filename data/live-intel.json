@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T17:32:24.346332+00:00",
+  "generated_at": "2026-08-19T18:01:14.860893+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -173,6 +173,25 @@
       "verified_source_count": 1
     },
     {
+      "title": "Space Weather Message Code: WARK04\r",
+      "text": "Space Weather Message Code: WARK04\r\nSerial Number: 5406\r\nIssue Time: 2026 Aug 19 1757 UTC\r\n\r\nEXTENDED WARNING: Geomagnetic K-index of 4 expected\nExtension to Serial Number: 5405\nValid From: 2026 Aug 17 2101 UTC\nNow Valid Until: 2026 Aug 20 0900 UTC\nWarning Condition: Persistence\n\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-08-19 17:57:55.430",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
       "title": "Space Weather Message Code: ALTK05\r",
       "text": "Space Weather Message Code: ALTK05\r\nSerial Number: 2047\r\nIssue Time: 2026 Aug 19 0545 UTC\r\n\r\nALERT: Geomagnetic K-index of 5 \nThreshold Reached: 2026 Aug 19 0545 UTC\nSynoptic Period: 0300-0600\nActive Warning: YES\nNoaa Scale: G1 - Minor\nComment: \r\n\r\nNOAA Scale: G1 - Minor\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
       "source": "NOAA Space Weather",
@@ -238,25 +257,6 @@
       "severity": "warning",
       "icon": "\ud83d\udef0\ufe0f",
       "timestamp": "2026-08-18 20:43:17.463",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Space Weather Message Code: WARK04\r",
-      "text": "Space Weather Message Code: WARK04\r\nSerial Number: 5404\r\nIssue Time: 2026 Aug 18 1431 UTC\r\n\r\nEXTENDED WARNING: Geomagnetic K-index of 4 expected\nExtension to Serial Number: 5403\nValid From: 2026 Aug 17 2101 UTC\nNow Valid Until: 2026 Aug 18 2359 UTC\nWarning Condition: Persistence\n\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-08-18 14:31:43.380",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -610,6 +610,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\ud83c\uddea\ud83c\uddfa\ud83c\uddfa\ud83c\uddf8\ud83c\uddf7\ud83c\uddfa NATO has developed a plan for ground combat operations in the event of a large-scale Russian attack on Alliance countries\n\u2013 Bild.\nNATO's first task is to suppress missile strikes. Fighters, missiles and drones will be deployed to disable Russian missile systems.\nOne of the targets is the Kaliningrad region, where Russia has stationed a significant number of anti-aircraft and missile systems.\nSimultaneously, on the borders with Russia and Belarus, NATO plans to create a so-called \"autonomous zone.\"\nIt is meant to serve as a protective barrier between Russian forces and those of the North Atlantic Alliance.\nIn this zone, drones and unmanned military vehicles should operate primarily.\nNATO military personnel should not be stationed there.\nIf Russian troops continue their offensive, unmanned systems are to be used to deter and stop them.\nThe next stage could involve striking targets already on Russian territory.\nThis refers to military-logistical infrastructure supplying Russian forces. Targets include airfields, military factories, bridges and railways used to transport troops and materiel to the front.\nThe Alliance also plans to rely on Russians who are opposed to the authorities.\nA separate element of the plan is the creation of an \"air bridge.\" Through it, aircraft are to deliver drones and robotic systems into Russia, which could be used to destroy military bases and airfields.\nAt the same time, the concept notes: NATO does not aim to conquer Russia. The goal is to stop and push back advancing Russian troops to Russia's borders.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-19T17:43:02+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
       ],
       "verified_source_count": 1
     },
@@ -984,25 +1003,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-18T20:05:24+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udee2 Pakistan's US oil imports rise\u2014along with its dollar debt to Washington\nPakistan's refiner Cnergyico purchased US crude for the first time last year and has since imported about 8.1 million barrels over nine months, of which 7.1 million, worth $750 million, came in the last fiscal year. The company is considering both spot and long-term contracts.\n\ud83d\udc49 The reason is necessity. About 90% of Pakistan's oil and LNG imports passed through the Strait of Hormuz. The US war with Iran disrupted shipping, threatening\u043c supplies from Saudi Arabia and the UAE. Islamabad turned to the US market\u2014the same player whose actions caused the blockade.\nPakistan has a trade surplus with the US, largely from textiles (74% of exports). The Trump administration used this to impose high duties\u2014Pakistan faced a 29% tariff, later reduced to 19%. By increasing US oil purchases, Islamabad hopes to narrow the gap and gain tariff relief.\n\ud83d\udcc8 However, this creates a growing dependence. Central bank data shows Pakistan's payments for US imports rose by $914 million to $3.27 billion last fiscal year, with Cnergyico accounting for about 80% of the increase. Islamabad also proposed an EXIM Bank facility with payment deferrals of up to three years, but critics warn dollar-denominated lending increases external debt and risks.\nCnergyico plans $1.2 billion in upgrades, including a second mooring for large tankers, to boost capacity to 200,000 bpd. But these investments serve US export logistics, not Pakistan's energy independence. The country is trading Gulf dependence for Washington's\u2014on less favorable terms.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-18T18:33:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
