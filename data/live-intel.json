@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T12:02:40.432563+00:00",
+  "generated_at": "2026-08-19T13:11:50.451300+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -251,6 +251,26 @@
     {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
+      "text": "\u2014 \ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea Statement by the Yemeni Armed Forces:\n\u2018The Yemeni Armed Forces have become so powerful that we are now dictating terms. With God's help, we have established three principles: \nFirst, a blockade for a blockade, whereby we have imposed a strict siege on the Saudi enemy, preventing even a single ship from passing through. Second, striking Saudi troop concentrations wherever they may be. Third, protecting Yemen's sovereignty and confronting any enemy airspace incursions. \nIn implementing this blockade for a blockade, from the declaration of the maritime embargo against the Saudi enemy on July 20th until today, the Yemeni Armed Forces have targeted eight Saudi oil tankers: five in the Red Sea and three in the Gulf of Aden and the Arabian Sea. \nAdditionally, 48 Saudi oil tankers were prevented from passing and forced to turn back, including 34 in the Arabian Sea and the Indian Ocean, and 14 in the Red Sea. \nIn response to the Saudi aggression against Sana'a Airport and Hodeidah Port, and to reinforce the principle of protecting Yemeni sovereignty from violations of our country's airspace, particularly in the governorates of Sa'dah and Hajjah, the Yemeni Armed Forces carried out nine military operations targeting Yanbu, Najran, Jizan, Abha, and oil supply lines in the Eastern Province. \nFurthermore, to solidify the principle of targeting Saudi troop concentrations wherever they may be, the Armed Forces conducted fourteen military operations targeting Saudi enemy troop concentrations in Al-Ruwaik, Al-Abr, Al-Wadi'ah, Ma'rib, and Al-Mukha, as well as ships and boats transporting equipment and reinforcements belonging to the Saudi enemy. \nThe results of these operations included the death and injury of hundreds of Saudi enemy troops, including commanders and officers; the burning and destruction of a large number of warehouses and equipment belonging to the Saudi enemy; the sinking and burning of two military landing ships transporting Saudi weapons and reinforcements in Al-Mukha; the burning and sinking of more than ten ships belonging to the Saudi enemy, which were engaged in acts of piracy, banditry, and looting in the Red Sea under Saudi directives. \nWe warn the Saudi regime against the dangers of any escalation. Any escalation will be met with a comprehensive response. The Saudi regime has no option but to lift the blockade, implement the agreements reached, end the aggression, pay salaries, allow the occupiers to leave, and return the wealth of the Yemeni people to all of us. We advise those of our countrymen who have been misled to return and leave the enemy camps, because they are Yemenis, and we do not want to target them or make them victims.\u2019",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-19T12:50:41+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Clash Report",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
       "text": "\u2014 \ud83c\udde6\ud83c\uddea/\ud83c\uddee\ud83c\uddf7 NEW: Iran\u2019s Foreign Ministry denies that any missiles were launched at the United Arab Emirates today",
       "source": "Telegram",
       "source_type": "telegram",
@@ -326,79 +346,23 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddfe\ud83c\uddea/\ud83c\uddf8\ud83c\udde6 NEW: Yemen\u2019s Ansarallah targeted the Aramco refinery in Jazan, Saudi Arabia, with drones earlier today, in response to airspace violations",
+      "publisher": "Clash Report",
+      "text": "Yemen\u2019s Houthis say they have established three key deterrence equations:\nBlockade for blockade: preventing Saudi maritime traffic from passing.\nTargeting Saudi military buildups: striking forces and equipment wherever they are deployed.\nDefending Yemeni sovereignty: confronting any violation of Yemen\u2019s territory or airspace.\nFrom July 20 to August 19, Yemen\u2019s Houthis say they targeted eight Saudi oil vessels\u2014five in the Red Sea and three in the Gulf of Aden and Arabian Sea\u2014and forced 48 others to turn back.\nThey also report carrying out nine operations in response to attacks on Sana\u2019a Airport and Hodeidah Port, targeting locations including Yanbu, Najran, Jizan and Abha, as well as oil supplies in eastern Saudi Arabia.\nYemen\u2019s Houthis say they conducted another 14 operations against Saudi military buildups, equipment and transport vessels. They claim the attacks caused hundreds of casualties, destroyed equipment and storage facilities, sank or burned two military landing ships, and destroyed more than ten military boats.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-18T13:57:19+00:00",
+      "timestamp": "2026-08-19T12:42:06+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
+        "Clash Report",
         "Middle East Spectator"
       ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf1/\ud83c\uddf9\ud83c\uddf7/\ud83c\uddf8\ud83c\uddfe Ammunitions cookoff at the military airport in Idlib, Syria",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-18T12:42:13+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Former CIA Officer John Kiriakou:\nI am a Greek citizen. Now, the AIPAC people are accusing me of somehow secretly working for the Turkish government. \nI have said repeatedly that God forbid someday Greece and T\u00fcrkiye were to ever go to war, which is highly unlikely. Even at my age, I would volunteer to serve in the Greek Armed Forces.\nI can have dinner with anybody I want, and I'm not asking Benjamin Netanyahu's permission to do it.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-19T09:48:25+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Taiwan has detained two executives over allegations that Chinese-made chips and flight-control boards were secretly used in military training drones supplied to the Army.\nInvestigators also accuse the companies of falsifying certificates of origin and concealing Chinese components, raising national-security concerns over defense procurement.\nSource: Taiwan News",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-19T09:03:48+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
