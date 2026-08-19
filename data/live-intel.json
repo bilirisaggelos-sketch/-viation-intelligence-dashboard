@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T04:01:13.461402+00:00",
+  "generated_at": "2026-08-19T04:53:57.851110+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -616,12 +616,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf6\u2600\ufe0f Local media outlet Kurdish Channel 8, citing a civil defense source, denies the report of a drone attack, stating the cause of a fire was a fuel depot explosion.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "Ukraine\u2019s Hrim UAV unit says its Klever crew used a STING interceptor to down a Russian ZALA Z-20 reconnaissance drone at 7,427 meters, setting a new recorded altitude record. The previous STING record was 6,955 meters against a Shahed in early August.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-18T02:38:27+00:00",
+      "timestamp": "2026-08-19T04:53:48+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -635,12 +635,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf6\ud83c\udff3\ufe0fReports indicate a drone strike in Suleymaniyah, Iraq, showing that a fire broke out in the area. \n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "\u2757\ufe0fRussia is shipping TNT, ammunition and drone components to Iran through the Caspian Sea, helping Tehran rebuild its missile and drone arsenal after U.S. and Israeli strikes, according to a European government document obtained by NBC News and verified by a Western official. The document indicates the shipments continued or resumed, but Western intelligence has not publicly assessed how much material has been transferred or how far Iran has progressed in replenishing its stocks.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-18T02:38:22+00:00",
+      "timestamp": "2026-08-19T04:53:04+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -654,12 +654,126 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddf8\ud83c\udde9\ud83c\udde6\ud83c\uddea A Sudanese Army AKINCI drone reportedly shot down another Chinese-made CH-95 drone operated by the UAE-backed RSF in an air-to-air engagement.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "Additional satellite imagery shows the scale of damage at RKC Progress in Samara following the August 15 Flamingo missile strike. The imagery shows extensive roof destruction, with the heavily damaged section of the production building marked at roughly 85 by 35 meters.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-18T02:35:56+00:00",
+      "timestamp": "2026-08-19T04:52:56+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "\u2757\ufe0fTwo FP-5 Flamingo missiles struck RKC Progress in Samara on August 15, heavily damaging Building 106A, Exilenova+ reports. The building handles onboard electrical equipment, control systems, cable networks and instrument sections for Soyuz-2 rockets. Russia uses Soyuz-2 to launch military reconnaissance and targeting satellites, as well as Bureau 1440's Rassvet satellites. Russia has no full alternative to this production.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-19T04:52:23+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "Ukrainian drones struck a Russian ammunition depot in Yalynske, Donetsk region, on August 15. Two UAVs were reportedly used in the attack. The resulting fire spread through the facility and was followed by the detonation of ammunition stored at the depot. No further details on the extent of the damage were provided.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-19T04:51:22+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "Ukrainian drones damaged power equipment in Moscow region\u2019s Pavlovsky Posad district, cutting electricity to more than 10,000 consumers and 46 socially important facilities, Mosoblenergo says. Agentstvo reports this is the first such incident in Moscow region since the start of 2026.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-19T04:51:19+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "\u2757\ufe0fMoscow faced its largest drone attack in two years, according to Russian sources. Mayor Sergei Sobyanin claimed 627 UAVs headed toward the capital, with around 180 downed over the Moscow region. Local reports cited a fire near the Kapotnya refinery, a strike on a Wildberries warehouse, damage to homes, vehicles and a transformer substation, while all four Moscow airports faced restrictions. The attack is still ongoing.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-19T04:48:30+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "Ukraine\u2019s Air Force says Russia launched 147 drones overnight, including Shahed and jet-powered variants, Gerbera and Parodiya decoys. Air defenses downed or suppressed 111 drones across northern, southern and eastern Ukraine. Drone impacts were recorded at 19 locations, with debris falling at three.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-19T04:48:25+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "Israel confirms it was behind overnight airstrikes against a Syrian military airport, where it claims Turkey was planning to deploy forces.\n\"Israel and Syria agreed to a status quo in security matters, which Syria was on the verge of breaching by permitting Turkish troops to deploy at an airbase near Aleppo,\" says Prime Minister Benjamin Netanyahu's office in an English-language statement.\nThe Prime Minister's Office says Israel \"repeatedly warned Syria that such a deployment would pose a threat to Israel's security.\"\n\"Syria chose to ignore these warnings,\" the PMO says, adding a that Israel \"will not tolerate threats to its security, and would welcome a return to the status quo.\"",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-19T04:45:57+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
