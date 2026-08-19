@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T03:04:23.455053+00:00",
+  "generated_at": "2026-08-19T04:01:13.461402+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -774,25 +774,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-18T11:07:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\u26f4 Saudis activate dark fleet after being caught in Houthi-Hormuz pincer\nSaudi Aramco has begun selling oil on a \u201cship-to-ship basis\u201d from off the Gulf of Oman, US business media reports, citing sources familiar with the operations.\n\ud83d\udc49 The process involves \u201cshuttling\u201d \u2013 the use of small tankers to quietly ferry crude (in this case Arab Medium and Arab Heavy) out of the dangerous and restricted waters of the Persian Gulf, before transferring it to larger tankers once in a safer location.\nSatellite snaps analyzed by Bloomberg apparently saw a major uptick in activity at Saudi Arabia\u2019s Gulf ports, with vessels with 9M+ barrels\u2019 worth of capacity spotted near Ras Tanura over the past week, and a \u201clarge cluster\u201d of supertankers seen loitering just outside the Gulf.\n\ud83d\udcca That\u2019s a far cry from the estimated 7M bpd in exports the country was enjoying before the start of the Hormuz crisis, and the Houthis\u2019 counterblockade in the Red Sea. Still, it\u2019s better than nothing for a country where oil accounts for ~60% of the state budget.\nBloomberg characterizes Saudi shuttling as a noble gesture \u201chelping to keep a lid on oil prices and assuaging fears of an energy-driven inflation spike,\u201d although apparently it\u2019s blatantly illegal, [sanctions-skirting activity when countries like Iran, Russia and Venezuela do it.](https://t.me/geopolitics_prime/64683)\nRiyadh\u2019s desperate move comes amid the renewed[ escalation of the Yemen war, ](https://t.me/geopolitics_prime/73504)which a Gulf coalition first waded into in 2015, along with Trump\u2019s ongoing war with Iran,[ which has left ~20M bpd in daily maritime oil shipments](https://t.me/geopolitics_prime/73501) trapped in the Gulf and clawing for alternative routes.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-18T09:35:24+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
