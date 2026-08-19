@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T21:31:44.307814+00:00",
+  "generated_at": "2026-08-19T22:02:34.134910+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -334,26 +334,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-18T21:29:08+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf7/\ud83c\udde6\ud83c\uddea UAE Ministry of Defense in a statement:\n\u200e\u2019The Ministry of Defense announces that the UAE air defenses detected two ballistic missiles launched from Iran toward the country, with the first falling outside the country's territorial waters, while the second fell within the territorial waters.\n\u200eThe Ministry of Defense confirms that it is on high alert and fully prepared to deal with any threats, and to firmly confront anything aimed at undermining the security of the state, thereby ensuring the preservation of its sovereignty, security, and stability, and protecting its interests and national capabilities.\n\u200eIt also urges the esteemed public to obtain all news from official sources in the country and to avoid rumors and false information.\u2019",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-18T16:38:30+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
