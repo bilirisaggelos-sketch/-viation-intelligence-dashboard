@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T23:10:02.437569+00:00",
+  "generated_at": "2026-08-19T23:40:00.499694+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -327,26 +327,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\udde6\ud83c\uddea/\ud83c\uddee\ud83c\uddf7 NEW: Iran\u2019s Foreign Ministry denies that any missiles were launched at the United Arab Emirates today",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-18T21:29:08+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
       "publisher": "Clash Report",
       "text": "NOW: Massive Russian missile attack on Kyiv overnight with multiple waves of ballistic and hypersonic missiles.\nResidents describe \"endless\" explosions among the loudest of the war.\nAt least 15-16 missiles tracked toward Kyiv in the first 20 minutes, including Iskander-M, North Korean KN-23, and 5-8 Zircon hypersonic missiles launched from multiple Russian regions simultaneously.\nThe attack exploits Ukraine's depleted Patriot interceptor stocks.",
       "source": "Telegram",
@@ -604,13 +584,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
-        "Middle East Spectator"
+        "Alsaa Plus EN"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
