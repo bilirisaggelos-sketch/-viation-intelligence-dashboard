@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T22:02:34.134910+00:00",
+  "generated_at": "2026-08-19T22:44:36.497989+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -634,6 +634,25 @@
     {
       "title": "Telegram",
       "publisher": "Mediterranean Man",
+      "text": "\u26a1\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfa In Kiev, the premises of a children's hospital have been damaged as a result of a Russian missile attack.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-19T22:09:37+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
       "text": "\u26a1\ufe0f\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6 Non-stop impacts on Kyiv by Russian ballistic missiles and hypersonics. The major attack of the night has just begun",
       "source": "Telegram",
       "source_type": "telegram",
@@ -964,25 +983,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-19T02:23:23+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udd0d\u2694\ufe0f US believes Netanyahu attacked Syria to save his election\nIsrael bombed the Abu al-Duhur airbase in northern Syria, 70 km from Turkey, damaging the runways. \nUS Ambassador to Turkey Tom Barrack publicly confirmed that Israel was responsible for the attack and condemned it as \"an unnecessary escalation.\"\n\ud83d\udd34 The government of Syrian terrorist-turned-President Ahmed al-Sharaa (aka Nusra Front leader Abu al-Julani) had sought de-escalation and a coordination mechanism with Israel, but Israel refused to implement it and increased incursions into southern Syria.\n\ud83d\udd34 Some senior US officials believe the strike was partly motivated by Israel's upcoming October election.\n\ud83d\udd34 According to Axios, the Trump administration has urged Syria to show restraint and has told officials that tensions may be easier to address after the Israeli election.\nThe US is being dragged along by Netanyahu's campaign strategy, and the region is paying the price. The empire's ally is bombing for votes, and the empire can't stop it.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-19T00:34:56+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
