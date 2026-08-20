@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T18:13:42.763785+00:00",
+  "generated_at": "2026-08-20T19:05:04.960815+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -222,14 +222,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "Clash Report",
         "Geopolitics Prime",
         "Middle East Spectator"
       ],
-      "verified_source_count": 3
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -291,6 +290,25 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
+      "text": "US Army Scraps Futuristic Drone Assault Battalion in Favor of Airborne Infantry\nThe Army will end its dedicated drone-assault mission of a 600-soldier battalion created in January to test unmanned warfare, returning to its core airborne infantry role.\n[READ MORE](https://clashreport.com/defense/articles/us-army-scraps-futuristic-drone-assault-battalion-in-favor-of-airborne-infantry-gzfqikbb5v8/)",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-20T18:55:46+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
       "text": "T\u00fcrkiye Slams Israel, Says Will Oppose Netanyahu\u2019s 'Destabilizing Acts'\nT\u00fcrkiye\u2019s communications chief Burhanettin Duran accused Benjamin Netanyahu of pursuing an \u201coccupier mentality\u201d and destabilizing the Middle East.\n[READ MORE](https://clashreport.com/world/articles/turkiye-slams-israel-says-will-oppose-netanyahus-destabilizing-acts-p4fpwbep4xs/)",
       "source": "Telegram",
       "source_type": "telegram",
@@ -309,60 +327,58 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Yemen's Houthis say they carried out two drone attacks targeting Abha airport and Aramco facilities in Saudi Arabia.",
+      "publisher": "Our Wars Today",
+      "text": "[ICE and Iran worked together to deport Iranians from U.S., newly released emails show](https://www.pbs.org/newshour/world/ice-and-iran-worked-together-to-deport-iranians-from-u-s-newly-released-emails-show)\nHundreds of emails exchanged between U.S. immigration officials, which were obtained by the National Iranian American Council and made public Tuesday, offer the most transparent play by play yet of how the two countries worked together to arrange for more than 100 Iranians to be flown back to Iran on three separate immigration flights in September and December 2025 and January 2026. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://www.pbs.org/newshour/world/ice-and-iran-worked-together-to-deport-iranians-from-u-s-newly-released-emails-show)\npbs\u200b.org \u2022 Aug 20, 2026",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-20T14:03:03+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
-      "verified_sources": [
-        "Clash Report",
-        "Geopolitics Prime",
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 3
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Trump:\nJames Braid, our Director of Legislative Affairs, will be leaving the White House in September.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-20T13:50:17+00:00",
+      "timestamp": "2026-08-20T18:54:31+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Clash Report"
+        "Our Wars Today"
       ],
       "verified_source_count": 1
     },
     {
       "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Romania deployed F-16 fighter jets to destroy a marine drone approaching the Neptun Deep offshore gas project in the Black Sea.\nOfficials said the drone threatened hundreds of workers and critical energy infrastructure.\nUkraine denied ownership, while Romania\u2019s president blamed Russia.",
+      "publisher": "Our Wars Today",
+      "text": "[North Korea fires barrage of missiles toward the sea after dismissing overture from Trump](https://www.pbs.org/newshour/world/north-korea-fires-barrage-of-missiles-toward-the-sea-after-dismissing-overture-from-trump)\nNorth Korea launched a barrage of ballistic missiles toward the sea on Thursday, South Korea's military said, a day after the North shrugged off a U.S. decision to scale back military drills with South Korea in an apparent bid to resume diplomacy. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://www.pbs.org/newshour/world/north-korea-fires-barrage-of-missiles-toward-the-sea-after-dismissing-overture-from-trump)\npbs\u200b.org \u2022 Aug 20, 2026",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-20T13:27:25+00:00",
+      "timestamp": "2026-08-20T18:51:48+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Clash Report"
+        "Our Wars Today"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Our Wars Today",
+      "text": "\u26a1\ufe0fUpdated: 2 dead in Russian [daytime strike](https://kyivindependent.com/russia-launches-deadly-strike-on-kyiv-killing-at-least-1-as-capital-reels-from-massive-overnight-attack/) on Kyiv. \nTwo victims in the city's Holosiivskyi district have been killed in Russia's daytime attack, which comes on the heels of a large-scale overnight missile barrage that killed 15 people and struck a children's hospital.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-20T18:45:45+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Our Wars Today"
       ],
       "verified_source_count": 1
     },
@@ -470,44 +486,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-18T01:26:48+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Our Wars Today"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Our Wars Today",
-      "text": "[\u26a1\ufe0f - Fire reported near Moscow as Ukraine launches dozens of drones towards Russian capital . Moscow Mayor Sergey Sobyan...](https://t.me/KyivIndependent_official/54848)\n\u26a1\ufe0fFire reported near Moscow\n[https://kyivindependent.com/fires-reported-near-moscow-as-ukraine-launches-dozens-of-drones-towards-russian-capital/]\nas Ukraine launches dozens of drones towards Russian capital.\nMoscow Mayor Sergey Sobyanin said that at least 63 Ukrainian drones were shot\ndown over the Moscow Oblast during the attack. \u2013 Join Telegrams:\nt.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013\nSupport OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://t.me/KyivIndependent_official/54848)\n | t\u200b.me \u2022 Aug 18, 2026",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-18T01:26:37+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Our Wars Today"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Our Wars Today",
-      "text": "[Kushner, Netanyahu agree on path forward for Gaza, Board of Peace official says](https://www.reuters.com/world/middle-east/kushner-netanyahu-agree-path-forward-gaza-board-peace-official-says-2026-08-17/)\nA meeting \u200bon Monday \u200cbetween Donald Trump's envoy \u200band son-in-law \u200bJared Kushner and \u2060Israeli \u200bPrime Minister Benjamin \u200bNetanyahu was \"lengthy, in depth, and \u200bvery \u200bproductive,\" a Board of \u200cPeace \u2060official said, adding that agreement \u200bwas \u200breached \u2060with Netanyahu on \u200ba path \u200bforward \u2060for the Gaza \u2060conflict. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://www.reuters.com/world/middle-east/kushner-netanyahu-agree-path-forward-gaza-board-peace-official-says-2026-08-17/)\nReuters | reuters\u200b.com \u2022 Aug 17, 2026",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-17T16:19:06+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -834,14 +812,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "Clash Report",
         "Geopolitics Prime",
         "Middle East Spectator"
       ],
-      "verified_source_count": 3
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
