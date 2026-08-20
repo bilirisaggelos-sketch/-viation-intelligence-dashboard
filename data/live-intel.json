@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T13:13:30.725392+00:00",
+  "generated_at": "2026-08-20T14:03:35.456400+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -308,6 +308,63 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
+      "text": "Yemen's Houthis say they carried out two drone attacks targeting Abha airport and Aramco facilities in Saudi Arabia.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-20T14:03:03+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Trump:\nJames Braid, our Director of Legislative Affairs, will be leaving the White House in September.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-20T13:50:17+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Romania deployed F-16 fighter jets to destroy a marine drone approaching the Neptun Deep offshore gas project in the Black Sea.\nOfficials said the drone threatened hundreds of workers and critical energy infrastructure.\nUkraine denied ownership, while Romania\u2019s president blamed Russia.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-20T13:27:25+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
       "text": "Israel\u2019s Ben-Gurion Airport was temporarily brought to a standstill after workers halted check-in and flights amid operational difficulties and complaints over heavy workloads. \nThe disruption came during the busy summer travel season, with about 100,000 passengers expected to pass through the airport. \nWorkers cited problems handling aircraft, baggage and passengers, worsened by a shortage of available parking stands.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -393,12 +450,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
+        "CASELS",
         "Our Wars Today"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -792,12 +850,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "CASELS"
+        "CASELS",
+        "Our Wars Today"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
