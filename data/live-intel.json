@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T14:03:35.456400+00:00",
+  "generated_at": "2026-08-20T14:57:05.294230+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -251,6 +251,27 @@
     {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea BREAKING: Yemen\u2019s Armed Forces announce carrying out two military operations in Saudi Arabia with drones\nThe first targeted a sensitive target at Najran Airport, and the second targeted Aramco facilities in Najran.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-20T14:19:06+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
+      "verified_sources": [
+        "Clash Report",
+        "Geopolitics Prime",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 3
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
       "text": "\u2014 \ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7 President Trump: \n\u2018We have posession, we completely control the Strait of Hormuz. Except for some minor nuisances.\nYou know, they shoot a drone every once in a while. Not everybody is going to go through, but they come through.\nOver the last few weeks, we\u2019ve had a lot of oil coming in. It\u2019s not going to be perfect, but it\u2019s a lot of oil coming in. Actually, people are amazed.\u2019",
       "source": "Telegram",
       "source_type": "telegram",
@@ -308,12 +329,12 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Yemen's Houthis say they carried out two drone attacks targeting Abha airport and Aramco facilities in Saudi Arabia.",
+      "text": "T\u00fcrkiye Slams Israel, Says Will Oppose Netanyahu\u2019s 'Destabilizing Acts'\nT\u00fcrkiye\u2019s communications chief Burhanettin Duran accused Benjamin Netanyahu of pursuing an \u201coccupier mentality\u201d and destabilizing the Middle East.\n[READ MORE](https://clashreport.com/world/articles/turkiye-slams-israel-says-will-oppose-netanyahus-destabilizing-acts-p4fpwbep4xs/)",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-20T14:03:03+00:00",
+      "timestamp": "2026-08-20T14:16:54+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -323,6 +344,27 @@
         "Clash Report"
       ],
       "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Yemen's Houthis say they carried out two drone attacks targeting Abha airport and Aramco facilities in Saudi Arabia.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-20T14:03:03+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
+      "verified_sources": [
+        "Clash Report",
+        "Geopolitics Prime",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 3
     },
     {
       "title": "Telegram",
@@ -876,6 +918,27 @@
         "CASELS"
       ],
       "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddfe\ud83c\uddea\ud83c\uddf8\ud83c\udde6 Yemen\u2019s Houthis carry out drone attacks targeting Abha airport and Aramco facilities in Saudi Arabia\n\ud83d\udcac Statement from Spokesman for the Yemeni Armed Forces, Brigadier General Yahya Saree: \n\ud83d\udd0a \u201cThe Yemeni Armed Forces, thanks to God, carried out two military operations using two drones, the first targeting a sensitive target of the Saudi enemy at Najran Airport and the other targeting Aramco in Najran, and both operations achieved their objectives successfully, thanks to God. \n\ud83d\udde3 These two operations came in response to the Saudi enemy's violation of Saada Province's airspace with its drone, and the Armed Forces will continue to protect Yemen's sovereignty from any breach and consolidate this equation, God willing.\u201d\nIn recent weeks, Houthis repeatedly [conducted strikes](https://t.me/geopolitics_prime/73556) on Aramco facilities in Jizan, Yanbu, and Najran. \n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-20T14:28:54+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
+      "verified_sources": [
+        "Clash Report",
+        "Geopolitics Prime",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 3
     },
     {
       "title": "Telegram",
