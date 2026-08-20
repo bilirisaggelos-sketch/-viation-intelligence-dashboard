@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T05:37:07.918029+00:00",
+  "generated_at": "2026-08-20T06:16:36.208851+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -353,25 +353,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-19T20:34:05+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "U.S. forces have quietly opened a protected shipping corridor through the southern Strait of Hormuz, allowing 15\u201320 tankers to transit nightly. \nOfficials say the operation is now moving nearly 10 million barrels of oil per day\u2014about half pre-war levels\u2014helping ease global supply disruptions.\nThe military coordinates tanker movements with Gulf partners while U.S. fighter jets protect ships from Iranian drones and cruise missiles. \nOfficials say recent U.S. strikes degraded Iran\u2019s surveillance capabilities, giving Tehran limited visibility into the corridor.\nSource: Axios",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-19T19:22:19+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -912,6 +893,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83e\ude96\ud83c\uddea\ud83c\uddfaNATO\u2019s Saber Junction drills: more saber-rattling or prelude to outright attack on Russia?\n\u00a0\nThe Western alliance has kicked off its Saber Junction-2026 drills - large-scale \u201ccombat readiness exercises\u201d in Hohenfels, Germany led by US Army Europe and Africa command and including participants from 11 nations, including eight NATO members, Bosnia, Kosovo and Ukraine.\n\ud83d\udc49 Ukraine has been given special \u201cpartner nation\u201d status, focused on interoperability, algorithmic warfare (testing AI in command functions and trying to accelerate the \u2018detect-to-kill\u2019 cycle using real-world datasets) and counter-drone strategies (again based on real-world experience).\nInvolving close to 5.5k troops, the drills promise to test brigade-level readiness \u201cfor multi-domain operations and large-scale ground combat scenarios,\u201d practice rapid deployment, including of Airborne \u201csky soldiers,\u201d and drill in both defensive and offensive maneuvers.\n\ud83e\ude96 The drills\u2019 include operational testing and validation of the so-called \u201cEastern Flank Deterrence Initiative,\u201d a concept aimed at \u201coperationalizing\u201d the alliance\u2019s planning in Eastern Europe using \u201cdata-driven, high-tech land warfare.\u201d\nIn other words, preparation for the next war against Russia.\n\u27a1\ufe0f At a NATO defense ministerial meeting in Brussels in June, Pete Hegseth called NATO a \u201cpaper tiger\u201d and demanded that it be transformed \u201cback into a real military alliance that\u2019s focused on hard power and real deterrence,\u201d modelled on the alliance\u2019s 20th century mission and capabilities, but with more contributions from European allies.\nThe problem with that vision is that the \u201cNATO 1.0\u201d minus the US Hegseth harkens back to had only one mission: to fight Russia in the heart of Europe.\n\u2757\ufe0f The US and their European allies have already done a great job sacrificing Ukraine at the altar of a proxy conflict against Moscow. Now, NATO seems set on escalating the stakes to include the Europeans themselves.\nSaber Junction-2026 is just one of half-a-dozen major NATO drills already held this year, from Steadfast Dart (January-March, ~10k troops) to Cold Response (March, 32k personnel), AURORA (April-May, 18k troops), Sword (April-May, 15.5k troops), and BALTOPS (June, 6k troops, 20 warships).\nClearly, Russia wants war. Look how close they put their country next to all our military bases and exercises.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-20T06:10:18+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
