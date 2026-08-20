@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T01:53:22.448270+00:00",
+  "generated_at": "2026-08-20T03:03:29.060711+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -298,13 +298,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Mediterranean Man",
         "Middle East Spectator"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -594,6 +593,25 @@
     {
       "title": "Telegram",
       "publisher": "Mediterranean Man",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf3 India\u2019s push to develop indigenous airborne strike technology reached a new milestone as Kawa UAV\u2019s Divyastra Mk3 loitering munition, powered by a jet engine from DG Propulsion, completed its maiden flight.\nConducted at a drone testing airstrip in Uttar Pradesh (a province in the country), the test began with the integrated system mounted on a moving vehicle.\nAfter the vehicle reached the required speed, the loitering munition launched from the platform and transitioned into flight.\nThe engine reportedly met key performance requirements during the test and was deemed suitable for operational use on the loitering munition.\n(This supports my theory of India switching to a more Iranian doctrine style of using UAVs and missiles because of a lack of new gen fighters)",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-20T03:00:45+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
       "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfa Footage of a Russian double tap strike on Kiev. They used two Iskander-M/KN-23 tactical ballistic missiles.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -685,26 +703,6 @@
         "Mediterranean Man"
       ],
       "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ufe0f\ud83c\uddfe\ud83c\uddea\ud83c\uddf8\ud83c\udde6The Yemeni armed forces have launched a missile towards Saudi Arabian troop concentrations",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-19T16:21:14+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Mediterranean Man",
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 2
     },
     {
       "title": "Telegram",
