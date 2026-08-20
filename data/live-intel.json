@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T21:12:04.606833+00:00",
+  "generated_at": "2026-08-20T21:46:51.856851+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -309,6 +309,25 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
+      "text": "Ukraine developed a plan to send up to 1,000 AI-guided drones per night against Moscow\u2019s airports, aiming to shut down civilian air travel and pressure Russian elites into pushing Putin toward negotiations. \nThe drones would use onboard AI and map-matching to identify targets without human pilots, potentially bypassing Russian electronic jamming. \nZelensky reportedly had concerns about civilian casualties, particularly if airliners were hit, but allowed preparations to continue. \nThe plan was halted in July after Defense Minister Fedorov was dismissed, though Ukrainian officials said it could potentially be revived within about three months.\nSource: The Atlantic",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-20T21:34:24+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
       "text": "NEW: Ukrainian intelligence confirms Russia has received North Korea's heavier Hwasong-11C (KN-30) ballistic missile for the first time.\nAs of July, Russia held approximately 50 North Korean missiles of three types: KN-23, KN-24, and now the KN-30.\nA North Korean missile crew of roughly 90 personnel has deployed to Russia's Voronezh Oblast to operate up to six launchers. \nNorth Korea claims the KN-30 carries a 2,500 kg warhead, though analysts consider this likely exaggerated.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -562,25 +581,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-20T00:12:19+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\udde6\ud83c\uddff\ud83c\uddee\ud83c\uddf1\ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8\u26a1\ufe0f \u2014 Azerbaijan has filed a formal complaint against CNN over a controversial report claiming that Israel deployed drone and commando teams from Azerbaijani territory to conduct operations against Iran, according to the Washington Examiner.\n\u27a1\ufe0f The CNN report, published in June, alleged that dozens of Mossad agents and Israeli commandos operated from a secret base in southern Azerbaijan, carrying out intelligence gathering and even drone assassinations. Baku has denied the claims, and the complaint marks an escalation in its effort to distance itself from the Israel-Iran conflict.\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-19T21:09:19+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
