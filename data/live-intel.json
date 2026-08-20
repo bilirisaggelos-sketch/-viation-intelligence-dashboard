@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T03:03:29.060711+00:00",
+  "generated_at": "2026-08-20T04:00:58.688565+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -903,25 +903,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-19T07:05:17+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udea8\ud83c\uddf7\ud83c\uddfa Night fire: Russian missiles and drones back in the fight\nRussian forces hammered Ukrainian-linked targets overnight, according to monitoring reports, unleashing a wave of missile and drone strikes across multiple regions.\nKey hits include:\n\ud83c\udf0f Odessa region: UAV swarm struck Illyechevsk and the Yuzhny Black Sea port, igniting fires at multiple impact points;\n\ud83c\udf0f Zaporozhye: drones hit targets just before midnight, with blazes flaring up soon after;\n\ud83c\udf0f Kharkov region: Ukrainian troops positions came under fire in Volchy Yar, Balakleya, and Barvinkovoye. In Volchy Yar, jet-powered drones sparked a major fire;\n\ud83c\udf0f An Iskander-M strike was recorded in Krasnopavlovka, Kharkov region, with Ukrainian monitors reporting at least one missile carrying a cluster warhead;\n\ud83c\udf0f Lone drones and small UAV groups also hit targets in the Black Sea, Kherson, Chernigov, Sumy, and Poltava regions, as well as Ukrainian-held parts of Donbass. \n\ud83c\udf0f In turn, Russia's Defense Ministry confirmed the strikes destroyed fuel depots at Chernomorsk port and sank a dry cargo vessel in the Black Sea.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-19T06:30:55+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
