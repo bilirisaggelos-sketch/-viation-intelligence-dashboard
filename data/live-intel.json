@@ -1,6 +1,25 @@
 {
-  "generated_at": "2026-08-20T12:04:15.014147+00:00",
+  "generated_at": "2026-08-20T13:13:30.725392+00:00",
   "events": [
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nTampa, FL, Saturday, August 22, 2026 through Saturday, August 22, 2026 Local\nFacility: ZJX",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "08/20/2026",
+      "location": "ZJX FL",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nMyrtle Beach, SC, Friday, August 21, 2026 through Friday, August 21, 2026 Local\nFacility: ZJX",
@@ -135,6 +154,25 @@
       "verified_source_count": 1
     },
     {
+      "title": "Space Weather Message Code: SUMXM5\r",
+      "text": "Space Weather Message Code: SUMXM5\r\nSerial Number: 325\r\nIssue Time: 2026 Aug 20 1212 UTC\r\n\r\nSUMMARY: X-ray Event exceeded M5 \nBegin Time: 2026 Aug 20 1132 UTC\nMaximum Time: 2026 Aug 20 1142 UTC\nEnd Time: 2026 Aug 20 1154 UTC\nXray Class: M8.1\nOptical Class: Sf\nLocation: N04E85\nNoaa Scale: R2 - Moderate\nComment: \r\n\r\nNOAA Scale: R2 - Moderate\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact centered primarily on sub-solar point on the sunlit side of Earth.\r\nRadio - Limited blackout of HF (high frequency) radio communication for tens of minutes.",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-08-20 12:12:01.710",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
       "title": "Space Weather Message Code: ALTTP2\r",
       "text": "Space Weather Message Code: ALTTP2\r\nSerial Number: 1522\r\nIssue Time: 2026 Aug 20 1158 UTC\r\n\r\nALERT: Type II Radio Emission \nBegin Time: 2026 Aug 20 1136 UTC\nEstimate Velocity: 1201 km/s\nComment: SVI",
       "source": "NOAA Space Weather",
@@ -200,25 +238,6 @@
       "severity": "warning",
       "icon": "\ud83d\udef0\ufe0f",
       "timestamp": "2026-08-19 05:45:36.950",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Space Weather Message Code: WARK04\r",
-      "text": "Space Weather Message Code: WARK04\r\nSerial Number: 5405\r\nIssue Time: 2026 Aug 18 2052 UTC\r\n\r\nEXTENDED WARNING: Geomagnetic K-index of 4 expected\nExtension to Serial Number: 5404\nValid From: 2026 Aug 17 2101 UTC\nNow Valid Until: 2026 Aug 19 1800 UTC\nWarning Condition: Persistence\n\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-08-18 20:52:01.733",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -796,6 +815,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddee\ud83c\uddf1\ud83e\ude96 West\u2019s fatal blind spot: How buying Israeli arms subsidizes its next genocide\nSince October 2023, roughly two dozen countries have restricted or cancelled arms transfers to the [genocidal Zionist state.](https://t.me/geopolitics_prime/73453)\nHowever, Israel learned a brutal lesson from the 1973 Yom Kippur War: it could not depend on foreign suppliers in a crisis, and needed a domestic arms industry capable of surge production \u2013 and export orders have provided the solution.\n[A state waging war and a land grab](https://t.me/geopolitics_prime/73261) requires not just weapons but the financial infrastructure to sustain them. \n\ud83d\udd34 The cost of Israel's military campaigns since October 2023 exceeds $100 billion\n\ud83d\udd34Between 2022 and 2024, Israel's overall goods exports fell by roughly $4.50 billion (Central Bureau of Statistic), yet defense exports increased by approximately $2.35 billion (SIBAT), offsetting nearly 52% of that decline\n\ud83d\udd34State-owned manufacturers have helped plug the hole: Israel Aerospace Industries alone paid nearly $700 million in dividends to the state in 2025\n\ud83d\udd34[Rafael Advanced Defense Systems](https://t.me/geopolitics_prime/51718) added more than $220 million across two years \n\ud83d\udd34 Corporate and payroll taxes from the largest firms delivered another roughly $3\u20133.4 billion\nFurthermore, weapons ordered by foreign clients can always be quietly diverted to Israeli forces when needed.\n\u2666\ufe0f When Israel needed[ to expand Arrow missile production](https://t.me/geopolitics_prime/60597) for a major sale to Germany, it opened a new manufacturing line in 2024 - capacity that simultaneously increased its ability to replenish its own stocks during war.\n\u2666\ufe0f In January 2024, Israeli arms manufacturers postponed roughly $1.5 billion worth of deliveries to foreign customers, redirecting mortars, tank ammunition, air-defense systems, and small arms toward domestic military needs, per the Calcalist\nCutting the link is harder than a simple decision to stop buying \"stand-alone Israeli weapons systems.\" \nSupply chains are entangled, and Israeli technology is embedded throughout.\nNorway stopped buying Israeli systems yet still accepts Israeli components inside larger platforms; anything stricter, its defense minister acknowledged, would cripple NATO integration. \n\ud83d\udc49 Spain, Croatia and Slovenia proclaim embargoes while purchasing EuroSpike missiles - European-made versions of Rafael\u2019s Spike that still send revenue to a state-owned Israeli firm. \nHence, a torrent of military hardware flows out - generating billions that[ flow straight back into Israel\u2019s war chest.](https://t.me/geopolitics_prime/73506)\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-20T13:07:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
