@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T15:41:50.283573+00:00",
+  "generated_at": "2026-08-20T16:14:55.782148+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -87,25 +87,6 @@
       "icon": "\ud83d\udea8",
       "timestamp": "08/16/2026",
       "location": "ZNY NJ",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nDes Moines, IA, Tuesday, August 18, 2026 through Thursday, August 20, 2026 Local\nFacility: ZMP",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "08/14/2026",
-      "location": "ZMP IA",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
