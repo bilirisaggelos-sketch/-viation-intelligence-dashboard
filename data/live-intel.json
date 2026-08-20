@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T14:57:05.294230+00:00",
+  "generated_at": "2026-08-20T15:41:50.283573+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -30,25 +30,6 @@
       "icon": "\ud83d\udea8",
       "timestamp": "08/19/2026",
       "location": "ZJX SC",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nDestin, FL, Thursday, August 20, 2026 Local\nFacility: ZJX",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "08/19/2026",
-      "location": "ZJX FL",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
@@ -425,44 +406,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Inside TEKNOFEST Mavi Vatan: Warships, Submarines and Sea Drones at Center Stage\nTEKNOFEST Mavi Vatan puts T\u00fcrkiye\u2019s \u201cBlue Homeland\u201d maritime strategy on display, featuring 37 naval platforms, submarines, autonomous vessels, and demonstrations.\n[READ MORE](https://clashreport.com/defense/articles/inside-teknofest-mavi-vatan-warships-submarines-and-sea-drones-at-center-stage-r69b3wfmnc)",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-20T11:35:12+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "U.S. immigration officials coordinated with Iranian authorities to deport more than 100 Iranians on three flights in late 2025 and early 2026, with newly released emails showing Iranian officials influenced deportee lists and requested last-minute changes. \nThe Trump administration continued prioritizing the deportations even during the 2025 U.S.-Iran war, while Iranian officials were also given access to some detainees. \nSource: AP",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-20T11:12:35+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Our Wars Today",
       "text": "\u26a1\ufe0fUpdate: Death toll [rises](https://kyivindependent.com/russian-ballistic-missile-attack-rocks-kyiv-damages-childrens-hospital/) to 13 following Russia\u2019s large ballistic missile and drone attack on Kyiv. \nUkraine's Air Force said Russia launched 44 cruise missiles, two Banderol missiles, and 168 Shahed-type drones during the attack.",
       "source": "Telegram",
@@ -492,13 +435,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "CASELS",
         "Our Wars Today"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -692,20 +634,20 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddf7\ud83c\uddfa\ud83c\uddee\ud83c\uddf7 \u2014 New York Post: Russia is sending drones and explosives to help rebuild Iran\u2019s military stockpiles following the U.S.-Israeli strikes.\n\u26aa\ufe0f",
+      "publisher": "Mediterranean Man",
+      "text": "I wanted to write this post some time ago, but I never got the chance until now.\nAs many as of you know, I have been busy for over a year writing three short novellas.\nOn the website we surpassed 200 copies sold - if we include other payment methods, we surpassed 700, which is a no small feat at all.\nIt did not really start as a passion project, as we were doing this whole thing of the Gaza Aid (and I have no idea why people thought it was a good idea to trust me), I was annoyed that I was unable to send any money of my own, so I wrote a short story and then sold it, where half the proceeds would go to Gaza, I sent almost a thousand dollars this way.\nAnd then almost everyone genuinely liked the first story, including personalities who went to wars and conflict zones you and I only read about and had no wish to go there ourselves.\nI learned the basics of LateX for formatting, I involved myself in artist communities to seek out artists with gentle hands who would work with me, I sought out military forums (public and private ones) in three different languages, and I met some very interesting people, in what other circumstances would I have talked to Stormtroopers, drone operators, or veterans of old conflicts in Moldova, Afghanistan, Chechnya, and the Iran-Iraq wars?\nNowadays, most people are illiterate to the extent I had to be almost pushy and pointy with flashy signs, apparently, we internet personalities have a reputation of writing uninteresting slop. TikTok has mentally raped us all, and that is fine, it was a journey of improving skillsets of the self before anything else.\nThe series is effectively finished, that is until I finish 200 pages and then stitch it all together, two publishing houses liked the material and said they will take it once I surpassed 300 pages. \nSome people I hold very dear to my heart liked it so much, that they printed it, with the covers and all, and made it an actual book on their shelves. It is a strange feeling.\nWhat can you take from this?\nPursue your own hobbies, invest your time in something and simply seek out.\nMost of your friends will not support you, in fact, some may even mock you, but you are doing it for yourself and to see what you can accomplish.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-18T21:10:59+00:00",
+      "timestamp": "2026-08-20T15:12:45+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN"
+        "Mediterranean Man"
       ],
       "verified_source_count": 1
     },
@@ -806,25 +748,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "Actually the politics of the Arab world during the cold war were rather schizophrenic to an extent.\nFor example, Nasser was telling the Soviet Union that their investments in Syria will not be permanent (socially speaking) because Syrian society will never accept the principles of Baathism as a whole because it is too alien, synthetic, and fabricated, however, the Soviets said that the Baathists in Syria were the closest to establishing a workers society in the Arab world... considering that neither society currently exists, it is clear to who won that argument.\nI mean, the man was respected by the Socialist world, not because he was aurafarming, but because, to an extent, he actually knew what he was talking about, just because he lost one (1) war does not remove his legacy and invalidate his opinions, is Napoleon considered a runt because he lost Waterloo?\nIts almost funny... one of the four Mosques in Moscow were actually closed during the Soviet Era, however, in a visit to Moscow they opened it up so Nasser can pray there, he liked it so much, that the Russians just decided to keep it open because he preferred so, same thing in Yugoslavia, Nasser told Tito that he did not like the treatment of Bosnian Muslims, and reforms actually happened in the sixties in that republic because of this, a lot of Bosnians like Nasser for a reason.\nBut, back to the point, overall, it is just quite sad, what could have been was not meant to be, it simply was. Life moves in strange ways.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-19T16:50:45+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "CASELS",
       "text": "Ukraine's Air Force reported on the mass overnight attack.\nShot down:\n0/? Oniks/Zircon/Iskander-M/S-400 ballistic and hypersonic missiles (likely around 25 in total and might also include additional KN-23)\n31/36 Kh-101/Iskander-K/K-59 cruise missiles\n8/8 Kalibr cruise missiles\n2/2 S-8000 Banderol mini cruise missiles\n145/168 Strike drones\nOnly a handful of Patriot interceptors were fired, once again confirming Ukraine lacks them.",
       "source": "Telegram",
@@ -892,13 +815,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "CASELS",
-        "Our Wars Today"
+        "CASELS"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -916,6 +838,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udea8 Nighttime Russian airstrike smashes Ukraine\u2019s oil depot in Kiev\nA massive combined attack of missiles and drones struck Kiev in the early hours of August 20, hammering a fuel depot owned by a regional supplier, KLO.\nThis assault is the latest in a series of Russian strikes specifically targeting Ukraine's military-industrial backbone.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-20T15:00:29+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
@@ -1006,25 +947,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-20T04:17:20+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83e\udd21\ud83d\udd0a Trump: We'll suddenly win or we'll keep losing\nThe president admits there's no clear way out for the US in Iran.\n\"It'll either be extremely good and oil prices are going to drop like a rock, or we'll continue to do exactly what we're doing.\"\nThe only certainty is more of the same.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-19T20:43:58+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
