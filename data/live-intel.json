@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T00:01:02.516143+00:00",
+  "generated_at": "2026-08-20T01:53:22.448270+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -249,25 +249,6 @@
       "verified_source_count": 1
     },
     {
-      "title": "Watch: SpaceX rocket spotted off Christmas Island coast",
-      "text": "Watch: SpaceX rocket spotted off Christmas Island coast\nA SpaceX rocket that blasted off from Texas in July, and crashed into the Indian Ocean, made an unexpected appearance off Christmas Island.",
-      "source": "BBC",
-      "source_type": "osint",
-      "publisher": "BBC World News",
-      "severity": "info",
-      "icon": "\ud83d\udcf0",
-      "timestamp": "2026-08-19T15:01:57+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "BBC World News"
-      ],
-      "verified_source_count": 1
-    },
-    {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
       "text": "\u2014 \ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7 President Trump: \n\u2018We have posession, we completely control the Strait of Hormuz. Except for some minor nuisances.\nYou know, they shoot a drone every once in a while. Not everybody is going to go through, but they come through.\nOver the last few weeks, we\u2019ve had a lot of oil coming in. It\u2019s not going to be perfect, but it\u2019s a lot of oil coming in. Actually, people are amazed.\u2019",
@@ -480,6 +461,25 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddf1\ud83c\udde7\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1Israeli regime fighter jets Airstrike on the Tell al-Dabsha area, northwest of Ali al-Taher Hill and Kfar Roumman, northeast of Nabatieh in southern Lebanon.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-20T00:12:19+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
       "text": "\ud83c\udde6\ud83c\uddff\ud83c\uddee\ud83c\uddf1\ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8\u26a1\ufe0f \u2014 Azerbaijan has filed a formal complaint against CNN over a controversial report claiming that Israel deployed drone and commando teams from Azerbaijani territory to conduct operations against Iran, according to the Washington Examiner.\n\u27a1\ufe0f The CNN report, published in June, alleged that dozens of Mossad agents and Israeli commandos operated from a secret base in southern Azerbaijan, carrying out intelligence gathering and even drone assassinations. Baku has denied the claims, and the complaint marks an escalation in its effort to distance itself from the Israel-Iran conflict.\n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
@@ -593,20 +593,20 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf1\ud83c\uddf8\ud83c\uddfe\ud83c\uddf9\ud83c\uddf7 \u2014 Office of Israeli Prime Minister Benjamin Netanyahu:\n\"Israel and Syria agreed to a status quo in security matters, which Syria was on the verge of breaching by permitting Turkish troops to deploy at an airbase near Aleppo. \nIsrael repeatedly warned Syria that such a deployment would pose a threat to Israel's security. Syria chose to ignore these warnings. \nIsrael will not tolerate threats to its security, and would welcome a return to the status quo.\"\n\u26aa\ufe0f",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfa Footage of a Russian double tap strike on Kiev. They used two Iskander-M/KN-23 tactical ballistic missiles.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-18T20:53:53+00:00",
+      "timestamp": "2026-08-20T00:40:36+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN"
+        "Mediterranean Man"
       ],
       "verified_source_count": 1
     },
@@ -705,25 +705,6 @@
         "Middle East Spectator"
       ],
       "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf3 India\u2019s Reliance Industries and British aerospace company Rolls-Royce have\u00a0announced their intent to partner on the co-development and manufacture of a sovereign indigenous combat aircraft engine for the country\u2019s\u00a0Advanced Medium Combat Aircraft\u00a0(AMCA) program.\nThe proposed engine is reported to deliver more than 120 kilonewtons of thrust and is intended to power the AMCA Mk2, the more advanced variant of the indigenous stealth fighter expected to enter production in the late 2030s.\nRolls-Royce has previously\u00a0said the new engine would be designed and developed in India, with the country receiving full technology transfer and control over the intellectual property developed under the project.\nSuch ownership would give New Delhi greater freedom to upgrade, modify, manufacture, and maintain the engine throughout its service life without relying on its foreign partner for every major change.\nThe engine is expected to make its first test flight in 2034 and enter production by 2036.\n(Idk how Rolls Royce plans to focus on this engine considering they're also developing 2 different jet engines for Germany's UCAV and Germany's 6th gen fighter)",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-19T16:10:04+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -943,25 +924,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-19T06:30:55+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udea8\ud83d\udd25 Hezbollah releases footage of Israeli forces obliterated in southern Lebanon\nThe Islamic Resistance published video from the final days before the ceasefire, showing the aftermath of their deadliest strikes against Israeli positions near Zawtar Al-Sharqiyah.\nThe footage shows:\n\ud83c\udf0f D9 bulldozers\u00a0\u2014 two separate hits\n\ud83c\udf0f Merkava tanks\u00a0\u2014 three confirmed strikes\n\ud83c\udf0f Camouflaged military vehicles\u00a0\u2014 three destroyed\n\ud83c\udf0f Military Humvee\u00a0\u2014 directly targeted\n\ud83c\udf0f Troop gatherings\u00a0\u2014 struck with a swarm of Ababil FPV drones\nThe last clip shows a swarm of FPV drones slamming into a concentration of IDF soldiers and vehicles just days before the truce took effect.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-19T02:23:23+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
