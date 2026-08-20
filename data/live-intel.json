@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T08:06:57.505602+00:00",
+  "generated_at": "2026-08-20T08:58:04.258135+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -846,25 +846,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-19T16:14:05+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udd25Russian pincer putting Ukraine\u2019s last line of defense in the Donbass into a massive pocket\n\u00a0\nRussia\u2019s MoD just reported the liberation of Orekhovatka and Krasnopodolye \u2013 two settlements surrounding the Slavyansk-Kramatorsk agglomeration \u2013 twin \u201cFortress Belt\u201d cities serving as the last line of defense for Ukrainian forces in the Donbass.\n\ud83d\udccc Orekhovatka is situated ~8km southeast of the Slavyansk, cutting across the strategic E40 highway, and putting Russian forces within short-range artillery and drone strike range of the approaches to the city.\n\ud83d\udccc Krasnopodolye is about 44km southwest of Kramatorsk. It\u2019s capture forces the enemy to redeploy troops to prevent being flanked, and indicates that Russian troops are casting a large, kilometers-wide net around the twin cities \u2013 either in preparation to storm them, or envelop them into a strategic pocket and besiege them \u2013 preventing enemy forces from escaping or evacuating heavy equipment, or bringing supplies and reinforcements in.\n\ud83d\udcccThe Slavyansk-Kramatorsk agglomeration itself is ~40-45 km east of the administrative border with Dnepropetrovsk region in the west, and ~30-35 km south and southeast of the boundary with Kharkov region.\nOnce captured, it will signify the total collapse of Ukraine\u2019s defenses in the areas, fulfilling one of Russia\u2019s central war goals: control over all of Donetsk region as one of the four new regions integrated into the Russian Federation in late 2022, and the destruction of Ukraine\u2019s primary defensive line and logistical HQ in the east. Beyond these areas, terrain flattens significantly, favoring advance, and few deeply prepared urban defense networks exist.\nBut before that, Russia will have a tough fight ahead of it destroying the enemy Fortress Belt \u2013 built up over 12 years with generous Western assistance. The belt features multi-layered urban strongholds \u2013 industrial zones, factory complexes, multistorey basements converted into underground bunkers, tunnels and interconnected concrete firing points, extensive trench and barrier networks purportedly spanning hundreds of kilometers, minefields, anti-tank obstacles, etc.\n\ud83d\udd28 The built-up defensive line\u2019s very existence shows that Ukraine was being pumped up and prepared for war with Russia for more than a decade, even during the years that Moscow was still trying to bring a peaceable end to what was then seen as a smoldering civil conflict.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-19T16:04:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
