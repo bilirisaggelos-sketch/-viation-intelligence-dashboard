@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T09:44:01.509029+00:00",
+  "generated_at": "2026-08-20T10:14:42.321696+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -326,20 +326,58 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "The U.S. Army is phasing out a 600-soldier experimental drone-assault battalion in Europe, returning it to airborne infantry duties after upcoming exercises. \nActing Army chief Gen. Christopher LaNeve\u2019s move reflects a broader \u201cback-to-basics\u201d shift and reverses an initiative designed to rapidly absorb lessons from Ukraine\u2019s drone warfare.\nSource: WSJ",
+      "publisher": "Our Wars Today",
+      "text": "\u26a1\ufe0fUpdate: Death toll [rises](https://kyivindependent.com/russian-ballistic-missile-attack-rocks-kyiv-damages-childrens-hospital/) to 13 following Russia\u2019s large ballistic missile and drone attack on Kyiv. \nUkraine's Air Force said Russia launched 44 cruise missiles, two Banderol missiles, and 168 Shahed-type drones during the attack.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-20T06:29:56+00:00",
+      "timestamp": "2026-08-20T10:06:33+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Clash Report"
+        "Our Wars Today"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Our Wars Today",
+      "text": "\u26a1\ufe0fAt least 12 dead after hours-long Russian ballistic missile, drone [attack](https://kyivindependent.com/russian-ballistic-missile-attack-rocks-kyiv-damages-childrens-hospital/) on Kyiv, children's hospital damaged.\nThe attack is still ongoing and an air raid alert is still in place in the capital.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-20T10:06:33+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Our Wars Today"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Our Wars Today",
+      "text": "[\u26a1\ufe0f -Update: Death toll rises to 13 following Russia\u2019s large ballistic missile and drone attack on Kyiv. Ukraine's Air Fo...](https://t.me/KyivIndependent_official/54902)\n\u26a1\ufe0fUpdate: Death toll rises\n[https://kyivindependent.com/russian-ballistic-missile-attack-rocks-kyiv-damages-childrens-hospital/]\nto 13 following Russia\u2019s large ballistic missile and drone attack on Kyiv.\nUkraine's Air Force said Russia launched 44 cruise missiles, two Banderol\nmissiles, and 168 Shahed-type drones during the attack. \u2013 Join Telegrams:\nt.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013\nSupport OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://t.me/KyivIndependent_official/54902)\n | t\u200b.me \u2022 Aug 20, 2026",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-20T10:05:18+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Our Wars Today"
       ],
       "verified_source_count": 1
     },
@@ -808,25 +846,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-19T20:43:58+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udea8 Blast hits National Police headquarters in Ukraine\u2019s Zhitomir\nA rocket and drone strike targeted military and industrial infrastructure in the city, preliminary reports show. \nThe Russian Defense Ministry earlier reported strikes on Ukrainian military-industrial, energy, and transport infrastructure.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-19T16:14:05+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
