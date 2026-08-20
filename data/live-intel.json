@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T11:33:45.433731+00:00",
+  "generated_at": "2026-08-20T12:04:15.014147+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -135,6 +135,44 @@
       "verified_source_count": 1
     },
     {
+      "title": "Space Weather Message Code: ALTTP2\r",
+      "text": "Space Weather Message Code: ALTTP2\r\nSerial Number: 1522\r\nIssue Time: 2026 Aug 20 1158 UTC\r\n\r\nALERT: Type II Radio Emission \nBegin Time: 2026 Aug 20 1136 UTC\nEstimate Velocity: 1201 km/s\nComment: SVI",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-08-20 11:58:35.633",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Space Weather Message Code: ALTXMF\r",
+      "text": "Space Weather Message Code: ALTXMF\r\nSerial Number: 540\r\nIssue Time: 2026 Aug 20 1139 UTC\r\n\r\nALERT: X-Ray Flux exceeded M5 \nThreshold Reached: 2026 Aug 20 1138 UTC\nNoaa Scale: R2 - Moderate\nComment: \r\n\r\nNOAA Scale: R2 - Moderate\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact centered on sub-solar point on the sunlit side of Earth. Extent of blackout of HF (high frequency) radio communication dependent upon current X-ray Flux intensity. For real-time information on affected area and expected duration please see http://www.swpc.noaa.gov/products/d-region-absorption-predictions-d-rap.",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-08-20 11:39:30.540",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
       "title": "Space Weather Message Code: WARK04\r",
       "text": "Space Weather Message Code: WARK04\r\nSerial Number: 5406\r\nIssue Time: 2026 Aug 19 1757 UTC\r\n\r\nEXTENDED WARNING: Geomagnetic K-index of 4 expected\nExtension to Serial Number: 5405\nValid From: 2026 Aug 17 2101 UTC\nNow Valid Until: 2026 Aug 20 0900 UTC\nWarning Condition: Persistence\n\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
       "source": "NOAA Space Weather",
@@ -181,44 +219,6 @@
       "severity": "warning",
       "icon": "\ud83d\udef0\ufe0f",
       "timestamp": "2026-08-18 20:52:01.733",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Space Weather Message Code: ALTK05\r",
-      "text": "Space Weather Message Code: ALTK05\r\nSerial Number: 2046\r\nIssue Time: 2026 Aug 18 2045 UTC\r\n\r\nALERT: Geomagnetic K-index of 5 \nThreshold Reached: 2026 Aug 18 2045 UTC\nSynoptic Period: 1800-2100\nActive Warning: YES\nNoaa Scale: G1 - Minor\nComment: \r\n\r\nNOAA Scale: G1 - Minor\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-08-18 20:45:07.963",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Space Weather Message Code: WARK05\r",
-      "text": "Space Weather Message Code: WARK05\r\nSerial Number: 2260\r\nIssue Time: 2026 Aug 18 2043 UTC\r\n\r\nWARNING: Geomagnetic K-index of 5 expected \nValid From: 2026 Aug 18 2042 UTC\nValid To: 2026 Aug 19 1200 UTC\nWarning Conditions: Onset\nNoaa Scale: G1 - Minor\nComment: \r\n\r\nNOAA Scale: G1 - Minor\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-08-18 20:43:17.463",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -289,12 +289,12 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "U.S. immigration officials coordinated with Iranian authorities to deport more than 100 Iranians on three flights in late 2025 and early 2026, with newly released emails showing Iranian officials influenced deportee lists and requested last-minute changes. \nThe Trump administration continued prioritizing the deportations even during the 2025 U.S.-Iran war, while Iranian officials were also given access to some detainees. \nSource: AP",
+      "text": "Israel\u2019s Ben-Gurion Airport was temporarily brought to a standstill after workers halted check-in and flights amid operational difficulties and complaints over heavy workloads. \nThe disruption came during the busy summer travel season, with about 100,000 passengers expected to pass through the airport. \nWorkers cited problems handling aircraft, baggage and passengers, worsened by a shortage of available parking stands.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-20T11:12:35+00:00",
+      "timestamp": "2026-08-20T11:59:30+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -308,12 +308,31 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "IRGC Spokesperson:\nThe destructive power of the warheads used in the IRGC\u2019s missiles is far greater than those used in previous wars. \nIf a war begins, our weapons will be completely different from the past in every respect.",
+      "text": "Inside TEKNOFEST Mavi Vatan: Warships, Submarines and Sea Drones at Center Stage\nTEKNOFEST Mavi Vatan puts T\u00fcrkiye\u2019s \u201cBlue Homeland\u201d maritime strategy on display, featuring 37 naval platforms, submarines, autonomous vessels, and demonstrations.\n[READ MORE](https://clashreport.com/defense/articles/inside-teknofest-mavi-vatan-warships-submarines-and-sea-drones-at-center-stage-r69b3wfmnc)",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-20T07:42:20+00:00",
+      "timestamp": "2026-08-20T11:35:12+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "U.S. immigration officials coordinated with Iranian authorities to deport more than 100 Iranians on three flights in late 2025 and early 2026, with newly released emails showing Iranian officials influenced deportee lists and requested last-minute changes. \nThe Trump administration continued prioritizing the deportations even during the 2025 U.S.-Iran war, while Iranian officials were also given access to some detainees. \nSource: AP",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-20T11:12:35+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -573,25 +592,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\udde6\ud83c\uddea\ud83c\uddee\ud83c\uddf7\u26a1\ufe0f \u2014 The UAE MoD says that the two Iranian ballistic missiles detected earlier today were targeting maritime vessel traffic and were not launched toward the UAE.\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-18T21:03:30+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Mediterranean Man",
       "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf3 India\u2019s push to develop indigenous airborne strike technology reached a new milestone as Kawa UAV\u2019s Divyastra Mk3 loitering munition, powered by a jet engine from DG Propulsion, completed its maiden flight.\nConducted at a drone testing airstrip in Uttar Pradesh (a province in the country), the test began with the integrated system mounted on a moving vehicle.\nAfter the vehicle reached the required speed, the loitering munition launched from the platform and transitioned into flight.\nThe engine reportedly met key performance requirements during the test and was deemed suitable for operational use on the loitering munition.\n(This supports my theory of India switching to a more Iranian doctrine style of using UAVs and missiles because of a lack of new gen fighters)",
       "source": "Telegram",
@@ -796,6 +796,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddfa\ud83c\uddf8\ud83d\udee9 Pentagon-funded drones and spy planes terrorize fishermen in unaccountable CIA shadow war\nA US defense contractor\u2019s drone may have been hovering just 500 meters from an Ecuadorian fishing boat after it was[ hit in an unexplained bombing](https://t.me/geopolitics_prime/73383) - one of three vessels attacked in January and March, Drop Site News reports.\nA V-BAT drone registered to San Diego-based Shield AI came within roughly 500 meters of the La Negra Francisca after it was attacked near the Galapagos Islands on March 17, according to flight and vessel tracking data.\n\ud83d\udd34 The drone, according to survivors' accounts, bore the same red and green lights they photographed before the bombing\n\ud83d\udd34 The drone\u2019s movements, including its signal repeatedly disappearing and reappearing, suggest it may have been operating from a nearby vessel\n\ud83d\udd34 The V-BAT is an intelligence, surveillance and reconnaissance platform capable of carrying weapons\n\ud83d\udd34 Shield AI has received major US government contracts, including an $800 million Navy contract announced in April 2026\nThe inconvenient truth is that no drugs were found on any of the three fishing boats - La Negra Francisca, Don Maca, or Fiorella. \nPrevious reporting laid out the timeline of the mysterious attacks, speculating they were part of a covert CIA program.\n\ud83d\udd34 NASA thermal imagery consistent with an explosion at coordinates 1.5822\u00b0N, 87.6958W\u00b0 was recorded at 1:02 p.m., the time fishermen say they were hit, and in the location where their transponder stopped broadcasting\n\ud83d\udd34 Vessel tracking data showed a US Coast Guard cutter leaving a Galapagos military base a day before the Negra Francisca bombing - despite claiming it only deployed as a post-incident rescue effort\n\ud83d\udd34 The Coast Guard vessel\u2019s signal went dark and later appeared in Central American waters 24 hours before the fishermen were placed in El Salvador\u2019s custody\n\ud83d\udd34 A Cessna Citation Longitude jet repeatedly flew from El Salvador's Ilopango International Airport - an infamous hub for Iran-Contra operations in the 1980s - toward the fishing vessels in the days preceding each attack\nSurvivors describe being boarded by English-speaking men in khaki uniforms who hooded, handcuffed, and starved them for eight days aboard a US-flagged vessel before delivering them to El Salvador's navy.\nTrump\u2019s expansion of the \u201cterrorist\u201d label has given the CIA a freer hand to wage a lethal shadow war with no meaningful oversight. \nMeanwhile, Operation Southern Spear - which, according to the Washington Office on Latin America, has already conducted [at least 67 vessel strikes and killed 221 people since September 2025](https://t.me/geopolitics_prime/72826) - continues to be publicly sold as a counter-narcotics campaign, despite a complete absence of any evidence.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-20T11:35:33+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
