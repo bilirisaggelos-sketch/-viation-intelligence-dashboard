@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T19:47:46.045342+00:00",
+  "generated_at": "2026-08-20T20:36:09.446636+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -315,25 +315,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-20T19:26:36+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "US Army Scraps Futuristic Drone Assault Battalion in Favor of Airborne Infantry\nThe Army will end its dedicated drone-assault mission of a 600-soldier battalion created in January to test unmanned warfare, returning to its core airborne infantry role.\n[READ MORE](https://clashreport.com/defense/articles/us-army-scraps-futuristic-drone-assault-battalion-in-favor-of-airborne-infantry-gzfqikbb5v8/)",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-20T18:55:46+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -797,6 +778,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udd25\ud83c\uddf7\ud83c\uddfa Russian warship uses UAV to check a nosy Danish naval drone\nA Danish Stormborn X-Wave 01 unmanned boat tried to get a closer look at a Russian missile corvette in the Baltic Sea. \nIn response, the Russian vessel launched a drone of its own to investigate the peeping tom.\nFootage of this encounter, which had taken place off the Bornholm island in July, has now surfaced on social media.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-20T20:33:33+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
