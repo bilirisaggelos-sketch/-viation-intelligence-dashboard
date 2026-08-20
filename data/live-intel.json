@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T06:16:36.208851+00:00",
+  "generated_at": "2026-08-20T07:24:44.996578+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -249,26 +249,6 @@
       "verified_source_count": 1
     },
     {
-      "title": "Russia launches missile strikes on Kyiv and surrounding region, killing at least eight",
-      "text": "Russia launches missile strikes on Kyiv and surrounding region, killing at least eight\nApartment blocks and warehouses were targeted in the \"massive attack\" on Thursday, according to the State Emergency Service of Ukraine.",
-      "source": "BBC",
-      "source_type": "osint",
-      "publisher": "BBC World News",
-      "severity": "info",
-      "icon": "\ud83d\udcf0",
-      "timestamp": "2026-08-20T05:25:23+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "BBC World News",
-        "CASELS"
-      ],
-      "verified_source_count": 2
-    },
-    {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
       "text": "\u2014 \ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7 President Trump: \n\u2018We have posession, we completely control the Strait of Hormuz. Except for some minor nuisances.\nYou know, they shoot a drone every once in a while. Not everybody is going to go through, but they come through.\nOver the last few weeks, we\u2019ve had a lot of oil coming in. It\u2019s not going to be perfect, but it\u2019s a lot of oil coming in. Actually, people are amazed.\u2019",
@@ -328,12 +308,12 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "NOW: Massive Russian missile attack on Kyiv overnight with multiple waves of ballistic and hypersonic missiles.\nResidents describe \"endless\" explosions among the loudest of the war.\nAt least 15-16 missiles tracked toward Kyiv in the first 20 minutes, including Iskander-M, North Korean KN-23, and 5-8 Zircon hypersonic missiles launched from multiple Russian regions simultaneously.\nThe attack exploits Ukraine's depleted Patriot interceptor stocks.",
+      "text": "Taiwan plans to raise 2027 defense spending by 18% to a record T$1.12 trillion ($31.4B), exceeding 3% of GDP. \nThe increase will fund drones, missiles, and military modernization as China steps up military pressure around the island, but the proposal still faces resistance from Taiwan\u2019s opposition-controlled parliament.\nSource: Reuters",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-19T21:12:03+00:00",
+      "timestamp": "2026-08-20T07:22:03+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -347,12 +327,31 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "U.S. Ambassador to Israel Mike Huckabee on Iran:\nThe Iranians have been kicked in the butt twice. You would think that after that they might begin to learn that President Trump is serious when it comes to taking military action when he thinks it's the only option.\nHe has expressed to them that if they're unwilling to give up their nuclear weapons ambitions and their enrichment ambitions and if they're unwilling to open up the Strait of Hormuz, then major combat is on the table. \nIs that what he's going to do? I can't answer that because he is the only person elected and the only person who's authorized to make the decision and then to carry it out. \nBut I trust his instincts. He's had good instincts on this issue.",
+      "text": "The U.S. Army is phasing out a 600-soldier experimental drone-assault battalion in Europe, returning it to airborne infantry duties after upcoming exercises. \nActing Army chief Gen. Christopher LaNeve\u2019s move reflects a broader \u201cback-to-basics\u201d shift and reverses an initiative designed to rapidly absorb lessons from Ukraine\u2019s drone warfare.\nSource: WSJ",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-19T20:34:05+00:00",
+      "timestamp": "2026-08-20T06:29:56+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "NOW: Massive Russian missile attack on Kyiv overnight with multiple waves of ballistic and hypersonic missiles.\nResidents describe \"endless\" explosions among the loudest of the war.\nAt least 15-16 missiles tracked toward Kyiv in the first 20 minutes, including Iskander-M, North Korean KN-23, and 5-8 Zircon hypersonic missiles launched from multiple Russian regions simultaneously.\nThe attack exploits Ukraine's depleted Patriot interceptor stocks.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-19T21:12:03+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -689,203 +688,88 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
+      "text": "Ukraine's Air Force reported on the mass overnight attack.\nShot down:\n0/? Oniks/Zircon/Iskander-M/S-400 ballistic and hypersonic missiles (likely around 25 in total and might also include additional KN-23)\n31/36 Kh-101/Iskander-K/K-59 cruise missiles\n8/8 Kalibr cruise missiles\n2/2 S-8000 Banderol mini cruise missiles\n145/168 Strike drones\nOnly a handful of Patriot interceptors were fired, once again confirming Ukraine lacks them.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-20T07:03:02+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "A substation is on fire in Cheboksary, Russia. The electrical grid was hit by a Ukrainian drone.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-20T06:28:39+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "The death toll from a Russian missile strike on Kyiv rose to 12, while 34 other people were injured, Kyiv Mayor Vitali Klitschko said.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-20T06:27:00+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "Horrible footage coming out of Ukraine. Russia, master in causing mass terror, launched a large-scale missile and drone attack across Ukraine overnight, using ballistic missiles, Kalibr cruise missiles, hypersonic cruise missiles and strike drones. Kyiv was hit repeatedly. At least 12 people were killed and 33 injured in the capital. In Solomianskyi district, the upper floors of a 9-story residential building were destroyed, while other homes, a school and a children's hospital were damaged. Fires broke out at warehouses and non-residential sites in Sviatoshynskyi and Darnytskyi districts.\nRussian drones also reportedly entered Moldovan and Romanian airspace during the attack, with one exploding in an uninhabited area of Romania.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-20T06:26:39+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
       "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfa [The Guardian](https://www.theguardian.com/world/2026/aug/20/ukraine-kyiv-deaths-russian-missile-attack): A heavy Russian bombardment killed at least six people and wounded dozens in Kyiv and the surrounding region overnight, according to Ukrainian authorities. Five people were killed in the capital, where residential buildings, a medical facility and an educational institution were damaged. \nKyiv mayor Vitali Klitschko said the attack struck residential areas and warehouses, with the upper floors of a nine-storey residential building collapsing and fires reported at several locations. Emergency services were responding to reports of people trapped inside damaged buildings. \nThe overnight strikes came amid continued Russian attacks across Ukraine, with civilian casualties also reported in other regions. The latest bombardment adds to the pressure on Kyiv as Russian missile and drone attacks continue despite ongoing international efforts to end the war. \n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-20T05:27:07+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "BBC World News",
-        "CASELS"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfa Close up footage showcasing the moment two ballistic missiles struck Kyiv, Ukraine.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-20T05:23:13+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfa Footage showcasing a ballistic missile strike on Kyiv, Ukraine.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-20T05:23:10+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfa Reports suggest that up-to 20 missiles have struck the Ukrainian capital within minutes.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-20T05:23:05+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfa Additional footage from Kyiv following Russian ballistic impacts.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-20T05:23:02+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfa Footage from Kyiv following Russian ballistic impacts.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-20T05:22:58+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\udde8\ud83c\uddf4 Colombian Rapid Deployment Force No. 7, with support from the CTI, secured the surrender of alias \"La Mona,\" accused of operating drones and serving as an explosives expert for the FARC's Structure 36 in Brice\u00f1o.\nThe operation led to the seizure of an AK-47 rifle, ammunition, three drones, 30 60mm grenades, 25 improvised explosive devices, seven anti-personnel mines, and over 100 kilos of explosives, along with the dismantling of a homemade explosives factory.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-20T05:22:46+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1\ud83c\uddf5\ud83c\uddf8 About an hour ago, an IDF drone reportedly struck a motorcycle west of the Nuseirat camp in central Gaza.\nLocal reports identify the man killed in the strike as Sami Mahmoud.\nThe IDF says that it struck \"terror operatives, with further details to be provided later\".",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-20T05:15:16+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "#Myanmar \ud83c\uddf2\ud83c\uddf2: People's Defense Forces (#PDF) attacked Burmese Military supply ships in Kani Township, Sagaing.\nFighters used MA-10 RPG Launcher (domestic copy of the RPG-7) with \u201cMR-1\u201d AP rockets, MA-3 MK II carbines and MA-1 MK II assault rifles.\nhttps://x.com/war_noir/status/2090301910926409825",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-20T05:13:23+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "#Pakistan \ud83c\uddf5\ud83c\uddf0: Tehrik-e #Taliban Pakistan (#TTP) carried out drone strikes on Pakistani Army Posts in Khyber Pakhtunkhwa.\nMilitants used multiple UAVs armed with modified VOG-17 / M433 pattern Anti-Personnel grenades and Improvised Bombs.\nhttps://x.com/war_noir/status/2090081281644093878",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-20T05:12:41+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "Ukrainian soldier downs a Russian attack drone at point-blank range with an MG 3 machine gun.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-20T05:08:51+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
