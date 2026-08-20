@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T16:56:07.938269+00:00",
+  "generated_at": "2026-08-20T17:37:43.812852+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -368,25 +368,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Israel\u2019s Ben-Gurion Airport was temporarily brought to a standstill after workers halted check-in and flights amid operational difficulties and complaints over heavy workloads. \nThe disruption came during the busy summer travel season, with about 100,000 passengers expected to pass through the airport. \nWorkers cited problems handling aircraft, baggage and passengers, worsened by a shortage of available parking stands.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-20T11:59:30+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Our Wars Today",
       "text": "\u26a1\ufe0fUpdate: Death toll [rises](https://kyivindependent.com/russian-ballistic-missile-attack-rocks-kyiv-damages-childrens-hospital/) to 13 following Russia\u2019s large ballistic missile and drone attack on Kyiv. \nUkraine's Air Force said Russia launched 44 cruise missiles, two Banderol missiles, and 168 Shahed-type drones during the attack.",
       "source": "Telegram",
@@ -596,20 +577,20 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1\ud83c\uddf8\ud83c\uddfe \u2014 Syrian diplomatic source at the Foreign Ministry to Al Jazeera: Israel targeted Abu al-Duhur Airport despite being informed that there were no foreign forces there.\n\u26aa\ufe0f",
+      "publisher": "Mediterranean Man",
+      "text": "Just got informed that Rusich (actual far right paramilitary group, participating in the Ukraine War) is promoting honest to God gambling websites on their telegram channel.\nI guess you gotta get those FPV drones somehow, there's casinos appealing to pagans in America, so there'll be casinos appealing to pagans in Russia too.\nWe, at Med Man, are happy to tell you we rejected several casino and gambling offers, as much of degenerates we are, we have our limits.\nCan't believe Slavic Nazis sold out before me man, fuuuuuck",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-18T22:07:23+00:00",
+      "timestamp": "2026-08-20T17:22:13+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN"
+        "Mediterranean Man"
       ],
       "verified_source_count": 1
     },
@@ -698,25 +679,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-19T21:04:05+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\ud83c\uddea\ud83c\uddfa\ud83c\uddfa\ud83c\uddf8\ud83c\uddf7\ud83c\uddfa NATO has developed a plan for ground combat operations in the event of a large-scale Russian attack on Alliance countries\n\u2013 Bild.\nNATO's first task is to suppress missile strikes. Fighters, missiles and drones will be deployed to disable Russian missile systems.\nOne of the targets is the Kaliningrad region, where Russia has stationed a significant number of anti-aircraft and missile systems.\nSimultaneously, on the borders with Russia and Belarus, NATO plans to create a so-called \"autonomous zone.\"\nIt is meant to serve as a protective barrier between Russian forces and those of the North Atlantic Alliance.\nIn this zone, drones and unmanned military vehicles should operate primarily.\nNATO military personnel should not be stationed there.\nIf Russian troops continue their offensive, unmanned systems are to be used to deter and stop them.\nThe next stage could involve striking targets already on Russian territory.\nThis refers to military-logistical infrastructure supplying Russian forces. Targets include airfields, military factories, bridges and railways used to transport troops and materiel to the front.\nThe Alliance also plans to rely on Russians who are opposed to the authorities.\nA separate element of the plan is the creation of an \"air bridge.\" Through it, aircraft are to deliver drones and robotic systems into Russia, which could be used to destroy military bases and airfields.\nAt the same time, the concept notes: NATO does not aim to conquer Russia. The goal is to stop and push back advancing Russian troops to Russia's borders.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-19T17:43:02+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -819,6 +781,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\u2694\ufe0f \ud83d\udd25 Geran-4 Seeker drone: Russia\u2019s new target-hunter enters the battlefield\nFresh footage of recent Russian strikes has increasingly featured the Geran-4 Seeker drone - the latest upgrade of Russia\u2019s Geran strike UAV - in key operations.\n\ud83d\udc49 The drone uses optical equipment and machine vision, allowing it to transmit imagery to an operator for target selection before automatically tracking the chosen object during the final stage of its attack. \nIn other words, instead of being sent only to strike a fixed point on a map, the new UAV can potentially be directed against targets identified in real time. \nGeran-4 Seeker's specifications include:\n\ud83d\udd34 Maneuverability at 300-400 km/h\n\ud83d\udd34 Maximum speed of 500 km/h\n\ud83d\udd34 Flying altitude of 5,000 meters\n\ud83d\udd34 Warhead capacity of 50 kg\n\ud83d\udd34 Operational range of up to 450 km\n\ud83d\udd34 Fuselage length of roughly 3.5 meters and wingspan of 3 meters\nBut it is the targeting system that appears to be the key development. Russian Defense Ministry footage has shown Geran-4 Seeker strikes against vessels and maritime targets, including operations connected with Ukraine\u2019s Black Sea and [port infrastructure and plants.](https://t.me/geopolitics_prime/72759.)\n\ud83d\udccc Ukrainian sources are alarmed by the drone's reported capabilities, especially its autonomous operations and precision targeting, and they have already had a taste of[ what it can deliver](https://t.me/geopolitics_prime/73491).\nThe drone\u2019s speed and ability to identify a target in the final stage of flight could make it particularly suited for attacks against ships and other time-sensitive targets.\n\ud83c\udfed On land, the priority is different - Ukraine\u2019s military-industrial base. Defense enterprises, logistics facilities and other military targets in Kiev and the surrounding region have repeatedly been hit as Russia continues its campaign against Ukraine\u2019s ability to manufacture and supply weapons.\nThe Russian\u2019s army goal is no longer simply to launch large numbers of UAVs toward fixed coordinates. Russia is increasingly combining mass, speed and precision, turning Geran drones into a strike platform capable of reaching the desired area first and then finding targets worth destroying.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-20T17:32:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
