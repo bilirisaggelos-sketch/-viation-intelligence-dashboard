@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T19:39:38.372506+00:00",
+  "generated_at": "2026-08-21T19:59:51.238761+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -402,13 +402,13 @@
     },
     {
       "title": "Russian double-tap drone strike kills 15 in Ukrainian mall, officials say",
-      "text": "Russian double-tap drone strike kills 15 in Ukrainian mall, officials say\nAnother 130 people, including 23 children, were injured when the shopping centre was hit, according to the regional head.",
+      "text": "Russian double-tap drone strike kills 15 in Ukrainian mall, officials say\nAt least 130 people, including 23 children, were also injured when the shopping centre was hit, according to the regional head.",
       "source": "BBC",
       "source_type": "osint",
       "publisher": "BBC World News",
       "severity": "info",
       "icon": "\ud83d\udcf0",
-      "timestamp": "2026-08-21T18:51:43+00:00",
+      "timestamp": "2026-08-21T19:49:56+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -538,6 +538,25 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
+      "text": "Israeli Diaspora Affairs Minister Amichai Chikli reposted a video claiming T\u00fcrkiye was secretly moving weapons into Syria.\nIsrael\u2019s pro-Netanyahu Channel 14 also posted the video with the same claim.\nThe footage is actually from 2022.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-21T19:45:12+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
       "text": "Russian drone strikes a minibus in Zaporizhzhia, Ukraine.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -573,25 +592,6 @@
         "Clash Report"
       ],
       "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Iran\u2019s Foreign Minister Abbas Araghchi:\n14 years ago: \u201cMost crippling sanctions in history.\u201d Failed.\n8 years ago: \u201cMaximum pressure.\u201d Failed.\n5 months ago: \u201cUnconditional surrender.\u201d Failed.\nToday: \u201cMost crushing economic operation ever.\u201d Bound to fail.\nWe have seen this movie before. Same bull. Different bullies.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-21T15:27:12+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
     },
     {
       "title": "Telegram",
