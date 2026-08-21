@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T00:02:25.658399+00:00",
+  "generated_at": "2026-08-21T01:59:34.072401+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -518,6 +518,25 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddfa\ud83c\uddf8\u27a1\ufe0f\ud83c\udde8\ud83c\uddf3\u2014 China Calls on US to Withdraw New Drone Tariffs\n\ud83d\udd39 Reuters reports that China called on the United States to immediately withdraw new Section 232 tariffs on imported drones and drone components. Chinese Commerce Ministry spokesperson He Yadong said Washington was overstretching national-security concerns and discriminating against Chinese products. Beijing argues the measures will hurt Chinese companies while disrupting global drone supply chains and weakening fair competition. \n\ud83d\udd39 The dispute follows Trump\u2019s announcement of tariffs ranging from 25% to 100% on imported drones and components, with the highest rate applying to larger or particularly sensitive systems. The administration says the measures are intended to reduce U.S. dependence on foreign drone technology and strengthen domestic manufacturing, with China as the primary target because of its dominant position in the industry. The tariffs are scheduled to begin taking effect on September 3, setting up another point of friction in U.S.-China trade relations.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-21T00:58:50+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
       "text": "\ud83c\uddee\ud83c\uddf1\u274c\ud83c\uddf1\ud83c\udde7\u2014 Fighter jets flying very low altitude over southern Lebanon.\n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
@@ -670,12 +689,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Ukraine's Air Force reported on the mass overnight attack.\nShot down:\n0/? Oniks/Zircon/Iskander-M/S-400 ballistic and hypersonic missiles (likely around 25 in total and might also include additional KN-23)\n31/36 Kh-101/Iskander-K/K-59 cruise missiles\n8/8 Kalibr cruise missiles\n2/2 S-8000 Banderol mini cruise missiles\n145/168 Strike drones\nOnly a handful of Patriot interceptors were fired, once again confirming Ukraine lacks them.",
+      "text": "An ambulance in Kherson, Ukraine was struck by a Russian drone, wounding two women.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-20T07:03:02+00:00",
+      "timestamp": "2026-08-21T01:56:53+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -689,12 +708,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "A substation is on fire in Cheboksary, Russia. The electrical grid was hit by a Ukrainian drone.",
+      "text": "North Korea launched multiple ballistic missiles from inland toward the northeast at 17:04 local time, per Japan's Ministry of Defense.\nThe missiles reached a maximum altitude of roughly 90 km, flew about 320 km, and fell outside Japan's EEZ near the eastern coast of the Korean Peninsula. No damage reported.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-20T06:28:39+00:00",
+      "timestamp": "2026-08-21T01:56:20+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -708,12 +727,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "The death toll from a Russian missile strike on Kyiv rose to 12, while 34 other people were injured, Kyiv Mayor Vitali Klitschko said.",
+      "text": "Taiwan plans a record 2027 defense budget of T$1.12 trillion ($31.4B), up 18% and above 3% of GDP, funding drones and missiles as China ramps up pressure. The opposition-controlled parliament could still block it. - Reuters",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-20T06:27:00+00:00",
+      "timestamp": "2026-08-21T01:47:03+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -727,12 +746,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Horrible footage coming out of Ukraine. Russia, master in causing mass terror, launched a large-scale missile and drone attack across Ukraine overnight, using ballistic missiles, Kalibr cruise missiles, hypersonic cruise missiles and strike drones. Kyiv was hit repeatedly. At least 12 people were killed and 33 injured in the capital. In Solomianskyi district, the upper floors of a 9-story residential building were destroyed, while other homes, a school and a children's hospital were damaged. Fires broke out at warehouses and non-residential sites in Sviatoshynskyi and Darnytskyi districts.\nRussian drones also reportedly entered Moldovan and Romanian airspace during the attack, with one exploding in an uninhabited area of Romania.",
+      "text": "Ukrainian 68th Jaeger's drone unit hit a Russian \"Zemledeliye\" in Kursk, very interesting loss.\nThe system is designed for the rapid creation of minefields from a distance in particularly dangerous areas.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-20T06:26:39+00:00",
+      "timestamp": "2026-08-21T01:44:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -746,12 +765,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfa [The Guardian](https://www.theguardian.com/world/2026/aug/20/ukraine-kyiv-deaths-russian-missile-attack): A heavy Russian bombardment killed at least six people and wounded dozens in Kyiv and the surrounding region overnight, according to Ukrainian authorities. Five people were killed in the capital, where residential buildings, a medical facility and an educational institution were damaged. \nKyiv mayor Vitali Klitschko said the attack struck residential areas and warehouses, with the upper floors of a nine-storey residential building collapsing and fires reported at several locations. Emergency services were responding to reports of people trapped inside damaged buildings. \nThe overnight strikes came amid continued Russian attacks across Ukraine, with civilian casualties also reported in other regions. The latest bombardment adds to the pressure on Kyiv as Russian missile and drone attacks continue despite ongoing international efforts to end the war. \n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "Ukrainian drones landing on pickup trucks moving logistics with unprotected soldiers sitting behind it.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-20T05:27:07+00:00",
+      "timestamp": "2026-08-21T01:43:15+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -759,6 +778,120 @@
       "verification_confidence": 30,
       "verified_sources": [
         "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "Russian soldier loading his box-fed ammunition belt and then with thermal scopes he is seen trying down a Ukrainian drone.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-21T01:43:10+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "Russian Pantsir-S1 interceptor debris is washing up on Turkey's Black Sea coast. Launch motors from 9M335 surface-to-air missiles have been recovered along the coasts of Istanbul and Sinop.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-21T01:34:27+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "Ukraine's 1129th Anti-Aircraft Missile Regiment is using Osa air defense systems to hunt Russian jet-powered drones. The air defense crews themselves are covered and backed up by Ukrainian drone operators, with RBS 70 systems also involved in the layered defense shown in the footage.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-21T01:34:12+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "Ukraine's 63rd Mechanized Brigade continues targeting Russian logistics, destroying UAZ vans used extensively by Russian forces to transport supplies. The vehicles carry everything from water to ammunition, making them frequent targets for Ukrainian drone pilots.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-21T01:33:55+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "Ukraine's military intelligence estimates Russia can produce more than 200 cruise and ballistic missiles per month. Its stocks include 600+ Oniks, 450+ Kalibr, 400 S-400 missiles, around 130 Iskander-M, 120+ Zircon and up to 100 Kh-101 missiles. As of July, Russia also held around 50 Kinzhal missiles and roughly 50 North Korean KN-23, KN-24 and KN-30 missiles. In July alone, Russia produced 65 Iskander-M and 87 Kh-101 missiles.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-21T01:33:21+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddfa\ud83c\uddf8\ud83d\udcb5 Pentagon\u2019s $1 trillion gravy train: boondoggles, overruns and blank checks\nThe US military budget is enormous, obscure, and resistant to scrutiny, reports ProPublica.\nCongress has appropriated $1 trillion for defense this year wants to push that figure toward $1.5 trillion next year. But what exactly is that money buying?\nPentagon budget documents bury billions under bureaucratic labels, such as $32.6 billion for \u201cOther Procurement, Air Force.\u201d The department\u2019s eighth consecutive failure to pass a financial audit in 2025 left it unable to account for $4.65 trillion in assets.\nAs a result, flagship programs arrive late and wildly over budget.\n\ud83d\udd34 The Zumwalt-class destroyer, once praised for \u201caffordable and flexible design,\u201d ballooned from an estimated $1.5 billion per ship to more than $10 billion; only three of the planned 32 were built\n\ud83d\udd34 The F-35 Joint Strike Fighter, sold as a \u201cremarkable, capable and affordable\u201d multirole fighter, is now projected to cost $2 trillion over its lifetime - while fully mission-capable only about a quarter of the time\n\ud83d\udd34 A next-generation GPS control system jumped from $4.5 billion to over $7.5 billion before being canceled after 16 years and $6.27 billion spent\n\ud83d\udd34 The previously-reported $533 million artillery factory that produced precisely [zero operational shells](https://t.me/geopolitics_prime/73342)\nThe waste is not limited to flagship failures. The Pentagon is openly fleeced by its suppliers.\n\ud83d\udccc Ohio-based military parts supplier TransDigm was caught for product markups reaching 4,000% (2019)\n\ud83d\udccc Raytheon Company (RTX Corporation subsidiary) extracted $111 million through pricing fraud on Pentagon contracts, including for Patriot systems, before paying nearly $1 billion to settle related probes (2024)\nThe beneficiaries are concentrated: between 2020 and 2024, just five defense giants - Lockheed Martin, Boeing, General Dynamics, RTX and Northrop Grumman - received a combined $771 billion in Defense Department contracts (The Thomas J. Watson Jr. School of International and Public Affairs).\n\ud83d\udc49 Trump came in spewing rhetoric about reform and accountability, yet two marquee programs, such as the [\u2018Golden Dome\u2019 missile shield](https://t.me/geopolitics_prime/69509) and the [\"Trump Class\" battleships](https://t.me/geopolitics_prime/61799), are boondoggles estimated to cost over $1 trillion combined. \nMeanwhile, [Trump himself cashed in](https://t.me/geopolitics_prime/69627) on the Pentagon\u2019s kill\u2011chain stock Palantir, while his sons Donald Trump Jr. and Eric Trump [make millions off investments](https://t.me/geopolitics_prime/72118) in a slew of US weapon and tech firms.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-21T01:20:58+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
