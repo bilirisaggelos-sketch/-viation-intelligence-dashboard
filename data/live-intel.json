@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T10:36:42.978184+00:00",
+  "generated_at": "2026-08-21T11:05:06.608442+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -260,13 +260,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Geopolitics Prime",
         "Middle East Spectator"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -322,6 +321,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "US Faces Critical Missile Shortages: Can It Still Defend Several Allies at Once?\nCSIS estimates the US has about 800 Patriot missiles left, sharpening doubts in Europe, Asia, and the Gulf over whether Washington can defend several theaters at once.\n[READ MORE](https://clashreport.com/world/articles/us-faces-critical-missile-shortages-can-it-still-defend-several-allies-at-once-xrnv6iy9rs9/)",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-21T10:45:35+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
       ],
       "verified_source_count": 1
     },
@@ -803,6 +821,25 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8 So how, exactly, did we get here?\nTrump now says cutting a deal with Iran is complicated, because so many Iranian leaders are dead.\n\ud83d\udcac \"Part of the problem is that a lot of the leadership is gone. It makes a deal tough,\" Trump told Michael Cohen on WABC 77.\nHis own team, he claims, doesn\u2019t even know who to negotiate with.\nApparently, demented Donald has forgotten whose missiles, alongside Israeli aircraft, actually did the killing. He also seems to have conveniently forgotten how he himself boasted about assassinating Ayatollah Khamenei.\nAnd now, suddenly, he has no one to talk to? Funny how that works.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-21T11:02:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
       "text": "\ud83e\udd25\ud83d\udcb5 Trump\u2019s Pentagon growing more wasteful and opaque \u2013 now it wants to gut oversight\nThe Pentagon and the US military-industrial complex are moving to dismantle an independent testing body \u2013 potentially to the military\u2019s own detriment.\nThe Office of the Director, Operational Test and Evaluation (DOT&E), created by the US Congress in 1983 as an independent adviser on operational and live-fire testing of major weapon systems to the Secretary of Defense, has seen its staff and programs trimmed under Trump.\n\ud83d\udc49 Secretary of War Pete Hegseth, who vowed to run \u201cthe most transparent Department of Defense in history\", slashed the body's staff to 30 from 126, and had 90 programs removed from its oversight, according to Bloomberg.\nIn late July, the Pentagon also removed 25 years of weapon-testing reports from its public website, citing concerns that adversaries could use AI to identify vulnerabilities in US weapons systems.\nEarlier this year, US defense officials blocked the public release of a Government Accountability Office (GAO) report on the controversial $1.6 trillion F-35 program, designating it \u201cControlled Unclassified Information\u201d (CUI) and restricting public access.\nThe developments have coincided with Pentagon setbacks in Iran and a growing scandal over depleted US missile stocks, which reportedly sparked Trump\u2019s ire at Hegseth.\nUS weapons are 'garbage'\nHowever, the department's attempts to scale down transparency and sweep existing problems under the rug is only making things worse, analysts told Responsible Statecraft.\n\ud83d\udcac \u201cPentagon careerists and corporate go-fers have been attempting to either get rid of or defang DOT&E since its inception,\" former GAO employee Winslow Wheeler told RS. When the body revealed weapon flaws to the public, their money flows were interrupted.\nPreviously, Congress and the public could see which US weapons were performing well and which were falling short, Wheeler noted. \u201cThat ability has now been mostly eliminated.\u201d This is particularly concerning as the Trump administration pursues a growing number of costly weapons programs, including Golden Dome and others.\n\u27a1\ufe0f The fact that Trump's Pentagon decided \"to hide this information is proof positive that the weapons that we're producing are garbage,\u201d Dan Grazier, the director of the Stimson Center\u2019s National Security Reform program, said, as qouted by RS.\nUnder these circumstances, it is hardly surprising that Patriot air defense systems are struggling to protect US allies in Israel, the Gulf and Ukraine \u2013 let alone the Pentagon\u2019s chronically delayed and vastly expensive weapons programs.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
@@ -970,26 +1007,6 @@
         "Geopolitics Prime"
       ],
       "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddfe\ud83c\uddea\ud83c\uddf8\ud83c\udde6 Yemen\u2019s Houthis carry out drone attacks targeting Abha airport and Aramco facilities in Saudi Arabia\n\ud83d\udcac Statement from Spokesman for the Yemeni Armed Forces, Brigadier General Yahya Saree: \n\ud83d\udd0a \u201cThe Yemeni Armed Forces, thanks to God, carried out two military operations using two drones, the first targeting a sensitive target of the Saudi enemy at Najran Airport and the other targeting Aramco in Najran, and both operations achieved their objectives successfully, thanks to God. \n\ud83d\udde3 These two operations came in response to the Saudi enemy's violation of Saada Province's airspace with its drone, and the Armed Forces will continue to protect Yemen's sovereignty from any breach and consolidate this equation, God willing.\u201d\nIn recent weeks, Houthis repeatedly [conducted strikes](https://t.me/geopolitics_prime/73556) on Aramco facilities in Jizan, Yanbu, and Najran. \n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-20T14:28:54+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Geopolitics Prime",
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 2
     },
     {
       "title": "Telegram",
