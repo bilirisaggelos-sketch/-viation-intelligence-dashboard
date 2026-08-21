@@ -1,6 +1,44 @@
 {
-  "generated_at": "2026-08-21T13:27:42.593686+00:00",
+  "generated_at": "2026-08-21T14:08:50.820791+00:00",
   "events": [
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nPlymouth, MI, Thursday, August 27, 2026 through Sunday, August 30, 2026 Local\nFacility: ZOB",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "08/21/2026",
+      "location": "ZOB MI",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nGrand Blanc, MI, Friday, August 28, 2026 through Sunday, August 30, 2026 Local\nFacility: ZOB",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "08/21/2026",
+      "location": "ZOB MI",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nDENVER, CO, Thursday, August 27, 2026 through Thursday, August 27, 2026 Local\nFacility: ZDV",
@@ -308,6 +346,25 @@
     {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
+      "text": "\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddf8\ud83c\udde6 \u2014 Satellite imagery shows fresh damage at Saudi Arabia\u2019s Jazan Oil Refinery following the August 18 Houthi (Ansarallah) drone strike, with a large oil storage tank appearing to have been hit and burned.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-21T13:44:41+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
       "text": "\u2014 \ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea Saudi tank gets hit by a munition dropped from a Yemeni drone, and completely explodes\nThe Yemenis have clearly received training of some kind; accurate hits from such altitudes are not easy.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -336,13 +393,14 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
       "verified_sources": [
+        "Alsaa Plus EN",
         "Clash Report",
         "Middle East Spectator"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 3
     },
     {
       "title": "Telegram",
@@ -384,20 +442,20 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddea\ud83c\uddfa/\ud83c\uddee\ud83c\uddf7 NEW: In a statement, NATO says it is prepared to deal with any threat against its member states, emphasizing that NATO air defenses have already intercepted Iranian ballistic missiles on 4 occasions headed to Turkey in the past",
+      "publisher": "Clash Report",
+      "text": "NATO massed roughly 25 aircraft near Russia's Kaliningrad exclave on August 18, including US and Norwegian fighters, an AWACS, the rare EA-37B Compass Call electronic warfare aircraft, and Apache attack helicopters.\nThe package flew orbits over northeastern Poland focused on the electromagnetic environment around Kaliningrad. \nNATO framed it as planned training for interoperability and deterrence, not a response to any specific Russian action. \nThe operation continued over subsequent days and was first flagged by OSINT flight trackers before official confirmation.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-19T14:32:59+00:00",
+      "timestamp": "2026-08-21T13:32:08+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Middle East Spectator"
+        "Clash Report"
       ],
       "verified_source_count": 1
     },
@@ -432,13 +490,14 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
       "verified_sources": [
+        "Alsaa Plus EN",
         "Clash Report",
         "Middle East Spectator"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 3
     },
     {
       "title": "Telegram",
@@ -671,12 +730,54 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddfa\ud83c\uddf8\u27a1\ufe0f\ud83c\udde8\ud83c\uddf3\u2014 China Calls on US to Withdraw New Drone Tariffs\n\ud83d\udd39 Reuters reports that China called on the United States to immediately withdraw new Section 232 tariffs on imported drones and drone components. Chinese Commerce Ministry spokesperson He Yadong said Washington was overstretching national-security concerns and discriminating against Chinese products. Beijing argues the measures will hurt Chinese companies while disrupting global drone supply chains and weakening fair competition. \n\ud83d\udd39 The dispute follows Trump\u2019s announcement of tariffs ranging from 25% to 100% on imported drones and components, with the highest rate applying to larger or particularly sensitive systems. The administration says the measures are intended to reduce U.S. dependence on foreign drone technology and strengthen domestic manufacturing, with China as the primary target because of its dominant position in the industry. The tariffs are scheduled to begin taking effect on September 3, setting up another point of friction in U.S.-China trade relations.\n\u26aa\ufe0f",
+      "text": "\ud83c\uddf8\ud83c\udde6\u274c \ud83c\uddfe\ud83c\uddea\ud83c\uddfe\ud83c\uddea\nHigh-quality footage of targeting gatherings and vehicles belonging to the Saudi Backed Forces with the \"Rajoom\" drone in Ma'rib and the western coast.\n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-21T00:58:50+00:00",
+      "timestamp": "2026-08-21T14:04:22+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Clash Report",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 3
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddf8\ud83c\udde6\u274c\ud83c\uddfe\ud83c\uddea\ud83c\uddfe\ud83c\uddeaImages of targeting gatherings and vehicles belonging to the Saudi backed forces with a \"Rajoom\" drone by Yemen Ansarallah in Ma'rib and the western coast.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-21T13:50:37+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Clash Report",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 3
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddf7\ud83c\uddfa\u274c\ud83c\uddfa\ud83c\udde6 \u2014 Mayor of Moscow: Six drones flying toward the capital were destroyed.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-21T13:39:17+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -690,12 +791,12 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf1\u274c\ud83c\uddf1\ud83c\udde7\u2014 Fighter jets flying very low altitude over southern Lebanon.\n\u26aa\ufe0f",
+      "text": "\ud83c\uddfa\ud83c\uddf8\u27a1\ufe0f\ud83c\udde8\ud83c\uddf3\u2014 China Calls on US to Withdraw New Drone Tariffs\n\ud83d\udd39 Reuters reports that China called on the United States to immediately withdraw new Section 232 tariffs on imported drones and drone components. Chinese Commerce Ministry spokesperson He Yadong said Washington was overstretching national-security concerns and discriminating against Chinese products. Beijing argues the measures will hurt Chinese companies while disrupting global drone supply chains and weakening fair competition. \n\ud83d\udd39 The dispute follows Trump\u2019s announcement of tariffs ranging from 25% to 100% on imported drones and components, with the highest rate applying to larger or particularly sensitive systems. The administration says the measures are intended to reduce U.S. dependence on foreign drone technology and strengthen domestic manufacturing, with China as the primary target because of its dominant position in the industry. The tariffs are scheduled to begin taking effect on September 3, setting up another point of friction in U.S.-China trade relations.\n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-20T21:08:38+00:00",
+      "timestamp": "2026-08-21T00:58:50+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -1019,25 +1120,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-20T17:32:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udea8 Nighttime Russian airstrike smashes Ukraine\u2019s oil depot in Kiev\nA massive combined attack of missiles and drones struck Kiev in the early hours of August 20, hammering a fuel depot owned by a regional supplier, KLO.\nThis assault is the latest in a series of Russian strikes specifically targeting Ukraine's military-industrial backbone.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-20T15:00:29+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
