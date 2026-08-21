@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T08:08:16.803466+00:00",
+  "generated_at": "2026-08-21T08:59:58.072851+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -322,6 +322,44 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Zelensky:\nThis night, our strikes hit oil refineries in Perm, over 1600 kilometers from the border, and the Marinovka military airfield in the Volgograd region.\nWe also have confirmed that a Russian Su-34 aircraft was damaged at the Akhtubinsk airfield, approximately 600 kilometers from the front line. \nAnd in Primorsko-Akhtarsk, almost 180 kilometers away, a storage, preparation, and launch site for attack drones used by the Russians to target our people was hit.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-21T08:27:44+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Ukraine wants Elon Musk to allow Starlink-equipped drones to strike Russian missile launchers up to 200 km inside Russia, aiming to destroy launch systems instead of relying on scarce Patriot interceptors. \nMusk has not approved the request.\nSource: FT",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-21T08:09:28+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
       ],
       "verified_source_count": 1
     },
