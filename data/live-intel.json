@@ -1,6 +1,25 @@
 {
-  "generated_at": "2026-08-21T11:44:54.638932+00:00",
+  "generated_at": "2026-08-21T12:16:43.665748+00:00",
   "events": [
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nLibby AAF, AZ, Friday, August 21, 2026 through Sunday, August 23, 2026 Local\nFacility: ZAB",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "08/21/2026",
+      "location": "ZAB AZ",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nWilliamsport, PA, Friday, August 21, 2026 through Friday, August 21, 2026 Local\nFacility: ZNY",
@@ -327,6 +346,25 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
+      "text": "BREAKING: T\u00fcrkiye has sought Interpol red notices for Israeli PM Benjamin Netanyahu and Afek Moskovitch over crimes against Global Sumud Flotilla activists, including genocide and crimes against humanity.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-21T11:55:25+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
       "text": "U.S. forces destroyed a $23 million MQ-9A Reaper on the ground after it made a hard landing during a 19-hour Middle East mission to prevent its sensitive equipment from falling into enemy hands.\nNewly released details show the drone had lost engine power after a damaged wire shut down its fuel system, and its crew kept it airborne for nearly 10 minutes before the forced landing. \nAn Air Force investigation found no evidence that the recent engine replacement or maintenance caused the failure.\nSource: Task & Purpose",
       "source": "Telegram",
       "source_type": "telegram",
@@ -428,25 +466,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-21T08:09:28+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Russia\u2019s Pacific Fleet conducted a Bastion missile test off the disputed Kuril Islands on Thursday, after Putin visited the area for the first time last week.\nThe exercise involved a cruiser and nuclear submarine and simulated attacks on ships 300+ km away.\nJapan protested, saying Russia\u2019s military buildup on the islands is unacceptable and violates its territorial claims, further worsening already strained Japan-Russia relations.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-21T07:47:21+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -688,12 +707,12 @@
     {
       "title": "Telegram",
       "publisher": "Mediterranean Man",
-      "text": "Just got informed that Rusich (actual far right paramilitary group, participating in the Ukraine War) is promoting honest to God gambling websites on their telegram channel.\nI guess you gotta get those FPV drones somehow, there's casinos appealing to pagans in America, so there'll be casinos appealing to pagans in Russia too.\nWe, at Med Man, are happy to tell you we rejected several casino and gambling offers, as much of degenerates we are, we have our limits.\nCan't believe Slavic Nazis sold out before me man, fuuuuuck",
+      "text": "The missiles were launched after midnight, under weather conditions that helped keep the toxic gases close to the ground, leading to a large number of casualties while people were sleeping.\nThe attack came at a time when Ghouta was suffering from a siege imposed by the regime since the end of 2012, which restricted the entry of fuel, medicines, and medical supplies, causing medical centers and staff to face large numbers of victims with limited resources.\nThe network documented the suffocation deaths of 1,144 people as a result of the attack, including 1,119 civilians, among whom were 99 children and 194 women. \nThe Ghouta attacks accounted for approximately 76 percent of the total victims of the chemical attacks carried out by the regime from December 2012 to May 2019.\nThose who survived the attack lived to face severe respiratory and cardiovascular diseases.\nSyrians mourn their dead on this day and swear to keep the memories of their fallen brothers so that no one feels remorse for the fallen regime or accuses the revolution of being unjust.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-20T17:22:13+00:00",
+      "timestamp": "2026-08-21T12:04:41+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -707,12 +726,31 @@
     {
       "title": "Telegram",
       "publisher": "Mediterranean Man",
-      "text": "I wanted to write this post some time ago, but I never got the chance until now.\nAs many as of you know, I have been busy for over a year writing three short novellas.\nOn the website we surpassed 200 copies sold - if we include other payment methods, we surpassed 700, which is a no small feat at all.\nIt did not really start as a passion project, as we were doing this whole thing of the Gaza Aid (and I have no idea why people thought it was a good idea to trust me), I was annoyed that I was unable to send any money of my own, so I wrote a short story and then sold it, where half the proceeds would go to Gaza, I sent almost a thousand dollars this way.\nAnd then almost everyone genuinely liked the first story, including personalities who went to wars and conflict zones you and I only read about and had no wish to go there ourselves.\nI learned the basics of LateX for formatting, I involved myself in artist communities to seek out artists with gentle hands who would work with me, I sought out military forums (public and private ones) in three different languages, and I met some very interesting people, in what other circumstances would I have talked to Stormtroopers, drone operators, or veterans of old conflicts in Moldova, Afghanistan, Chechnya, and the Iran-Iraq wars?\nNowadays, most people are illiterate to the extent I had to be almost pushy and pointy with flashy signs, apparently, we internet personalities have a reputation of writing uninteresting slop. TikTok has mentally raped us all, and that is fine, it was a journey of improving skillsets of the self before anything else.\nThe series is effectively finished, that is until I finish 200 pages and then stitch it all together, two publishing houses liked the material and said they will take it once I surpassed 300 pages. \nSome people I hold very dear to my heart liked it so much, that they printed it, with the covers and all, and made it an actual book on their shelves. It is a strange feeling.\nWhat can you take from this?\nPursue your own hobbies, invest your time in something and simply seek out.\nMost of your friends will not support you, in fact, some may even mock you, but you are doing it for yourself and to see what you can accomplish.",
+      "text": "\u26a1\ufe0f\ud83c\uddf8\ud83c\uddfe Families and children died of suffocation in one of the bloodiest nights of the Syrian crisis.\nThirteen years have passed since the chemical weapons attack on Eastern and Western Ghouta in the Damascus countryside, and the details of that night remain vivid in the memory of survivors, witnesses, and the medical staff who treated thousands of victims.\nThe attack took place in the early hours of Wednesday, August 21, 2013, targeting populated areas with missiles loaded with sarin gas.\nRegime forces launched four simultaneous chemical attacks on populated areas, using at least ten missiles loaded with sarin gas, with a total estimated quantity of approximately 200 liters.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-20T15:12:45+00:00",
+      "timestamp": "2026-08-21T12:03:08+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "Just got informed that Rusich (actual far right paramilitary group, participating in the Ukraine War) is promoting honest to God gambling websites on their telegram channel.\nI guess you gotta get those FPV drones somehow, there's casinos appealing to pagans in America, so there'll be casinos appealing to pagans in Russia too.\nWe, at Med Man, are happy to tell you we rejected several casino and gambling offers, as much of degenerates we are, we have our limits.\nCan't believe Slavic Nazis sold out before me man, fuuuuuck",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-20T17:22:13+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
