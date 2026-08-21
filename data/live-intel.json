@@ -1,6 +1,25 @@
 {
-  "generated_at": "2026-08-21T14:08:50.820791+00:00",
+  "generated_at": "2026-08-21T14:55:31.056937+00:00",
   "events": [
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nSt. Paul, MN, Thursday, August 27, 2026 through Monday, September 7, 2026 Local\nFacility: ZMP",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "08/21/2026",
+      "location": "ZMP MN",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nPlymouth, MI, Thursday, August 27, 2026 through Sunday, August 30, 2026 Local\nFacility: ZOB",
@@ -539,25 +558,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "U.S. forces destroyed a $23 million MQ-9A Reaper on the ground after it made a hard landing during a 19-hour Middle East mission to prevent its sensitive equipment from falling into enemy hands.\nNewly released details show the drone had lost engine power after a damaged wire shut down its fuel system, and its crew kept it airborne for nearly 10 minutes before the forced landing. \nAn Air Force investigation found no evidence that the recent engine replacement or maintenance caused the failure.\nSource: Task & Purpose",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-21T11:34:11+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Our Wars Today",
       "text": "[ICE and Iran worked together to deport Iranians from U.S., newly released emails show](https://www.pbs.org/newshour/world/ice-and-iran-worked-together-to-deport-iranians-from-u-s-newly-released-emails-show)\nHundreds of emails exchanged between U.S. immigration officials, which were obtained by the National Iranian American Council and made public Tuesday, offer the most transparent play by play yet of how the two countries worked together to arrange for more than 100 Iranians to be flown back to Iran on three separate immigration flights in September and December 2025 and January 2026. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://www.pbs.org/newshour/world/ice-and-iran-worked-together-to-deport-iranians-from-u-s-newly-released-emails-show)\npbs\u200b.org \u2022 Aug 20, 2026",
       "source": "Telegram",
@@ -730,6 +730,25 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf1 \u2014 Ben Gurion Airport Disruptions Continue for Second Consecutive Day\n\ud83d\udd39 Operations at Ben Gurion Airport remain heavily disrupted for a second day after a workers\u2019 strike brought Israel\u2019s main international airport to a standstill yesterday. The disruption has continued into today, with ongoing chaos affecting airport operations and passengers.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-21T14:10:57+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
       "text": "\ud83c\uddf8\ud83c\udde6\u274c \ud83c\uddfe\ud83c\uddea\ud83c\uddfe\ud83c\uddea\nHigh-quality footage of targeting gatherings and vehicles belonging to the Saudi Backed Forces with the \"Rajoom\" drone in Ma'rib and the western coast.\n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
@@ -739,14 +758,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
-        "Clash Report",
-        "Middle East Spectator"
+        "Alsaa Plus EN"
       ],
-      "verified_source_count": 3
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -778,25 +795,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-21T13:39:17+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddfa\ud83c\uddf8\u27a1\ufe0f\ud83c\udde8\ud83c\uddf3\u2014 China Calls on US to Withdraw New Drone Tariffs\n\ud83d\udd39 Reuters reports that China called on the United States to immediately withdraw new Section 232 tariffs on imported drones and drone components. Chinese Commerce Ministry spokesperson He Yadong said Washington was overstretching national-security concerns and discriminating against Chinese products. Beijing argues the measures will hurt Chinese companies while disrupting global drone supply chains and weakening fair competition. \n\ud83d\udd39 The dispute follows Trump\u2019s announcement of tariffs ranging from 25% to 100% on imported drones and components, with the highest rate applying to larger or particularly sensitive systems. The administration says the measures are intended to reduce U.S. dependence on foreign drone technology and strengthen domestic manufacturing, with China as the primary target because of its dominant position in the industry. The tariffs are scheduled to begin taking effect on September 3, setting up another point of friction in U.S.-China trade relations.\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-21T00:58:50+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
