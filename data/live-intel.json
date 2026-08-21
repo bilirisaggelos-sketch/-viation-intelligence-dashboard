@@ -1,6 +1,44 @@
 {
-  "generated_at": "2026-08-21T12:16:43.665748+00:00",
+  "generated_at": "2026-08-21T13:27:42.593686+00:00",
   "events": [
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nDENVER, CO, Thursday, August 27, 2026 through Thursday, August 27, 2026 Local\nFacility: ZDV",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "08/21/2026",
+      "location": "ZDV CO",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nAsheville, NC, Thursday, August 27, 2026 through Wednesday, September 2, 2026 Local\nFacility: ZTL",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "08/21/2026",
+      "location": "ZTL NC",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nLibby AAF, AZ, Friday, August 21, 2026 through Sunday, August 23, 2026 Local\nFacility: ZAB",
@@ -270,6 +308,45 @@
     {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
+      "text": "\u2014 \ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea Saudi tank gets hit by a munition dropped from a Yemeni drone, and completely explodes\nThe Yemenis have clearly received training of some kind; accurate hits from such altitudes are not easy.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-21T13:13:15+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014 \ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea WATCH: Yemen\u2019s Armed Forces have released a 10-minute compilation of targeting Saudi-backed troops, vehicles, and tanks in Marib and along the Western coast\nAll of these operations were carried out by munitions dropped from quadcopter drones. The Yemenis are surprisingly very accurate.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-21T13:09:49+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Clash Report",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
       "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea BREAKING: Yemen\u2019s Armed Forces announce carrying out two military operations in Saudi Arabia with drones\nThe first targeted a sensitive target at Najran Airport, and the second targeted Aramco facilities in Najran.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -326,20 +403,59 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea Statement by the Yemeni Armed Forces:\n\u2018The Yemeni Armed Forces have become so powerful that we are now dictating terms. With God's help, we have established three principles: \nFirst, a blockade for a blockade, whereby we have imposed a strict siege on the Saudi enemy, preventing even a single ship from passing through. Second, striking Saudi troop concentrations wherever they may be. Third, protecting Yemen's sovereignty and confronting any enemy airspace incursions. \nIn implementing this blockade for a blockade, from the declaration of the maritime embargo against the Saudi enemy on July 20th until today, the Yemeni Armed Forces have targeted eight Saudi oil tankers: five in the Red Sea and three in the Gulf of Aden and the Arabian Sea. \nAdditionally, 48 Saudi oil tankers were prevented from passing and forced to turn back, including 34 in the Arabian Sea and the Indian Ocean, and 14 in the Red Sea. \nIn response to the Saudi aggression against Sana'a Airport and Hodeidah Port, and to reinforce the principle of protecting Yemeni sovereignty from violations of our country's airspace, particularly in the governorates of Sa'dah and Hajjah, the Yemeni Armed Forces carried out nine military operations targeting Yanbu, Najran, Jizan, Abha, and oil supply lines in the Eastern Province. \nFurthermore, to solidify the principle of targeting Saudi troop concentrations wherever they may be, the Armed Forces conducted fourteen military operations targeting Saudi enemy troop concentrations in Al-Ruwaik, Al-Abr, Al-Wadi'ah, Ma'rib, and Al-Mukha, as well as ships and boats transporting equipment and reinforcements belonging to the Saudi enemy. \nThe results of these operations included the death and injury of hundreds of Saudi enemy troops, including commanders and officers; the burning and destruction of a large number of warehouses and equipment belonging to the Saudi enemy; the sinking and burning of two military landing ships transporting Saudi weapons and reinforcements in Al-Mukha; the burning and sinking of more than ten ships belonging to the Saudi enemy, which were engaged in acts of piracy, banditry, and looting in the Red Sea under Saudi directives. \nWe warn the Saudi regime against the dangers of any escalation. Any escalation will be met with a comprehensive response. The Saudi regime has no option but to lift the blockade, implement the agreements reached, end the aggression, pay salaries, allow the occupiers to leave, and return the wealth of the Yemeni people to all of us. We advise those of our countrymen who have been misled to return and leave the enemy camps, because they are Yemenis, and we do not want to target them or make them victims.\u2019",
+      "publisher": "Clash Report",
+      "text": "BIG: North Korea deployed 8,500 new troops to Russia including 400 drone operators, according to Ukrainian intelligence chief Skibitskiy in a CNN interview.\nThe drone unit is expected to conduct reconnaissance and strikes against targets inside Ukraine from Russian territory. \nThe remaining personnel include 1,000 engineers and sappers reinforcing rear positions in Russia's Kursk region.\nApproximately 25,000 North Koreans have rotated through Russia since October 2024. \nUkrainian intelligence expects Putin to request up to 50,000 additional troops when he meets Kim Jong Un in September. \nNorth Korea's Kim Yo Jong dismissed such claims as \"groundless.\"",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-19T12:50:41+00:00",
+      "timestamp": "2026-08-21T13:26:15+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Yemen's Houthis released drone strike footage showing attacks on Saudi military gatherings and vehicles in Marib and along Yemen's western coast.\nThe video shows loitering munition strikes hitting personnel groups, military vehicles, and equipment.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-21T13:07:14+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Clash Report",
         "Middle East Spectator"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "T\u00fcrkiye Requests Interpol Red Notices for Netanyahu Over Genocide Charge\nT\u00fcrkiye has asked for Interpol red notices for Benjamin Netanyahu and Afek Moskovitch over genocide and other crimes linked to the Global Sumud Flotilla attack.\n[READ MORE](https://clashreport.com/world/articles/turkiye-requests-interpol-red-notices-for-netanyahu-over-genocide-charge-96wos3bd2n6)",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-21T12:57:57+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
       ],
       "verified_source_count": 1
     },
@@ -371,101 +487,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-21T11:34:11+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "US Faces Critical Missile Shortages: Can It Still Defend Several Allies at Once?\nCSIS estimates the US has about 800 Patriot missiles left, sharpening doubts in Europe, Asia, and the Gulf over whether Washington can defend several theaters at once.\n[READ MORE](https://clashreport.com/world/articles/us-faces-critical-missile-shortages-can-it-still-defend-several-allies-at-once-xrnv6iy9rs9/)",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-21T10:45:35+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Taiwan Seeks Record Defense Budget With Drones and Missiles in Focus\nTaipei\u2019s 2027 budget would raise defense spending by 18% to more than $34.5 billion, with sharp increases in drones, missiles, and other asymmetric capabilities.\n[READ MORE](https://clashreport.com/defense/articles/taiwan-seeks-record-defense-budget-with-drones-and-missiles-in-focus-s7arv0gzd8d)",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-21T10:32:32+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Ukrainian MiG-29 jet closely chasing a Russian jet-powered Shahed drone until it crashes into an open field.\nThe video shows the fighter trailing the drone in close formation before it loses control and impacts the ground.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-21T10:09:09+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Zelensky:\nThis night, our strikes hit oil refineries in Perm, over 1600 kilometers from the border, and the Marinovka military airfield in the Volgograd region.\nWe also have confirmed that a Russian Su-34 aircraft was damaged at the Akhtubinsk airfield, approximately 600 kilometers from the front line. \nAnd in Primorsko-Akhtarsk, almost 180 kilometers away, a storage, preparation, and launch site for attack drones used by the Russians to target our people was hit.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-21T08:27:44+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Ukraine wants Elon Musk to allow Starlink-equipped drones to strike Russian missile launchers up to 200 km inside Russia, aiming to destroy launch systems instead of relying on scarce Patriot interceptors. \nMusk has not approved the request.\nSource: FT",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-21T08:09:28+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -687,25 +708,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf7\u25b6\ufe0f \u2014 Reports of explosions in the Strait of Hormuz due to Iran firing anti-ship missiles at vessels in violation.\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-20T19:10:47+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Mediterranean Man",
       "text": "The missiles were launched after midnight, under weather conditions that helped keep the toxic gases close to the ground, leading to a large number of casualties while people were sleeping.\nThe attack came at a time when Ghouta was suffering from a siege imposed by the regime since the end of 2012, which restricted the entry of fuel, medicines, and medical supplies, causing medical centers and staff to face large numbers of victims with limited resources.\nThe network documented the suffocation deaths of 1,144 people as a result of the attack, including 1,119 civilians, among whom were 99 children and 194 women. \nThe Ghouta attacks accounted for approximately 76 percent of the total victims of the chemical attacks carried out by the regime from December 2012 to May 2019.\nThose who survived the attack lived to face severe respiratory and cardiovascular diseases.\nSyrians mourn their dead on this day and swear to keep the memories of their fallen brothers so that no one feels remorse for the fallen regime or accuses the revolution of being unjust.",
       "source": "Telegram",
@@ -732,25 +734,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-21T12:03:08+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "Just got informed that Rusich (actual far right paramilitary group, participating in the Ukraine War) is promoting honest to God gambling websites on their telegram channel.\nI guess you gotta get those FPV drones somehow, there's casinos appealing to pagans in America, so there'll be casinos appealing to pagans in Russia too.\nWe, at Med Man, are happy to tell you we rejected several casino and gambling offers, as much of degenerates we are, we have our limits.\nCan't believe Slavic Nazis sold out before me man, fuuuuuck",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-20T17:22:13+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -853,6 +836,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddfa\ud83c\uddf8\ud83d\udc41 SignalGate, psalms, and paranoia: How Jennifer Hegseth became Pete\u2019s Pentagon gatekeeper\nJennifer Hegseth may not have a Pentagon title, a military rank or even a publicly confirmed security clearance, but she has something arguably more useful in Washington: access, reports The New York Times.\nOnce the executive producer who helped turn her husband into a Fox News fixture, she has seamlessly evolved into something closer to her husband\u2019s unofficial chief of staff.\nAccording to the report she:\n\u2666\ufe0f serves as his most influential adviser\n\u2666\ufe0f preps him for appearances\n\u2666\ufe0f interviews potential staff\n\u2666\ufe0f brainstorms Defense Department videos\n\u2666\ufe0f sits in on high-level meetings\nAt one meeting with British defense officials her presence reportedly made the visitors uncomfortable enough that they later held a second session without her to discuss sensitive details. \nThe Pentagon insists she was there only for introductions. \nNow, she also chairs a presidential commission on military spouses. \nJennifer has encouraged her husband\u2019s increasingly adversarial relationship with the media, and allegedly pushed to remove Pentagon reporters who published stories unfavorable to the Secretary of War.\n\ud83d\udc49 She also maintains direct contact with members of his inner circle, while close former Fox colleague Tami Radabaugh is now Pete\u2019s communications adviser, and, reportedly, Jennifer Hegseth\u2019s \u201ceyes and ears\u201d inside the Pentagon.\nLast year Jennifer was on the notorious Signal chat in which Hegseth, using a personal device and a non-secure [messaging app, shared precise strike details](https://t.me/geopolitics_prime/60660) - number of aircraft, timing - hours before the short-lived campaign against the Houthis in Yemen. An uncensored journalist was on the same thread. \nThe episode, quickly dubbed SignalGate, apparently left Hegseth so paranoid that[ it triggered a Pentagon housecleaning. ](https://t.me/geopolitics_prime/67766)\nThen there\u2019s the religious zealotry. \nHegseth has been dialing up [the Christian rhetoric in the Iran war](https://t.me/geopolitics_prime/67283), turning the Pentagon into a pulpit. Yet, for all his divine posturing, he seems utterly dependent on his wife. \nOne insider claims the War Secretary likes his wife to travel with him to keep him out of trouble. Given his alleged history of heavy drinking, that might be wise.\nHer outsized role has raised fresh questions about Hegseth\u2019s leadership - already under fire over issues like the cost of the Iran war, [shrinking munitions stocks](https://t.me/geopolitics_prime/72941), and[ the reported mutiny aboard the USS Abraham Lincoln](https://t.me/geopolitics_prime/73465).\nMeanwhile, Jennifer still has quiet access to her husband\u2019s inner sanctum, using a garage elevator that opens directly into his office suite.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-21T12:35:31+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
