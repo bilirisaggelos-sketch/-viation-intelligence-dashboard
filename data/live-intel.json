@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T06:18:07.736671+00:00",
+  "generated_at": "2026-08-21T07:25:38.220126+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -631,44 +631,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfa Footage of a Russian double tap strike on Kiev. They used two Iskander-M/KN-23 tactical ballistic missiles.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-20T00:40:36+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfa In Kiev, the premises of a children's hospital have been damaged as a result of a Russian missile attack.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-19T22:09:37+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "CASELS",
       "text": "\ud83c\uddf7\ud83c\uddfa \ud83c\uddfa\ud83c\udde6 Russian soldier pops out of his dug out to fire an incredible shot, taking out a Ukrainian drone the camera can\u2019t even spot. \nLooks like Russia still has some marksmen among their ranks",
       "source": "Telegram",
@@ -759,6 +721,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udcb0\ud83d\udcc9Why ex-Soros employee\u2019s bid to fix US economy and contain fallout from Trump\u2019s Iran war & AI boom is doomed\nThe US Treasury\u2019s push to increase buybacks of its long-term bonds to at least $4 billion is no routine move, signaling a looming US crisis and exposing divisions between two Trump proteges: ex-Soros employee and [US Treasury Secretary Scott Bessent](https://t.me/geopolitics_prime/65029) and [Bilderberg darling and Fed chief Kevin Warsh](https://t.me/geopolitics_prime/63714.).\nWhat is Bessent doing?\nCritics say he is manipulating the bond market to push borrowing costs back down, calling the maneuver \u201cquantitative easing-lite\". What do they mean? When the Federal Reserve creates money to buy bonds and drive down interest rates, it\u2019s called quantitative easing (QE). Bessent's Treasury isn\u2019t printing dollars, but its maneuver mimics the same effect \u2013 that's why it is labeled \u201cQE-lite.\u201d\nWhy now?\n\ud83d\udd34 30-year Treasury yields surged past 5.3%, hitting their highest level since the 2007-08 financial crisis. This was because:\n\u2764\ufe0f Trump derailed US-Iran peace talks and fears of a wider war pushed oil above $90 a barrel, fueling inflation fears and rattling markets. Investors responded by selling long-term US bonds, fearing inflation would erode their fixed returns. As bond prices fall, yields rise\n\u2764\ufe0fThe massive cost of AI infrastructure has pushed tech giants to flood the market with high-yield corporate bonds, making long-term Treasuries less attractive and [further driving up government bond yields](https://t.me/geopolitics_prime/72578)\n\ud83d\udd34 The US national debt has hit $40 trillion, while mortgage rates are climbing, with the 30-year fixed rate reaching 6.75% on August 18, according to CNBC. As long-term Treasury yields drive up borrowing costs across the US economy, economists warn that another surge could squeeze US home buyers, hammer stocks and make America\u2019s massive debt burden even harder to manage\n\ud83d\udd34 Bessent has turned to bond-market manipulations just ahead of the midterms, as a housing affordability crisis or other fallout from rising long-term yields could prove politically disastrous for Team Trump\nHow will it work?\n\u2666\ufe0f The Treasury will use large amounts of cash to buy back its own long-term bonds from the market\n\u2666\ufe0f This artificial demand will push bond prices higher, automatically driving yields \u2013 and therefore borrowing costs \u2013 lower\n\u2666\ufe0f To fund the move, the Treasury isn\u2019t using tax dollars. Instead, it is issuing more ultrashort-term debt (T-bills) and replacing some longer-term debt with it\nEconomic schizophrenia, inflation and weakened dollar as a result\n\ud83d\udd34 The Federal Reserve, led by Warsh, is trying to tame inflation by keeping rates high and cooling the economy \u2013 with a growing number of Fed officials seeking rate increases. Bessent is doing the opposite, artificially pushing rates down \u2013 leaving the Treasury and the Fed pulling in opposite directions and risking financial instability\n\ud83d\udd34 By artificially lowering borrowing costs, Bessent could fuel spending, investment and short-term growth \u2013 a win Trump could claim. The downside: a fresh inflation surge\n\ud83d\udd34 The US dollar is set to weaken and become the [biggest loser of Bessent's move](https://t.me/geopolitics_prime/71094), Bloomberg predicts\nMeanwhile, the forces driving US economic turmoil and soaring debt remain unresolved: the Strait of Hormuz crisis persists, [oil prices are surging](https://t.me/geopolitics_prime/72956), AI spending is booming and inflation is gathering steam. The US economy is running a fever \u2013 and Treasury intervention could make it only worse.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-21T06:35:22+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
