@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T22:02:22.158035+00:00",
+  "generated_at": "2026-08-21T22:44:20.024186+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -545,12 +545,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
+        "Alsaa Plus EN",
         "Clash Report"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -564,12 +565,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
+        "Alsaa Plus EN",
         "Clash Report"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -745,6 +747,65 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf1\ud83c\uddf9\ud83c\uddf7\u26a1\ufe0f \u2014 U.S. Ambassador to T\u00fcrkiye Tom Barrack:\nThis idea of a greater Israel, which, you know, sometimes in Istanbul papers you wake up in the morning and there\u2019s a picture of everything from Egypt to the Maldives with some journalist saying, \"This is Israel\u2019s focus.\" \nYou wake up in Tel Aviv and there\u2019s another picture of Ottoman Empire 2.0, the same territory.\nWe don\u2019t think any of those things are true.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-21T22:33:00+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Clash Report"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddfa\ud83c\uddf8\ud83c\uddf9\ud83c\uddf7\u26a1\ufe0f \u2014 U.S. Ambassador to T\u00fcrkiye Tom Barrack:\nLet me give you the postulated theories. The first one is that the Israelis were baiting the Turks. If you remember, the Turks took out a Russian jet under the same kind of circumstances, right? Very dangerous game, having jets deployed on the border without notification, without some agreement.\nThat was the serious and worrying part because I know that the Turks \u2014 their intelligence agency, their hierarchy, their foreign minister, the president, the head of intelligence \u2014 all are concentrating on restraint. It really is. That\u2019s a fact. They\u2019re not predatory. \nThey\u2019re not interested in attacking or even engaging in any kind of kinetic or adversarial relationship with Israel. It\u2019s not good for the region. It\u2019s not good for them.\nEverybody is looking for an off-ramp someplace. In T\u00fcrkiye\u2019s mind, the off-ramp, more than Iran, is a Palestinian solution. That\u2019s really the problem in the Turkish population and the Islamic population. \nSo one theory is they were just baiting T\u00fcrkiye \u2014 that it\u2019s a very aggressive, but maybe a well-received, pre-election concept. That\u2019s one theory.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-21T22:24:55+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Clash Report"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddf7\ud83c\uddfa\u274c\ud83c\uddfa\ud83c\udde6 \u2014 Explosions heard after Kyiv was targeted by ballistic missiles.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-21T22:15:12+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
       "text": "\ud83d\udea8\ud83c\uddfa\ud83c\uddf8\ud83c\udde6\ud83c\uddea \u2014 A US Air Force F-35A Lightning II (13-5067) has broadcast a 7700 emergency squawk code while operating over the UAE at low altitude \u2014 Flightradar24.\n\u27a1\ufe0f Squawk 7700 is a universal aviation emergency signal indicating the aircraft is experiencing a general emergency requiring immediate attention.\nFollow",
       "source": "Telegram",
       "source_type": "telegram",
@@ -783,50 +844,31 @@
     {
       "title": "Telegram",
       "publisher": "Mediterranean Man",
+      "text": "\u26a1\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6 A new strike on Kiev has begun using ballistic missiles.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-21T22:23:19+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
       "text": "\u26a1\ufe0f\ud83c\uddfe\ud83c\uddea The Houthis have released a mixtape of footage from their drone pilots blowing up Saudi proxy forces in the battle for Marib.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-21T17:10:36+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "The war in Yemen is as fluid as it has been.\nThe PLC and the Houthis are slugging it out, in fact, this is the largest theater of the usage of FPV drones after Ukraine.\nExperts have been sent to both sides, sieges will be enacted in the coming months at this pace, and tens of thousands of soldiers have been mobilized.\nThe conflict will enter a hot stage, it will be determined, at some other point, whether it'll continue to do so or freeze again.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-21T16:34:55+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ufe0f\ud83c\uddf8\ud83c\uddfe\ud83c\uddee\ud83c\uddf1\ud83c\uddf5\ud83c\uddf0 The Syrian Foreign Minister: It is too early to discuss any strategic agreement with \"Israel,\" and our priority is to stop its attacks on Syria.\n \"We agreed with Pakistan to reactivate the joint ministerial committee, continue direct flights, and establish a business council.\"\n\"Syria is considering joining the Mecca Agreement for collective defense, but it has not yet made a decision on whether to join or not.\"",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-21T16:26:35+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
