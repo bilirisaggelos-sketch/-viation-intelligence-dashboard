@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T11:05:06.608442+00:00",
+  "generated_at": "2026-08-21T11:44:54.638932+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -154,6 +154,25 @@
       "verified_source_count": 1
     },
     {
+      "title": "Space Weather Message Code: ALTEF3\r",
+      "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3724\r\nIssue Time: 2026 Aug 21 1118 UTC\r\n\r\nALERT: Electron 2MeV Integral Flux exceeded 1,000pfu \nThreshold Reached: 2026 Aug 21 1105 UTC\nStation: GOES-19\nComment:",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-08-21 11:18:00.697",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
       "title": "Space Weather Message Code: SUM10R\r",
       "text": "Space Weather Message Code: SUM10R\r\nSerial Number: 926\r\nIssue Time: 2026 Aug 21 0945 UTC\r\n\r\nSUMMARY: 10cm Radio Burst \nBegin Time: 2026 Aug 21 0926 UTC\nMaximum Time: 2026 Aug 21 0932 UTC\nEnd Time: 2026 Aug 21 0934 UTC\nPeak Flux: 140 sfu\nDuration: 8 minutes\nLatest Penticton Noon Flux: 125 sfu\nComment: observed by LEA station",
       "source": "NOAA Space Weather",
@@ -219,25 +238,6 @@
       "severity": "warning",
       "icon": "\ud83d\udef0\ufe0f",
       "timestamp": "2026-08-20 11:58:35.633",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Space Weather Message Code: ALTXMF\r",
-      "text": "Space Weather Message Code: ALTXMF\r\nSerial Number: 540\r\nIssue Time: 2026 Aug 20 1139 UTC\r\n\r\nALERT: X-Ray Flux exceeded M5 \nThreshold Reached: 2026 Aug 20 1138 UTC\nNoaa Scale: R2 - Moderate\nComment: \r\n\r\nNOAA Scale: R2 - Moderate\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact centered on sub-solar point on the sunlit side of Earth. Extent of blackout of HF (high frequency) radio communication dependent upon current X-ray Flux intensity. For real-time information on affected area and expected duration please see http://www.swpc.noaa.gov/products/d-region-absorption-predictions-d-rap.",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-08-20 11:39:30.540",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -321,6 +321,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "U.S. forces destroyed a $23 million MQ-9A Reaper on the ground after it made a hard landing during a 19-hour Middle East mission to prevent its sensitive equipment from falling into enemy hands.\nNewly released details show the drone had lost engine power after a damaged wire shut down its fuel system, and its crew kept it airborne for nearly 10 minutes before the forced landing. \nAn Air Force investigation found no evidence that the recent engine replacement or maintenance caused the failure.\nSource: Task & Purpose",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-21T11:34:11+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
       ],
       "verified_source_count": 1
     },
@@ -428,25 +447,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-21T07:47:21+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "CSIS estimates the U.S. has burned through about half its prewar interceptor stocks and now has roughly 800 Patriots, while Russia alone produces more than 100 ballistic missiles a month. \nAllies in Europe, Asia and the Gulf increasingly question whether Washington has both the capacity and political will to defend them simultaneously, particularly Taiwan and NATO. \nThe Pentagon denies any critical shortage, while the U.S. is investing heavily to expand interceptor production, but rebuilding the arsenal could take years.\nSource: WSJ",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-21T07:26:54+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
