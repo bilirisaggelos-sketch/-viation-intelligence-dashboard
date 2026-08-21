@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T18:13:24.249916+00:00",
+  "generated_at": "2026-08-21T19:01:41.365122+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -401,6 +401,26 @@
       "verified_source_count": 1
     },
     {
+      "title": "Russian double-tap drone strike kills 15 in Ukrainian mall, officials say",
+      "text": "Russian double-tap drone strike kills 15 in Ukrainian mall, officials say\nAnother 130 people, including 23 children, were injured when the shopping centre was hit, according to the regional head.",
+      "source": "BBC",
+      "source_type": "osint",
+      "publisher": "BBC World News",
+      "severity": "info",
+      "icon": "\ud83d\udcf0",
+      "timestamp": "2026-08-21T18:51:43+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "BBC World News",
+        "Clash Report"
+      ],
+      "verified_source_count": 2
+    },
+    {
       "title": "Ethiopia's Virgin Mary festival in Tigray cancelled over drone strike fears",
       "text": "Ethiopia's Virgin Mary festival in Tigray cancelled over drone strike fears\nAn eagerly anticipated gathering of women will not be taking place following recent aerial strikes.",
       "source": "BBC",
@@ -546,12 +566,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
+        "BBC World News",
         "Clash Report"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
