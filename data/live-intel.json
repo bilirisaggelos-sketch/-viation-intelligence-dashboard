@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T21:41:56.220750+00:00",
+  "generated_at": "2026-08-21T22:02:22.158035+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -536,50 +536,31 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
+      "text": "U.S. Ambassador to T\u00fcrkiye Tom Barrack:\nThis idea of a greater Israel, which, you know, sometimes in Istanbul papers you wake up in the morning and there\u2019s a picture of everything from Egypt to the Maldives with some journalist saying, \"This is Israel\u2019s focus.\" \nYou wake up in Tel Aviv and there\u2019s another picture of Ottoman Empire 2.0, the same territory.\nWe don\u2019t think any of those things are true.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-21T21:50:10+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
       "text": "U.S. Ambassador to T\u00fcrkiye Tom Barrack:\nLet me give you the postulated theories. The first one is that the Israelis were baiting the Turks. If you remember, the Turks took out a Russian jet under the same kind of circumstances, right? Very dangerous game, having jets deployed on the border without notification, without some agreement.\nThat was the serious and worrying part because I know that the Turks \u2014 their intelligence agency, their hierarchy, their foreign minister, the president, the head of intelligence \u2014 all are concentrating on restraint. It really is. That\u2019s a fact. They\u2019re not predatory. \nThey\u2019re not interested in attacking or even engaging in any kind of kinetic or adversarial relationship with Israel. It\u2019s not good for the region. It\u2019s not good for them.\nEverybody is looking for an off-ramp someplace. In T\u00fcrkiye\u2019s mind, the off-ramp, more than Iran, is a Palestinian solution. That\u2019s really the problem in the Turkish population and the Islamic population. \nSo one theory is they were just baiting T\u00fcrkiye \u2014 that it\u2019s a very aggressive, but maybe a well-received, pre-election concept. That\u2019s one theory.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-21T21:39:33+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Israeli Diaspora Affairs Minister Amichai Chikli reposted a video claiming T\u00fcrkiye was secretly moving weapons into Syria.\nIsrael\u2019s pro-Netanyahu Channel 14 also posted the video with the same claim.\nThe footage is actually from 2022.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-21T19:45:12+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Russian drone strikes a minibus in Zaporizhzhia, Ukraine.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-21T17:38:23+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
