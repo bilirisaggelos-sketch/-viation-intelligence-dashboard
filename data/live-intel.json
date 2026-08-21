@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T19:59:51.238761+00:00",
+  "generated_at": "2026-08-21T20:36:10.176931+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -850,44 +850,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-21T16:26:35+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "The missiles were launched after midnight, under weather conditions that helped keep the toxic gases close to the ground, leading to a large number of casualties while people were sleeping.\nThe attack came at a time when Ghouta was suffering from a siege imposed by the regime since the end of 2012, which restricted the entry of fuel, medicines, and medical supplies, causing medical centers and staff to face large numbers of victims with limited resources.\nThe network documented the suffocation deaths of 1,144 people as a result of the attack, including 1,119 civilians, among whom were 99 children and 194 women. \nThe Ghouta attacks accounted for approximately 76 percent of the total victims of the chemical attacks carried out by the regime from December 2012 to May 2019.\nThose who survived the attack lived to face severe respiratory and cardiovascular diseases.\nSyrians mourn their dead on this day and swear to keep the memories of their fallen brothers so that no one feels remorse for the fallen regime or accuses the revolution of being unjust.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-21T12:04:41+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ufe0f\ud83c\uddf8\ud83c\uddfe Families and children died of suffocation in one of the bloodiest nights of the Syrian crisis.\nThirteen years have passed since the chemical weapons attack on Eastern and Western Ghouta in the Damascus countryside, and the details of that night remain vivid in the memory of survivors, witnesses, and the medical staff who treated thousands of victims.\nThe attack took place in the early hours of Wednesday, August 21, 2013, targeting populated areas with missiles loaded with sarin gas.\nRegime forces launched four simultaneous chemical attacks on populated areas, using at least ten missiles loaded with sarin gas, with a total estimated quantity of approximately 200 liters.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-21T12:03:08+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
