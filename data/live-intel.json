@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T08:59:58.072851+00:00",
+  "generated_at": "2026-08-21T09:48:49.005146+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -154,6 +154,25 @@
       "verified_source_count": 1
     },
     {
+      "title": "Space Weather Message Code: SUM10R\r",
+      "text": "Space Weather Message Code: SUM10R\r\nSerial Number: 926\r\nIssue Time: 2026 Aug 21 0945 UTC\r\n\r\nSUMMARY: 10cm Radio Burst \nBegin Time: 2026 Aug 21 0926 UTC\nMaximum Time: 2026 Aug 21 0932 UTC\nEnd Time: 2026 Aug 21 0934 UTC\nPeak Flux: 140 sfu\nDuration: 8 minutes\nLatest Penticton Noon Flux: 125 sfu\nComment: observed by LEA station",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-08-21 09:45:55.867",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
       "title": "Space Weather Message Code: ALTTP2\r",
       "text": "Space Weather Message Code: ALTTP2\r\nSerial Number: 1523\r\nIssue Time: 2026 Aug 20 2049 UTC\r\n\r\nALERT: Type II Radio Emission \nBegin Time: 2026 Aug 20 1848 UTC\nEstimate Velocity: 927 km/s\nComment:",
       "source": "NOAA Space Weather",
@@ -219,25 +238,6 @@
       "severity": "warning",
       "icon": "\ud83d\udef0\ufe0f",
       "timestamp": "2026-08-20 11:39:30.540",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Space Weather Message Code: WARK04\r",
-      "text": "Space Weather Message Code: WARK04\r\nSerial Number: 5406\r\nIssue Time: 2026 Aug 19 1757 UTC\r\n\r\nEXTENDED WARNING: Geomagnetic K-index of 4 expected\nExtension to Serial Number: 5405\nValid From: 2026 Aug 17 2101 UTC\nNow Valid Until: 2026 Aug 20 0900 UTC\nWarning Condition: Persistence\n\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-08-19 17:57:55.430",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -688,25 +688,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf3 India\u2019s push to develop indigenous airborne strike technology reached a new milestone as Kawa UAV\u2019s Divyastra Mk3 loitering munition, powered by a jet engine from DG Propulsion, completed its maiden flight.\nConducted at a drone testing airstrip in Uttar Pradesh (a province in the country), the test began with the integrated system mounted on a moving vehicle.\nAfter the vehicle reached the required speed, the loitering munition launched from the platform and transitioned into flight.\nThe engine reportedly met key performance requirements during the test and was deemed suitable for operational use on the loitering munition.\n(This supports my theory of India switching to a more Iranian doctrine style of using UAVs and missiles because of a lack of new gen fighters)",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-20T03:00:45+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "CASELS",
       "text": "\ud83c\uddf7\ud83c\uddfa \ud83c\uddfa\ud83c\udde6 Russian soldier pops out of his dug out to fire an incredible shot, taking out a Ukrainian drone the camera can\u2019t even spot. \nLooks like Russia still has some marksmen among their ranks",
       "source": "Telegram",
@@ -797,6 +778,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83e\udd25\ud83d\udcb5 Trump\u2019s Pentagon growing more wasteful and opaque \u2013 now it wants to gut oversight\nThe Pentagon and the US military-industrial complex are moving to dismantle an independent testing body \u2013 potentially to the military\u2019s own detriment.\nThe Office of the Director, Operational Test and Evaluation (DOT&E), created by the US Congress in 1983 as an independent adviser on operational and live-fire testing of major weapon systems to the Secretary of Defense, has seen its staff and programs trimmed under Trump.\n\ud83d\udc49 Secretary of War Pete Hegseth, who vowed to run \u201cthe most transparent Department of Defense in history\", slashed the body's staff to 30 from 126, and had 90 programs removed from its oversight, according to Bloomberg.\nIn late July, the Pentagon also removed 25 years of weapon-testing reports from its public website, citing concerns that adversaries could use AI to identify vulnerabilities in US weapons systems.\nEarlier this year, US defense officials blocked the public release of a Government Accountability Office (GAO) report on the controversial $1.6 trillion F-35 program, designating it \u201cControlled Unclassified Information\u201d (CUI) and restricting public access.\nThe developments have coincided with Pentagon setbacks in Iran and a growing scandal over depleted US missile stocks, which reportedly sparked Trump\u2019s ire at Hegseth.\nUS weapons are 'garbage'\nHowever, the department's attempts to scale down transparency and sweep existing problems under the rug is only making things worse, analysts told Responsible Statecraft.\n\ud83d\udcac \u201cPentagon careerists and corporate go-fers have been attempting to either get rid of or defang DOT&E since its inception,\" former GAO employee Winslow Wheeler told RS. When the body revealed weapon flaws to the public, their money flows were interrupted.\nPreviously, Congress and the public could see which US weapons were performing well and which were falling short, Wheeler noted. \u201cThat ability has now been mostly eliminated.\u201d This is particularly concerning as the Trump administration pursues a growing number of costly weapons programs, including Golden Dome and others.\n\u27a1\ufe0f The fact that Trump's Pentagon decided \"to hide this information is proof positive that the weapons that we're producing are garbage,\u201d Dan Grazier, the director of the Stimson Center\u2019s National Security Reform program, said, as qouted by RS.\nUnder these circumstances, it is hardly surprising that Patriot air defense systems are struggling to protect US allies in Israel, the Gulf and Ukraine \u2013 let alone the Pentagon\u2019s chronically delayed and vastly expensive weapons programs.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-21T09:32:25+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
@@ -971,25 +971,6 @@
         "Middle East Spectator"
       ],
       "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddee\ud83c\uddf1\ud83e\ude96 West\u2019s fatal blind spot: How buying Israeli arms subsidizes its next genocide\nSince October 2023, roughly two dozen countries have restricted or cancelled arms transfers to the [genocidal Zionist state.](https://t.me/geopolitics_prime/73453)\nHowever, Israel learned a brutal lesson from the 1973 Yom Kippur War: it could not depend on foreign suppliers in a crisis, and needed a domestic arms industry capable of surge production \u2013 and export orders have provided the solution.\n[A state waging war and a land grab](https://t.me/geopolitics_prime/73261) requires not just weapons but the financial infrastructure to sustain them. \n\ud83d\udd34 The cost of Israel's military campaigns since October 2023 exceeds $100 billion\n\ud83d\udd34Between 2022 and 2024, Israel's overall goods exports fell by roughly $4.50 billion (Central Bureau of Statistic), yet defense exports increased by approximately $2.35 billion (SIBAT), offsetting nearly 52% of that decline\n\ud83d\udd34State-owned manufacturers have helped plug the hole: Israel Aerospace Industries alone paid nearly $700 million in dividends to the state in 2025\n\ud83d\udd34[Rafael Advanced Defense Systems](https://t.me/geopolitics_prime/51718) added more than $220 million across two years \n\ud83d\udd34 Corporate and payroll taxes from the largest firms delivered another roughly $3\u20133.4 billion\nFurthermore, weapons ordered by foreign clients can always be quietly diverted to Israeli forces when needed.\n\u2666\ufe0f When Israel needed[ to expand Arrow missile production](https://t.me/geopolitics_prime/60597) for a major sale to Germany, it opened a new manufacturing line in 2024 - capacity that simultaneously increased its ability to replenish its own stocks during war.\n\u2666\ufe0f In January 2024, Israeli arms manufacturers postponed roughly $1.5 billion worth of deliveries to foreign customers, redirecting mortars, tank ammunition, air-defense systems, and small arms toward domestic military needs, per the Calcalist\nCutting the link is harder than a simple decision to stop buying \"stand-alone Israeli weapons systems.\" \nSupply chains are entangled, and Israeli technology is embedded throughout.\nNorway stopped buying Israeli systems yet still accepts Israeli components inside larger platforms; anything stricter, its defense minister acknowledged, would cripple NATO integration. \n\ud83d\udc49 Spain, Croatia and Slovenia proclaim embargoes while purchasing EuroSpike missiles - European-made versions of Rafael\u2019s Spike that still send revenue to a state-owned Israeli firm. \nHence, a torrent of military hardware flows out - generating billions that[ flow straight back into Israel\u2019s war chest.](https://t.me/geopolitics_prime/73506)\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-20T13:07:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
     },
     {
       "title": "Telegram",
