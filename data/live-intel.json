@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T05:46:14.572488+00:00",
+  "generated_at": "2026-08-22T06:51:07.555788+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -181,25 +181,6 @@
       "severity": "critical",
       "icon": "\ud83d\udea8",
       "timestamp": "08/20/2026",
-      "location": "ZJX FL",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nMAYPORT, FL, Monday, August 17, 2026 through Saturday, August 22, 2026 Local\nFacility: ZJX",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "08/16/2026",
       "location": "ZJX FL",
       "lat": null,
       "lon": null,
@@ -659,13 +640,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
-        "Mediterranean Man"
+        "Alsaa Plus EN"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -698,13 +678,107 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
         "Mediterranean Man"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "Drones likely hit Yeysk in Russia\u2019s Krasnodar Krai, Exilenova+ reports. The target is preliminarily identified as the port.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-22T06:13:50+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "Explosions are also reported in Yeysk, Krasnodar region this morning. Ukrainian UAVs are reportedly still active over Russia.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-22T06:13:10+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "Russia struck a railway facility in Kyiv's Darnytsia district with ballistic missiles, killing a foreman, Ukrzaliznytsia reported. The Odesa railway was also targeted during the attack. In Rozdilna, the station building was heavily damaged.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-22T06:13:07+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "\u2757\ufe0fUkrainian strike drones hit an Ozon logistics hub in Chapayevsk, Samara region, with a fire reported across 135 square meters. The moment one drone hit the facility was captured on video. The strike comes as Ukraine shifts from Wildberries to Ozon, Russia's second-largest e-commerce player, which controls about 30% of the market.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-22T06:13:04+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "\u2757\ufe0fUkrainian attack drones struck Russia's Novokuybyshevsk oil refinery this morning, with several explosions reported and a pillar of smoke rising over the facility. The refinery has an annual crude oil processing capacity of between 8 million and 8.8 million metric tons, equivalent to roughly 160,000-176,000 barrels per day.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-22T06:13:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -715,101 +789,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-22T04:44:41+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1\ud83c\uddf5\ud83c\uddf8 The IDF has now confirmed our report from two days ago identifying the man killed in the drone strike on a motorcycle west of the Nuseirat camp as Sabahi Sami Mahmoud Shahata.\nAccording to the IDF, Shahata was a Hamas platoon commander who participated in the October 7 attack and was involved in holding multiple Israeli hostages in Gaza.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-22T04:34:19+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "NETWORK GEOINT- Ukraine has struck an Ozon warehouse near Samara. A direct competitor to Wildberries, the company also operates several warehouses and logistics centers throughout Russia. It is unknown if this is an isolated event or the start of another campaign of strikes.\nRocket Man\ud83d\ude80\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\udde6 (\nPOV 52.956230\u00b0N 49.692077\u00b0E\n https://x.com/Grimm_Intel/status/2090996797221003467/photo/1",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-22T04:32:56+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "#Yemen \ud83c\uddfe\ud83c\uddea: Ansar Allah (#Houthis) struck numerous positions and vehicles belonging to Saudi-backed Forces in #Marib.\nFighters used Hexacopter Drones called \u201cRajum\u201d \u2014which were armed with OF-843 / M62Px pattern mortar bombs and Improvised (locally-made) Bombs.\nhttps://x.com/war_noir/status/2090899543206556092",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-22T04:29:37+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "#Pakistan \ud83c\uddf5\ud83c\uddf0: Tehrik-e #Taliban Pakistan (#TTP) shot down an Armed Drone operated by Pakistani Forces in Lakki Marwat.\nMilitants who shot the UAV were armed with #USA-made \ud83c\uddfa\ud83c\uddf8 M24 SWS sniper rifles, M4A1 carbine (with Thermal Sight) and AKS-47 rifle.\nhttps://x.com/war_noir/status/2090821954395590790",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-22T04:29:28+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "Russian Ka-52 attack helicopter's missile fails to lock on to an FP-1 drone as the missile goes beyond and then probably landed somewhere.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-22T04:29:10+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -1019,25 +998,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-21T09:32:25+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udea8\ud83c\uddee\ud83c\uddf7What could Iran gain from the emerging 'Sunni NATO'?\nThe Saudi-Pakistan-Turkey pact could potentially benefit Iran, despite being led by traditional US allies, argue experts.\nWhat do they mean?\nThe defense pact is not aimed at Iran, highlights Responsible Statecraft. Iran appears to know this: Iranian Foreign Ministry spokesman Esmaeil Baghaei said on August 10 that the Islamic Republic has no concerns about the[ emergence of the Mecca alliance.](https://t.me/geopolitics_prime/73198)\n\ud83d\udcac \"Any plan that is based on \u200cthe \u2060geopolitical and historical realities of the region, is comprehensive and inclusive, and correctly \u200bidentifies the \u200benemy \u2060and the threat, has a chance of \u200bhelping to strengthen \u200bsecurity \u2060and prevent instability and abuses by the Zionist enemy \u2060and \u200bits allies,\" Baghaei stressed.\nThe idea of establishing a Muslim defense alliance was floated by Arab countries and Turkey before the recent conflict involving Iran. Some Turkish officials even linked the idea to Israel\u2019s growing assertiveness toward Palestine, while Saudi Arabia and Pakistan concluded a bilateral defense pact following Israel\u2019s attack on Doha, Qatar. Some experts have drawn attention to the fact that the trilateral Mecca agreement caught Israeli intelligence agencies, as well as their Emirati counterparts, by surprise.\n\u27a1\ufe0f For Israel, this development is unsettling. For decades, Tel Aviv has sought to weaken its regional rivals and adversaries, including Iraq, Syria and Iran, while drawing Gulf monarchies into a US-backed network of security and economic ties. The apparent strategy was to prevent the emergence of a unified regional Arab front while steadily bringing Israel\u2019s neighbors into its orbit through the Abraham Accords.\nNow Israel sees Turkey, Saudi Arabia, Pakistan and potentially Egypt, Qatar and Kuwait shaping a \u201cSunni NATO,\u201d which some experts view as a counterweight to the [Israeli-UAE Hexagon Alliance](https://t.me/geopolitics_prime/71096), or \u201cAbraham Accords Axis.\u201d\nIran's opportunity?\nCommenting on the Saudi-Pakistani pact, Major General Yahya Rahim Safavi, then an adviser to Iran\u2019s supreme leader, suggested in September 2025 that Iran could eventually join the agreement. \u201cIran, Saudi Arabia, Pakistan and Iraq could move toward a collective defense pact,\u201d he said in a televised interview.\n\ud83d\udc49 Iran may still consider joining the pact \u2013 and perhaps even more so after Turkey joined the alliance, RS argues. Why? Because Ankara proved useful in thwarting an Israel-backed incursion into Iran from Iraqi Kurdistan.\nMeanwhile, the Financial Times previously reported that Saudi Arabia had been discussing a [possible peace pact between Middle Eastern players and Iran ](https://t.me/geopolitics_prime/70189)at the heights of the Iran war, launched by Israel and the US.\nIran's geopolitical chess\nWhile Iran\u2019s formal accession to the Mecca alliance remains speculative, cooperation with its members cannot be ruled out. Both the emerging \u201cSunni NATO\u201d and the Axis of Resistance view Israeli-UAE actions in the region with growing suspicion. While the Mecca pact presents itself as a more self-reliant regional security bloc, Israel and the UAE continue to favor a strong US role in regional affairs.\nMoreover, Israel\u2019s [confrontation with Turkey in Syria](https://t.me/geopolitics_prime/73545) and growing Saudi-UAE tensions could give Iran greater room to maneuver and exploit regional divisions.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-21T08:07:02+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
