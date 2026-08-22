@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T11:59:42.494919+00:00",
+  "generated_at": "2026-08-22T12:56:28.457043+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -422,6 +422,44 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
+      "text": "WATCH: Iran's military chief visited an underground ballistic missile production facility, showcasing what he called a major ramp-up in weapons output since the war began:\nBy God's grace, they have been able to produce equipment far better than in the past, with greater capabilities and superior quality. \nIn terms of quantity, they have managed to scale production significantly higher than before.\nState media highlighted a threefold increase in kamikaze drone production since the start of the conflict and claimed Iran now ranks among the world's top 10 missile powers and 6th in drone capability.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-22T12:47:09+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Thirteen years ago, former Assad regime forces fired sarin-filled rockets into sleeping neighborhoods in Eastern Ghouta.\nThe gas was invisible and odorless. \nEntire families were found dead in their beds.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-22T12:28:04+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
       "text": "Ukrainian drones hit an Ozon logistics hub in Chapayevsk, Samara Region for the first time, sparking a major fire at the roughly 135,000 m\u00b2 facility. \nOver 500 staff were evacuated and several injured.\nOzon confirmed the strike and suspended operations indefinitely, removing affected goods from its marketplace. \nThe same night, drones also hit the nearby Novokuibyshevsk oil refinery.\nThis is the first successful strike on Ozon's network after weeks of Ukrainian attacks on rival Wildberries warehouses. \nUkraine frames both e-commerce platforms as dual-use logistics supporting the Russian military.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -447,25 +485,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-22T10:33:47+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "NEW: Germany is planning nearly \u20ac12 billion for a new long-range strike arsenal to deter Russia.\nThe four-layered plan starts with cheap, mass-producible cruise missiles as early as 2027, including Ukraine's FP-5 Flamingo with 3,000 km range at roughly one-fifth the cost of a Tomahawk. \nUS Tomahawk missiles with Typhon launchers follow by end of the decade. \nThe most expensive element is a joint UK-Germany program developing stealth cruise missiles and a hypersonic glide weapon exceeding 2,000 km range, targeted for the mid-2030s.\nDocuments describe the capability as enabling strikes \"far into the rear area of an adversary\" while staying \"below the nuclear threshold.\" \nSource: Politico",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-22T10:01:00+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
