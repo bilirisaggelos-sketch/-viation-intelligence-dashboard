@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T17:59:54.466330+00:00",
+  "generated_at": "2026-08-22T18:44:46.434769+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -441,6 +441,25 @@
     },
     {
       "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "WATCH: Russian FPV drone footage shows a deliberate strike on a cyclist riding along a rural road near Kramatorsk, Ukraine.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-22T18:42:40+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
       "publisher": "Our Wars Today",
       "text": "[ICE and Iran worked together to deport Iranians from U.S., newly released emails show](https://www.pbs.org/newshour/world/ice-and-iran-worked-together-to-deport-iranians-from-u-s-newly-released-emails-show)\nHundreds of emails exchanged between U.S. immigration officials, which were obtained by the National Iranian American Council and made public Tuesday, offer the most transparent play by play yet of how the two countries worked together to arrange for more than 100 Iranians to be flown back to Iran on three separate immigration flights in September and December 2025 and January 2026. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://www.pbs.org/newshour/world/ice-and-iran-worked-together-to-deport-iranians-from-u-s-newly-released-emails-show)\npbs\u200b.org \u2022 Aug 20, 2026",
       "source": "Telegram",
@@ -607,6 +626,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Our Wars Today"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf7\u274c\u2014 Anti-ship missiles launched towards violating vessels in the Strait of Hormuz.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-22T18:05:50+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
       ],
       "verified_source_count": 1
     },
