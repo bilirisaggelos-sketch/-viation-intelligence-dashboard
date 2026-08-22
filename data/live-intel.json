@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T15:37:22.206318+00:00",
+  "generated_at": "2026-08-22T15:59:09.695758+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -460,44 +460,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "French President Macron:\nit is crucial to provide Ukraine with all the necessary means to defend its skies and thwart this aggression. \nI announced to President Zelensky the strengthening of our support, with the delivery of interceptors and the continuation of our cooperation in the wake of the launch meeting of the Anti-Missile Coalition held in Paris on July 13 last and the letter of intent signed on November 17, 2025.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-22T14:40:35+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "The U.S. State Department has approved a possible $2.3 billion Foreign Military Sale to Norway for 21 UH-60M Black Hawk helicopters and related equipment. \nThe package includes 46 engines, missile-warning and countermeasure systems, communications and navigation equipment, machine guns, rescue gear, winterization equipment and training.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-22T13:59:48+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Our Wars Today",
       "text": "[ICE and Iran worked together to deport Iranians from U.S., newly released emails show](https://www.pbs.org/newshour/world/ice-and-iran-worked-together-to-deport-iranians-from-u-s-newly-released-emails-show)\nHundreds of emails exchanged between U.S. immigration officials, which were obtained by the National Iranian American Council and made public Tuesday, offer the most transparent play by play yet of how the two countries worked together to arrange for more than 100 Iranians to be flown back to Iran on three separate immigration flights in September and December 2025 and January 2026. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://www.pbs.org/newshour/world/ice-and-iran-worked-together-to-deport-iranians-from-u-s-newly-released-emails-show)\npbs\u200b.org \u2022 Aug 20, 2026",
       "source": "Telegram",
@@ -753,25 +715,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-22T01:31:00+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfa\u2014 Ballistic missiles impact in Kiev.\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-21T23:41:36+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
