@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T12:56:28.457043+00:00",
+  "generated_at": "2026-08-22T13:38:20.670368+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -346,6 +346,26 @@
     {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
+      "text": "\ud83c\uddee\ud83c\uddf6\ud83c\uddee\ud83c\uddf7\u26a1\ufe0f \u2014 NEW: Iran has authorized several Iraqi oil tankers to transit the Strait of Hormuz following repeated requests from Baghdad through multiple diplomatic channels, according to Iran\u2019s state-run IRNA.\nSecuring special passage for Iraqi tankers was one of Baghdad\u2019s main requests during Iranian Parliament Speaker Ghalibaf's visit to Iraq.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-22T13:18:15+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Clash Report",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
       "text": "\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddf8\ud83c\udde6 \u2014 Satellite imagery shows fresh damage at Saudi Arabia\u2019s Jazan Oil Refinery following the August 18 Houthi (Ansarallah) drone strike, with a large oil storage tank appearing to have been hit and burned.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -422,6 +442,83 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
+      "text": "U.S. Ambassador to T\u00fcrkiye Tom Barrack:\nIsrael had told us for a preceding five days they were concerned about what was going on. \nWe went to our intelligence agencies. Syria talked to Mossad, gave them the information that there were no Turkish military, there was no Turkish convoy, there were no Turkish armaments, and that there was nothing adversarial or offensive going on. \nThat was on Friday. They were supposed to meet again the next week.\nThe Syrians and the Americans all thought that that was going to be a continued dialogue. We\u2019ve set up a fusion cell. They need to keep discussing it. \nAnd something went awry, and Israel decided that they needed to bomb the craters on two runways. \nThe problem with this is T\u00fcrkiye did not know it was coming. \nSo the real issue here is, without notice, to a country like T\u00fcrkiye that has a powerful military, a formidable air force, a difficult political rhetoric between Israel and T\u00fcrkiye \u2014 by the way, in my opinion, it\u2019s mostly politics \u2014 but it came 80 kilometers to their border without notification, Israeli jets.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-22T13:36:19+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "An Israeli drone hit a vehicle near Beit Jinn in southwestern Syria, roughly 10 km from the Golan border. \nThe IDF said the target was a \"terror operative\" preparing an IED attack that \"posed an immediate threat.\"\nThe target, Ammar Said Hamada, was identified as a former Assad-era 4th Division officer. \nSyria condemned the strike as a \"flagrant violation of sovereignty.\" \nSource: Enab Baladi",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-22T13:26:44+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "NEW: Iran granted special permission for Iraqi oil tankers to transit the Strait of Hormuz after repeated requests from Baghdad.\nIRNA said at least one-third of Iraq's pre-war export volume has received Iranian licenses to cross. \nIraqi President Amedi confirmed facilitation \"in recent days\" but said the matter \"remained complicated.\"\nIraq's southern seaborne exports have recovered to roughly 1.2 million barrels per day, up from near-zero earlier this year but still only about a third of pre-war levels of 3.5 million. \nBaghdad is also expanding alternative routes through T\u00fcrkiye, Syria, and Jordan.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-22T13:14:05+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Clash Report",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Feyzullah Tuna Akgun | Iraq Studies Coordinator | Center for Middle Eastern Studies (ORSAM):\n\u00a0\nIf Gulf countries cannot sell oil through Hormuz, the Development Road becomes a major alternative.\n\u00a0\nIraq imports 80% of its daily food through Basra ports - the Development Road offers an alternative supply route.\n\u00a0\nIt is also Iraq's path to a post-oil future. Over 50% of Iraqis are on public payrolls affected by oil.\n\u00a0\nThe Development Road creates new cities, industrial zones & economic alternatives.\n\u00a0\nThe broader vision is regional ownership. Solving regional problems without external or proxy actors.\n\u00a0\u00a0\nIf T\u00fcrkiye & Iraq succeed, why shouldn't Syria & Gulf states join?\n[FULL INTERVIEW](https://youtu.be/Qf116a4RNEc)",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-22T13:05:35+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
       "text": "WATCH: Iran's military chief visited an underground ballistic missile production facility, showcasing what he called a major ramp-up in weapons output since the war began:\nBy God's grace, they have been able to produce equipment far better than in the past, with greater capabilities and superior quality. \nIn terms of quantity, they have managed to scale production significantly higher than before.\nState media highlighted a threefold increase in kamikaze drone production since the start of the conflict and claimed Iran now ranks among the world's top 10 missile powers and 6th in drone capability.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -447,44 +544,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-22T12:28:04+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Ukrainian drones hit an Ozon logistics hub in Chapayevsk, Samara Region for the first time, sparking a major fire at the roughly 135,000 m\u00b2 facility. \nOver 500 staff were evacuated and several injured.\nOzon confirmed the strike and suspended operations indefinitely, removing affected goods from its marketplace. \nThe same night, drones also hit the nearby Novokuibyshevsk oil refinery.\nThis is the first successful strike on Ozon's network after weeks of Ukrainian attacks on rival Wildberries warehouses. \nUkraine frames both e-commerce platforms as dual-use logistics supporting the Russian military.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-22T10:37:05+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "The UAE has completed construction of massive metal cages around fuel storage tanks in Abu Dhabi to protect against Iranian drone attacks, after roughly four months of work.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-22T10:33:47+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -1017,25 +1076,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-21T17:32:15+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddf7\ud83c\uddfa\ud83d\ude80 Russia's fuel strikes erode Ukrainian Army's logistical flexibility and fighting capability\nThe Russian Army is steadily choking off Ukraine\u2019s fuel supplies, and the recent strike on the KLO fuel depot in Brovary is yet another nail in the coffin of Ukraine\u2019s military mobility.\nOn the night of August 20, Russian forces struck the KLO fuel and lubricants depot in Brovary, a city just northeast of Kiev, that was storing up to 8,000 cubic meters of fuel intended for Ukrainian forces. Footage filmed by an eyewitness at the industrial site quickly spread across social media. The depot has ceased operations, according to Ukrainian media reports, and the company said that no site employees were injured.\nBuilding a new gas station costs around $1.2 million, while protecting it against drone attacks costs about $44,800. Ukrainian fuel station network WOG claims that fully restoring a single station can cost up to $1.6 million. Depending on the extent of the damage, repairs can take up to ten weeks.\nSince April 2026, Russia has been intensively[ targeting Ukrainian gas stations](https://t.me/geopolitics_prime/73491), according to Ukrainian media. The extent of the damage is being downplayed by the Ukrainian side. As early as July 6, Ekonomichna Pravda reported that 200 gas stations had been hit. Despite Russia\u2019s military campaign, Ukrainian newspapers have stubbornly continued to cite that figure through the end of August.\n\ud83d\udccc Geography of the strikes\nThe strikes on fuel stations have largely followed the locations of the Ukrainian military\u2019s main fuel hubs and key axes of the Russian advance.\nRussian forces regularly [strike port infrastructure](https://t.me/geopolitics_prime/72561) in Ukraine\u2019s Odessa region and the Danube area. Izmail and Reni trade ports, which became alternative routes for fuel and weapons supplies via Romania\u2019s port of Constanta following Russian attacks in the Black Sea, have also come [under fire.](https://t.me/geopolitics_prime/73359)\nKiev, Dnepropetrovsk, Kharkov, Sumy, and the Ukrainian-occupied parts of Donetsk, Kherson and Zaporozhye regions have also come under attack, reports say.\n\ud83d\udee2 Fuel strikes cripple Ukrainian Army mobility\nRussian military analysts stress the strategic importance of knocking out all the gas stations along the Kharkov-Dnepropetrovsk highway, a key route used by Ukrainian forces to move troops from southern Donbass to the north. Ukrainian forces are particularly active along this route during major Russian offensives, such as those in the Kharkov and Sumy regions.\nThe lack of fuel stations along this stretch severely complicates the Ukrainian military\u2019s ability to redeploy units. Ukrainian forces are forced to carry their own fuel tankers, which are vulnerable to Russian airstrikes.\nStrikes on fuel stations are currently the most logical way to disrupt the enemy\u2019s fuel supply, Russian military experts argue. With virtually no major oil refineries left operating in Ukraine, aside from a few makeshift facilities, this strategy could produce results relatively quickly. Even with Western backing, Ukraine cannot make up for the fuel infrastructure knocked out of service.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-21T16:59:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
