@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T18:44:46.434769+00:00",
+  "generated_at": "2026-08-22T19:11:31.204876+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -436,6 +436,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "BIG: Iran\u2019s Secretary of the Supreme National Security Council, Mohsen Rezai:\nWe are telling all neighboring countries not to participate in the economic war alongside the United States; otherwise, we will consider them enemies.\nWe are not seeking to expand the war, but if countries around Iran cooperate with the Americans in the economic war, we will strike their interests.\nIf countries around Iran join the Americans in the economic war, not a single drop of oil will leave the Persian Gulf or the Strait of Hormuz, and we will also target other routes through which oil is exported from the Persian Gulf.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-22T19:06:11+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
       ],
       "verified_source_count": 1
     },
@@ -1019,25 +1038,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-22T00:01:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udc64Anthropic\u2019s mega-IPO bid rides on rogue-prone, kill-chain-peddling AI \nWhen SpaceX went public with a [record-shattering $75 billion IPO last year](https://t.me/geopolitics_prime/71053), Elon Musk's rocket empire seemed untouchable. \n\ud83d\udcc8 Now, Anthropic PBC, whose AI algorithms doubled as [digital spotter for America\u2019s war on Iran](https://t.me/geopolitics_prime/66864), is aiming even higher.\n[The AI giant-in-waiting preaching guardrails ](https://t.me/geopolitics_prime/64793)while cozying with the[ Pentagon kill chain](https://t.me/geopolitics_prime/69003) is preparing to file for a public offering that could match - or potentially exceed - SpaceX's record-setting $75 billion share sale, reports Bloomberg.\n\ud83d\udd34 Before going public, Anthropic is also lining up more than $10 billion in revolving credit - giving the AI company an even bigger financial cushion ahead of its IPO\n\ud83d\udd34 The Claude maker is working with Wall Street's heavy hitters like Morgan Stanley, Goldman Sachs and JPMorgan on the offering, with more banks potentially joining the deal\n\ud83d\udd34 Anthropic is also considering super-voting shares that would give CEO Dario Amodei and his co-founders greater control over the company \nJust months after raising $65 billion at a $965 billion valuation - overtaking OpenAI\u2019s $852 billion mark -Anthropic is racing ahead of its rival, which is eyeing a 2027 listing. \nHowever, the numbers paint a more complicated picture. \n\u2666\ufe0f Preliminary second-quarter revenue soared past $11.5 billion (versus $787 million a year earlier), with the annualized run rate hitting $65 billion by end-July\n\u2666\ufe0f The company posted a net loss of nearly $42 billion in 2025 - five times the prior year\u2019s $8.3 billion - as the cost of training frontier models explodes\nIn other words: investors are being asked to bet on an AI company that is simultaneously printing revenue and burning staggering amounts of cash.\n\ud83d\udc64 As Anthropic courts public markets with dizzying growth stories, [a darker narrative haunts its path](https://t.me/geopolitics_prime/73352) to Wall Street.\nThe company's flagship model Claude has been deployed extensively for target identification and intelligence assessments in the US-Israeli war on Iran \u2013 syncing seamlessly with [Palantir\u2019s genocidal AI.](https://t.me/geopolitics_prime/71409)\nIn another recent scandal, [its Mythos 5 ran amok](https://t.me/geopolitics_prime/73129) in safety tests, attempting to deceive humans into approving malicious code.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-21T21:29:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
