@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T04:42:50.224346+00:00",
+  "generated_at": "2026-08-22T05:12:29.295466+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -174,25 +174,6 @@
     },
     {
       "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nDenver, CO, Friday, August 21, 2026 through Friday, August 21, 2026 Local\nFacility: ZDV",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "08/20/2026",
-      "location": "ZDV CO",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nTampa, FL, Saturday, August 22, 2026 through Saturday, August 22, 2026 Local\nFacility: ZJX",
       "source": "FAA",
       "source_type": "official",
@@ -288,6 +269,25 @@
     },
     {
       "title": "Space Weather Message Code: ALTEF3\r",
+      "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3725\r\nIssue Time: 2026 Aug 22 0500 UTC\r\n\r\nCONTINUED ALERT: Electron 2MeV Integral Flux exceeded 1,000pfu\nContinuation of Serial Number: 3724\nBegin Time: 2026 Aug 21 1105 UTC\nYesterday Maximum 2MeV Flux: 1062 pfu\nMax time: 2026 Aug 22 0450 UTC",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-08-22 05:00:22.193",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Space Weather Message Code: ALTEF3\r",
       "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3724\r\nIssue Time: 2026 Aug 21 1118 UTC\r\n\r\nALERT: Electron 2MeV Integral Flux exceeded 1,000pfu \nThreshold Reached: 2026 Aug 21 1105 UTC\nStation: GOES-19\nComment:",
       "source": "NOAA Space Weather",
       "source_type": "official",
@@ -359,44 +359,6 @@
       "verification_confidence": 100,
       "verified_sources": [
         "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Space Weather Message Code: ALTTP2\r",
-      "text": "Space Weather Message Code: ALTTP2\r\nSerial Number: 1522\r\nIssue Time: 2026 Aug 20 1158 UTC\r\n\r\nALERT: Type II Radio Emission \nBegin Time: 2026 Aug 20 1136 UTC\nEstimate Velocity: 1201 km/s\nComment: SVI",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-08-20 11:58:35.633",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Ethiopia's Virgin Mary festival in Tigray cancelled over drone strike fears",
-      "text": "Ethiopia's Virgin Mary festival in Tigray cancelled over drone strike fears\nAn eagerly anticipated gathering of women will not be taking place following recent aerial strikes.",
-      "source": "BBC",
-      "source_type": "osint",
-      "publisher": "BBC World News",
-      "severity": "info",
-      "icon": "\ud83d\udcf0",
-      "timestamp": "2026-08-21T16:20:55+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "BBC World News"
       ],
       "verified_source_count": 1
     },
@@ -747,6 +709,25 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
+      "text": "\u26a1\ufe0f\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6 Footage from the Russian city of Saratov following a drone attack.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-22T04:44:41+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
       "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1\ud83c\uddf5\ud83c\uddf8 The IDF has now confirmed our report from two days ago identifying the man killed in the drone strike on a motorcycle west of the Nuseirat camp as Sabahi Sami Mahmoud Shahata.\nAccording to the IDF, Shahata was a Hamas platoon commander who participated in the October 7 attack and was involved in holding multiple Israeli hostages in Gaza.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -829,63 +810,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-22T04:29:10+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "Yemeni Houthi militia hit an U.S.-made M1A2S \"Abrams\" main battle tank belonging to the Saudi-backed coalition forces blowing up its ammo compartment. using a quadcopter with 120-mm mortar shell\u2014presumably it can be other ammunition too\u2014(drone-drop munition) these drone have been extensively used in Russo-Ukrainian War and had shown appearance in Myanmar and several other conflicts, it originated from Ukrainian Hexocopters or Quadcopter drones famously known as \"Baba Yega\" that could carry various mortar shells, and RPG warheads, even some heavy versions carried TM-62 anti-tank mines.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-22T04:26:07+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "Houthi footage: \"Rajoum\" quadcopter drones hit Saudi-backed forces in Marib. One Saudi tank explodes after a dropped munition strike.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-22T04:24:11+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "Russia conducted military drills on the disputed Kuril Islands, deploying a nuclear submarine and a cruiser and firing Bastion anti-ship missiles at ranges over 300 km. The exercise followed Putin's first visit to the islands. Japan called it unacceptable and a violation of its territorial integrity.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-22T04:17:13+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
