@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T23:42:09.555230+00:00",
+  "generated_at": "2026-08-22T00:02:11.413297+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -554,26 +554,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "U.S. Ambassador to T\u00fcrkiye Tom Barrack:\nThis idea of a greater Israel, which, you know, sometimes in Istanbul papers you wake up in the morning and there\u2019s a picture of everything from Egypt to the Maldives with some journalist saying, \"This is Israel\u2019s focus.\" \nYou wake up in Tel Aviv and there\u2019s another picture of Ottoman Empire 2.0, the same territory.\nWe don\u2019t think any of those things are true.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-21T21:50:10+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Clash Report"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
       "publisher": "Our Wars Today",
       "text": "[ICE and Iran worked together to deport Iranians from U.S., newly released emails show](https://www.pbs.org/newshour/world/ice-and-iran-worked-together-to-deport-iranians-from-u-s-newly-released-emails-show)\nHundreds of emails exchanged between U.S. immigration officials, which were obtained by the National Iranian American Council and made public Tuesday, offer the most transparent play by play yet of how the two countries worked together to arrange for more than 100 Iranians to be flown back to Iran on three separate immigration flights in September and December 2025 and January 2026. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://www.pbs.org/newshour/world/ice-and-iran-worked-together-to-deport-iranians-from-u-s-newly-released-emails-show)\npbs\u200b.org \u2022 Aug 20, 2026",
       "source": "Telegram",
@@ -775,13 +755,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
-        "Clash Report"
+        "Alsaa Plus EN"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -811,44 +790,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-21T22:15:12+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83d\udea8\ud83c\uddfa\ud83c\uddf8\ud83c\udde6\ud83c\uddea \u2014 A US Air Force F-35A Lightning II (13-5067) has broadcast a 7700 emergency squawk code while operating over the UAE at low altitude \u2014 Flightradar24.\n\u27a1\ufe0f Squawk 7700 is a universal aviation emergency signal indicating the aircraft is experiencing a general emergency requiring immediate attention.\nFollow",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-21T21:19:21+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf7\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8Some Reports of missile launched from southern Iran to strait of hormuz\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-21T21:10:03+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -990,6 +931,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddee\ud83c\uddf1\ud83e\udd21 Israel \u2018studied\u2019 how to attack Turkey without provoking NATO\n\ud83d\udd0a Even as Israel struggles with multiple sworn enemies, it appears to be raising the stakes \u2014 concluding that Turkish forces in Syria are a permissible target, since NATO's protective umbrella does not extend beyond the alliance\u2019s territory. Turkey \"cannot carry NATO protection abroad in a uniform,\" says Israel Hayom, owned by Miriam Adelson, a multi-million dollar Trump donor.\nWith tensions mounting between the two countries, Israel is bracing for a possible confrontation in Syria, where it believes Turkey intends to establish a long-term military foothold aimed at constraining the IDF.\nIn this scenario, Israel is weighing two main courses of action:\nPreemptively dismantling the planned military infrastructure before Turkish forces are fully deployed\u2014an approach that would minimize the risk of Western backlash.\n\u00a0\nIf that proves unworkable, strike Turkish troops directly, even if it results in casualties among NATO members, should the first option fall through.\nThe second option is now considered viable for Israel as well. While NATO\u2019s Article 5 does offer protection to Turkey, that guarantee applies strictly to its sovereign territory\u2014meaning Turkish forces operating on Syrian soil are not covered by that defensive umbrella.\nEven if Israel potentially hit Turkey itself, this wouldn\u2019t trigger NATO automatically, as consensus is required for any action, and that action need not be military.\n\ud83e\udd14 The same logic applies not only to Syria but also to Cyprus, or anywhere where Turkish influence is established.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-22T00:01:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
@@ -1154,25 +1114,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-21T06:35:22+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83e\udd21 Ex-FBI boss used Trump threat to peddle his book, DoJ argues\nAfter leaving the FBI, James Comey tapped into his years of experience at the Bureau to pen a legal thriller featuring a charismatic figure who uses coded messages to command followers to assassinate political rivals.\n\ud83e\udd14 A clever storyline to boost sales, no doubt\u2014but Comey went further. Just days before his novel landed in bookstores in May 2025, he posted a photograph of seashells laid out to spell \"86 47.\"\nThe sequence \"86 47\" is widely understood as a coded call to assassinate Donald Trump\u2014Comey's former superior at the FBI. The Department of Justice took the matter far more seriously than Comey had expected.\n\ud83d\udd25 He scrambled to remove the post as a wave of fury erupted, but the firestorm couldn\u2019t be extinguished.\nNearly a year later, on August 18, 2026, prosecutors said they had finally cracked the code exposing his intent: the author knew the numbers conveyed a threat and posted them anyway.\n\ud83d\udd0a \"Not my intention, but I\u2019ll be OK if it sells books,\" Comey wrote in a now-uncovered text message to his agent.\nComey's legal team has pushed back, arguing that the prosecution\u2019s case is nothing more than payback for the former FBI director's criticism of Trump, and that the seashell image does not constitute a legally actionable threat.\nAnd now, this cringeworthy saga enters its next act: the trial stage\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-21T03:29:02+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
