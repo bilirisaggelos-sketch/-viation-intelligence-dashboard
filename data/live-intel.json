@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T03:00:29.156991+00:00",
+  "generated_at": "2026-08-22T03:58:17.555427+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -163,25 +163,6 @@
       "icon": "\ud83d\udea8",
       "timestamp": "08/21/2026",
       "location": "ZAB AZ",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nWilliamsport, PA, Friday, August 21, 2026 through Friday, August 21, 2026 Local\nFacility: ZNY",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "08/20/2026",
-      "location": "ZNY PA",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
@@ -401,25 +382,6 @@
       "verified_source_count": 1
     },
     {
-      "title": "Russian double-tap drone strike kills 16 in Ukrainian mall, officials say",
-      "text": "Russian double-tap drone strike kills 16 in Ukrainian mall, officials say\nAt least 130 people, including 23 children, were also injured when the shopping centre was hit, according to the regional head.",
-      "source": "BBC",
-      "source_type": "osint",
-      "publisher": "BBC World News",
-      "severity": "info",
-      "icon": "\ud83d\udcf0",
-      "timestamp": "2026-08-22T01:47:54+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "BBC World News"
-      ],
-      "verified_source_count": 1
-    },
-    {
       "title": "Ethiopia's Virgin Mary festival in Tigray cancelled over drone strike fears",
       "text": "Ethiopia's Virgin Mary festival in Tigray cancelled over drone strike fears\nAn eagerly anticipated gathering of women will not be taking place following recent aerial strikes.",
       "source": "BBC",
@@ -504,25 +466,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-20T14:19:06+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7 President Trump: \n\u2018We have posession, we completely control the Strait of Hormuz. Except for some minor nuisances.\nYou know, they shoot a drone every once in a while. Not everybody is going to go through, but they come through.\nOver the last few weeks, we\u2019ve had a lot of oil coming in. It\u2019s not going to be perfect, but it\u2019s a lot of oil coming in. Actually, people are amazed.\u2019",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-19T15:42:41+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -823,12 +766,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\ud83c\uddf7\ud83c\uddfa \ud83c\uddfa\ud83c\udde6 Russian soldier pops out of his dug out to fire an incredible shot, taking out a Ukrainian drone the camera can\u2019t even spot. \nLooks like Russia still has some marksmen among their ranks",
+      "text": "\ud83c\uddf7\ud83c\uddfa #Russia - \ud83c\uddfa\ud83c\udde6 #Ukraine - \ud83c\uddf2\ud83c\udde9 #Moldova: Russian Shahed-type drones struck the Tabaki international border crossing between Ukraine and Moldova in Odesa Oblast overnight, damaging buildings and other infrastructure and causing fires. \nThe crossing has been since closed to both vehicles and pedestrians.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-21T02:23:27+00:00",
+      "timestamp": "2026-08-22T03:55:46+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -842,12 +785,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Last night, an attack by unknown UAVs targeted Akhtubinsk, Astrakhan region. The strike resulted in damage to a Su-34 frontline bomber overnight at the airfield in Akhtubinsk, causing a fuel spill and a subsequent fire.",
+      "text": "Russians attacked a minibus at a crowded stop in Zaporizhzhia with a drone. Preliminary reports say at least one person was killed and many were wounded.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-21T02:21:44+00:00",
+      "timestamp": "2026-08-22T03:54:57+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -861,12 +804,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Police officers rescued a 51-year-old security guard who was trapped under the rubble after a ballistic strike.",
+      "text": "Ukraine's MoD showed Alexa Spatium, a jet-powered interceptor drone. Babel says it can take down Geran-3, Geran-4, Geran-5 and Shahed-131, launches from a mobile catapult in minutes, then can return for reuse.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-21T02:21:29+00:00",
+      "timestamp": "2026-08-22T03:54:24+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -880,31 +823,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Russia attacked Ukraine with missiles and drones tonight. The Air Force reports that the Air Defense Forces shot down or jammed 186 enemy targets.",
+      "text": "Smoke is rising over occupied Donetsk after a drone strike. Locals say there was a secondary detonation.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-21T02:20:57+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "\ud83c\uddfa\ud83c\udde6 #Ukraine - \ud83c\uddf7\ud83c\uddfa #Russia: Russia launched another major overnight missile and drone strike on Kyiv, killing at least 12 people and injuring more than 30. \nMultiple residential buildings, as well as a children's hospital and other civilian infrastructure, were damaged in the attack. \nThe attack comes amid a critical shortage of Patriot interceptors in Ukraine, which are among the country's few systems capable of engaging Russian ballistic missiles.\nUkrainian officials have said deliveries of air-defence missiles have fallen sharply this year, while recent reports mention Patriot crews have struggled with depleted stocks.\n(via Reuters, The Guardian & \ud83d\udcf9 via on X)",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-21T02:20:29+00:00",
+      "timestamp": "2026-08-22T03:53:17+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
