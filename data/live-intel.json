@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T08:02:55.815268+00:00",
+  "generated_at": "2026-08-22T08:49:42.071583+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -979,25 +979,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-21T12:35:31+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8 So how, exactly, did we get here?\nTrump now says cutting a deal with Iran is complicated, because so many Iranian leaders are dead.\n\ud83d\udcac \"Part of the problem is that a lot of the leadership is gone. It makes a deal tough,\" Trump told Michael Cohen on WABC 77.\nHis own team, he claims, doesn\u2019t even know who to negotiate with.\nApparently, demented Donald has forgotten whose missiles, alongside Israeli aircraft, actually did the killing. He also seems to have conveniently forgotten how he himself boasted about assassinating Ayatollah Khamenei.\nAnd now, suddenly, he has no one to talk to? Funny how that works.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-21T11:02:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
