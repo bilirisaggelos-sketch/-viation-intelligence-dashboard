@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T14:00:14.101504+00:00",
+  "generated_at": "2026-08-22T14:33:28.841542+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -728,6 +728,25 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf6\ud83c\uddee\ud83c\uddf7\u26a1\ufe0f \u2014 NEW: Tehran has approved the passage of several Iraqi oil tankers through the Strait of Hormuz after Baghdad pressed the issue through several diplomatic channels during Iranian Parliament Speaker Mohammad Bagher Ghalibaf\u2019s visit to the country.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-22T14:18:37+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
       "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7 \u2014 The Chief of General Staff of the Iranian Armed Forces, Major General Ali Abdollahi, visited an underground ballistic missile production facility to review the latest development of indigenous weaponry \u2014 Farsna. \n\"The enemy must know that they cannot fight against the will of a nation,\" Abdollahi stated.\n\u2b50\ufe0f Follow",
       "source": "Telegram",
       "source_type": "telegram",
@@ -937,6 +956,25 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddf7\ud83c\uddfa\ud83d\udca5 Russian strike exposes Ukrainian drone launch sites hidden inside civilian trucks \nToday's Russian missile strikes on the Borispol area in the Kiev region targeted a storage facility where trucks used by Ukrainian special operations forces for launching long-range FP-2 drones were being stored.\nThe facility was located at a civilian truck depot, raising questions about the use of civilian infrastructure for military purposes. \nUkrainian media published images revealing that multiple trucks had special equipment for launching and storing attack drones. The footage, however, was quickly deleted by Ukrainian sources shortly after publication.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-22T14:23:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
       "text": "\ud83d\udd25 Russia pounds Ukrainian logistics as air defenses fail again\nRussian forces launched massive missile and drone strikes on Ukrainian transport and port infrastructure overnight. \nTargets hit: \n\ud83d\udccc Darnytsa train depot in Kiev - used for maintaining and repairing locomotives transporting military equipment for Ukrainian forces\n\ud83d\udccc Brovary logistics center in the Kiev region - a major Nova Poshta logistics hub, storing drone components\n\ud83d\udccc Railway station in Razdelnaya and port infrastructure in Odessa and Chernomorsk - power outages followed the strikes\nUkrainian air defense systems failed to intercept any of the ballistic missiles, the country's own Air Force admitted, following news that Ukraine is [running low on interceptor missiles](https://t.me/geopolitics_prime/73442) as Russian strikes keep getting stronger.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
@@ -1057,25 +1095,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-21T21:29:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddee\ud83c\uddf1\ud83c\uddf9\ud83c\uddf7 Israel and Turkey trade barbs and expose growing rift between US allies\nIsrael has stooped to insults against Turkish President Recep Tayyip Erdogan after striking an abandoned Syrian airport on the pretext that Damascus allegedly planned to station Turkish troops there \u2013 something Syria firmly denies.\nExperts broadly agree that the Netanyahu cabinet\u2019s bluster is aimed at projecting strength ahead of elections, as it has little else to boast about. None of its three wars \u2014 against Gaza, Iran, and Lebanon \u2013 have been won.\nTurkey\u2019s AK party spokesperson Omer Celik lashed out at Netanyahu in response, accusing him of genocide, lies, and murder. \n\ud83d\udcc8 Tensions are rising across the Middle East as Saudi Arabia, instead of embracing the Abraham Accords, has forged a trilateral defense alliance with Turkey and Pakistan.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-21T17:32:15+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
