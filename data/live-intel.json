@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T09:33:32.402834+00:00",
+  "generated_at": "2026-08-22T10:01:27.648229+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -416,6 +416,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "NEW: Germany is planning nearly \u20ac12 billion for a new long-range strike arsenal to deter Russia.\nThe four-layered plan starts with cheap, mass-producible cruise missiles as early as 2027, including Ukraine's FP-5 Flamingo with 3,000 km range at roughly one-fifth the cost of a Tomahawk. \nUS Tomahawk missiles with Typhon launchers follow by end of the decade. \nThe most expensive element is a joint UK-Germany program developing stealth cruise missiles and a hypersonic glide weapon exceeding 2,000 km range, targeted for the mid-2030s.\nDocuments describe the capability as enabling strikes \"far into the rear area of an adversary\" while staying \"below the nuclear threshold.\" \nSource: Politico",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-22T10:01:00+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
       ],
       "verified_source_count": 1
     },
