@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T13:38:20.670368+00:00",
+  "generated_at": "2026-08-22T14:00:14.101504+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -442,6 +442,25 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
+      "text": "The U.S. State Department has approved a possible $2.3 billion Foreign Military Sale to Norway for 21 UH-60M Black Hawk helicopters and related equipment. \nThe package includes 46 engines, missile-warning and countermeasure systems, communications and navigation equipment, machine guns, rescue gear, winterization equipment and training.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-22T13:59:48+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
       "text": "U.S. Ambassador to T\u00fcrkiye Tom Barrack:\nIsrael had told us for a preceding five days they were concerned about what was going on. \nWe went to our intelligence agencies. Syria talked to Mossad, gave them the information that there were no Turkish military, there was no Turkish convoy, there were no Turkish armaments, and that there was nothing adversarial or offensive going on. \nThat was on Friday. They were supposed to meet again the next week.\nThe Syrians and the Americans all thought that that was going to be a continued dialogue. We\u2019ve set up a fusion cell. They need to keep discussing it. \nAnd something went awry, and Israel decided that they needed to bomb the craters on two runways. \nThe problem with this is T\u00fcrkiye did not know it was coming. \nSo the real issue here is, without notice, to a country like T\u00fcrkiye that has a powerful military, a formidable air force, a difficult political rhetoric between Israel and T\u00fcrkiye \u2014 by the way, in my opinion, it\u2019s mostly politics \u2014 but it came 80 kilometers to their border without notification, Israeli jets.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -525,25 +544,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-22T12:47:09+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Thirteen years ago, former Assad regime forces fired sarin-filled rockets into sleeping neighborhoods in Eastern Ghouta.\nThe gas was invisible and odorless. \nEntire families were found dead in their beds.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-22T12:28:04+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
