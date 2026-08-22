@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T01:52:27.590207+00:00",
+  "generated_at": "2026-08-22T03:00:29.156991+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -220,25 +220,6 @@
       "icon": "\ud83d\udea8",
       "timestamp": "08/20/2026",
       "location": "ZJX FL",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nMyrtle Beach, SC, Friday, August 21, 2026 through Friday, August 21, 2026 Local\nFacility: ZJX",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "08/19/2026",
-      "location": "ZJX SC",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
@@ -773,12 +754,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "Alsaa Plus EN"
+        "Alsaa Plus EN",
+        "Mediterranean Man"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -801,44 +783,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddfa\ud83c\uddf8\ud83c\uddf9\ud83c\uddf7\u26a1\ufe0f \u2014 U.S. Ambassador to T\u00fcrkiye Tom Barrack:\nLet me give you the postulated theories. The first one is that the Israelis were baiting the Turks. If you remember, the Turks took out a Russian jet under the same kind of circumstances, right? Very dangerous game, having jets deployed on the border without notification, without some agreement.\nThat was the serious and worrying part because I know that the Turks \u2014 their intelligence agency, their hierarchy, their foreign minister, the president, the head of intelligence \u2014 all are concentrating on restraint. It really is. That\u2019s a fact. They\u2019re not predatory. \nThey\u2019re not interested in attacking or even engaging in any kind of kinetic or adversarial relationship with Israel. It\u2019s not good for the region. It\u2019s not good for them.\nEverybody is looking for an off-ramp someplace. In T\u00fcrkiye\u2019s mind, the off-ramp, more than Iran, is a Palestinian solution. That\u2019s really the problem in the Turkish population and the Islamic population. \nSo one theory is they were just baiting T\u00fcrkiye \u2014 that it\u2019s a very aggressive, but maybe a well-received, pre-election concept. That\u2019s one theory.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-21T22:24:55+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddf7\ud83c\uddfa\u274c\ud83c\uddfa\ud83c\udde6 \u2014 Explosions heard after Kyiv was targeted by ballistic missiles.\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-21T22:15:12+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Mediterranean Man",
       "text": "\u26a1\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6 A new strike on Kiev has begun using ballistic missiles.",
       "source": "Telegram",
@@ -849,12 +793,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
+        "Alsaa Plus EN",
         "Mediterranean Man"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -967,6 +912,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\u2721\ufe0f\ud83e\udd21 From arrogant spymasters to cringey schizoposters: Israel\u2019s Mossad got gut-punched by Iran\nWhen the new Mossad director [Roman Gofman publicly axed](https://t.me/geopolitics_prime/73222) the heads of the agency\u2019s Intelligence Directorate and Iran desk earlier in August, the message was hard to miss: something went badly wrong.\n\ud83d\udc49 The two officials, identified by codenames \"K\" and \"Y\", were reportedly closely involved in the Iran regime-change plan that spectacularly backfired.\nBefore that, out ex-Mossad boss [David Barnea and his deputy](https://t.me/geopolitics_prime/70675) were thrown under the bus over the Iran debacle.\n\ud83d\udccc The last comparable purge came in 1997, after a botched assassination attempt against Hamas political bureau chief Khaled Mashal in Jordan.\nDizzy from its \u2018successes\u2019 [rooted in sabotage and assassinations](https://t.me/geopolitics_prime/71050) in the pre-war phase targeting Iran, the Mossad sold the US a swift regime-toppling offensive. \nInstead, the strategy boomeranged calamitously, and virtually every core promise about the war's trajectory has since been shattered.\n\ud83d\udd34 After Ayatollah Ali Khamenei was killed in the opening strikes, rather than producing a succession vacuum, [his son Mojtaba](https://t.me/geopolitics_prime/71902) was appointed supreme leader \n\ud83d\udd34 [The Mossad plan](https://t.me/geopolitics_prime/66082) to use Kurdish forces to launch a large-scale insurgency backed by US and Israeli airpower fizzled out. Iran\u2019s Kurdish populations remaining loyal while [the IRGC, backed by local allies, hammered](https://t.me/geopolitics_prime/73370) militant staging areas across northern Iraq\n\ud83d\udd34 Mossad-stoked chaos in Iran, disguising regime-change bid as [pro-Democracy protests](https://t.me/geopolitics_prime/67145), flopped\n\ud83d\udd34 Despite extensive Israel-prompted US attacks on Iranian military and security targets, [Iran endured](https://t.me/geopolitics_prime/73524), shocked the Zionists with its[ swift missile recovery](https://t.me/geopolitics_prime/73384) while delivering [multi-phase retaliatory strikes](https://t.me/geopolitics_prime/72494) on American military assets across the region\n\ud83d\udd34 The Strait of Hormuz \"solution\" never materialized: Iran showed it can withstand a US maritime blockade in the south while [keeping the waterway closed](https://t.me/geopolitics_prime/73126)\nPerhaps the most telling sign of the campaign's unraveling was the Mossad's jarring shift from operating in the shadows to conducting an overt public persuasion campaign. \n\ud83e\udd21 The agency launched [Farsi-language social media accounts](https://t.me/geopolitics_prime/62120), complete with official branding, in an attempt to encourage protests and defections, serving up cryptic posts and sarcastic quote-tweets mocking Iranian officials. \nAll that fizzled out.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-22T02:51:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
