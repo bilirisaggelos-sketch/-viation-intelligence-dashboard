@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T10:01:27.648229+00:00",
+  "generated_at": "2026-08-22T10:43:19.684793+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -422,6 +422,44 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
+      "text": "Ukrainian drones hit an Ozon logistics hub in Chapayevsk, Samara Region for the first time, sparking a major fire at the roughly 135,000 m\u00b2 facility. \nOver 500 staff were evacuated and several injured.\nOzon confirmed the strike and suspended operations indefinitely, removing affected goods from its marketplace. \nThe same night, drones also hit the nearby Novokuibyshevsk oil refinery.\nThis is the first successful strike on Ozon's network after weeks of Ukrainian attacks on rival Wildberries warehouses. \nUkraine frames both e-commerce platforms as dual-use logistics supporting the Russian military.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-22T10:37:05+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "The UAE has completed construction of massive metal cages around fuel storage tanks in Abu Dhabi to protect against Iranian drone attacks, after roughly four months of work.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-22T10:33:47+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
       "text": "NEW: Germany is planning nearly \u20ac12 billion for a new long-range strike arsenal to deter Russia.\nThe four-layered plan starts with cheap, mass-producible cruise missiles as early as 2027, including Ukraine's FP-5 Flamingo with 3,000 km range at roughly one-fifth the cost of a Tomahawk. \nUS Tomahawk missiles with Typhon launchers follow by end of the decade. \nThe most expensive element is a joint UK-Germany program developing stealth cruise missiles and a hypersonic glide weapon exceeding 2,000 km range, targeted for the mid-2030s.\nDocuments describe the capability as enabling strikes \"far into the rear area of an adversary\" while staying \"below the nuclear threshold.\" \nSource: Politico",
       "source": "Telegram",
       "source_type": "telegram",
@@ -821,6 +859,25 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udd25 Russia pounds Ukrainian logistics as air defenses fail again\nRussian forces launched massive missile and drone strikes on Ukrainian transport and port infrastructure overnight. \nTargets hit: \n\ud83d\udccc Darnytsa train depot in Kiev - used for maintaining and repairing locomotives transporting military equipment for Ukrainian forces\n\ud83d\udccc Brovary logistics center in the Kiev region - a major Nova Poshta logistics hub, storing drone components\n\ud83d\udccc Railway station in Razdelnaya and port infrastructure in Odessa and Chernomorsk - power outages followed the strikes\nUkrainian air defense systems failed to intercept any of the ballistic missiles, the country's own Air Force admitted, following news that Ukraine is [running low on interceptor missiles](https://t.me/geopolitics_prime/73442) as Russian strikes keep getting stronger.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-22T10:11:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
       "text": "\ud83c\uddf8\ud83c\udde6 Houthi drone strikes tear Saudi forces apart \u2013 video\nFootage release by the Houthis shows the grisly fate of Saudi military personnel and the destruction of Saudi military hardware in Yemen\u2019s Marib governorate and along the country\u2019s western coast.\nFollowing the collapse of the 2022 UN-mediated truce last month, caused by a Saudi strike on Sanaa airport in Yemen, the Houthis stepped up their retaliatory attacks, both against Saudi invaders on Yemeni soil and against targets in Saudi Arabia.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
@@ -960,44 +1017,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-21T16:59:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udc41\ud83d\udd0d Ukraine seeks Musk\u2019s approval to use Starlink for strikes deep inside Russia \u2014 report\nThe idea is to overcome Ukraine\u2019s extreme shortage of air defense interceptors by striking Russian missile and drone bases, the Financial Times writes.\nStarlink would allow Ukrainian drones to reach as far as 200 km for such strikes \u2014 a range specifically \"limited\" so as to convince owner Elon Musk to grant access.\n\u27a1\ufe0f Volodymyr Zelensky raised the issue during a meeting with Donald Trump at the White House in July, but the US president was not supportive of the idea, with Musk himself also unlikely to approve it, sources told the outlet.\nUkraine\u2019s lobbying power is also decreased by the fact that the man who had closest contacts with Musk \u2014 former Ukrainian defense minister Mykhailo Fedorov \u2014 is no longer in Zelensky\u2019s inner circle after his dismissal, and is [even calling for elections](https://t.me/geopolitics_prime/73552), apparently aiming for his former boss' position.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-21T15:33:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddfa\ud83c\uddf8\ud83d\udc41 SignalGate, psalms, and paranoia: How Jennifer Hegseth became Pete\u2019s Pentagon gatekeeper\nJennifer Hegseth may not have a Pentagon title, a military rank or even a publicly confirmed security clearance, but she has something arguably more useful in Washington: access, reports The New York Times.\nOnce the executive producer who helped turn her husband into a Fox News fixture, she has seamlessly evolved into something closer to her husband\u2019s unofficial chief of staff.\nAccording to the report she:\n\u2666\ufe0f serves as his most influential adviser\n\u2666\ufe0f preps him for appearances\n\u2666\ufe0f interviews potential staff\n\u2666\ufe0f brainstorms Defense Department videos\n\u2666\ufe0f sits in on high-level meetings\nAt one meeting with British defense officials her presence reportedly made the visitors uncomfortable enough that they later held a second session without her to discuss sensitive details. \nThe Pentagon insists she was there only for introductions. \nNow, she also chairs a presidential commission on military spouses. \nJennifer has encouraged her husband\u2019s increasingly adversarial relationship with the media, and allegedly pushed to remove Pentagon reporters who published stories unfavorable to the Secretary of War.\n\ud83d\udc49 She also maintains direct contact with members of his inner circle, while close former Fox colleague Tami Radabaugh is now Pete\u2019s communications adviser, and, reportedly, Jennifer Hegseth\u2019s \u201ceyes and ears\u201d inside the Pentagon.\nLast year Jennifer was on the notorious Signal chat in which Hegseth, using a personal device and a non-secure [messaging app, shared precise strike details](https://t.me/geopolitics_prime/60660) - number of aircraft, timing - hours before the short-lived campaign against the Houthis in Yemen. An uncensored journalist was on the same thread. \nThe episode, quickly dubbed SignalGate, apparently left Hegseth so paranoid that[ it triggered a Pentagon housecleaning. ](https://t.me/geopolitics_prime/67766)\nThen there\u2019s the religious zealotry. \nHegseth has been dialing up [the Christian rhetoric in the Iran war](https://t.me/geopolitics_prime/67283), turning the Pentagon into a pulpit. Yet, for all his divine posturing, he seems utterly dependent on his wife. \nOne insider claims the War Secretary likes his wife to travel with him to keep him out of trouble. Given his alleged history of heavy drinking, that might be wise.\nHer outsized role has raised fresh questions about Hegseth\u2019s leadership - already under fire over issues like the cost of the Iran war, [shrinking munitions stocks](https://t.me/geopolitics_prime/72941), and[ the reported mutiny aboard the USS Abraham Lincoln](https://t.me/geopolitics_prime/73465).\nMeanwhile, Jennifer still has quiet access to her husband\u2019s inner sanctum, using a garage elevator that opens directly into his office suite.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-21T12:35:31+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
