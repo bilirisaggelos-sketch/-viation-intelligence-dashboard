@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T15:00:55.699627+00:00",
+  "generated_at": "2026-08-22T15:37:22.206318+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -358,7 +358,7 @@
       "verification_status": "PARTIALLY VERIFIED",
       "verification_confidence": 65,
       "verified_sources": [
-        "Clash Report",
+        "Alsaa Plus EN",
         "Middle East Spectator"
       ],
       "verified_source_count": 2
@@ -486,83 +486,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-22T13:59:48+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "U.S. Ambassador to T\u00fcrkiye Tom Barrack:\nIsrael had told us for a preceding five days they were concerned about what was going on. \nWe went to our intelligence agencies. Syria talked to Mossad, gave them the information that there were no Turkish military, there was no Turkish convoy, there were no Turkish armaments, and that there was nothing adversarial or offensive going on. \nThat was on Friday. They were supposed to meet again the next week.\nThe Syrians and the Americans all thought that that was going to be a continued dialogue. We\u2019ve set up a fusion cell. They need to keep discussing it. \nAnd something went awry, and Israel decided that they needed to bomb the craters on two runways. \nThe problem with this is T\u00fcrkiye did not know it was coming. \nSo the real issue here is, without notice, to a country like T\u00fcrkiye that has a powerful military, a formidable air force, a difficult political rhetoric between Israel and T\u00fcrkiye \u2014 by the way, in my opinion, it\u2019s mostly politics \u2014 but it came 80 kilometers to their border without notification, Israeli jets.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-22T13:36:19+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "An Israeli drone hit a vehicle near Beit Jinn in southwestern Syria, roughly 10 km from the Golan border. \nThe IDF said the target was a \"terror operative\" preparing an IED attack that \"posed an immediate threat.\"\nThe target, Ammar Said Hamada, was identified as a former Assad-era 4th Division officer. \nSyria condemned the strike as a \"flagrant violation of sovereignty.\" \nSource: Enab Baladi",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-22T13:26:44+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "NEW: Iran granted special permission for Iraqi oil tankers to transit the Strait of Hormuz after repeated requests from Baghdad.\nIRNA said at least one-third of Iraq's pre-war export volume has received Iranian licenses to cross. \nIraqi President Amedi confirmed facilitation \"in recent days\" but said the matter \"remained complicated.\"\nIraq's southern seaborne exports have recovered to roughly 1.2 million barrels per day, up from near-zero earlier this year but still only about a third of pre-war levels of 3.5 million. \nBaghdad is also expanding alternative routes through T\u00fcrkiye, Syria, and Jordan.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-22T13:14:05+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Clash Report",
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Feyzullah Tuna Akgun | Iraq Studies Coordinator | Center for Middle Eastern Studies (ORSAM):\n\u00a0\nIf Gulf countries cannot sell oil through Hormuz, the Development Road becomes a major alternative.\n\u00a0\nIraq imports 80% of its daily food through Basra ports - the Development Road offers an alternative supply route.\n\u00a0\nIt is also Iraq's path to a post-oil future. Over 50% of Iraqis are on public payrolls affected by oil.\n\u00a0\nThe Development Road creates new cities, industrial zones & economic alternatives.\n\u00a0\nThe broader vision is regional ownership. Solving regional problems without external or proxy actors.\n\u00a0\u00a0\nIf T\u00fcrkiye & Iraq succeed, why shouldn't Syria & Gulf states join?\n[FULL INTERVIEW](https://youtu.be/Qf116a4RNEc)",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-22T13:05:35+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -775,12 +698,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "Alsaa Plus EN"
+        "Alsaa Plus EN",
+        "Middle East Spectator"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
