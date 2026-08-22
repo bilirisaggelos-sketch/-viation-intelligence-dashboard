@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T15:59:09.695758+00:00",
+  "generated_at": "2026-08-22T16:35:33.409157+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -436,25 +436,6 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Iranian MP Ebrahim Rezaei:\nIt has been reported that American enemy aircraft and fuel tankers are present at airports in Qatar, Kuwait, the Emirates, and beyond. \nThey have turned their homes into enemy bunkers. \nThey shouldn't complain later.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-22T14:58:33+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
       ],
       "verified_source_count": 1
     },
