@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T19:11:31.204876+00:00",
+  "generated_at": "2026-08-22T19:39:23.562476+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -436,6 +436,44 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Israel\u2019s Foreign Minister Gideon Sa'ar on T\u00fcrkiye:\nWe hear Erdogan\u2019s language. It cannot be ignored. But at the same time, I\u2019m saying that we have no interest in escalation with T\u00fcrkiye.\nWe will always prefer to resolve situations through deconfliction and diplomatic messages.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-22T19:20:41+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Iran\u2019s Secretary of the Supreme National Security Council, Mohsen Rezai:\nEvery home can be a launcher in the economic war. \nEvery neighborhood can be a missile base for the economic war.\nHe called on Iranian youth to enter the economy as part of economic resistance.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-22T19:19:14+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
       ],
       "verified_source_count": 1
     },
