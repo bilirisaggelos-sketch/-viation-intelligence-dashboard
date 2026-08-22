@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T23:00:51.536599+00:00",
+  "generated_at": "2026-08-22T23:37:07.138098+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -706,25 +706,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf7\u26a1\ufe0f \u2014 The New Yorker magazine reports that six months into the war, Trump remains unable to force Iran into a favorable settlement despite an extensive U.S. bombing campaign. Iran\u2019s government remains intact, while Washington has failed to eliminate Tehran\u2019s nuclear program or dismantle its ballistic-missile capabilities. Tehran has instead turned the Strait of Hormuz into a major source of leverage, demanding sanctions relief, access to frozen assets, and an end to U.S. and Israeli military operations. The prolonged conflict has also strained U.S. military resources and complicated Washington\u2019s relationships with regional allies. The article describes the result as a \nprecipitous collapse of American power and American prestige.\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-22T14:45:52+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Mediterranean Man",
       "text": "\u26a1\ufe0f\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6 What appears to have come out of Russia's own \u201cPandora's box\u201d is the Banderol \u2014 once a relatively scarce, Frankenstein-like cruise missile, now suddenly appearing in growing numbers across Ukraine. During the latest wave, monitoring tracked roughly 12\u201313 Banderols against Odessa alone, while additional missiles were repeatedly reported toward Kiev and its surrounding region, Zhytomyr and western Ukraine. At the same time, dozens of jet-powered Geran-4s were tracked across Ukraine, including groups attacking Kiev.\nThe precedent is not simply that individual Banderols can penetrate Ukrainian air defenses, but the scale, timing and targets of the campaign. As Ukraine faces severe pressure on its interceptor stocks, a formerly scarce and comparatively inexpensive cruise missile is appearing in double-digit salvos and across multiple regions. Meanwhile, the expanding strikes have hit railway and logistics facilities, warehouses, fuel infrastructure, drone-production facilities, ports around Odessa and energy infrastructure in and around Kiev \u2014 showing that President Putin's warning that Russia would retaliate against Ukraine's logistics and its \u201cmost sensitive economic sectors\" is by no means an empty threat. If this tempo persists, Banderol alongside the expanding Geran-4/5 family could provide Moscow with additional mass to sustain precisely the greater number and intensity of strikes the Russian president has now publicly announced. All eyes on the Banderol.",
       "source": "Telegram",
@@ -853,6 +834,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\u2721\ufe0f\ud83c\uddf1\ud83c\udde7 Israel drops more bombs on southern Lebanon\nIsraeli fighter jets bombarded the town of Kafr Roummane in southern Lebanon, Press TV reported.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-22T23:31:17+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
@@ -998,25 +998,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-22T02:51:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udcb5 Blackwater founder launches air defense mercenary force\nErik Prince\u2019s latest business venture, Vectus Air Defense Systems, is planning to cash in on fears stoked by Donald Trump\u2019s war on Iran. The business looks to address the problem of swarms of relatively cheap Iranian drones making short work of US military bases and valuable assets of US allies, such as data centers and oil refineries.\n\ud83d\udcac As much of the critical infrastructure in the world was designed before strike drones became a thing, Prince\u2019s firm promises cost-effective solutions to owners of sensitive and valuable sites, Axios reports.\nThe services offered by Vectus likely include electronic jammers, anti-drone weaponry and UAV interceptors, seeing how drone firm Swarmer holds a 20% equity interest in the venture.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-22T01:28:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
