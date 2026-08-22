@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T03:58:17.555427+00:00",
+  "generated_at": "2026-08-22T04:42:50.224346+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -746,32 +746,13 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ufe0f\ud83c\uddfe\ud83c\uddea The Houthis have released a mixtape of footage from their drone pilots blowing up Saudi proxy forces in the battle for Marib.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-21T17:10:36+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\ud83c\uddf7\ud83c\uddfa #Russia - \ud83c\uddfa\ud83c\udde6 #Ukraine - \ud83c\uddf2\ud83c\udde9 #Moldova: Russian Shahed-type drones struck the Tabaki international border crossing between Ukraine and Moldova in Odesa Oblast overnight, damaging buildings and other infrastructure and causing fires. \nThe crossing has been since closed to both vehicles and pedestrians.",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1\ud83c\uddf5\ud83c\uddf8 The IDF has now confirmed our report from two days ago identifying the man killed in the drone strike on a motorcycle west of the Nuseirat camp as Sabahi Sami Mahmoud Shahata.\nAccording to the IDF, Shahata was a Hamas platoon commander who participated in the October 7 attack and was involved in holding multiple Israeli hostages in Gaza.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-22T03:55:46+00:00",
+      "timestamp": "2026-08-22T04:34:19+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -785,12 +766,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Russians attacked a minibus at a crowded stop in Zaporizhzhia with a drone. Preliminary reports say at least one person was killed and many were wounded.",
+      "text": "NETWORK GEOINT- Ukraine has struck an Ozon warehouse near Samara. A direct competitor to Wildberries, the company also operates several warehouses and logistics centers throughout Russia. It is unknown if this is an isolated event or the start of another campaign of strikes.\nRocket Man\ud83d\ude80\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\udde6 (\nPOV 52.956230\u00b0N 49.692077\u00b0E\n https://x.com/Grimm_Intel/status/2090996797221003467/photo/1",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-22T03:54:57+00:00",
+      "timestamp": "2026-08-22T04:32:56+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -804,12 +785,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Ukraine's MoD showed Alexa Spatium, a jet-powered interceptor drone. Babel says it can take down Geran-3, Geran-4, Geran-5 and Shahed-131, launches from a mobile catapult in minutes, then can return for reuse.",
+      "text": "#Yemen \ud83c\uddfe\ud83c\uddea: Ansar Allah (#Houthis) struck numerous positions and vehicles belonging to Saudi-backed Forces in #Marib.\nFighters used Hexacopter Drones called \u201cRajum\u201d \u2014which were armed with OF-843 / M62Px pattern mortar bombs and Improvised (locally-made) Bombs.\nhttps://x.com/war_noir/status/2090899543206556092",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-22T03:54:24+00:00",
+      "timestamp": "2026-08-22T04:29:37+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -823,12 +804,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Smoke is rising over occupied Donetsk after a drone strike. Locals say there was a secondary detonation.",
+      "text": "#Pakistan \ud83c\uddf5\ud83c\uddf0: Tehrik-e #Taliban Pakistan (#TTP) shot down an Armed Drone operated by Pakistani Forces in Lakki Marwat.\nMilitants who shot the UAV were armed with #USA-made \ud83c\uddfa\ud83c\uddf8 M24 SWS sniper rifles, M4A1 carbine (with Thermal Sight) and AKS-47 rifle.\nhttps://x.com/war_noir/status/2090821954395590790",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-22T03:53:17+00:00",
+      "timestamp": "2026-08-22T04:29:28+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -836,6 +817,101 @@
       "verification_confidence": 30,
       "verified_sources": [
         "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "Russian Ka-52 attack helicopter's missile fails to lock on to an FP-1 drone as the missile goes beyond and then probably landed somewhere.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-22T04:29:10+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "Yemeni Houthi militia hit an U.S.-made M1A2S \"Abrams\" main battle tank belonging to the Saudi-backed coalition forces blowing up its ammo compartment. using a quadcopter with 120-mm mortar shell\u2014presumably it can be other ammunition too\u2014(drone-drop munition) these drone have been extensively used in Russo-Ukrainian War and had shown appearance in Myanmar and several other conflicts, it originated from Ukrainian Hexocopters or Quadcopter drones famously known as \"Baba Yega\" that could carry various mortar shells, and RPG warheads, even some heavy versions carried TM-62 anti-tank mines.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-22T04:26:07+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "Houthi footage: \"Rajoum\" quadcopter drones hit Saudi-backed forces in Marib. One Saudi tank explodes after a dropped munition strike.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-22T04:24:11+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "Russia conducted military drills on the disputed Kuril Islands, deploying a nuclear submarine and a cruiser and firing Bastion anti-ship missiles at ranges over 300 km. The exercise followed Putin's first visit to the islands. Japan called it unacceptable and a violation of its territorial integrity.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-22T04:17:13+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83e\udd14 Why Trump\u2019s new Iran sanctions could trigger trade war with China \u2013 and backfire on the dollar\nUS Treasury Secretary Scott Bessent has announced the \u201ctoughest-ever\u201d sanctions on Iran, purportedly aimed at bringing about regime change in the Islamic Republic.\n\u27a1\ufe0f What does he mean?\nBessent mentioned the US blockade of the Strait of Hormuz coupled with \u201cthe greatest coordinated economic isolation in the history of the world,\" insisting that this would defeat Iran without \"a large-scale kinetic restart.\"\n\ud83d\udd0a \u201cAny remaining tie to Tehran will hasten a nation\u2019s economic oblivion,\" Bessent claimed, referring to tough secondary sanctions.\nPreviously, President Donald Trump threatened that any country providing Iran with an economic \u201clifeline\u201d would face \u201ctremendous\u201d economic consequences. He specifically targeted oil smuggling, currency-swap lines, cash transfers, exchange houses, ship registries, and front companies, calling for all of these channels to be shut down immediately.\nIran's response was not long in coming: Foreign Minister Abbas Araghchi said that Trump's move was \"a diversion from America's own crisis: unprecedented debt and[ surging interest costs](https://t.me/geopolitics_prime/73600)\".\n\u27a1\ufe0f Could US sanctions really cripple Iran?\nThe UAE was the first to sever all financial ties with Iran, citing two ballistic missiles allegedly fired at it by the Islamic Republic \u2013 a charge Iran resolutely denied. Mehrdad Sepahvand, a former economic adviser to the Central Bank of Iran, told CNBC that the rupture of ties with the UAE could bring certain financial hardships but rejected the claim that Iran is on the verge of collapse. The Iranian economy is far from unraveling, he stressed: \u201cShops are still full of food and basic goods, and there is no sign of panic buying.\"\nIran has been under US sanctions for almost 50 years and has learned how to adapt to \"maximum pressure.\" As the US is trying to curb its economy with a maritime blockade, Iran has been increasingly developing land routes and exploiting Caspian waterways.\n\u27a1\ufe0f US risks trade war with China and the dollar's demise\nWhy is Bessent urging China to cooperate? China buys over 80% of Iran's shipped oil, according to Kpler, and Beijing has rejected unilateral US sanctions. In response to Trump's threats, the Chinese Foreign Ministry stressed that restrictions wouldn't solve the conflict.\n\ud83d\udccc In 2021, China and Iran inked a 25-year Comprehensive Strategic Partnership to expand economic, energy, security, and technological ties. Iran is also [a key strategic hub](https://t.me/geopolitics_prime/66600) in China\u2019s Belt and Road Initiative, serving as a critical overland and maritime link between East Asia, the Middle East, Central Asia, and Europe. International observers doubt that China will abandon Iran at Trump\u2019s behest.\nIf the US opts for tough secondary sanctions against China, an all-out trade war could shatter the global market, geopolitical analyst Brandon Weichert warned in an interview with Mario Nawfal. China has economic leverage of its own \u2013 rare earths, manufacturing, critical supply chains, and, crucially, an alternative financial architecture.\n\ud83d\udc49 The biggest casualty could be the US dollar, as Trump\u2019s aggressive actions would accelerate the global shift toward alternative currencies and payment systems.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-22T04:30:21+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
@@ -1038,25 +1114,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-21T08:07:02+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udcb0\ud83d\udcc9Why ex-Soros employee\u2019s bid to fix US economy and contain fallout from Trump\u2019s Iran war & AI boom is doomed\nThe US Treasury\u2019s push to increase buybacks of its long-term bonds to at least $4 billion is no routine move, signaling a looming US crisis and exposing divisions between two Trump proteges: ex-Soros employee and [US Treasury Secretary Scott Bessent](https://t.me/geopolitics_prime/65029) and [Bilderberg darling and Fed chief Kevin Warsh](https://t.me/geopolitics_prime/63714.).\nWhat is Bessent doing?\nCritics say he is manipulating the bond market to push borrowing costs back down, calling the maneuver \u201cquantitative easing-lite\". What do they mean? When the Federal Reserve creates money to buy bonds and drive down interest rates, it\u2019s called quantitative easing (QE). Bessent's Treasury isn\u2019t printing dollars, but its maneuver mimics the same effect \u2013 that's why it is labeled \u201cQE-lite.\u201d\nWhy now?\n\ud83d\udd34 30-year Treasury yields surged past 5.3%, hitting their highest level since the 2007-08 financial crisis. This was because:\n\u2764\ufe0f Trump derailed US-Iran peace talks and fears of a wider war pushed oil above $90 a barrel, fueling inflation fears and rattling markets. Investors responded by selling long-term US bonds, fearing inflation would erode their fixed returns. As bond prices fall, yields rise\n\u2764\ufe0fThe massive cost of AI infrastructure has pushed tech giants to flood the market with high-yield corporate bonds, making long-term Treasuries less attractive and [further driving up government bond yields](https://t.me/geopolitics_prime/72578)\n\ud83d\udd34 The US national debt has hit $40 trillion, while mortgage rates are climbing, with the 30-year fixed rate reaching 6.75% on August 18, according to CNBC. As long-term Treasury yields drive up borrowing costs across the US economy, economists warn that another surge could squeeze US home buyers, hammer stocks and make America\u2019s massive debt burden even harder to manage\n\ud83d\udd34 Bessent has turned to bond-market manipulations just ahead of the midterms, as a housing affordability crisis or other fallout from rising long-term yields could prove politically disastrous for Team Trump\nHow will it work?\n\u2666\ufe0f The Treasury will use large amounts of cash to buy back its own long-term bonds from the market\n\u2666\ufe0f This artificial demand will push bond prices higher, automatically driving yields \u2013 and therefore borrowing costs \u2013 lower\n\u2666\ufe0f To fund the move, the Treasury isn\u2019t using tax dollars. Instead, it is issuing more ultrashort-term debt (T-bills) and replacing some longer-term debt with it\nEconomic schizophrenia, inflation and weakened dollar as a result\n\ud83d\udd34 The Federal Reserve, led by Warsh, is trying to tame inflation by keeping rates high and cooling the economy \u2013 with a growing number of Fed officials seeking rate increases. Bessent is doing the opposite, artificially pushing rates down \u2013 leaving the Treasury and the Fed pulling in opposite directions and risking financial instability\n\ud83d\udd34 By artificially lowering borrowing costs, Bessent could fuel spending, investment and short-term growth \u2013 a win Trump could claim. The downside: a fresh inflation surge\n\ud83d\udd34 The US dollar is set to weaken and become the [biggest loser of Bessent's move](https://t.me/geopolitics_prime/71094), Bloomberg predicts\nMeanwhile, the forces driving US economic turmoil and soaring debt remain unresolved: the Strait of Hormuz crisis persists, [oil prices are surging](https://t.me/geopolitics_prime/72956), AI spending is booming and inflation is gathering steam. The US economy is running a fever \u2013 and Treasury intervention could make it only worse.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-21T06:35:22+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
