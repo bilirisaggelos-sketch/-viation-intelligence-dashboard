@@ -1,6 +1,25 @@
 {
-  "generated_at": "2026-08-22T19:58:55.704183+00:00",
+  "generated_at": "2026-08-22T20:34:42.604178+00:00",
   "events": [
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nDenver, CO, Friday, August 28, 2026 through Friday, August 28, 2026 Local\nFacility: ZDV",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "08/22/2026",
+      "location": "ZDV CO",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nEast Rutherford, NJ, Friday, August 28, 2026 through Friday, August 28, 2026 Local\nFacility: ZNY",
@@ -784,25 +803,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddfa\ud83c\udde6\u274c\ud83c\uddf7\ud83c\uddfa\u2014 Fires burning in eastern Kiev after the Russian Iskander-M ballistic missile strikes.\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-22T01:31:00+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Mediterranean Man",
       "text": "\u26a1\ufe0f\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6 What appears to have come out of Russia's own \u201cPandora's box\u201d is the Banderol \u2014 once a relatively scarce, Frankenstein-like cruise missile, now suddenly appearing in growing numbers across Ukraine. During the latest wave, monitoring tracked roughly 12\u201313 Banderols against Odessa alone, while additional missiles were repeatedly reported toward Kiev and its surrounding region, Zhytomyr and western Ukraine. At the same time, dozens of jet-powered Geran-4s were tracked across Ukraine, including groups attacking Kiev.\nThe precedent is not simply that individual Banderols can penetrate Ukrainian air defenses, but the scale, timing and targets of the campaign. As Ukraine faces severe pressure on its interceptor stocks, a formerly scarce and comparatively inexpensive cruise missile is appearing in double-digit salvos and across multiple regions. Meanwhile, the expanding strikes have hit railway and logistics facilities, warehouses, fuel infrastructure, drone-production facilities, ports around Odessa and energy infrastructure in and around Kiev \u2014 showing that President Putin's warning that Russia would retaliate against Ukraine's logistics and its \u201cmost sensitive economic sectors\" is by no means an empty threat. If this tempo persists, Banderol alongside the expanding Geran-4/5 family could provide Moscow with additional mass to sustain precisely the greater number and intensity of strikes the Russian president has now publicly announced. All eyes on the Banderol.",
       "source": "Telegram",
@@ -950,6 +950,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\udde8\ud83c\uddf3\ud83c\udfdd New artificial island strengthens China's defense perimeter in South China Sea\n\ud83d\udc49 In less than a year, China has transformed the submerged Antelope Reef into a sprawling 1,500-acre artificial island in the Paracels archipelago, TWZ reports.\n\ud83d\udd34 The island has a 680-meter dock capable of berthing border patrol vessels and warships\n\ud83d\udd34 Infrastructure includes a helicopter pad and administrative buildings, along with internal roads and seawalls surrounding the island\n\ud83d\udd34 Two concrete plants are supporting ongoing construction, with grading for the 3-kilometer runway for both civilian planes and military aircraft about halfway complete\nThe island will become part of China's expanding [network of maritime outposts](https://t.me/geopolitics_prime/70579), reinforcing logistics, persistent surveillance, and control over the surrounding waters.\nThe new outpost sits approximately 160 nautical miles south of Hainan Island, home to two of China's aircraft carriers and a significant submarine force. Its location in the northern South China Sea makes it particularly valuable for regional defense and rapid response.\n\u2666\ufe0f The island extends radar and electronic surveillance coverage across the northern South China Sea\n\u2666\ufe0f It provides another dispersed airfield for military aircraft such as H-6 strategic bombers, offering operational flexibility in a highly contested area\n\u2666\ufe0f Local infrastructure will serve as a protected bastion for [nuclear-armed ballistic missile submarines](https://t.me/geopolitics_prime/64811) and could complicate maritime operations by other powers in the area\n\u2666\ufe0f Reports indicate China is also exploring unmanned defensive networks to protect the island, with [AI-driven systems](https://t.me/geopolitics_prime/58570) integrating aerial drones, unmanned surface vessels, and underwater robots into a coordinated three-tier defense structure \nThe creation of a military base on Antelope Reef supports the [security of the Chinese mainland](https://t.me/geopolitics_prime/73244) by pushing the defensive perimeter outward, adding complexity to any potential adversary's operational planning. This is particularly significant in the context of the US First Island Chain strategy, which seeks to build up American military presence in the Pacific and bottle up China in its coastal waters, limiting strategic maneuverability.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-22T20:26:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
