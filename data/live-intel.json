@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T00:02:11.413297+00:00",
+  "generated_at": "2026-08-22T01:52:27.590207+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -420,14 +420,14 @@
       "verified_source_count": 1
     },
     {
-      "title": "Russian double-tap drone strike kills 15 in Ukrainian mall, officials say",
-      "text": "Russian double-tap drone strike kills 15 in Ukrainian mall, officials say\nAt least 130 people, including 23 children, were also injured when the shopping centre was hit, according to the regional head.",
+      "title": "Russian double-tap drone strike kills 16 in Ukrainian mall, officials say",
+      "text": "Russian double-tap drone strike kills 16 in Ukrainian mall, officials say\nAt least 130 people, including 23 children, were also injured when the shopping centre was hit, according to the regional head.",
       "source": "BBC",
       "source_type": "osint",
       "publisher": "BBC World News",
       "severity": "info",
       "icon": "\ud83d\udcf0",
-      "timestamp": "2026-08-21T19:49:56+00:00",
+      "timestamp": "2026-08-22T01:47:54+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -726,6 +726,44 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf7\u26a1\ufe0f\u2014 Esmaeil Baqaei, Spokesperson for the Ministry of Foreign Affairs of Iran:\nThe United States\u2019 declaration of new economic sanctions on Iran is far more than continued unlawful \u201ceconomic warfare\u201d against a single country. It is an assertion of extraterritorial sovereignty over every independent Member State of the United Nations.\nNo State may lawfully compel foreign banks, enterprises, or airports - each subject to the exclusive jurisdiction of its own sovereign - to renounce lawful commerce with a third State.\nSuch secondary sanctions find no foundation in international law. They violate the principle of sovereign equality enshrined in Article 2(1) of the UN Charter and breach the customary prohibition on intervention affirmed by the International Court of Justice in the Nicaragua case. Economic coercion designed to force a sovereign State to alter its lawful policy choices constitutes an outright internationally wrongful act.\nWhen combined with a naval blockade amounting to military aggression, these demands reduce the sovereignty of all other States to something provisional, conditional, and revocable at the whim of another power. Compliance purchases no immunity or respect; it merely concedes that one\u2019s banks, enterprises, and airports operate only under a foreign licence.\nThe end result would be the complete erosion of sovereignty as the foundational basis of the UN-based inter-State system, and a recipe for an abysmal return to full-scale classic colonialism.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-22T01:48:08+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddfa\ud83c\udde6\u274c\ud83c\uddf7\ud83c\uddfa\u2014 Fires burning in eastern Kiev after the Russian Iskander-M ballistic missile strikes.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-22T01:31:00+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
       "text": "\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfa\u2014 Ballistic missiles impact in Kiev.\n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
@@ -735,13 +773,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
-        "Mediterranean Man"
+        "Alsaa Plus EN"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -812,13 +849,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
         "Mediterranean Man"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -931,6 +967,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udcb5 Blackwater founder launches air defense mercenary force\nErik Prince\u2019s latest business venture, Vectus Air Defense Systems, is planning to cash in on fears stoked by Donald Trump\u2019s war on Iran. The business looks to address the problem of swarms of relatively cheap Iranian drones making short work of US military bases and valuable assets of US allies, such as data centers and oil refineries.\n\ud83d\udcac As much of the critical infrastructure in the world was designed before strike drones became a thing, Prince\u2019s firm promises cost-effective solutions to owners of sensitive and valuable sites, Axios reports.\nThe services offered by Vectus likely include electronic jammers, anti-drone weaponry and UAV interceptors, seeing how drone firm Swarmer holds a 20% equity interest in the venture.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-22T01:28:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
