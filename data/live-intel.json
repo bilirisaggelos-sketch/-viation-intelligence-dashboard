@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T23:58:58.010086+00:00",
+  "generated_at": "2026-08-23T01:55:24.893017+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -359,6 +359,25 @@
       "verification_confidence": 100,
       "verified_sources": [
         "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf7/\ud83c\uddec\ud83c\udde7 BREAKING: Iranian hackers shut down a power plant in the UK for 4 consecutive days with a sophisticated cyber attack, according to [The Telegraph](https://www.telegraph.co.uk/news/2026/08/22/iranian-hackers-shut-down-uk-power-plant/)\nIt is thought to be the first time that hackers affiliated with the Iranian government have succeeded in closing down such a facility in the UK, and believed to be the most successful cyber attack of its kind.\nThe incident took place at the same time as a series of attacks on U.S. water infrastructure last month, which affected 12 states and caused concern in the White House.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-23T00:40:43+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
       ],
       "verified_source_count": 1
     },
@@ -979,25 +998,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-22T04:30:21+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\u2721\ufe0f\ud83e\udd21 From arrogant spymasters to cringey schizoposters: Israel\u2019s Mossad got gut-punched by Iran\nWhen the new Mossad director [Roman Gofman publicly axed](https://t.me/geopolitics_prime/73222) the heads of the agency\u2019s Intelligence Directorate and Iran desk earlier in August, the message was hard to miss: something went badly wrong.\n\ud83d\udc49 The two officials, identified by codenames \"K\" and \"Y\", were reportedly closely involved in the Iran regime-change plan that spectacularly backfired.\nBefore that, out ex-Mossad boss [David Barnea and his deputy](https://t.me/geopolitics_prime/70675) were thrown under the bus over the Iran debacle.\n\ud83d\udccc The last comparable purge came in 1997, after a botched assassination attempt against Hamas political bureau chief Khaled Mashal in Jordan.\nDizzy from its \u2018successes\u2019 [rooted in sabotage and assassinations](https://t.me/geopolitics_prime/71050) in the pre-war phase targeting Iran, the Mossad sold the US a swift regime-toppling offensive. \nInstead, the strategy boomeranged calamitously, and virtually every core promise about the war's trajectory has since been shattered.\n\ud83d\udd34 After Ayatollah Ali Khamenei was killed in the opening strikes, rather than producing a succession vacuum, [his son Mojtaba](https://t.me/geopolitics_prime/71902) was appointed supreme leader \n\ud83d\udd34 [The Mossad plan](https://t.me/geopolitics_prime/66082) to use Kurdish forces to launch a large-scale insurgency backed by US and Israeli airpower fizzled out. Iran\u2019s Kurdish populations remaining loyal while [the IRGC, backed by local allies, hammered](https://t.me/geopolitics_prime/73370) militant staging areas across northern Iraq\n\ud83d\udd34 Mossad-stoked chaos in Iran, disguising regime-change bid as [pro-Democracy protests](https://t.me/geopolitics_prime/67145), flopped\n\ud83d\udd34 Despite extensive Israel-prompted US attacks on Iranian military and security targets, [Iran endured](https://t.me/geopolitics_prime/73524), shocked the Zionists with its[ swift missile recovery](https://t.me/geopolitics_prime/73384) while delivering [multi-phase retaliatory strikes](https://t.me/geopolitics_prime/72494) on American military assets across the region\n\ud83d\udd34 The Strait of Hormuz \"solution\" never materialized: Iran showed it can withstand a US maritime blockade in the south while [keeping the waterway closed](https://t.me/geopolitics_prime/73126)\nPerhaps the most telling sign of the campaign's unraveling was the Mossad's jarring shift from operating in the shadows to conducting an overt public persuasion campaign. \n\ud83e\udd21 The agency launched [Farsi-language social media accounts](https://t.me/geopolitics_prime/62120), complete with official branding, in an attempt to encourage protests and defections, serving up cryptic posts and sarcastic quote-tweets mocking Iranian officials. \nAll that fizzled out.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-22T02:51:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
