@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T16:00:37.552111+00:00",
+  "generated_at": "2026-08-23T16:44:54.235104+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -478,20 +478,20 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea BREAKING: Yemen\u2019s Armed Forces announce carrying out two military operations in Saudi Arabia with drones\nThe first targeted a sensitive target at Najran Airport, and the second targeted Aramco facilities in Najran.",
+      "publisher": "Clash Report",
+      "text": "Netanyahu's Office:\nPrime Minister Benjamin Netanyahu and Defense Minister Israel Katz held a security assessment this evening (Sunday) regarding the threat of drones, balloons, and kites being launched from the Gaza Strip toward Israel.\nIsrael warns Hamas that if the launches toward Israel do not stop immediately, the IDF will intensify targeted operations against those responsible for the launches and will evacuate civilians from areas from which kites, drones, and balloons are launched.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-20T14:19:06+00:00",
+      "timestamp": "2026-08-23T16:32:37+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Middle East Spectator"
+        "Clash Report"
       ],
       "verified_source_count": 1
     },
@@ -504,44 +504,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-23T15:49:20+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Netanyahu on drones:\nThis is the F-35. Do you have a drone at home? It can be no less lethal.\nIf it comes in swarms, they arm it, it is very precise, and it is hard to see. For several years, we have been working on a solution to the drone problem. We are the most advanced in the world, but this is a global problem.\nWe saw it in Ukraine, we saw it in Lebanon, we saw it in Iran, and now they are trying to renew this and bring it into Gaza.\nMy instruction to the security establishment and the IDF is to do everything against this lethal tool: to strike it, to strike its operators, to strike the place from which it is launches.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-23T13:42:38+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "NEW: Russia withdrew its ambassador from Britain in July and has not nominated a replacement, effectively downgrading diplomatic relations.\nThe Russian Embassy said Ambassador Kelin left \"in the hope that a more constructive and respectful dialogue could eventually be restored, should the UK reconsider its policies.\"\nThe move followed reports that British-made attack drones had been used for deep strikes inside Russia for the first time. \nThe embassy warned: \nLondon's actions will inevitably carry consequences. The deeper its involvement, the higher the price it will pay.\nPM Burnham responded that the UK supports Ukraine \"100%\" and is \"not a fair-weather friend.\" \nThe UK maintains its own ambassador in Moscow.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-23T13:33:20+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
