@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T09:09:07.993667+00:00",
+  "generated_at": "2026-08-23T09:45:46.236401+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -250,6 +250,25 @@
     },
     {
       "title": "Space Weather Message Code: ALTEF3\r",
+      "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3726\r\nIssue Time: 2026 Aug 23 0921 UTC\r\n\r\nCONTINUED ALERT: Electron 2MeV Integral Flux exceeded 1,000pfu\nContinuation of Serial Number: 3725\nBegin Time: 2026 Aug 21 1105 UTC\nYesterday Maximum 2MeV Flux: 1000 pfu\nMax time: 2026 Aug 23 0915 UTC",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-08-23 09:21:33.883",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Space Weather Message Code: ALTEF3\r",
       "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3725\r\nIssue Time: 2026 Aug 22 0500 UTC\r\n\r\nCONTINUED ALERT: Electron 2MeV Integral Flux exceeded 1,000pfu\nContinuation of Serial Number: 3724\nBegin Time: 2026 Aug 21 1105 UTC\nYesterday Maximum 2MeV Flux: 1062 pfu\nMax time: 2026 Aug 22 0450 UTC",
       "source": "NOAA Space Weather",
       "source_type": "official",
@@ -314,25 +333,6 @@
       "severity": "warning",
       "icon": "\ud83d\udef0\ufe0f",
       "timestamp": "2026-08-20 20:49:09.870",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Space Weather Message Code: SUMXM5\r",
-      "text": "Space Weather Message Code: SUMXM5\r\nSerial Number: 325\r\nIssue Time: 2026 Aug 20 1212 UTC\r\n\r\nSUMMARY: X-ray Event exceeded M5 \nBegin Time: 2026 Aug 20 1132 UTC\nMaximum Time: 2026 Aug 20 1142 UTC\nEnd Time: 2026 Aug 20 1154 UTC\nXray Class: M8.1\nOptical Class: Sf\nLocation: N04E85\nNoaa Scale: R2 - Moderate\nComment: \r\n\r\nNOAA Scale: R2 - Moderate\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact centered primarily on sub-solar point on the sunlit side of Earth.\r\nRadio - Limited blackout of HF (high frequency) radio communication for tens of minutes.",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-08-20 12:12:01.710",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -473,6 +473,44 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "China\u2019s Type 004 aircraft carrier is rapidly taking shape at Dalian, with new satellite imagery showing a more complete bow and a hull already around 320 meters long.\nThe strongest open-source assessment is that it will be China\u2019s first nuclear-powered carrier, with imagery reportedly showing two reactor containment structures.\nExpected features include EMALS catapults, a 90\u2013100+ aircraft air wing, and a displacement potentially above 110,000 tons.\nThe carrier is expected to be substantially larger and more capable than Fujian, likely around 110,000\u2013120,000 tons, with a final length approaching or exceeding the U.S. Gerald R. Ford-class.\nCurrent estimates suggest four catapults, compared with three on Fujian, and an air wing potentially exceeding 90 aircraft, including J-35 stealth fighters, J-15T carrier fighters, KJ-600 airborne early-warning aircraft, helicopters, and eventually combat drones.\nA launch could come as early as 2027, followed by several years of fitting-out and sea trials, with entry into service around 2030.\n[SOURCE](https://www.twz.com/sea/chinas-next-aircraft-carrier-is-taking-shape)",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-23T09:35:12+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "New satellite imagery shows fresh runway markings at Ethiopia\u2019s Asosa Airport, near Sudan, alongside repeated visits by UAE-linked Il-76 heavy cargo aircraft.\nAsosa has previously been linked by investigations and satellite analysis to RSF training and logistics, including alleged UAE-backed activity.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-23T09:26:59+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
       ],
       "verified_source_count": 1
     },
@@ -706,25 +744,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf7\u274c\u2014 Anti-ship missiles launched towards violating vessels in the Strait of Hormuz.\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-22T18:05:50+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "CASELS",
       "text": "Ukraine's Air Force says 97 of 127 Russian drones were downed or suppressed overnight, including Shahed, Gerbera and other types. Hits by 27 strike drones were recorded at 22 locations, while debris from intercepted drones fell at three. Several Russian drones remained airborne as of 09:00.",
       "source": "Telegram",
@@ -897,6 +916,25 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddfa\ud83c\uddf8\ud83d\udee2US Hormuz operation: a secret corridor that exposes American weakness\n\u00a0\nThe US military has been running a covert operation for the past several weeks to move oil through the Strait of Hormuz, with tankers transiting each night along a southern channel off the Omani coast, according to Axios.\nThe current volume is roughly half the pre-war export level, and the number of tankers is five times lower, yet US officials have presented it as evidence of control over the waterway.\nThe narrative of control, however, is at odds with the reality of the operation.\n\ud83d\udd34 The US is moving oil at night, in a southern channel, at maximum distance from Iranian drones and missiles, and only during limited time windows\n\ud83d\udd34 Several ships have been hit by Iranian attacks after violating passage rules, and most commercial operators are unwilling to undertake such transits without Iranian coordination\n\ud83d\udd34 The Strait remains open to shipping from the Iranian side. Iran has allowed tankers bound for China, Russia, Pakistan, and Iraq to pass through, undermining US claims about saving the global economy\n\ud83d\udc49 While US officials tout the Hormuz operation as a success, the direct military cost of the war has already exceeded $42 billion. The gasoline prices in the US are up roughly 45% compared to pre-war levels, with the national average remaining above $4.10 per gallon throughout August. The administration's pivot to economic warfare against Iran has created a paradox: tighter sanctions mean tighter global supplies, and higher costs for American households.\nAnalysts say the current operation is only a short-term workaround that allows Trump to claim greater control over the Strait. While it has mitigated some economic disruption, the broader conflict remains unresolved, and the US is still forced to move oil like a smuggler, not a power that controls the waterway.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-23T09:33:02+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
       "text": "\u2721\ufe0f\ud83d\udc79 780,000 thieves & 592 outposts: Zionist blueprint for erasing Palestine\nSystematic ethnic cleansing through the relentless theft of land and life from the Palestinians by the Zionist state continues unabated.\n\ud83d\udc49780,000 illegal settlers now infest 592 settlements and militarized outposts, gobbling up 42% of the occupied West Bank - this is the cold arithmetic of [Israel\u2019s land grab on steroids](https://t.me/geopolitics_prime/72745), laid out by the Colonization and Wall Resistance Commission - a Palestinian body that monitors settlement activity.\nWhile foreign ministers issue their feckless, toothless condemnations, Benjamin Netanyahu spits in the face of international law, openly declaring Palestinian statehood dead.\n\ud83d\udde3\u201cAs long as I am prime minister, no Palestinian state controlled by Iran will arise: not in Gaza, and not in Judea and Samaria. Period,\u201d the genocidal PM wrote on X.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
@@ -1036,25 +1074,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-22T14:23:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udd25 Russia pounds Ukrainian logistics as air defenses fail again\nRussian forces launched massive missile and drone strikes on Ukrainian transport and port infrastructure overnight. \nTargets hit: \n\ud83d\udccc Darnytsa train depot in Kiev - used for maintaining and repairing locomotives transporting military equipment for Ukrainian forces\n\ud83d\udccc Brovary logistics center in the Kiev region - a major Nova Poshta logistics hub, storing drone components\n\ud83d\udccc Railway station in Razdelnaya and port infrastructure in Odessa and Chernomorsk - power outages followed the strikes\nUkrainian air defense systems failed to intercept any of the ballistic missiles, the country's own Air Force admitted, following news that Ukraine is [running low on interceptor missiles](https://t.me/geopolitics_prime/73442) as Russian strikes keep getting stronger.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-22T10:11:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
