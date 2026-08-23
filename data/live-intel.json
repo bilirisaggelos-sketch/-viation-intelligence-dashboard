@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T06:03:56.733244+00:00",
+  "generated_at": "2026-08-23T07:03:25.211367+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -727,6 +727,25 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
+      "text": "Ukraine's Air Force says 97 of 127 Russian drones were downed or suppressed overnight, including Shahed, Gerbera and other types. Hits by 27 strike drones were recorded at 22 locations, while debris from intercepted drones fell at three. Several Russian drones remained airborne as of 09:00.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-23T06:28:39+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
       "text": "\u26a1\ufe0f\ud83c\udde9\ud83c\uddea\ud83c\uddfa\ud83c\uddf8\ud83c\uddec\ud83c\udde7\ud83c\uddf7\ud83c\uddfa [Politico](https://www.politico.eu/article/germany-missile-program-deter-russia-vladimirputin/): Germany is planning to spend nearly \u20ac12 billion on a new long\u2011range missile arsenal to deter Russia, according to defence ministry documents. \nThe programme aims to give German forces the ability to strike targets hundreds or even thousands of kilometres behind the front lines, including command centres, airfields and supply hubs.\nThe four\u2011part plan includes a low\u2011cost cruise missile to be fielded as early as 2027, with candidates from Covenant Industries, a Ukrainian company and Fire Point. \n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
@@ -879,20 +898,20 @@
     },
     {
       "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "Wildberries passing the torch to Ozon. The Ozon logistics center in Chapayevsk, Russia\u2019s Samara region, has been destroyed following a Ukrainian drone strike and subsequent fire.",
+      "publisher": "Geopolitics Prime",
+      "text": "\u2721\ufe0f\ud83d\udc79 780,000 thieves & 592 outposts: Zionist blueprint for erasing Palestine\nSystematic ethnic cleansing through the relentless theft of land and life from the Palestinians by the Zionist state continues unabated.\n\ud83d\udc49780,000 illegal settlers now infest 592 settlements and militarized outposts, gobbling up 42% of the occupied West Bank - this is the cold arithmetic of [Israel\u2019s land grab on steroids](https://t.me/geopolitics_prime/72745), laid out by the Colonization and Wall Resistance Commission - a Palestinian body that monitors settlement activity.\nWhile foreign ministers issue their feckless, toothless condemnations, Benjamin Netanyahu spits in the face of international law, openly declaring Palestinian statehood dead.\n\ud83d\udde3\u201cAs long as I am prime minister, no Palestinian state controlled by Iran will arise: not in Gaza, and not in Judea and Samaria. Period,\u201d the genocidal PM wrote on X.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-23T02:22:14+00:00",
+      "timestamp": "2026-08-23T06:31:34+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "CASELS"
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
@@ -1038,25 +1057,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-22T10:11:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddf8\ud83c\udde6 Houthi drone strikes tear Saudi forces apart \u2013 video\nFootage release by the Houthis shows the grisly fate of Saudi military personnel and the destruction of Saudi military hardware in Yemen\u2019s Marib governorate and along the country\u2019s western coast.\nFollowing the collapse of the 2022 UN-mediated truce last month, caused by a Saudi strike on Sanaa airport in Yemen, the Houthis stepped up their retaliatory attacks, both against Saudi invaders on Yemeni soil and against targets in Saudi Arabia.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-22T07:31:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
