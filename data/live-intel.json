@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T20:34:23.773458+00:00",
+  "generated_at": "2026-08-23T21:01:00.220320+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -779,25 +779,6 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8 The U.S Dept of Defense & Raytheon just casually dropped a new Long Range Air-to-Air Missile (LRAAM).\nThe AIM-424 \u2018Malice\u2019.\nNot many details known about it, outside of a confirmed effective range that exceeds that of 470km (just under 300mi for the Americans).\nMissile is roughly 4.11m (13.5ft) in length, and weighs just under 681kg (incl warhead) and is propelled by a 2-stage solid fuel rocket.\nAs of current, it appears the following aircraft are certified for it, within the USAF & USN.\n\u2022 F-35A & F-35C Lightning II\n\u2022 F/A-18E/F Super Hornet\n\u2022 EA-18 Growler\n\u2022 F/A-XX (this is the most curious one, as the DOD & Dept of the Navy still have YET to formally announce a winner for this project).",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-23T10:17:50+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
       ],
       "verified_source_count": 1
     },
