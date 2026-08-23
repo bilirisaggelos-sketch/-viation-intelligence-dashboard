@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T21:01:00.220320+00:00",
+  "generated_at": "2026-08-23T21:38:37.736972+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -535,26 +535,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Netanyahu's Office:\nPrime Minister Benjamin Netanyahu and Defense Minister Israel Katz held a security assessment this evening (Sunday) regarding the threat of drones, balloons, and kites being launched from the Gaza Strip toward Israel.\nIsrael warns Hamas that if the launches toward Israel do not stop immediately, the IDF will intensify targeted operations against those responsible for the launches and will evacuate civilians from areas from which kites, drones, and balloons are launched.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-23T16:32:37+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Clash Report"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
       "publisher": "Our Wars Today",
       "text": "[ICE and Iran worked together to deport Iranians from U.S., newly released emails show](https://www.pbs.org/newshour/world/ice-and-iran-worked-together-to-deport-iranians-from-u-s-newly-released-emails-show)\nHundreds of emails exchanged between U.S. immigration officials, which were obtained by the National Iranian American Council and made public Tuesday, offer the most transparent play by play yet of how the two countries worked together to arrange for more than 100 Iranians to be flown back to Iran on three separate immigration flights in September and December 2025 and January 2026. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://www.pbs.org/newshour/world/ice-and-iran-worked-together-to-deport-iranians-from-u-s-newly-released-emails-show)\npbs\u200b.org \u2022 Aug 20, 2026",
       "source": "Telegram",
@@ -736,26 +716,6 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Clash Report"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddfe\ud83c\uddea\ud83c\uddf8\ud83c\udde6\u26a1\ufe0f \u2014 Yemeni military source to Saba Agency: A Saudi ScanEagle spy plane was shot down while it was penetrating the airspace in Hajjah Governorate, northern Yemen.\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-23T13:15:51+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
@@ -766,12 +726,12 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf1\u274c\ud83c\uddf5\ud83c\uddf8 \u2014 Israeli Defense Minster Katz:\nI instructed the army to act forcefully against the phenomenon of launching balloons, kites, or drones from the Gaza Strip towards the Gaza envelope communities.\n\u26aa\ufe0f",
+      "text": "\ud83c\uddfe\ud83c\uddea\ud83c\uddf8\ud83c\udde6\u26a1\ufe0f \u2014 Yemeni military source to Saba Agency: A Saudi ScanEagle spy plane was shot down while it was penetrating the airspace in Hajjah Governorate, northern Yemen.\n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-23T10:28:54+00:00",
+      "timestamp": "2026-08-23T13:15:51+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -1000,25 +960,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-23T15:33:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udd25 Russian forces continue obliterating Ukraine\u2019s military infrastructure and logistics\nVolodymyr Zelensky\u2019s ill-fated decision to step up a drone terror campaign against civilians in Russia continues to backfire spectacularly as Russian forces respond with a series of precision strikes against sites operated by the Ukrainian military.\nThe latest set of targets hit by Russian reprisals includes:\n\ud83d\udd34 A depot belonging to the TechnoBaza online retailer in the Sumy region, that was used to store military drone parts\n\ud83d\udd34 A vehicle service station in the city of Romny; a depot and a vehicle storage site used by the Ukrainian forces sustained damage\n\ud83d\udd34 The OSKAR mall in Kherson, which Ukrainian troops used to covertly stockpile arms and drone components\nThe attacks in Kherson also inflicted damage upon motor vehicles used by the Ukrainian forces to move military cargo.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-23T13:49:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
