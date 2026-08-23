@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T11:50:25.511563+00:00",
+  "generated_at": "2026-08-23T12:53:00.633845+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -542,82 +542,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-23T09:35:12+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "New satellite imagery shows fresh runway markings at Ethiopia\u2019s Asosa Airport, near Sudan, alongside repeated visits by UAE-linked Il-76 heavy cargo aircraft.\nAsosa has previously been linked by investigations and satellite analysis to RSF training and logistics, including alleged UAE-backed activity.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-23T09:26:59+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Zelensky says Russia still has roughly 600\u2013630 ballistic missiles and could produce up to 1,300 a year, calling the ballistic threat a key priority for Ukrainian strikes and sanctions.\nHe also said Ukraine recently destroyed an Iskander launcher near the border as part of an ongoing \u201chunt\u201d for Russian missile systems.\nOn the ground war, Zelensky warned Russia could eventually try to push toward Kyiv or Chernihiv oblasts to create a \u201cbuffer zone,\u201d while stressing that Kyiv remains one of Putin\u2019s long-term objectives.\nOn Mykhailo Fedorov, Zelensky said he was offered \u201cfour different options\u201d to remain on the team but refused them, adding that Fedorov had been \u201cpushed towards the wrong things.\u201d",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-23T08:38:58+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Mark Ruffalo rejected Paramount\u2019s accusation that his criticism of the Ellisons and the Warner Bros. Discovery merger invoked antisemitic tropes.\n\u201cThe accusation that I am antisemitic is appalling and fundamentally dishonest.\u201d\nHe argued that criticizing Israeli government policy, military technology contracts, or the executives involved \u201cis not the same as criticizing Jewish people.\u201d\nOn the merger itself, Ruffalo said scrutiny of the Ellisons, Oracle\u2019s surveillance and government-contract business, potential job losses, and threats to editorial freedom is \u201cfair and necessary.\u201d\n\u201cNow is the time to dive boldly into all these issues, not step back or concede.\u201d",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-23T08:34:33+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Three years ago today, Wagner Group founder Yevgeny Prigozhin, military commander Dmitry Utkin, and their core leadership were killed when their jet broke apart mid-flight over Russia's Tver Region, exactly two months after their failed mutiny.\nVideos showed the aircraft spiraling down missing a wing, with debris scattered across 3 km. \nWestern intelligence assessed it as an onboard bomb. \nPutin claimed grenade fragments were found in the bodies but no official report was ever released.\nWagner as an independent force effectively ended. \nIts fighters were absorbed into Russia's military, and African operations were rebranded as the state-controlled Africa Corps. \nThree years later, no definitive forensic conclusion has been publicly issued.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-23T08:18:55+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
