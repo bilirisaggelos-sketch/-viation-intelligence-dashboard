@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T03:10:00.878284+00:00",
+  "generated_at": "2026-08-23T04:03:41.007004+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -182,25 +182,6 @@
       "icon": "\ud83d\udea8",
       "timestamp": "08/21/2026",
       "location": "ZAB AZ",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nTampa, FL, Saturday, August 22, 2026 through Saturday, August 22, 2026 Local\nFacility: ZJX",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "08/20/2026",
-      "location": "ZJX FL",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
