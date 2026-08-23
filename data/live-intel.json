@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T11:27:05.250838+00:00",
+  "generated_at": "2026-08-23T11:50:25.511563+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -454,6 +454,82 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Iran\u2019s Foreign Minister Abbas Araghchi:\nCrushing sanctions are all proposed under different titles. It's the same bullying that we've always seen in American policies. \nTo use a term, it's like a repeating movie that they keep broadcasting. We know it by heart and we know how to deal and counter it. \nThe fact that they went from military operations and saying 'we will strike', 'we will do this and that' back to bringing back the same old plans shows that they are truly desperate. \nAnd in front of the great nation of Iran, no solution comes to their minds, so they keep bringing back repetitive plans to the scene. \nThey should know that there is no way but to talk with respect to the people of Iran and a solution based on justice and dignity. They must put all these paths aside and return to the path that has been tested before. \nThe Iranian nation responds to the language of dignity with respect.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-23T11:41:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "U.S. Army demonstrated Bumblebee V2 FPV interceptor drones launching directly from a trailer-mounted \u201cBee Hive Payload\u201d container during Project Sandhills 2.0 at Fort Bragg.\nThe Bee Hive acts as a mobile storage and rapid-launch rack, letting multiple low-cost interceptors be packed, staged, and deployed quickly for counter-drone defense.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-23T11:31:57+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "WATCH: Ukraine\u2019s Special Operations Forces hit 14 Russian targets: 3 aircraft (Su-33, MiG-29, Orion UAV), 8 radar systems, a S-400 position in Gelendzhik, and 2 air-defense systems (Tor and Pantsir).\n11 targets were struck in Russia\u2019s Rostov region and Krasnodar Krai, 3 in occupied Crimea.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-23T11:31:41+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "NEW: Sudan\u2019s Army says it shot down a long-range \u201cstrategic\u201d drone today Blue Nile State after it crossed from the direction of Ethiopia.\nSAF sources attribute the drone to the RSF and say it was targeting forces near Kurmuk.\nNo wreckage or independently verified drone type has yet been released.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-23T11:30:04+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
       ],
       "verified_source_count": 1
     },
