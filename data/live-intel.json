@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T17:59:08.062756+00:00",
+  "generated_at": "2026-08-23T18:43:44.135972+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -956,6 +956,25 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udc41 How Pokemon-chasing children were fooled into building Pentagon's next-gen drone eye\nFor nine years, Pokemon Go urged children and parents to go outside with their cameras to hunt down virtual creatures through the real world.\nScanning streets and parks in seemingly harmless fun, the players were in reality data mining \u2013 unwittingly building up a vast dataset, per Dutch daily Trouw.\n\u27a1\ufe0f Roughly 30 billion scans were handed over to US software development company and the video game developer Niantic, allowing it to quietly build a 3D model of the physical world\n\u27a1\ufe0f Players surrendered street-level scans of public and private spaces, interior footage of homes, and biometric-adjacent information from camera angles\n\u27a1\ufe0f The game's terms gave Niantic a transferable, sublicensable license for submitted content - every scan could be resold and repurposed without further consent\n\u27a1\ufe0f These scans helped train Niantic\u2019s Visual Positioning System (VPS)\n\u27a1\ufe0f Where GPS fails, VPS matches what a camera sees against a 3D model of the world, and two recognizable reference points can fix a position \u2013 well-suited for autonomous drones operating beyond satellite reach\nThe corporate lineage fits the playbook:\n\u2666\ufe0f Niantic founder John Hanke served in the US Foreign Service before co-founding Keyhole, named after America\u2019s KH spy satellites\n\u2666\ufe0f When it neared collapse, In-Q-Tel - the CIA\u2019s venture arm - and National Geospatial-Intelligence Agency money kept it alive so the tech could \u201csupport United States troops in Iraq\u201d\n\u2666\ufe0f Google bought Keyhole, turned it into Google Earth, and spun Niantic out in 2015 - Pokemon Go arrived a year later\n\u2666\ufe0f In 2025, the company split: the game part was sold to Scopely (Saudi-backed) for $3.5 billion while the mapping tech stayed with Niantic Spatial\n\u2666\ufe0f That tech then partnered with Vantor - the rebranded Maxar Intelligence, a major NGA contractor serving defense and intelligence clients\n\u2666\ufe0f Vantor is the US[ intel engine](https://t.me/geopolitics_prime/71518) behind Volodymyr Zelensky\u2019s drone campaign against Russia\n\u2666\ufe0f The Niantic Spatial - Vantor partnership plans to combine Niantic's ground-based Visual Positioning System with Vantor's aerial positioning software, allowing air and ground systems to share coordinates without satellite signals\nNow that technology is being polished, packaged, and handed to Pentagon-linked partners so drones can keep flying when GPS is jammed, spoofed, or simply nonexistent.\nThe companies insist no raw game data ever takes flight on drones. But once that training data is distilled into patterns, the original contributions become impossible to trace - or claw back.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-23T18:33:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
       "text": "\u2721\ufe0f Israeli defense minister declares war on kites from Gaza\n\ud83d\udcac \"We view every launch as an act of war in every sense\u2026 A balloon is treated like a kite, and a kite is treated like a drone, with or without explosives,\" Israeli Defense Minister Israel Katz has said.\nThe Israel Defense Forces says it identified at least six kites in Israel from Gaza, adding their are being sent by \"12- and 13-year-old teenagers, who themselves are being operated by other parties, likely Hamas operatives.\"\nIn other words, the most advanced military in the world now prepares to deal with kids\u2019 toys.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
@@ -1019,25 +1038,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-23T09:33:02+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\u2721\ufe0f\ud83d\udc79 780,000 thieves & 592 outposts: Zionist blueprint for erasing Palestine\nSystematic ethnic cleansing through the relentless theft of land and life from the Palestinians by the Zionist state continues unabated.\n\ud83d\udc49780,000 illegal settlers now infest 592 settlements and militarized outposts, gobbling up 42% of the occupied West Bank - this is the cold arithmetic of [Israel\u2019s land grab on steroids](https://t.me/geopolitics_prime/72745), laid out by the Colonization and Wall Resistance Commission - a Palestinian body that monitors settlement activity.\nWhile foreign ministers issue their feckless, toothless condemnations, Benjamin Netanyahu spits in the face of international law, openly declaring Palestinian statehood dead.\n\ud83d\udde3\u201cAs long as I am prime minister, no Palestinian state controlled by Iran will arise: not in Gaza, and not in Judea and Samaria. Period,\u201d the genocidal PM wrote on X.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-23T06:31:34+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
