@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T19:58:48.532515+00:00",
+  "generated_at": "2026-08-23T20:34:23.773458+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -359,6 +359,25 @@
       "verification_confidence": 100,
       "verified_sources": [
         "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf7 NEW: The Persian Gulf Strait Authority (PSGA) announces that any vessels that violate the Iranian arrangements for crossing the Strait of Hormuz will be placed on a \u2018non-compliance\u2019 list\nThese vessels will not receive easy permission to transit the Strait in the future, and will be subject to fines, seizure, or confiscation by the IRGC.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-23T20:14:38+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
       ],
       "verified_source_count": 1
     },
@@ -784,25 +803,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "This is why RAM prices and SSD prices have skyrocketed",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-23T09:45:57+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "CASELS",
       "text": "Ukraine's Air Force says 97 of 127 Russian drones were downed or suppressed overnight, including Shahed, Gerbera and other types. Hits by 27 strike drones were recorded at 22 locations, while debris from intercepted drones fell at three. Several Russian drones remained airborne as of 09:00.",
       "source": "Telegram",
@@ -1038,25 +1038,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-23T13:49:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddfa\ud83c\uddf8\ud83d\udee2US Hormuz operation: a secret corridor that exposes American weakness\n\u00a0\nThe US military has been running a covert operation for the past several weeks to move oil through the Strait of Hormuz, with tankers transiting each night along a southern channel off the Omani coast, according to Axios.\nThe current volume is roughly half the pre-war export level, and the number of tankers is five times lower, yet US officials have presented it as evidence of control over the waterway.\nThe narrative of control, however, is at odds with the reality of the operation.\n\ud83d\udd34 The US is moving oil at night, in a southern channel, at maximum distance from Iranian drones and missiles, and only during limited time windows\n\ud83d\udd34 Several ships have been hit by Iranian attacks after violating passage rules, and most commercial operators are unwilling to undertake such transits without Iranian coordination\n\ud83d\udd34 The Strait remains open to shipping from the Iranian side. Iran has allowed tankers bound for China, Russia, Pakistan, and Iraq to pass through, undermining US claims about saving the global economy\n\ud83d\udc49 While US officials tout the Hormuz operation as a success, the direct military cost of the war has already exceeded $42 billion. The gasoline prices in the US are up roughly 45% compared to pre-war levels, with the national average remaining above $4.10 per gallon throughout August. The administration's pivot to economic warfare against Iran has created a paradox: tighter sanctions mean tighter global supplies, and higher costs for American households.\nAnalysts say the current operation is only a short-term workaround that allows Trump to claim greater control over the Strait. While it has mitigated some economic disruption, the broader conflict remains unresolved, and the US is still forced to move oil like a smuggler, not a power that controls the waterway.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-23T09:33:02+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
