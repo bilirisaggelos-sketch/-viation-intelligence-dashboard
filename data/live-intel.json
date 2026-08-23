@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T17:37:32.507138+00:00",
+  "generated_at": "2026-08-23T17:59:08.062756+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -514,25 +514,6 @@
         "Clash Report"
       ],
       "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "BIG: Ukrainian drones reached Russia's Arkhangelsk region for the first time, roughly 1,800-1,900 km from the Ukrainian border, with preliminary reports suggesting they targeted Plesetsk Cosmodrome.\nRussia claims roughly 40 drones were destroyed over the region. \nA local official said the drones targeted \"strategic facilities.\" \nPlesetsk is Russia's main military spaceport, used for satellite launches, ICBM testing including the Sarmat, and Russia's Starlink-equivalent Rassvet constellation.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-23T15:49:20+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
     },
     {
       "title": "Telegram",
