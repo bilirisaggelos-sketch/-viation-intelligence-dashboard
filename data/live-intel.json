@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T23:00:24.243036+00:00",
+  "generated_at": "2026-08-23T23:31:20.588290+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -910,6 +910,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\u2721\ufe0f Israeli spy demands \"THIRD OPTION\" to wipe Iran off the map, thirsts for war with Turkey and Egypt\n\ud83d\udcac \u201cWe have the resources, we just don\u2019t have the willingness to go ahead and take Iran off the map, so to speak,\u201d [American-born Israeli spy Jonathan Pollard](https://t.me/geopolitics_prime/57260) insisted.\nPollard called for Israel to \u201cofficially\u201d push its border north in Lebanon to the Awali River and keep going until Hezbollah is \u201ccompletely destroyed.\u201d\n\ud83d\udcac \u201cI hate to put it that way, but Turkey and Egypt are coming up next as our major strategic threat in the north and the south,\u201d he declared.\n\u2620\ufe0f The Greater Israel project is growing like a cancer. With the Gaza genocide raging, the war on Lebanon escalating, and the aggression against Iran stalling, the Zionist war machine is already setting its sights on its [next victims](https://t.me/geopolitics_prime/73610).\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-23T23:07:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
