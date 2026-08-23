@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T14:02:08.591052+00:00",
+  "generated_at": "2026-08-23T14:43:01.588004+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -504,44 +504,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-23T11:41:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "U.S. Army demonstrated Bumblebee V2 FPV interceptor drones launching directly from a trailer-mounted \u201cBee Hive Payload\u201d container during Project Sandhills 2.0 at Fort Bragg.\nThe Bee Hive acts as a mobile storage and rapid-launch rack, letting multiple low-cost interceptors be packed, staged, and deployed quickly for counter-drone defense.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-23T11:31:57+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "WATCH: Ukraine\u2019s Special Operations Forces hit 14 Russian targets: 3 aircraft (Su-33, MiG-29, Orion UAV), 8 radar systems, a S-400 position in Gelendzhik, and 2 air-defense systems (Tor and Pantsir).\n11 targets were struck in Russia\u2019s Rostov region and Krasnodar Krai, 3 in occupied Crimea.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-23T11:31:41+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
