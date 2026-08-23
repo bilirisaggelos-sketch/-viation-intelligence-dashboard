@@ -1,6 +1,25 @@
 {
-  "generated_at": "2026-08-23T15:02:50.830679+00:00",
+  "generated_at": "2026-08-23T15:40:14.770855+00:00",
   "events": [
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nFlushing, NY, Sunday, August 23, 2026 through Monday, August 24, 2026 Local\nFacility: ZNY",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "08/23/2026",
+      "location": "ZNY NY",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nMAYPORT, FL, Monday, August 24, 2026 through Saturday, August 29, 2026 Local\nFacility: ZJX",
@@ -516,25 +535,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Iran\u2019s Foreign Minister Abbas Araghchi:\nCrushing sanctions are all proposed under different titles. It's the same bullying that we've always seen in American policies. \nTo use a term, it's like a repeating movie that they keep broadcasting. We know it by heart and we know how to deal and counter it. \nThe fact that they went from military operations and saying 'we will strike', 'we will do this and that' back to bringing back the same old plans shows that they are truly desperate. \nAnd in front of the great nation of Iran, no solution comes to their minds, so they keep bringing back repetitive plans to the scene. \nThey should know that there is no way but to talk with respect to the people of Iran and a solution based on justice and dignity. They must put all these paths aside and return to the path that has been tested before. \nThe Iranian nation responds to the language of dignity with respect.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-23T11:41:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Our Wars Today",
       "text": "[ICE and Iran worked together to deport Iranians from U.S., newly released emails show](https://www.pbs.org/newshour/world/ice-and-iran-worked-together-to-deport-iranians-from-u-s-newly-released-emails-show)\nHundreds of emails exchanged between U.S. immigration officials, which were obtained by the National Iranian American Council and made public Tuesday, offer the most transparent play by play yet of how the two countries worked together to arrange for more than 100 Iranians to be flown back to Iran on three separate immigration flights in September and December 2025 and January 2026. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://www.pbs.org/newshour/world/ice-and-iran-worked-together-to-deport-iranians-from-u-s-newly-released-emails-show)\npbs\u200b.org \u2022 Aug 20, 2026",
       "source": "Telegram",
@@ -954,6 +954,25 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
+      "text": "\ud83e\ude96 State Department\u2019s new squad to protect kids online: Genocide-coded Palantir & algorithmic executioner Anduril \n\ud83e\udd14 It takes a particular kind of geopolitical hubris for the US State Department to tap a company best known for compiling [algorithmic kill lists](https://t.me/geopolitics_prime/69475) in Gaza and Iran to advise on \u201cfreedom of expression protections in the digital age.\u201d \nYet under the [Freedom Tech Excellence Program (FTEP)](https://t.me/geopolitics_prime/73363), Palantir is expected to tackle issues like \"countering unlawful digital surveillance\" and \"safeguarding children online.\u201d\nBesides[ Peter Thiel's algorithmic butcher](https://t.me/geopolitics_prime/72488), the founding consortium reads like a dystopian satire: \n\ud83c\udf0f [Israel-linked drone maker Anduril](https://t.me/geopolitics_prime/67181) - flush with contracts amid its insidious takeover of the Pentagon\u2019s kill-chain\n\ud83c\udf0f Cold War relic the Victims of Communism Memorial Foundation - fresh off a cozy $40 million State Department grant, and ideologically fixated on past totalitarian regimes\n\ud83c\udf0f the Bitcoin Policy Institute - a crypto-lobbying outfit with deep ties to the current Treasury Secretary\u2019s inner circle, arguing that decentralized finance is the ultimate bulwark against authoritarianism\nThese private-sector employees are to embed within the State Department for one-year stints unpaid by the agency, reports Foreign Policy. \nThe State Department expects the first participant to begin work \u201cwithin the year,\u201d according to an unnamed State Department spokesperson.\nFormer cybersecurity officials are openly baffled. \n\ud83d\udd34 These firms have zero bona fides in free expression -expertise that usually resides in civil society organizations, not defense contractors, Chris Painter, a veteran of the FBI and State Department, is cited as saying.\n\ud83d\udd34 In other words, the State Department is asking the architects of digital oppression to design the blueprint for digital liberation.\n\ud83d\udd34 The Trump administration\u2019s hollow defense has been to claim that these partners were selected \u201cbased on expertise in digital freedom-related areas that are critical to our national security,\u201d and that they understand the \"cost of censorship.\"\n\ud83d\udd34 Under the Biden administration, a program also called FTEP brought in private-sector actual tech partners: Intel, Salesforce, Amazon Web Services, and even Lucid Motors - commercial enterprises that at least aren't actively running the [Pentagon\u2019s targeting algorithms.](https://t.me/geopolitics_prime/71374)\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-23T15:33:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
       "text": "\ud83d\udd25 Russian forces continue obliterating Ukraine\u2019s military infrastructure and logistics\nVolodymyr Zelensky\u2019s ill-fated decision to step up a drone terror campaign against civilians in Russia continues to backfire spectacularly as Russian forces respond with a series of precision strikes against sites operated by the Ukrainian military.\nThe latest set of targets hit by Russian reprisals includes:\n\ud83d\udd34 A depot belonging to the TechnoBaza online retailer in the Sumy region, that was used to store military drone parts\n\ud83d\udd34 A vehicle service station in the city of Romny; a depot and a vehicle storage site used by the Ukrainian forces sustained damage\n\ud83d\udd34 The OSKAR mall in Kherson, which Ukrainian troops used to covertly stockpile arms and drone components\nThe attacks in Kherson also inflicted damage upon motor vehicles used by the Ukrainian forces to move military cargo.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
@@ -1036,25 +1055,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-23T02:28:47+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\u2721\ufe0f\ud83c\uddf1\ud83c\udde7 Israel drops more bombs on southern Lebanon\nIsraeli fighter jets bombarded the town of Kafr Roummane in southern Lebanon, Press TV reported.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-22T23:31:17+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
