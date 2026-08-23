@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T12:53:00.633845+00:00",
+  "generated_at": "2026-08-23T13:37:25.081286+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -174,25 +174,6 @@
     },
     {
       "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nLibby AAF, AZ, Friday, August 21, 2026 through Sunday, August 23, 2026 Local\nFacility: ZAB",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "08/21/2026",
-      "location": "ZAB AZ",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nWilliamsport, PA, Sunday, August 23, 2026 through Sunday, August 23, 2026 Local\nFacility: ZNY",
       "source": "FAA",
       "source_type": "official",
@@ -346,6 +327,25 @@
     {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
+      "text": "\u2014 \ud83c\uddee\ud83c\uddf1/\ud83c\uddf5\ud83c\uddf8 NEW: Israel\u2019s Minister of Defense, Yisrael Katz, says that kites being launched by Gazan children constitute an \u2018act of war\u2019 and that anyone flying these kites will be \u2018dealt with forcefully\u2019 (i.e. killed)\nKatz declared that kites, balloons, and even paper planes are considered national security threats to Israel, and will be considered the same as drones or missiles.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-23T12:53:42+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
       "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf7/\ud83c\uddec\ud83c\udde7 BREAKING: Iranian hackers shut down a power plant in the UK for 4 consecutive days with a sophisticated cyber attack, according to [The Telegraph](https://www.telegraph.co.uk/news/2026/08/22/iranian-hackers-shut-down-uk-power-plant/)\nIt is thought to be the first time that hackers affiliated with the Iranian government have succeeded in closing down such a facility in the UK, and believed to be the most successful cyber attack of its kind.\nThe incident took place at the same time as a series of attacks on U.S. water infrastructure last month, which affected 12 states and caused concern in the White House.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -460,6 +460,25 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
+      "text": "NEW: Russia withdrew its ambassador from Britain in July and has not nominated a replacement, effectively downgrading diplomatic relations.\nThe Russian Embassy said Ambassador Kelin left \"in the hope that a more constructive and respectful dialogue could eventually be restored, should the UK reconsider its policies.\"\nThe move followed reports that British-made attack drones had been used for deep strikes inside Russia for the first time. \nThe embassy warned: \nLondon's actions will inevitably carry consequences. The deeper its involvement, the higher the price it will pay.\nPM Burnham responded that the UK supports Ukraine \"100%\" and is \"not a fair-weather friend.\" \nThe UK maintains its own ambassador in Moscow.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-23T13:33:20+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
       "text": "Iran\u2019s Foreign Minister Abbas Araghchi:\nCrushing sanctions are all proposed under different titles. It's the same bullying that we've always seen in American policies. \nTo use a term, it's like a repeating movie that they keep broadcasting. We know it by heart and we know how to deal and counter it. \nThe fact that they went from military operations and saying 'we will strike', 'we will do this and that' back to bringing back the same old plans shows that they are truly desperate. \nAnd in front of the great nation of Iran, no solution comes to their minds, so they keep bringing back repetitive plans to the scene. \nThey should know that there is no way but to talk with respect to the people of Iran and a solution based on justice and dignity. They must put all these paths aside and return to the path that has been tested before. \nThe Iranian nation responds to the language of dignity with respect.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -523,25 +542,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-23T11:30:04+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "China\u2019s Type 004 aircraft carrier is rapidly taking shape at Dalian, with new satellite imagery showing a more complete bow and a hull already around 320 meters long.\nThe strongest open-source assessment is that it will be China\u2019s first nuclear-powered carrier, with imagery reportedly showing two reactor containment structures.\nExpected features include EMALS catapults, a 90\u2013100+ aircraft air wing, and a displacement potentially above 110,000 tons.\nThe carrier is expected to be substantially larger and more capable than Fujian, likely around 110,000\u2013120,000 tons, with a final length approaching or exceeding the U.S. Gerald R. Ford-class.\nCurrent estimates suggest four catapults, compared with three on Fujian, and an air wing potentially exceeding 90 aircraft, including J-35 stealth fighters, J-15T carrier fighters, KJ-600 airborne early-warning aircraft, helicopters, and eventually combat drones.\nA launch could come as early as 2027, followed by several years of fitting-out and sea trials, with entry into service around 2030.\n[SOURCE](https://www.twz.com/sea/chinas-next-aircraft-carrier-is-taking-shape)",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-23T09:35:12+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -720,6 +720,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Our Wars Today"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddfe\ud83c\uddea\ud83c\uddf8\ud83c\udde6\u26a1\ufe0f \u2014 Yemeni military source to Saba Agency: A Saudi ScanEagle spy plane was shot down while it was penetrating the airspace in Hajjah Governorate, northern Yemen.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-23T13:15:51+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
       ],
       "verified_source_count": 1
     },
