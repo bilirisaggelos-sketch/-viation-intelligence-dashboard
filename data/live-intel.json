@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T07:48:45.718845+00:00",
+  "generated_at": "2026-08-23T08:38:11.120154+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -479,6 +479,44 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
+      "text": "Mark Ruffalo rejected Paramount\u2019s accusation that his criticism of the Ellisons and the Warner Bros. Discovery merger invoked antisemitic tropes.\n\u201cThe accusation that I am antisemitic is appalling and fundamentally dishonest.\u201d\nHe argued that criticizing Israeli government policy, military technology contracts, or the executives involved \u201cis not the same as criticizing Jewish people.\u201d\nOn the merger itself, Ruffalo said scrutiny of the Ellisons, Oracle\u2019s surveillance and government-contract business, potential job losses, and threats to editorial freedom is \u201cfair and necessary.\u201d\n\u201cNow is the time to dive boldly into all these issues, not step back or concede.\u201d",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-23T08:34:33+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Three years ago today, Wagner Group founder Yevgeny Prigozhin, military commander Dmitry Utkin, and their core leadership were killed when their jet broke apart mid-flight over Russia's Tver Region, exactly two months after their failed mutiny.\nVideos showed the aircraft spiraling down missing a wing, with debris scattered across 3 km. \nWestern intelligence assessed it as an onboard bomb. \nPutin claimed grenade fragments were found in the bodies but no official report was ever released.\nWagner as an independent force effectively ended. \nIts fighters were absorbed into Russia's military, and African operations were rebranded as the state-controlled Africa Corps. \nThree years later, no definitive forensic conclusion has been publicly issued.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-23T08:18:55+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
       "text": "NEW: The U.S. Navy has revealed the AIM-424 \u201cMalice,\u201d a new very long-range air-to-air missile already undergoing flight testing.\nIt is intended for the F/A-18E/F Super Hornet, F-35C, and future F/A-XX fighter.\nMalice appears significantly larger and longer-ranged than the AIM-120 and AIM-260, and is reportedly a two-stage weapon designed for extreme speed and range. \nIts exact range, manufacturer, and additional capabilities remain classified.\nSource: [TWZ](https://www.twz.com/air/aim-424-malice-very-long-range-air-to-air-missile-emerges-from-the-shadows)",
       "source": "Telegram",
       "source_type": "telegram",
@@ -495,44 +533,6 @@
         "Clash Report"
       ],
       "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Israel\u2019s Foreign Minister Gideon Sa'ar on T\u00fcrkiye:\nWe hear Erdogan\u2019s language. It cannot be ignored. But at the same time, I\u2019m saying that we have no interest in escalation with T\u00fcrkiye.\nWe will always prefer to resolve situations through deconfliction and diplomatic messages.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-22T19:20:41+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Iran\u2019s Secretary of the Supreme National Security Council, Mohsen Rezai:\nEvery home can be a launcher in the economic war. \nEvery neighborhood can be a missile base for the economic war.\nHe called on Iranian youth to enter the economy as part of economic resistance.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-22T19:19:14+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
     },
     {
       "title": "Telegram",
