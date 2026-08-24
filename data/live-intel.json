@@ -1,6 +1,25 @@
 {
-  "generated_at": "2026-08-24T23:03:34.021423+00:00",
+  "generated_at": "2026-08-24T23:39:20.556185+00:00",
   "events": [
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nHOUSTON, TX, Thursday, August 27, 2026 through Friday, August 28, 2026 Local\nFacility: ZHU",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "08/24/2026",
+      "location": "ZHU TX",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nMacon, GA, Wednesday, August 26, 2026 through Thursday, August 27, 2026 Local\nFacility: ZTL",
