@@ -1,6 +1,25 @@
 {
-  "generated_at": "2026-08-24T12:03:55.209960+00:00",
+  "generated_at": "2026-08-24T13:15:57.388073+00:00",
   "events": [
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nMacon, GA, Tuesday, August 25, 2026 Local\nFacility: ZTL",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "08/24/2026",
+      "location": "ZTL GA",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nMAYPORT, FL, Monday, August 24, 2026 through Saturday, August 29, 2026 Local\nFacility: ZJX",
@@ -49,25 +68,6 @@
       "icon": "\ud83d\udea8",
       "timestamp": "08/21/2026",
       "location": "ZNY NJ",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nMacon, GA, Monday, August 24, 2026 through Tuesday, August 25, 2026 Local\nFacility: ZTL",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "08/21/2026",
-      "location": "ZTL GA",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
@@ -440,25 +440,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "WATCH: Armenia's PM Pashinyan blasts Israel:\nQuite recently, the Israeli government began a process of recognizing the \"Armenian Genocide\" with the greatest determination, and then, with the same determination, stopped that process.\nInternational players are beating each other over the head with the remains of our martyrs, but it is our head that hurts.\nInternational players weaponize the bones of our martyrs and use them to fire at one another, but it is we who are killed \u2014 just as happened at the end of the 19th century, at the beginning and end of the 20th century, and until very recently.\nWe must put an end to this process of weaponizing the \"Armenian Genocide.\"",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-24T09:55:32+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Our Wars Today",
       "text": "[Kremlin says British missile help for Ukraine 'adds fuel to the fire'](https://www.reuters.com/world/europe/kremlin-says-british-missile-help-ukraine-adds-fuel-fire-2026-08-24/)\nThe Kremlin said on Monday that Britain's decision to \u200bhand Ukraine classified information on British-made components used \u200cto make SCALP long-range cruise missiles would \"add fuel to the fire\" and was regarded by Moscow extremely negatively. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://www.reuters.com/world/europe/kremlin-says-british-missile-help-ukraine-adds-fuel-fire-2026-08-24/)\nReuters | reuters\u200b.com \u2022 Aug 24, 2026",
       "source": "Telegram",
@@ -663,6 +644,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "Anyway, buy gold, sliver, gs, consumer stable stocks, anything that isn't money or crypto. Global inflation is about to sky rocket.\nI pray for the poor.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-24T12:18:28+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
       ],
       "verified_source_count": 1
     },
