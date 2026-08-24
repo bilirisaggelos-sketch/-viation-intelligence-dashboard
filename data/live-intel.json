@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T01:53:17.175558+00:00",
+  "generated_at": "2026-08-24T03:10:05.561078+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -201,25 +201,6 @@
       "icon": "\ud83d\udea8",
       "timestamp": "08/21/2026",
       "location": "ZTL NC",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nWilliamsport, PA, Sunday, August 23, 2026 through Sunday, August 23, 2026 Local\nFacility: ZNY",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "08/16/2026",
-      "location": "ZNY PA",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
@@ -668,32 +649,13 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Our Wars Today",
-      "text": "[In Moscow, they complain about the attack of drones](https://www.pravda.com.ua/news/2026/08/18/8049082/)\nRussia announced another drone attack on Moscow. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://www.pravda.com.ua/news/2026/08/18/8049082/)\n\u041e\u043b\u044c\u0433\u0430 \u0413\u043b\u0443\u0449\u0435\u043d\u043a\u043e | pravda\u200b.com\u200b.ua \u2022 Aug 18, 2026",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-18T01:26:48+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Our Wars Today"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\u274c\ud83c\uddfe\ud83c\uddea Confirmed Ansarallah UAV strike on Saudi-backed PLC base.\n\u26aa\ufe0f",
+      "text": "\ud83c\uddfa\ud83c\udde6\u274c\ud83c\uddf7\ud83c\uddfa \u2014 A Ukrainian drone struck a children's center in Krasnodar, resulting in the deaths of two children and injuries to seven others.\n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-24T00:39:47+00:00",
+      "timestamp": "2026-08-24T02:43:13+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -707,12 +669,12 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf1\u274c\ud83c\uddf5\ud83c\uddf8 \u2014 Joint Statement by the Israeli Prime Minister and Minister of Defense:\nPrime Minister Benjamin Netanyahu and Minister of Defense Yoav Gallant held a meeting this evening (Sunday) to assess the situation regarding the threat of drones, balloons, and kites being launched from the Gaza Strip towards Israel. The meeting was attended by the Chief of Staff, General Aviv Kochavi, the head of the National Security Council, and senior leaders of the Israel Defense Forces.\nIsrael warns Hamas that if the launches towards Israel do not cease immediately, the Israel Defense Forces will take action to increase countermeasures against those responsible for these operations, and will evacuate residents from areas from which drones, balloons, and kites are being launched.\nThe Prime Minister affirmed that we will not return to the situation that existed before October 7th. Israel will not allow the terrorist organization Hamas, or any other entity in the Gaza Strip, to return and threaten our settlements or undermine the sense of security of our citizens.\n\u26aa\ufe0f",
+      "text": "\u274c\ud83c\uddfe\ud83c\uddea Confirmed Ansarallah UAV strike on Saudi-backed PLC base.\n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-23T16:44:53+00:00",
+      "timestamp": "2026-08-24T00:39:47+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -891,6 +853,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\u274c\ud83d\ude80 US burns through THAAD missiles \u2014 replacements stuck until 2027\nThe US military will not receive new THAAD interceptors until around spring 2027, after its stocks were hammered during the war against Iran, according to analysis based on Pentagon budget documents.\n\u231b CSIS noted that previous budget documents projected zero THAAD deliveries to the US between August 2023 and April 2027 \u2014 meaning the \u201carsenal of freedom\u201d apparently needed almost four years to get its next batch of top-tier air-defense missiles.\nPentagon materials also show THAAD responsibility being shifted from the Missile Defense Agency to the US Army in FY2027, while MDA lists no FY2027 funding for the program because the system is being transferred.\nThe Pentagon\u2019s own budget overview says Operation Epic Fury and Iran\u2019s missile and UAV attacks underscored the need for resilient, layered missile defense.\n\ud83c\udff3\ufe0f Operation Epstein Fury turned into Operation Empty Magazine.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-24T03:08:06+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
