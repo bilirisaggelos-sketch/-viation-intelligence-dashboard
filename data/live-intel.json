@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T19:05:53.669435+00:00",
+  "generated_at": "2026-08-24T19:47:11.635034+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -402,20 +402,20 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea Saudi tank gets hit by a munition dropped from a Yemeni drone, and completely explodes\nThe Yemenis have clearly received training of some kind; accurate hits from such altitudes are not easy.",
+      "publisher": "Clash Report",
+      "text": "Finnish President Stubb on Ukraine\u2019s Wildberries strikes:\nWe need to increase Ukraine's capacity for deep strikes whether with missiles or drones. The reason is very simple: it increases the cost of the war for Russia. \n65% of the Russian population now wants to end this war, and hitting logistic centers like Wildberries increases it by an additional 10%.\nDo I think this is sensible military strategy from Ukraine? My answer is yes, it certainly is. \nThis is the only way we're going to get peace negotiations on the table.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-21T13:13:15+00:00",
+      "timestamp": "2026-08-24T19:24:02+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Middle East Spectator"
+        "Clash Report"
       ],
       "verified_source_count": 1
     },
@@ -435,6 +435,44 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Our Wars Today",
+      "text": "[\u2018Everything except nukes\u2019: As the world watches Wildberries, Russia unleashes war on Ukraine\u2019s economy ](https://t.me/KyivIndependent_official/54979)\n\u2018Everything except nukes\u2019: As the world watches Wildberries, Russia unleashes\nwar on Ukraine\u2019s economy\n[https://kyivindependent.com/everything-except-nukes-as-the-world-watches-wildberries-russia-unleashes-war-on-ukraines-economy/]\nWalk through a supermarket in Kyiv, and you will find rows of empty shelves.\nDrive your car to a gas station in Kharkiv, and a Russian drone may have gotten\nthere first. Across Ukraine, packages are at risk of being turned to ash as\nRussian missiles pummel post offices. Once bustling ports sit empty, as ships\nstay clear of Ukraine.\nAs Ukraine captures global attention with dramatic strikes on Russia\u2019s oil\ninfrastructure and e-commerce giants Wildberries and Ozon, Russia has un... \n[Read More in Full Article](https://t.me/KyivIndependent_official/54979)\n | t\u200b.me \u2022 Aug 24, 2026",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-24T19:30:08+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Our Wars Today"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Our Wars Today",
+      "text": "[Israel's Netanyahu says Iran tried to kill one of his sons](https://www.reuters.com/world/middle-east/israels-netanyahu-says-iran-tried-kill-one-his-sons-2026-08-24/)\nIsraeli Prime Minister Benjamin Netanyahu said on Monday that Iran had tried to kill one of his sons, but gave no details about \u200bwhen the alleged plot took place, which son was targeted or how \u200cclose it came to being carried out. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://www.reuters.com/world/middle-east/israels-netanyahu-says-iran-tried-kill-one-his-sons-2026-08-24/)\nReuters | reuters\u200b.com \u2022 Aug 24, 2026",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-24T19:29:46+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Our Wars Today"
       ],
       "verified_source_count": 1
     },
@@ -485,63 +523,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-20T18:51:48+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Our Wars Today"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Our Wars Today",
-      "text": "\u26a1\ufe0fUpdated: 2 dead in Russian [daytime strike](https://kyivindependent.com/russia-launches-deadly-strike-on-kyiv-killing-at-least-1-as-capital-reels-from-massive-overnight-attack/) on Kyiv. \nTwo victims in the city's Holosiivskyi district have been killed in Russia's daytime attack, which comes on the heels of a large-scale overnight missile barrage that killed 15 people and struck a children's hospital.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-20T18:45:45+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Our Wars Today"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Our Wars Today",
-      "text": "\u26a1\ufe0fUpdate: Death toll [rises](https://kyivindependent.com/russian-ballistic-missile-attack-rocks-kyiv-damages-childrens-hospital/) to 13 following Russia\u2019s large ballistic missile and drone attack on Kyiv. \nUkraine's Air Force said Russia launched 44 cruise missiles, two Banderol missiles, and 168 Shahed-type drones during the attack.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-20T10:06:33+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Our Wars Today"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Our Wars Today",
-      "text": "\u26a1\ufe0fAt least 12 dead after hours-long Russian ballistic missile, drone [attack](https://kyivindependent.com/russian-ballistic-missile-attack-rocks-kyiv-damages-childrens-hospital/) on Kyiv, children's hospital damaged.\nThe attack is still ongoing and an air raid alert is still in place in the capital.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-20T10:06:33+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -745,6 +726,25 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udc80 Musk\u2019s FAA fix flops, opening the door for Palantir\nThe attempt to reform the Federal Aviation Administration (FAA) with the involvement of Elon Musk\u2019s DOGE has done little to solve the real problems facing the US air traffic control system. Instead of the promised rapid technological overhaul, hundreds of employees were shown the door, while Palantir took on an increasingly prominent role in its digital infrastructure.\nDOGE cuts staff but crisis remains\nDOGE became involved in the FAA overhaul in early 2025 amid growing concerns about outdated equipment, system failures and a chronic shortage of air traffic controllers. The goal was to streamline the agency and speed up modernization. Instead, around 400 FAA employees were reportedly dismissed, including staff responsible for maintaining and supporting critical infrastructure.\nThe FAA\u2019s biggest problem remains a chronic shortage of air traffic controllers and technical personnel. Cutting hundreds of employees, including staff responsible for maintaining critical equipment, was unlikely to make the system more resilient. Continued outages and infrastructure failures highlight a fundamental issue \u2013 technology cannot simply replace experienced and highly qualified specialists.\nBillions are now up for grabs\nYet the proposed answer to the crisis focuses on digital technologies and artificial intelligence. Congress has allocated $12.5 billion to modernize the US air traffic control system, with roughly $5 billion set aside for software and technology upgrades. For companies already operating within the FAA\u2019s digital ecosystem, this represents a potentially enormous opportunity. [Palantir\u2019s Foundry platform](https://t.me/geopolitics_prime/70382) is already in use at the agency, putting the company in a strong position as new contracts are awarded.\nPalantir already inside\nPalantir had already established a presence within the FAA\u2019s internal infrastructure while competing for a major AI contract to help [reshape air traffic control](https://t.me/geopolitics_prime/70034). Its existing role could give the company a valuable advantage as Washington prepares to spend billions of dollars on \u201cmodernizing\u201d the nation\u2019s aviation system.\nThe result is a striking irony: the US cuts the people keeping its skies safe, then turns to AI to fill the gap. The FAA\u2019s problems remain unresolved. The staffing crisis persists, and the technology still has to prove it can do the job, but Palantir is already inside the system, waiting for its share.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-24T19:32:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
       "text": "\ud83c\udde7\ud83c\udde9\ud83c\uddf5\ud83c\uddf0\ud83c\uddee\ud83c\uddf3 Bangladesh pivots to Pakistan: statement on the Mecca Agreement challenges India\n\u27a1\ufe0f Bangladesh has announced its intention to consider joining the Mecca Agreement on joint defense, signed by Saudi Arabia, Turkey, and Pakistan on August 7, 2026. This was stated in an interview with the state news agency BSS by the Prime Minister's Foreign Affairs Adviser Humayun Kabir, who emphasized that any decision would be made strictly in accordance with national interests and the country's multi-vector foreign policy. The pact stipulates that an armed attack on one signatory is considered an attack on all \u2014 in essence, it is the Islamic world's equivalent of NATO's Article 5.\n\u27a1\ufe0f Over the past year and a half, Dhaka and Islamabad have been rapidly drawing closer. In January, the commander of the Bangladeshi Air Force held talks in Pakistan on the procurement of JF-17 Thunder fighter jets\u2014a Chinese-Pakistani aircraft priced 2\u20133 times lower than Western equivalents. In May, Pakistan already delivered simulators to Bangladesh for training JF-17 pilots, a step that typically precedes the signing of a contract. Direct flights between Dhaka and Karachi have been resumed, agreements on combating drug trafficking have been signed, and a memorandum on food trade is being prepared. For the first time in decades, Bangladeshi civil servants have gone for training in Pakistan, whereas previously they went exclusively to India.\n\u27a1\ufe0f For New Delhi, this is a bitter pill. In 1971, thanks to India's military support, East Pakistan gained independence, and Bangladesh was born. This \"blood debt\" was long regarded as the foundation of Indian dominance in the region. However, after ex-Prime Minister Sheikh Hasina fled to India in 2024, relations collapsed. The current leadership is distancing itself from India. Joining the Mecca Agreement would be a strategic breakthrough for Pakistan \u2014 an opportunity to enter \"India's backyard\" through the western flank. Of particular concern to Indian strategists is the proximity of the new military bloc to the Siliguri Corridor\u2014a narrow land bridge connecting mainland India with its northeastern states.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
@@ -789,25 +789,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-24T10:32:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\u274c\ud83d\ude80 US burns through THAAD missiles \u2014 replacements stuck until 2027\nThe US military will not receive new THAAD interceptors until around spring 2027, after its stocks were hammered during the war against Iran, according to analysis based on Pentagon budget documents.\n\u231b CSIS noted that previous budget documents projected zero THAAD deliveries to the US between August 2023 and April 2027 \u2014 meaning the \u201carsenal of freedom\u201d apparently needed almost four years to get its next batch of top-tier air-defense missiles.\nPentagon materials also show THAAD responsibility being shifted from the Missile Defense Agency to the US Army in FY2027, while MDA lists no FY2027 funding for the program because the system is being transferred.\nThe Pentagon\u2019s own budget overview says Operation Epic Fury and Iran\u2019s missile and UAV attacks underscored the need for resilient, layered missile defense.\n\ud83c\udff3\ufe0f Operation Epstein Fury turned into Operation Empty Magazine.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-24T03:08:06+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
