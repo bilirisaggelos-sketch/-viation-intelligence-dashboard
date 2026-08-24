@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T23:59:22.168092+00:00",
+  "generated_at": "2026-08-24T01:53:17.175558+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -239,25 +239,6 @@
       "icon": "\ud83d\udea8",
       "timestamp": "08/16/2026",
       "location": "ZNY NJ",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nWilliamsport, PA, Wednesday, August 19, 2026 through Sunday, August 30, 2026 Local\nFacility: ZNY",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "08/14/2026",
-      "location": "ZNY PA",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
@@ -707,12 +688,12 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf1\u274c\ud83c\uddf5\ud83c\uddf8 \u2014 Joint Statement by the Israeli Prime Minister and Minister of Defense:\nPrime Minister Benjamin Netanyahu and Minister of Defense Yoav Gallant held a meeting this evening (Sunday) to assess the situation regarding the threat of drones, balloons, and kites being launched from the Gaza Strip towards Israel. The meeting was attended by the Chief of Staff, General Aviv Kochavi, the head of the National Security Council, and senior leaders of the Israel Defense Forces.\nIsrael warns Hamas that if the launches towards Israel do not cease immediately, the Israel Defense Forces will take action to increase countermeasures against those responsible for these operations, and will evacuate residents from areas from which drones, balloons, and kites are being launched.\nThe Prime Minister affirmed that we will not return to the situation that existed before October 7th. Israel will not allow the terrorist organization Hamas, or any other entity in the Gaza Strip, to return and threaten our settlements or undermine the sense of security of our citizens.\n\u26aa\ufe0f",
+      "text": "\u274c\ud83c\uddfe\ud83c\uddea Confirmed Ansarallah UAV strike on Saudi-backed PLC base.\n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-23T16:44:53+00:00",
+      "timestamp": "2026-08-24T00:39:47+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -726,12 +707,12 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddfe\ud83c\uddea\ud83c\uddf8\ud83c\udde6\u26a1\ufe0f \u2014 Yemeni military source to Saba Agency: A Saudi ScanEagle spy plane was shot down while it was penetrating the airspace in Hajjah Governorate, northern Yemen.\n\u26aa\ufe0f",
+      "text": "\ud83c\uddee\ud83c\uddf1\u274c\ud83c\uddf5\ud83c\uddf8 \u2014 Joint Statement by the Israeli Prime Minister and Minister of Defense:\nPrime Minister Benjamin Netanyahu and Minister of Defense Yoav Gallant held a meeting this evening (Sunday) to assess the situation regarding the threat of drones, balloons, and kites being launched from the Gaza Strip towards Israel. The meeting was attended by the Chief of Staff, General Aviv Kochavi, the head of the National Security Council, and senior leaders of the Israel Defense Forces.\nIsrael warns Hamas that if the launches towards Israel do not cease immediately, the Israel Defense Forces will take action to increase countermeasures against those responsible for these operations, and will evacuate residents from areas from which drones, balloons, and kites are being launched.\nThe Prime Minister affirmed that we will not return to the situation that existed before October 7th. Israel will not allow the terrorist organization Hamas, or any other entity in the Gaza Strip, to return and threaten our settlements or undermine the sense of security of our citizens.\n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-23T13:15:51+00:00",
+      "timestamp": "2026-08-23T16:44:53+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
