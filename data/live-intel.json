@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T10:55:50.532111+00:00",
+  "generated_at": "2026-08-24T11:36:16.136437+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -49,6 +49,25 @@
       "icon": "\ud83d\udea8",
       "timestamp": "08/21/2026",
       "location": "ZNY NJ",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nMacon, GA, Monday, August 24, 2026 through Tuesday, August 25, 2026 Local\nFacility: ZTL",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "08/21/2026",
+      "location": "ZTL GA",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
