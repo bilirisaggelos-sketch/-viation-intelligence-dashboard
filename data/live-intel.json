@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T22:33:51.556711+00:00",
+  "generated_at": "2026-08-24T23:03:34.021423+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -592,25 +592,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ufe0f\ud83c\uddf8\ud83c\udde9 For the second time in a row in three months, a Turkish drone operated by the Sudanese Army shot down a Turkish drone operated by Ethiopia or the UAE.\nThey are both exactly of the same model.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-24T06:53:29+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "CASELS",
       "text": "While Ukraine has shifted its logistics campaign toward Ozon, Russia is striking Epicentr hypermarkets. A large fire erupted at an Epicentr in Odesa as the city came under attack by Russian jet-powered drones from early morning. Local media published footage of the blaze.",
       "source": "Telegram",
@@ -770,25 +751,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-24T16:35:32+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udd25 Ukraine\u2019s Odessa region on fire as Russia hammers military logistics\nRussian precision strikes rocked the Odessa region overnight, hitting key facilities used to supply Ukrainian forces.\nWhat was hit:\n\u2666\ufe0f Yuzhny port: a tanker carrying fuel for the Ukrainian military destroyed\n\u2666\ufe0f Five fuel storage tanks, 10 warehouses with military equipment, and port infrastructure damaged used to unload and store military cargo\n\u2666\ufe0f Adzhalyk 330 kV power substation, which supplies Yuzhny port\nMassive missile and drone strikes left gas facilities, energy infrastructure, and warehouses burning.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-24T12:03:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
