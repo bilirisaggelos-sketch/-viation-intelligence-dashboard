@@ -1,25 +1,6 @@
 {
-  "generated_at": "2026-08-24T05:55:31.288655+00:00",
+  "generated_at": "2026-08-24T07:11:17.582056+00:00",
   "events": [
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nFlushing, NY, Sunday, August 23, 2026 through Monday, August 24, 2026 Local\nFacility: ZNY",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "08/23/2026",
-      "location": "ZNY NY",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nMAYPORT, FL, Monday, August 24, 2026 through Saturday, August 29, 2026 Local\nFacility: ZJX",
@@ -325,25 +306,6 @@
       "verified_source_count": 1
     },
     {
-      "title": "Burnham to hand long-range missile blueprints to Zelensky as he visits Kyiv",
-      "text": "Burnham to hand long-range missile blueprints to Zelensky as he visits Kyiv\nIt comes after Moscow warned of \"consequences\" over the reported use of British drones by Ukraine.",
-      "source": "BBC",
-      "source_type": "osint",
-      "publisher": "BBC World News",
-      "severity": "info",
-      "icon": "\ud83d\udcf0",
-      "timestamp": "2026-08-24T05:16:57+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "BBC World News"
-      ],
-      "verified_source_count": 1
-    },
-    {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
       "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf7 NEW: The Persian Gulf Strait Authority (PSGA) announces that any vessels that violate the Iranian arrangements for crossing the Strait of Hormuz will be placed on a \u2018non-compliance\u2019 list\nThese vessels will not receive easy permission to transit the Strait in the future, and will be subject to fines, seizure, or confiscation by the IRGC.",
@@ -479,6 +441,25 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
+      "text": "Zelensky:\nOur sea drones are at work. The enemy had a fleet. It is becoming scrap metal. \nBut we need to sink more.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-24T06:54:44+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
       "text": "Colombia will receive three MQ-9A Reaper drones on loan from the US and plans to buy a fourth with its own funds, marking the first armed long-endurance drone capability in the region.\nThe deal follows Colombia joining the US-led Americas Counter-Cartel Coalition as its 19th member under new President de la Espriella, who has sharply reversed predecessor Petro's defense policies. \nColombia offered to host the coalition's coordination center.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -508,12 +489,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
+        "CASELS",
         "Clash Report"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -527,31 +509,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
+        "CASELS",
         "Clash Report"
       ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Senior Iranian official Mohsen Rezaee:\nIf the economic war continues, not a single drop of oil will be exported\u066b neither through the Strait of Hormuz nor from anywhere in the Persian Gulf. \nIran will regard any country\u2019s participation in or support for America\u2019s economic war against the Iranian people as an act of war.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-23T19:14:34+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -764,6 +728,103 @@
     },
     {
       "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ufe0f\ud83c\uddf8\ud83c\udde9 For the second time in a row in three months, a Turkish drone operated by the Sudanese Army shot down a Turkish drone operated by Ethiopia or the UAE.\nThey are both exactly of the same model.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-24T06:53:29+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "While Ukraine has shifted its logistics campaign toward Ozon, Russia is striking Epicentr hypermarkets. A large fire erupted at an Epicentr in Odesa as the city came under attack by Russian jet-powered drones from early morning. Local media published footage of the blaze.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-24T06:51:38+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "Ukrainian drones also targeted Dzhankoi airbase in occupied Crimea overnight, FIRMS data shows. The apparent target was a cluster of Soviet-era aircraft revetments, with concrete parking bays surrounded by U-shaped earthen blast walls and linked by narrow taxiways.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-24T06:51:33+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "The UK has cleared defence firm MBDA to release classified information on British components used in the SCALP long-range missile, the French-produced version of Storm Shadow. Both missiles share British and French technology. The decision allows France and Ukraine to move forward with plans to establish local assembly lines for SCALP missiles in Ukraine.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-24T05:55:43+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "CASELS",
+        "Clash Report"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "\u2757\ufe0fUkrainian attack drones also struck an Ozon logistics hub in Nevinnomyssk, Stavropol Krai, overnight, triggering a large fire at a fulfillment center serving southern Russia. Overnight, Ukrainian drones hit three separate Ozon logistics hubs.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-24T05:55:39+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "CASELS",
+        "Clash Report"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
       "publisher": "CASELS",
       "text": "\u2757\ufe0fUkrainian attack drones struck an Ozon logistics center near Tyube in Russia\u2019s Dagestan overnight, extending the wave of strikes on logistics infrastructure into the North Caucasus. The facility handles large volumes of goods for Ozon across the region. Footage from the attack shows a drone hitting the complex.",
       "source": "Telegram",
@@ -819,25 +880,6 @@
         "Clash Report"
       ],
       "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\udde6\ud83c\uddea\ud83c\uddea\ud83c\uddf9\ud83c\uddf8\ud83c\udde9 UAE-linked military cargo flights to Ethiopia continue, with the activity raising further questions over the country\u2019s role as a logistics hub connected to the RSF in Sudan.\nZebu Air\u2019s IL-76TD cargo aircraft (7Q-ASU) reportedly flew from Al Reef Airbase in Abu Dhabi to Harar Meda Airbase before continuing to Bole Airport in Addis Ababa. OSINT analyst Rich Tedd has also tracked repeated UAE\u2013Ethiopia flights by the same aircraft, with sources reporting two to three IL-76 cargo aircraft arriving daily at Harar Meda or Bole in recent days. \nThe activity comes amid wider evidence of RSF logistics operating through Ethiopia. The [Critical Threats Project](https://www.criticalthreats.org/analysis/sudan-rsf-splm-issp-lakirawa-nigeria-africa-file-august-20-2026) recently assessed that RSF forces almost certainly launched recent operations in Sudan\u2019s Blue Nile region from rear bases in western Ethiopia, with Emirati-RSF supply lines running through the area. \n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-24T05:42:39+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
     },
     {
       "title": "Telegram",
