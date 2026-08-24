@@ -1,25 +1,6 @@
 {
-  "generated_at": "2026-08-24T17:36:32.257092+00:00",
+  "generated_at": "2026-08-24T18:14:57.985073+00:00",
   "events": [
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nMacon, GA, Tuesday, August 25, 2026 Local\nFacility: ZTL",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "08/24/2026",
-      "location": "ZTL GA",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nMAYPORT, FL, Monday, August 24, 2026 through Saturday, August 29, 2026 Local\nFacility: ZJX",
@@ -440,6 +421,25 @@
     },
     {
       "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Ukraine's Budanov said former Defense Minister Fedorov has likely chosen a political path and has the right to advocate for elections, but stressed that security and public trust remain major obstacles.\n\u201cHow can a soldier on the front lines, under threat from drones, cast a vote? How can hundreds of thousands of people living in the occupied territories vote?\" \n\"Who guarantees that everyone will accept the result?\u201d\nHe said Ukraine could technically hold \u201cthe world\u2019s most modern elections\u201d via smartphone, but the key issue is trust in the process, not technology.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-24T17:56:08+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
       "publisher": "Our Wars Today",
       "text": "[Kremlin says British missile help for Ukraine 'adds fuel to the fire'](https://www.reuters.com/world/europe/kremlin-says-british-missile-help-ukraine-adds-fuel-fire-2026-08-24/)\nThe Kremlin said on Monday that Britain's decision to \u200bhand Ukraine classified information on British-made components used \u200cto make SCALP long-range cruise missiles would \"add fuel to the fire\" and was regarded by Moscow extremely negatively. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://www.reuters.com/world/europe/kremlin-says-british-missile-help-ukraine-adds-fuel-fire-2026-08-24/)\nReuters | reuters\u200b.com \u2022 Aug 24, 2026",
       "source": "Telegram",
@@ -555,31 +555,12 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddfe\ud83c\uddea\u26a1\ufe0f \u2014 Statement by Yemeni Armed Forces:\nIn the name of Allah, the Most Gracious, the Most Merciful.\n\u200bAllah Almighty said: \"So there is to be no aggression except against the oppressors.\" Allah Almighty has spoken the truth.\n\u200bWith the help and success of Allah, the Yemeni Armed Forces were able to target the oil tanker Amjad, belonging to the Saudi enemy, in the northern Red Sea off the coast of Yanbu. This was carried out with a ballistic missile, and the hit was precise and direct, by the grace of Allah, leading to a fire breaking out on the ship and the flight of a number of other ships present in the targeted area. This targeting comes as part of implementing the decision of the Yemeni Armed Forces to impose a ban on maritime navigation against the Saudi enemy and to establish the equation of \"blockade for blockade.\"\n\u200bIn another context, the Yemeni Armed Forces, by the grace of Allah, were able to execute two military operations:\n\u200bcentered on targeting Saudi concentrations consisting of a large military convoy loaded with military equipment in the areas of Al-Abr and Al-Wadeeah, using a number of ballistic missiles and drones. This resulted in the burning and destruction of more than ten trucks loaded with weapons coming from Saudi territory to target the Yemeni people.\n\u200btargeted concentrations belonging to the Saudi enemy in the Al-Kana'is area using a number of ballistic missiles and drones. This resulted in the killing and injuring of dozens, among them leaders and officers, and the burning and destruction of a number of weapons depots.\n\u200bThe Armed Forces continue, with the help of Allah Almighty, to enforce the ban on maritime navigation against the Saudi enemy within the declared area of operations, and within the implementation of the equation of \"blockade for blockade\" and \"comprehensive escalation for comprehensive escalation.\" They stand ready, by the power of Allah, to confront any escalation with stronger and harsher strikes, and with broader and larger operations.\n\u200bThe Yemeni Armed Forces congratulate our great Yemeni people and our Arab and Islamic nation on the occasion of the approaching honorable Prophetic Birthday (Mawlid), wishing upon its owner and his family the purest prayers and peace. They call upon the members of our dear, steadfast, faithful, and wise Yemeni people\u2014the Yemen of Supporters (Ansar)\u2014to make an honorable turnout to commemorate this great occasion in all designated squares tomorrow, Allah willing.\n\u200bAllah is sufficient for us, and He is the best Disposer of affairs, the best Master, and the best Helper.\n\u200bLong live Yemen, free, dignified, and independent. Victory to Yemen and to all the free people of the nation.\n\u200bSanaa, 11th of Rabi' al-Awwal 1448 AH / August 24, 2026 AD\nIssued by the Yemeni Armed Forces",
+      "text": "\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddf8\ud83c\udde6\u26a1\ufe0f \u2014 Statement by Yemeni Armed Forces:\nIn the name of Allah, the Most Gracious, the Most Merciful.\n\u200bAllah Almighty said: \"So there is to be no aggression except against the oppressors.\" Allah Almighty has spoken the truth.\n\u200bWith the help and success of Allah, the Yemeni Armed Forces were able to target the oil tanker Amjad, belonging to the Saudi enemy, in the northern Red Sea off the coast of Yanbu. This was carried out with a ballistic missile, and the hit was precise and direct, by the grace of Allah, leading to a fire breaking out on the ship and the flight of a number of other ships present in the targeted area. This targeting comes as part of implementing the decision of the Yemeni Armed Forces to impose a ban on maritime navigation against the Saudi enemy and to establish the equation of \"blockade for blockade.\"\n\u200bIn another context, the Yemeni Armed Forces, by the grace of Allah, were able to execute two military operations:\n\u200bcentered on targeting Saudi concentrations consisting of a large military convoy loaded with military equipment in the areas of Al-Abr and Al-Wadeeah, using a number of ballistic missiles and drones. This resulted in the burning and destruction of more than ten trucks loaded with weapons coming from Saudi territory to target the Yemeni people.\n\u200btargeted concentrations belonging to the Saudi enemy in the Al-Kana'is area using a number of ballistic missiles and drones. This resulted in the killing and injuring of dozens, among them leaders and officers, and the burning and destruction of a number of weapons depots.\n\u200bThe Armed Forces continue, with the help of Allah Almighty, to enforce the ban on maritime navigation against the Saudi enemy within the declared area of operations, and within the implementation of the equation of \"blockade for blockade\" and \"comprehensive escalation for comprehensive escalation.\" They stand ready, by the power of Allah, to confront any escalation with stronger and harsher strikes, and with broader and larger operations.\n\u200bThe Yemeni Armed Forces congratulate our great Yemeni people and our Arab and Islamic nation on the occasion of the approaching honorable Prophetic Birthday (Mawlid), wishing upon its owner and his family the purest prayers and peace. They call upon the members of our dear, steadfast, faithful, and wise Yemeni people\u2014the Yemen of Supporters (Ansar)\u2014to make an honorable turnout to commemorate this great occasion in all designated squares tomorrow, Allah willing.\n\u200bAllah is sufficient for us, and He is the best Disposer of affairs, the best Master, and the best Helper.\n\u200bLong live Yemen, free, dignified, and independent. Victory to Yemen and to all the free people of the nation.\n\u200bSanaa, 11th of Rabi' al-Awwal 1448 AH / August 24, 2026 AD\nIssued by the Yemeni Armed Forces",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-24T16:39:04+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf7\u26a1\ufe0f \u2014 Trump has run out of options against Iran and is making ridiculous statements, according to Stephen Walt, Professor of International Relations at Harvard, who said the U.S. president's recent claim about declaring the Strait of Hormuz as potential new American territory shows he has exhausted his choices.\nWalt stated that Iran controls the Strait of Hormuz and enforces laws in the Persian Gulf, adding that a U.S. war against Iran has never had the support of the American people \u2014 the majority opposed it before it even began. He concluded that Iranians have no reason to believe anything Trump tells them or any commitment he makes in exchange for concessions, so they will simply wait to take what they want in advance.\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-24T04:12:53+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
