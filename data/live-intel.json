@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T04:08:15.389597+00:00",
+  "generated_at": "2026-08-24T05:03:50.208889+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -325,23 +325,24 @@
       "verified_source_count": 1
     },
     {
-      "title": "Burnham to visit Kyiv on first foreign trip and reaffirm UK support for Ukraine",
-      "text": "Burnham to visit Kyiv on first foreign trip and reaffirm UK support for Ukraine\nIt comes after Moscow warned of \"consequences\" over the reported use of British drones by Ukraine.",
+      "title": "Burnham visits Kyiv to reaffirm UK support for Ukraine",
+      "text": "Burnham visits Kyiv to reaffirm UK support for Ukraine\nIt comes after Moscow warned of \"consequences\" over the reported use of British drones by Ukraine.",
       "source": "BBC",
       "source_type": "osint",
       "publisher": "BBC World News",
       "severity": "info",
       "icon": "\ud83d\udcf0",
-      "timestamp": "2026-08-23T23:07:10+00:00",
+      "timestamp": "2026-08-24T05:00:12+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "BBC World News"
+        "BBC World News",
+        "CASELS"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -473,6 +474,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Colombia will receive three MQ-9A Reaper drones on loan from the US and plans to buy a fourth with its own funds, marking the first armed long-endurance drone capability in the region.\nThe deal follows Colombia joining the US-led Americas Counter-Cartel Coalition as its 19th member under new President de la Espriella, who has sharply reversed predecessor Petro's defense policies. \nColombia offered to host the coalition's coordination center.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-24T04:34:46+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
       ],
       "verified_source_count": 1
     },
@@ -688,6 +708,25 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf7\u26a1\ufe0f \u2014 Trump has run out of options against Iran and is making ridiculous statements, according to Stephen Walt, Professor of International Relations at Harvard, who said the U.S. president's recent claim about declaring the Strait of Hormuz as potential new American territory shows he has exhausted his choices.\nWalt stated that Iran controls the Strait of Hormuz and enforces laws in the Persian Gulf, adding that a U.S. war against Iran has never had the support of the American people \u2014 the majority opposed it before it even began. He concluded that Iranians have no reason to believe anything Trump tells them or any commitment he makes in exchange for concessions, so they will simply wait to take what they want in advance.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-24T04:12:53+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
       "text": "\ud83c\uddfa\ud83c\udde6\u274c\ud83c\uddf7\ud83c\uddfa \u2014 A Ukrainian drone struck a children's center in Krasnodar, resulting in the deaths of two children and injuries to seven others.\n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
@@ -726,12 +765,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Ukraine's Air Force says 97 of 127 Russian drones were downed or suppressed overnight, including Shahed, Gerbera and other types. Hits by 27 strike drones were recorded at 22 locations, while debris from intercepted drones fell at three. Several Russian drones remained airborne as of 09:00.",
+      "text": "Worth remembering, Russians had earlier officially published footage of a fiber-optic loitering drone hitting a boy on a bicycle near Kramatorsk, Donetsk region.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-23T06:28:39+00:00",
+      "timestamp": "2026-08-24T04:31:26+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -745,12 +784,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\udde9\ud83c\uddea\ud83c\uddfa\ud83c\uddf8\ud83c\uddec\ud83c\udde7\ud83c\uddf7\ud83c\uddfa [Politico](https://www.politico.eu/article/germany-missile-program-deter-russia-vladimirputin/): Germany is planning to spend nearly \u20ac12 billion on a new long\u2011range missile arsenal to deter Russia, according to defence ministry documents. \nThe programme aims to give German forces the ability to strike targets hundreds or even thousands of kilometres behind the front lines, including command centres, airfields and supply hubs.\nThe four\u2011part plan includes a low\u2011cost cruise missile to be fielded as early as 2027, with candidates from Covenant Industries, a Ukrainian company and Fire Point. \n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "The Russian Armed Forces 3rd Army channel deleted its own post bragging about a drone strike on a cyclist near Kramatorsk. They pulled it down only after the story blew up online.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-23T02:34:57+00:00",
+      "timestamp": "2026-08-24T04:31:22+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -764,12 +803,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfa [Euronews](https://www.euronews.com/my-europe/2026/08/22/at-least-two-killed-in-fresh-russian-strikes-on-ukraine): Fresh Russian strikes killed at least two people overnight in Ukraine, with one death reported in Kyiv and another in Zaporizhzhia. \nThe attacks came as rescue operations continued in Kryvyi Rih, where a Russian drone strike on a shopping centre killed 16 people and wounded more than 100. \nAt least nine people remain missing following the attack.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "Dnipro Osint analysts mapped FP-2 drone strikes at Russia\u2019s Anapa airport, hitting a Su-33, a MiG-29, and an Orion UAV.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-23T02:31:25+00:00",
+      "timestamp": "2026-08-24T04:29:18+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -783,12 +822,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1\ud83c\uddf5\ud83c\uddf8 A short while ago, an IDF drone strike killed Sharif al-Hasanat in the courtyard of his home in Deir al-Balah, central Gaza, according to local reports.\nLocals say al-Hasanat was a commander in Hamas\u2019s military wing. His role has not yet been officially confirmed.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "A warehouse suddenly caught fire in Akulovo, Moscow region. A red drone alert level has been declared across the Moscow region.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-23T02:31:19+00:00",
+      "timestamp": "2026-08-24T04:29:05+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -802,12 +841,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddf8\ud83c\uddfe\ud83c\uddee\ud83c\uddf1 Reports indicate that an Israeli drone strike targeting a vehicle in the town of Beit Jinn, southern Syria, killed one person and wounded two others.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "Zelensky says Ukraine destroyed an Iskander launcher near the border today, part of a hunt for ballistic launchers. He says Russia has about 600 to 630 ballistic missiles left and can make up to 1300 a year, aiming for 100 a month.\nHe says elections right now would be a tsunami for the state that splits Ukraine. He sees a window to end the war from late this year to late summer 2027.\nOn the ground, he says about 10 sq km in Dnipropetrovsk region still need to be brought back under control. Russia's main goal is the Kostyantynivka to Sloviansk direction.\nOn air defense, he says Ukraine has a deal with Germany for 600 PAC-2 missiles in 2027 to 2028. Elon Musk still won\u2019t allow Starlink over Russia, calling it escalation.\nHe says Russia won\u2019t end the war without demanding Ukraine leave Donbas. One ceasefire option is a mutual pullback and a buffer \"free economic zone\". Ukraine is ready to discuss stopping strikes on energy and agricultural infrastructure, but only on a mutual basis.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-23T02:30:52+00:00",
+      "timestamp": "2026-08-24T04:28:36+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -821,12 +860,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "The U.S. Navy has publicly disclosed a previously unannounced AIM-424 Long Range Air-to-Air Missile (LRAAM), also known as the \"Malice\", revealing the weapon mounted inside the internal weapons bay of an F-35C Lightning II with an AIM-120 AMRAAM mounted on the bay door. The Navy describes the AIM-424 as its next-generation, long range air to air missile, intended to give Navy and Marine Corps aviators greater capability against advanced threats.\nThe internal carriage is particularly significant. Rather than simply adding another externally carried long-range missile, the AIM-424 appears to have been designed around the F-35's limited internal weapons-bay dimensions, allowing the aircraft to retain its low-observable configuration while carrying a substantially longer-range air-to-air weapon.\nThe missile is still associated with testing and development, and the Navy has released few technical details regarding its range, seeker, propulsion or intended employment. The available imagery does, however, show the AIM-424 being evaluated on both the F-35C and F/A-18E/F, indicating that the weapon is being considered across the Navy's carrier aviation force.\nSource: https://www.dvidshub.net/image/9879420/aim-424-long-range-air-air-missile-lraam",
+      "text": "A fire broke out overnight at the Izhora industrial site in Kolpino, St Petersburg. No drone attack was reported. The Izhora site is a major heavy-industry zone for machinery, metallurgy and equipment for the energy and nuclear sectors.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-23T02:29:37+00:00",
+      "timestamp": "2026-08-24T04:28:23+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -840,50 +879,32 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Israel warned the United States that Turkey was preparing to deploy radar at al-Duhur airbase in northern Syria, possibly followed by Turkish-operated air-defense systems and personnel, Kan News reports. \nIsraeli officials viewed the move as a potential shift in the regional balance of power. Israel later struck the airbase runways to prevent equipment or troops from arriving by air, and to warn President Ahmed al-Sharaa's government after earlier diplomatic messages went unanswered.",
+      "text": "Russia withdrew its ambassador from Britain in July and has not nominated a replacement, effectively downgrading diplomatic relations.\nThe Russian Embassy said Ambassador Kelin left \"in the hope that a more constructive and respectful dialogue could eventually be restored, should the UK reconsider its policies.\" \nThe move followed reports that British-made attack drones had been used for deep strikes inside Russia for the first time. \nThe embassy warned: \nLondon's actions will inevitably carry consequences. The deeper its involvement, the higher the price it will pay.\nPM Burnham responded that the UK supports Ukraine \"100%\" and is \"not a fair-weather friend.\" \nThe UK maintains its own ambassador in Moscow.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-23T02:27:03+00:00",
+      "timestamp": "2026-08-24T04:26:37+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
+        "BBC World News",
         "CASELS"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Abu Dhabi's fuel storage tanks are now surrounded by large metal fences, a UAE move to protect key energy sites from possible Iranian drone strikes.",
+      "text": "Ukrainian Unmanned Drone Systems hit Russian assets:\nSu-33 fighter jet, Vityazevo settlement, Krasnodar region, Russia.\nMiG-29 fighter jet, Vityazevo settlement, Krasnodar region, Russia.\n \"Orion\" UAV, Vityazevo settlement, Krasnodar region, Russia.\n\"Tor\" anti-aircraft missile system, Pudovoye settlement, Rostov region, Russia.\n \"Nebo-U\" radar station, Dolotinka settlement, Rostov region.\n \"Nebo-U\" radar station, Sevastopol, Crimea.\n \"Kasta 2E2\" radar station, Latanovo settlement, Rostov region, Russia.\n\"Podlyot\" radar station, Prigibsky settlement, Krasnodar region, Russia.\n36D6M radar station, Uyutnoe settlement, Crimea.\n\"Kasta 2E2\" radar station, Shabelkovo settlement, Krasnodar region, Russia.\n\"Pantsir-S1\" anti-aircraft gun complex, Yeisk settlement, Krasnodar region, Russia.\n S-400 \"Triumf\" anti-aircraft missile system position, Gelendzhik settlement, Krasnodar region, Russia.\n \"ST-68\" radar station, Evpatoria, Crimea.\n \"Podlyot\" radar station, Golovatovka settlement, Rostov region, Russia.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-23T02:25:09+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "\u2757\ufe0fZelensky says Ukrainian deep strikes hit the Novokuybyshevsk refinery, 1,000 km from the frontline, and a logistics hub in Samara region over the past day. He said there were also Ukrainian operations in the Black Sea. Confirmed results from earlier strikes include a Su-24M and 4 airfield vehicles destroyed at Saky airfield, while drone-control relays used by Russian forces to guide UAVs at Ukrainian cities and villages were eliminated in Bryansk region.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-23T02:22:23+00:00",
+      "timestamp": "2026-08-24T04:24:57+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
