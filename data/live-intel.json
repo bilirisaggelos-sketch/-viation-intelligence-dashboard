@@ -1,6 +1,25 @@
 {
-  "generated_at": "2026-08-24T20:37:55.051902+00:00",
+  "generated_at": "2026-08-24T21:12:41.732105+00:00",
   "events": [
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nMacon, GA, Wednesday, August 26, 2026 through Thursday, August 27, 2026 Local\nFacility: ZTL",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "08/24/2026",
+      "location": "ZTL GA",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nMAYPORT, FL, Monday, August 24, 2026 through Saturday, August 29, 2026 Local\nFacility: ZJX",
@@ -770,25 +789,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-24T12:03:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\u270b US has lost its dominance in Middle East - American establishment think tank concedes\n\u00a0\n\ud83d\udc49 The Middle Eastern order in which the US played the leading role since 1991 is over, stresses Foreign Affairs, the journal of the influential Council on Foreign Relations (CFR) think tank.\nIt draws parallels between the 1956 Suez crisis that ended the British and French imperial power in the Middle East and Trump's ongoing war against Iran. Though American primacy will not disappear overnight, its fate is sealed, the publication says.\n'American hypocrisy and abuse'\n\ud83d\udd0a \"By nearly every economic, political, and developmental indicator, the Middle East under American domination has performed far worse than any other region,\" the article reads.\n\ud83c\udf0f Israel engaged in numerous wars against its much weaker neighbors and derailed a peace process with Palestine\n\ud83c\udf0f In Iraq, years of sanctions, bombing and failed regime-change efforts culminated in the disastrous 2003 invasion and occupation\n\ud83c\udf0f Under US stewardship, devastating wars have torn apart Lebanon, Libya, Sudan, Syria, and Yemen\n\ud83c\udf0f US-backed neoliberal reforms fueled privatization, enriching elites while leaving much of the population poorer\n\ud83c\udf0f Washington\u2019s war on terror encouraged Middle Eastern allies to expand surveillance and crack down on dissent in the name of security\n\ud83c\udf0f While small Arab elites prospered, for most people in the region the US-led order brought violence, deprivation, and hopelessness\n\ud83c\udf0f The US found itself completely unprepared when Iran pushed back against Trump\u2019s intervention and closed the Strait of Hormuz. US failure to shield its Gulf allies from Iranian attacks has undermined the case for its military presence in the region.\n\ud83e\udd25 Donald Trump is unable to stop or reverse the damage. But his successor may bring Iran \"into the regional security system as an invested partner\" and exert pressure on Israel. All in all, the US will have to work hard to win back the hearts and minds of a region long accustomed to \u201cAmerican hypocrisy and abuse.\u201d\nIt\u2019s striking to see this admission in a CFR publication, given the think tank\u2019s long-standing reputation for interventionism, American hegemonic ambitions, and serving corporate and elite interests.\nMecca pact signals Uncle Sam is no longer trusted\nAmerica\u2019s Middle Eastern partners aren\u2019t waiting around, having lost faith that Uncle Sam will suddenly change. Turkey, Pakistan, and Saudi Arabia have signed a security pact.\n \ud83d\udcccMoreover, there are reports that Iran has been invited to join the newly established Mecca defense pact. Although the invitation has not been confirmed by the countries\u2019 foreign ministries, talks have reportedly been underway for some time, with both Iran and Saudi Arabia previously raising the possibility of a broader regional security pact \u2013 as US policy in the region has increasingly discredited itself\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-24T10:32:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
