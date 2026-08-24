@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T21:12:41.732105+00:00",
+  "generated_at": "2026-08-24T21:47:37.125167+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -402,25 +402,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddf8\ud83c\udde6 \u2014 Satellite imagery shows fresh damage at Saudi Arabia\u2019s Jazan Oil Refinery following the August 18 Houthi (Ansarallah) drone strike, with a large oil storage tank appearing to have been hit and burned.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-21T13:44:41+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Clash Report",
       "text": "Finnish President Stubb on Ukraine\u2019s Wildberries strikes:\nWe need to increase Ukraine's capacity for deep strikes whether with missiles or drones. The reason is very simple: it increases the cost of the war for Russia. \n65% of the Russian population now wants to end this war, and hitting logistic centers like Wildberries increases it by an additional 10%.\nDo I think this is sensible military strategy from Ukraine? My answer is yes, it certainly is. \nThis is the only way we're going to get peace negotiations on the table.",
       "source": "Telegram",
@@ -549,6 +530,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Our Wars Today"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83d\udea8\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6 \u2014 Russia attacks the city of Dnieper with \"drones\", targeting the \"Karawan\" shopping center, \u2014 Ukrainian media. \n\u2b50\ufe0f Follow",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-24T21:35:30+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
       ],
       "verified_source_count": 1
     },
