@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T13:15:57.388073+00:00",
+  "generated_at": "2026-08-24T14:13:29.155198+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -435,6 +435,63 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "WATCH: Ukraine replaced its traditional Independence Day military parade with the world's first all-unmanned systems display, rolling dozens of combat robots down Khreshchatyk while drone boats sailed the Dnipro and UAVs flew overhead.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-24T14:06:33+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "China has developed hypersonic glide vehicles that can launch air-to-air weapons in flight, designed to destroy AWACS, tankers, and command aircraft at ranges of thousands of miles.\nThe concept means China could threaten the airborne support aircraft that make US air campaigns possible without ever sending a fighter into contested airspace. \nThis builds on a 2021 test where a Chinese hypersonic vehicle launched a secondary missile mid-flight, surprising US observers. \nChina already fields the PL-17 \"AWACS-killer\" missile with 300-500 km range from fighters.\nAn HGV-launched variant would extend that reach dramatically.\nSource: Bloomberg",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-24T14:02:33+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Yemen\u2019s Houthis said they struck the Saudi oil tanker Amzan off Yanbu with a ballistic missile, setting it on fire, as part of their declared \u201cblockade for blockade\u201d campaign. \nThey also reported attacks on Saudi military convoys and positions in Al-Abr, Al-Wadiah and Al-Kanais, saying more than 10 weapons trucks were destroyed and dozens of Saudi personnel, including commanders and officers, were killed or wounded.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-24T13:58:14+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
       ],
       "verified_source_count": 1
     },
@@ -903,25 +960,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-23T18:33:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\u2721\ufe0f Israeli defense minister declares war on kites from Gaza\n\ud83d\udcac \"We view every launch as an act of war in every sense\u2026 A balloon is treated like a kite, and a kite is treated like a drone, with or without explosives,\" Israeli Defense Minister Israel Katz has said.\nThe Israel Defense Forces says it identified at least six kites in Israel from Gaza, adding their are being sent by \"12- and 13-year-old teenagers, who themselves are being operated by other parties, likely Hamas operatives.\"\nIn other words, the most advanced military in the world now prepares to deal with kids\u2019 toys.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-23T17:33:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
