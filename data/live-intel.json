@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T05:03:50.208889+00:00",
+  "generated_at": "2026-08-24T05:55:31.288655+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -325,24 +325,23 @@
       "verified_source_count": 1
     },
     {
-      "title": "Burnham visits Kyiv to reaffirm UK support for Ukraine",
-      "text": "Burnham visits Kyiv to reaffirm UK support for Ukraine\nIt comes after Moscow warned of \"consequences\" over the reported use of British drones by Ukraine.",
+      "title": "Burnham to hand long-range missile blueprints to Zelensky as he visits Kyiv",
+      "text": "Burnham to hand long-range missile blueprints to Zelensky as he visits Kyiv\nIt comes after Moscow warned of \"consequences\" over the reported use of British drones by Ukraine.",
       "source": "BBC",
       "source_type": "osint",
       "publisher": "BBC World News",
       "severity": "info",
       "icon": "\ud83d\udcf0",
-      "timestamp": "2026-08-24T05:00:12+00:00",
+      "timestamp": "2026-08-24T05:16:57+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "BBC World News",
-        "CASELS"
+        "BBC World News"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -489,12 +488,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
+        "CASELS",
         "Clash Report"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -765,12 +765,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Worth remembering, Russians had earlier officially published footage of a fiber-optic loitering drone hitting a boy on a bicycle near Kramatorsk, Donetsk region.",
+      "text": "\u2757\ufe0fUkrainian attack drones struck an Ozon logistics center near Tyube in Russia\u2019s Dagestan overnight, extending the wave of strikes on logistics infrastructure into the North Caucasus. The facility handles large volumes of goods for Ozon across the region. Footage from the attack shows a drone hitting the complex.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-24T04:31:26+00:00",
+      "timestamp": "2026-08-24T05:47:58+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -784,12 +784,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "The Russian Armed Forces 3rd Army channel deleted its own post bragging about a drone strike on a cyclist near Kramatorsk. They pulled it down only after the story blew up online.",
+      "text": "\u2757\ufe0fAn Ozon logistics center near Enem in Russia\u2019s Adygea is burning after an overnight drone attack. The facility covers about 91,200 m\u00b2 and handles receiving, sorting, storage and distribution of marketplace goods across Krasnodar Krai, Adygea and other parts of southern Russia.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-24T04:31:22+00:00",
+      "timestamp": "2026-08-24T05:47:55+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -803,108 +803,32 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Dnipro Osint analysts mapped FP-2 drone strikes at Russia\u2019s Anapa airport, hitting a Su-33, a MiG-29, and an Orion UAV.",
+      "text": "\u26a1\ufe0f\ud83c\udde8\ud83c\uddf4\ud83c\uddfa\ud83c\uddf8 [Infodefensa](https://www.infodefensa.com/texto-diario/mostrar/5986634/136-colombia-colombia-recibira-tres-mq-9a-reaper-prestamo-comprara-cuarto-sistema-estados-unidos): Colombia will receive three MQ-9A Reaper drones on loan from the United States, with plans to later purchase a fourth using its own funds, as its Military Forces employ them for ISR missions, counternarcotics operations, and actions against illegal armed groups, while the aircraft will also be configured to carry weapons, allowing precision strikes against high-value targets under applicable rules of engagement.\nThe deal comes after Colombia joined the Americas Counter Cartel Coalition as its 19th member, with the country reportedly offering to host a coordination center for the alliance.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-24T04:29:18+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "A warehouse suddenly caught fire in Akulovo, Moscow region. A red drone alert level has been declared across the Moscow region.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-24T04:29:05+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "Zelensky says Ukraine destroyed an Iskander launcher near the border today, part of a hunt for ballistic launchers. He says Russia has about 600 to 630 ballistic missiles left and can make up to 1300 a year, aiming for 100 a month.\nHe says elections right now would be a tsunami for the state that splits Ukraine. He sees a window to end the war from late this year to late summer 2027.\nOn the ground, he says about 10 sq km in Dnipropetrovsk region still need to be brought back under control. Russia's main goal is the Kostyantynivka to Sloviansk direction.\nOn air defense, he says Ukraine has a deal with Germany for 600 PAC-2 missiles in 2027 to 2028. Elon Musk still won\u2019t allow Starlink over Russia, calling it escalation.\nHe says Russia won\u2019t end the war without demanding Ukraine leave Donbas. One ceasefire option is a mutual pullback and a buffer \"free economic zone\". Ukraine is ready to discuss stopping strikes on energy and agricultural infrastructure, but only on a mutual basis.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-24T04:28:36+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "A fire broke out overnight at the Izhora industrial site in Kolpino, St Petersburg. No drone attack was reported. The Izhora site is a major heavy-industry zone for machinery, metallurgy and equipment for the energy and nuclear sectors.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-24T04:28:23+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "Russia withdrew its ambassador from Britain in July and has not nominated a replacement, effectively downgrading diplomatic relations.\nThe Russian Embassy said Ambassador Kelin left \"in the hope that a more constructive and respectful dialogue could eventually be restored, should the UK reconsider its policies.\" \nThe move followed reports that British-made attack drones had been used for deep strikes inside Russia for the first time. \nThe embassy warned: \nLondon's actions will inevitably carry consequences. The deeper its involvement, the higher the price it will pay.\nPM Burnham responded that the UK supports Ukraine \"100%\" and is \"not a fair-weather friend.\" \nThe UK maintains its own ambassador in Moscow.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-24T04:26:37+00:00",
+      "timestamp": "2026-08-24T05:47:21+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "PARTIALLY VERIFIED",
       "verification_confidence": 65,
       "verified_sources": [
-        "BBC World News",
-        "CASELS"
+        "CASELS",
+        "Clash Report"
       ],
       "verified_source_count": 2
     },
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Ukrainian Unmanned Drone Systems hit Russian assets:\nSu-33 fighter jet, Vityazevo settlement, Krasnodar region, Russia.\nMiG-29 fighter jet, Vityazevo settlement, Krasnodar region, Russia.\n \"Orion\" UAV, Vityazevo settlement, Krasnodar region, Russia.\n\"Tor\" anti-aircraft missile system, Pudovoye settlement, Rostov region, Russia.\n \"Nebo-U\" radar station, Dolotinka settlement, Rostov region.\n \"Nebo-U\" radar station, Sevastopol, Crimea.\n \"Kasta 2E2\" radar station, Latanovo settlement, Rostov region, Russia.\n\"Podlyot\" radar station, Prigibsky settlement, Krasnodar region, Russia.\n36D6M radar station, Uyutnoe settlement, Crimea.\n\"Kasta 2E2\" radar station, Shabelkovo settlement, Krasnodar region, Russia.\n\"Pantsir-S1\" anti-aircraft gun complex, Yeisk settlement, Krasnodar region, Russia.\n S-400 \"Triumf\" anti-aircraft missile system position, Gelendzhik settlement, Krasnodar region, Russia.\n \"ST-68\" radar station, Evpatoria, Crimea.\n \"Podlyot\" radar station, Golovatovka settlement, Rostov region, Russia.",
+      "text": "\u26a1\ufe0f\ud83c\udde6\ud83c\uddea\ud83c\uddea\ud83c\uddf9\ud83c\uddf8\ud83c\udde9 UAE-linked military cargo flights to Ethiopia continue, with the activity raising further questions over the country\u2019s role as a logistics hub connected to the RSF in Sudan.\nZebu Air\u2019s IL-76TD cargo aircraft (7Q-ASU) reportedly flew from Al Reef Airbase in Abu Dhabi to Harar Meda Airbase before continuing to Bole Airport in Addis Ababa. OSINT analyst Rich Tedd has also tracked repeated UAE\u2013Ethiopia flights by the same aircraft, with sources reporting two to three IL-76 cargo aircraft arriving daily at Harar Meda or Bole in recent days. \nThe activity comes amid wider evidence of RSF logistics operating through Ethiopia. The [Critical Threats Project](https://www.criticalthreats.org/analysis/sudan-rsf-splm-issp-lakirawa-nigeria-africa-file-august-20-2026) recently assessed that RSF forces almost certainly launched recent operations in Sudan\u2019s Blue Nile region from rear bases in western Ethiopia, with Emirati-RSF supply lines running through the area. \n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-24T04:24:57+00:00",
+      "timestamp": "2026-08-24T05:42:39+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
