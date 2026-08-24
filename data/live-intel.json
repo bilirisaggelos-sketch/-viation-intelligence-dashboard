@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T15:04:33.543252+00:00",
+  "generated_at": "2026-08-24T15:58:03.376440+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -302,6 +302,25 @@
       "verification_confidence": 100,
       "verified_sources": [
         "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "UK PM Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
+      "text": "UK PM Burnham vows support for Ukraine despite 'outrageous threats' from Russia\nIt comes after Moscow warned of \"consequences\" over the reported use of British drones by Ukraine.",
+      "source": "BBC",
+      "source_type": "osint",
+      "publisher": "BBC World News",
+      "severity": "info",
+      "icon": "\ud83d\udcf0",
+      "timestamp": "2026-08-24T15:54:16+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "BBC World News"
       ],
       "verified_source_count": 1
     },
@@ -687,25 +706,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u274c\ud83c\uddfe\ud83c\uddea Confirmed Ansarallah UAV strike on Saudi-backed PLC base.\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-24T00:39:47+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Mediterranean Man",
       "text": "Anyway, buy gold, sliver, gs, consumer stable stocks, anything that isn't money or crypto. Global inflation is about to sky rocket.\nI pray for the poor.",
       "source": "Telegram",
@@ -941,25 +941,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-23T23:07:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udc41 How Pokemon-chasing children were fooled into building Pentagon's next-gen drone eye\nFor nine years, Pokemon Go urged children and parents to go outside with their cameras to hunt down virtual creatures through the real world.\nScanning streets and parks in seemingly harmless fun, the players were in reality data mining \u2013 unwittingly building up a vast dataset, per Dutch daily Trouw.\n\u27a1\ufe0f Roughly 30 billion scans were handed over to US software development company and the video game developer Niantic, allowing it to quietly build a 3D model of the physical world\n\u27a1\ufe0f Players surrendered street-level scans of public and private spaces, interior footage of homes, and biometric-adjacent information from camera angles\n\u27a1\ufe0f The game's terms gave Niantic a transferable, sublicensable license for submitted content - every scan could be resold and repurposed without further consent\n\u27a1\ufe0f These scans helped train Niantic\u2019s Visual Positioning System (VPS)\n\u27a1\ufe0f Where GPS fails, VPS matches what a camera sees against a 3D model of the world, and two recognizable reference points can fix a position \u2013 well-suited for autonomous drones operating beyond satellite reach\nThe corporate lineage fits the playbook:\n\u2666\ufe0f Niantic founder John Hanke served in the US Foreign Service before co-founding Keyhole, named after America\u2019s KH spy satellites\n\u2666\ufe0f When it neared collapse, In-Q-Tel - the CIA\u2019s venture arm - and National Geospatial-Intelligence Agency money kept it alive so the tech could \u201csupport United States troops in Iraq\u201d\n\u2666\ufe0f Google bought Keyhole, turned it into Google Earth, and spun Niantic out in 2015 - Pokemon Go arrived a year later\n\u2666\ufe0f In 2025, the company split: the game part was sold to Scopely (Saudi-backed) for $3.5 billion while the mapping tech stayed with Niantic Spatial\n\u2666\ufe0f That tech then partnered with Vantor - the rebranded Maxar Intelligence, a major NGA contractor serving defense and intelligence clients\n\u2666\ufe0f Vantor is the US[ intel engine](https://t.me/geopolitics_prime/71518) behind Volodymyr Zelensky\u2019s drone campaign against Russia\n\u2666\ufe0f The Niantic Spatial - Vantor partnership plans to combine Niantic's ground-based Visual Positioning System with Vantor's aerial positioning software, allowing air and ground systems to share coordinates without satellite signals\nNow that technology is being polished, packaged, and handed to Pentagon-linked partners so drones can keep flying when GPS is jammed, spoofed, or simply nonexistent.\nThe companies insist no raw game data ever takes flight on drones. But once that training data is distilled into patterns, the original contributions become impossible to trace - or claw back.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-23T18:33:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
