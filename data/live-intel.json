@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T10:06:31.306546+00:00",
+  "generated_at": "2026-08-24T10:55:50.532111+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -49,25 +49,6 @@
       "icon": "\ud83d\udea8",
       "timestamp": "08/21/2026",
       "location": "ZNY NJ",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nMacon, GA, Monday, August 24, 2026 through Tuesday, August 25, 2026 Local\nFacility: ZTL",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "08/21/2026",
-      "location": "ZTL GA",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
@@ -212,6 +193,25 @@
     },
     {
       "title": "Space Weather Message Code: ALTEF3\r",
+      "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3727\r\nIssue Time: 2026 Aug 24 1036 UTC\r\n\r\nCONTINUED ALERT: Electron 2MeV Integral Flux exceeded 1,000pfu\nContinuation of Serial Number: 3726\nBegin Time: 2026 Aug 21 1105 UTC\nYesterday Maximum 2MeV Flux: 1026 pfu\nMax time: 2026 Aug 24 1030 UTC",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-08-24 10:36:29.100",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Space Weather Message Code: ALTEF3\r",
       "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3726\r\nIssue Time: 2026 Aug 23 0921 UTC\r\n\r\nCONTINUED ALERT: Electron 2MeV Integral Flux exceeded 1,000pfu\nContinuation of Serial Number: 3725\nBegin Time: 2026 Aug 21 1105 UTC\nYesterday Maximum 2MeV Flux: 1000 pfu\nMax time: 2026 Aug 23 0915 UTC",
       "source": "NOAA Space Weather",
       "source_type": "official",
@@ -276,25 +276,6 @@
       "severity": "warning",
       "icon": "\ud83d\udef0\ufe0f",
       "timestamp": "2026-08-21 09:45:55.867",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Space Weather Message Code: ALTTP2\r",
-      "text": "Space Weather Message Code: ALTTP2\r\nSerial Number: 1523\r\nIssue Time: 2026 Aug 20 2049 UTC\r\n\r\nALERT: Type II Radio Emission \nBegin Time: 2026 Aug 20 1848 UTC\nEstimate Velocity: 927 km/s\nComment:",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-08-20 20:49:09.870",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -460,6 +441,25 @@
     {
       "title": "Telegram",
       "publisher": "Our Wars Today",
+      "text": "[Kremlin says British missile help for Ukraine 'adds fuel to the fire'](https://www.reuters.com/world/europe/kremlin-says-british-missile-help-ukraine-adds-fuel-fire-2026-08-24/)\nThe Kremlin said on Monday that Britain's decision to \u200bhand Ukraine classified information on British-made components used \u200cto make SCALP long-range cruise missiles would \"add fuel to the fire\" and was regarded by Moscow extremely negatively. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://www.reuters.com/world/europe/kremlin-says-british-missile-help-ukraine-adds-fuel-fire-2026-08-24/)\nReuters | reuters\u200b.com \u2022 Aug 24, 2026",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-24T10:10:49+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Our Wars Today"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Our Wars Today",
       "text": "[ICE and Iran worked together to deport Iranians from U.S., newly released emails show](https://www.pbs.org/newshour/world/ice-and-iran-worked-together-to-deport-iranians-from-u-s-newly-released-emails-show)\nHundreds of emails exchanged between U.S. immigration officials, which were obtained by the National Iranian American Council and made public Tuesday, offer the most transparent play by play yet of how the two countries worked together to arrange for more than 100 Iranians to be flown back to Iran on three separate immigration flights in September and December 2025 and January 2026. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://www.pbs.org/newshour/world/ice-and-iran-worked-together-to-deport-iranians-from-u-s-newly-released-emails-show)\npbs\u200b.org \u2022 Aug 20, 2026",
       "source": "Telegram",
       "source_type": "telegram",
@@ -580,25 +580,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-19T17:04:37+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Our Wars Today"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Our Wars Today",
-      "text": "[General Staff: Defense forces hit the ammunition warehouse and 5 drone control points of the occupiers](https://www.pravda.com.ua/news/2026/08/18/8049142/)\nOn August 17-18, Ukrainian troops hit an ammunition depot and six Russian control points. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://www.pravda.com.ua/news/2026/08/18/8049142/)\n\u0421\u0442\u0430\u043d\u0456\u0441\u043b\u0430\u0432 \u041f\u043e\u0433\u043e\u0440\u0456\u043b\u043e\u0432 | pravda\u200b.com\u200b.ua \u2022 Aug 18, 2026",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-18T10:48:31+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -815,6 +796,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\u270b US has lost its dominance in Middle East - American establishment think tank concedes\n\u00a0\n\ud83d\udc49 The Middle Eastern order in which the US played the leading role since 1991 is over, stresses Foreign Affairs, the journal of the influential Council on Foreign Relations (CFR) think tank.\nIt draws parallels between the 1956 Suez crisis that ended the British and French imperial power in the Middle East and Trump's ongoing war against Iran. Though American primacy will not disappear overnight, its fate is sealed, the publication says.\n'American hypocrisy and abuse'\n\ud83d\udd0a \"By nearly every economic, political, and developmental indicator, the Middle East under American domination has performed far worse than any other region,\" the article reads.\n\ud83c\udf0f Israel engaged in numerous wars against its much weaker neighbors and derailed a peace process with Palestine\n\ud83c\udf0f In Iraq, years of sanctions, bombing and failed regime-change efforts culminated in the disastrous 2003 invasion and occupation\n\ud83c\udf0f Under US stewardship, devastating wars have torn apart Lebanon, Libya, Sudan, Syria, and Yemen\n\ud83c\udf0f US-backed neoliberal reforms fueled privatization, enriching elites while leaving much of the population poorer\n\ud83c\udf0f Washington\u2019s war on terror encouraged Middle Eastern allies to expand surveillance and crack down on dissent in the name of security\n\ud83c\udf0f While small Arab elites prospered, for most people in the region the US-led order brought violence, deprivation, and hopelessness\n\ud83c\udf0f The US found itself completely unprepared when Iran pushed back against Trump\u2019s intervention and closed the Strait of Hormuz. US failure to shield its Gulf allies from Iranian attacks has undermined the case for its military presence in the region.\n\ud83e\udd25 Donald Trump is unable to stop or reverse the damage. But his successor may bring Iran \"into the regional security system as an invested partner\" and exert pressure on Israel. All in all, the US will have to work hard to win back the hearts and minds of a region long accustomed to \u201cAmerican hypocrisy and abuse.\u201d\nIt\u2019s striking to see this admission in a CFR publication, given the think tank\u2019s long-standing reputation for interventionism, American hegemonic ambitions, and serving corporate and elite interests.\nMecca pact signals Uncle Sam is no longer trusted\nAmerica\u2019s Middle Eastern partners aren\u2019t waiting around, having lost faith that Uncle Sam will suddenly change. Turkey, Pakistan, and Saudi Arabia have signed a security pact.\n \ud83d\udcccMoreover, there are reports that Iran has been invited to join the newly established Mecca defense pact. Although the invitation has not been confirmed by the countries\u2019 foreign ministries, talks have reportedly been underway for some time, with both Iran and Saudi Arabia previously raising the possibility of a broader regional security pact \u2013 as US policy in the region has increasingly discredited itself\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-24T10:32:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
