@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T15:58:03.376440+00:00",
+  "generated_at": "2026-08-24T16:49:23.306927+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -440,82 +440,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea WATCH: Yemen\u2019s Armed Forces have released a 10-minute compilation of targeting Saudi-backed troops, vehicles, and tanks in Marib and along the Western coast\nAll of these operations were carried out by munitions dropped from quadcopter drones. The Yemenis are surprisingly very accurate.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-21T13:09:49+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "WATCH: Ukraine replaced its traditional Independence Day military parade with the world's first all-unmanned systems display, rolling dozens of combat robots down Khreshchatyk while drone boats sailed the Dnipro and UAVs flew overhead.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-24T14:06:33+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "China has developed hypersonic glide vehicles that can launch air-to-air weapons in flight, designed to destroy AWACS, tankers, and command aircraft at ranges of thousands of miles.\nThe concept means China could threaten the airborne support aircraft that make US air campaigns possible without ever sending a fighter into contested airspace. \nThis builds on a 2021 test where a Chinese hypersonic vehicle launched a secondary missile mid-flight, surprising US observers. \nChina already fields the PL-17 \"AWACS-killer\" missile with 300-500 km range from fighters.\nAn HGV-launched variant would extend that reach dramatically.\nSource: Bloomberg",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-24T14:02:33+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Yemen\u2019s Houthis said they struck the Saudi oil tanker Amzan off Yanbu with a ballistic missile, setting it on fire, as part of their declared \u201cblockade for blockade\u201d campaign. \nThey also reported attacks on Saudi military convoys and positions in Al-Abr, Al-Wadiah and Al-Kanais, saying more than 10 weapons trucks were destroyed and dozens of Saudi personnel, including commanders and officers, were killed or wounded.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-24T13:58:14+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Our Wars Today",
       "text": "[Kremlin says British missile help for Ukraine 'adds fuel to the fire'](https://www.reuters.com/world/europe/kremlin-says-british-missile-help-ukraine-adds-fuel-fire-2026-08-24/)\nThe Kremlin said on Monday that Britain's decision to \u200bhand Ukraine classified information on British-made components used \u200cto make SCALP long-range cruise missiles would \"add fuel to the fire\" and was regarded by Moscow extremely negatively. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://www.reuters.com/world/europe/kremlin-says-british-missile-help-ukraine-adds-fuel-fire-2026-08-24/)\nReuters | reuters\u200b.com \u2022 Aug 24, 2026",
       "source": "Telegram",
@@ -630,51 +554,13 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Our Wars Today",
-      "text": "[\u26a1\ufe0f -Update: Death toll rises to 13 following Russia\u2019s large ballistic missile and drone attack on Kyiv. Ukraine's Air Fo...](https://t.me/KyivIndependent_official/54902)\n\u26a1\ufe0fUpdate: Death toll rises\n[https://kyivindependent.com/russian-ballistic-missile-attack-rocks-kyiv-damages-childrens-hospital/]\nto 13 following Russia\u2019s large ballistic missile and drone attack on Kyiv.\nUkraine's Air Force said Russia launched 44 cruise missiles, two Banderol\nmissiles, and 168 Shahed-type drones during the attack. \u2013 Join Telegrams:\nt.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013\nSupport OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://t.me/KyivIndependent_official/54902)\n | t\u200b.me \u2022 Aug 20, 2026",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-20T10:05:18+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Our Wars Today"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Our Wars Today",
-      "text": "\ud83c\uddfa\ud83c\udde6 \ud83e\udd16 Evacuation work with a friend, via instagram.com/bogdanzuyakov\nThe reality of the steady implementation of ground drones, following in the steps of aerial drones, is apparent in Ukraine. Aquatic drones grow in usage in unison. Robotic and autonomous warfare ad infinitum is upon us.\n#Ukraine #Drone #UGV #UGCV\nMore Coverage: T.me/ourwarstoday \n---\n24/7 LIVE News RSS feed: t.me/ournewsfeedtoday\n---\nFootage: t.me/ourwars\n---\nSupport OWT: https://ko-fi.com/ourwarstoday",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-19T17:04:37+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Our Wars Today"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf7\u26a1\ufe0f \u2014 Trump has run out of options against Iran and is making ridiculous statements, according to Stephen Walt, Professor of International Relations at Harvard, who said the U.S. president's recent claim about declaring the Strait of Hormuz as potential new American territory shows he has exhausted his choices.\nWalt stated that Iran controls the Strait of Hormuz and enforces laws in the Persian Gulf, adding that a U.S. war against Iran has never had the support of the American people \u2014 the majority opposed it before it even began. He concluded that Iranians have no reason to believe anything Trump tells them or any commitment he makes in exchange for concessions, so they will simply wait to take what they want in advance.\n\u26aa\ufe0f",
+      "text": "\ud83c\uddfe\ud83c\uddea\u26a1\ufe0f \u2014 Statement by Yemeni Armed Forces:\nIn the name of Allah, the Most Gracious, the Most Merciful.\n\u200bAllah Almighty said: \"So there is to be no aggression except against the oppressors.\" Allah Almighty has spoken the truth.\n\u200bWith the help and success of Allah, the Yemeni Armed Forces were able to target the oil tanker Amjad, belonging to the Saudi enemy, in the northern Red Sea off the coast of Yanbu. This was carried out with a ballistic missile, and the hit was precise and direct, by the grace of Allah, leading to a fire breaking out on the ship and the flight of a number of other ships present in the targeted area. This targeting comes as part of implementing the decision of the Yemeni Armed Forces to impose a ban on maritime navigation against the Saudi enemy and to establish the equation of \"blockade for blockade.\"\n\u200bIn another context, the Yemeni Armed Forces, by the grace of Allah, were able to execute two military operations:\n\u200bcentered on targeting Saudi concentrations consisting of a large military convoy loaded with military equipment in the areas of Al-Abr and Al-Wadeeah, using a number of ballistic missiles and drones. This resulted in the burning and destruction of more than ten trucks loaded with weapons coming from Saudi territory to target the Yemeni people.\n\u200btargeted concentrations belonging to the Saudi enemy in the Al-Kana'is area using a number of ballistic missiles and drones. This resulted in the killing and injuring of dozens, among them leaders and officers, and the burning and destruction of a number of weapons depots.\n\u200bThe Armed Forces continue, with the help of Allah Almighty, to enforce the ban on maritime navigation against the Saudi enemy within the declared area of operations, and within the implementation of the equation of \"blockade for blockade\" and \"comprehensive escalation for comprehensive escalation.\" They stand ready, by the power of Allah, to confront any escalation with stronger and harsher strikes, and with broader and larger operations.\n\u200bThe Yemeni Armed Forces congratulate our great Yemeni people and our Arab and Islamic nation on the occasion of the approaching honorable Prophetic Birthday (Mawlid), wishing upon its owner and his family the purest prayers and peace. They call upon the members of our dear, steadfast, faithful, and wise Yemeni people\u2014the Yemen of Supporters (Ansar)\u2014to make an honorable turnout to commemorate this great occasion in all designated squares tomorrow, Allah willing.\n\u200bAllah is sufficient for us, and He is the best Disposer of affairs, the best Master, and the best Helper.\n\u200bLong live Yemen, free, dignified, and independent. Victory to Yemen and to all the free people of the nation.\n\u200bSanaa, 11th of Rabi' al-Awwal 1448 AH / August 24, 2026 AD\nIssued by the Yemeni Armed Forces",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-24T04:12:53+00:00",
+      "timestamp": "2026-08-24T16:39:04+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -688,12 +574,12 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddfa\ud83c\udde6\u274c\ud83c\uddf7\ud83c\uddfa \u2014 A Ukrainian drone struck a children's center in Krasnodar, resulting in the deaths of two children and injuries to seven others.\n\u26aa\ufe0f",
+      "text": "\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf7\u26a1\ufe0f \u2014 Trump has run out of options against Iran and is making ridiculous statements, according to Stephen Walt, Professor of International Relations at Harvard, who said the U.S. president's recent claim about declaring the Strait of Hormuz as potential new American territory shows he has exhausted his choices.\nWalt stated that Iran controls the Strait of Hormuz and enforces laws in the Persian Gulf, adding that a U.S. war against Iran has never had the support of the American people \u2014 the majority opposed it before it even began. He concluded that Iranians have no reason to believe anything Trump tells them or any commitment he makes in exchange for concessions, so they will simply wait to take what they want in advance.\n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-24T02:43:13+00:00",
+      "timestamp": "2026-08-24T04:12:53+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -878,6 +764,25 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
+      "text": "\ud83c\udde7\ud83c\udde9\ud83c\uddf5\ud83c\uddf0\ud83c\uddee\ud83c\uddf3 Bangladesh pivots to Pakistan: statement on the Mecca Agreement challenges India\n\u27a1\ufe0f Bangladesh has announced its intention to consider joining the Mecca Agreement on joint defense, signed by Saudi Arabia, Turkey, and Pakistan on August 7, 2026. This was stated in an interview with the state news agency BSS by the Prime Minister's Foreign Affairs Adviser Humayun Kabir, who emphasized that any decision would be made strictly in accordance with national interests and the country's multi-vector foreign policy. The pact stipulates that an armed attack on one signatory is considered an attack on all \u2014 in essence, it is the Islamic world's equivalent of NATO's Article 5.\n\u27a1\ufe0f Over the past year and a half, Dhaka and Islamabad have been rapidly drawing closer. In January, the commander of the Bangladeshi Air Force held talks in Pakistan on the procurement of JF-17 Thunder fighter jets\u2014a Chinese-Pakistani aircraft priced 2\u20133 times lower than Western equivalents. In May, Pakistan already delivered simulators to Bangladesh for training JF-17 pilots, a step that typically precedes the signing of a contract. Direct flights between Dhaka and Karachi have been resumed, agreements on combating drug trafficking have been signed, and a memorandum on food trade is being prepared. For the first time in decades, Bangladeshi civil servants have gone for training in Pakistan, whereas previously they went exclusively to India.\n\u27a1\ufe0f For New Delhi, this is a bitter pill. In 1971, thanks to India's military support, East Pakistan gained independence, and Bangladesh was born. This \"blood debt\" was long regarded as the foundation of Indian dominance in the region. However, after ex-Prime Minister Sheikh Hasina fled to India in 2024, relations collapsed. The current leadership is distancing itself from India. Joining the Mecca Agreement would be a strategic breakthrough for Pakistan \u2014 an opportunity to enter \"India's backyard\" through the western flank. Of particular concern to Indian strategists is the proximity of the new military bloc to the Siliguri Corridor\u2014a narrow land bridge connecting mainland India with its northeastern states.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-24T16:35:32+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
       "text": "\ud83d\udd25 Ukraine\u2019s Odessa region on fire as Russia hammers military logistics\nRussian precision strikes rocked the Odessa region overnight, hitting key facilities used to supply Ukrainian forces.\nWhat was hit:\n\u2666\ufe0f Yuzhny port: a tanker carrying fuel for the Ukrainian military destroyed\n\u2666\ufe0f Five fuel storage tanks, 10 warehouses with military equipment, and port infrastructure damaged used to unload and store military cargo\n\u2666\ufe0f Adzhalyk 330 kV power substation, which supplies Yuzhny port\nMassive missile and drone strikes left gas facilities, energy infrastructure, and warehouses burning.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
@@ -922,25 +827,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-24T03:08:06+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\u2721\ufe0f Israeli spy demands \"THIRD OPTION\" to wipe Iran off the map, thirsts for war with Turkey and Egypt\n\ud83d\udcac \u201cWe have the resources, we just don\u2019t have the willingness to go ahead and take Iran off the map, so to speak,\u201d [American-born Israeli spy Jonathan Pollard](https://t.me/geopolitics_prime/57260) insisted.\nPollard called for Israel to \u201cofficially\u201d push its border north in Lebanon to the Awali River and keep going until Hezbollah is \u201ccompletely destroyed.\u201d\n\ud83d\udcac \u201cI hate to put it that way, but Turkey and Egypt are coming up next as our major strategic threat in the north and the south,\u201d he declared.\n\u2620\ufe0f The Greater Israel project is growing like a cancer. With the Gaza genocide raging, the war on Lebanon escalating, and the aggression against Iran stalling, the Zionist war machine is already setting its sights on its [next victims](https://t.me/geopolitics_prime/73610).\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-23T23:07:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
