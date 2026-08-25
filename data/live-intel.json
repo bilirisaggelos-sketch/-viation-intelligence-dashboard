@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T08:11:04.568024+00:00",
+  "generated_at": "2026-08-25T09:02:11.609015+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -325,8 +325,8 @@
       "verified_source_count": 1
     },
     {
-      "title": "UK drone factories may face attacks from 'unknown sources', says Kremlin adviser",
-      "text": "UK drone factories may face attacks from 'unknown sources', says Kremlin adviser\nThe comments on BBC Newsnight come after the UK announced it has agreed to hand over blueprints for British-made missile components to Ukraine.",
+      "title": "UK drone factories may face attacks from 'unknown sources', says former Russian minister",
+      "text": "UK drone factories may face attacks from 'unknown sources', says former Russian minister\nThe comments on BBC Newsnight come after the UK announced it has agreed to hand over blueprints for British-made missile components to Ukraine.",
       "source": "BBC",
       "source_type": "osint",
       "publisher": "BBC World News",
@@ -428,25 +428,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-25T00:10:41+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Finnish President Stubb on Ukraine\u2019s Wildberries strikes:\nWe need to increase Ukraine's capacity for deep strikes whether with missiles or drones. The reason is very simple: it increases the cost of the war for Russia. \n65% of the Russian population now wants to end this war, and hitting logistic centers like Wildberries increases it by an additional 10%.\nDo I think this is sensible military strategy from Ukraine? My answer is yes, it certainly is. \nThis is the only way we're going to get peace negotiations on the table.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-24T19:24:02+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -644,6 +625,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\u2721\ufe0f\u2018Jewish space lasers\u2019 for real? Israel kicks off development of orbital strike systems\n\u00a0\nThe Israeli Defense Ministry\u2019s new multiyear budget plan calls for the creation of new space-based weaponry.\nThe multi-tiered plan promises to coordinate the IDF, Israel\u2019s MIC and the Directorate of Defense Research & Development (Israel\u2019s DARPA cousin) and includes ambitions to build:\n\ud83d\udd34 new multilayered army intelligence collection capabilities\n\ud83d\udd34 \u201cbroad, resilient and continuous\u201d space-based communications for the military and security apparatus\n\ud83d\udd34 \u201coffensive space\u201d capabilities including anti-satellite weapons\n\ud83d\udd34 \u201cweapons capable of striking targets on Earth from space, both to defend the Israeli home front and to strike hostile actors,\u201d per JPost\n\u00a0\nDefense Minister Israel Katz has reportedly pushed for a \u201cmajor, rapid upgrade\u201d in Israel\u2019s space-based capabilities to give Israel a strategic advantage and put it in the top-five countries globally in this area.\nDefense Ministry Space Directorate chief Avi Berger told Walla Israel \u201cmust create security superiority in space, so that we can create freedom of action for the IDF and the defense establishment.\u201d\n\u00a0\nIsrael\u2019s existing space-based military capabilities include the Ofek-16 electro-optical spy satellite, Ofek-13 and 19 cloud-penetrating synthetic-aperture radar (SAR) satellites, and EROS-series dual-use commercial and military/intelligence observation satellites.\nIt is one of just two countries in the Middle East together with Iran with indigenous orbital space launch capability. The Shavit three-stage, solid-fueled rocket, derived from the Jericho-2 missile, is Israel\u2019s primary space launch vehicle.\n\u00a0\nWhat could Israel do with its killer space-based capabilities?\n\u00a0\n\ud83d\udd34 Target Iran\u2019s satellite networks, from the IRGC\u2019s Nour-series of military-grade Earth-imaging sats to remote sensing and communications projects like Pars and Nahid, and the new Shahid Soleimani telecoms network currently in development\n\ud83d\udd34 Launch preemptive surprise aggression (an Israeli favorite tactic), combining extreme kinetic velocity with zero warning time to decapitate enemy leadership, communications, and even strategic arsenals. The dangerous potential of such systems is precisely why the superpowers signed treaties in the 60s to ban weapons in outer space ([the US is now violating these agreements](https://t.me/geopolitics_prime/73303))\n\ud83d\udd34 engage in geo-warfare, from electronic and cyber disruption to the blinding of ground-based monitoring and EW equipment, and potentially sparking forest fires or triggering earthquakes\n\u00a0\n\ud83d\udc49 Former congresswoman Marjorie Taylor Greene became a laughing stock of smug liberals in 2021 over a social media post speculating whether a space solar generator project linked to the Rothschild family may have caused a destructive wildfire in California, with the post becoming a meme known as \u201cJewish space lasers.\u201d\nFast forward a few years, and the IDF itself is talking about making it happen.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-25T08:34:39+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
