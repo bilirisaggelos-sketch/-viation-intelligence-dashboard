@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T03:05:53.391583+00:00",
+  "generated_at": "2026-08-25T04:02:49.239724+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -612,6 +612,44 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
+      "text": "Additional footage has been published by the Unmanned Systems Forces of Ukraine showing a number of one-way drone strikes over the last few days against high-priority military targets in Russian-occupied Ukraine and Western Russia. These attacks include a previously reported strike against an MiG-29 at Millerovo Air Base, a pair of Kasta-2E2 Target Acquisition Radars, 1L13-3 Nebo-SV Early Warning Radar and an ST-68 Air Defense Radar.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-25T03:51:25+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfaUkrainian drones also targeted Novoshakhtinsk, Rostov region, Russia, during this evening's Ukrainian drone incursion into Russia. \n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-25T03:51:13+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
       "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfaUkrainian drones struck the oil refinery in Afipsky, Krasnodar Krai region, Russia, during this Tuesday morning's drone incursion. \n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
@@ -668,20 +706,20 @@
     },
     {
       "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "Finnish President Stubb on Ukraine\u2019s Wildberries strikes:\nWe need to increase Ukraine's capacity for deep strikes whether with missiles or drones. The reason is very simple: it increases the cost of the war for Russia. \n65% of the Russian population now wants to end this war, and hitting logistic centers like Wildberries increases it by an additional 10%.\nDo I think this is sensible military strategy from Ukraine? My answer is yes, it certainly is. \nThis is the only way we're going to get peace negotiations on the table.",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udd25 Russian missiles and Gerans light up Ukrainian logistics\nPowerful explosions rocked Kiev, Kharkov, Dnepropetrovsk and other cities overnight as Russian missiles and Geran drones struck enemy facilities.\nReports said the strike wave included:\n\ud83d\udd3b Banderol cruise missiles and jet-powered Gerans hitting Kiev and the surrounding region, with heavy impacts reported in the Svyatoshinsky and Goloseevsky districts\n\ud83d\udd3b A missile strike in Dnepropetrovsk that reportedly triggered a major fire at a logistics hub, used by the Ukrainian military\n\ud83d\udd3b Heavy strikes on Kharkov and the region, with targets hit in the industrial zone of the Osnovyansky district\n\ud83d\udd3b Explosions in Zaporozhye, Pavlograd and Konotop, as well as Odessa, Sumy and Chernigov regions\nUkrainian logistics lit up across the map.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-25T01:43:30+00:00",
+      "timestamp": "2026-08-25T03:34:03+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "CASELS"
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
@@ -713,25 +751,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-24T19:32:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\udde7\ud83c\udde9\ud83c\uddf5\ud83c\uddf0\ud83c\uddee\ud83c\uddf3 Bangladesh pivots to Pakistan: statement on the Mecca Agreement challenges India\n\u27a1\ufe0f Bangladesh has announced its intention to consider joining the Mecca Agreement on joint defense, signed by Saudi Arabia, Turkey, and Pakistan on August 7, 2026. This was stated in an interview with the state news agency BSS by the Prime Minister's Foreign Affairs Adviser Humayun Kabir, who emphasized that any decision would be made strictly in accordance with national interests and the country's multi-vector foreign policy. The pact stipulates that an armed attack on one signatory is considered an attack on all \u2014 in essence, it is the Islamic world's equivalent of NATO's Article 5.\n\u27a1\ufe0f Over the past year and a half, Dhaka and Islamabad have been rapidly drawing closer. In January, the commander of the Bangladeshi Air Force held talks in Pakistan on the procurement of JF-17 Thunder fighter jets\u2014a Chinese-Pakistani aircraft priced 2\u20133 times lower than Western equivalents. In May, Pakistan already delivered simulators to Bangladesh for training JF-17 pilots, a step that typically precedes the signing of a contract. Direct flights between Dhaka and Karachi have been resumed, agreements on combating drug trafficking have been signed, and a memorandum on food trade is being prepared. For the first time in decades, Bangladeshi civil servants have gone for training in Pakistan, whereas previously they went exclusively to India.\n\u27a1\ufe0f For New Delhi, this is a bitter pill. In 1971, thanks to India's military support, East Pakistan gained independence, and Bangladesh was born. This \"blood debt\" was long regarded as the foundation of Indian dominance in the region. However, after ex-Prime Minister Sheikh Hasina fled to India in 2024, relations collapsed. The current leadership is distancing itself from India. Joining the Mecca Agreement would be a strategic breakthrough for Pakistan \u2014 an opportunity to enter \"India's backyard\" through the western flank. Of particular concern to Indian strategists is the proximity of the new military bloc to the Siliguri Corridor\u2014a narrow land bridge connecting mainland India with its northeastern states.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-24T16:35:32+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
