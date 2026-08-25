@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T11:11:20.562721+00:00",
+  "generated_at": "2026-08-25T11:46:49.015241+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -422,6 +422,46 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
+      "text": "Zelensky:\nUkraine has received a small batch of missiles for Patriot air defense systems.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-25T11:37:58+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Clash Report"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Trump:\nThe failing Islamic Republic of Iran is not paying large segments of their military, while at the same time killing protesters, even when they are not protesting, at levels not seen before. \nIt is a humanitarian crisis of epic proportions, and must be stopped, NOW.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-25T11:14:28+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Clash Report"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
       "text": "A U.S. Air Force C-17 landed at Moscow\u2019s Vnukovo Airport after flying from Riga, Latvia.\nU.S. and Russian officials have not disclosed the purpose of the rare military flight.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -474,6 +514,44 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Our Wars Today",
+      "text": "[Oil tanker disabled by attack in Strait of Hormuz even as mediators seek negotiated end to war](https://apnews.com/article/middle-east-iran-israel-hormuz-pakistan-august-25-2026-1a4fa2e3812c458a25a561b38dc89f09)\nAn oil tanker was disabled after being struck by an unknown projectile off Oman, underscoring shipping risks as Iran maintains tight control over the Strait of Hormuz. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://apnews.com/article/middle-east-iran-israel-hormuz-pakistan-august-25-2026-1a4fa2e3812c458a25a561b38dc89f09)\nThe Associated Press | apnews\u200b.com \u2022 Aug 25, 2026",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-25T11:13:03+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Our Wars Today"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Our Wars Today",
+      "text": "[Putin issues decree opening the door to state control of key sites](https://apnews.com/article/russia-ukraine-war-putin-companies-drones-f2ef0ded42dfab093bd9b08a8157b931)\nRussian President Vladimir Putin has signed a decree allowing the government to take temporary control of critical infrastructure if private owners fail to protect it from Ukrainian drone attacks or repair it afterward. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://apnews.com/article/russia-ukraine-war-putin-companies-drones-f2ef0ded42dfab093bd9b08a8157b931)\nThe Associated Press | apnews\u200b.com \u2022 Aug 25, 2026",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-25T11:12:57+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Our Wars Today"
       ],
       "verified_source_count": 1
     },
@@ -536,22 +614,43 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Our Wars Today",
-      "text": "[ICE and Iran worked together to deport Iranians from U.S., newly released emails show](https://www.pbs.org/newshour/world/ice-and-iran-worked-together-to-deport-iranians-from-u-s-newly-released-emails-show)\nHundreds of emails exchanged between U.S. immigration officials, which were obtained by the National Iranian American Council and made public Tuesday, offer the most transparent play by play yet of how the two countries worked together to arrange for more than 100 Iranians to be flown back to Iran on three separate immigration flights in September and December 2025 and January 2026. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://www.pbs.org/newshour/world/ice-and-iran-worked-together-to-deport-iranians-from-u-s-newly-released-emails-show)\npbs\u200b.org \u2022 Aug 20, 2026",
+      "publisher": "Alsaa Plus EN",
+      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddfa\ud83c\uddf8 \u2014 Ukrainian President Volodymyr Zelensky:\nUkraine has received a small batch of missiles for Patriot air defense systems.\n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-20T18:54:31+00:00",
+      "timestamp": "2026-08-25T11:41:05+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "Our Wars Today"
+        "Alsaa Plus EN",
+        "Clash Report"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddfa\ud83c\uddf8\u274c\ud83c\uddee\ud83c\uddf7 \u2014 U.S. President Donald Trump via Truth Social:\n The failing Islamic Republic of Iran is not paying large segments of their military, while at the same time killing protesters, even when they are not protesting, at levels not seen before. It is a humanitarian crisis of epic proportions, and must be stopped, NOW. President DONALD J. TRUMP\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-25T11:30:54+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Clash Report"
+      ],
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -594,20 +693,20 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83d\udea8\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6 \u2014 Russia attacks the city of Dnieper with \"drones\", targeting the \"Karawan\" shopping center, \u2014 Ukrainian media. \n\u2b50\ufe0f Follow",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ufe0f\ud83c\udde9\ud83c\uddea German detectives/security officials found and captured a drone packed with explosives in one of their airports.\nThis is the third drone w/explosives that they capture this month.\nThey suspect that these belonged to Russian intelligence, however, Russia denys such claims.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-24T21:35:30+00:00",
+      "timestamp": "2026-08-25T11:16:29+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN"
+        "Mediterranean Man"
       ],
       "verified_source_count": 1
     },
@@ -684,6 +783,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udd25 Iran doesn\u2019t have to shoot down US Army\u2019s attack helicopters: they\u2019re doing just fine crashing on their own\nThe Army\u2019s fearsome Apache helicopters, introduced in the mid-80s at the twilight at the Cold War to take on enemy armored columns, never got their chance to fly into Iranian territory to launch strikes during the Epstein coalition\u2019s war.\n\ud83d\udc49 Instead, they\u2019ve been crashing at near-historic highs, with five major crashes reported since October alone.\nThe gunships are suspected to be suffering from widespread mechanical problems, including transmission issues with the gunship\u2019s newer, trouble-prone E-model \u2013 affecting everything from electrical power to hydraulics and tail rotor function.\n\ud83d\udccc One incident proved deadly. On August 12, two airmen were killed during a routine maintenance training flight outside Fort Hood, Texas. The crash triggered a 100-acre wildfire.\nThe Army seems to have been aware of the problem, sending out an urgent safety message in April ordering a halt to flights amid reports of 70 transmissions with problems. A follow-up notice in July added ten units to the no-fly list, equivalent to ~1/10 or more of the Army\u2019s entire attack chopper fleet.\n\ud83e\udd14 Iran\u2019s new strategy on handling the US attack chopper threat? Literally \u2018do nothing, win.\u2019\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-25T11:31:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
