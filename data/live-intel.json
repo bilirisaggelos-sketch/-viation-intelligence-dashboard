@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T04:02:49.239724+00:00",
+  "generated_at": "2026-08-25T04:56:11.035462+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -675,25 +675,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-25T01:58:17+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "The United States is sanctioning nearly 60 Iran-linked individuals, entities and vessels across its nuclear, missile, cyber and oil networks, while identifying digital assets, technology, gold, aviation and shipping for potential secondary sanctions.\nTreasury Secretary Scott Bessent said Washington would pursue a \u201czero leakage\u201d sanctions policy and give countries a limited period to end identified activities, including closing Iranian bank branches. Those that fail to comply could lose access to the U.S. dollar system.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-25T01:49:56+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
