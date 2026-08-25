@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T15:52:35.233485+00:00",
+  "generated_at": "2026-08-25T16:45:09.795350+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -344,6 +344,25 @@
       "verified_source_count": 1
     },
     {
+      "title": "Swedish military seeks to take over Russian-owned estate near naval base",
+      "text": "Swedish military seeks to take over Russian-owned estate near naval base\nThe armed forces request the seizure of the plot near Musk\u00f6 Naval Base citing threats from Russian drones.",
+      "source": "BBC",
+      "source_type": "osint",
+      "publisher": "BBC World News",
+      "severity": "info",
+      "icon": "\ud83d\udcf0",
+      "timestamp": "2026-08-25T15:18:50+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "BBC World News"
+      ],
+      "verified_source_count": 1
+    },
+    {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
       "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf7 NEW: The Persian Gulf Strait Authority (PSGA) announces that any vessels that violate the Iranian arrangements for crossing the Strait of Hormuz will be placed on a \u2018non-compliance\u2019 list\nThese vessels will not receive easy permission to transit the Strait in the future, and will be subject to fines, seizure, or confiscation by the IRGC.",
@@ -507,12 +526,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "Alsaa Plus EN"
+        "Alsaa Plus EN",
+        "Geopolitics Prime"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -760,6 +780,26 @@
         "CASELS"
       ],
       "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\udf52 Houthis vow to turn Yemen into a \u2018graveyard\u2019 for enemies\n\u00a0\n\ud83d\udd0a \u201cThe Saudi-Israeli-American enemy and their mercenaries must realize that their old equations are now threadbare and no longer effective. Yemen, once surrounded by enemies, has now turned into a major power,\u201d the commanders of Yemen\u2019s Armed Forces said in joint statement.\n\ud83d\udde3 \u201cThe slightest folly by enemies or their mercenaries will be met with a firestorm that will bring nothing but regret for adversaries,\u201d the message warned. \n\ud83d\udd0a \u201cOur forces are closely monitoring all enemy movements, and our fingers are on the trigger. Yemen will no longer serve as a battlefield, but be a graveyard for all conspirators and a hell for all aggressors.\u201d\n\ud83d\udde3 \u201cThe balance of power has completely changed. Yemen, thanks to reliance on homegrown capabilities and expertise, has acquired such destructive weapons that will force aggressors to pay a heavy price. There is no room for retreat or compromise. The future belongs to a free and independent Yemen.\u201d\n\u00a0\nHouthis: a global force to be reckoned with?\n\u00a0\n\ud83d\udd34 Emerging from international obscurity when they seized power in a popular revolution in late 2014, the tribal warriors and guerrilla warfare experts proved their mettle against a conventionally, technologically and militarily superior adversary in the form of a 10-member Saudi-led coalition in 2015, surviving years of aerial bombardments, mercenary offensives, and a grueling naval blockade which caused a famine that killed over a hundred thousand people.\n\ud83d\udd34 The genocidal aggression failed to break the Houthis, with the Gulf coalition forced to sign a ceasefire in April 2022.\n\ud83d\udd34 In late 2023, the Houthis joined Hezbollah and Shia militias in Iraq as the only Arab forces to come to Gaza\u2019s aid, targeting Israeli shipping and lobbing missiles and drones at Israeli cities. Their new asymmetric warfare capabilities, achieved with Iran\u2019s help, became an unwelcome surprise for Tel Aviv.\n\ud83d\udd34 Two US administrations tried to stop the Houthis \u2013 in 2024 and 2025, respectively \u2013 amassing massive armadas in and around the Red Sea, targeting the fighters in ground attacks and getting into pitched aerial and naval battles with their missiles and drones. The US ended up losing nearly two dozen Reaper drones and 3 Super Hornet jets, accidentally crashed a carrier into a civilian ship off Egypt, and had multiple other close calls. The Houthis\u2019 grip on the strategic global maritime chokepoint? [Untouched.](https://t.me/geopolitics_prime/65279)\n\ud83d\udd34 In July, after a Saudi attack targeted a Houthi delegation returning from Iran at Sanaa\u2019s airport, the Houthis imposed a blockade on the Kingdom\u2019s Red Sea oil exports, and began strikes its oil production facilities, demonstrating their ability to control the strategic body of water without a blue water navy, and to evade the Gulf nation\u2019s [NATO-delivered air defenses.](https://t.me/geopolitics_prime/73556)\nSo yeah, the Houthis aren\u2019t bluffing. They are a major regional power that even superpowers have to reckon with.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-25T16:34:02+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
