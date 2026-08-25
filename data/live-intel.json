@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T09:53:27.466195+00:00",
+  "generated_at": "2026-08-25T10:39:32.380480+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -230,6 +230,82 @@
       "verified_source_count": 1
     },
     {
+      "title": "Space Weather Message Code: SUMXM5\r",
+      "text": "Space Weather Message Code: SUMXM5\r\nSerial Number: 326\r\nIssue Time: 2026 Aug 25 1027 UTC\r\n\r\nSUMMARY: X-ray Event exceeded M5 \nBegin Time: 2026 Aug 25 0932 UTC\nMaximum Time: 2026 Aug 25 1002 UTC\nEnd Time: 2026 Aug 25 1013 UTC\nXray Class: M6.9\nOptical Class: \nLocation: N04E04\nNoaa Scale: R2 - Moderate\nComment: \r\n\r\nNOAA Scale: R2 - Moderate\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact centered primarily on sub-solar point on the sunlit side of Earth.\r\nRadio - Limited blackout of HF (high frequency) radio communication for tens of minutes.",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-08-25 10:27:21.017",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Space Weather Message Code: SUM10R\r",
+      "text": "Space Weather Message Code: SUM10R\r\nSerial Number: 927\r\nIssue Time: 2026 Aug 25 1020 UTC\r\n\r\nSUMMARY: 10cm Radio Burst \nBegin Time: 2026 Aug 25 0956 UTC\nMaximum Time: 2026 Aug 25 0957 UTC\nEnd Time: 2026 Aug 25 1006 UTC\nPeak Flux: 160 sfu\nDuration: 10 minutes\nLatest Penticton Noon Flux: 143 sfu\nComment:",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-08-25 10:20:41.210",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Space Weather Message Code: ALTTP2\r",
+      "text": "Space Weather Message Code: ALTTP2\r\nSerial Number: 1524\r\nIssue Time: 2026 Aug 25 1015 UTC\r\n\r\nALERT: Type II Radio Emission \nBegin Time: 2026 Aug 25 0959 UTC\nEstimate Velocity: 603 km/s\nComment: Likely associated with the M6.9 flare at 25/0959 UTC from Region 4513.",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-08-25 10:15:42.700",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Space Weather Message Code: ALTXMF\r",
+      "text": "Space Weather Message Code: ALTXMF\r\nSerial Number: 541\r\nIssue Time: 2026 Aug 25 1001 UTC\r\n\r\nALERT: X-Ray Flux exceeded M5 \nThreshold Reached: 2026 Aug 25 0959 UTC\nNoaa Scale: R2 - Moderate\nComment: \r\n\r\nNOAA Scale: R2 - Moderate\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact centered on sub-solar point on the sunlit side of Earth. Extent of blackout of HF (high frequency) radio communication dependent upon current X-ray Flux intensity. For real-time information on affected area and expected duration please see http://www.swpc.noaa.gov/products/d-region-absorption-predictions-d-rap.",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-08-25 10:01:11.477",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
       "title": "Space Weather Message Code: ALTEF3\r",
       "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3728\r\nIssue Time: 2026 Aug 25 0718 UTC\r\n\r\nCONTINUED ALERT: Electron 2MeV Integral Flux exceeded 1,000pfu\nContinuation of Serial Number: 3727\nBegin Time: 2026 Aug 21 1105 UTC\nYesterday Maximum 2MeV Flux: 1030 pfu\nMax time: 2026 Aug 25 0710 UTC",
       "source": "NOAA Space Weather",
@@ -238,82 +314,6 @@
       "severity": "warning",
       "icon": "\ud83d\udef0\ufe0f",
       "timestamp": "2026-08-25 07:18:22.650",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Space Weather Message Code: ALTEF3\r",
-      "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3727\r\nIssue Time: 2026 Aug 24 1036 UTC\r\n\r\nCONTINUED ALERT: Electron 2MeV Integral Flux exceeded 1,000pfu\nContinuation of Serial Number: 3726\nBegin Time: 2026 Aug 21 1105 UTC\nYesterday Maximum 2MeV Flux: 1026 pfu\nMax time: 2026 Aug 24 1030 UTC",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-08-24 10:36:29.100",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Space Weather Message Code: ALTEF3\r",
-      "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3726\r\nIssue Time: 2026 Aug 23 0921 UTC\r\n\r\nCONTINUED ALERT: Electron 2MeV Integral Flux exceeded 1,000pfu\nContinuation of Serial Number: 3725\nBegin Time: 2026 Aug 21 1105 UTC\nYesterday Maximum 2MeV Flux: 1000 pfu\nMax time: 2026 Aug 23 0915 UTC",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-08-23 09:21:33.883",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Space Weather Message Code: ALTEF3\r",
-      "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3725\r\nIssue Time: 2026 Aug 22 0500 UTC\r\n\r\nCONTINUED ALERT: Electron 2MeV Integral Flux exceeded 1,000pfu\nContinuation of Serial Number: 3724\nBegin Time: 2026 Aug 21 1105 UTC\nYesterday Maximum 2MeV Flux: 1062 pfu\nMax time: 2026 Aug 22 0450 UTC",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-08-22 05:00:22.193",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Space Weather Message Code: ALTEF3\r",
-      "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3724\r\nIssue Time: 2026 Aug 21 1118 UTC\r\n\r\nALERT: Electron 2MeV Integral Flux exceeded 1,000pfu \nThreshold Reached: 2026 Aug 21 1105 UTC\nStation: GOES-19\nComment:",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-08-21 11:18:00.697",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -448,25 +448,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-25T09:04:09+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "UK Prime Minister Andy Burnham plans to travel to New York in September, where he and other European leaders will press Trump to release U.S. Patriot air-defense missiles for Ukraine ahead of winter.\n\u201cI\u2019m looking forward to going to New York in September,\u201d Burnham told Bloomberg in Kyiv. \nThe trip, during the UN General Assembly, would be his first U.S. visit as prime minister.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-25T00:10:41+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -690,50 +671,31 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddee\ud83c\uddf1\ud83e\udd21 Memetic warfare: how DARPA and Israel weaponize internet humor against your brain\nFrom the Gaza, Lebanon, Iran and Ukraine wars to the Diddy and Epstein sex trafficking and blackmail scandals, internet memes have been weaponized to overwhelm and desensitize viewers, repackaging serious, violent or taboo subjects into humorous formats, bypassing our brains\u2019 logic-based defense mechanisms, blunting responses to real-world crimes and even altering perceptions of reality.\nMemes are serious business: state actors are heavily involved, and entire academic studies and multi-million-dollar defense research projects have been carried out to learn how to create and amplify them and gage their effectiveness.\n\ud83d\udd34 A recent Nottingham Trent-Aarhus University study examined NAFO, the so-called \u201cdecentralized, grassroots online social media movement\u201d creating memetic narratives on the Ukraine war. Fully aligning with NATO\u2019s talking points on the conflict, Senator Mike Lee suspects the entire campaign is a CIA bot op amplified by US social media giants.\n\ud83d\udd34 Separate, 2023 research by European academics focused on ways to improve meme-based narratives on Ukraine, turn viewership of content into action (donations, other support), amplify the \u201cright\u201d content and crack down on the \u201cwrong\u201d kind.\n\ud83d\udd34 DARPA committed ~$50M to its Social Media in Strategic Communication (SMISC) project in 2011, with the initiative tasked, among other things, with detecting, tracking and analyzing how memes spread, measuring sentiment and engagement, and targeting \u201cdisinformation\u201d (i.e. info the US government might not like).\n\ud83d\udd34 Israel\u2019s state-linked Institute for National Security Studies has also paid close attention to social media content with meme potential, and not just since 2023. A 2021 report urged actors to \u201cexamine how [Israel] provides information and presents its case,\u201d complete with the right \u201cinfrastructure to provide credible data and relevant messages,\u201d (which during the same period would come to feature female IDF \u2018thirst trap\u2019 videos, LGBT and feminist messaging, and \u2018civilized us vs barbarian them\u2019 narratives).\nThe campaigns have succeeded not so much in convincing people of the rightness of the US or Israel\u2019s cause, as in desensitizing audiences. Inundated with information about war crimes and pedophilic elites \u2013 the type of stuff that should spark revolutions and even bring down governments, memeification has instead numbed people to this criminal behavior, creating a sense of hopelessness.\n\ud83e\udd14 On the narrative front, they\u2019ve been far less successful. From Iran\u2019s ingenious use of Lego-themed AI videos to TikTok\u2019s unmasking of Israeli troops\u2019 barbarism, more people than ever seem to have been red-pilled.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-25T10:03:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
       "text": "\u2721\ufe0f\u2018Jewish space lasers\u2019 for real? Israel kicks off development of orbital strike systems\n\u00a0\nThe Israeli Defense Ministry\u2019s new multiyear budget plan calls for the creation of new space-based weaponry.\nThe multi-tiered plan promises to coordinate the IDF, Israel\u2019s MIC and the Directorate of Defense Research & Development (Israel\u2019s DARPA cousin) and includes ambitions to build:\n\ud83d\udd34 new multilayered army intelligence collection capabilities\n\ud83d\udd34 \u201cbroad, resilient and continuous\u201d space-based communications for the military and security apparatus\n\ud83d\udd34 \u201coffensive space\u201d capabilities including anti-satellite weapons\n\ud83d\udd34 \u201cweapons capable of striking targets on Earth from space, both to defend the Israeli home front and to strike hostile actors,\u201d per JPost\n\u00a0\nDefense Minister Israel Katz has reportedly pushed for a \u201cmajor, rapid upgrade\u201d in Israel\u2019s space-based capabilities to give Israel a strategic advantage and put it in the top-five countries globally in this area.\nDefense Ministry Space Directorate chief Avi Berger told Walla Israel \u201cmust create security superiority in space, so that we can create freedom of action for the IDF and the defense establishment.\u201d\n\u00a0\nIsrael\u2019s existing space-based military capabilities include the Ofek-16 electro-optical spy satellite, Ofek-13 and 19 cloud-penetrating synthetic-aperture radar (SAR) satellites, and EROS-series dual-use commercial and military/intelligence observation satellites.\nIt is one of just two countries in the Middle East together with Iran with indigenous orbital space launch capability. The Shavit three-stage, solid-fueled rocket, derived from the Jericho-2 missile, is Israel\u2019s primary space launch vehicle.\n\u00a0\nWhat could Israel do with its killer space-based capabilities?\n\u00a0\n\ud83d\udd34 Target Iran\u2019s satellite networks, from the IRGC\u2019s Nour-series of military-grade Earth-imaging sats to remote sensing and communications projects like Pars and Nahid, and the new Shahid Soleimani telecoms network currently in development\n\ud83d\udd34 Launch preemptive surprise aggression (an Israeli favorite tactic), combining extreme kinetic velocity with zero warning time to decapitate enemy leadership, communications, and even strategic arsenals. The dangerous potential of such systems is precisely why the superpowers signed treaties in the 60s to ban weapons in outer space ([the US is now violating these agreements](https://t.me/geopolitics_prime/73303))\n\ud83d\udd34 engage in geo-warfare, from electronic and cyber disruption to the blinding of ground-based monitoring and EW equipment, and potentially sparking forest fires or triggering earthquakes\n\u00a0\n\ud83d\udc49 Former congresswoman Marjorie Taylor Greene became a laughing stock of smug liberals in 2021 over a social media post speculating whether a space solar generator project linked to the Rothschild family may have caused a destructive wildfire in California, with the post becoming a meme known as \u201cJewish space lasers.\u201d\nFast forward a few years, and the IDF itself is talking about making it happen.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-25T08:34:39+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udd25 Russian missiles and Gerans light up Ukrainian logistics\nPowerful explosions rocked Kiev, Kharkov, Dnepropetrovsk and other cities overnight as Russian missiles and Geran drones struck enemy facilities.\nReports said the strike wave included:\n\ud83d\udd3b Banderol cruise missiles and jet-powered Gerans hitting Kiev and the surrounding region, with heavy impacts reported in the Svyatoshinsky and Goloseevsky districts\n\ud83d\udd3b A missile strike in Dnepropetrovsk that reportedly triggered a major fire at a logistics hub, used by the Ukrainian military\n\ud83d\udd3b Heavy strikes on Kharkov and the region, with targets hit in the industrial zone of the Osnovyansky district\n\ud83d\udd3b Explosions in Zaporozhye, Pavlograd and Konotop, as well as Odessa, Sumy and Chernigov regions\nUkrainian logistics lit up across the map.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-25T03:34:03+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udca5 Every cent funding the US is complicit in Iranian blood \u2014 Iranian economy minister\n\ud83d\udcac \u201cAnyone who pays even one cent in taxes to the terrorist government of America is complicit in the blood of the people,\u201d Iranian Economy Minister Seyed Ali Madanizadeh said.\nHe pointed to [the 168 children killed in Minab](https://t.me/geopolitics_prime/65634) by US Tomahawk missiles during the first day of the US-Israeli aggression against Iran, saying those funding the US are complicit in the blood of those martyred children.\n\ud83d\udcac \u201cLet them know with certainty that they will all see the result of their actions,\u201d Madanizadeh warned.\nThe remarks came after US Treasury Secretary Scott Bessent announced a new sanctions wave targeting more than 60 organizations, individuals and vessels over alleged ties to Iran, with the US seeking to cut off Iran\u2019s funding channels in digital assets, technology, gold, aviation and maritime shipping.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-24T23:49:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
