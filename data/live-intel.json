@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T22:47:38.074901+00:00",
+  "generated_at": "2026-08-25T23:30:24.929897+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -857,25 +857,6 @@
         "Geopolitics Prime"
       ],
       "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udd25 Iran doesn\u2019t have to shoot down US Army\u2019s attack helicopters: they\u2019re doing just fine crashing on their own\nThe Army\u2019s fearsome Apache helicopters, introduced in the mid-80s at the twilight at the Cold War to take on enemy armored columns, never got their chance to fly into Iranian territory to launch strikes during the Epstein coalition\u2019s war.\n\ud83d\udc49 Instead, they\u2019ve been crashing at near-historic highs, with five major crashes reported since October alone.\nThe gunships are suspected to be suffering from widespread mechanical problems, including transmission issues with the gunship\u2019s newer, trouble-prone E-model \u2013 affecting everything from electrical power to hydraulics and tail rotor function.\n\ud83d\udccc One incident proved deadly. On August 12, two airmen were killed during a routine maintenance training flight outside Fort Hood, Texas. The crash triggered a 100-acre wildfire.\nThe Army seems to have been aware of the problem, sending out an urgent safety message in April ordering a halt to flights amid reports of 70 transmissions with problems. A follow-up notice in July added ten units to the no-fly list, equivalent to ~1/10 or more of the Army\u2019s entire attack chopper fleet.\n\ud83e\udd14 Iran\u2019s new strategy on handling the US attack chopper threat? Literally \u2018do nothing, win.\u2019\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-25T11:31:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
     },
     {
       "title": "Telegram",
