@@ -1,6 +1,44 @@
 {
-  "generated_at": "2026-08-25T21:34:57.738356+00:00",
+  "generated_at": "2026-08-25T22:01:51.382242+00:00",
   "events": [
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nSeattle, WA, Wednesday, August 26, 2026 Local\nFacility: ZSE",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "08/25/2026",
+      "location": "ZSE WA",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nHuntsville, AL, Wednesday, August 26, 2026 through Thursday, August 27, 2026 Local\nFacility: ZME",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "08/25/2026",
+      "location": "ZME AL",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nLaurel, MD, Thursday, August 27, 2026 Local\nFacility: ZDC",
@@ -359,6 +397,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "BBC World News"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "SDF Dissolves After Completion of Syrian State Integration\nThe group's commander announced that the SDF would cease operating as an independent military force as its fighters, institutions, and the AANES structure are absorbed into Syrian state bodies.\n[READ MORE](https://clashreport.com/world/articles/sdf-dissolves-after-completion-of-syrian-state-integration-equjo2s4czv)",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-25T21:36:45+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
       ],
       "verified_source_count": 1
     },
