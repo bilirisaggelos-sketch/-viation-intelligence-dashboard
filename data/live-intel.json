@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T22:01:51.382242+00:00",
+  "generated_at": "2026-08-25T22:47:38.074901+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -403,6 +403,25 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
+      "text": "BIG: Iranian missile and drone strikes have caused billions of dollars in damage to U.S. intelligence sites and surveillance equipment across the Middle East.\nThe unprecedented attacks have exposed weaknesses in U.S. base defenses and forced officials to rethink how sensitive facilities are protected.\nSource: NBC News",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-25T22:18:30+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
       "text": "SDF Dissolves After Completion of Syrian State Integration\nThe group's commander announced that the SDF would cease operating as an independent military force as its fighters, institutions, and the AANES structure are absorbed into Syrian state bodies.\n[READ MORE](https://clashreport.com/world/articles/sdf-dissolves-after-completion-of-syrian-state-integration-equjo2s4czv)",
       "source": "Telegram",
       "source_type": "telegram",
@@ -657,25 +676,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-25T11:30:54+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddf6\ud83c\udde6\ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf1\ud83c\uddf8\ud83c\uddfe \u2014 Qatari Foreign Ministry spokesperson Majed Al Ansari: Our efforts have continued in recent period with the parties involved in the U.S.-Iran tensions to return to negotiations.\n\u27a1\ufe0f We stressed from day one that any escalation in the region would have repercussions across the entire region and the world.\n\u27a1\ufe0f The situation in the Strait of Hormuz should return to how it was before the crisis, and we reaffirm the need for freedom of navigation there.\n\u27a1\ufe0f If Israel wants to become part of the region, it must fulfill its commitments.\n\u27a1\ufe0f We reject Iran\u2019s attempt to drag regional countries into the conflict whenever it comes under attack from a third party.\n\u27a1\ufe0f There is full coordination among the Gulf states to deal with various escalation scenarios.\n\u27a1\ufe0f The U.S. sanctions on Iran are unilateral, and we support mediation efforts to resolve the crisis.\n\u27a1\ufe0f Qatar continues its mediation efforts between the United States and Iran, and there is nothing new on this matter.\n\u27a1\ufe0f Qatar welcomes the U.S. administration\u2019s decision to remove Syria from the list of state sponsors of terrorism.\n\u27a1\ufe0f Communications with the parties are ongoing, and any escalation would have greater repercussions for the region and the world.\n\u27a1\ufe0f The priority is to reach an agreement among all parties, and Qatar does not support one side against another.\n\u27a1\ufe0f Iran has closed the Strait of Hormuz in a manner that violates freedom of navigation under international law.\nPressure should be placed on Israel to implement the plan for Gaza put forward by President Trump.\n\u27a1\ufe0f Our armed forces and all our institutions in Qatar are ready to respond to any threat from any party.\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-25T10:52:45+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
