@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T12:59:17.454437+00:00",
+  "generated_at": "2026-08-25T13:58:30.988783+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -421,20 +421,39 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\ud83c\uddee\ud83c\uddf6\ud83c\uddee\ud83c\uddf7\u26a1\ufe0f \u2014 NEW: Iran has authorized several Iraqi oil tankers to transit the Strait of Hormuz following repeated requests from Baghdad through multiple diplomatic channels, according to Iran\u2019s state-run IRNA.\nSecuring special passage for Iraqi tankers was one of Baghdad\u2019s main requests during Iranian Parliament Speaker Ghalibaf's visit to Iraq.",
+      "publisher": "Clash Report",
+      "text": "Israel hit and destroyed a small desalination plant under construction in Sheikh Radwan, northern Gaza City, that was days away from providing drinking water to displaced families.\nA mosque was also destroyed in the same strike.\nGaza faces a severe cumulative water crisis from years of damage to wells, pipelines, and larger desalination facilities. \nThe destroyed plant was intended to serve hundreds to thousands of displaced families in the neighborhood.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-22T13:18:15+00:00",
+      "timestamp": "2026-08-25T13:46:39+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Middle East Spectator"
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Burnham Plans US Trip to Lobby Trump on Patriot Missiles for Ukraine\nThe UK prime minister is preparing a September trip to the US as European leaders seek access to American Patriot interceptor stocks for Ukraine before renewed winter pressure.\n[READ MORE](https://clashreport.com/world/articles/burnham-plans-us-trip-to-lobby-trump-on-patriot-missiles-for-ukraine-bv4nvqsq9xa)",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-25T13:02:44+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
       ],
       "verified_source_count": 1
     },
@@ -538,65 +557,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Before the Iran war began, Trump received repeated warnings.\nThen-DNI Tulsi Gabbard cautioned that killing Supreme Leader Ali Khamenei could bring a more hard-line regime open to acquiring nuclear weapons, close the Strait of Hormuz and trigger attacks on U.S. forces and allies.\nJD Vance urged giving diplomacy more time, while top military leaders warned of casualties, weapons-stockpile concerns and readiness strains.\nAt the same time, Benjamin Netanyahu and senior Trump aides argued that Iran was at its weakest point in decades.\nTrump proceeded with the attack despite the warnings.\nSource: WSJ",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-25T12:15:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Zelensky:\nUkraine has received a small batch of missiles for Patriot air defense systems.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-25T11:37:58+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Clash Report"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Trump:\nThe failing Islamic Republic of Iran is not paying large segments of their military, while at the same time killing protesters, even when they are not protesting, at levels not seen before. \nIt is a humanitarian crisis of epic proportions, and must be stopped, NOW.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-25T11:14:28+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Clash Report"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
       "publisher": "Our Wars Today",
       "text": "[Oil tanker disabled by attack in Strait of Hormuz even as mediators seek negotiated end to war](https://apnews.com/article/middle-east-iran-israel-hormuz-pakistan-august-25-2026-1a4fa2e3812c458a25a561b38dc89f09)\nAn oil tanker was disabled after being struck by an unknown projectile off Oman, underscoring shipping risks as Iran maintains tight control over the Strait of Hormuz. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://apnews.com/article/middle-east-iran-israel-hormuz-pakistan-august-25-2026-1a4fa2e3812c458a25a561b38dc89f09)\nThe Associated Press | apnews\u200b.com \u2022 Aug 25, 2026",
       "source": "Telegram",
@@ -693,6 +653,44 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddfe\ud83c\uddea\ud83c\uddfe\ud83c\uddea \nLeader of Yemen's Ansarullah:\nSaudi Arabia has closed our airports to our people, but has opened the skies of Mecca and Medina to the Zionists.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-25T13:50:17+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddfe\ud83c\uddea\ud83c\uddfe\ud83c\uddea \nLeader of Yemen's Ansarullah: \nWe will spare no effort in supporting the Palestinian people and their fighters until the divine promise of the destruction of the Zionist regime is fulfilled.\nWe emphasize that we stand with the Muslim people of Iran and will continue to strengthen the principle of \"axis convergence\" and cooperation among the resistance front.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-25T13:48:30+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
       "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6 \u2014 Ukrainian President Volodymyr Zelensky:\nWe received confirmation \u2014 I will not say from which country \u2014 of several Crotale air-defense systems and missiles for them. We also received AIM missiles. These are very important missiles for us; we use them to shoot down enemy missiles. And, frankly, I also won\u2019t say from whom, but a few more Patriot missiles have arrived. How many? I cannot say. But we need more. We need more.\n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
@@ -762,13 +760,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
-        "Clash Report"
+        "Alsaa Plus EN"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
