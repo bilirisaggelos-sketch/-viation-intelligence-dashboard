@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T05:38:55.377443+00:00",
+  "generated_at": "2026-08-25T06:17:20.050812+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -325,14 +325,14 @@
       "verified_source_count": 1
     },
     {
-      "title": "UK PM Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
-      "text": "UK PM Burnham vows support for Ukraine despite 'outrageous threats' from Russia\nIt comes after Moscow warned of \"consequences\" over the reported use of British drones by Ukraine.",
+      "title": "UK drone factories may face attacks from 'unknown sources', says Kremlin adviser",
+      "text": "UK drone factories may face attacks from 'unknown sources', says Kremlin adviser\nThe comments on BBC Newsnight come after the UK announced it has agreed to hand over blueprints for British-made missile components to Ukraine.",
       "source": "BBC",
       "source_type": "osint",
       "publisher": "BBC World News",
       "severity": "info",
       "icon": "\ud83d\udcf0",
-      "timestamp": "2026-08-25T01:48:24+00:00",
+      "timestamp": "2026-08-25T04:06:34+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -573,44 +573,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddf8\ud83c\udde6\u26a1\ufe0f \u2014 Statement by Yemeni Armed Forces:\nIn the name of Allah, the Most Gracious, the Most Merciful.\n\u200bAllah Almighty said: \"So there is to be no aggression except against the oppressors.\" Allah Almighty has spoken the truth.\n\u200bWith the help and success of Allah, the Yemeni Armed Forces were able to target the oil tanker Amjad, belonging to the Saudi enemy, in the northern Red Sea off the coast of Yanbu. This was carried out with a ballistic missile, and the hit was precise and direct, by the grace of Allah, leading to a fire breaking out on the ship and the flight of a number of other ships present in the targeted area. This targeting comes as part of implementing the decision of the Yemeni Armed Forces to impose a ban on maritime navigation against the Saudi enemy and to establish the equation of \"blockade for blockade.\"\n\u200bIn another context, the Yemeni Armed Forces, by the grace of Allah, were able to execute two military operations:\n\u200bcentered on targeting Saudi concentrations consisting of a large military convoy loaded with military equipment in the areas of Al-Abr and Al-Wadeeah, using a number of ballistic missiles and drones. This resulted in the burning and destruction of more than ten trucks loaded with weapons coming from Saudi territory to target the Yemeni people.\n\u200btargeted concentrations belonging to the Saudi enemy in the Al-Kana'is area using a number of ballistic missiles and drones. This resulted in the killing and injuring of dozens, among them leaders and officers, and the burning and destruction of a number of weapons depots.\n\u200bThe Armed Forces continue, with the help of Allah Almighty, to enforce the ban on maritime navigation against the Saudi enemy within the declared area of operations, and within the implementation of the equation of \"blockade for blockade\" and \"comprehensive escalation for comprehensive escalation.\" They stand ready, by the power of Allah, to confront any escalation with stronger and harsher strikes, and with broader and larger operations.\n\u200bThe Yemeni Armed Forces congratulate our great Yemeni people and our Arab and Islamic nation on the occasion of the approaching honorable Prophetic Birthday (Mawlid), wishing upon its owner and his family the purest prayers and peace. They call upon the members of our dear, steadfast, faithful, and wise Yemeni people\u2014the Yemen of Supporters (Ansar)\u2014to make an honorable turnout to commemorate this great occasion in all designated squares tomorrow, Allah willing.\n\u200bAllah is sufficient for us, and He is the best Disposer of affairs, the best Master, and the best Helper.\n\u200bLong live Yemen, free, dignified, and independent. Victory to Yemen and to all the free people of the nation.\n\u200bSanaa, 11th of Rabi' al-Awwal 1448 AH / August 24, 2026 AD\nIssued by the Yemeni Armed Forces",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-24T16:39:04+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "Anyway, buy gold, sliver, gs, consumer stable stocks, anything that isn't money or crypto. Global inflation is about to sky rocket.\nI pray for the poor.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-24T12:18:28+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "CASELS",
       "text": "Additional footage has been published by the Unmanned Systems Forces of Ukraine showing a number of one-way drone strikes over the last few days against high-priority military targets in Russian-occupied Ukraine and Western Russia. These attacks include a previously reported strike against an MiG-29 at Millerovo Air Base, a pair of Kasta-2E2 Target Acquisition Radars, 1L13-3 Nebo-SV Early Warning Radar and an ST-68 Air Defense Radar.",
       "source": "Telegram",
@@ -713,25 +675,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-24T23:49:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udc80 Musk\u2019s FAA fix flops, opening the door for Palantir\nThe attempt to reform the Federal Aviation Administration (FAA) with the involvement of Elon Musk\u2019s DOGE has done little to solve the real problems facing the US air traffic control system. Instead of the promised rapid technological overhaul, hundreds of employees were shown the door, while Palantir took on an increasingly prominent role in its digital infrastructure.\nDOGE cuts staff but crisis remains\nDOGE became involved in the FAA overhaul in early 2025 amid growing concerns about outdated equipment, system failures and a chronic shortage of air traffic controllers. The goal was to streamline the agency and speed up modernization. Instead, around 400 FAA employees were reportedly dismissed, including staff responsible for maintaining and supporting critical infrastructure.\nThe FAA\u2019s biggest problem remains a chronic shortage of air traffic controllers and technical personnel. Cutting hundreds of employees, including staff responsible for maintaining critical equipment, was unlikely to make the system more resilient. Continued outages and infrastructure failures highlight a fundamental issue \u2013 technology cannot simply replace experienced and highly qualified specialists.\nBillions are now up for grabs\nYet the proposed answer to the crisis focuses on digital technologies and artificial intelligence. Congress has allocated $12.5 billion to modernize the US air traffic control system, with roughly $5 billion set aside for software and technology upgrades. For companies already operating within the FAA\u2019s digital ecosystem, this represents a potentially enormous opportunity. [Palantir\u2019s Foundry platform](https://t.me/geopolitics_prime/70382) is already in use at the agency, putting the company in a strong position as new contracts are awarded.\nPalantir already inside\nPalantir had already established a presence within the FAA\u2019s internal infrastructure while competing for a major AI contract to help [reshape air traffic control](https://t.me/geopolitics_prime/70034). Its existing role could give the company a valuable advantage as Washington prepares to spend billions of dollars on \u201cmodernizing\u201d the nation\u2019s aviation system.\nThe result is a striking irony: the US cuts the people keeping its skies safe, then turns to AI to fill the gap. The FAA\u2019s problems remain unresolved. The staffing crisis persists, and the technology still has to prove it can do the job, but Palantir is already inside the system, waiting for its share.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-24T19:32:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
