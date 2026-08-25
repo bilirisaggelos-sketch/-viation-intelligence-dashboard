@@ -1,6 +1,25 @@
 {
-  "generated_at": "2026-08-25T11:46:49.015241+00:00",
+  "generated_at": "2026-08-25T12:59:17.454437+00:00",
   "events": [
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nLaurel, MD, Thursday, August 27, 2026 Local\nFacility: ZDC",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "08/25/2026",
+      "location": "ZDC MD",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nHOUSTON, TX, Thursday, August 27, 2026 through Friday, August 28, 2026 Local\nFacility: ZHU",
@@ -422,6 +441,123 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
+      "text": "Western tanks sent to Ukraine now mostly sit idle in forests \"collecting cobwebs\".\nThe $10 million machines \"proved no match for cheap drones that now dominate the battlefield.\"\nAbout half of one tank battalion has retrained as drone operators. \nThe remaining tanks are sometimes used to tow damaged equipment, essentially serving as expensive tractors.\nOf roughly 82 Abrams delivered, about 25 have been hit. \nSweden's 10 Strv 122 tanks are down to approximately one remaining.\nSource: NYT",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-25T12:55:22+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "NEW: The US is preparing to return diplomats to Middle East embassies evacuated during Iran War, with staff returning to Beirut as early as this week.\nStaffing caps will vary: UAE, Saudi Arabia, Qatar, and Lebanon up to 85%. \nIraq, Kuwait, and Bahrain up to 75%. \nFull staffing is planned only for Israel, Jordan, and Oman.\nThe move signals Washington does not expect an immediate return to full-scale hostilities.\nSource: NYT",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-25T12:53:10+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Clash Report"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Zelensky:\nWe received confirmation \u2014 I will not say from which country \u2014 of several Crotale air-defense systems and missiles for them.\nWe also received AIM missiles. These are very important missiles for us; we use them to shoot down enemy missiles.\nAnd, frankly, I also won\u2019t say from whom, but a few more Patriot missiles have arrived. How many? I cannot say. \nBut we need more. We need more.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-25T12:49:43+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Clash Report"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Zelensky:\nUkraine is doing everything to move the war into the sky.\nThere, you no longer have to compete in the number of soldiers \u2014 you can rely on technology, drones and missiles.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-25T12:47:47+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Clash Report"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "At least four Chinese CH-4 armed drones have been visually confirmed at Ab\u00e9ch\u00e9 Air Base in eastern Chad, near the Sudanese border.\nAb\u00e9ch\u00e9's location makes it well-positioned for operations along the Darfur border.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-25T12:44:56+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Before the Iran war began, Trump received repeated warnings.\nThen-DNI Tulsi Gabbard cautioned that killing Supreme Leader Ali Khamenei could bring a more hard-line regime open to acquiring nuclear weapons, close the Strait of Hormuz and trigger attacks on U.S. forces and allies.\nJD Vance urged giving diplomacy more time, while top military leaders warned of casualties, weapons-stockpile concerns and readiness strains.\nAt the same time, Benjamin Netanyahu and senior Trump aides argued that Iran was at its weakest point in decades.\nTrump proceeded with the attack despite the warnings.\nSource: WSJ",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-25T12:15:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
       "text": "Zelensky:\nUkraine has received a small batch of missiles for Patriot air defense systems.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -458,64 +594,6 @@
         "Clash Report"
       ],
       "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "A U.S. Air Force C-17 landed at Moscow\u2019s Vnukovo Airport after flying from Riga, Latvia.\nU.S. and Russian officials have not disclosed the purpose of the rare military flight.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-25T10:54:24+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "The U.S. is preparing to return diplomats to embassies in Israel, Lebanon, Saudi Arabia, Qatar, Jordan, Oman, Iraq, Kuwait, Bahrain and the UAE, signaling reduced fears of renewed full-scale war with Iran. \nSome posts will remain below full staffing, with family restrictions still in place because security risks persist.\nSource: NYT",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-25T09:49:17+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Clash Report"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Israel is planning to expand its military capabilities in space, including eventually striking targets on Earth from orbit.\nDefense Minister Israel Katz says Israel wants to be first to develop a true space-to-ground attack capability. The broader plan also includes better satellites, encrypted communications, cyberwarfare and missile defense.\nOne concept discussed is the U.S. \u201cRods from God\u201d idea: satellites dropping massive tungsten rods at extreme speed, producing bunker-busting impacts without nuclear explosives. The physics are possible, but cost, weight and effectiveness remain major obstacles.\nIsrael is considering roughly 16 billion shekels ($5.4 billion) in space investment over a decade, though funding is not yet assured.\nSource: Haaretz",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-25T09:04:09+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -611,6 +689,46 @@
         "Our Wars Today"
       ],
       "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6 \u2014 Ukrainian President Volodymyr Zelensky:\nWe received confirmation \u2014 I will not say from which country \u2014 of several Crotale air-defense systems and missiles for them. We also received AIM missiles. These are very important missiles for us; we use them to shoot down enemy missiles. And, frankly, I also won\u2019t say from whom, but a few more Patriot missiles have arrived. How many? I cannot say. But we need more. We need more.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-25T12:57:02+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Clash Report"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfa \u2014 Ukrainian President Volodymyr Zelensky:\nUkraine is doing everything to move the war into the sky. There, you no longer have to compete in the number of soldiers \u2014 you can rely on technology, drones and missiles.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-25T12:55:23+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Clash Report"
+      ],
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
