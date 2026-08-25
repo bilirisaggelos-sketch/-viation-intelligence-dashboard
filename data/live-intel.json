@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T09:02:11.609015+00:00",
+  "generated_at": "2026-08-25T09:53:27.466195+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -422,6 +422,45 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
+      "text": "The U.S. is preparing to return diplomats to embassies in Israel, Lebanon, Saudi Arabia, Qatar, Jordan, Oman, Iraq, Kuwait, Bahrain and the UAE, signaling reduced fears of renewed full-scale war with Iran. \nSome posts will remain below full staffing, with family restrictions still in place because security risks persist.\nSource: NYT",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-25T09:49:17+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Clash Report"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Israel is planning to expand its military capabilities in space, including eventually striking targets on Earth from orbit.\nDefense Minister Israel Katz says Israel wants to be first to develop a true space-to-ground attack capability. The broader plan also includes better satellites, encrypted communications, cyberwarfare and missile defense.\nOne concept discussed is the U.S. \u201cRods from God\u201d idea: satellites dropping massive tungsten rods at extreme speed, producing bunker-busting impacts without nuclear explosives. The physics are possible, but cost, weight and effectiveness remain major obstacles.\nIsrael is considering roughly 16 billion shekels ($5.4 billion) in space investment over a decade, though funding is not yet assured.\nSource: Haaretz",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-25T09:04:09+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
       "text": "UK Prime Minister Andy Burnham plans to travel to New York in September, where he and other European leaders will press Trump to release U.S. Patriot air-defense missiles for Ukraine ahead of winter.\n\u201cI\u2019m looking forward to going to New York in September,\u201d Burnham told Bloomberg in Kyiv. \nThe trip, during the UN General Assembly, would be his first U.S. visit as prime minister.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -532,6 +571,26 @@
         "Our Wars Today"
       ],
       "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8 \u2014 The New York Times: The United States is preparing to redeploy diplomats to its embassies in Israel, Lebanon, Saudi Arabia, Qatar, Jordan, Oman, Iraq, Kuwait, Bahrain, and the United Arab Emirates, signaling a decline in concerns over the outbreak of another full-scale war with Iran.\n\u27a1\ufe0f Some missions will continue to operate with limited staffing, while restrictions on family members remain in place due to ongoing security risks.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-25T09:51:57+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Clash Report"
+      ],
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
