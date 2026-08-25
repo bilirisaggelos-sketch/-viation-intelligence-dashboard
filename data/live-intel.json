@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T20:48:28.424844+00:00",
+  "generated_at": "2026-08-25T21:34:57.738356+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -364,25 +364,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf7 NEW: The Persian Gulf Strait Authority (PSGA) announces that any vessels that violate the Iranian arrangements for crossing the Strait of Hormuz will be placed on a \u2018non-compliance\u2019 list\nThese vessels will not receive easy permission to transit the Strait in the future, and will be subject to fines, seizure, or confiscation by the IRGC.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-23T20:14:38+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Clash Report",
       "text": "Iran's Deputy FM Kazem Gharibabadi:\nThe reopening of the Strait of Hormuz will only happen in exchange for ending the war on all fronts, lifting the blockade, and resolving the situation in Yemen.\nWe told Pakistan's Army Chief that reopening the Strait of Hormuz depends on America fulfilling its commitments under the memorandum of understanding.",
       "source": "Telegram",
@@ -428,25 +409,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-25T19:10:43+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "NEW: Russia will seize private companies that fail to defend themselves against Ukrainian drone strikes, under a new decree by Putin.\nThe decree covers fuel, energy, industrial, communications, transport, and logistics facilities. \nIt comes after Ukraine hit six Ozon warehouses in four days, crashing its stock 30%, and struck over 20 Wildberries sites.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-25T17:36:46+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -523,25 +485,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-24T19:29:46+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Our Wars Today"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Our Wars Today",
-      "text": "[Kremlin says British missile help for Ukraine 'adds fuel to the fire'](https://www.reuters.com/world/europe/kremlin-says-british-missile-help-ukraine-adds-fuel-fire-2026-08-24/)\nThe Kremlin said on Monday that Britain's decision to \u200bhand Ukraine classified information on British-made components used \u200cto make SCALP long-range cruise missiles would \"add fuel to the fire\" and was regarded by Moscow extremely negatively. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://www.reuters.com/world/europe/kremlin-says-british-missile-help-ukraine-adds-fuel-fire-2026-08-24/)\nReuters | reuters\u200b.com \u2022 Aug 24, 2026",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-24T10:10:49+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -676,25 +619,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-25T10:52:45+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8 \u2014 The New York Times: The United States is preparing to redeploy diplomats to its embassies in Israel, Lebanon, Saudi Arabia, Qatar, Jordan, Oman, Iraq, Kuwait, Bahrain, and the United Arab Emirates, signaling a decline in concerns over the outbreak of another full-scale war with Iran.\n\u27a1\ufe0f Some missions will continue to operate with limited staffing, while restrictions on family members remain in place due to ongoing security risks.\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-25T09:51:57+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
