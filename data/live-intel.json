@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T20:03:49.132160+00:00",
+  "generated_at": "2026-08-25T20:48:28.424844+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -378,6 +378,44 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Iran's Deputy FM Kazem Gharibabadi:\nThe reopening of the Strait of Hormuz will only happen in exchange for ending the war on all fronts, lifting the blockade, and resolving the situation in Yemen.\nWe told Pakistan's Army Chief that reopening the Strait of Hormuz depends on America fulfilling its commitments under the memorandum of understanding.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-25T20:16:54+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Satellite imagery shows at least 15 simultaneous ship-to-ship oil transfers happening in the Gulf of Oman today, moving roughly 25 million barrels of crude from nearly every regional producer except Iran.\nThe transfers are part of the workaround system that emerged after the Strait of Hormuz became restricted. \nShuttle tankers load inside the Persian Gulf, pass through the strait, and transfer cargo to larger vessels waiting in the Gulf of Oman for onward delivery to Asian markets.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-25T20:10:30+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
       ],
       "verified_source_count": 1
     },
