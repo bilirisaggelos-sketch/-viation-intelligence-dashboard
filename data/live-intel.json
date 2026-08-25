@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T13:58:30.988783+00:00",
+  "generated_at": "2026-08-25T14:56:41.305405+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -518,45 +518,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Zelensky:\nUkraine is doing everything to move the war into the sky.\nThere, you no longer have to compete in the number of soldiers \u2014 you can rely on technology, drones and missiles.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-25T12:47:47+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Clash Report"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "At least four Chinese CH-4 armed drones have been visually confirmed at Ab\u00e9ch\u00e9 Air Base in eastern Chad, near the Sudanese border.\nAb\u00e9ch\u00e9's location makes it well-positioned for operations along the Darfur border.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-25T12:44:56+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Our Wars Today",
       "text": "[Oil tanker disabled by attack in Strait of Hormuz even as mediators seek negotiated end to war](https://apnews.com/article/middle-east-iran-israel-hormuz-pakistan-august-25-2026-1a4fa2e3812c458a25a561b38dc89f09)\nAn oil tanker was disabled after being struck by an unknown projectile off Oman, underscoring shipping risks as Iran maintains tight control over the Strait of Hormuz. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://apnews.com/article/middle-east-iran-israel-hormuz-pakistan-august-25-2026-1a4fa2e3812c458a25a561b38dc89f09)\nThe Associated Press | apnews\u200b.com \u2022 Aug 25, 2026",
       "source": "Telegram",
@@ -720,13 +681,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
-        "Clash Report"
+        "Alsaa Plus EN"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -805,6 +765,25 @@
         "Clash Report"
       ],
       "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ufe0f\ud83c\uddf8\ud83c\uddfe\ud83c\udde6\ud83c\uddf9\ud83c\udde9\ud83c\uddf0 Syrian Air has announced the start of direct and regular flights between Damascus and both Vienna and Copenhagen, effective from September 21 next.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-25T14:37:43+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
