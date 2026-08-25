@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T01:54:41.657315+00:00",
+  "generated_at": "2026-08-25T03:05:53.391583+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -612,6 +612,44 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
+      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfaUkrainian drones struck the oil refinery in Afipsky, Krasnodar Krai region, Russia, during this Tuesday morning's drone incursion. \n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-25T02:08:26+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "The IDF\u2019s Paratroopers Brigade has completed 3 months of operations in Gaza and is redeploying to Judea and Samaria.\nThe brigade says it destroyed and sealed 13 km of tunnels, seized Hamas weapons and all sorts of other military operations.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-25T01:58:17+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
       "text": "The United States is sanctioning nearly 60 Iran-linked individuals, entities and vessels across its nuclear, missile, cyber and oil networks, while identifying digital assets, technology, gold, aviation and shipping for potential secondary sanctions.\nTreasury Secretary Scott Bessent said Washington would pursue a \u201czero leakage\u201d sanctions policy and give countries a limited period to end identified activities, including closing Iranian bank branches. Those that fail to comply could lose access to the U.S. dollar system.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -637,63 +675,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-25T01:43:30+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "\u2757\ufe0fBingo: Russia\u2019s Perm oil refinery, its seventh-largest by processing volume, halted operations after a Ukrainian drone strike on August 21 damaged units and caused a fire, Reuters reports. Its CDU-4 unit, accounting for nearly 40% of capacity, could take 1-2 weeks to repair.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-25T01:32:51+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "Putin signed a decree allowing Russia to place critical infrastructure under temporary state management if owners fail to take adequate measures to protect it from attacks, including those involving drones. The decree covers fuel and energy, industrial, communications, utilities, transport, logistics and power facilities, including nuclear sites, as well as other assets deemed important to Russia's security and economic stability.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-25T01:30:51+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "Satellite images of the Ozon logistics warehouses in Dagestan and Adygea show both facilities effectively destroyed after Ukrainian drone strikes. Extensive fire damage is visible across both sites, which now appear beyond recovery and likely to burn out completely.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-25T01:29:38+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
