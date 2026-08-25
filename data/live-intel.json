@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T23:39:20.556185+00:00",
+  "generated_at": "2026-08-25T00:00:56.457609+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -739,6 +739,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udca5 Every cent funding the US is complicit in Iranian blood \u2014 Iranian economy minister\n\ud83d\udcac \u201cAnyone who pays even one cent in taxes to the terrorist government of America is complicit in the blood of the people,\u201d Iranian Economy Minister Seyed Ali Madanizadeh said.\nHe pointed to [the 168 children killed in Minab](https://t.me/geopolitics_prime/65634) by US Tomahawk missiles during the first day of the US-Israeli aggression against Iran, saying those funding the US are complicit in the blood of those martyred children.\n\ud83d\udcac \u201cLet them know with certainty that they will all see the result of their actions,\u201d Madanizadeh warned.\nThe remarks came after US Treasury Secretary Scott Bessent announced a new sanctions wave targeting more than 60 organizations, individuals and vessels over alleged ties to Iran, with the US seeking to cut off Iran\u2019s funding channels in digital assets, technology, gold, aviation and maritime shipping.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-24T23:49:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
