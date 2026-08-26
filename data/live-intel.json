@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T09:20:38.913582+00:00",
+  "generated_at": "2026-08-26T10:07:43.990738+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -384,6 +384,44 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
+      "text": "Dubai's airport saw passenger traffic drop 31% in the first half of 2026 to 31.5 million, down from 46 million, after Iran War triggered closures, cancellations, and airspace restrictions across the Gulf.\nMarch was the low point with a 65% year-on-year drop.\nOnly about 50 of the usual 90 international airlines were operating by mid-year. \nThe airport had been on track for 100 million passengers after a record 95.2 million in 2025.\nSource: Reuters",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-26T09:42:54+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "France is pushing to limit Ukraine's ability to buy non-European military equipment with EU loan money, seeking to steer the \u20ac60 billion defense portion of the EU's \u20ac90 billion support package toward European and French producers.\nUkraine has secured two exemptions so far: one for Chinese drone components and another for US Patriot interceptor missiles. \nFrance wants these exemptions to be temporary, with European suppliers replacing foreign ones as production ramps up.\nNine EU countries including Germany, Sweden, and Poland pushed back, calling for Ukraine to have \"maximum flexibility to procure the equipment it urgently needs.\"\nFrance has a clear commercial interest: its Franco-Italian SAMP/T system is Europe's closest alternative to the US Patriot.\nSource: Euronews",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-26T09:22:14+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
       "text": "Russia's new jet-powered Shahed drones fly at 300 mph, three times faster than the classic propeller version, and they exist because of Chinese engines.\nUkrainian wreckage analysis traces the turbojets to Shenzhen-based Telefly Telecommunications Equipment. \nAfter Ukraine publicized the link, Telefly removed the turbojet section from its English website. \nIt remained on Chinese-language pages.\nThe jet variants are a serious problem because Ukraine intercepts over 90% of the slow propeller Shaheds with cheap drones. \nThe jet versions outrun those interceptors and require scarce missiles or fighter jets to stop.\nChinese-origin parts now make up roughly 60-65% of recovered Shaheds. \nBeijing maintains it does not send \"lethal weapons,\" classifying the components as dual-use. \nSome engines were shipped disguised as industrial refrigeration units.\nSource: WSJ",
       "source": "Telegram",
       "source_type": "telegram",
@@ -418,26 +456,6 @@
         "Clash Report"
       ],
       "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Ukrainian drones hit the Wildberries hub in Kotovsk again, sparking a 100,000+ m\u00b2 fire.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-26T05:45:41+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "CASELS",
-        "Clash Report"
-      ],
-      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -737,13 +755,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "CASELS",
-        "Clash Report"
+        "CASELS"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
