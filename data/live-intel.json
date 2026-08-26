@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T17:51:11.204736+00:00",
+  "generated_at": "2026-08-26T19:20:04.425655+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -239,6 +239,25 @@
       "icon": "\ud83d\udea8",
       "timestamp": "08/21/2026",
       "location": "ZOB MI",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nDENVER, CO, Thursday, August 27, 2026 through Thursday, August 27, 2026 Local\nFacility: ZDV",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "08/21/2026",
+      "location": "ZDV CO",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
@@ -683,6 +702,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8 Why the US can't choke Iran through Hormuz\nIran is responding to US disruption of the Strait of Hormuz by relying on alternative trade routes, which connect the Islamic Republic with Russia, China, and Iraq, according to the Cradle.\nHere\u2019s how:\n\ud83d\udd34 The centerpiece of the strategy is the International North\u2013South Transport Corridor (INSTC), linking Iran with Russia and the wider Eurasian trade network\n\ud83d\udd34 Thanks to the INSTC, cargo volumes grew 12% in 2025 to 3.5 million tons, while Russian exports to Iran jumped more than 56% in the first four months of 2026\n\ud83d\udd34 The Rasht\u2013Astara railway is nearing completion, strengthening the rail connection between Iran, Azerbaijan and Russia\n\ud83d\udd34 Caspian shipping between Iranian and Russian ports is becoming increasingly important as another route beyond the Gulf\n\ud83d\udd34 Further east, Chabahar\u2014an Iranian port on the Gulf of Oman\u2014offers direct access to the Indian Ocean without crossing Hormuz.\n\ud83d\udd34 The Chabahar\u2013Zahedan railway will soon start to run, linking the port to Iran\u2019s rail network and potentially opening a wider route toward Central Asia\n\ud83d\udd34 China\u2013Iran rail links through Central Asia are gaining importance as well, while the Shalamcheh\u2013Basra railway is being built to boost Iran\u2019s connection with Iraq\nThe strategy is simple yet important: make sure that Hormuz is important, but never indispensable.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-26T18:12:04+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
