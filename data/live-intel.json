@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T10:07:43.990738+00:00",
+  "generated_at": "2026-08-26T10:53:29.365750+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -363,14 +363,52 @@
       "verified_source_count": 1
     },
     {
-      "title": "Swedish military seeks to take over Russian-owned estate near naval base",
-      "text": "Swedish military seeks to take over Russian-owned estate near naval base\nThe armed forces request the seizure of the plot near Musk\u00f6 Naval Base citing threats from Russian drones.",
+      "title": "Far-right Israeli lawmaker damages Palestinian memorial with sledgehammer",
+      "text": "Far-right Israeli lawmaker damages Palestinian memorial with sledgehammer\nZvi Sukkot's actions have drawn widespread condemnation, including from Israeli Prime Minister Benjamin Netanyahu.",
       "source": "BBC",
       "source_type": "osint",
       "publisher": "BBC World News",
       "severity": "info",
       "icon": "\ud83d\udcf0",
-      "timestamp": "2026-08-25T15:18:50+00:00",
+      "timestamp": "2026-08-26T08:17:45+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "BBC World News"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Germany's Merz warns attackers will 'pay price' after drone incident",
+      "text": "Germany's Merz warns attackers will 'pay price' after drone incident\nA drone attack on Leipzig Airport highlights the \"very real threat\" faced by the country, the German chancellor says.",
+      "source": "BBC",
+      "source_type": "osint",
+      "publisher": "BBC World News",
+      "severity": "info",
+      "icon": "\ud83d\udcf0",
+      "timestamp": "2026-08-25T17:12:21+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "BBC World News"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Musk's SpaceX to build $100bn launch facility in Louisiana",
+      "text": "Musk's SpaceX to build $100bn launch facility in Louisiana\nIt will be the firm's biggest site yet and aims to send rockets to space in 2029.",
+      "source": "BBC",
+      "source_type": "osint",
+      "publisher": "BBC World News",
+      "severity": "info",
+      "icon": "\ud83d\udcf0",
+      "timestamp": "2026-08-26T01:32:07+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -631,25 +669,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddfa\ud83c\uddf8 \u2014 Ukrainian President Volodymyr Zelensky:\nUkraine has received a small batch of missiles for Patriot air defense systems.\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-25T11:41:05+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Mediterranean Man",
       "text": "\u26a1\ufe0f\ud83c\uddf8\ud83c\uddfe\ud83c\udde6\ud83c\uddf9\ud83c\udde9\ud83c\uddf0 Syrian Air has announced the start of direct and regular flights between Damascus and both Vienna and Copenhagen, effective from September 21 next.",
       "source": "Telegram",
@@ -838,25 +857,6 @@
         "Geopolitics Prime"
       ],
       "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83e\udd14 Turkey moves to bring Kurds into its orbit as US influence wanes\nTurkey is pressing ahead with a strategic opening toward its Kurdish population, betting that a peace deal could extend the country's influence well beyond its borders, The Cradle reports.\nThe window of opportunity opened after the US reliance on the \"Kurdish card,\" a strategic tool it has used since the Cold War, failed against Iran.\n\ud83d\udd34 US was unable to mobilize either the Kurds of Iran or the larger Kurdish groups in Iraq, despite decades of investment in those relationships.\n\ud83d\udd34 In Syria, the US-backed Syrian Democratic Forces (SDF) have collapsed, with their geopolitical project of building an autonomous Kurdish region now largely dismantled as the US steps aside\nThis has created a strategic opening for Turkey. It has eliminated the military and territorial threat posed by armed Kurdish groups in Syria, advancing its goal of subordinating the region and expanding its influence eastward.\nThe Kurdish opening is part of a broader Turkish strategy to establish itself as the dominant power in West Asia:\n\ud83d\udd34 Turkey has signed a joint defense agreement with Saudi Arabia and Pakistan, signaling its ambition to lead an emerging Sunni-majority bloc\n\ud83d\udd34 Turkey is seeking to expand its influence from the Caspian Sea to the Mediterranean, positioning itself as a central player in the region's new security architecture\n\ud83d\udd34 It is deepening economic and military ties across the region, including drone sales, military academies, and scholarships that build lasting influence\nAt home, President Erdogan has a huge stake in making sure the peace plan succeeds. He aims to dissolve the decade-old opposition bloc led by the pro-Kurdish DEM Party and the Republican People's Party, which stand in the way of prolonging his already protracted tenure. Erdogan has been courting the DEM Party to help change the constitution and secure additional terms in exchange for enhanced recognition of Kurdish rights.\n\ud83d\udc49 However, opposition voices warn that Erdogan's gestures of peace toward Kurds are little more than a political ploy to gain popularity and extend his term in office.\nFor decades, the Kurdish conflict has been a domestic headache for Turkey. Now, Turkish leaders see an opportunity to turn the Kurdish issue into an instrument of regional influence. If Turkey can pacify its own Kurdish population, it will also position itself as the dominant power over Kurdish groups in Syria and Iraq, locking in Turkish influence across the region.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-25T19:29:57+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
     },
     {
       "title": "Telegram",
