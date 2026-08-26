@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T19:20:04.425655+00:00",
+  "generated_at": "2026-08-26T22:25:42.008565+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -420,33 +420,14 @@
       "verified_source_count": 1
     },
     {
-      "title": "Musk's SpaceX to build $100bn launch facility in Louisiana",
-      "text": "Musk's SpaceX to build $100bn launch facility in Louisiana\nIt will be the firm's biggest site yet and aims to send rockets to space in 2029.",
-      "source": "BBC",
-      "source_type": "osint",
-      "publisher": "BBC World News",
-      "severity": "info",
-      "icon": "\ud83d\udcf0",
-      "timestamp": "2026-08-26T01:32:07+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "BBC World News"
-      ],
-      "verified_source_count": 1
-    },
-    {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "BIG: Russia is preparing to escalate attacks on Ukraine after concluding that peace negotiations have reached a dead end, according to Bloomberg citing three people close to the Kremlin.\nRussia is weighing intensified conventional ballistic missile strikes on Kyiv, including the city center, and infrastructure targets across other Ukrainian cities.",
+      "text": "U.S. intelligence says the explosive drone found at Leipzig airport on Aug. 4, 2026, had features typical of devices used by Russia\u2019s GRU military intelligence. \nOfficials suspect it was part of a Russian sabotage effort aimed at disrupting weapons shipments to Ukraine, though Moscow denies involvement and Germany has not yet publicly assigned blame.\nSource: ABC News",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-26T16:04:57+00:00",
+      "timestamp": "2026-08-26T21:13:16+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -530,6 +511,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Our Wars Today"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddf7\ud83c\uddfa\u274c\ud83c\uddfa\ud83c\udde6 \u2014 Russian media outlet Rybar released a combat narrative detailing a late December 2025 operational engagement near Kostyantynivka involving a captured T-72 tank \u2014 Rybar.\n\u27a1\ufe0f The vehicle, equipped with heavy \"Kolyan-armor\" and operated by a three-man crew under 23-year-old commander \"Kavkaz\", advanced deep into hostile territory while sustaining direct FPV drone strikes and artillery impacts.\n\u27a1\ufe0f A subsequent direct strike severed the tank's track and cut vehicle power, leaving the crew immobilized in an open field beyond friendly lines.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-26T19:37:38+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
       ],
       "verified_source_count": 1
     },
@@ -708,6 +708,63 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8 Iran wipes out US intelligence footprint in the Middle East\n\u00a0\n\ud83d\udd0a Sophisticated surveillance equipment and facilities used by the CIA and other intelligence agencies suffered \u201cunprecedented damage\u201d in the wake of Iran\u2019s retaliation to US-Israeli aggression, an NBC News report citing four separate sources says.\nThe damage is expected to cost \u201cbillions of dollars to repair,\u201d and is \u201cmore extensive than any destruction\u201d the agencies have ever endured.\nThe Iran war as a whole proved [one giant intelligence fiasco for the US and Israel](https://t.me/geopolitics_prime/73599), which not only failed to achieve Netanyahu\u2019s decades-old dream of regime change, but got caught almost literally with their pants down when it came to predicting[ Iran\u2019s military response ](https://t.me/geopolitics_prime/66035)\u2013 which included the lightning targeting of US radar installations in Arab Gulf states, blinding CENTCOM\u2019s defenses across the whole region.\nIranian intelligence proved so precise it was able[ to track US troops](https://t.me/geopolitics_prime/73497) down to swanky Gulf hotels, while the US naval armada assembled to destroy Iran was forced to stay hundreds of km from shore to avoid being targeted by drones and missiles.\n\u27a1\ufe0f [CIA facilities across the region were hit](https://t.me/geopolitics_prime/66053), including a base station inside the US Embassy compound in Riyadh, which reportedly caused \u201csignificant\u201d \u201cstructural damage,\u201d and facilities in Iraqi Kurdistan \u2013 tasked with coordinating a popular uprising and guerrilla war inside Iran which never materialized.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-26T21:48:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udca5 Houthis slam Saudi-backed mercenaries in al-Mokha\nYemen\u2019s Ansar Allah forces launched missile strikes on Saudi-backed positions in the al-Mokha area, with reports of explosions at sites used by Saudi proxy militias.\nThe strikes reportedly hit the port of Mokha and positions south of al-Khokha, where Saudi-backed forces had gathered and tried to use the area as a refuge.\n\ud83d\udcac \u201cThe Saudi enemy will find no safe place for its mercenaries in our country,\u201d a member of Ansar Allah\u2019s political bureau warned on X.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-26T20:45:21+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddee\ud83c\uddf1\ud83d\udcb5 Israeli MoD, MIC caught funneling millions into US top schools\u2019 advanced military research\n\u00a0Israel\u2019s defense establishment has poured over $15M in unreported cash into American universities from 2004-2025, violating federal law by failing to report the money to a national database tracking foreign funding in US schools.\nA Dropsite News analysis of audit records, funding disclosures, acknowledgements in papers and other documents manually uncovered the $15M \u2013 and indicated that\u2019s only part of the total sum, since some records do not provide amounts at all.\n\ud83d\udc49 Money was disbursed via research grants and contracts, tuition payments, and other monetary gifts. Recipients include many of America\u2019s top research schools: Columbia, Cornell, Harvard, Princeton, UCLA and others.\nTop contributors include Israel\u2019s Ministry of Defense, Elbit Systems, Rafael and Israel Aerospace Industries, which sponsored a broad array of advanced defense technology research in fields including\n\ud83d\udca3 guided missile weaponry\n\ud83d\udca3 superconducting quantum interference devices for ultra-long-range submarine detection\n\ud83d\udca3 surveillance algorithms and use of big data to target adversaries online\n\ud83d\udca3 3D printing of electromechanical components\n\ud83d\udca3 micro-drones and autonomous flight\n\ud83d\udca3 computer vision-assisted analysis and targeting ID\n\ud83d\udca3 directed energy weapons\n\u00a0\nIsrael has been gaining access to these advanced technologies, \u201cwhich have bolstered its capacity to commit genocide in Gaza, carry out a brutal occupation of Lebanon, and spark a war with Iran that has escalated to a regionwide conflict,\u201d for \u201crelatively small sums \u2013 like the price of funding a single PhD,\u201d US arms industry expert William Hartung said.\n\u27a1\ufe0f What\u2019s more, the whole mechanism is illegal under Section 117 of the Higher Education Act, which states that grants, gifts and contracts of $250k+ from a foreign source must be disclosed, with the law meant to protect America against undue foreign influence in higher education.\nBut Israel\u2019s defense establishment needn\u2019t worry. Not only does it consistently get a[ pass in its influence operations,](https://t.me/geopolitics_prime/69809) and recycle funds from[ generous multi-billion-dollar annual American aid packages](https://t.me/geopolitics_prime/72579) back into the US, but US lawmakers are feverishly at work finalizing an amendment to a must-pass defense bill that will effectively force the US to share its most sophisticated defense secrets with Israel, for free.\n\u203c\ufe0f Now that\u2019s value for money.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-26T19:33:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
       "text": "\ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8 Why the US can't choke Iran through Hormuz\nIran is responding to US disruption of the Strait of Hormuz by relying on alternative trade routes, which connect the Islamic Republic with Russia, China, and Iraq, according to the Cradle.\nHere\u2019s how:\n\ud83d\udd34 The centerpiece of the strategy is the International North\u2013South Transport Corridor (INSTC), linking Iran with Russia and the wider Eurasian trade network\n\ud83d\udd34 Thanks to the INSTC, cargo volumes grew 12% in 2025 to 3.5 million tons, while Russian exports to Iran jumped more than 56% in the first four months of 2026\n\ud83d\udd34 The Rasht\u2013Astara railway is nearing completion, strengthening the rail connection between Iran, Azerbaijan and Russia\n\ud83d\udd34 Caspian shipping between Iranian and Russian ports is becoming increasingly important as another route beyond the Gulf\n\ud83d\udd34 Further east, Chabahar\u2014an Iranian port on the Gulf of Oman\u2014offers direct access to the Indian Ocean without crossing Hormuz.\n\ud83d\udd34 The Chabahar\u2013Zahedan railway will soon start to run, linking the port to Iran\u2019s rail network and potentially opening a wider route toward Central Asia\n\ud83d\udd34 China\u2013Iran rail links through Central Asia are gaining importance as well, while the Shalamcheh\u2013Basra railway is being built to boost Iran\u2019s connection with Iraq\nThe strategy is simple yet important: make sure that Hormuz is important, but never indispensable.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
@@ -791,25 +848,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-26T04:30:24+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\u2620\ufe0f CIA spy web gets a billion-dollar lesson from Iran\nIranian missile and drone strikes have caused unprecedented damage to US intelligence sites and surveillance hardware across the Middle East, forcing Congress to hunt for billions of dollars to patch up America\u2019s battered spy network, NBC News reported.\nCIA-linked facilities, radar systems and surveillance equipment shared with the US military were hit across the region, American media reported.\nFor decades, US spies operated across the Middle East like the region was their private backyard. Then Iran started punching holes through the empire\u2019s surveillance grid.\n\ud83d\udcac \u201cThe U.S. walked into this war and had not sufficiently thought through base defense in any way, shape or form,\u201d Seth Jones of CSIS said.\n\ud83d\udcac \u201cAnd we got hammered.\u201d\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-26T02:57:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
