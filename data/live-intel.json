@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T10:53:29.365750+00:00",
+  "generated_at": "2026-08-26T11:36:09.459991+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -638,25 +638,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-25T12:57:02+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfa \u2014 Ukrainian President Volodymyr Zelensky:\nUkraine is doing everything to move the war into the sky. There, you no longer have to compete in the number of soldiers \u2014 you can rely on technology, drones and missiles.\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-25T12:55:23+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
