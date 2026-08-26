@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T14:28:41.098824+00:00",
+  "generated_at": "2026-08-26T16:03:29.201154+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -421,25 +421,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Trump on Iran:\nWe got rid of the mines. But the strait, it\u2019s functioning, it\u2019s a functioning strait. \nYes, every once in a while there will be a drone or a rocket or something shot, but it is a very functioning strait. \nA lot of oil is pouring out.\n10 million barrels yesterday.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-26T13:23:35+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Our Wars Today",
       "text": "[Oil tanker disabled by attack in Strait of Hormuz even as mediators seek negotiated end to war](https://apnews.com/article/middle-east-iran-israel-hormuz-pakistan-august-25-2026-1a4fa2e3812c458a25a561b38dc89f09)\nAn oil tanker was disabled after being struck by an unknown projectile off Oman, underscoring shipping risks as Iran maintains tight control over the Strait of Hormuz. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://apnews.com/article/middle-east-iran-israel-hormuz-pakistan-august-25-2026-1a4fa2e3812c458a25a561b38dc89f09)\nThe Associated Press | apnews\u200b.com \u2022 Aug 25, 2026",
       "source": "Telegram",
@@ -523,26 +504,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-26T11:49:40+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddfa\ud83c\uddf8\u2014 Iranian missile and drone attacks caused unprecedented damage to U.S. intelligence facilities and surveillance equipment across the Middle East, according to NBC News.\nThe destruction exceeds anything previously suffered by U.S. intelligence agencies and is expected to cost billions of dollars to repair.\nThe attacks have also exposed weaknesses in the defenses protecting U.S. bases and sensitive intelligence sites, prompting American officials to reconsider how these facilities are secured.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-26T04:45:00+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -795,13 +756,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
         "Geopolitics Prime"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
