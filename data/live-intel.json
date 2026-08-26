@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T07:27:59.615406+00:00",
+  "generated_at": "2026-08-26T08:20:44.845621+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -268,6 +268,25 @@
       "verified_source_count": 1
     },
     {
+      "title": "Space Weather Message Code: ALTEF3\r",
+      "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3729\r\nIssue Time: 2026 Aug 26 0813 UTC\r\n\r\nCONTINUED ALERT: Electron 2MeV Integral Flux exceeded 1,000pfu\nContinuation of Serial Number: 3728\nBegin Time: 2026 Aug 21 1105 UTC\nYesterday Maximum 2MeV Flux: 1039 pfu\nMax time: 2026 Aug 26 0805 UTC",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-08-26 08:13:16.493",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
       "title": "Space Weather Message Code: ALTTP2\r",
       "text": "Space Weather Message Code: ALTTP2\r\nSerial Number: 1525\r\nIssue Time: 2026 Aug 26 0658 UTC\r\n\r\nALERT: Type II Radio Emission \nBegin Time: 2026 Aug 26 0635 UTC\nEstimate Velocity: 930 km/s\nComment:",
       "source": "NOAA Space Weather",
@@ -333,25 +352,6 @@
       "severity": "warning",
       "icon": "\ud83d\udef0\ufe0f",
       "timestamp": "2026-08-25 10:27:21.017",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Space Weather Message Code: SUM10R\r",
-      "text": "Space Weather Message Code: SUM10R\r\nSerial Number: 927\r\nIssue Time: 2026 Aug 25 1020 UTC\r\n\r\nSUMMARY: 10cm Radio Burst \nBegin Time: 2026 Aug 25 0956 UTC\nMaximum Time: 2026 Aug 25 0957 UTC\nEnd Time: 2026 Aug 25 1006 UTC\nPeak Flux: 160 sfu\nDuration: 10 minutes\nLatest Penticton Noon Flux: 143 sfu\nComment:",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-08-25 10:20:41.210",
       "location": "Global",
       "lat": null,
       "lon": null,
