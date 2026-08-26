@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T13:36:00.012291+00:00",
+  "generated_at": "2026-08-26T14:28:41.098824+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -428,25 +428,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-26T13:23:35+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Chinese AI firm MizarVision published satellite imagery appearing to show a dispersed Taiwan Sky Bow III air defense deployment near a civilian fishing port south of Kaohsiung, dated around August 12.\nThe images label a missile launcher, mobile phased-array radar, and resupply vehicle positioned at Fengbitou Fishing Port.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-26T12:49:45+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
