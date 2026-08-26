@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T12:16:57.651876+00:00",
+  "generated_at": "2026-08-26T13:36:00.012291+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -422,32 +422,31 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Iran's IRGC on the Strait of Hormuz:\nThe Strait of Hormuz is under our control. \nNo enemy military vessel is inside the Persian Gulf. All enemy warships have moved at least 400 km away from the strait.\nWe entered negotiations with Oman about a month ago and reached agreements on each country's share of the strait's waters and revenues.\nIf America sets aside its obstruction and returns to the memorandum of understanding, we can reopen the strait within the agreed framework. \nOur conditions must be accepted.\nIf America does not accept our conditions, the Strait of Hormuz will absolutely not be reopened.",
+      "text": "Trump on Iran:\nWe got rid of the mines. But the strait, it\u2019s functioning, it\u2019s a functioning strait. \nYes, every once in a while there will be a drone or a rocket or something shot, but it is a very functioning strait. \nA lot of oil is pouring out.\n10 million barrels yesterday.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-26T11:47:12+00:00",
+      "timestamp": "2026-08-26T13:23:35+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
         "Clash Report"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Dubai's airport saw passenger traffic drop 31% in the first half of 2026 to 31.5 million, down from 46 million, after Iran War triggered closures, cancellations, and airspace restrictions across the Gulf.\nMarch was the low point with a 65% year-on-year drop.\nOnly about 50 of the usual 90 international airlines were operating by mid-year. \nThe airport had been on track for 100 million passengers after a record 95.2 million in 2025.\nSource: Reuters",
+      "text": "Chinese AI firm MizarVision published satellite imagery appearing to show a dispersed Taiwan Sky Bow III air defense deployment near a civilian fishing port south of Kaohsiung, dated around August 12.\nThe images label a missile launcher, mobile phased-array radar, and resupply vehicle positioned at Fengbitou Fishing Port.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-26T09:42:54+00:00",
+      "timestamp": "2026-08-26T12:49:45+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -550,7 +549,7 @@
       "verification_confidence": 65,
       "verified_sources": [
         "Alsaa Plus EN",
-        "Clash Report"
+        "Geopolitics Prime"
       ],
       "verified_source_count": 2
     },
@@ -573,6 +572,25 @@
         "Geopolitics Prime"
       ],
       "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ufe0f\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6 A rare footage of the Russian jet-powered Geran-5 loitering munition/cruise missile over Ukraine, this time over Chernihiv, with the strike reportedly targeting a warehouse.\nFootage documenting Geran-5 strikes has become increasingly frequent in recent weeks, suggesting that the system is moving beyond its initially limited deployment and is being fielded at a growing rate.\nThe latest appearance is particularly notable alongside the simultaneous surge in Banderol and Geran-4 usage. All three systems were comparatively scarce additions to Russia's long-range arsenal only recently, but are now appearing with increasing regularity across multiple regions of Ukraine, reinforcing indications of a broader expansion in Russia's ability to sustain larger and more frequent strike packages.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-26T13:07:00+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -706,6 +724,26 @@
         "CASELS"
       ],
       "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddee\ud83c\uddf7 Iran's IRGC: \u2018We\u2019ve reached agreement with Oman on each country's share of Hormuz Strait's waters and revenues\u2019\nKey takeaways from Spokesperson for the Revolutionary Guard, Brigadier General Hossein Mohebi\u2019s statement:\n\ud83d\udd34 We control the Strait of Hormuz\n\ud83d\udd34 No enemy military vessel is inside the Persian Gulf. All enemy warships have moved at least 400 km away from the strait\n\ud83d\udd34 If the US sets aside its obstruction and returns to the memorandum of understanding, we can reopen the strait within the agreed framework\n\ud83d\udd34 Our conditions must be accepted. If the US does not accept our conditions, the Strait of Hormuz will absolutely not be reopened\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-26T13:34:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
