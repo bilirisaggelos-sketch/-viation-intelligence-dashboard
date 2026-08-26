@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T04:57:40.710199+00:00",
+  "generated_at": "2026-08-26T05:42:49.957248+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -658,25 +658,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-25T11:41:05+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddfa\ud83c\uddf8\u274c\ud83c\uddee\ud83c\uddf7 \u2014 U.S. President Donald Trump via Truth Social:\n The failing Islamic Republic of Iran is not paying large segments of their military, while at the same time killing protesters, even when they are not protesting, at levels not seen before. It is a humanitarian crisis of epic proportions, and must be stopped, NOW. President DONALD J. TRUMP\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-25T11:30:54+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
