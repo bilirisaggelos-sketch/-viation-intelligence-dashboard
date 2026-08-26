@@ -1,6 +1,25 @@
 {
-  "generated_at": "2026-08-26T01:45:47.018027+00:00",
+  "generated_at": "2026-08-26T03:12:18.924977+00:00",
   "events": [
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nLaurel, MD, Thursday, August 27, 2026 Local\nFacility: ZDC",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "08/26/2026",
+      "location": "ZDC MD",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nSeattle, WA, Wednesday, August 26, 2026 Local\nFacility: ZSE",
@@ -374,12 +393,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "Clash Report"
+        "Clash Report",
+        "Geopolitics Prime"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -761,6 +781,26 @@
         "CASELS"
       ],
       "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\u2620\ufe0f CIA spy web gets a billion-dollar lesson from Iran\nIranian missile and drone strikes have caused unprecedented damage to US intelligence sites and surveillance hardware across the Middle East, forcing Congress to hunt for billions of dollars to patch up America\u2019s battered spy network, NBC News reported.\nCIA-linked facilities, radar systems and surveillance equipment shared with the US military were hit across the region, American media reported.\nFor decades, US spies operated across the Middle East like the region was their private backyard. Then Iran started punching holes through the empire\u2019s surveillance grid.\n\ud83d\udcac \u201cThe U.S. walked into this war and had not sufficiently thought through base defense in any way, shape or form,\u201d Seth Jones of CSIS said.\n\ud83d\udcac \u201cAnd we got hammered.\u201d\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-26T02:57:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Clash Report",
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
