@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T11:36:09.459991+00:00",
+  "generated_at": "2026-08-26T12:16:57.651876+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -422,69 +422,32 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
+      "text": "Iran's IRGC on the Strait of Hormuz:\nThe Strait of Hormuz is under our control. \nNo enemy military vessel is inside the Persian Gulf. All enemy warships have moved at least 400 km away from the strait.\nWe entered negotiations with Oman about a month ago and reached agreements on each country's share of the strait's waters and revenues.\nIf America sets aside its obstruction and returns to the memorandum of understanding, we can reopen the strait within the agreed framework. \nOur conditions must be accepted.\nIf America does not accept our conditions, the Strait of Hormuz will absolutely not be reopened.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-26T11:47:12+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Clash Report"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
       "text": "Dubai's airport saw passenger traffic drop 31% in the first half of 2026 to 31.5 million, down from 46 million, after Iran War triggered closures, cancellations, and airspace restrictions across the Gulf.\nMarch was the low point with a 65% year-on-year drop.\nOnly about 50 of the usual 90 international airlines were operating by mid-year. \nThe airport had been on track for 100 million passengers after a record 95.2 million in 2025.\nSource: Reuters",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-26T09:42:54+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "France is pushing to limit Ukraine's ability to buy non-European military equipment with EU loan money, seeking to steer the \u20ac60 billion defense portion of the EU's \u20ac90 billion support package toward European and French producers.\nUkraine has secured two exemptions so far: one for Chinese drone components and another for US Patriot interceptor missiles. \nFrance wants these exemptions to be temporary, with European suppliers replacing foreign ones as production ramps up.\nNine EU countries including Germany, Sweden, and Poland pushed back, calling for Ukraine to have \"maximum flexibility to procure the equipment it urgently needs.\"\nFrance has a clear commercial interest: its Franco-Italian SAMP/T system is Europe's closest alternative to the US Patriot.\nSource: Euronews",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-26T09:22:14+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Russia's new jet-powered Shahed drones fly at 300 mph, three times faster than the classic propeller version, and they exist because of Chinese engines.\nUkrainian wreckage analysis traces the turbojets to Shenzhen-based Telefly Telecommunications Equipment. \nAfter Ukraine publicized the link, Telefly removed the turbojet section from its English website. \nIt remained on Chinese-language pages.\nThe jet variants are a serious problem because Ukraine intercepts over 90% of the slow propeller Shaheds with cheap drones. \nThe jet versions outrun those interceptors and require scarce missiles or fighter jets to stop.\nChinese-origin parts now make up roughly 60-65% of recovered Shaheds. \nBeijing maintains it does not send \"lethal weapons,\" classifying the components as dual-use. \nSome engines were shipped disguised as industrial refrigeration units.\nSource: WSJ",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-26T09:11:59+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Australia\u2019s reliance on U.S.-made missiles is becoming a strategic vulnerability as the Iran war drains American stockpiles. \nAnalysts warn deliveries of weapons such as Tomahawks could be delayed, leaving Australia exposed in a potential Indo-Pacific conflict.\nCanberra is accelerating domestic missile production, with new factories planned and locally made Naval Strike and Joint Strike Missiles expected from 2027. \nBut critics say Australia is still moving too slowly and remains heavily dependent on U.S. supplies.\nSource: POLITICO",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-26T08:55:20+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -574,6 +537,26 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddfa\ud83c\uddf8\u26a1\ufe0f \u2014 Iran's IRGC on the Strait of Hormuz:\nThe Strait of Hormuz is under our control. \nNo enemy military vessel is inside the Persian Gulf. All enemy warships have moved at least 400 km away from the strait.\nWe entered negotiations with Oman about a month ago and reached agreements on each country's share of the strait's waters and revenues.\nIf America sets aside its obstruction and returns to the memorandum of understanding, we can reopen the strait within the agreed framework. \nOur conditions must be accepted.\nIf America does not accept our conditions, the Strait of Hormuz will absolutely not be reopened.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-26T11:49:40+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Clash Report"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
       "text": "\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddfa\ud83c\uddf8\u2014 Iranian missile and drone attacks caused unprecedented damage to U.S. intelligence facilities and surveillance equipment across the Middle East, according to NBC News.\nThe destruction exceeds anything previously suffered by U.S. intelligence agencies and is expected to cost billions of dollars to repair.\nThe attacks have also exposed weaknesses in the defenses protecting U.S. bases and sensitive intelligence sites, prompting American officials to reconsider how these facilities are secured.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -593,70 +576,13 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddfe\ud83c\uddea\ud83c\uddfe\ud83c\uddea \nLeader of Yemen's Ansarullah:\nSaudi Arabia has closed our airports to our people, but has opened the skies of Mecca and Medina to the Zionists.\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-25T13:50:17+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddfe\ud83c\uddea\ud83c\uddfe\ud83c\uddea \nLeader of Yemen's Ansarullah: \nWe will spare no effort in supporting the Palestinian people and their fighters until the divine promise of the destruction of the Zionist regime is fulfilled.\nWe emphasize that we stand with the Muslim people of Iran and will continue to strengthen the principle of \"axis convergence\" and cooperation among the resistance front.\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-25T13:48:30+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6 \u2014 Ukrainian President Volodymyr Zelensky:\nWe received confirmation \u2014 I will not say from which country \u2014 of several Crotale air-defense systems and missiles for them. We also received AIM missiles. These are very important missiles for us; we use them to shoot down enemy missiles. And, frankly, I also won\u2019t say from whom, but a few more Patriot missiles have arrived. How many? I cannot say. But we need more. We need more.\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-25T12:57:02+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Mediterranean Man",
-      "text": "\u26a1\ufe0f\ud83c\uddf8\ud83c\uddfe\ud83c\udde6\ud83c\uddf9\ud83c\udde9\ud83c\uddf0 Syrian Air has announced the start of direct and regular flights between Damascus and both Vienna and Copenhagen, effective from September 21 next.",
+      "text": "who doesn't casually carry 3 anti tank missiles in his car? smh",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-25T14:37:43+00:00",
+      "timestamp": "2026-08-26T12:09:44+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -670,12 +596,12 @@
     {
       "title": "Telegram",
       "publisher": "Mediterranean Man",
-      "text": "\u26a1\ufe0f\ud83c\udde9\ud83c\uddea German detectives/security officials found and captured a drone packed with explosives in one of their airports.\nThis is the third drone w/explosives that they capture this month.\nThey suspect that these belonged to Russian intelligence, however, Russia denys such claims.",
+      "text": "\u26a1\ud83c\uddeb\ud83c\uddf7\ud83c\uddee\ud83c\uddf9R\u00e9gis Claude Albert Normand, 46, was detained at Bari port after Italian Financial Police found three Akeron anti-tank missiles and launch tubes in his van.\nHe arrived from Greece, claiming to return the weapons to France for MBDA after repairs, but was placed in preventive detention due to document anomalies and lack of transport authorization. \nThe missiles displayed blue training stripes, but the Italian army found these were removable adhesive tape concealing original yellow and black explosive markings.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-25T11:16:29+00:00",
+      "timestamp": "2026-08-26T12:09:26+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -778,6 +704,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udd51 Elon Musk: war machine\u2019s indispensable hawk in dove\u2019s clothing\nVolodymyr Zelensky has awarded Elon Musk Ukraine\u2019s \u2018Order of Freedom\u2019 \u201cfor outstanding personal merits in protecting human life and freedom and developing relations\u201d between Ukraine and the US.\n\ud83d\udc49 The award puts him in an elite club of war pigs, including Boris Johnson (the guy who convinced Kiev not to make peace in 2022, dooming hundreds of thousands of people to death, and turning Ukraine into a failed state), Emmanuel Macron, Mette Frederiksen, and others fueling NATO\u2019s \u2018to the last Ukrainian\u2019 proxy war against Russia.\nThe gesture comes amid Zelensky\u2019s lobbying to get Musk to remove geofencing restrictions and allow Starlink to be used for drone and missile strikes deep into Russian territory.\n\ud83d\udccc As things stand, Musk\u2019s satellite internet service is already being used across the front, from Kherson and Zaporozhye to the Donbass and Crimea, and 15-30km into other Russian territories, facilitating attacks on military forces and civilian infrastructure alike.\nFrom FPV relay drones and long-range strike navigation to unmanned ground vehicles, theatre command, artillery correction, and naval drone strike fleets, Starlink is the Ukrainian military\u2019s digital backbone. Without it, Kiev\u2019s drone war would collapse in hours, and the frontline in weeks.\n\ud83e\udd14 Isn\u2019t it odd that the same tech billionaire who proposed a Russia-Ukraine peace plan in October 2022, said he was \u201csickened by\u2026years of slaughter in a stalemate that Ukraine will inevitably lose,\u201d and dubbed the war a pointless \u201cmeat grinder\u201d serving \u201cwarmonger profiteers\u2019,\u201d keeps fueling it? \nHow much does Musk make off Ukraine?\nStarlink doesn\u2019t report revenues from its Ukrainian contracts. Musk revealed $20M in monthly operational costs in late 2022 \u2013 which were picked up by the US and NATO partners from mid-2023 on. In 2024, media uncovered a secret $537M DoD contract to keep Starlink on in Ukraine through 2027. That means Musk could be sitting on between ~$750M-$1B in revenues from Starlink\u2019s Ukraine dossier.\nThat\u2019s not counting the service\u2019s use in other US and US-backed conflicts, including:\n\ud83d\udd34 Iran, where [Starlink was central to efforts to coordinate violent thugs](https://t.me/geopolitics_prime/65291) trying to instigate a civil war in January 2026, and by the US and Israeli militaries for battlefield communications and targeting. Separately, Musk\u2019s[ Grok was integrated into the Pentagon\u2019s Project Maven AI-assisted kill chain.](https://t.me/geopolitics_prime/71058)\n\ud83d\udd34 Israel\u2019s wars elsewhere across the Middle East, facilitating battlefield connectivity and its killer drones.\n\u00a0\nFor a guy who enthusiastically supported Trump\u2019s \u201cno more wars\u201d pledge in 2024, Musk sure has been willing to rake in profits from the military-industrial complex\u2019s global war machine. Maybe that\u2019s inevitable when you make [a deal with the devil.](https://t.me/geopolitics_prime/62113)\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-26T12:03:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
