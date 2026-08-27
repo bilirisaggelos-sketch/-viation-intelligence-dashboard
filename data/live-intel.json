@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T22:25:42.008565+00:00",
+  "generated_at": "2026-08-27T03:30:17.337447+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -517,6 +517,44 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
+      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8\ud83c\uddf7\ud83c\uddfa\ud83c\uddee\ud83c\uddf7 \u2014 CIA Director John Ratcliffe used a rare, unannounced visit to Moscow this week to warn Russian officials against any escalatory action against NATO allies \u2014 particularly Estonia, Latvia, and Lithuania \u2014 and to press Russia to reduce military and economic support for Iran, according to Politico.\n\u27a1\ufe0f The trip marked the first known visit to Moscow by a CIA director under Trump. The C-17 military plane that flew Ratcliffe into the Russian capital took off from Latvia, according to flight-tracking data. A source said the meeting was \"primarily to warn Russia against any escalatory action against the Baltic states.\"\n\u27a1\ufe0f Ratcliffe also raised Iran, conveying a desire for Moscow to stop sharing weapons and defense technology with Tehran and advising against \"overreacting\" if affected by expanded U.S. sanctions. Treasury Secretary Scott Bessent on Monday threatened significantly broader sanctions on countries refusing to cut economic ties with Iran. Russia has reportedly shipped material to Iran for its drone arsenal and may be helping Tehran target U.S. facilities.\n\u27a1\ufe0f Trump described the visit as \"semi-routine\" but acknowledged it was about ending the war: \"I hate to disappoint people. We would like to see the war with Ukraine end.\" Ratcliffe is generally viewed as a hawk on Russia, and the trip marks the latest instance of Trump deploying his CIA director to navigate tense diplomacy with major adversaries \u2014 following a secret visit to Cuba in May. The visit comes amid intensifying Russian strikes on Ukraine and threats against NATO countries, sparking fears of aggressive hybrid warfare or limited military action against allies, including the UK.\n\u2b50\ufe0f Follow",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-27T01:14:59+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83d\udea8\ud83c\uddf7\ud83c\uddfa Russia's Submarine Built To Launch Poseidon Nuclear Drones Begins Sea Trials\nRussia\u2019s Project 09851 Khabarovsk special-purpose nuclear submarine appears to have begun its first factory sea trials after being photographed leaving Severodvinsk on August 17. The voyage takes Russia\u2019s first submarine designed from the outset around the Poseidon underwater weapon from shipyard construction into at-sea testing.\n\ud83d\udd38 Khabarovsk was laid down at Sevmash on July 27, 2014. It was rolled out of its construction hall on November 1, 2025, and physically lowered into the water later that month before undergoing final outfitting and dockside tests.\n\ud83d\udd38 Russia\u2019s Defense Ministry said the submarine was built to deploy modern underwater weapons, including robotic systems. Its detailed specifications remain classified, but it is widely assessed to carry up to six Poseidon vehicles.\n\ud83d\udd38 Poseidon is an autonomous, nuclear-powered and nuclear-capable underwater drone designed to travel across intercontinental distances. Instead of flying through the radar and interceptor networks built to detect ballistic missiles, it approaches its target beneath the ocean.\n\ud83d\udd38 In October 2025, President Vladimir Putin announced that Russia had launched a Poseidon from a carrier submarine and activated its onboard nuclear reactor for the first time. The vehicle then operated under its own nuclear power for a period of time, demonstrating that the system had progressed beyond launch-only testing.\n\ud83d\udd38 The challenge for the United States begins before Poseidon even enters the water. Preventing a launch would require the U.S. Navy to locate and continuously track Khabarovsk across an enormous ocean area without losing contact with the submarine.\n\ud83d\udd38 Once released, Poseidon creates a separate detection problem. American forces would have to find and follow a fast, deep-running autonomous vehicle traveling along an unpredictable underwater route that existing missile-defense interceptors cannot cover.\n\ud83d\udd38 Russia already operates Belgorod, a converted Oscar-class submarine accepted by the Navy in 2022 and used as the first Poseidon carrier. Khabarovsk is more significant because it is the first submarine designed from the keel up specifically to deploy the weapon.\nKhabarovsk must still complete factory and state trials before entering service, but its first voyage marks the transition from construction to an active sea-testing program. Once commissioned, it would give Russia a dedicated platform capable of delivering strategic nuclear weapons along ocean routes outside the architecture of U.S. missile defense.\nDoes the U.S. have any realistic way to stop Poseidon once Khabarovsk launches it?\n us on X](https://x.com/NewRulesGeo?t=6cJ2ZyQr-1f_lBvKPNggKw&s=09)",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-26T23:52:22+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
       "text": "\ud83c\uddf7\ud83c\uddfa\u274c\ud83c\uddfa\ud83c\udde6 \u2014 Russian media outlet Rybar released a combat narrative detailing a late December 2025 operational engagement near Kostyantynivka involving a captured T-72 tank \u2014 Rybar.\n\u27a1\ufe0f The vehicle, equipped with heavy \"Kolyan-armor\" and operated by a three-man crew under 23-year-old commander \"Kavkaz\", advanced deep into hostile territory while sustaining direct FPV drone strikes and artillery impacts.\n\u27a1\ufe0f A subsequent direct strike severed the tank's track and cut vehicle power, leaving the crew immobilized in an open field beyond friendly lines.\n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
@@ -535,173 +573,191 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddfa\ud83c\uddf8\u26a1\ufe0f \u2014 Iran's IRGC on the Strait of Hormuz:\nThe Strait of Hormuz is under our control. \nNo enemy military vessel is inside the Persian Gulf. All enemy warships have moved at least 400 km away from the strait.\nWe entered negotiations with Oman about a month ago and reached agreements on each country's share of the strait's waters and revenues.\nIf America sets aside its obstruction and returns to the memorandum of understanding, we can reopen the strait within the agreed framework. \nOur conditions must be accepted.\nIf America does not accept our conditions, the Strait of Hormuz will absolutely not be reopened.\n\u26aa\ufe0f",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6 Missile attack on an oil refinery in the city of Kremenchuk, central Ukraine.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-26T11:49:40+00:00",
+      "timestamp": "2026-08-27T00:08:13+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "Ballistic missiles to Poltava too.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-27T00:06:26+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6 At least six ballistic missiles struck Kiev.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-27T00:05:46+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ufe0f\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6 3 Russian Oniks SuperSonic Cruise missiles on Odessa",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-27T00:05:26+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6 Ballistic missiles to Kiev.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-27T00:01:32+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6 The Russians also used ballistic missiles.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-26T23:58:29+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ufe0f\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6A Massive strike on Odessa has started with at least 5 Banderol Cruise missiles with being fired with more Launches detected from the Black Sea fleet \nTactical aviation may also take part in the attack with their own Cruise missiles.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-26T23:47:23+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "\u26a1\ufe0f\ud83c\uddfe\ud83c\uddea\ud83c\uddfe\ud83c\uddea The Houthis claim to have targeted a Saudi drone over Ibb. \n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-27T03:29:26+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udd25 Russian strike turns Ukrainian drone workshop in Kherson into a fireball\nRussian Aerospace Forces struck storage and production facilities at the Djerelo plant in Kherson, where weapons and military equipment were stored and drones were assembled, Russian media reported.\nThe strike hit the target, triggering a powerful explosion and a major fire at the site.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-27T02:56:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
         "Geopolitics Prime"
       ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ufe0f\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6 A rare footage of the Russian jet-powered Geran-5 loitering munition/cruise missile over Ukraine, this time over Chernihiv, with the strike reportedly targeting a warehouse.\nFootage documenting Geran-5 strikes has become increasingly frequent in recent weeks, suggesting that the system is moving beyond its initially limited deployment and is being fielded at a growing rate.\nThe latest appearance is particularly notable alongside the simultaneous surge in Banderol and Geran-4 usage. All three systems were comparatively scarce additions to Russia's long-range arsenal only recently, but are now appearing with increasing regularity across multiple regions of Ukraine, reinforcing indications of a broader expansion in Russia's ability to sustain larger and more frequent strike packages.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-26T13:07:00+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
       "verified_source_count": 1
     },
     {
       "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "who doesn't casually carry 3 anti tank missiles in his car? smh",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udd25 WATCH: Houthis drop Saudi spy drone over Yemen\nYemen\u2019s Houthis cleared the skies of a Saudi reconnaissance drone over Ibb Governorate, Tasnim reported.\nFootage shared by Naya reportedly shows the Saudi drone entering a steep dive over the Yemeni city of Ibb before hitting the ground in a vivid explosion.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-26T12:09:44+00:00",
+      "timestamp": "2026-08-26T22:36:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddeb\ud83c\uddf7\ud83c\uddee\ud83c\uddf9R\u00e9gis Claude Albert Normand, 46, was detained at Bari port after Italian Financial Police found three Akeron anti-tank missiles and launch tubes in his van.\nHe arrived from Greece, claiming to return the weapons to France for MBDA after repairs, but was placed in preventive detention due to document anomalies and lack of transport authorization. \nThe missiles displayed blue training stripes, but the Italian army found these were removable adhesive tape concealing original yellow and black explosive markings.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-26T12:09:26+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "\u2757\ufe0fUkrainian drones struck the LUKOIL-Nizhegorodnefteorgsintez refinery in Kstovo, Nizhny Novgorod region, overnight. The refinery, one of Russia's largest, has a processing capacity of around 17 million tons of oil per year and produces gasoline, diesel, aviation fuel, lubricants and other petroleum products.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-26T06:47:13+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "WEEKLY STRIKE TRACK REPORT\n\ud83d\uddd3\ufe0fAugust 17 \u2013 August 23, 2026\n\ud83c\uddf7\ud83c\uddfaRussian Attacks on Ukraine:\n\ud83d\udee9\ufe0fDrone strikes\n\u2022 987 UAVs (Geran-2, Geran-3, Geran-4, Geran-5 Gerbera, Banderol, Italmas, and other types) launched from Shatalovo, Navlya, Khalino, Tsumbulova, Millerovo, Primorsko-Akhtarsk, Hvardiiske, Donetsk Airport.\n\u2022 804 UAVs Neutralised.\nSource: Ukrainian Air Force, \n \ud83d\ude80Missile strikes:\n~ 117 missiles launched from Crimea, Vologda Oblast, Bryansk Oblast, Black Sea, Kursk Oblast, Voronezh Oblast, Rostov Oblast, Donetsk Oblast, Zaporizhzhia Oblast, Novorossiysk.\n~ 39 missiles intercepted.\nBreakdown by missile type:\n- 38 Kh-101 cruise missiles\n- 24 Iskander-M/S-400 ballistic missiles\n- 17 Kh-59/69 cruise missiles\n- 13 Zircon hypersonic cruise missiles\n- 11 Kh-31P supersonic anti-radar missiles\n- 8 Kalibr cruise missiles\n- 2 Kn-23 ballistic missiles\n- 2 modified S-300 ballistic missiles\n- 2 Kh-22/32 supersonic cruise missiles\n\ud83d\udca5Airstrikes:\n\u2022 1,737 KAB/UMPK strikes\n\ud83e\uddcd\u200d\u2642\ufe0fCivilian casualties:\n\u2022 154 killed \n\u2022 970 injured \nSource:",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-26T06:27:49+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "Drones reportedly attacked an oil refinery in Kstovo, in Russia's Nizhny Novgorod region. The refinery, Nizhegorodnefteorgsintez, is LUKOIL's largest plant and ranks fourth in Russia by capacity and second for gasoline production. \nIt processes around 15 million tons of crude oil each year and produces about 5 million tons of gasoline.\n#hm #hmintelligence",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-26T06:27:41+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "Ukrainian drones struck the Wildberries logistics hub in Kotovsk, Tambov Oblast, overnight, leaving the complex heavily ablaze. The complex covers approximately 108,000 m2 and is designed to store up to 54 million items.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-26T06:27:26+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "Ukraine's air defenses downed or suppressed 134 of 162 hostile drones launched overnight, including Shahed, Gerbera and Parodiya decoys. Strikes were recorded at 18 locations, with debris falling at 3.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-26T06:27:15+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
@@ -793,13 +849,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
         "Geopolitics Prime"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -829,25 +884,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-26T07:22:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udea8\ud83c\uddf7\ud83c\uddfa Russia\u2019s reactive Gerans hammer Ukrainian targets\nAt least five impacts were recorded:\n\ud83d\udd34 Zaporozhye \u2013 industrial facility hit\n\ud83d\udd34 Romanovka area near Dnepropetrovsk \u2013 struck by Universal Planning and Correction Modules (UMPK), which turn dumb bombs into precision-guided munitions\n\ud83d\udd34 Pavlograd \u2013 targeted by reactive Geran drones\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-26T04:30:24+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
