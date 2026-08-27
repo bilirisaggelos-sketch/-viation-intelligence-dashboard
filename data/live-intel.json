@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T03:30:17.337447+00:00",
+  "generated_at": "2026-08-27T14:36:26.148570+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -41,25 +41,6 @@
     },
     {
       "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nSeattle, WA, Wednesday, August 26, 2026 Local\nFacility: ZSE",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "08/25/2026",
-      "location": "ZSE WA",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nHuntsville, AL, Wednesday, August 26, 2026 through Thursday, August 27, 2026 Local\nFacility: ZME",
       "source": "FAA",
       "source_type": "official",
@@ -87,25 +68,6 @@
       "icon": "\ud83d\udea8",
       "timestamp": "08/24/2026",
       "location": "ZHU TX",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nMacon, GA, Wednesday, August 26, 2026 through Thursday, August 27, 2026 Local\nFacility: ZTL",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "08/24/2026",
-      "location": "ZTL GA",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
@@ -287,6 +249,25 @@
       "verified_source_count": 1
     },
     {
+      "title": "Space Weather Message Code: ALTEF3\r",
+      "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3730\r\nIssue Time: 2026 Aug 27 0934 UTC\r\n\r\nCONTINUED ALERT: Electron 2MeV Integral Flux exceeded 1,000pfu\nContinuation of Serial Number: 3729\nBegin Time: 2026 Aug 21 1105 UTC\nYesterday Maximum 2MeV Flux: 1049 pfu\nMax time: 2026 Aug 27 0925 UTC",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-08-27 09:34:30.553",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
       "title": "Space Weather Message Code: WATA30\r",
       "text": "Space Weather Message Code: WATA30\r\nSerial Number: 280\r\nIssue Time: 2026 Aug 26 1636 UTC\r\n\r\nWATCH: Geomagnetic Storm Category G2 Predicted \nHighest Storm Level Predicted by Day:\nAug 27: G1 (Minor) Aug 28: G2 (Moderate) Aug 29: G2 (Moderate) \nTHIS SUPERSEDES ANY/ALL PRIOR WATCHES IN EFFECT\nComment: HSS on 27 + CMEs on 28-29.\nCORRECTED\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 55 degrees Geomagnetic Latitude.\r\nInduced Currents - Power grid fluctuations can occur. High-latitude power systems may experience voltage alarms.\r\nSpacecraft - Satellite orientation irregularities may occur; increased drag on low Earth-orbit satellites is possible.\r\nRadio - HF (high frequency) radio propagation can fade at higher latitudes.\r\nAurora - Aurora may be seen as low as New York to Wisconsin to Washington state.",
       "source": "NOAA Space Weather",
@@ -363,71 +344,14 @@
       "verified_source_count": 1
     },
     {
-      "title": "Space Weather Message Code: WATA30\r",
-      "text": "Space Weather Message Code: WATA30\r\nSerial Number: 280\r\nIssue Time: 2026 Aug 25 1838 UTC\r\n\r\nWATCH: Geomagnetic Storm Category G2 Predicted \nHighest Storm Level Predicted by Day:\nAug 26: None (Below G1) Aug 27: G1 (Minor) Aug 28: G2 (Moderate) \nTHIS SUPERSEDES ANY/ALL PRIOR WATCHES IN EFFECT\nComment: HSS on 27 Aug + CMEs on 28 Aug. \n\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 55 degrees Geomagnetic Latitude.\r\nInduced Currents - Power grid fluctuations can occur. High-latitude power systems may experience voltage alarms.\r\nSpacecraft - Satellite orientation irregularities may occur; increased drag on low Earth-orbit satellites is possible.\r\nRadio - HF (high frequency) radio propagation can fade at higher latitudes.\r\nAurora - Aurora may be seen as low as New York to Wisconsin to Washington state.",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-08-25 18:38:26.480",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Far-right Israeli lawmaker damages Palestinian memorial with sledgehammer",
-      "text": "Far-right Israeli lawmaker damages Palestinian memorial with sledgehammer\nZvi Sukkot's actions have drawn widespread condemnation, including from Israeli Prime Minister Benjamin Netanyahu.",
-      "source": "BBC",
-      "source_type": "osint",
-      "publisher": "BBC World News",
-      "severity": "info",
-      "icon": "\ud83d\udcf0",
-      "timestamp": "2026-08-26T08:17:45+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "BBC World News"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Germany's Merz warns attackers will 'pay price' after drone incident",
-      "text": "Germany's Merz warns attackers will 'pay price' after drone incident\nA drone attack on Leipzig Airport highlights the \"very real threat\" faced by the country, the German chancellor says.",
-      "source": "BBC",
-      "source_type": "osint",
-      "publisher": "BBC World News",
-      "severity": "info",
-      "icon": "\ud83d\udcf0",
-      "timestamp": "2026-08-25T17:12:21+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "BBC World News"
-      ],
-      "verified_source_count": 1
-    },
-    {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "U.S. intelligence says the explosive drone found at Leipzig airport on Aug. 4, 2026, had features typical of devices used by Russia\u2019s GRU military intelligence. \nOfficials suspect it was part of a Russian sabotage effort aimed at disrupting weapons shipments to Ukraine, though Moscow denies involvement and Germany has not yet publicly assigned blame.\nSource: ABC News",
+      "text": "Saudi Arabia appears to be preparing for a renewed war with the Houthis after weeks of attacks on Saudi ships, airports and oil facilities. \nAnalysts warn the escalation could open a new front in the Iran war.\nSaudi officials say the kingdom prefers peace but is prepared to act if attacks continue.\nSource: NYT",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-26T21:13:16+00:00",
+      "timestamp": "2026-08-27T14:26:08+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -435,6 +359,82 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "NEW: Sudan's Army deployed modern air defense systems in Damazin, Blue Nile State, after intercepting multiple drones it says were launched from Ethiopian territory in recent days.\nThe army shot down drones over the Kurmuk front on consecutive days, followed by another north of Sarkam, all crossing from the direction of Ethiopia.\nSudan has repeatedly accused Ethiopia and the UAE of supporting RSF drone operations from bases near the border.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-27T13:46:00+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "A Frenchman was arrested in southern Italy with three live Akeron anti-tank missiles and one training missile hidden in his van after disembarking a ferry from Greece.\nThe explosive warning markings on the warheads had been covered with blue tape to make the weapons look like NATO training equipment.\nThe man claimed he was transporting the missiles on behalf of their manufacturer MBDA France, saying he was returning them after repairs in Crete. \nMBDA has not commented. \nThe Akeron is a fifth-generation missile designed for ground and naval combat.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-27T12:32:05+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Our Wars Today",
+      "text": "[Russia is threatening Britain with strikes on military facilities due to the supply of weapons and technologies to the Armed Forces](https://www.pravda.com.ua/news/2026/08/27/8050577/)\nMaria Zakharova announced the possibility of Russian attacks on British military targets in Ukraine and abroad after the transfer of Storm Shadow missiles to Ukraine. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://www.pravda.com.ua/news/2026/08/27/8050577/)\n\u041e\u043b\u044c\u0433\u0430 \u041a\u043e\u0432\u0430\u043b\u044c\u0447\u0443\u043a,\u0421\u0442\u0430\u043d\u0456\u0441\u043b\u0430\u0432 \u041f\u043e\u0433\u043e\u0440\u0456\u043b\u043e\u0432 | pravda\u200b.com\u200b.ua \u2022 Aug 27, 2026",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-27T13:27:44+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Our Wars Today"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Our Wars Today",
+      "text": "[The Russians destroyed the \"Epicenter\" in Kharkiv](https://www.pravda.com.ua/news/2026/08/27/8050600/)\nA Russian jet drone hit the \"Epicentr\" hypermarket in Kharkiv: a man was killed, five people were injured. The fire was extinguished. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://www.pravda.com.ua/news/2026/08/27/8050600/)\n\u0410\u043b\u044c\u043e\u043d\u0430 \u041c\u0430\u0437\u0443\u0440\u0435\u043d\u043a\u043e | pravda\u200b.com\u200b.ua \u2022 Aug 27, 2026",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-27T13:27:36+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Our Wars Today"
       ],
       "verified_source_count": 1
     },
@@ -517,6 +517,25 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf1\u274c\ud83c\uddf5\ud83c\uddf8\ud83c\uddf1\ud83c\udde7 \u2014 Israeli Army's Chief of the General Staff LTG Eyal Zamir ordered operational advancements across all fronts following a multi-front situational assessment. \n\u27a1\ufe0f Zamir ordered the \"elevation of readiness of an additional division headquarters\" and directed immediate preparation for unit and battalion deployments to reinforce Judea and Samaria amid holiday tensions, affirming \"no reduction in operational forces\" from Iran to Lebanon and Gaza.\n\u27a1\ufe0f Addressing operational constraints, Zamir stated a lack of funding during active multi-front deployment \"harms the IDF\u2019s readiness,\" asserting the military will not engage in issues that could \"divert our focus and undermine our readiness.\"\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-27T13:16:10+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
       "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8\ud83c\uddf7\ud83c\uddfa\ud83c\uddee\ud83c\uddf7 \u2014 CIA Director John Ratcliffe used a rare, unannounced visit to Moscow this week to warn Russian officials against any escalatory action against NATO allies \u2014 particularly Estonia, Latvia, and Lithuania \u2014 and to press Russia to reduce military and economic support for Iran, according to Politico.\n\u27a1\ufe0f The trip marked the first known visit to Moscow by a CIA director under Trump. The C-17 military plane that flew Ratcliffe into the Russian capital took off from Latvia, according to flight-tracking data. A source said the meeting was \"primarily to warn Russia against any escalatory action against the Baltic states.\"\n\u27a1\ufe0f Ratcliffe also raised Iran, conveying a desire for Moscow to stop sharing weapons and defense technology with Tehran and advising against \"overreacting\" if affected by expanded U.S. sanctions. Treasury Secretary Scott Bessent on Monday threatened significantly broader sanctions on countries refusing to cut economic ties with Iran. Russia has reportedly shipped material to Iran for its drone arsenal and may be helping Tehran target U.S. facilities.\n\u27a1\ufe0f Trump described the visit as \"semi-routine\" but acknowledged it was about ending the war: \"I hate to disappoint people. We would like to see the war with Ukraine end.\" Ratcliffe is generally viewed as a hawk on Russia, and the trip marks the latest instance of Trump deploying his CIA director to navigate tense diplomacy with major adversaries \u2014 following a secret visit to Cuba in May. The visit comes amid intensifying Russian strikes on Ukraine and threats against NATO countries, sparking fears of aggressive hybrid warfare or limited military action against allies, including the UK.\n\u2b50\ufe0f Follow",
       "source": "Telegram",
       "source_type": "telegram",
@@ -554,20 +573,20 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddf7\ud83c\uddfa\u274c\ud83c\uddfa\ud83c\udde6 \u2014 Russian media outlet Rybar released a combat narrative detailing a late December 2025 operational engagement near Kostyantynivka involving a captured T-72 tank \u2014 Rybar.\n\u27a1\ufe0f The vehicle, equipped with heavy \"Kolyan-armor\" and operated by a three-man crew under 23-year-old commander \"Kavkaz\", advanced deep into hostile territory while sustaining direct FPV drone strikes and artillery impacts.\n\u27a1\ufe0f A subsequent direct strike severed the tank's track and cut vehicle power, leaving the crew immobilized in an open field beyond friendly lines.\n\u26aa\ufe0f",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6 Russians have used upgraded Iskander-1000 ballistic missiles against Kiev for the first time\n\u2013 Ukraine's GUR intelligence agency reports.\nThe missile in question is the 9M723-2, part of the Bora-M system. Thanks to an enhanced engine, it can strike targets at a range of up to 550 km, while the previous 9M723-1 version had a maximum range of 390 km.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-26T19:37:38+00:00",
+      "timestamp": "2026-08-27T11:29:00+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN"
+        "Mediterranean Man"
       ],
       "verified_source_count": 1
     },
@@ -621,12 +640,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
+        "Geopolitics Prime",
         "Mediterranean Man"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -687,32 +707,146 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ufe0f\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6A Massive strike on Odessa has started with at least 5 Banderol Cruise missiles with being fired with more Launches detected from the Black Sea fleet \nTactical aviation may also take part in the attack with their own Cruise missiles.",
+      "publisher": "CASELS",
+      "text": "More cruise missile wreckage recovered after today's strike on occupied Donetsk appears consistent with Storm Shadow/SCALP-EG. Russian occupation official Denis Pushilin also claimed the missiles were used. Other debris recovered from the strike could not be attributed to Storm Shadow/SCALP-EG, suggesting a mix of weapons may have been involved.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-26T23:47:23+00:00",
+      "timestamp": "2026-08-27T03:33:48+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Mediterranean Man"
+        "CASELS"
       ],
       "verified_source_count": 1
     },
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddfe\ud83c\uddea\ud83c\uddfe\ud83c\uddea The Houthis claim to have targeted a Saudi drone over Ibb. \n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "Aftermath in occupied Donetsk shows extensive damage after a missile and drone strike. Local reports say about 13 impacts hit Russian military sites, including a former research institute, used as a troop deployment site and headquarters. An underground parking complex reportedly used to shelter launchers and armored vehicles was hit by at least 6 missiles.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-27T03:29:26+00:00",
+      "timestamp": "2026-08-27T03:33:31+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "At least 7 missile hits were recorded in occupied Donetsk. Reports say missiles penetrated an underground parking garage where a Russian command post was allegedly located. Nearby streets were closed while survivors were evacuated. Missile fragments were recovered, but the weapon has not been identified. It could be a small cruise missile, ERAM or even a glide bomb (Vyrivniuvach).",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-27T03:33:05+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "Ukraine's Apex border guard drone unit says its FPV drones are operating on Russian territory. During the latest mission, operators detected and struck a Russian self-propelled artillery system that Russian forces had been using to provide fire support to their units.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-27T03:32:32+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "Russia has converted up to 17 S-400 launchers to strike Ukraine with RM-48U guided missiles, according to Ukraine's HUR. Five special missile groups are deployed in Russia's Bryansk and Rostov regions. Russia used about 15 RM-48Us per month from January through June, but fired 46 in the first 20 days of July. HUR estimates Russia has around 400 missiles in stock and plans to produce up to 500 more in 2026.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-27T03:32:04+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "China has become a key supply link for Russia's Shahed drones, WSJ reports. Ukrainian experts found turbojet engines from China's Telefly in newer variants that can reach about 480 km/h, roughly three times the speed of older models. Ukraine usually intercepts more than 90% of older Shaheds, but officials say the jet versions can outrun interceptor drones, forcing the use of fighters or scarce air defense missiles.\nUkrainian specialists are also finding more Chinese antennas, modems, SIM cards, servos and gyroscopes in Shaheds as Western components decline. WSJ reports that many US and European parts previously reached Iran and Russia through intermediaries and shell companies in mainland China and Hong Kong.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-27T03:31:56+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "Ukraine's HUR published an interactive 3D model of Russia's Su-35S fighter and data on 79 companies involved in its production, saying 22 remain unsanctioned by any country in the sanctions coalition. The firms are involved in engines, fuel systems, controls, communications, guidance, electronic warfare systems and missiles used by the aircraft. HUR named Rubin, Gidroavtomatika and the Oktava research institute among the companies that remain unsanctioned.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-27T03:31:31+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8\ud83c\udde9\ud83c\uddea\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfa[ABC:](https://abcnews.com/International/leipzig-airport-drone-linked-russian-military-intelligence-us/story?id=135945223) U.S. intelligence services have linked an explosive-laden drone found near a Ukrainian cargo aircraft at Leipzig Airport in Germany to Russia\u2019s GRU. \nthe drone\u2019s design and explosives were similar to characteristic of devices previously used by Russian military intelligence. \nGerman authorities have not publicly confirmed Russian responsibility, while Moscow has denied involvement.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-27T03:31:15+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -726,164 +860,32 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udca5 WATCH: Russian missiles and drones RAIN on Ukrainian targets overnight\nRussian ballistic missiles and kamikaze drones blasted Ukrainian targets overnight, with explosions reported in Odessa, Krivoy Rog, Kiev, Brovary, Kremenchug, Zaporozhye and other areas.\n\ud83c\udf0f Port and warehouse infrastructure came under attack in Odessa, Chernomorsk and Reni, with flashes lighting up the night sky and fires breaking out after the strikes.\n\ud83c\udf0f Industrial facilities in Krivoy Rog were hit, with at least 10 explosions reported in the city and NASA satellite data pointing to fires at Krivoy Rog Cement and ArcelorMittal Krivoy Rog.\n\ud83c\udf0f New jet-powered drones, possibly Geran-5, struck Kiev and the region, with fires reported in the Nazi capital and strikes around Brovary and Boryspol, Ukrainian Telegram channels reported.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-27T04:28:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Geopolitics Prime",
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
       "text": "\ud83d\udd25 Russian strike turns Ukrainian drone workshop in Kherson into a fireball\nRussian Aerospace Forces struck storage and production facilities at the Djerelo plant in Kherson, where weapons and military equipment were stored and drones were assembled, Russian media reported.\nThe strike hit the target, triggering a powerful explosion and a major fire at the site.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-27T02:56:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udd25 WATCH: Houthis drop Saudi spy drone over Yemen\nYemen\u2019s Houthis cleared the skies of a Saudi reconnaissance drone over Ibb Governorate, Tasnim reported.\nFootage shared by Naya reportedly shows the Saudi drone entering a steep dive over the Yemeni city of Ibb before hitting the ground in a vivid explosion.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-26T22:36:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8 Iran wipes out US intelligence footprint in the Middle East\n\u00a0\n\ud83d\udd0a Sophisticated surveillance equipment and facilities used by the CIA and other intelligence agencies suffered \u201cunprecedented damage\u201d in the wake of Iran\u2019s retaliation to US-Israeli aggression, an NBC News report citing four separate sources says.\nThe damage is expected to cost \u201cbillions of dollars to repair,\u201d and is \u201cmore extensive than any destruction\u201d the agencies have ever endured.\nThe Iran war as a whole proved [one giant intelligence fiasco for the US and Israel](https://t.me/geopolitics_prime/73599), which not only failed to achieve Netanyahu\u2019s decades-old dream of regime change, but got caught almost literally with their pants down when it came to predicting[ Iran\u2019s military response ](https://t.me/geopolitics_prime/66035)\u2013 which included the lightning targeting of US radar installations in Arab Gulf states, blinding CENTCOM\u2019s defenses across the whole region.\nIranian intelligence proved so precise it was able[ to track US troops](https://t.me/geopolitics_prime/73497) down to swanky Gulf hotels, while the US naval armada assembled to destroy Iran was forced to stay hundreds of km from shore to avoid being targeted by drones and missiles.\n\u27a1\ufe0f [CIA facilities across the region were hit](https://t.me/geopolitics_prime/66053), including a base station inside the US Embassy compound in Riyadh, which reportedly caused \u201csignificant\u201d \u201cstructural damage,\u201d and facilities in Iraqi Kurdistan \u2013 tasked with coordinating a popular uprising and guerrilla war inside Iran which never materialized.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-26T21:48:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udca5 Houthis slam Saudi-backed mercenaries in al-Mokha\nYemen\u2019s Ansar Allah forces launched missile strikes on Saudi-backed positions in the al-Mokha area, with reports of explosions at sites used by Saudi proxy militias.\nThe strikes reportedly hit the port of Mokha and positions south of al-Khokha, where Saudi-backed forces had gathered and tried to use the area as a refuge.\n\ud83d\udcac \u201cThe Saudi enemy will find no safe place for its mercenaries in our country,\u201d a member of Ansar Allah\u2019s political bureau warned on X.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-26T20:45:21+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddee\ud83c\uddf1\ud83d\udcb5 Israeli MoD, MIC caught funneling millions into US top schools\u2019 advanced military research\n\u00a0Israel\u2019s defense establishment has poured over $15M in unreported cash into American universities from 2004-2025, violating federal law by failing to report the money to a national database tracking foreign funding in US schools.\nA Dropsite News analysis of audit records, funding disclosures, acknowledgements in papers and other documents manually uncovered the $15M \u2013 and indicated that\u2019s only part of the total sum, since some records do not provide amounts at all.\n\ud83d\udc49 Money was disbursed via research grants and contracts, tuition payments, and other monetary gifts. Recipients include many of America\u2019s top research schools: Columbia, Cornell, Harvard, Princeton, UCLA and others.\nTop contributors include Israel\u2019s Ministry of Defense, Elbit Systems, Rafael and Israel Aerospace Industries, which sponsored a broad array of advanced defense technology research in fields including\n\ud83d\udca3 guided missile weaponry\n\ud83d\udca3 superconducting quantum interference devices for ultra-long-range submarine detection\n\ud83d\udca3 surveillance algorithms and use of big data to target adversaries online\n\ud83d\udca3 3D printing of electromechanical components\n\ud83d\udca3 micro-drones and autonomous flight\n\ud83d\udca3 computer vision-assisted analysis and targeting ID\n\ud83d\udca3 directed energy weapons\n\u00a0\nIsrael has been gaining access to these advanced technologies, \u201cwhich have bolstered its capacity to commit genocide in Gaza, carry out a brutal occupation of Lebanon, and spark a war with Iran that has escalated to a regionwide conflict,\u201d for \u201crelatively small sums \u2013 like the price of funding a single PhD,\u201d US arms industry expert William Hartung said.\n\u27a1\ufe0f What\u2019s more, the whole mechanism is illegal under Section 117 of the Higher Education Act, which states that grants, gifts and contracts of $250k+ from a foreign source must be disclosed, with the law meant to protect America against undue foreign influence in higher education.\nBut Israel\u2019s defense establishment needn\u2019t worry. Not only does it consistently get a[ pass in its influence operations,](https://t.me/geopolitics_prime/69809) and recycle funds from[ generous multi-billion-dollar annual American aid packages](https://t.me/geopolitics_prime/72579) back into the US, but US lawmakers are feverishly at work finalizing an amendment to a must-pass defense bill that will effectively force the US to share its most sophisticated defense secrets with Israel, for free.\n\u203c\ufe0f Now that\u2019s value for money.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-26T19:33:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8 Why the US can't choke Iran through Hormuz\nIran is responding to US disruption of the Strait of Hormuz by relying on alternative trade routes, which connect the Islamic Republic with Russia, China, and Iraq, according to the Cradle.\nHere\u2019s how:\n\ud83d\udd34 The centerpiece of the strategy is the International North\u2013South Transport Corridor (INSTC), linking Iran with Russia and the wider Eurasian trade network\n\ud83d\udd34 Thanks to the INSTC, cargo volumes grew 12% in 2025 to 3.5 million tons, while Russian exports to Iran jumped more than 56% in the first four months of 2026\n\ud83d\udd34 The Rasht\u2013Astara railway is nearing completion, strengthening the rail connection between Iran, Azerbaijan and Russia\n\ud83d\udd34 Caspian shipping between Iranian and Russian ports is becoming increasingly important as another route beyond the Gulf\n\ud83d\udd34 Further east, Chabahar\u2014an Iranian port on the Gulf of Oman\u2014offers direct access to the Indian Ocean without crossing Hormuz.\n\ud83d\udd34 The Chabahar\u2013Zahedan railway will soon start to run, linking the port to Iran\u2019s rail network and potentially opening a wider route toward Central Asia\n\ud83d\udd34 China\u2013Iran rail links through Central Asia are gaining importance as well, while the Shalamcheh\u2013Basra railway is being built to boost Iran\u2019s connection with Iraq\nThe strategy is simple yet important: make sure that Hormuz is important, but never indispensable.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-26T18:12:04+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddee\ud83c\uddf7 Iran's IRGC: \u2018We\u2019ve reached agreement with Oman on each country's share of Hormuz Strait's waters and revenues\u2019\nKey takeaways from Spokesperson for the Revolutionary Guard, Brigadier General Hossein Mohebi\u2019s statement:\n\ud83d\udd34 We control the Strait of Hormuz\n\ud83d\udd34 No enemy military vessel is inside the Persian Gulf. All enemy warships have moved at least 400 km away from the strait\n\ud83d\udd34 If the US sets aside its obstruction and returns to the memorandum of understanding, we can reopen the strait within the agreed framework\n\ud83d\udd34 Our conditions must be accepted. If the US does not accept our conditions, the Strait of Hormuz will absolutely not be reopened\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-26T13:34:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udd51 Elon Musk: war machine\u2019s indispensable hawk in dove\u2019s clothing\nVolodymyr Zelensky has awarded Elon Musk Ukraine\u2019s \u2018Order of Freedom\u2019 \u201cfor outstanding personal merits in protecting human life and freedom and developing relations\u201d between Ukraine and the US.\n\ud83d\udc49 The award puts him in an elite club of war pigs, including Boris Johnson (the guy who convinced Kiev not to make peace in 2022, dooming hundreds of thousands of people to death, and turning Ukraine into a failed state), Emmanuel Macron, Mette Frederiksen, and others fueling NATO\u2019s \u2018to the last Ukrainian\u2019 proxy war against Russia.\nThe gesture comes amid Zelensky\u2019s lobbying to get Musk to remove geofencing restrictions and allow Starlink to be used for drone and missile strikes deep into Russian territory.\n\ud83d\udccc As things stand, Musk\u2019s satellite internet service is already being used across the front, from Kherson and Zaporozhye to the Donbass and Crimea, and 15-30km into other Russian territories, facilitating attacks on military forces and civilian infrastructure alike.\nFrom FPV relay drones and long-range strike navigation to unmanned ground vehicles, theatre command, artillery correction, and naval drone strike fleets, Starlink is the Ukrainian military\u2019s digital backbone. Without it, Kiev\u2019s drone war would collapse in hours, and the frontline in weeks.\n\ud83e\udd14 Isn\u2019t it odd that the same tech billionaire who proposed a Russia-Ukraine peace plan in October 2022, said he was \u201csickened by\u2026years of slaughter in a stalemate that Ukraine will inevitably lose,\u201d and dubbed the war a pointless \u201cmeat grinder\u201d serving \u201cwarmonger profiteers\u2019,\u201d keeps fueling it? \nHow much does Musk make off Ukraine?\nStarlink doesn\u2019t report revenues from its Ukrainian contracts. Musk revealed $20M in monthly operational costs in late 2022 \u2013 which were picked up by the US and NATO partners from mid-2023 on. In 2024, media uncovered a secret $537M DoD contract to keep Starlink on in Ukraine through 2027. That means Musk could be sitting on between ~$750M-$1B in revenues from Starlink\u2019s Ukraine dossier.\nThat\u2019s not counting the service\u2019s use in other US and US-backed conflicts, including:\n\ud83d\udd34 Iran, where [Starlink was central to efforts to coordinate violent thugs](https://t.me/geopolitics_prime/65291) trying to instigate a civil war in January 2026, and by the US and Israeli militaries for battlefield communications and targeting. Separately, Musk\u2019s[ Grok was integrated into the Pentagon\u2019s Project Maven AI-assisted kill chain.](https://t.me/geopolitics_prime/71058)\n\ud83d\udd34 Israel\u2019s wars elsewhere across the Middle East, facilitating battlefield connectivity and its killer drones.\n\u00a0\nFor a guy who enthusiastically supported Trump\u2019s \u201cno more wars\u201d pledge in 2024, Musk sure has been willing to rake in profits from the military-industrial complex\u2019s global war machine. Maybe that\u2019s inevitable when you make [a deal with the devil.](https://t.me/geopolitics_prime/62113)\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-26T12:03:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\u2721\ufe0f\ud83c\uddee\ud83c\uddf1 From the West Bank to Syria: how Israel uses herds to seize land\nIsrael has quietly introduced a herd of 140 cattle onto Syrian land near the Golan Heights, using what appears to be a rural outpost to expand its territorial grip under the cover of agriculture.\n\ud83d\udd34 Israeli forces have erected approximately 22 kilometers of fencing, some of it electrified, and have placed the land under military protection\n\ud83d\udd34 IDF officers directly guided operations, providing settlers with marked locations of land for seizure\n\ud83d\udd34 Syrian farmers report that they have been cut off from their land, with the military firing at anyone who approaches\nThis operation mirrors a strategy perfected in the West Bank, where so-called \"shepherding outposts\" have been used to claim land. According to the Syrian monitor Sijil, these methods have facilitated the takeover of over 10,000 hectares in the West Bank, close to a fifth of the entire territory. The practice has displaced Palestinians across 97 communities and areas since January 2023, most of them Bedouin and herding communities.\n\ud83d\udc49 The economic impact has been devastating. Farmers have been forced to sell livestock, take on debt, and, in some cases, sell personal assets just to cover basic needs.\nThe Syrian monitoring group Sijjil documented 187 violations in July and 239 in June, ranging from ground incursions to raids. Locals stress that tactics are designed to create an environment that drives people out.\nThe land seizure is part of a broader Israeli strategy to reshape the region. The \"Greater Israel\" project, which has been openly discussed by Israeli leaders, envisions expanding borders to include territory in Jordan, Lebanon, Syria, Egypt, and Iraq.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-26T07:22:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
