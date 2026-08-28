@@ -1,6 +1,25 @@
 {
-  "generated_at": "2026-08-27T14:36:26.148570+00:00",
+  "generated_at": "2026-08-28T00:02:53.927293+00:00",
   "events": [
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nLibby AAF, AZ, Friday, August 28, 2026 through Sunday, August 30, 2026 Local\nFacility: ZAB",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "08/27/2026",
+      "location": "ZAB AZ",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nWilliamsport, PA\nFacility: ZNY",
@@ -11,44 +30,6 @@
       "icon": "\ud83d\udea8",
       "timestamp": "08/26/2026",
       "location": "ZNY PA",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nLaurel, MD, Thursday, August 27, 2026 Local\nFacility: ZDC",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "08/26/2026",
-      "location": "ZDC MD",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nHuntsville, AL, Wednesday, August 26, 2026 through Thursday, August 27, 2026 Local\nFacility: ZME",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "08/25/2026",
-      "location": "ZME AL",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
@@ -345,51 +326,52 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Saudi Arabia appears to be preparing for a renewed war with the Houthis after weeks of attacks on Saudi ships, airports and oil facilities. \nAnalysts warn the escalation could open a new front in the Iran war.\nSaudi officials say the kingdom prefers peace but is prepared to act if attacks continue.\nSource: NYT",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014 \ud83c\uddee\ud83c\uddf7/\ud83c\uddf1\ud83c\udde7/\ud83c\uddf5\ud83c\uddf8/\ud83c\uddee\ud83c\uddf1 Major General Mohsen Rezaei, Secretary of Iran\u2019s Supreme National Security Council:\n\u2013 Our relationship with the Lebanese people is historical and deep-rooted, and we will defend Lebanon with all our might and provide it with support.\n\u2013 One of the conditions of the Memorandum of Understanding is that America must permanently end the war throughout West Asia, especially in Lebanon.\n\u2013 One of our conditions is that Israel must withdraw from the territories it has seized, and that the territories of Lebanon and also in Gaza must be liberated.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-27T14:26:08+00:00",
+      "timestamp": "2026-08-27T18:53:04+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Clash Report"
+        "Middle East Spectator"
       ],
       "verified_source_count": 1
     },
     {
       "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "NEW: Sudan's Army deployed modern air defense systems in Damazin, Blue Nile State, after intercepting multiple drones it says were launched from Ethiopian territory in recent days.\nThe army shot down drones over the Kurmuk front on consecutive days, followed by another north of Sarkam, all crossing from the direction of Ethiopia.\nSudan has repeatedly accused Ethiopia and the UAE of supporting RSF drone operations from bases near the border.",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddfa\ud83c\uddf8/\ud83c\uddea\ud83c\uddfa/\ud83c\uddf7\ud83c\uddfa BREAKING: U.S. Patriot interceptor stockpiles in Europe are at \u2018beyond critical\u2019 levels due to the Iran war, according to AP\nA senior U.S. official said that in the event of a Russian ballistic missile attack on a military headquarters or power plant for example, NATO would be in a similar position to Ukraine and be forced \u2018to take punch after punch in the mouth\u2019.\nIn Europe, the American military \u2018definitely\u2019 does not have enough Patriots to stop any sustained ballistic missile attack and would have \u2018very limited\u2019 capability to defend against a single ballistic missile strike or a stray Russian missile that goes off course, the U.S. official said to the Associated Press.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-27T13:46:00+00:00",
+      "timestamp": "2026-08-27T16:32:59+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "Clash Report"
+        "Alsaa Plus EN",
+        "Middle East Spectator"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "A Frenchman was arrested in southern Italy with three live Akeron anti-tank missiles and one training missile hidden in his van after disembarking a ferry from Greece.\nThe explosive warning markings on the warheads had been covered with blue tape to make the weapons look like NATO training equipment.\nThe man claimed he was transporting the missiles on behalf of their manufacturer MBDA France, saying he was returning them after repairs in Crete. \nMBDA has not commented. \nThe Akeron is a fifth-generation missile designed for ground and naval combat.",
+      "text": "An Israeli commander who ordered the 2024 drone strikes that killed Australian aid worker Zomi Frankcom and six World Central Kitchen colleagues says he stands by his decision.\nColonel Nochi Mendel, who was later dismissed over failures surrounding the attack, told the ABC: \u201cI\u2019m the commander, and I\u2019m the one who gave the order.\u201d\nHe added: \u201cI\u2019m not sorry for what I did.\u201d",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-27T12:32:05+00:00",
+      "timestamp": "2026-08-27T22:48:33+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -517,6 +499,64 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8 \u2014 Reporter to Mohsen Rezaei: \nYou say maritime blockade, are you able to export oil now? Meaning, you say that you are able to bypass this blockade. Are there any figures, meaning, could you tell us? \nSecretary of Iran's Supreme National Security Council, Mohsen Rezaei: \nYes, during the ceasefire period we broke the blockade and exported around 70 or 80 million barrels of oil and pumped them into the markets. We are still selling oil daily in the same amount that we used to sell previously, because we had stored the oil in transport ships. As soon as the blockade was lifted, dozens of ships crossed the blockade zone, and therefore we have large quantities of oil in the seas and oceans and we are selling it. In addition to that, we found another way, and although the amount of oil we transport through it is small, we are gradually increasing the quantities. \n\u2b50\ufe0f Follow",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-27T19:30:04+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83d\udd34\ud83c\uddfa\ud83c\uddf8\ud83c\uddea\ud83c\uddfa \u2014 AP: NATO Faces Critical Patriot Missile Shortage \nThe Associated Press reports that U.S. Patriot interceptor stocks in Europe have fallen to \u201cbeyond critical\u201d levels, leaving some NATO countries with Patriot systems but insufficient missiles to fully operate them.\nA U.S. defense official said forces in Europe \u201cdefinitely\u201d lack enough Patriots to withstand a sustained ballistic-missile attack and would have only \u201cvery limited\u201d capability against even a single strike.\nRUSI\u2019s Ed Arnold summarized the situation:\n\u201cThe uncomfortable truth is possibly the best air defense that we have is Russian constraints.\u201d\n\u2014 Associated Press\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-27T18:39:13+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf7\ud83c\uddf7\ud83c\uddfa\u26a1\ufe0f \u2014 Iranian pilots are completing the final stages of their training in Russia, having ranked first in the operational section and second in theoretical subjects during joint exercises with Russian and Algerian pilots, according to a new report on military cooperation between Moscow and Tehran.\n\u27a1\ufe0f After completing the current training phase, Iranian pilots will enter supplementary flight and simulator training. Meanwhile, the delivery of Russian fighter jets is progressing: the Su-35 contract has been finalized but physical transfer of all aircraft to Iran has not yet taken place due to operational and security considerations. Negotiations for a 12-aircraft Su-30 squadron are ongoing but no final contract has been reached.\n\u27a1\ufe0f Delivery of Yak-130 trainer aircraft is also continuing, with a portion of the 24-aircraft order already transferred to Iran and the remainder still being fulfilled. The cooperation underscores the deepening military relationship between the two countries despite U.S. sanctions and pressure.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-27T17:26:04+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
       "text": "\ud83c\uddee\ud83c\uddf1\u274c\ud83c\uddf5\ud83c\uddf8\ud83c\uddf1\ud83c\udde7 \u2014 Israeli Army's Chief of the General Staff LTG Eyal Zamir ordered operational advancements across all fronts following a multi-front situational assessment. \n\u27a1\ufe0f Zamir ordered the \"elevation of readiness of an additional division headquarters\" and directed immediate preparation for unit and battalion deployments to reinforce Judea and Samaria amid holiday tensions, affirming \"no reduction in operational forces\" from Iran to Lebanon and Gaza.\n\u27a1\ufe0f Addressing operational constraints, Zamir stated a lack of funding during active multi-front deployment \"harms the IDF\u2019s readiness,\" asserting the military will not engage in issues that could \"divert our focus and undermine our readiness.\"\n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
@@ -580,121 +620,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-27T11:29:00+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6 Missile attack on an oil refinery in the city of Kremenchuk, central Ukraine.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-27T00:08:13+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "Ballistic missiles to Poltava too.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-27T00:06:26+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6 At least six ballistic missiles struck Kiev.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-27T00:05:46+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Geopolitics Prime",
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ufe0f\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6 3 Russian Oniks SuperSonic Cruise missiles on Odessa",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-27T00:05:26+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6 Ballistic missiles to Kiev.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-27T00:01:32+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6 The Russians also used ballistic missiles.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-26T23:58:29+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -860,32 +785,12 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udca5 WATCH: Russian missiles and drones RAIN on Ukrainian targets overnight\nRussian ballistic missiles and kamikaze drones blasted Ukrainian targets overnight, with explosions reported in Odessa, Krivoy Rog, Kiev, Brovary, Kremenchug, Zaporozhye and other areas.\n\ud83c\udf0f Port and warehouse infrastructure came under attack in Odessa, Chernomorsk and Reni, with flashes lighting up the night sky and fires breaking out after the strikes.\n\ud83c\udf0f Industrial facilities in Krivoy Rog were hit, with at least 10 explosions reported in the city and NASA satellite data pointing to fires at Krivoy Rog Cement and ArcelorMittal Krivoy Rog.\n\ud83c\udf0f New jet-powered drones, possibly Geran-5, struck Kiev and the region, with fires reported in the Nazi capital and strikes around Brovary and Boryspol, Ukrainian Telegram channels reported.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83e\udd14 Mysterious funeral wreaths appear at HQs of European weapons firms serving Ukraine\nThe elaborate black and white-accented floral arrangements were accompanied by portraits of RSI Europe CEO Tomas Milasaukas and David Chour \u2014 executive director of the Czechoslovak Group arms concern.\nThe first wreath was spotted on the grounds of an industrial park near Vilnius, Lithuania, where RSI Europe is based. The ribbons carried the notes \"Forever in our hearts\" and \"From close friends.\" Another wreath was placed at the entrance to Czechoslovak Group's Prague HQ, with the phrase \"in loving memory\" emblazoned on its ribbon in Czech.\n\ud83d\udcac As far as we know, both men are alive and in good health. It's unclear who made and distributed the wreaths, but we can take a guess as to why:\nRSI Europe has profited handsomely from NATO's proxy war against Russia in Ukraine, delivering EW-resistant FPV drones and remote detonation systems to Kiev and promising to integrate computer vision and AI in the near future. RSI Europe reported $18 million in revenues in 2025.\nThe Czechoslovak Group is an even bigger fish, manufacturing 105, 120, and 155mm ammunition, propulsion systems, and heavy ground equipment, and generating over $650 million in earnings from its Ukraine contracts in the first half of 2026 alone.\nThe pair are just two pieces of a puzzle that includes hundreds of European companies \u2014 big and small \u2014 involved in the war.\nRussia's Ministry of Defense published the addresses of some of these European defense companies in April, Moscow's clearest warning yet that the sites would be targeted if the crisis escalates.\nFor now, the alliance is hiding behind its Article 5 guarantees, shipping all manner of defense production to Ukraine as[ Russian drones and missiles ](https://t.me/geopolitics_prime/73625)make weapons manufacturing and military logistics there impossible to maintain.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-27T04:28:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Geopolitics Prime",
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udd25 Russian strike turns Ukrainian drone workshop in Kherson into a fireball\nRussian Aerospace Forces struck storage and production facilities at the Djerelo plant in Kherson, where weapons and military equipment were stored and drones were assembled, Russian media reported.\nThe strike hit the target, triggering a powerful explosion and a major fire at the site.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-27T02:56:01+00:00",
+      "timestamp": "2026-08-27T19:43:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
