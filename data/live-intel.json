@@ -1,6 +1,25 @@
 {
-  "generated_at": "2026-08-28T11:28:02.303038+00:00",
+  "generated_at": "2026-08-28T21:29:56.386532+00:00",
   "events": [
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nMacon, GA, Tuesday, September 1, 2026 through Friday, September 4, 2026 Local\nFacility: ZTL",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "08/28/2026",
+      "location": "ZTL GA",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nLibby AAF, AZ, Friday, August 28, 2026 through Sunday, August 30, 2026 Local\nFacility: ZAB",
@@ -30,25 +49,6 @@
       "icon": "\ud83d\udea8",
       "timestamp": "08/26/2026",
       "location": "ZNY PA",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nHOUSTON, TX, Thursday, August 27, 2026 through Friday, August 28, 2026 Local\nFacility: ZHU",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "08/24/2026",
-      "location": "ZHU TX",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
@@ -211,6 +211,63 @@
       "verified_source_count": 1
     },
     {
+      "title": "Space Weather Message Code: WARK05\r",
+      "text": "Space Weather Message Code: WARK05\r\nSerial Number: 2261\r\nIssue Time: 2026 Aug 28 2040 UTC\r\n\r\nWARNING: Geomagnetic K-index of 5 expected \nValid From: 2026 Aug 28 2039 UTC\nValid To: 2026 Aug 29 0600 UTC\nWarning Conditions: Onset\nNoaa Scale: G1 - Minor\nComment: \r\n\r\nNOAA Scale: G1 - Minor\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-08-28 20:40:30.257",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Space Weather Message Code: ALTK04\r",
+      "text": "Space Weather Message Code: ALTK04\r\nSerial Number: 2681\r\nIssue Time: 2026 Aug 28 1502 UTC\r\n\r\nALERT: Geomagnetic K-index of 4 \nThreshold Reached: 2026 Aug 28 1500 UTC\nSynoptic Period: 1500-1800\nActive Warning: YES\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-08-28 15:02:40.837",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Space Weather Message Code: WARK04\r",
+      "text": "Space Weather Message Code: WARK04\r\nSerial Number: 5407\r\nIssue Time: 2026 Aug 28 1411 UTC\r\n\r\nWARNING: Geomagnetic K-index of 4 expected \nValid From: 2026 Aug 28 1409 UTC\nValid To: 2026 Aug 28 2359 UTC\nWarning Conditions: Onset\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-08-28 14:11:14.530",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
       "title": "Space Weather Message Code: ALTEF3\r",
       "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3730\r\nIssue Time: 2026 Aug 27 0934 UTC\r\n\r\nCONTINUED ALERT: Electron 2MeV Integral Flux exceeded 1,000pfu\nContinuation of Serial Number: 3729\nBegin Time: 2026 Aug 21 1105 UTC\nYesterday Maximum 2MeV Flux: 1049 pfu\nMax time: 2026 Aug 27 0925 UTC",
       "source": "NOAA Space Weather",
@@ -249,59 +306,40 @@
       "verified_source_count": 1
     },
     {
-      "title": "Space Weather Message Code: ALTEF3\r",
-      "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3729\r\nIssue Time: 2026 Aug 26 0813 UTC\r\n\r\nCONTINUED ALERT: Electron 2MeV Integral Flux exceeded 1,000pfu\nContinuation of Serial Number: 3728\nBegin Time: 2026 Aug 21 1105 UTC\nYesterday Maximum 2MeV Flux: 1039 pfu\nMax time: 2026 Aug 26 0805 UTC",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014 \ud83c\uddee\ud83c\uddf7 Continuation of the message by Iran\u2019s Supreme Leader:\n\u2018And among other important issues and topics is the application of technologies and innovations proposed by our young elite. Sometimes, timely use of this advantage and abandoning the usual routine and customary habits in a matter makes effective leaps in the path of progress and excellence of the country. This is conceivable in various branches of power production, including agriculture and industry, culture and education, communication and social affairs.\nAmong the other fundamental issues of the country that must always be at the center of attention is observing unity and caring for social cohesion. Every action in each of the cultural, social, political, security, and macro-economic areas must be taken with consideration of the attachment related to social cohesion. Some measures that may appear to have supporters among some segments of the country, if they lack this appendix or if what is formulated as an appendix in that case is neglected as an action, can cause harm to those segments and others. \nUndoubtedly, any disappointing speech and weakening of national and public cohesion and any kind of imaginary contradictions such as war or negotiation, consensus or extremism, compromise or war-mongering that has caused direct or indirect damage to our beloved people in the past can have the same effect from now on. \nTherefore, I firmly declare that committing anything that is detrimental to social cohesion is prohibited. \nAnd among other important issues, is the trans-strategic attention to the issue of culture, education and upbringing. The term trans-strategic means that the formulation of other strategies must be done with this issue in mind. In this regard, it is of particular importance to pay attention to the groups that are the source of spreading positive and constructive culture, such as teachers in education, universities, and seminaries, as well as nurses and doctors who have dedicated themselves to performing their duties in non-private institutions; just as it is to pay attention to the role of housewives who teach the most delicate elements of the beautiful and desirable culture of the future to each and every child of this land and region in the privacy of their homes. \nIt is hoped that the implementation of these and other useful materials that can be found, thank God, in the list of government programs will lead our beloved country towards an ever stronger Iran and make those active in this path worthy of the special attention of Imam Mahdi, may God hasten his return.\u2019",
+      "source": "Telegram",
+      "source_type": "telegram",
       "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-08-26 08:13:16.493",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-28T17:30:46+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "NOAA Space Weather Prediction Center"
+        "Middle East Spectator"
       ],
       "verified_source_count": 1
     },
     {
-      "title": "Space Weather Message Code: ALTTP2\r",
-      "text": "Space Weather Message Code: ALTTP2\r\nSerial Number: 1525\r\nIssue Time: 2026 Aug 26 0658 UTC\r\n\r\nALERT: Type II Radio Emission \nBegin Time: 2026 Aug 26 0635 UTC\nEstimate Velocity: 930 km/s\nComment:",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf7 Iran\u2019s Supreme Leader, Ayatollah Sayyed Mojtaba Khamenei, gives his thoughts on the economy:\n\u2018The dear people of Iran, who have revealed their true caliber in the past six months in various manifestations of jihad with the enemy, their presence in the streets, their solidarity, empathy and companionship, deserve to feel the service of the responsible branches and institutions in the Islamic Republic on the path to achieving the desired level of this sacred system and the high dignity of the nation. \nOf course, what I will state now is already at the center of attention of the government, and mentioning it here is merely a reminder:\nAmong the necessities is the need to pay serious attention to the chain of economic-livelihood challenges such as inflation, unemployment, price management and the market for goods and services, and special attention to some other elements of the economy such as GDP growth, increasing investment and directing it towards useful and essential areas, production boom, gradual abandonment of the dollar, and ultimately, placing the economy at the center of a set of resistance economy policies. \nThe main key in this regard to solving all these issues is to rely more and more on domestic production. \nOf course, establishing a sufficient level of public and specialized goods is a definite necessity, considering which, in cases where domestic production is not sufficient, imports should be used correctly and wisely. \nNaturally, encouraging production and at the same time managing imports and prices can lead to a situation where the dark spots that are showing themselves on the country's economic page gradually become smaller and smaller until they disappear completely. In this scene, although the enemy's behavior (sanctions etc.) during and after the war is not without an effect, the more intelligent management of the components of this field and seeking help in some cases from individuals and in others from specialists and technologists and realizing new capacities will lead the country towards expansion and prosperity. \nThe sworn enemy of this nation [United States] tries to suggest that the path to prosperity and progress passes only through obedience to him and his ridiculous demands, while observing what they have brought upon this country and its resources in past periods, even years before the Islamic Revolution, shows the opposite.\u2018",
+      "source": "Telegram",
+      "source_type": "telegram",
       "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-08-26 06:58:55.113",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-28T17:20:40+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Space Weather Message Code: SUM10R\r",
-      "text": "Space Weather Message Code: SUM10R\r\nSerial Number: 928\r\nIssue Time: 2026 Aug 26 0645 UTC\r\n\r\nSUMMARY: 10cm Radio Burst \nBegin Time: 2026 Aug 26 0631 UTC\nMaximum Time: 2026 Aug 26 0632 UTC\nEnd Time: 2026 Aug 26 0632 UTC\nPeak Flux: 140 sfu\nDuration: 1 minutes\nLatest Penticton Noon Flux: 132 sfu\nComment:",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-08-26 06:45:08.377",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
+        "Middle East Spectator"
       ],
       "verified_source_count": 1
     },
@@ -336,23 +374,22 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
         "Middle East Spectator"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Satellite imagery shows another Russian Tu-95MS damaged in Ukrainian drone strike on Engels-2 Air Base.\nUnlike the previous bomber, this one lost only part of a wing.",
+      "text": "WATCH: Major explosion and apparent secondary detonations observed near the M06 Zhytomyr highway in Kyiv region's Bucha district. \nMultiple accounts claim a Russian Geran-4 jet-powered drone struck an ammunition depot, but this has not been independently confirmed.\nThe footage shows a large fireball, shockwave, debris and possible munitions cooking off.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-28T11:11:07+00:00",
+      "timestamp": "2026-08-28T18:38:36+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -366,12 +403,12 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "The U.S. military used a high-energy laser to shoot down three drones operated by drug cartels near the U.S.-Mexico border. \nUSNORTHCOM said the drones were deemed hostile because they posed a threat to military and border personnel. \nThe military did not disclose their exact location or which cartels operated them.",
+      "text": "Ukrainian monitoring channels say a Russian Geran-4 jet-powered kamikaze drone flew about 960 km from occupied Crimea to Volyn in 1 hour 55 minutes, averaging roughly 500 km/h.\nThe drone was reportedly shot down near Torchyn, making the flight a possible new recorded range maximum for the Geran-4.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-28T11:10:49+00:00",
+      "timestamp": "2026-08-28T17:26:27+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -384,20 +421,77 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Prof. John Mearsheimer on US aid to Ukraine:\nWe don\u2019t want to do it and we\u2019re not going to do it\u2026 We\u2019ve used up so many of our precious munitions, and this includes the Patriots, the PAC-3 missiles.\nWe have no PAC-3s to give them. And furthermore, even if we give them the PAC-3s\u2026 these things are not very effective. \nThe idea that this is some sort of magic weapon that\u2019s going to shut down the Russian ballistic missile, cruise missile and drone campaign is not a serious argument.\nNo matter what the Ukrainians do, they\u2019re doomed.\nSource: Daniel Davis / Deep Dive",
+      "publisher": "Our Wars Today",
+      "text": "\ud83c\uddfa\ud83c\udde6 \ud83c\uddf7\ud83c\uddfa Intense evacuation of civilians under artillery fire and drone attack on the frontlines of Russia\u2019s invasion, in Druzhkivka, from the Ukrainian evacuation group \"Volunteers from God\", posted today on instagram.com/volontery_vid_boga, filmed by instagram.com/gennadii4057\nMore Coverage: T.me/ourwarstoday \n---\n24/7 LIVE News RSS feed: t.me/ournewsfeedtoday\n---\nFootage: t.me/ourwars\n---\nSupport OWT: https://ko-fi.com/ourwarstoday",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-28T10:14:02+00:00",
+      "timestamp": "2026-08-28T15:51:20+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Clash Report"
+        "Our Wars Today"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Our Wars Today",
+      "text": "[Russia's gasoline output drops to 70% of domestic demand late in August after drone attacks, sources say](https://www.reuters.com/business/energy/russias-gasoline-output-drops-70-domestic-demand-late-august-after-drone-attacks-2026-08-28/)\nRussia's gasoline production fell to about 70% of domestic consumption \u200blevels by the end of \u200cAugust after a series of drone attacks forced major refineries to suspend operations, \u200baccording to two industry sources. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://www.reuters.com/business/energy/russias-gasoline-output-drops-70-domestic-demand-late-august-after-drone-attacks-2026-08-28/)\nReuters | reuters\u200b.com \u2022 Aug 28, 2026",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-28T15:49:40+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Our Wars Today"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Our Wars Today",
+      "text": "[The Baltic Sea countries will create a task force to defend against drones](https://www.pravda.com.ua/news/2026/08/28/8050763/)\nCountries bordering the Baltic Sea plan to create a joint drone defense task force that will allow them to respond quickly to the growing threat of hybrid attacks. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://www.pravda.com.ua/news/2026/08/28/8050763/)\n\u041e\u043b\u044c\u0433\u0430 \u041a\u043e\u0432\u0430\u043b\u044c\u0447\u0443\u043a,\u0410\u043b\u044c\u043e\u043d\u0430 \u041c\u0430\u0437\u0443\u0440\u0435\u043d\u043a\u043e | pravda\u200b.com\u200b.ua \u2022 Aug 28, 2026",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-28T13:51:24+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Our Wars Today"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Our Wars Today",
+      "text": "[In August, part of Russian exports decreased by 80%](https://www.pravda.com.ua/news/2026/08/28/8050782/)\nThe Main Directorate of Intelligence reported that some components of exports from the Russian Federation, according to information from internal Russian documents, decreased by 80% during August, and Russian ships were actually blocked in Novorossiysk thanks to Ukrainian drone attacks. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://www.pravda.com.ua/news/2026/08/28/8050782/)\n\u0412\u0456\u043a\u0442\u043e\u0440\u0456\u044f \u0428\u0430\u0431\u0440\u0430\u043d\u0441\u044c\u043a\u0430 | pravda\u200b.com\u200b.ua \u2022 Aug 28, 2026",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-28T13:51:11+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Our Wars Today"
       ],
       "verified_source_count": 1
     },
@@ -479,51 +573,13 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Our Wars Today",
-      "text": "[\u2018Everything except nukes\u2019: As the world watches Wildberries, Russia unleashes war on Ukraine\u2019s economy ](https://t.me/KyivIndependent_official/54979)\n\u2018Everything except nukes\u2019: As the world watches Wildberries, Russia unleashes\nwar on Ukraine\u2019s economy\n[https://kyivindependent.com/everything-except-nukes-as-the-world-watches-wildberries-russia-unleashes-war-on-ukraines-economy/]\nWalk through a supermarket in Kyiv, and you will find rows of empty shelves.\nDrive your car to a gas station in Kharkiv, and a Russian drone may have gotten\nthere first. Across Ukraine, packages are at risk of being turned to ash as\nRussian missiles pummel post offices. Once bustling ports sit empty, as ships\nstay clear of Ukraine.\nAs Ukraine captures global attention with dramatic strikes on Russia\u2019s oil\ninfrastructure and e-commerce giants Wildberries and Ozon, Russia has un... \n[Read More in Full Article](https://t.me/KyivIndependent_official/54979)\n | t\u200b.me \u2022 Aug 24, 2026",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-24T19:30:08+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Our Wars Today"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Our Wars Today",
-      "text": "[Israel's Netanyahu says Iran tried to kill one of his sons](https://www.reuters.com/world/middle-east/israels-netanyahu-says-iran-tried-kill-one-his-sons-2026-08-24/)\nIsraeli Prime Minister Benjamin Netanyahu said on Monday that Iran had tried to kill one of his sons, but gave no details about \u200bwhen the alleged plot took place, which son was targeted or how \u200cclose it came to being carried out. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://www.reuters.com/world/middle-east/israels-netanyahu-says-iran-tried-kill-one-his-sons-2026-08-24/)\nReuters | reuters\u200b.com \u2022 Aug 24, 2026",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-24T19:29:46+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Our Wars Today"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1\u274c\ud83c\uddf5\ud83c\uddf8 \u2014 Israeli Prime Minister Benjamin Netanyahu on Palestine:\nI cannot bring into the government those people who want a Palestinian state.\nAnyone who understands that the State of Israel is the nation-state of the Jewish people \u2014 we will not be given another opportunity.\nHistory will not give us another opportunity. God will not give us another opportunity. Nobody will give it to us. This is it. This is our opportunity.\nYou establish a Palestinian state \u2014 you\u2019re finished.\n\u26aa\ufe0f",
+      "text": "\ud83c\uddee\ud83c\uddf7\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8 Reports of missile launched from Iran to strait of hormuz\n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-28T11:02:16+00:00",
+      "timestamp": "2026-08-28T18:40:33+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -537,12 +593,12 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1\ud83c\uddf9\ud83c\uddf7 \u2014 Israeli Prime Minister Benjamin Netanyahu on T\u00fcrkiye:\nReality is changing rapidly. One power goes down, another power rises. But the most important power that must rise is ours.\n\u26aa\ufe0f",
+      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf7 \u2014 US officials reported a watershed moment as American forces established effective control over most of the Strait of Hormuz to secure a better deal with Tehran and provide global economic relief.\n\"That sucker is open. The Iranian response is very mild. They don't want us to go back at them. That's the whole ball game. The rest doesn't matter,\" President Trump told Axios.\nIsraeli and US officials attribute the initial closure within the first 72 hours of the war and naval mine deployment in the Traffic Separation Scheme to former IRGC Navy commander General Alireza Tangsiri, killed three weeks later in an Israeli airstrike in Bandar Abbas \u2014 Axios.\n\u27a1\ufe0f US military forces swept over 200 mine-like objects from international lanes, confirming only 11 as actual mines, contributing to a reduced 2% vessel strike rate over the last month. Nightly traffic through the southern channel grew to 20-30 tankers carrying an average of 9-10 million barrels, roughly half of pre-war volume. The US-protected operation includes the UAE, Bahrain, and Kuwait, with Saudi Arabian participation expected and US planners hoping Qatar will imminently transit liquefied natural gas tankers.\n\u27a1\ufe0f US negotiators aim to widen the main channel by mid-September to accommodate 50 nightly transits and restore 60-70% of pre-war exports despite external tanker tracker skepticism. Iranian officials requested diplomatic interventions, prompting visits to Tehran by the Pakistani army commander on Sunday, the Omani foreign minister, and the Qatari prime minister on Thursday to discuss maritime mediation. President Trump claims he is not interested in negotiating while envoy Steve Witkoff maintains contact with Qatari mediators.\n\u27a1\ufe0f White House officials dismiss the June 17 Memorandum of Understanding as no longer relevant and treat Oman-Iran talks as background noise. US operators rely on the ongoing blockade and economic pressure campaign to force Tehran to soften its position, while Iran publicly demands the US implement the original memorandum and offer terms to reopen the strait.\n\u2b50\ufe0f Follow",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-28T11:00:43+00:00",
+      "timestamp": "2026-08-28T15:19:13+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -556,12 +612,12 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1\ud83c\uddee\ud83c\uddf7 \u2014 Israeli Prime Minister Benjamin Netanyahu on Iran:\nI said: nuclear bombs in Iran\u2019s hands \u2014 that is the end of the State of Israel, the end of the Jewish people.\nAnd whether there was a red light, a green light, a blue light \u2014 I don\u2019t care what color the light is. It doesn\u2019t interest me.\nWe have to do this, because otherwise we will be destroyed. We won\u2019t be here.\n\u26aa\ufe0f",
+      "text": "\ud83c\uddf5\ud83c\uddf8\ud83c\uddf5\ud83c\uddf8\ud83d\udeab\ud83c\uddee\ud83c\uddf1\u26a1\ufe0f \u2014 Hamas Movement:\nThe Hamas Movement mourns the heroic martyrs who were killed in the massacre committed by the Israeli occupation in the Harsh Al-Saada area of Jenin.\nThis heinous crime will be met with nothing but greater anger and confrontation. The West Bank will remain a source of resistance fighters and heroic acts.\nWe hold the Israeli occupation fully responsible for the repercussions of this bombardment, the escalating crimes, and the continuation of its brutal policy of killing, demolition, and terrorizing civilians.\nWe affirm that continued aggression will bring neither security nor stability to the occupation.\nWe call on our people in Jenin and across the provinces of the West Bank to escalate all forms of resistance and disrupt the occupation's security calculations.\nWe call on the Arab and Islamic nations, the international community, and human rights and humanitarian organizations to take immediate action to stop the occupation's escalating abuses.\n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-28T10:54:24+00:00",
+      "timestamp": "2026-08-28T15:12:00+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -575,12 +631,12 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1\ud83c\uddf7\ud83c\uddfa \u2014 Israeli Prime Minister Benjamin Netanyahu:\nThe Russian-speaking public is an enormous addition to the Zionist enterprise\u2014an enormous addition\u2014and it guarantees the continuation of our existence.\n\u26aa\ufe0f",
+      "text": "\ud83c\uddfa\ud83c\uddf8\u274c\ud83c\uddee\ud83c\uddf6 \u2014 The USA has added former Iraqi Finance Minister Taif Sami to the FBI\u2019s terrorism watchlist and revoked her visa to enter the USA.\n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-28T10:52:56+00:00",
+      "timestamp": "2026-08-28T14:46:23+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -594,12 +650,12 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1\ud83c\uddf8\ud83c\uddfe\ud83c\uddf9\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8 \u2014 Israeli Prime Minister Benjamin Netanyahu on T\u00fcrkiye and Syria:\nI decided that we would establish a \"security zone\" in Syria against the possibility of a \"jihadist invasion\" from the Syrian area.\nAnd in northern Syria there is T\u00fcrkiye; it has a certain area there.\nI do not want to see T\u00fcrkiye coming south.\nI said this, and I conveyed it to the \"Syrian regime\" as well: do not come down, do not let them come south. I conveyed it to the Turks too.\nThere was a certain status quo, but they broke the status quo, or intended to break it.\nI sent a message \u2014 through the Americans, through other means, and also directly to Syria \u2014 that we will not tolerate Turkish military entrenchment at an airfield south of the area where T\u00fcrkiye is currently located.\nApparently that message was not received, and we had to demonstrate it in what we call, in our jargon, kinetic ways. So we conveyed it in kinetic ways.\n\u26aa\ufe0f",
+      "text": "\ud83c\uddee\ud83c\uddf1\ud83c\uddf5\ud83c\uddf8\u26a1\ufe0f \u2014 Israeli Prime Minister Benjamin Netanyahu:\nInitiative and attack. I commend our forces for the successful elimination of the terrorists in Jenin. Shabbat Shalom!\n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-28T10:49:14+00:00",
+      "timestamp": "2026-08-28T14:08:11+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -612,78 +668,20 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8 \u2014 Reporter to Mohsen Rezaei: \nYou say maritime blockade, are you able to export oil now? Meaning, you say that you are able to bypass this blockade. Are there any figures, meaning, could you tell us? \nSecretary of Iran's Supreme National Security Council, Mohsen Rezaei: \nYes, during the ceasefire period we broke the blockade and exported around 70 or 80 million barrels of oil and pumped them into the markets. We are still selling oil daily in the same amount that we used to sell previously, because we had stored the oil in transport ships. As soon as the blockade was lifted, dozens of ships crossed the blockade zone, and therefore we have large quantities of oil in the seas and oceans and we are selling it. In addition to that, we found another way, and although the amount of oil we transport through it is small, we are gradually increasing the quantities. \n\u2b50\ufe0f Follow",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\u26a1\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6 More footage from the site of the massive secondary detonations near the Kiev\u2013Zhytomyr highway appears to show rocket-powered munitions being propelled into the air from the burning warehouse complex.\nSeveral objects can be seen rising from the site under apparent propulsion rather than simply being thrown outward by the explosions, displaying flight characteristics consistent with missiles undergoing cook-off after their motors ignited. The trajectories have led to speculation that the facility may have contained air-defense interceptors, although the exact type of munitions stored at the site has not yet been identified.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-27T19:30:04+00:00",
+      "timestamp": "2026-08-28T21:26:19+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83d\udd34\ud83c\uddfa\ud83c\uddf8\ud83c\uddea\ud83c\uddfa \u2014 AP: NATO Faces Critical Patriot Missile Shortage \nThe Associated Press reports that U.S. Patriot interceptor stocks in Europe have fallen to \u201cbeyond critical\u201d levels, leaving some NATO countries with Patriot systems but insufficient missiles to fully operate them.\nA U.S. defense official said forces in Europe \u201cdefinitely\u201d lack enough Patriots to withstand a sustained ballistic-missile attack and would have only \u201cvery limited\u201d capability against even a single strike.\nRUSI\u2019s Ed Arnold summarized the situation:\n\u201cThe uncomfortable truth is possibly the best air defense that we have is Russian constraints.\u201d\n\u2014 Associated Press\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-27T18:39:13+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf7\ud83c\uddf7\ud83c\uddfa\u26a1\ufe0f \u2014 Iranian pilots are completing the final stages of their training in Russia, having ranked first in the operational section and second in theoretical subjects during joint exercises with Russian and Algerian pilots, according to a new report on military cooperation between Moscow and Tehran.\n\u27a1\ufe0f After completing the current training phase, Iranian pilots will enter supplementary flight and simulator training. Meanwhile, the delivery of Russian fighter jets is progressing: the Su-35 contract has been finalized but physical transfer of all aircraft to Iran has not yet taken place due to operational and security considerations. Negotiations for a 12-aircraft Su-30 squadron are ongoing but no final contract has been reached.\n\u27a1\ufe0f Delivery of Yak-130 trainer aircraft is also continuing, with a portion of the 24-aircraft order already transferred to Iran and the remainder still being fulfilled. The cooperation underscores the deepening military relationship between the two countries despite U.S. sanctions and pressure.\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-27T17:26:04+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf1\u274c\ud83c\uddf5\ud83c\uddf8\ud83c\uddf1\ud83c\udde7 \u2014 Israeli Army's Chief of the General Staff LTG Eyal Zamir ordered operational advancements across all fronts following a multi-front situational assessment. \n\u27a1\ufe0f Zamir ordered the \"elevation of readiness of an additional division headquarters\" and directed immediate preparation for unit and battalion deployments to reinforce Judea and Samaria amid holiday tensions, affirming \"no reduction in operational forces\" from Iran to Lebanon and Gaza.\n\u27a1\ufe0f Addressing operational constraints, Zamir stated a lack of funding during active multi-front deployment \"harms the IDF\u2019s readiness,\" asserting the military will not engage in issues that could \"divert our focus and undermine our readiness.\"\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-27T13:16:10+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
+        "Mediterranean Man"
       ],
       "verified_source_count": 1
     },
@@ -804,12 +802,88 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udea8\ud83c\uddf7\ud83c\uddfa Russian overnight strikes hit Ukrainian logistics and ports\n\ud83d\udd34 Kiev region \u2013 Stellar Jet warehouse complex storing Flamingo cruise missiles and rocket fuel destroyed\n\ud83d\udd34 Odessa port \u2013 six military storage facilities wiped out\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83e\udd21 South Korea\u2019s Shahed clone test ends in epic fail\nThe drone \u2013 which bears a clear resemblance to the famous Iranian Shahed-136 attack UAV \u2013 crashed into sea immediately after launch.\nLooks like South Korea needs to step up its game if it wants to reach Iran\u2019s level of drone tech. \ud83e\udd26\u200d\u2642\ufe0f\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-28T05:36:19+00:00",
+      "timestamp": "2026-08-28T18:20:30+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udd25 Russian Geran-4 drone strike triggers massive explosion at ammo depot in Kiev region\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-28T18:14:05+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\u2721\ufe0f Zionist-sanctioned death squads: How Israel arms Gaza\u2019s ISIS-linked criminals to commit genocide\nIsrael has transformed drug dealers and gang leaders into an \"operational arm\" of the occupation in Gaza, reports the Haaretz.\nThe Zionist state, the Israel Defense Forces (IDF), and Shin Bet are arming, training, and protecting criminal militias, who act under the cover of Israeli artillery and drones, per an investigation based on IDF soldiers' testimonies, sources in Gaza and satellite imagery.\n\ud83d\udd34 Five prominent armed groups are now operating across Gaza - in Beit Hanoun, Shujaiyeh, Deir al-Balah, Khan Yunis, and Rafah - each assigned a specific area under Israeli military control \n\ud83d\udd34 They have army call signs, appear on IDF briefing maps, are marked in command systems, and have bases located just hundreds of meters from Israeli outposts\n\ud83d\udd34 These are former gang bosses and drug dealers - not political leaders or credible alternatives to Hamas\n\u2666\ufe0f The gangs are not just fighting Hamas, they open fire on Palestinian civilians, loot and torch homes, and forcibly displace families from shelters\n\u2666\ufe0f Some compounds feature training yards, concrete barriers matching IDF standards, air-conditioned structures, stocked shops and even playgrounds\nPM Benjamin Netanyahu himself admitted in June 2025 that Israel had \u201cactivated\u201d clans against Hamas, including \"criminals affiliated with the Islamic State.\" Israel has been deliberately creating an environment of lawlessness and terror:\n\ud83c\udf0f Hamas' police force was systematically targeted while escorting aid convoys, leaving trucks unguarded and crossings exposed - creating a security vacuum that militias could fill\n\ud83c\udf0f Early on one of the key figures was Yasser Abu Shabab, a [since-killed Rafah warlord](https://t.me/geopolitics_prime/64461) whose gang looted UN aid convoys under Israeli protection while Israel publicly blamed Hamas \n\ud83c\udf0fThe militias are used as proxies to retrieve drones from Hamas-controlled areas\nSenior IDF commanders acknowledge that the militias lack legitimacy among Palestinians and cannot survive without Israeli protection, and are cited as warning that this could lead to atrocities \"reminiscent of the Sabra and Shatila massacre.\" \n\u27a1\ufe0f At the time, up to 3,500 Palestinian refugees were slaughtered by Israel\u2019s proxy militia, the Phalange, during Israel\u2019s invasion of Lebanon in 1982. \nIsrael now reportedly uses these militias as leverage against[ Donald Trump's peace plan. ](https://t.me/geopolitics_prime/73507)\n[The condition for disarmament is Hamas giving up its weapons](https://t.me/geopolitics_prime/71473) - but Hamas refuses to do so as long as these criminal groups remain armed and supported by Israel. \nMeanwhile, the militias continue to expand, with hundreds of members, parades, and propaganda campaigns on Facebook to recruit new fighters.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-28T15:33:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udc79 Netanyahu's Gaza plan: Stay forever, rebuild never, strike anyone \nIsraeli PM Benjamin Netanyahu has now boiled his stance down to an uncompromising core.\n\ud83d\udcac \u201cWe're are not moving\u2026 There will be no reconstruction of the Gaza Strip until Hamas is dismantled and all of Gaza is demilitarized... We retain our freedom of action to strike whoever we need to,\u201d he spouted.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-28T13:58:54+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83e\udd14\ud83d\udc79 Will Netanyahu's 'total victory' (aka endless war) political lifeline become his noose?\nThroughout [Israel\u2019s Gaza genocide](https://t.me/geopolitics_prime/73648), PM Benjamin Netanyahu has used the 'total victory' slogan as political glue.\n\ud83d\udc49 Just over a month after October 7, 2023, Channel 12's first post-attack poll showed his Likud party polling at just 17 seats of the Knesset\u2019s 120 - close to its worst-ever showing.\nNearly three years later the governing bloc still struggles to clear 54 in most polls \u2013 but has weathered virtually every parliamentary challenge thrown its way.\n[Netanyahu\u2019s playbook](https://t.me/geopolitics_prime/73385) is rooted in turning war into a permanent condition, playing out on multiple fronts:\n\u27a1\ufe0f Genocidal annihilation in Gaza\n\u27a1\ufe0f [A land-grab rampage](https://t.me/geopolitics_prime/73639) in Lebanon to further [the \u201cGreater Israel\u201d](https://t.me/geopolitics_prime/71656) quest\n\u27a1\ufe0f Baiting the[ US into a failed](https://t.me/geopolitics_prime/73768) war on Iran\n \n\u27a1\ufe0f Settlement expansion and Palestinian displacement in the West Bank\nThis helped manage his coalition, as far-right partners like Bezalel Smotrich's Religious Zionism and Ben Gvir's Otzma Yehudit opposed any hostage deal with Hamas from the outset.\n\ud83d\udccc Endless war also conveniently postponed the state commission of inquiry that would have shredded Netanyahu\u2019s \"Mr. Security\" moniker.\nEndless war also keeps the military machine fed and funded.\nBut this logic of permanent war is also Netanyahu\u2019s Achilles\u2019 heel.\n\ud83d\udd34 After three years, Israelis don't feel much safer than on October 7, with the hostages' families refusing to sacrifice their loved ones to impossible military objectives \n\ud83d\udd34 Hamas continues to operate in Gaza, Hezbollah remains a functioning force in Lebanon, and the failed war on Iran left Israel more dependent on Trump\u2019s erratic policy\n\ud83d\udd34 International isolation progresses: In the 2026 Democratic primaries, multiple candidates who explicitly described Israel\u2019s actions in Gaza as genocide won significant races, right-wing voices treat Israel as a strategic liability, and regional alliances like the [Mecca Joint Defense Agreement](https://t.me/geopolitics_prime/73473) are forming \n\ud83d\udd34 In the West Bank, the brutal campaign to [empty Palestinian villages](https://t.me/geopolitics_prime/73613), like the Qusra siege, is producing rare pushback even in Israel \n\ud83d\udd34 Extended reserve [call-up amid troop shortage is](https://t.me/geopolitics_prime/67775) crushing\n\ud83d\udd34 [The defense budget](https://t.me/geopolitics_prime/71095) is grotesque\n\ud83d\udd34 [The ruling coalition](https://t.me/geopolitics_prime/71324) still depends on shielding its Ultra-Orthodox Haredi partners from the burden of conscription it demands of everyone else\nNetanyahu's fantasy has evolved into a trap where you can only promise victory for so long before people start noticing that victory, by your own definition, cannot exist.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-28T12:34:27+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
