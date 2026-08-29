@@ -1,6 +1,25 @@
 {
-  "generated_at": "2026-08-29T15:14:59.512905+00:00",
+  "generated_at": "2026-08-29T18:39:24.082309+00:00",
   "events": [
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nMAYPORT, FL, Tuesday, September 1, 2026 through Friday, September 4, 2026 Local\nFacility: ZJX",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "08/29/2026",
+      "location": "ZJX FL",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nSTOYSTOWN, PA, Monday, August 31, 2026 Local\nFacility: ZOB",
@@ -346,50 +365,12 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "NEW: T\u00fcrkiye summoned Ukraine's Ambassador over drone attacks on two Turkish-linked vessels in the Black Sea this week.\nThe cargo ship Lider Bordo Mavi was hit by three drones while carrying vegetables from Samsun to Russia's Tuapse port, injuring five crew. \nWhen the Lider Kocatepe was sent to assist, it was also struck by a drone.\nT\u00fcrkiye has called for a mutual moratorium on attacks against civilian shipping. \nUkraine says the Black Sea is a war zone and has urged shipowners trading with Russia to account for the risks.",
+      "text": "Ukraine has formally asked the ITU to remove Ukrainian territory from the declared service areas of Russia\u2019s Rassvet satellite-internet network, as Moscow rapidly expands the constellation.\nThe ITU cannot stop Rassvet satellites flying over Ukraine or physically prevent their signals from reaching Russian forces.\nRussia\u2019s emerging sovereign Starlink alternative could support drones and battlefield communications as coverage expands toward 2027.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-29T13:38:23+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "BIG: Germany is preparing what officials are calling a \u201cZeitenwende 2.0\u201d toward Russia.\nBerlin is expected to formally blame Moscow for the August drone attack at Leipzig/Halle Airport and pair the attribution with tougher national measures, more support for Ukraine and a major new EU sanctions package.\nThe shift is meant to mark an end to earlier restraint on Russian hybrid attacks.\nAround 1,600 individuals and companies are reportedly under review for EU sanctions, with broader action expected this autumn.\nThe exact German measures are still being finalized, but Berlin is preparing for a sharp Russian response.\nSource: Politico",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-29T12:18:20+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "France is ready to export its MdCN long-range naval cruise missile to Sweden for the first time, as part of a \u20ac4.3 billion deal for four French frigates built by Naval Group.\nThe MdCN is often described as the European equivalent of the U.S. Tomahawk, with a reported range of up to 1,400 km.\nIt has been used exclusively by the French Navy for nearly a decade and would now be supplied to a Northern European ally.\nThe deal would give Sweden a significant long-range deep-strike capability, alongside Aster 30 air-defense missiles and other weapons.\nSource: Les Echos",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-29T12:14:22+00:00",
+      "timestamp": "2026-08-29T15:34:48+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -612,6 +593,44 @@
     {
       "title": "Telegram",
       "publisher": "Mediterranean Man",
+      "text": "\u26a1\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfa Russian drones have attacked a thermal power plant in Kiev.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-29T15:30:40+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\u26a1\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6 The ongoing Russian assault on Kiev appears to be one of the longest \u2014 and potentially the longest \u2014 sustained aerial bombardments of a European capital since World War II, with successive waves of drones and missiles maintaining pressure across multiple consecutive days and nights with only limited interruptions, for over 82 hours already.\nUnlike longer aerial campaigns such as NATO\u2019s 78-day operation over Yugoslavia in 1999, which consisted of separate strikes against targets distributed across the country, the current campaign has maintained an unusually concentrated and sustained pressure on Kiev and its surrounding region. The distinction is significant: rather than the cumulative duration of an air campaign, Kiev is experiencing successive attack waves extending through the day-night cycle for several consecutive days.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-29T15:23:49+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
       "text": "One time, Me and Middle East Spectator were playing chess.\nA cat (government drone) then proceeded to jump on my lap without permission, and whispered to me cat things about how to play chess properly.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -669,6 +688,25 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udd25 Thick plumes of smoke rising over Ukraine's Nikolayev after Russian Geran drone strike\nLocal media claim the strike hit a factory near the city's airfield.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-29T18:01:51+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
       "text": "\ud83c\udde8\ud83c\uddf3 China\u2019s \u2018Area 51\u2019 renovation spooks Western media\nThe Lop Nur Airbase, a massive People\u2019s Liberation Army airbase ostensibly used to test cutting-edge military aircraft, underwent significant expansion over the past few years.\n\ud83c\udf0f The facility is located in Xinjiang region, not far from the site used by China to test its nuclear weapons\n\ud83c\udf0f The apparent purpose of the base is testing classified aircraft and experimental aerospace vehicles, which earned it the \u2018China\u2019s Area 51\u2019 moniker in media\n\ud83c\udf0f Satellite imagery by Planet Labs shows that since 2020, the base had its apron extended and several hangars, supposedly optimized for tactical fixed-wing aircraft, were added, according to TMZ\n\ud83c\udf0f The photos also depict what appears to be construction of a new taxiway, which could help the base maintain a higher operation tempo\n\ud83c\udf0f New large hangars built at the base could accommodate China\u2019s state-of-the-art flying wing drones and stealth bomber aircraft\n\ud83c\udf0f New fuel-storage infrastructure is apparently being built at the base, which would provide a boost to sortie rate and facilitate longer sustained flight activity\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
@@ -713,44 +751,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-29T11:01:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udea8\ud83d\udd25 Massive fumes of smoke still cover skies over Kiev region\nLast night, local media reported a Russian Geran-4 drone strike on an ammunition depot.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-29T09:50:45+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udd0d Hegseth weighing second Quantico summons for top military leaders \u2014 timing raises eyebrows\nSecretary of War Crimes Pete Hegseth is considering inviting hundreds of senior military personnel back to Marine Corps Base Quantico for a second address this year, according to US officials, cited by a WSJ report \u2014 the same venue where he delivered his \"no more beardos\" speech last fall.\nHere's why the timing matters.\nThe Calendar\n\ud83d\udd34 Last September: Hegseth summoned every general and admiral on short notice, no stated reason. Trump opened the event. The message: return to \"warfighting.\"\n\ud83d\udd34 February: The United States was at war with Iran.\n\ud83d\udd34 Now: Hegseth is eyeing Quantico again \u2014 this time with a war underway, a purge in progress, and a political calendar closing in.\nThe Political Window\n\ud83d\udd36 Marco Rubio has reportedly told foreign counterparts that new strikes are off until after the November midterms. Another campaign could follow.\n\ud83d\udd36 Whatever directives get issued at Quantico, every officer in that room will be reading them against that window.\nThe Purge Factor\nHegseth's massive overhaul of the Pentagon has shaken up the ranks. Senior officers are being pushed out. The military leadership is nervous, and political loyalty is being tested.\nSending them all back to Quantico sends a message: \"I'm in charge. You'll either fall in line or fall out.\"\n\ud83d\udc49 The military is being reshaped in real time. Whether or not the Quantico address happens, it is already a signal.\nThe war with Iran has exposed fault lines. The purge has deepened them. Now, Hegseth is desperate to keep the generals on board.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-29T06:34:30+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
