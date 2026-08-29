@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T10:22:40.937795+00:00",
+  "generated_at": "2026-08-29T15:14:59.512905+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -174,6 +174,25 @@
     },
     {
       "title": "Space Weather Message Code: WARK04\r",
+      "text": "Space Weather Message Code: WARK04\r\nSerial Number: 5409\r\nIssue Time: 2026 Aug 29 1142 UTC\r\n\r\nEXTENDED WARNING: Geomagnetic K-index of 4 expected\nExtension to Serial Number: 5408\nValid From: 2026 Aug 28 1409 UTC\nNow Valid Until: 2026 Aug 30 0600 UTC\nWarning Condition: Persistence\n\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-08-29 11:42:21.657",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Space Weather Message Code: WARK04\r",
       "text": "Space Weather Message Code: WARK04\r\nSerial Number: 5408\r\nIssue Time: 2026 Aug 28 2350 UTC\r\n\r\nEXTENDED WARNING: Geomagnetic K-index of 4 expected\nExtension to Serial Number: 5407\nValid From: 2026 Aug 28 1409 UTC\nNow Valid Until: 2026 Aug 29 1200 UTC\nWarning Condition: Persistence\n\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
       "source": "NOAA Space Weather",
       "source_type": "official",
@@ -238,25 +257,6 @@
       "severity": "warning",
       "icon": "\ud83d\udef0\ufe0f",
       "timestamp": "2026-08-28 14:11:14.530",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Space Weather Message Code: ALTEF3\r",
-      "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3730\r\nIssue Time: 2026 Aug 27 0934 UTC\r\n\r\nCONTINUED ALERT: Electron 2MeV Integral Flux exceeded 1,000pfu\nContinuation of Serial Number: 3729\nBegin Time: 2026 Aug 21 1105 UTC\nYesterday Maximum 2MeV Flux: 1049 pfu\nMax time: 2026 Aug 27 0925 UTC",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-08-27 09:34:30.553",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -346,12 +346,12 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "The U.S. has transferred large quantities of missiles and air-defense systems to the Middle East for the Iran war, leaving some stockpiles in Europe and Asia at critically low levels, according to U.S. officials.\nPatriot, ATACMS and other precision weapons have been heavily depleted, while THAAD interceptors and counterdrone systems have also been shifted to the region. Replenishing inventories could take years.\nThe shortages are forcing U.S. commanders to adjust contingency plans and have raised concerns about Washington\u2019s ability to respond simultaneously to a potential Chinese attack on Taiwan or a Russian threat to NATO.\nSource: WSJ",
+      "text": "NEW: T\u00fcrkiye summoned Ukraine's Ambassador over drone attacks on two Turkish-linked vessels in the Black Sea this week.\nThe cargo ship Lider Bordo Mavi was hit by three drones while carrying vegetables from Samsun to Russia's Tuapse port, injuring five crew. \nWhen the Lider Kocatepe was sent to assist, it was also struck by a drone.\nT\u00fcrkiye has called for a mutual moratorium on attacks against civilian shipping. \nUkraine says the Black Sea is a war zone and has urged shipowners trading with Russia to account for the risks.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-29T06:32:56+00:00",
+      "timestamp": "2026-08-29T13:38:23+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -359,6 +359,63 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "BIG: Germany is preparing what officials are calling a \u201cZeitenwende 2.0\u201d toward Russia.\nBerlin is expected to formally blame Moscow for the August drone attack at Leipzig/Halle Airport and pair the attribution with tougher national measures, more support for Ukraine and a major new EU sanctions package.\nThe shift is meant to mark an end to earlier restraint on Russian hybrid attacks.\nAround 1,600 individuals and companies are reportedly under review for EU sanctions, with broader action expected this autumn.\nThe exact German measures are still being finalized, but Berlin is preparing for a sharp Russian response.\nSource: Politico",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-29T12:18:20+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "France is ready to export its MdCN long-range naval cruise missile to Sweden for the first time, as part of a \u20ac4.3 billion deal for four French frigates built by Naval Group.\nThe MdCN is often described as the European equivalent of the U.S. Tomahawk, with a reported range of up to 1,400 km.\nIt has been used exclusively by the French Navy for nearly a decade and would now be supplied to a Northern European ally.\nThe deal would give Sweden a significant long-range deep-strike capability, alongside Aster 30 air-defense missiles and other weapons.\nSource: Les Echos",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-29T12:14:22+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Our Wars Today",
+      "text": "[\u26a1\ufe0f - Update: At least 37 killed after Russian drone strike triggers deadly explosion near Kyiv. At least 50 residential...](https://t.me/KyivIndependent_official/55086)\n\u26a1\ufe0fUpdate: At least 37 killed\n[https://kyivindependent.com/russian-strike-near-kyiv-causes-ammunition-detonations-killing-at-least-27/]\nafter Russian drone strike triggers deadly explosion near Kyiv.\nAt least 50 residential buildings were damaged in the attack and subsequent\ndetonations. Along with residential buildings, a care facility for elderly\npeople and people with disabilities was also damaged, according to local\nauthorities. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013\nFootage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://t.me/KyivIndependent_official/55086)\n | t\u200b.me \u2022 Aug 29, 2026",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-29T13:20:21+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Our Wars Today"
       ],
       "verified_source_count": 1
     },
@@ -517,6 +574,25 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf6\ud83c\uddee\ud83c\uddf6\ud83c\uddfa\ud83c\uddf8\ud83c\uddf9\ud83c\uddf7\u26a1\ufe0f \u2014 The Islamic Resistance in Iraq, represented by the Sayyid al-Shuhada Brigades, has announced the following conditions for handing over its weapons:\nFirst: The withdrawal of U.S. military forces and preventing them from using Iraqi airspace as a launching point to target any other country.\nSecond: The enactment of the Iraqi Popular Mobilization Forces (PMF) Law.\nThird: The establishment of full sovereignty of the Iraqi security forces over every inch of Iraqi territory, from the far north to the far south.\nFourth: Strengthening Iraq\u2019s air defenses with advanced systems operating exclusively under Iraqi decision-making authority.\nFifth: The complete expulsion of PKK fighters from Iraqi territory in order to eliminate the justifications for Turkish attacks on Iraqi territory.\nSixth: The withdrawal of Turkish troops deployed in northern Iraq and their departure from Iraqi territory back across the Turkish border.\nSeventh: Placing Iraq\u2019s borders in the Kurdistan Region under the control of the Iraqi Army, considering this an exclusive sovereign responsibility of the army, while placing all border crossings under the control and administration of the federal government.\nEighth: Removing Iranian opposition groups from their positions in northern Iraq to ensure that Iraqi territory is not used as a launching point for ground attacks against neighboring countries.\nNinth: Working to free Iraq\u2019s financial and economic decision-making from U.S. dominance, in pursuit of the principle of making Iraq sovereign over its own affairs\u2014a principle long advocated by the senior religious authority and patriotic members of the Iraqi people.\nTenth: Working to free Iraq\u2019s political decision-making from U.S. control, ending what it described as the \u201cinnovation\u201d of the U.S. special envoy in Iraq, and halting U.S. Embassy interference in Iraq\u2019s internal affairs.\n\ufeff",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-29T13:46:45+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
       "text": "\ud83c\uddfa\ud83c\udde6\u26a1\ufe0f\ud83c\uddf7\ud83c\uddfa\u2014 Russian drone strike triggers massive explosions at a facility near Kyiv.\nA Russian drone reportedly struck an enterprise in Myla, Kyiv region, triggering a large fire followed by prolonged detonations.\nAuthorities say six people were injured and 165 were evacuated as the fire spread toward nearby residential areas. One house was destroyed and seven others were damaged.\n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
@@ -535,96 +611,20 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddf9\ud83c\uddf7\ud83c\uddf5\ud83c\uddf8\ud83c\uddf1\ud83c\udde7\ud83d\udeab\ud83c\uddee\ud83c\uddf1 \u2014 Turkish President Erdogan:\nIn Palestine, millions of our brothers are struggling to survive under extremely difficult conditions, deprived of the most basic necessities.\nIn Lebanon, it is the same. 1.3 million of our brothers were forced to leave their homes because of attacks by the Israeli government, more than 4,000 people were killed, and more than 12,000 Lebanese people, including children and women, were injured.\nIsrael\u2019s current war-addicted government is trying every kind of provocation to destabilize our entire region, starting with its neighbors.\nThe radical, occupying, genocidal ideology called Zionism is not only targeting the peace of its neighbors; it is also targeting everyone who defends regional peace and humanitarian values. \nWhen we draw attention to Zionism\u2019s expansionist ambitions, we do so not for ourselves, but on behalf of all the peoples of the region, regardless of their faith, and on behalf of the human front.\n\u26aa\ufe0f",
+      "publisher": "Mediterranean Man",
+      "text": "One time, Me and Middle East Spectator were playing chess.\nA cat (government drone) then proceeded to jump on my lap without permission, and whispered to me cat things about how to play chess properly.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-29T01:44:19+00:00",
+      "timestamp": "2026-08-29T11:46:30+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf7\u26a1\ufe0f \u2014 IRGC launched at least 4 anti-ship cruise missiles.\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-28T23:10:58+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83d\udea8\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf7 \u2014 Multiple explosions have been reported in the Strait of Hormuz.\nThe first blast in Sirik is believed to have been caused by a missile launch, with a second explosion originating from the direction of the Sea of Oman.\nA fourth explosion was also heard in the strait, reportedly from missiles and drones fired toward vessels deemed in violation.\nFollow",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-28T22:46:35+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf7\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8 Reports of missile launched from Iran to strait of hormuz\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-28T18:40:33+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf7 \u2014 US officials reported a watershed moment as American forces established effective control over most of the Strait of Hormuz to secure a better deal with Tehran and provide global economic relief.\n\"That sucker is open. The Iranian response is very mild. They don't want us to go back at them. That's the whole ball game. The rest doesn't matter,\" President Trump told Axios.\nIsraeli and US officials attribute the initial closure within the first 72 hours of the war and naval mine deployment in the Traffic Separation Scheme to former IRGC Navy commander General Alireza Tangsiri, killed three weeks later in an Israeli airstrike in Bandar Abbas \u2014 Axios.\n\u27a1\ufe0f US military forces swept over 200 mine-like objects from international lanes, confirming only 11 as actual mines, contributing to a reduced 2% vessel strike rate over the last month. Nightly traffic through the southern channel grew to 20-30 tankers carrying an average of 9-10 million barrels, roughly half of pre-war volume. The US-protected operation includes the UAE, Bahrain, and Kuwait, with Saudi Arabian participation expected and US planners hoping Qatar will imminently transit liquefied natural gas tankers.\n\u27a1\ufe0f US negotiators aim to widen the main channel by mid-September to accommodate 50 nightly transits and restore 60-70% of pre-war exports despite external tanker tracker skepticism. Iranian officials requested diplomatic interventions, prompting visits to Tehran by the Pakistani army commander on Sunday, the Omani foreign minister, and the Qatari prime minister on Thursday to discuss maritime mediation. President Trump claims he is not interested in negotiating while envoy Steve Witkoff maintains contact with Qatari mediators.\n\u27a1\ufe0f White House officials dismiss the June 17 Memorandum of Understanding as no longer relevant and treat Oman-Iran talks as background noise. US operators rely on the ongoing blockade and economic pressure campaign to force Tehran to soften its position, while Iran publicly demands the US implement the original memorandum and offer terms to reopen the strait.\n\u2b50\ufe0f Follow",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-28T15:19:13+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
+        "Mediterranean Man"
       ],
       "verified_source_count": 1
     },
@@ -669,6 +669,63 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
+      "text": "\ud83c\udde8\ud83c\uddf3 China\u2019s \u2018Area 51\u2019 renovation spooks Western media\nThe Lop Nur Airbase, a massive People\u2019s Liberation Army airbase ostensibly used to test cutting-edge military aircraft, underwent significant expansion over the past few years.\n\ud83c\udf0f The facility is located in Xinjiang region, not far from the site used by China to test its nuclear weapons\n\ud83c\udf0f The apparent purpose of the base is testing classified aircraft and experimental aerospace vehicles, which earned it the \u2018China\u2019s Area 51\u2019 moniker in media\n\ud83c\udf0f Satellite imagery by Planet Labs shows that since 2020, the base had its apron extended and several hangars, supposedly optimized for tactical fixed-wing aircraft, were added, according to TMZ\n\ud83c\udf0f The photos also depict what appears to be construction of a new taxiway, which could help the base maintain a higher operation tempo\n\ud83c\udf0f New large hangars built at the base could accommodate China\u2019s state-of-the-art flying wing drones and stealth bomber aircraft\n\ud83c\udf0f New fuel-storage infrastructure is apparently being built at the base, which would provide a boost to sortie rate and facilitate longer sustained flight activity\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-29T14:01:52+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf1 How US blinds the world to Israel's genocidal wars & its own strikes\nOne week after the US-Israeli war on Iran began, Planet Labs imposed a four-day delay on Gulf imagery. By early April, at the US government\u2019s request, the freeze on high-resolution images became indefinite, with the newest usable commercial pictures of the region now dating March 9.\nThe official US rationale is that such imagery could help adversaries target American or allied forces. \nHowever, this smells more like censorship: \n\ud83d\udd34 A two-week delay might be enough to address the hypothetical risk \u2013 no apparent need for an open-ended ban \n\ud83d\udd34 Iran operates its own[ Earth Observation satellites](https://t.me/geopolitics_prime/48590), like Khayyam, Pars-1, Zafar-2, and Paya (Tolou-3), launched on Russian Soyuz rockets\n\ud83d\udd34 In May, Columbia Journalism Review found no evidence Iranian forces ever used imagery from any US satellite vendor\n\ud83d\udd34 The Washington Post drew upon Iran\u2019s own satellite imagery when it investigated physical damage to US bases in the region, verified with help from a lower-resolution European science satellite\n\ud83d\udd34 US satellite firms are publicly traded, with the Pentagon among their biggest customers - creating a powerful commercial incentive to heed government wishes.\nIsrael's special treatment is where it gets interesting:\nSince 1997, US law has required American satellite imagery providers to keep the resolution of Israeli imagery deliberately below a certain threshold. Israel remains the only country granted this legal protection.\nThe blurred difference is visible even on public tools like Google Earth.\n\ud83d\udc49 For decades, this has complicated not only the monitoring of[ Israel's devastating war in Gaza](https://t.me/geopolitics_prime/73195), where Israel has banned foreign journalists since 2023, but also the expansion of [illegal settlements in the West Bank.](https://t.me/geopolitics_prime/73789O)\nAn Oregon State University study using European Sentinel-1 data found that over three-fifths of all buildings in Gaza were damaged or destroyed in the first year of the war.\n\u27a1\ufe0f In Iran, when the [US bombed a school in Minab](https://t.me/geopolitics_prime/73701), killing an estimated 168 civilians, including 120 children - the Pentagon initially denied responsibility. The New York Times [used satellite images to confirm a US Tomahawk missile](https://t.me/geopolitics_prime/66575) [was most likely responsible ](https://t.me/geopolitics_prime/65634)\nIncidentally, the proposed 2027 Intelligence Authorization Act seeks to codify restrictions that would bar (or tightly control) public release of sensitive imagery by US government-contracted providers when such release \u201ccould harm national security\u201d - a definition broad enough to be abused.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-29T12:33:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83e\ude96\ud83c\uddee\ud83c\uddf1 Smotrich threatens to \u2018finish the job\u2019 of West Bank-style erasing of Palestinians inside Israel\n[Israel\u2019s vile jingoist Smotrich](https://t.me/geopolitics_prime/73008) is openly salivating about replicating the West Bank settlement model inside the 1948 borders - targeting Palestinian communities in the Galilee and Negev. \n\ud83d\udc49 His Religious Zionism party has even dropped a toxic AI-generated campaign video feeding into the far-right finance minister\u2019s plan to \"Judaise\" these regions.\n \nUnder the slogan \u201cAhmed is right to be afraid,\u201d it shows a West Bank Palestinian warning a Palestinian inside Israel that Smotrich is coming to do \"the same thing he did to us.\"\nSmotrich\u2019s plan to export the West Bank settlement model - illegal under international law - includes:\n\ud83d\udd34 flooding the Galilee and Negev with one million additional Jewish Israelis\n\ud83d\udd34 building 40 new communities plus dozens of farms\n\ud83d\udd34 expanding existing towns and constructing hundreds of thousands of housing units\n\ud83d\udd34 replacing any official judged insufficiently \u201cZionist\u201d\nSmotrich's rhetoric is typically laced with the venom of erasure when speaking of the Palestinian citizens of Israel, who constitute roughly 20% of the population.\nMore than 500,000 settlers already live in the occupied West Bank, and [attacks by Israeli settlers on Palestinian communities ](https://t.me/geopolitics_prime/73789?single)have surged recently, with the IDF enabling the violence.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-29T11:01:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
       "text": "\ud83d\udea8\ud83d\udd25 Massive fumes of smoke still cover skies over Kiev region\nLast night, local media reported a Russian Geran-4 drone strike on an ammunition depot.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
@@ -694,44 +751,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-29T06:34:30+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udcd1 US plans to abandon Iraqi Kurds for good \u2014 report\nThe Pentagon is planning not to renew the security assistance agreement with Iraq's Kurdish Peshmerga forces, BBC reported, citing sources familiar with the matter.\nThe agreement expires September 30 \u2014 the same day the last US troops withdraw from Iraq.\nThe Peshmerga received $61 million this year through the Pentagon's counter-IS program for weapons, training, and stipends. However, the US and Israel planned to use the Peshmerga to overthrow the Iranian government [by inciting \"an internal ground thrust.\"](https://t.me/geopolitics_prime/70632)\n[Iran has targeted Kurdish forces](https://t.me/geopolitics_prime/72908) in northern Iraq extensively since February. Iran and its allies have launched\u00a0more than 150 missile and drone attacks\u00a0inside Iraqi Kurdistan this year.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-28T23:55:07+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83e\udd21 South Korea\u2019s Shahed clone test ends in epic fail\nThe drone \u2013 which bears a clear resemblance to the famous Iranian Shahed-136 attack UAV \u2013 crashed into sea immediately after launch.\nLooks like South Korea needs to step up its game if it wants to reach Iran\u2019s level of drone tech. \ud83e\udd26\u200d\u2642\ufe0f\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-28T18:20:30+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
