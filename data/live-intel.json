@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T03:21:31.443576+00:00",
+  "generated_at": "2026-08-29T10:22:40.937795+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -68,63 +68,6 @@
       "icon": "\ud83d\udea8",
       "timestamp": "08/26/2026",
       "location": "ZNY PA",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nMAYPORT, FL, Monday, August 24, 2026 through Saturday, August 29, 2026 Local\nFacility: ZJX",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "08/23/2026",
-      "location": "ZJX FL",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nDenver, CO, Friday, August 28, 2026 through Friday, August 28, 2026 Local\nFacility: ZDV",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "08/22/2026",
-      "location": "ZDV CO",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nEast Rutherford, NJ, Friday, August 28, 2026 through Friday, August 28, 2026 Local\nFacility: ZNY",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "08/21/2026",
-      "location": "ZNY NJ",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
@@ -403,31 +346,12 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "BIG: Ukrainian missile strikes hit Russian command posts in occupied Donetsk, with Ukraine confirming the attacks.\nAccording to preliminary Ukrainian reports, 27 Russian personnel were killed and 58 wounded, with some still trapped under the rubble. \nTwo generals, one colonel and two lieutenant colonels were reportedly seriously wounded.\nOne Russian lieutenant colonel\u2019s death has been independently confirmed.\nThe weapons used are unclear, with Storm Shadow/SCALP missiles among those suggested.",
+      "text": "The U.S. has transferred large quantities of missiles and air-defense systems to the Middle East for the Iran war, leaving some stockpiles in Europe and Asia at critically low levels, according to U.S. officials.\nPatriot, ATACMS and other precision weapons have been heavily depleted, while THAAD interceptors and counterdrone systems have also been shifted to the region. Replenishing inventories could take years.\nThe shortages are forcing U.S. commanders to adjust contingency plans and have raised concerns about Washington\u2019s ability to respond simultaneously to a potential Chinese attack on Taiwan or a Russian threat to NATO.\nSource: WSJ",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-28T21:41:02+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "WATCH: Major explosion and apparent secondary detonations observed near the M06 Zhytomyr highway in Kyiv region's Bucha district. \nMultiple accounts claim a Russian Geran-4 jet-powered drone struck an ammunition depot, but this has not been independently confirmed.\nThe footage shows a large fireball, shockwave, debris and possible munitions cooking off.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-28T18:38:36+00:00",
+      "timestamp": "2026-08-29T06:32:56+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -593,6 +517,25 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddfa\ud83c\udde6\u26a1\ufe0f\ud83c\uddf7\ud83c\uddfa\u2014 Russian drone strike triggers massive explosions at a facility near Kyiv.\nA Russian drone reportedly struck an enterprise in Myla, Kyiv region, triggering a large fire followed by prolonged detonations.\nAuthorities say six people were injured and 165 were evacuated as the fire spread toward nearby residential areas. One house was destroyed and seven others were damaged.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-29T04:24:23+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
       "text": "\ud83c\uddf9\ud83c\uddf7\ud83c\uddf5\ud83c\uddf8\ud83c\uddf1\ud83c\udde7\ud83d\udeab\ud83c\uddee\ud83c\uddf1 \u2014 Turkish President Erdogan:\nIn Palestine, millions of our brothers are struggling to survive under extremely difficult conditions, deprived of the most basic necessities.\nIn Lebanon, it is the same. 1.3 million of our brothers were forced to leave their homes because of attacks by the Israeli government, more than 4,000 people were killed, and more than 12,000 Lebanese people, including children and women, were injured.\nIsrael\u2019s current war-addicted government is trying every kind of provocation to destabilize our entire region, starting with its neighbors.\nThe radical, occupying, genocidal ideology called Zionism is not only targeting the peace of its neighbors; it is also targeting everyone who defends regional peace and humanitarian values. \nWhen we draw attention to Zionism\u2019s expansionist ambitions, we do so not for ourselves, but on behalf of all the peoples of the region, regardless of their faith, and on behalf of the human front.\n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
@@ -687,70 +630,13 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddf5\ud83c\uddf8\ud83c\uddf5\ud83c\uddf8\ud83d\udeab\ud83c\uddee\ud83c\uddf1\u26a1\ufe0f \u2014 Hamas Movement:\nThe Hamas Movement mourns the heroic martyrs who were killed in the massacre committed by the Israeli occupation in the Harsh Al-Saada area of Jenin.\nThis heinous crime will be met with nothing but greater anger and confrontation. The West Bank will remain a source of resistance fighters and heroic acts.\nWe hold the Israeli occupation fully responsible for the repercussions of this bombardment, the escalating crimes, and the continuation of its brutal policy of killing, demolition, and terrorizing civilians.\nWe affirm that continued aggression will bring neither security nor stability to the occupation.\nWe call on our people in Jenin and across the provinces of the West Bank to escalate all forms of resistance and disrupt the occupation's security calculations.\nWe call on the Arab and Islamic nations, the international community, and human rights and humanitarian organizations to take immediate action to stop the occupation's escalating abuses.\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-28T15:12:00+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf9\ud83c\uddfa\ud83c\udde6Former Ukrainian Defense Minister Mykhailo Fedorov has accepted the role of advisor to Italian Minister Guido Crosetto for innovation in the defense sector. Fedorov will collaborate with Italy on technologies such as drones, autonomous systems, and air defense.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-28T23:08:27+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ufe0f\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8 The Doomsday Plane fleet is still up.\nAlthough it is worth noting that there are 5 aircrafts with the same signature, despite official counts stating that there are x4 of them.\nA plausible explanation is that 1 of the 5 is the replacement design of the Doomsday fleet.\nFor those that are unfamiliar with the Doomsday fleet, these aircrafts are essentially airborne command centers and are capable of tracking, launching & controlling land-based and sea-based ballistic missiles, as well as being fully self-sustained for Electronic warfare, counter-EW, among other things.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-28T22:27:21+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8\ud83c\uddf2\ud83c\uddfd[Reuters:](https://www.reuters.com/business/aerospace-defense/us-military-uses-laser-down-three-mexican-cartel-drones-near-border-2026-08-28/) The U.S. military shot down three Mexican cartel drones on the U.S.-Mexico border using a laser this week. \n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "\u2757\ufe0fUkrainian attack drones slammed into a DNS warehouse complex in Rostov-on-Don this morning amid a large-scale drone attack. The facility caught fire as explosions and heavy Russian air defense activity were reported across the city. An Ozon warehouse was reportedly also targeted.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-28T03:32:53+00:00",
+      "timestamp": "2026-08-29T05:13:05+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -764,12 +650,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf7CENTCOM Commander Admiral Cooper says that the U.S. has successfully demined the Strait of Hormuz. \n\"As recently announced, the US military has achieved a major milestone in the Strait Of Hormuz. We have successfully cleared sea mines in the Strait's international shipping lanes that were laid months ago by Iran's Islamic Revolutionary Guard Corps.\"\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "\u26a1\ud83c\udde8\ud83c\uddf4 Colombia Third Division troops engaged in clashes with armed groups in both the rural and urban areas of Jambal\u00f3, Cauca department, with attackers reportedly using drones fitted with improvised explosives against military positions.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-28T03:32:26+00:00",
+      "timestamp": "2026-08-29T05:12:49+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -782,77 +668,39 @@
     },
     {
       "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfaUkrainian drones have targeted the Engles-2 Air Base in Russia's Saratov Region during this evening's Ukrainian drone incursion into Russia. \n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udea8\ud83d\udd25 Massive fumes of smoke still cover skies over Kiev region\nLast night, local media reported a Russian Geran-4 drone strike on an ammunition depot.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-28T03:32:19+00:00",
+      "timestamp": "2026-08-29T09:50:45+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "CASELS"
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
     {
       "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\udde8\ud83c\uddf4\ud83c\udde8\ud83c\uddf4Four Colombian security personnel were injured after being attacked by an explosive drone, likely from the ELN, in Pelaya, Cesar Department, earlier this Thursday. \n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udd0d Hegseth weighing second Quantico summons for top military leaders \u2014 timing raises eyebrows\nSecretary of War Crimes Pete Hegseth is considering inviting hundreds of senior military personnel back to Marine Corps Base Quantico for a second address this year, according to US officials, cited by a WSJ report \u2014 the same venue where he delivered his \"no more beardos\" speech last fall.\nHere's why the timing matters.\nThe Calendar\n\ud83d\udd34 Last September: Hegseth summoned every general and admiral on short notice, no stated reason. Trump opened the event. The message: return to \"warfighting.\"\n\ud83d\udd34 February: The United States was at war with Iran.\n\ud83d\udd34 Now: Hegseth is eyeing Quantico again \u2014 this time with a war underway, a purge in progress, and a political calendar closing in.\nThe Political Window\n\ud83d\udd36 Marco Rubio has reportedly told foreign counterparts that new strikes are off until after the November midterms. Another campaign could follow.\n\ud83d\udd36 Whatever directives get issued at Quantico, every officer in that room will be reading them against that window.\nThe Purge Factor\nHegseth's massive overhaul of the Pentagon has shaken up the ranks. Senior officers are being pushed out. The military leadership is nervous, and political loyalty is being tested.\nSending them all back to Quantico sends a message: \"I'm in charge. You'll either fall in line or fall out.\"\n\ud83d\udc49 The military is being reshaped in real time. Whether or not the Quantico address happens, it is already a signal.\nThe war with Iran has exposed fault lines. The purge has deepened them. Now, Hegseth is desperate to keep the generals on board.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-28T03:32:11+00:00",
+      "timestamp": "2026-08-29T06:34:30+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6 [NYT](https://www.nytimes.com/2026/08/27/us/politics/cia-director-russia-ukraine.html): CIA Director John Ratcliffe privately delivered a bleak assessment of Russia's war against Ukraine to FSB chief Aleksandr Bortnikov, urging Moscow to pursue a peace deal before its military and economic position deteriorates further. \nRatcliffe told Bortnikov that Russia has gained only about 1% of Ukrainian territory in the 18 months since he became CIA director, attributing the stalled advance to Ukraine's success in drone strikes, and previously noted that a Russian soldier's life expectancy on the front lines is under 35 minutes. \nBefore the meeting, Ratcliffe consulted his Ukrainian counterparts to assure them he would be probing Russian positions rather than negotiating on Kyiv's behalf. The visit marks the first face-to-face meeting between Ratcliffe and Bortnikov, following an earlier prisoner swap they had coordinated remotely. \nDirect US-Russian intelligence-chief meetings have been rare in recent years, as the last one was CIA Director William Burns' November 2022 meeting with SVR chief Sergei Naryshkin in Ankara, where Burns warned against Russian use of a nuclear device in Ukraine.\nEuropean diplomats believe a window for a peace agreement may open this winter given Russia's stalled Donbas offensive and Ukraine's continued ability to inflict costs through drone strikes, with some pressing Washington to add a dedicated national security official to the negotiating track.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-28T03:30:35+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1 [Bloomberg](https://www.bloomberg.com/news/articles/2026-08-27/israel-plans-to-expand-its-navy-to-secure-vulnerable-trade-routes): Israel is moving to expand its navy after three years of regional war exposed how vulnerable its heavily sea-dependent economy - 99% of trade, most offshore energy, and key subsea cables - is to attacks from Iran, Hezbollah and the Houthis. \nThe Defense Ministry has already ordered five new missile ships for $780 million and is investing heavily in unmanned surface and underwater drones, such as Elbit's Seagull, to extend coverage at lower cost than crewed vessels. \nThe push follows acknowledged failures, including the navy's inability to stop Hamas's October 2023 beach landing and its struggle to break the Houthi blockade near Eilat, as analysts warn that cheap threats like mines and drones can inflict outsized damage on costly ships and infrastructure.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-28T03:24:48+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
@@ -884,63 +732,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-28T18:20:30+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udd25 Russian Geran-4 drone strike triggers massive explosion at ammo depot in Kiev region\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-28T18:14:05+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\u2721\ufe0f Zionist-sanctioned death squads: How Israel arms Gaza\u2019s ISIS-linked criminals to commit genocide\nIsrael has transformed drug dealers and gang leaders into an \"operational arm\" of the occupation in Gaza, reports the Haaretz.\nThe Zionist state, the Israel Defense Forces (IDF), and Shin Bet are arming, training, and protecting criminal militias, who act under the cover of Israeli artillery and drones, per an investigation based on IDF soldiers' testimonies, sources in Gaza and satellite imagery.\n\ud83d\udd34 Five prominent armed groups are now operating across Gaza - in Beit Hanoun, Shujaiyeh, Deir al-Balah, Khan Yunis, and Rafah - each assigned a specific area under Israeli military control \n\ud83d\udd34 They have army call signs, appear on IDF briefing maps, are marked in command systems, and have bases located just hundreds of meters from Israeli outposts\n\ud83d\udd34 These are former gang bosses and drug dealers - not political leaders or credible alternatives to Hamas\n\u2666\ufe0f The gangs are not just fighting Hamas, they open fire on Palestinian civilians, loot and torch homes, and forcibly displace families from shelters\n\u2666\ufe0f Some compounds feature training yards, concrete barriers matching IDF standards, air-conditioned structures, stocked shops and even playgrounds\nPM Benjamin Netanyahu himself admitted in June 2025 that Israel had \u201cactivated\u201d clans against Hamas, including \"criminals affiliated with the Islamic State.\" Israel has been deliberately creating an environment of lawlessness and terror:\n\ud83c\udf0f Hamas' police force was systematically targeted while escorting aid convoys, leaving trucks unguarded and crossings exposed - creating a security vacuum that militias could fill\n\ud83c\udf0f Early on one of the key figures was Yasser Abu Shabab, a [since-killed Rafah warlord](https://t.me/geopolitics_prime/64461) whose gang looted UN aid convoys under Israeli protection while Israel publicly blamed Hamas \n\ud83c\udf0fThe militias are used as proxies to retrieve drones from Hamas-controlled areas\nSenior IDF commanders acknowledge that the militias lack legitimacy among Palestinians and cannot survive without Israeli protection, and are cited as warning that this could lead to atrocities \"reminiscent of the Sabra and Shatila massacre.\" \n\u27a1\ufe0f At the time, up to 3,500 Palestinian refugees were slaughtered by Israel\u2019s proxy militia, the Phalange, during Israel\u2019s invasion of Lebanon in 1982. \nIsrael now reportedly uses these militias as leverage against[ Donald Trump's peace plan. ](https://t.me/geopolitics_prime/73507)\n[The condition for disarmament is Hamas giving up its weapons](https://t.me/geopolitics_prime/71473) - but Hamas refuses to do so as long as these criminal groups remain armed and supported by Israel. \nMeanwhile, the militias continue to expand, with hundreds of members, parades, and propaganda campaigns on Facebook to recruit new fighters.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-28T15:33:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udc79 Netanyahu's Gaza plan: Stay forever, rebuild never, strike anyone \nIsraeli PM Benjamin Netanyahu has now boiled his stance down to an uncompromising core.\n\ud83d\udcac \u201cWe're are not moving\u2026 There will be no reconstruction of the Gaza Strip until Hamas is dismantled and all of Gaza is demilitarized... We retain our freedom of action to strike whoever we need to,\u201d he spouted.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-28T13:58:54+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
