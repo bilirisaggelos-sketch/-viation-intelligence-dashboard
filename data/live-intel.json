@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T18:39:24.082309+00:00",
+  "generated_at": "2026-08-29T21:18:31.394976+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -555,6 +555,25 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf1\u274c\ud83c\uddee\ud83c\uddf7 \u2014 Israeli Energy Minister: We will strike Iran if it resumes its nuclear or missile program.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-29T20:55:02+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
       "text": "\ud83c\uddee\ud83c\uddf6\ud83c\uddee\ud83c\uddf6\ud83c\uddfa\ud83c\uddf8\ud83c\uddf9\ud83c\uddf7\u26a1\ufe0f \u2014 The Islamic Resistance in Iraq, represented by the Sayyid al-Shuhada Brigades, has announced the following conditions for handing over its weapons:\nFirst: The withdrawal of U.S. military forces and preventing them from using Iraqi airspace as a launching point to target any other country.\nSecond: The enactment of the Iraqi Popular Mobilization Forces (PMF) Law.\nThird: The establishment of full sovereignty of the Iraqi security forces over every inch of Iraqi territory, from the far north to the far south.\nFourth: Strengthening Iraq\u2019s air defenses with advanced systems operating exclusively under Iraqi decision-making authority.\nFifth: The complete expulsion of PKK fighters from Iraqi territory in order to eliminate the justifications for Turkish attacks on Iraqi territory.\nSixth: The withdrawal of Turkish troops deployed in northern Iraq and their departure from Iraqi territory back across the Turkish border.\nSeventh: Placing Iraq\u2019s borders in the Kurdistan Region under the control of the Iraqi Army, considering this an exclusive sovereign responsibility of the army, while placing all border crossings under the control and administration of the federal government.\nEighth: Removing Iranian opposition groups from their positions in northern Iraq to ensure that Iraqi territory is not used as a launching point for ground attacks against neighboring countries.\nNinth: Working to free Iraq\u2019s financial and economic decision-making from U.S. dominance, in pursuit of the principle of making Iraq sovereign over its own affairs\u2014a principle long advocated by the senior religious authority and patriotic members of the Iraqi people.\nTenth: Working to free Iraq\u2019s political decision-making from U.S. control, ending what it described as the \u201cinnovation\u201d of the U.S. special envoy in Iraq, and halting U.S. Embassy interference in Iraq\u2019s internal affairs.\n\ufeff",
       "source": "Telegram",
       "source_type": "telegram",
@@ -573,20 +592,39 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddfa\ud83c\udde6\u26a1\ufe0f\ud83c\uddf7\ud83c\uddfa\u2014 Russian drone strike triggers massive explosions at a facility near Kyiv.\nA Russian drone reportedly struck an enterprise in Myla, Kyiv region, triggering a large fire followed by prolonged detonations.\nAuthorities say six people were injured and 165 were evacuated as the fire spread toward nearby residential areas. One house was destroyed and seven others were damaged.\n\u26aa\ufe0f",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6 Ballistic missiles have been launched from the Kursk region in Russia.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-29T04:24:23+00:00",
+      "timestamp": "2026-08-29T19:12:17+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN"
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6 Most of Ukraine is being attacked, and sirens are heard in many cities.\nReports of a likely massive ballistic missile attack tonight.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-29T18:58:54+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
       ],
       "verified_source_count": 1
     },
@@ -618,25 +656,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-29T15:23:49+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "One time, Me and Middle East Spectator were playing chess.\nA cat (government drone) then proceeded to jump on my lap without permission, and whispered to me cat things about how to play chess properly.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-29T11:46:30+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -688,6 +707,25 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
+      "text": "\u2721\ufe0f\ud83d\udd28 Honenu: Israeli extremists backed by domestic legal aid and hefty US donations\nThe organization Honenu presents itself as a \u201cnational legal defense\u201d group fighting what it portrays as the persecution of Israeli soldiers and citizens by government authorities and an allegedly anti-Israel court system.\nBut whom, exactly, does Honenu protect?\nFive Israel Defense Forces (IDF) Unit 100 soldiers sexually abused and sodomized a Palestinian detainee with a knife at the Sde Teiman military base on July 5, 2024. The rape incident resulted in the detainee being hospitalized with a perforated rectum, cracked ribs, a punctured lung, and an internal tear.\nMajor-General Yifat Tomer-Yerushalmi, the Israeli military\u2019s top lawyer, filed the indictment and leaked the video of the abuse to Channel 12. The video triggered international condemnation of the Israeli soldiers' cruelty.\nHowever, all charges against the rapists were dropped in March 2026 following legal assistance from Honenu. Tomer-Yerushalmi resigned and was later arrested. Israeli PM Benjamin Netanyahu publicly denounced the leak of the video as the worst \u201cpublic relations attack\u201d on Israel.\nThe organization's lawyers also shielded:\n\ud83d\udd34 Ami Popper, who was convicted of murdering seven Palestinians in 1990\n\ud83d\udd34 Yaakov Teitel, who murdered two Palestinians in 1997 and later attempted attacks using explosive devices against Israelis in 2008\n\ud83d\udd34 Bat Ayin Underground members, convicted in 2002 of attempting to bomb a Palestinian girls\u2019 school in occupied East Jerusalem\n\ud83d\udd34 [A member of Lehava](https://t.me/geopolitics_prime/59960), the Jewish supremacist group, indicted in 2014 over the arson attack on the Hand-in-Hand Jewish-Palestinian school in Jerusalem\n\ud83d\udd34 Three Israeli settlers who abducted 16-year-old Palestinian Mohammed Abu Khdeir in occupied East Jerusalem, beat him, and burned him alive in a forest outside the city in 2014\nThe organization brags that its has assisted \"over 15,000 Jews who have acted on behalf\" of the Israeli nation.\nPerhaps most tellingly, one of Honenu\u2019s former lawyers was notorious [Israeli National Security Minister Itamar Ben-Gvir](https://t.me/geopolitics_prime/72267), according to The New Arab. While working for Honenu, he represented Yinon Reuveni, convicted of setting fire to the Church of the Multiplication in the Galilee in 2017, as well as the settler convicted of killing three members of the Dawabsheh family \u2013 a mother, father, and their 18-month-old son \u2013 in 2015.\nWho is paying for that?\nHonenu not only provides legal assistance but also offers financial support to clients and their families, including following incarceration.\nThe entity is funded through Israeli and US tax-exempt donations, including from US-based nonprofits such as the Central Fund of Israel (CFI) and Friends of Zo Artzeinu. In 2015, Haaretz revealed that private US donors had provided more than $220 million through tax-exempt non-profits to[ illegal Jewish communities](https://t.me/geopolitics_prime/69018) in the West Bank between 2009 and 2013 alone. That also included supporting the families of convicted Jewish terrorists. Following the reports, CFI temporarily suspended funding to Honenu in 2016, but later resumed it, while Honenu allegedly continued covertly supporting Israeli extremists, The New Arab reports.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-29T20:06:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
       "text": "\ud83d\udd25 Thick plumes of smoke rising over Ukraine's Nikolayev after Russian Geran drone strike\nLocal media claim the strike hit a factory near the city's airfield.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
@@ -732,25 +770,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-29T12:33:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83e\ude96\ud83c\uddee\ud83c\uddf1 Smotrich threatens to \u2018finish the job\u2019 of West Bank-style erasing of Palestinians inside Israel\n[Israel\u2019s vile jingoist Smotrich](https://t.me/geopolitics_prime/73008) is openly salivating about replicating the West Bank settlement model inside the 1948 borders - targeting Palestinian communities in the Galilee and Negev. \n\ud83d\udc49 His Religious Zionism party has even dropped a toxic AI-generated campaign video feeding into the far-right finance minister\u2019s plan to \"Judaise\" these regions.\n \nUnder the slogan \u201cAhmed is right to be afraid,\u201d it shows a West Bank Palestinian warning a Palestinian inside Israel that Smotrich is coming to do \"the same thing he did to us.\"\nSmotrich\u2019s plan to export the West Bank settlement model - illegal under international law - includes:\n\ud83d\udd34 flooding the Galilee and Negev with one million additional Jewish Israelis\n\ud83d\udd34 building 40 new communities plus dozens of farms\n\ud83d\udd34 expanding existing towns and constructing hundreds of thousands of housing units\n\ud83d\udd34 replacing any official judged insufficiently \u201cZionist\u201d\nSmotrich's rhetoric is typically laced with the venom of erasure when speaking of the Palestinian citizens of Israel, who constitute roughly 20% of the population.\nMore than 500,000 settlers already live in the occupied West Bank, and [attacks by Israeli settlers on Palestinian communities ](https://t.me/geopolitics_prime/73789?single)have surged recently, with the IDF enabling the violence.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-29T11:01:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
