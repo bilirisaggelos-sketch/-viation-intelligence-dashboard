@@ -1,6 +1,25 @@
 {
-  "generated_at": "2026-08-28T21:29:56.386532+00:00",
+  "generated_at": "2026-08-29T03:21:31.443576+00:00",
   "events": [
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nSTOYSTOWN, PA, Monday, August 31, 2026 Local\nFacility: ZOB",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "08/29/2026",
+      "location": "ZOB PA",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nMacon, GA, Tuesday, September 1, 2026 through Friday, September 4, 2026 Local\nFacility: ZTL",
@@ -211,6 +230,25 @@
       "verified_source_count": 1
     },
     {
+      "title": "Space Weather Message Code: WARK04\r",
+      "text": "Space Weather Message Code: WARK04\r\nSerial Number: 5408\r\nIssue Time: 2026 Aug 28 2350 UTC\r\n\r\nEXTENDED WARNING: Geomagnetic K-index of 4 expected\nExtension to Serial Number: 5407\nValid From: 2026 Aug 28 1409 UTC\nNow Valid Until: 2026 Aug 29 1200 UTC\nWarning Condition: Persistence\n\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-08-28 23:50:18.003",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
       "title": "Space Weather Message Code: WARK05\r",
       "text": "Space Weather Message Code: WARK05\r\nSerial Number: 2261\r\nIssue Time: 2026 Aug 28 2040 UTC\r\n\r\nWARNING: Geomagnetic K-index of 5 expected \nValid From: 2026 Aug 28 2039 UTC\nValid To: 2026 Aug 29 0600 UTC\nWarning Conditions: Onset\nNoaa Scale: G1 - Minor\nComment: \r\n\r\nNOAA Scale: G1 - Minor\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
       "source": "NOAA Space Weather",
@@ -276,25 +314,6 @@
       "severity": "warning",
       "icon": "\ud83d\udef0\ufe0f",
       "timestamp": "2026-08-27 09:34:30.553",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Space Weather Message Code: WATA30\r",
-      "text": "Space Weather Message Code: WATA30\r\nSerial Number: 280\r\nIssue Time: 2026 Aug 26 1636 UTC\r\n\r\nWATCH: Geomagnetic Storm Category G2 Predicted \nHighest Storm Level Predicted by Day:\nAug 27: G1 (Minor) Aug 28: G2 (Moderate) Aug 29: G2 (Moderate) \nTHIS SUPERSEDES ANY/ALL PRIOR WATCHES IN EFFECT\nComment: HSS on 27 + CMEs on 28-29.\nCORRECTED\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 55 degrees Geomagnetic Latitude.\r\nInduced Currents - Power grid fluctuations can occur. High-latitude power systems may experience voltage alarms.\r\nSpacecraft - Satellite orientation irregularities may occur; increased drag on low Earth-orbit satellites is possible.\r\nRadio - HF (high frequency) radio propagation can fade at higher latitudes.\r\nAurora - Aurora may be seen as low as New York to Wisconsin to Washington state.",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-08-26 16:36:10.973",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -384,12 +403,12 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "WATCH: Major explosion and apparent secondary detonations observed near the M06 Zhytomyr highway in Kyiv region's Bucha district. \nMultiple accounts claim a Russian Geran-4 jet-powered drone struck an ammunition depot, but this has not been independently confirmed.\nThe footage shows a large fireball, shockwave, debris and possible munitions cooking off.",
+      "text": "BIG: Ukrainian missile strikes hit Russian command posts in occupied Donetsk, with Ukraine confirming the attacks.\nAccording to preliminary Ukrainian reports, 27 Russian personnel were killed and 58 wounded, with some still trapped under the rubble. \nTwo generals, one colonel and two lieutenant colonels were reportedly seriously wounded.\nOne Russian lieutenant colonel\u2019s death has been independently confirmed.\nThe weapons used are unclear, with Storm Shadow/SCALP missiles among those suggested.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-28T18:38:36+00:00",
+      "timestamp": "2026-08-28T21:41:02+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -403,12 +422,12 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Ukrainian monitoring channels say a Russian Geran-4 jet-powered kamikaze drone flew about 960 km from occupied Crimea to Volyn in 1 hour 55 minutes, averaging roughly 500 km/h.\nThe drone was reportedly shot down near Torchyn, making the flight a possible new recorded range maximum for the Geran-4.",
+      "text": "WATCH: Major explosion and apparent secondary detonations observed near the M06 Zhytomyr highway in Kyiv region's Bucha district. \nMultiple accounts claim a Russian Geran-4 jet-powered drone struck an ammunition depot, but this has not been independently confirmed.\nThe footage shows a large fireball, shockwave, debris and possible munitions cooking off.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-28T17:26:27+00:00",
+      "timestamp": "2026-08-28T18:38:36+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -574,6 +593,63 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddf9\ud83c\uddf7\ud83c\uddf5\ud83c\uddf8\ud83c\uddf1\ud83c\udde7\ud83d\udeab\ud83c\uddee\ud83c\uddf1 \u2014 Turkish President Erdogan:\nIn Palestine, millions of our brothers are struggling to survive under extremely difficult conditions, deprived of the most basic necessities.\nIn Lebanon, it is the same. 1.3 million of our brothers were forced to leave their homes because of attacks by the Israeli government, more than 4,000 people were killed, and more than 12,000 Lebanese people, including children and women, were injured.\nIsrael\u2019s current war-addicted government is trying every kind of provocation to destabilize our entire region, starting with its neighbors.\nThe radical, occupying, genocidal ideology called Zionism is not only targeting the peace of its neighbors; it is also targeting everyone who defends regional peace and humanitarian values. \nWhen we draw attention to Zionism\u2019s expansionist ambitions, we do so not for ourselves, but on behalf of all the peoples of the region, regardless of their faith, and on behalf of the human front.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-29T01:44:19+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf7\u26a1\ufe0f \u2014 IRGC launched at least 4 anti-ship cruise missiles.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-28T23:10:58+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83d\udea8\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf7 \u2014 Multiple explosions have been reported in the Strait of Hormuz.\nThe first blast in Sirik is believed to have been caused by a missile launch, with a second explosion originating from the direction of the Sea of Oman.\nA fourth explosion was also heard in the strait, reportedly from missiles and drones fired toward vessels deemed in violation.\nFollow",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-28T22:46:35+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
       "text": "\ud83c\uddee\ud83c\uddf7\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8 Reports of missile launched from Iran to strait of hormuz\n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
@@ -630,51 +706,32 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddfa\ud83c\uddf8\u274c\ud83c\uddee\ud83c\uddf6 \u2014 The USA has added former Iraqi Finance Minister Taif Sami to the FBI\u2019s terrorism watchlist and revoked her visa to enter the USA.\n\u26aa\ufe0f",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf9\ud83c\uddfa\ud83c\udde6Former Ukrainian Defense Minister Mykhailo Fedorov has accepted the role of advisor to Italian Minister Guido Crosetto for innovation in the defense sector. Fedorov will collaborate with Italy on technologies such as drones, autonomous systems, and air defense.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-28T14:46:23+00:00",
+      "timestamp": "2026-08-28T23:08:27+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf1\ud83c\uddf5\ud83c\uddf8\u26a1\ufe0f \u2014 Israeli Prime Minister Benjamin Netanyahu:\nInitiative and attack. I commend our forces for the successful elimination of the terrorists in Jenin. Shabbat Shalom!\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-28T14:08:11+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
+        "Mediterranean Man"
       ],
       "verified_source_count": 1
     },
     {
       "title": "Telegram",
       "publisher": "Mediterranean Man",
-      "text": "\u26a1\u26a1\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6 More footage from the site of the massive secondary detonations near the Kiev\u2013Zhytomyr highway appears to show rocket-powered munitions being propelled into the air from the burning warehouse complex.\nSeveral objects can be seen rising from the site under apparent propulsion rather than simply being thrown outward by the explosions, displaying flight characteristics consistent with missiles undergoing cook-off after their motors ignited. The trajectories have led to speculation that the facility may have contained air-defense interceptors, although the exact type of munitions stored at the site has not yet been identified.",
+      "text": "\u26a1\ufe0f\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8 The Doomsday Plane fleet is still up.\nAlthough it is worth noting that there are 5 aircrafts with the same signature, despite official counts stating that there are x4 of them.\nA plausible explanation is that 1 of the 5 is the replacement design of the Doomsday fleet.\nFor those that are unfamiliar with the Doomsday fleet, these aircrafts are essentially airborne command centers and are capable of tracking, launching & controlling land-based and sea-based ballistic missiles, as well as being fully self-sustained for Electronic warfare, counter-EW, among other things.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-28T21:26:19+00:00",
+      "timestamp": "2026-08-28T22:27:21+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -802,6 +859,25 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udcd1 US plans to abandon Iraqi Kurds for good \u2014 report\nThe Pentagon is planning not to renew the security assistance agreement with Iraq's Kurdish Peshmerga forces, BBC reported, citing sources familiar with the matter.\nThe agreement expires September 30 \u2014 the same day the last US troops withdraw from Iraq.\nThe Peshmerga received $61 million this year through the Pentagon's counter-IS program for weapons, training, and stipends. However, the US and Israel planned to use the Peshmerga to overthrow the Iranian government [by inciting \"an internal ground thrust.\"](https://t.me/geopolitics_prime/70632)\n[Iran has targeted Kurdish forces](https://t.me/geopolitics_prime/72908) in northern Iraq extensively since February. Iran and its allies have launched\u00a0more than 150 missile and drone attacks\u00a0inside Iraqi Kurdistan this year.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-28T23:55:07+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
       "text": "\ud83e\udd21 South Korea\u2019s Shahed clone test ends in epic fail\nThe drone \u2013 which bears a clear resemblance to the famous Iranian Shahed-136 attack UAV \u2013 crashed into sea immediately after launch.\nLooks like South Korea needs to step up its game if it wants to reach Iran\u2019s level of drone tech. \ud83e\udd26\u200d\u2642\ufe0f\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
@@ -865,25 +941,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-28T13:58:54+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83e\udd14\ud83d\udc79 Will Netanyahu's 'total victory' (aka endless war) political lifeline become his noose?\nThroughout [Israel\u2019s Gaza genocide](https://t.me/geopolitics_prime/73648), PM Benjamin Netanyahu has used the 'total victory' slogan as political glue.\n\ud83d\udc49 Just over a month after October 7, 2023, Channel 12's first post-attack poll showed his Likud party polling at just 17 seats of the Knesset\u2019s 120 - close to its worst-ever showing.\nNearly three years later the governing bloc still struggles to clear 54 in most polls \u2013 but has weathered virtually every parliamentary challenge thrown its way.\n[Netanyahu\u2019s playbook](https://t.me/geopolitics_prime/73385) is rooted in turning war into a permanent condition, playing out on multiple fronts:\n\u27a1\ufe0f Genocidal annihilation in Gaza\n\u27a1\ufe0f [A land-grab rampage](https://t.me/geopolitics_prime/73639) in Lebanon to further [the \u201cGreater Israel\u201d](https://t.me/geopolitics_prime/71656) quest\n\u27a1\ufe0f Baiting the[ US into a failed](https://t.me/geopolitics_prime/73768) war on Iran\n \n\u27a1\ufe0f Settlement expansion and Palestinian displacement in the West Bank\nThis helped manage his coalition, as far-right partners like Bezalel Smotrich's Religious Zionism and Ben Gvir's Otzma Yehudit opposed any hostage deal with Hamas from the outset.\n\ud83d\udccc Endless war also conveniently postponed the state commission of inquiry that would have shredded Netanyahu\u2019s \"Mr. Security\" moniker.\nEndless war also keeps the military machine fed and funded.\nBut this logic of permanent war is also Netanyahu\u2019s Achilles\u2019 heel.\n\ud83d\udd34 After three years, Israelis don't feel much safer than on October 7, with the hostages' families refusing to sacrifice their loved ones to impossible military objectives \n\ud83d\udd34 Hamas continues to operate in Gaza, Hezbollah remains a functioning force in Lebanon, and the failed war on Iran left Israel more dependent on Trump\u2019s erratic policy\n\ud83d\udd34 International isolation progresses: In the 2026 Democratic primaries, multiple candidates who explicitly described Israel\u2019s actions in Gaza as genocide won significant races, right-wing voices treat Israel as a strategic liability, and regional alliances like the [Mecca Joint Defense Agreement](https://t.me/geopolitics_prime/73473) are forming \n\ud83d\udd34 In the West Bank, the brutal campaign to [empty Palestinian villages](https://t.me/geopolitics_prime/73613), like the Qusra siege, is producing rare pushback even in Israel \n\ud83d\udd34 Extended reserve [call-up amid troop shortage is](https://t.me/geopolitics_prime/67775) crushing\n\ud83d\udd34 [The defense budget](https://t.me/geopolitics_prime/71095) is grotesque\n\ud83d\udd34 [The ruling coalition](https://t.me/geopolitics_prime/71324) still depends on shielding its Ultra-Orthodox Haredi partners from the burden of conscription it demands of everyone else\nNetanyahu's fantasy has evolved into a trap where you can only promise victory for so long before people start noticing that victory, by your own definition, cannot exist.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-28T12:34:27+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
