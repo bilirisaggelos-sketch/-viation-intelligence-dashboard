@@ -1,6 +1,44 @@
 {
-  "generated_at": "2026-08-30T07:31:29.638903+00:00",
+  "generated_at": "2026-08-30T13:19:29.798459+00:00",
   "events": [
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nEast Rutherford, NJ, Friday, September 4, 2026 through Saturday, September 5, 2026 Local\nFacility: ZNY",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "08/30/2026",
+      "location": "ZNY NJ",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nSanta FE, NM, Friday, September 4, 2026 through Friday, September 4, 2026 Local\nFacility: ZAB",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "08/30/2026",
+      "location": "ZAB NM",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nMAYPORT, FL, Tuesday, September 1, 2026 through Friday, September 4, 2026 Local\nFacility: ZJX",
@@ -336,13 +374,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
         "Middle East Spectator"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -385,12 +422,12 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Western officials say Russia has captured Ukrainian drones and could potentially use them in false-flag attacks on NATO countries, making the attacks appear to have originated from Ukraine and sowing confusion or political pressure within the alliance.\nSource: WSJ",
+      "text": "Yemen's Houthis hit Saudi armored vehicles and troop positions on several fronts with drone strikes.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-30T07:01:43+00:00",
+      "timestamp": "2026-08-30T13:03:59+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -404,12 +441,12 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Ukrainian drones struck the Kirishi oil refinery (KINEF) in Russia's Leningrad Oblast, causing a fire. \nIt is Russia's second-largest refinery after Omsk and the only refinery in Northwestern Russia, with a capacity of around 20 million tons of oil per year.",
+      "text": "U.S. military leaders are warning Defense Secretary Pete Hegseth that extending the Iran war could dangerously strain American forces worldwide. \nCommanders say months of deployments have depleted ships, missiles, drones and air defenses, while weakening readiness in Europe, Asia and homeland defense.\nThe Navy raised the strongest objections, saying current operations are unsustainable and only about a quarter of its destroyers are ready to deploy. \nArmy and Air Force leaders agreed to extensions but warned of significant risks.\nSource: WaPo",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-30T06:42:04+00:00",
+      "timestamp": "2026-08-30T12:33:12+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -423,12 +460,31 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Finland\u2019s President Alexander Stubb on Russia:\nSo far, I do not see warfare. I don\u2019t think Russia would ever want to attack the most powerful military alliance in the world, NATO.\nFirst, I have intelligence information. Second, we have deterrence, and that deterrence is stronger than that of any other military power anywhere in the world. \nIt is based on conventional forces, missiles, and nuclear weapons. There is no reason for any power in the world to test the resolve of this alliance.\nSource: BILD",
+      "text": "WATCH: Ukrainian ground drone dodges a Russian FPV and keeps going.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-29T22:00:08+00:00",
+      "timestamp": "2026-08-30T12:18:36+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "A Cessna 172 stolen from Kalocsa Airport flew toward Hungary\u2019s Paks nuclear power plant, prompting the military to scramble two Gripen fighter jets after detecting it on radar.\nThe aircraft later made an emergency landing near Gerjen and was found damaged. \nThe Gripens remained overhead until rescue crews arrived. \nNo injuries were reported, and police launched an investigation into the theft and flight.\nSource: Daily News Hungary",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-30T09:37:11+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -613,51 +669,12 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddec\ud83c\uddf7\ud83c\uddee\ud83c\uddf1 \u2014 Greece to Sign $3.6 Billion Israeli Air Defense Deal\nGreece is expected to sign a $3.6 billion agreement with Israel on Monday to establish the \u201cAchilles\u2019 Shield,\u201d a nationwide multi-layered air and missile defense network. The Jerusalem Post reports that the system is intended to strengthen Greece against potential threats from Turkey and Iran.\nThe network will combine David\u2019s Sling, Barak MX and SPYDER air defense systems. It will also include an integrated command-and-control center using AI to coordinate detection and interceptions across the different layers.\nThe agreement has been negotiated for roughly three years and is expected to become the largest defense export deal in Israel\u2019s history.\n\u2014 The Jerusalem Post\n\u26aa\ufe0f",
+      "text": "\ud83c\uddeb\ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\uddf8\u26a1\ufe0f \u2014 Finland\u2019s President Alexander Stubb on Russia:\nSo far, I do not see warfare. I don\u2019t think Russia would ever want to attack the most powerful military alliance in the world, NATO.\nFirst, I have intelligence information. Second, we have deterrence, and that deterrence is stronger than that of any other military power anywhere in the world. \nIt is based on conventional forces, missiles, and nuclear weapons. There is no reason for any power in the world to test the resolve of this alliance.\n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-30T02:38:43+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf1/\ud83c\uddee\ud83c\uddf7 NEW: The son of Israeli Prime Minister Benjamin Netanyahu, Yair Netanyahu, has been urgently evacuated from Florida back to Israel\nThe decision was made after a situational assessment by Shin Bet concluded that there is a \u2018significant threat\u2019 from Iran to assassinate him.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-30T02:31:19+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf1\u274c\ud83c\uddee\ud83c\uddf7 \u2014 Israeli Energy Minister: We will strike Iran if it resumes its nuclear or missile program.\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-29T20:55:02+00:00",
+      "timestamp": "2026-08-30T11:03:35+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -696,44 +713,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-30T05:30:09+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfa Ukraine has launched at least 500 drones toward Russia. First reports of drones being shot down near Moscow.\nFor a moment it seemed that the Russian attack on Kiev had ended, but it is still ongoing.\nOther regions and cities of Ukraine are also being attacked, including Odesa, with the use of missiles and drones.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-29T23:55:16+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6 Ballistic missiles have been launched from the Kursk region in Russia.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-29T19:12:17+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -823,12 +802,12 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\u2721\ufe0f\ud83d\udd28 Honenu: Israeli extremists backed by domestic legal aid and hefty US donations\nThe organization Honenu presents itself as a \u201cnational legal defense\u201d group fighting what it portrays as the persecution of Israeli soldiers and citizens by government authorities and an allegedly anti-Israel court system.\nBut whom, exactly, does Honenu protect?\nFive Israel Defense Forces (IDF) Unit 100 soldiers sexually abused and sodomized a Palestinian detainee with a knife at the Sde Teiman military base on July 5, 2024. The rape incident resulted in the detainee being hospitalized with a perforated rectum, cracked ribs, a punctured lung, and an internal tear.\nMajor-General Yifat Tomer-Yerushalmi, the Israeli military\u2019s top lawyer, filed the indictment and leaked the video of the abuse to Channel 12. The video triggered international condemnation of the Israeli soldiers' cruelty.\nHowever, all charges against the rapists were dropped in March 2026 following legal assistance from Honenu. Tomer-Yerushalmi resigned and was later arrested. Israeli PM Benjamin Netanyahu publicly denounced the leak of the video as the worst \u201cpublic relations attack\u201d on Israel.\nThe organization's lawyers also shielded:\n\ud83d\udd34 Ami Popper, who was convicted of murdering seven Palestinians in 1990\n\ud83d\udd34 Yaakov Teitel, who murdered two Palestinians in 1997 and later attempted attacks using explosive devices against Israelis in 2008\n\ud83d\udd34 Bat Ayin Underground members, convicted in 2002 of attempting to bomb a Palestinian girls\u2019 school in occupied East Jerusalem\n\ud83d\udd34 [A member of Lehava](https://t.me/geopolitics_prime/59960), the Jewish supremacist group, indicted in 2014 over the arson attack on the Hand-in-Hand Jewish-Palestinian school in Jerusalem\n\ud83d\udd34 Three Israeli settlers who abducted 16-year-old Palestinian Mohammed Abu Khdeir in occupied East Jerusalem, beat him, and burned him alive in a forest outside the city in 2014\nThe organization brags that its has assisted \"over 15,000 Jews who have acted on behalf\" of the Israeli nation.\nPerhaps most tellingly, one of Honenu\u2019s former lawyers was notorious [Israeli National Security Minister Itamar Ben-Gvir](https://t.me/geopolitics_prime/72267), according to The New Arab. While working for Honenu, he represented Yinon Reuveni, convicted of setting fire to the Church of the Multiplication in the Galilee in 2017, as well as the settler convicted of killing three members of the Dawabsheh family \u2013 a mother, father, and their 18-month-old son \u2013 in 2015.\nWho is paying for that?\nHonenu not only provides legal assistance but also offers financial support to clients and their families, including following incarceration.\nThe entity is funded through Israeli and US tax-exempt donations, including from US-based nonprofits such as the Central Fund of Israel (CFI) and Friends of Zo Artzeinu. In 2015, Haaretz revealed that private US donors had provided more than $220 million through tax-exempt non-profits to[ illegal Jewish communities](https://t.me/geopolitics_prime/69018) in the West Bank between 2009 and 2013 alone. That also included supporting the families of convicted Jewish terrorists. Following the reports, CFI temporarily suspended funding to Honenu in 2016, but later resumed it, while Honenu allegedly continued covertly supporting Israeli extremists, The New Arab reports.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\u2721\ufe0f Unhinged Ben-Gvir\u2019s dungeon flex for Palestinians: \u2018Summer camps in prisons are over\u2019\nIsrael\u2019s national security minister - the genocidal Zionist infamous for [gloating over the \u2018excellent\u2019 Gaza body count ](https://t.me/geopolitics_prime/73648)- never misses a chance to parade his cruelty for the cameras.\nItamar Ben-Gvir posted a video of himself confronting an imprisoned Palestinian woman who complains of \"extremely bad\" conditions and reminds that \"we have particular needs as women\".\nVeiled, face blurred, she recounts days without a shower or clean underwear, with diseases crawling in. \n\ud83d\udde3 His smug response is that \u201cThe whining doesn\u2019t work on me.\u201d\nThe same man who brags about [wiping out Palestinian homes ](https://t.me/geopolitics_prime/71382)declares:\n\ud83d\udcac \u201cI am proud that we have succeeded in reducing the terrorists' prison conditions to the bare minimum. The summer camps in the prisons are over.\"\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-29T20:06:01+00:00",
+      "timestamp": "2026-08-30T11:36:44+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -842,12 +821,12 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udd25 Thick plumes of smoke rising over Ukraine's Nikolayev after Russian Geran drone strike\nLocal media claim the strike hit a factory near the city's airfield.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\u2721\ufe0f\ud83d\udd28 Honenu: Israeli extremists backed by domestic legal aid and hefty US donations\nThe organization Honenu presents itself as a \u201cnational legal defense\u201d group fighting what it portrays as the persecution of Israeli soldiers and citizens by government authorities and an allegedly anti-Israel court system.\nBut whom, exactly, does Honenu protect?\nFive Israel Defense Forces (IDF) Unit 100 soldiers sexually abused and sodomized a Palestinian detainee with a knife at the Sde Teiman military base on July 5, 2024. The rape incident resulted in the detainee being hospitalized with a perforated rectum, cracked ribs, a punctured lung, and an internal tear.\nMajor-General Yifat Tomer-Yerushalmi, the Israeli military\u2019s top lawyer, filed the indictment and leaked the video of the abuse to Channel 12. The video triggered international condemnation of the Israeli soldiers' cruelty.\nHowever, all charges against the rapists were dropped in March 2026 following legal assistance from Honenu. Tomer-Yerushalmi resigned and was later arrested. Israeli PM Benjamin Netanyahu publicly denounced the leak of the video as the worst \u201cpublic relations attack\u201d on Israel.\nThe organization's lawyers also shielded:\n\ud83d\udd34 Ami Popper, who was convicted of murdering seven Palestinians in 1990\n\ud83d\udd34 Yaakov Teitel, who murdered two Palestinians in 1997 and later attempted attacks using explosive devices against Israelis in 2008\n\ud83d\udd34 Bat Ayin Underground members, convicted in 2002 of attempting to bomb a Palestinian girls\u2019 school in occupied East Jerusalem\n\ud83d\udd34 [A member of Lehava](https://t.me/geopolitics_prime/59960), the Jewish supremacist group, indicted in 2014 over the arson attack on the Hand-in-Hand Jewish-Palestinian school in Jerusalem\n\ud83d\udd34 Three Israeli settlers who abducted 16-year-old Palestinian Mohammed Abu Khdeir in occupied East Jerusalem, beat him, and burned him alive in a forest outside the city in 2014\nThe organization brags that its has assisted \"over 15,000 Jews who have acted on behalf\" of the Israeli nation.\nPerhaps most tellingly, one of Honenu\u2019s former lawyers was notorious [Israeli National Security Minister Itamar Ben-Gvir](https://t.me/geopolitics_prime/72267), according to The New Arab. While working for Honenu, he represented Yinon Reuveni, convicted of setting fire to the Church of the Multiplication in the Galilee in 2017, as well as the settler convicted of killing three members of the Dawabsheh family \u2013 a mother, father, and their 18-month-old son \u2013 in 2015.\nWho is paying for that?\nHonenu not only provides legal assistance but also offers financial support to clients and their families, including following incarceration.\nThe entity is funded through Israeli and US tax-exempt donations, including from US-based nonprofits such as the Central Fund of Israel (CFI) and Friends of Zo Artzeinu. In 2015, Haaretz revealed that private US donors had provided more than $220 million through tax-exempt non-profits to[ illegal Jewish communities](https://t.me/geopolitics_prime/69018) in the West Bank between 2009 and 2013 alone. That also included supporting the families of convicted Jewish terrorists. Following the reports, CFI temporarily suspended funding to Honenu in 2016, but later resumed it, while Honenu allegedly continued covertly supporting Israeli extremists, The New Arab reports.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-29T18:01:51+00:00",
+      "timestamp": "2026-08-29T20:06:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
