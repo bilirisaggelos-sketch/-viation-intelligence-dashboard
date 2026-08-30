@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T17:43:39.356921+00:00",
+  "generated_at": "2026-08-30T20:06:12.757202+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -327,6 +327,25 @@
     {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
+      "text": "\u2014 \ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7/\ud83c\uddef\ud83c\uddf4 NEW: The attack against Larak was carried out with an American drone that took off from Jordan",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-30T19:39:44+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
       "text": "\u2014 \ud83c\uddee\ud83c\uddf1/\ud83c\uddee\ud83c\uddf7 WATCH: Footage of Israeli soldiers being targeted by a Hezbollah FPV drone in southern Lebanon, released for the first time by the IDF",
       "source": "Telegram",
       "source_type": "telegram",
@@ -441,32 +460,33 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Israeli Minister of Energy Eli Cohen on Iran:\nIf Iran makes the mistake of trying to revive its nuclear program or ballistic missile program, even if there is an agreement with the United States, we will be there to attack.",
+      "text": "BREAKING: A U.S. official tells Al Jazeera that Iranian missile launchers were hit today on Larak Island.\nThe official said the launchers were preparing to fire missiles carrying cluster warheads toward the Strait of Hormuz.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-30T16:40:13+00:00",
+      "timestamp": "2026-08-30T19:17:47+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
       "verified_sources": [
         "Clash Report",
-        "Mediterranean Man"
+        "Mediterranean Man",
+        "Our Wars Today"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 3
     },
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Zelensky:\nOver the past four days alone, nearly 1,500 drones of all types have been detected, with approximately 800 of them being jet-powered.\nThe most challenging task is intercepting these jet-powered drones. Four companies have developed interceptor drones, and one company has the most promising technology. \nThe Ministry of Defense and the military are working to maximize our capabilities to intercept each type of Russian drone.",
+      "text": "Former Ukrainian Defence Minister Mykhailo Fedorov is taking his wartime tech strategy into the private sector.\nHe wants a Western-backed defence fund for Ukrainian startups.\nHis focus is on cheap AI missiles, battlefield sensors and a more robotised front line.\nThe idea is simple: send drones and unmanned systems in before infantry.\nFedorov also wants to create a think tank to develop new ways to defeat Russia.\nHe says it should help shape \u201cthe rules of the game for the next stages\u201d of the war.\nHe is also calling for a return to democratic politics and says Putin should not decide when Ukrainians choose their government.\nSource: FT",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-30T15:52:40+00:00",
+      "timestamp": "2026-08-30T18:30:54+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -476,6 +496,27 @@
         "Clash Report"
       ],
       "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Our Wars Today",
+      "text": "\ud83c\uddfa\ud83c\uddf8 \ud83c\uddee\ud83c\uddf1 \u26a0\ufe0f \ud83c\uddee\ud83c\uddf7 #BREAKING U.S. Strikes #Iran's #Larak Island, Reportedly Targeting Rocket Sea-Mine Launchers:\nReuters: #UnitedStates forces have struck two Iranian launchers \u200con Iran's Larak Island, Axios has reported, citing \u200ca US \u200cofficial.\n\"Revolutionary Guard forces were observed preparing \u200cto launch rockets \u2060carrying \u200csea mines toward \u200cthe Strait \u200cof Hormuz,\" Axios \u200creporter Barak \u2060Ravid quoted the official as saying.\nAn explosion was heard near \u200cIran's Larak Island, the Fars \u200cnews \u2060agency reported, \u200cadding that the \u200ccause was unknown.\nMore Coverage: T.me/ourwarstoday \n---\n24/7 LIVE News RSS feed: t.me/ournewsfeedtoday\n---\nFootage: t.me/ourwars\n---\nSupport OWT: https://ko-fi.com/ourwarstoday",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-30T20:03:48+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
+      "verified_sources": [
+        "Clash Report",
+        "Mediterranean Man",
+        "Our Wars Today"
+      ],
+      "verified_source_count": 3
     },
     {
       "title": "Telegram",
@@ -632,6 +673,46 @@
     {
       "title": "Telegram",
       "publisher": "Mediterranean Man",
+      "text": "\u26a1\ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8 The attack on Larc was carried out by drones.\nTwo people were killed, and two others were injured, according to initial reports.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-30T19:43:40+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ud83c\uddfa\ud83c\uddf8 U.S. official: Our forces today struck rocket launchers belonging to the Iranian Revolutionary Guard Corps on Larak Island.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-30T19:33:58+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
+      "verified_sources": [
+        "Clash Report",
+        "Mediterranean Man",
+        "Our Wars Today"
+      ],
+      "verified_source_count": 3
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
       "text": "Additionally, the warnings issued yesterday evening about a massive ballistic missile attack within 48\u201372 hours remain in effect.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -663,7 +744,7 @@
       "verification_status": "PARTIALLY VERIFIED",
       "verification_confidence": 65,
       "verified_sources": [
-        "Clash Report",
+        "Geopolitics Prime",
         "Mediterranean Man"
       ],
       "verified_source_count": 2
@@ -743,6 +824,26 @@
         "CASELS"
       ],
       "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udd0d\u2721\ufe0f How Western complicity, AIPAC lobbying, & IAEA capture made Israel a nuclear exception\n\ud83d\udc49 Western geopolitical hypocrisy has enabled the Israeli nuclear exception to persist for decades, while efforts to bring the Zionist state under international atomic safeguards have been blocked.\n\ud83d\udccc Meanwhile, the same powers have subjected Nuclear Non-Proliferation Treaty-member Iran to crippling sanctions for unproven and denied allegations of building a nuclear weapon.\n\ud83d\udd34 Israel fields a nuclear arsenal while remaining outside the legal framework created to stop proliferation.\n\ud83d\udd34 Some estimates place its stockpile at 90 warheads, with enough fissile material for 100-200 warheads.\nIsrael fields, per open sources & SIPRI, FAS, and CSIS assessments:\n\u27a1\ufe0f Land-based ballistic missiles of the Jericho family with roughly 50 warheads\n\u27a1\ufe0f Nuclear-capable aircraft - primarily F-16I and F-15I fighters with approximately 30 warheads \n\u27a1\ufe0f Submarine-launched cruise missiles carried by German-built Dolphin-class diesel-electric submarines believed to be armed with an locally-built modified nuclear-capable cruise missile \n\ud83d\udd34 Israel neither confirms nor denies any of these systems, never signed the NPT and never accepted IAEA inspections.\n\ud83d\udd34 Its program was never local. In 1957, France agreed to provide a nuclear reactor and plutonium reprocessing plant to build Dimona station.\n\ud83d\udd34 After John F. Kennedy, who urged independent inspections of the Dimona reactor, successive US administrations institutionalized the ambiguity.\n\ud83d\udccc In 1986, [whistleblower Mordechai Vanunu](https://t.me/geopolitics_prime/51371) exposed the Tel Aviv regime\u2019s secret atomic weapons program \u2013 only to be abducted by the Mossad.\nThe Israeli exception survived due to strategic convenience:\n\u27a1\ufe0f The [US protects](https://t.me/geopolitics_prime/73873) a key ally while Arab initiatives for a weapons-of-mass-destruction-free zone in West Asia were routinely blocked \n\u27a1\ufe0f [Pro-Israel lobbying](https://t.me/geopolitics_prime/52246) by the likes of AIPAC keeps the arsenal a taboo \n\u27a1\ufe0fThe IAEA\u2019s selective enforcement turned it into a hollow tool of the West\nIntertwined with its [\"Greater Israel\" project](https://t.me/geopolitics_prime/71656), the impunity is enforced by Israel\u2019s Begin Doctrine that claims the right to strike regional nuclear facilities before they mature: \n\u2666\ufe0f In Iraq, jets destroyed the [Osirak nuclear reactor ](https://t.me/geopolitics_prime/71022)\n\u2666\ufe0f In Syria, Operation Outside the Box hit Al-Kibar facility (2007)\n\u2666\ufe0f In Iran,[ scientists were assassinated](https://t.me/geopolitics_prime/71050), [Stuxnet CIA-Mossad cyberattack](https://t.me/geopolitics_prime/53350) targeted the Natanz facility, and [repeated strikes](https://t.me/geopolitics_prime/52341) hit Iran\u2019s nuclear energy infrastructure in two wars\nMeanwhile, Iran claims its [peaceful nuclear program](https://t.me/geopolitics_prime/50584) is key to scientific progress and has engaged with the West to prove its sincerity, including inking a nuclear deal in 2015 that the US threw out.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-30T18:43:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Geopolitics Prime",
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
