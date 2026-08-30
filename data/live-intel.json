@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T23:33:22.316235+00:00",
+  "generated_at": "2026-08-30T01:44:09.378950+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -289,6 +289,63 @@
     {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
+      "text": "Operational readiness exercise; no sign of imminent ballistic launches.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-30T00:31:16+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "Activity at Iranian missile bases.\nCentral and Southern.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-30T00:29:28+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf1/\ud83c\uddee\ud83c\uddf7 NEW: The son of Israeli Prime Minister Benjamin Netanyahu, Yair Netanyahu, has been urgently evacuated from Florida back to Israel\nThe decision was made after a situational assessment by Shin Bet concluded that there is a \u2018significant threat\u2019 from Iran to assassinate him.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-29T23:59:52+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
       "text": "\u2014 \ud83c\uddee\ud83c\uddf7 Continuation of the message by Iran\u2019s Supreme Leader:\n\u2018And among other important issues and topics is the application of technologies and innovations proposed by our young elite. Sometimes, timely use of this advantage and abandoning the usual routine and customary habits in a matter makes effective leaps in the path of progress and excellence of the country. This is conceivable in various branches of power production, including agriculture and industry, culture and education, communication and social affairs.\nAmong the other fundamental issues of the country that must always be at the center of attention is observing unity and caring for social cohesion. Every action in each of the cultural, social, political, security, and macro-economic areas must be taken with consideration of the attachment related to social cohesion. Some measures that may appear to have supporters among some segments of the country, if they lack this appendix or if what is formulated as an appendix in that case is neglected as an action, can cause harm to those segments and others. \nUndoubtedly, any disappointing speech and weakening of national and public cohesion and any kind of imaginary contradictions such as war or negotiation, consensus or extremism, compromise or war-mongering that has caused direct or indirect damage to our beloved people in the past can have the same effect from now on. \nTherefore, I firmly declare that committing anything that is detrimental to social cohesion is prohibited. \nAnd among other important issues, is the trans-strategic attention to the issue of culture, education and upbringing. The term trans-strategic means that the formulation of other strategies must be done with this issue in mind. In this regard, it is of particular importance to pay attention to the groups that are the source of spreading positive and constructive culture, such as teachers in education, universities, and seminaries, as well as nurses and doctors who have dedicated themselves to performing their duties in non-private institutions; just as it is to pay attention to the role of housewives who teach the most delicate elements of the beautiful and desirable culture of the future to each and every child of this land and region in the privacy of their homes. \nIt is hoped that the implementation of these and other useful materials that can be found, thank God, in the list of government programs will lead our beloved country towards an ever stronger Iran and make those active in this path worthy of the special attention of Imam Mahdi, may God hasten his return.\u2019",
       "source": "Telegram",
       "source_type": "telegram",
@@ -314,25 +371,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-28T17:20:40+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\uddee\ud83c\uddf7/\ud83c\uddf1\ud83c\udde7/\ud83c\uddf5\ud83c\uddf8/\ud83c\uddee\ud83c\uddf1 Major General Mohsen Rezaei, Secretary of Iran\u2019s Supreme National Security Council:\n\u2013 Our relationship with the Lebanese people is historical and deep-rooted, and we will defend Lebanon with all our might and provide it with support.\n\u2013 One of the conditions of the Memorandum of Understanding is that America must permanently end the war throughout West Asia, especially in Lebanon.\n\u2013 One of our conditions is that Israel must withdraw from the territories it has seized, and that the territories of Lebanon and also in Gaza must be liberated.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-27T18:53:04+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -574,6 +612,25 @@
     {
       "title": "Telegram",
       "publisher": "Mediterranean Man",
+      "text": "\u26a1\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfa Ukraine has launched at least 500 drones toward Russia. First reports of drones being shot down near Moscow.\nFor a moment it seemed that the Russian attack on Kiev had ended, but it is still ongoing.\nOther regions and cities of Ukraine are also being attacked, including Odesa, with the use of missiles and drones.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-29T23:55:16+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
       "text": "\u26a1\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6 Ballistic missiles have been launched from the Kursk region in Russia.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -599,44 +656,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-29T18:58:54+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfa Russian drones have attacked a thermal power plant in Kiev.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-29T15:30:40+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\u26a1\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6 The ongoing Russian assault on Kiev appears to be one of the longest \u2014 and potentially the longest \u2014 sustained aerial bombardments of a European capital since World War II, with successive waves of drones and missiles maintaining pressure across multiple consecutive days and nights with only limited interruptions, for over 82 hours already.\nUnlike longer aerial campaigns such as NATO\u2019s 78-day operation over Yugoslavia in 1999, which consisted of separate strikes against targets distributed across the country, the current campaign has maintained an unusually concentrated and sustained pressure on Kiev and its surrounding region. The distinction is significant: rather than the cumulative duration of an air campaign, Kiev is experiencing successive attack waves extending through the day-night cycle for several consecutive days.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-29T15:23:49+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -713,25 +732,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-29T18:01:51+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\udde8\ud83c\uddf3 China\u2019s \u2018Area 51\u2019 renovation spooks Western media\nThe Lop Nur Airbase, a massive People\u2019s Liberation Army airbase ostensibly used to test cutting-edge military aircraft, underwent significant expansion over the past few years.\n\ud83c\udf0f The facility is located in Xinjiang region, not far from the site used by China to test its nuclear weapons\n\ud83c\udf0f The apparent purpose of the base is testing classified aircraft and experimental aerospace vehicles, which earned it the \u2018China\u2019s Area 51\u2019 moniker in media\n\ud83c\udf0f Satellite imagery by Planet Labs shows that since 2020, the base had its apron extended and several hangars, supposedly optimized for tactical fixed-wing aircraft, were added, according to TMZ\n\ud83c\udf0f The photos also depict what appears to be construction of a new taxiway, which could help the base maintain a higher operation tempo\n\ud83c\udf0f New large hangars built at the base could accommodate China\u2019s state-of-the-art flying wing drones and stealth bomber aircraft\n\ud83c\udf0f New fuel-storage infrastructure is apparently being built at the base, which would provide a boost to sortie rate and facilitate longer sustained flight activity\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-29T14:01:52+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
