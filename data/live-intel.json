@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T20:06:12.757202+00:00",
+  "generated_at": "2026-08-30T22:47:42.624673+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -87,44 +87,6 @@
       "icon": "\ud83d\udea8",
       "timestamp": "08/28/2026",
       "location": "ZTL GA",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nLibby AAF, AZ, Friday, August 28, 2026 through Sunday, August 30, 2026 Local\nFacility: ZAB",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "08/27/2026",
-      "location": "ZAB AZ",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nWilliamsport, PA\nFacility: ZNY",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "08/26/2026",
-      "location": "ZNY PA",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
@@ -327,12 +289,12 @@
     {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7/\ud83c\uddef\ud83c\uddf4 NEW: The attack against Larak was carried out with an American drone that took off from Jordan",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf7/\ud83c\udde6\ud83c\uddea BREAKING: Missile alerts in the United Arab Emirates",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-30T19:39:44+00:00",
+      "timestamp": "2026-08-30T22:39:17+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -346,147 +308,167 @@
     {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\uddee\ud83c\uddf1/\ud83c\uddee\ud83c\uddf7 WATCH: Footage of Israeli soldiers being targeted by a Hezbollah FPV drone in southern Lebanon, released for the first time by the IDF",
+      "text": "\u2014 \ud83c\uddfa\ud83c\uddf8/\ud83c\uddef\ud83c\uddf4/\ud83c\uddee\ud83c\uddf7 NEW: A U.S. official tells Fox News that \u2018almost all\u2019 Iranian missiles have been intercepted",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-30T15:03:14+00:00",
+      "timestamp": "2026-08-30T22:26:03+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "Operational readiness exercise; no sign of imminent ballistic launches.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-30T00:31:16+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "Activity at Iranian missile bases.\nCentral and Southern.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-30T00:29:28+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf1/\ud83c\uddee\ud83c\uddf7 NEW: The son of Israeli Prime Minister Benjamin Netanyahu, Yair Netanyahu, has been urgently evacuated from Florida back to Israel\nThe decision was made after a situational assessment by Shin Bet concluded that there is a \u2018significant threat\u2019 from Iran to assassinate him.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-29T23:59:52+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\uddee\ud83c\uddf7 Continuation of the message by Iran\u2019s Supreme Leader:\n\u2018And among other important issues and topics is the application of technologies and innovations proposed by our young elite. Sometimes, timely use of this advantage and abandoning the usual routine and customary habits in a matter makes effective leaps in the path of progress and excellence of the country. This is conceivable in various branches of power production, including agriculture and industry, culture and education, communication and social affairs.\nAmong the other fundamental issues of the country that must always be at the center of attention is observing unity and caring for social cohesion. Every action in each of the cultural, social, political, security, and macro-economic areas must be taken with consideration of the attachment related to social cohesion. Some measures that may appear to have supporters among some segments of the country, if they lack this appendix or if what is formulated as an appendix in that case is neglected as an action, can cause harm to those segments and others. \nUndoubtedly, any disappointing speech and weakening of national and public cohesion and any kind of imaginary contradictions such as war or negotiation, consensus or extremism, compromise or war-mongering that has caused direct or indirect damage to our beloved people in the past can have the same effect from now on. \nTherefore, I firmly declare that committing anything that is detrimental to social cohesion is prohibited. \nAnd among other important issues, is the trans-strategic attention to the issue of culture, education and upbringing. The term trans-strategic means that the formulation of other strategies must be done with this issue in mind. In this regard, it is of particular importance to pay attention to the groups that are the source of spreading positive and constructive culture, such as teachers in education, universities, and seminaries, as well as nurses and doctors who have dedicated themselves to performing their duties in non-private institutions; just as it is to pay attention to the role of housewives who teach the most delicate elements of the beautiful and desirable culture of the future to each and every child of this land and region in the privacy of their homes. \nIt is hoped that the implementation of these and other useful materials that can be found, thank God, in the list of government programs will lead our beloved country towards an ever stronger Iran and make those active in this path worthy of the special attention of Imam Mahdi, may God hasten his return.\u2019",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-28T17:30:46+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf7 Iran\u2019s Supreme Leader, Ayatollah Sayyed Mojtaba Khamenei, gives his thoughts on the economy:\n\u2018The dear people of Iran, who have revealed their true caliber in the past six months in various manifestations of jihad with the enemy, their presence in the streets, their solidarity, empathy and companionship, deserve to feel the service of the responsible branches and institutions in the Islamic Republic on the path to achieving the desired level of this sacred system and the high dignity of the nation. \nOf course, what I will state now is already at the center of attention of the government, and mentioning it here is merely a reminder:\nAmong the necessities is the need to pay serious attention to the chain of economic-livelihood challenges such as inflation, unemployment, price management and the market for goods and services, and special attention to some other elements of the economy such as GDP growth, increasing investment and directing it towards useful and essential areas, production boom, gradual abandonment of the dollar, and ultimately, placing the economy at the center of a set of resistance economy policies. \nThe main key in this regard to solving all these issues is to rely more and more on domestic production. \nOf course, establishing a sufficient level of public and specialized goods is a definite necessity, considering which, in cases where domestic production is not sufficient, imports should be used correctly and wisely. \nNaturally, encouraging production and at the same time managing imports and prices can lead to a situation where the dark spots that are showing themselves on the country's economic page gradually become smaller and smaller until they disappear completely. In this scene, although the enemy's behavior (sanctions etc.) during and after the war is not without an effect, the more intelligent management of the components of this field and seeking help in some cases from individuals and in others from specialists and technologists and realizing new capacities will lead the country towards expansion and prosperity. \nThe sworn enemy of this nation [United States] tries to suggest that the path to prosperity and progress passes only through obedience to him and his ridiculous demands, while observing what they have brought upon this country and its resources in past periods, even years before the Islamic Revolution, shows the opposite.\u2018",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-28T17:20:40+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "BREAKING: A U.S. official tells Al Jazeera that Iranian missile launchers were hit today on Larak Island.\nThe official said the launchers were preparing to fire missiles carrying cluster warheads toward the Strait of Hormuz.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-30T19:17:47+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
         "Clash Report",
-        "Mediterranean Man",
-        "Our Wars Today"
+        "Middle East Spectator"
       ],
-      "verified_source_count": 3
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Former Ukrainian Defence Minister Mykhailo Fedorov is taking his wartime tech strategy into the private sector.\nHe wants a Western-backed defence fund for Ukrainian startups.\nHis focus is on cheap AI missiles, battlefield sensors and a more robotised front line.\nThe idea is simple: send drones and unmanned systems in before infantry.\nFedorov also wants to create a think tank to develop new ways to defeat Russia.\nHe says it should help shape \u201cthe rules of the game for the next stages\u201d of the war.\nHe is also calling for a return to democratic politics and says Putin should not decide when Ukrainians choose their government.\nSource: FT",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7 NEW: Cruise missiles from southern Iran towards U.S. naval vessels in the Gulf of Oman",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-30T18:30:54+00:00",
+      "timestamp": "2026-08-30T22:19:08+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Geopolitics Prime",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "At least 12 missiles launched in total",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-30T22:06:52+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "New wave of ballistics launched",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-30T21:55:06+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "U.S. source to Fox News:\nNearly all incoming missiles have been intercepted at this point.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-30T22:23:04+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Clash Report",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Iranian ballistic missiles intercepted over Jordan.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-30T22:08:55+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "BREAKING: Iran appears to have launched ballistic missiles toward Jordan following tonight\u2019s U.S. strike on Larak Island.\nInterceptions visible.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-30T21:48:39+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Iranian Press TV: \nIran fired missiles at U.S. vessels in the Strait of Hormuz.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-30T21:37:11+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Netanyahu:\nIf my opponents win, they will leave Lebanon, they will leave Gaza, they will leave Syria, and they will establish a Palestinian state here.\nAnd it won\u2019t just be a Palestinian state. It will be a Palestinian state backed by major powers, and that will be the beginning of the end of Israel.\nWe will go into free fall.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-30T20:58:38+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -509,14 +491,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "Clash Report",
-        "Mediterranean Man",
+        "Alsaa Plus EN",
         "Our Wars Today"
       ],
-      "verified_source_count": 3
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -654,12 +635,12 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddeb\ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\uddf8\u26a1\ufe0f \u2014 Finland\u2019s President Alexander Stubb on Russia:\nSo far, I do not see warfare. I don\u2019t think Russia would ever want to attack the most powerful military alliance in the world, NATO.\nFirst, I have intelligence information. Second, we have deterrence, and that deterrence is stronger than that of any other military power anywhere in the world. \nIt is based on conventional forces, missiles, and nuclear weapons. There is no reason for any power in the world to test the resolve of this alliance.\n\u26aa\ufe0f",
+      "text": "\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddfa\ud83c\uddf8Iraqi sources: Initial reports indicate a direct Iranian missile strike on an American ship.\n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-30T11:03:35+00:00",
+      "timestamp": "2026-08-30T22:03:03+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -667,6 +648,216 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddfa\ud83c\uddf8 New missile barrage launched from Iran towards US interests at the Middle East\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-30T21:57:54+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddfa\ud83c\uddf8\ud83c\uddef\ud83c\uddf4 Reportedly 7 missiles heading towards Muwaafuq Al Salti AB.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-30T21:55:04+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddfa\ud83c\uddf8\ud83c\uddef\ud83c\uddf4 Iranian missile attack towards Muwaaffiq Salt Airbase at Jordan impacts reported \n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-30T21:53:52+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddfa\ud83c\uddf8 Ballistic Missiles from Kermanshah.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-30T21:53:36+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf7 Spokesperson for the Iranian Civil Aviation Organization: \nThe weather conditions in the country are normal, and operations at Mehrabad International Airport in Tehran are continuing without interruption. Flights and air activities throughout the country are proceeding as usual.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-30T21:35:13+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddfa\ud83c\uddf8 Missile launches reported from Iran \n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-30T21:28:11+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf7\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8 \u2014 Reports that a U.S. drone strike hit Larak Island, killing two people and wounding two others.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-30T20:20:39+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Our Wars Today"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ud83c\uddf8\ud83c\uddfe\ud83c\uddee\ud83c\uddf7 Syria denies intercepting Iranian missiles.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-30T22:08:35+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "Iranian missiles seen passing over Lebanon heading to Jordan",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-30T21:59:58+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8 Iranian cruise missiles launched towards US destroyers in the Strait of Hormuz",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-30T21:49:48+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8 Missile launches detected from Iran",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-30T21:27:45+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
       ],
       "verified_source_count": 1
     },
@@ -688,66 +879,6 @@
         "Mediterranean Man"
       ],
       "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddfa\ud83c\uddf8 U.S. official: Our forces today struck rocket launchers belonging to the Iranian Revolutionary Guard Corps on Larak Island.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-30T19:33:58+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
-      "verified_sources": [
-        "Clash Report",
-        "Mediterranean Man",
-        "Our Wars Today"
-      ],
-      "verified_source_count": 3
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "Additionally, the warnings issued yesterday evening about a massive ballistic missile attack within 48\u201372 hours remain in effect.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-30T17:17:22+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddee\ud83c\uddf1\ud83c\uddee\ud83c\uddf7 Israeli Energy Minister Eli Cohen stated that Israel will not hesitate to strike Iran if the country resumes its nuclear or ballistic missile development programs, regardless of any agreements with the United States.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-30T17:00:25+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Geopolitics Prime",
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -837,13 +968,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Geopolitics Prime",
-        "Mediterranean Man"
+        "Geopolitics Prime"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -857,12 +987,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "Geopolitics Prime"
+        "Geopolitics Prime",
+        "Middle East Spectator"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -892,25 +1023,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-30T15:48:11+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\u2721\ufe0f Unhinged Ben-Gvir\u2019s dungeon flex for Palestinians: \u2018Summer camps in prisons are over\u2019\nIsrael\u2019s national security minister - the genocidal Zionist infamous for [gloating over the \u2018excellent\u2019 Gaza body count ](https://t.me/geopolitics_prime/73648)- never misses a chance to parade his cruelty for the cameras.\nItamar Ben-Gvir posted a video of himself confronting an imprisoned Palestinian woman who complains of \"extremely bad\" conditions and reminds that \"we have particular needs as women\".\nVeiled, face blurred, she recounts days without a shower or clean underwear, with diseases crawling in. \n\ud83d\udde3 His smug response is that \u201cThe whining doesn\u2019t work on me.\u201d\nThe same man who brags about [wiping out Palestinian homes ](https://t.me/geopolitics_prime/71382)declares:\n\ud83d\udcac \u201cI am proud that we have succeeded in reducing the terrorists' prison conditions to the bare minimum. The summer camps in the prisons are over.\"\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-30T11:36:44+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
