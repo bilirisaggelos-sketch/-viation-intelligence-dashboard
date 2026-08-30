@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T01:44:09.378950+00:00",
+  "generated_at": "2026-08-30T07:31:29.638903+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -193,6 +193,25 @@
     },
     {
       "title": "Space Weather Message Code: WARK04\r",
+      "text": "Space Weather Message Code: WARK04\r\nSerial Number: 5410\r\nIssue Time: 2026 Aug 30 0555 UTC\r\n\r\nEXTENDED WARNING: Geomagnetic K-index of 4 expected\nExtension to Serial Number: 5409\nValid From: 2026 Aug 28 1409 UTC\nNow Valid Until: 2026 Aug 30 2359 UTC\nWarning Condition: Persistence\n\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-08-30 05:55:38.333",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Space Weather Message Code: WARK04\r",
       "text": "Space Weather Message Code: WARK04\r\nSerial Number: 5409\r\nIssue Time: 2026 Aug 29 1142 UTC\r\n\r\nEXTENDED WARNING: Geomagnetic K-index of 4 expected\nExtension to Serial Number: 5408\nValid From: 2026 Aug 28 1409 UTC\nNow Valid Until: 2026 Aug 30 0600 UTC\nWarning Condition: Persistence\n\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
       "source": "NOAA Space Weather",
       "source_type": "official",
@@ -268,25 +287,6 @@
       "verified_source_count": 1
     },
     {
-      "title": "Space Weather Message Code: WARK04\r",
-      "text": "Space Weather Message Code: WARK04\r\nSerial Number: 5407\r\nIssue Time: 2026 Aug 28 1411 UTC\r\n\r\nWARNING: Geomagnetic K-index of 4 expected \nValid From: 2026 Aug 28 1409 UTC\nValid To: 2026 Aug 28 2359 UTC\nWarning Conditions: Onset\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-08-28 14:11:14.530",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
       "text": "Operational readiness exercise; no sign of imminent ballistic launches.",
@@ -336,12 +336,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
+        "Alsaa Plus EN",
         "Middle East Spectator"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -378,6 +379,44 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Western officials say Russia has captured Ukrainian drones and could potentially use them in false-flag attacks on NATO countries, making the attacks appear to have originated from Ukraine and sowing confusion or political pressure within the alliance.\nSource: WSJ",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-30T07:01:43+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Ukrainian drones struck the Kirishi oil refinery (KINEF) in Russia's Leningrad Oblast, causing a fire. \nIt is Russia's second-largest refinery after Omsk and the only refinery in Northwestern Russia, with a capacity of around 20 million tons of oil per year.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-30T06:42:04+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
       ],
       "verified_source_count": 1
     },
@@ -574,6 +613,45 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
+      "text": "\u26a1\ufe0f\ud83c\uddec\ud83c\uddf7\ud83c\uddee\ud83c\uddf1 \u2014 Greece to Sign $3.6 Billion Israeli Air Defense Deal\nGreece is expected to sign a $3.6 billion agreement with Israel on Monday to establish the \u201cAchilles\u2019 Shield,\u201d a nationwide multi-layered air and missile defense network. The Jerusalem Post reports that the system is intended to strengthen Greece against potential threats from Turkey and Iran.\nThe network will combine David\u2019s Sling, Barak MX and SPYDER air defense systems. It will also include an integrated command-and-control center using AI to coordinate detection and interceptions across the different layers.\nThe agreement has been negotiated for roughly three years and is expected to become the largest defense export deal in Israel\u2019s history.\n\u2014 The Jerusalem Post\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-30T02:38:43+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf1/\ud83c\uddee\ud83c\uddf7 NEW: The son of Israeli Prime Minister Benjamin Netanyahu, Yair Netanyahu, has been urgently evacuated from Florida back to Israel\nThe decision was made after a situational assessment by Shin Bet concluded that there is a \u2018significant threat\u2019 from Iran to assassinate him.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-30T02:31:19+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
       "text": "\ud83c\uddee\ud83c\uddf1\u274c\ud83c\uddee\ud83c\uddf7 \u2014 Israeli Energy Minister: We will strike Iran if it resumes its nuclear or missile program.\n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
@@ -592,20 +670,39 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf6\ud83c\uddee\ud83c\uddf6\ud83c\uddfa\ud83c\uddf8\ud83c\uddf9\ud83c\uddf7\u26a1\ufe0f \u2014 The Islamic Resistance in Iraq, represented by the Sayyid al-Shuhada Brigades, has announced the following conditions for handing over its weapons:\nFirst: The withdrawal of U.S. military forces and preventing them from using Iraqi airspace as a launching point to target any other country.\nSecond: The enactment of the Iraqi Popular Mobilization Forces (PMF) Law.\nThird: The establishment of full sovereignty of the Iraqi security forces over every inch of Iraqi territory, from the far north to the far south.\nFourth: Strengthening Iraq\u2019s air defenses with advanced systems operating exclusively under Iraqi decision-making authority.\nFifth: The complete expulsion of PKK fighters from Iraqi territory in order to eliminate the justifications for Turkish attacks on Iraqi territory.\nSixth: The withdrawal of Turkish troops deployed in northern Iraq and their departure from Iraqi territory back across the Turkish border.\nSeventh: Placing Iraq\u2019s borders in the Kurdistan Region under the control of the Iraqi Army, considering this an exclusive sovereign responsibility of the army, while placing all border crossings under the control and administration of the federal government.\nEighth: Removing Iranian opposition groups from their positions in northern Iraq to ensure that Iraqi territory is not used as a launching point for ground attacks against neighboring countries.\nNinth: Working to free Iraq\u2019s financial and economic decision-making from U.S. dominance, in pursuit of the principle of making Iraq sovereign over its own affairs\u2014a principle long advocated by the senior religious authority and patriotic members of the Iraqi people.\nTenth: Working to free Iraq\u2019s political decision-making from U.S. control, ending what it described as the \u201cinnovation\u201d of the U.S. special envoy in Iraq, and halting U.S. Embassy interference in Iraq\u2019s internal affairs.\n\ufeff",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ufe0f\ud83c\uddf0\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8 The U.S State Dept has approved a \u2018resupply request\u2019 valued at $135 Million (USD) to resupply the Republic of Korea\u2019s Air Force with x103 AIM-9X Block II Sidewinder Air-to-Air missiles.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-29T13:46:45+00:00",
+      "timestamp": "2026-08-30T05:33:25+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN"
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf9 The US State Dept has approved a $364 Million (USD) sale of 5,031 Conversion kits for the Hydra-70 Rockets to convert them over to APKWS II Air-to-Air missiles for the Italian Air Force & Land forces.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-30T05:30:09+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
       ],
       "verified_source_count": 1
     },
@@ -649,32 +746,13 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6 Most of Ukraine is being attacked, and sirens are heard in many cities.\nReports of a likely massive ballistic missile attack tonight.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-29T18:58:54+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u2757\ufe0fUkrainian attack drones slammed into a DNS warehouse complex in Rostov-on-Don this morning amid a large-scale drone attack. The facility caught fire as explosions and heavy Russian air defense activity were reported across the city. An Ozon warehouse was reportedly also targeted.",
+      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfaResidents of the Leningrad region record the sounds of explosions as Ukrainian drones target the region during this evening's Ukrainian drone strikes on Russia.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-29T05:13:05+00:00",
+      "timestamp": "2026-08-30T04:39:31+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -688,12 +766,50 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ud83c\udde8\ud83c\uddf4 Colombia Third Division troops engaged in clashes with armed groups in both the rural and urban areas of Jambal\u00f3, Cauca department, with attackers reportedly using drones fitted with improvised explosives against military positions.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfaUkrainian drones also targeted the oil refinery in Kirishi, southeastern Leningrad region. \nSome were successfully intercepted enroute to the oil refinery, which residents recorded a blaze.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-29T05:12:49+00:00",
+      "timestamp": "2026-08-30T04:39:25+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfaSeveral waves of Russian Geran-2 drones have been striking the Ukrainian capital Kyiv for several hours now. \nThey have targeted energy infrastructure such as CHP-5 in southeastern Kyiv (media 1). Strikes against electrical infrastructure might ramp up as the colder weather seasons approach.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-30T04:39:18+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfaUkrainian drones targeted the Russian regional capital city Bryansk during this evening\u2019s drone incursion into Russian airspace.\nResidents recorded as Russian air defence systems struck a building while attempting to shoot down Ukrainian drones.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-30T04:38:31+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
