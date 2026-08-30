@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T13:19:29.798459+00:00",
+  "generated_at": "2026-08-30T17:43:39.356921+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -327,6 +327,25 @@
     {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
+      "text": "\u2014 \ud83c\uddee\ud83c\uddf1/\ud83c\uddee\ud83c\uddf7 WATCH: Footage of Israeli soldiers being targeted by a Hezbollah FPV drone in southern Lebanon, released for the first time by the IDF",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-30T15:03:14+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
       "text": "Operational readiness exercise; no sign of imminent ballistic launches.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -422,69 +441,32 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Yemen's Houthis hit Saudi armored vehicles and troop positions on several fronts with drone strikes.",
+      "text": "Israeli Minister of Energy Eli Cohen on Iran:\nIf Iran makes the mistake of trying to revive its nuclear program or ballistic missile program, even if there is an agreement with the United States, we will be there to attack.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-30T13:03:59+00:00",
+      "timestamp": "2026-08-30T16:40:13+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "Clash Report"
+        "Clash Report",
+        "Mediterranean Man"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "U.S. military leaders are warning Defense Secretary Pete Hegseth that extending the Iran war could dangerously strain American forces worldwide. \nCommanders say months of deployments have depleted ships, missiles, drones and air defenses, while weakening readiness in Europe, Asia and homeland defense.\nThe Navy raised the strongest objections, saying current operations are unsustainable and only about a quarter of its destroyers are ready to deploy. \nArmy and Air Force leaders agreed to extensions but warned of significant risks.\nSource: WaPo",
+      "text": "Zelensky:\nOver the past four days alone, nearly 1,500 drones of all types have been detected, with approximately 800 of them being jet-powered.\nThe most challenging task is intercepting these jet-powered drones. Four companies have developed interceptor drones, and one company has the most promising technology. \nThe Ministry of Defense and the military are working to maximize our capabilities to intercept each type of Russian drone.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-30T12:33:12+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "WATCH: Ukrainian ground drone dodges a Russian FPV and keeps going.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-30T12:18:36+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "A Cessna 172 stolen from Kalocsa Airport flew toward Hungary\u2019s Paks nuclear power plant, prompting the military to scramble two Gripen fighter jets after detecting it on radar.\nThe aircraft later made an emergency landing near Gerjen and was found damaged. \nThe Gripens remained overhead until rescue crews arrived. \nNo injuries were reported, and police launched an investigation into the theft and flight.\nSource: Daily News Hungary",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-30T09:37:11+00:00",
+      "timestamp": "2026-08-30T15:52:40+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -630,44 +612,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Our Wars Today",
-      "text": "[Oil tanker disabled by attack in Strait of Hormuz even as mediators seek negotiated end to war](https://apnews.com/article/middle-east-iran-israel-hormuz-pakistan-august-25-2026-1a4fa2e3812c458a25a561b38dc89f09)\nAn oil tanker was disabled after being struck by an unknown projectile off Oman, underscoring shipping risks as Iran maintains tight control over the Strait of Hormuz. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://apnews.com/article/middle-east-iran-israel-hormuz-pakistan-august-25-2026-1a4fa2e3812c458a25a561b38dc89f09)\nThe Associated Press | apnews\u200b.com \u2022 Aug 25, 2026",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-25T11:13:03+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Our Wars Today"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Our Wars Today",
-      "text": "[Putin issues decree opening the door to state control of key sites](https://apnews.com/article/russia-ukraine-war-putin-companies-drones-f2ef0ded42dfab093bd9b08a8157b931)\nRussian President Vladimir Putin has signed a decree allowing the government to take temporary control of critical infrastructure if private owners fail to protect it from Ukrainian drone attacks or repair it afterward. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://apnews.com/article/russia-ukraine-war-putin-companies-drones-f2ef0ded42dfab093bd9b08a8157b931)\nThe Associated Press | apnews\u200b.com \u2022 Aug 25, 2026",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-25T11:12:57+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Our Wars Today"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Alsaa Plus EN",
       "text": "\ud83c\uddeb\ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\uddf8\u26a1\ufe0f \u2014 Finland\u2019s President Alexander Stubb on Russia:\nSo far, I do not see warfare. I don\u2019t think Russia would ever want to attack the most powerful military alliance in the world, NATO.\nFirst, I have intelligence information. Second, we have deterrence, and that deterrence is stronger than that of any other military power anywhere in the world. \nIt is based on conventional forces, missiles, and nuclear weapons. There is no reason for any power in the world to test the resolve of this alliance.\n\u26aa\ufe0f",
       "source": "Telegram",
@@ -688,12 +632,12 @@
     {
       "title": "Telegram",
       "publisher": "Mediterranean Man",
-      "text": "\u26a1\ufe0f\ud83c\uddf0\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8 The U.S State Dept has approved a \u2018resupply request\u2019 valued at $135 Million (USD) to resupply the Republic of Korea\u2019s Air Force with x103 AIM-9X Block II Sidewinder Air-to-Air missiles.",
+      "text": "Additionally, the warnings issued yesterday evening about a massive ballistic missile attack within 48\u201372 hours remain in effect.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-30T05:33:25+00:00",
+      "timestamp": "2026-08-30T17:17:22+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -707,21 +651,22 @@
     {
       "title": "Telegram",
       "publisher": "Mediterranean Man",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf9 The US State Dept has approved a $364 Million (USD) sale of 5,031 Conversion kits for the Hydra-70 Rockets to convert them over to APKWS II Air-to-Air missiles for the Italian Air Force & Land forces.",
+      "text": "\u26a1\ud83c\uddee\ud83c\uddf1\ud83c\uddee\ud83c\uddf7 Israeli Energy Minister Eli Cohen stated that Israel will not hesitate to strike Iran if the country resumes its nuclear or ballistic missile development programs, regardless of any agreements with the United States.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-30T05:30:09+00:00",
+      "timestamp": "2026-08-30T17:00:25+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
+        "Clash Report",
         "Mediterranean Man"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -802,12 +747,12 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\u2721\ufe0f Unhinged Ben-Gvir\u2019s dungeon flex for Palestinians: \u2018Summer camps in prisons are over\u2019\nIsrael\u2019s national security minister - the genocidal Zionist infamous for [gloating over the \u2018excellent\u2019 Gaza body count ](https://t.me/geopolitics_prime/73648)- never misses a chance to parade his cruelty for the cameras.\nItamar Ben-Gvir posted a video of himself confronting an imprisoned Palestinian woman who complains of \"extremely bad\" conditions and reminds that \"we have particular needs as women\".\nVeiled, face blurred, she recounts days without a shower or clean underwear, with diseases crawling in. \n\ud83d\udde3 His smug response is that \u201cThe whining doesn\u2019t work on me.\u201d\nThe same man who brags about [wiping out Palestinian homes ](https://t.me/geopolitics_prime/71382)declares:\n\ud83d\udcac \u201cI am proud that we have succeeded in reducing the terrorists' prison conditions to the bare minimum. The summer camps in the prisons are over.\"\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83c\uddee\ud83c\uddf7\ud83d\udccc Gibraltar: Iran may have hidden leverage over another key strait to choke NATO economies\nIran has demonstrated its powerful leverage over the Strait of Hormuz and the Bab el-Mandeb Strait. But could it reach more strategic waterways?\nPerhaps many have forgotten, but in December 2023, Brigadier General Mohammad Reza Naqdi, a senior Islamic Revolutionary Guard Corps (IRGC) commander, warned that the US and its allies could face the closure of the Mediterranean Sea, the Strait of Gibraltar and other strategic waterways in response to their support for Israel\u2019s war in Gaza. He did not elaborate on how.\nNaqdi\u2019s statement grabbed headlines, but many at the time questioned Iran\u2019s ability to project power as far as Gibraltar.\nThe Strait of Gibraltar\nIt is the Atlantic Ocean\u2019s only door into the Mediterranean while separating Europe from Africa. Roughly 58 km long and just 14 km wide at its narrowest point, it lies between southern Spain and Morocco, with the British territory of Gibraltar and[ the Spanish exclave of Ceuta along its shores](https://t.me/geopolitics_prime/72928).\n\ud83d\udc49 It is one of the world\u2019s most stable chokepoints with about 100,000\u2013110,000 vessels passing through each year, roughly 300 a day. It sees around 10% of global seaborne trade worth $1.1 trillion and around 3.3 million barrels/day of oil go through it.\nA potential blockade of the Strait of Gibraltar could choke the maritime gateway to the Mediterranean, disrupting commercial shipping, energy supplies and NATO naval movements while forcing some vessels onto costly routes around Africa.\nThe simultaneous closure or severe disruption of the Hormuz, Bab el-Mandeb and Gibraltar straits could put enormous pressure on Europe and the wider Western economy:\n\ud83c\udf0f Hormuz [chokes Gulf energy exports](https://t.me/geopolitics_prime/70493) \n\ud83c\udf0f Bab el-Mandeb cuts the [Red Sea-Suez route ](https://t.me/geopolitics_prime/72669)\n\ud83c\udf0f Gibraltar seals the Mediterranean from the Atlantic\n\ud83c\udf0f Those three of the world\u2019s strategic maritime gateways could become a single geopolitical weapon\nCould Iran 'close' the Strait of Gibraltar?\nIn 2023, many saw this as virtually impossible. But after Iran demonstrated its military capabilities, the scenario may seem less far-fetched today \u2013 although the IRGC is not currently threatening to close the waterway.\nHypothetical scenario: Asymmetric and proxy warfare\n\u27a1\ufe0f The Strait of Gibraltar is approximately 4,450 km from Iran\u2019s West Azerbaijan province. Iran\u2019s Ghadr, Emad, Sejjil and Khorramshahr missiles, with ranges from 1,700 km to 4,000 km, cannot reach it, nor can its long-range Arash-2 and Mohajer-10 drones. Hezbollah in Lebanon is closer, at around 3,700 km\n\u27a1\ufe0f Naqdi spoke of \u201cthe birth of new powers of resistance\u201d in other regions. This has fueled speculation about Iranian support for [the Polisario Front](https://t.me/geopolitics_prime/73126), which seeks independence for Western Sahara. Based in southwestern Algeria\u2019s Tindouf province, the Polisario Front is roughly 1,000 km from the Strait of Gibraltar\n\u27a1\ufe0f There is no need to fully blockade the strait: a single drone strike on a merchant vessel could deter commercial shipping, effectively \u201cclosing\u201d the route by making it too dangerous to use.\nApparently, Iran may have more trump cards than even Trump can imagine.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-30T11:36:44+00:00",
+      "timestamp": "2026-08-30T17:14:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -821,12 +766,50 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\u2721\ufe0f\ud83d\udd28 Honenu: Israeli extremists backed by domestic legal aid and hefty US donations\nThe organization Honenu presents itself as a \u201cnational legal defense\u201d group fighting what it portrays as the persecution of Israeli soldiers and citizens by government authorities and an allegedly anti-Israel court system.\nBut whom, exactly, does Honenu protect?\nFive Israel Defense Forces (IDF) Unit 100 soldiers sexually abused and sodomized a Palestinian detainee with a knife at the Sde Teiman military base on July 5, 2024. The rape incident resulted in the detainee being hospitalized with a perforated rectum, cracked ribs, a punctured lung, and an internal tear.\nMajor-General Yifat Tomer-Yerushalmi, the Israeli military\u2019s top lawyer, filed the indictment and leaked the video of the abuse to Channel 12. The video triggered international condemnation of the Israeli soldiers' cruelty.\nHowever, all charges against the rapists were dropped in March 2026 following legal assistance from Honenu. Tomer-Yerushalmi resigned and was later arrested. Israeli PM Benjamin Netanyahu publicly denounced the leak of the video as the worst \u201cpublic relations attack\u201d on Israel.\nThe organization's lawyers also shielded:\n\ud83d\udd34 Ami Popper, who was convicted of murdering seven Palestinians in 1990\n\ud83d\udd34 Yaakov Teitel, who murdered two Palestinians in 1997 and later attempted attacks using explosive devices against Israelis in 2008\n\ud83d\udd34 Bat Ayin Underground members, convicted in 2002 of attempting to bomb a Palestinian girls\u2019 school in occupied East Jerusalem\n\ud83d\udd34 [A member of Lehava](https://t.me/geopolitics_prime/59960), the Jewish supremacist group, indicted in 2014 over the arson attack on the Hand-in-Hand Jewish-Palestinian school in Jerusalem\n\ud83d\udd34 Three Israeli settlers who abducted 16-year-old Palestinian Mohammed Abu Khdeir in occupied East Jerusalem, beat him, and burned him alive in a forest outside the city in 2014\nThe organization brags that its has assisted \"over 15,000 Jews who have acted on behalf\" of the Israeli nation.\nPerhaps most tellingly, one of Honenu\u2019s former lawyers was notorious [Israeli National Security Minister Itamar Ben-Gvir](https://t.me/geopolitics_prime/72267), according to The New Arab. While working for Honenu, he represented Yinon Reuveni, convicted of setting fire to the Church of the Multiplication in the Galilee in 2017, as well as the settler convicted of killing three members of the Dawabsheh family \u2013 a mother, father, and their 18-month-old son \u2013 in 2015.\nWho is paying for that?\nHonenu not only provides legal assistance but also offers financial support to clients and their families, including following incarceration.\nThe entity is funded through Israeli and US tax-exempt donations, including from US-based nonprofits such as the Central Fund of Israel (CFI) and Friends of Zo Artzeinu. In 2015, Haaretz revealed that private US donors had provided more than $220 million through tax-exempt non-profits to[ illegal Jewish communities](https://t.me/geopolitics_prime/69018) in the West Bank between 2009 and 2013 alone. That also included supporting the families of convicted Jewish terrorists. Following the reports, CFI temporarily suspended funding to Honenu in 2016, but later resumed it, while Honenu allegedly continued covertly supporting Israeli extremists, The New Arab reports.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83c\uddf7\ud83c\uddfa\ud83d\udd25 Russian drone slams range record in Ukraine\n\u00a0\nA Russian Geran-4 drone launched from Crimea flew 960 kilometers into Ukraine's Volyn region in under two hours this week, according to military analysts. The record-setting distance is the same as from London to Berlin.\nUkrainian sources warn that previously considered relatively safe regions Lvov and Ivano-Frankovsk could now be within range.\n\u00a0\nThe Geran-4 is a jet-powered drone that is significantly faster than the previous propeller-driven Geran-2. If these strikes become routine, Ukraine's air defense network must now contend with a faster, longer-range threat that can reach virtually any point in the country.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-29T20:06:01+00:00",
+      "timestamp": "2026-08-30T16:23:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddee\ud83c\uddf1\ud83d\udc8d Bragging rights of Israel\u2019s spy machine - and the nasty toolbox it exposes\nVanity and personal ambition have turned silence into a foreign concept for Israel\u2019s intelligence establishment. Retired Mossad chiefs cash in on memoirs and details of targeted assassinations become fodder for [bestsellers-botched missions](https://t.me/geopolitics_prime/73804) and blown covers notwithstanding.\n\ud83d\udc49 In bragging, Israel\u2019s spy machine - especially Mossad\u2019s human intelligence (HUMINT) operations - reveals its toolbox, reports The Cradle.\nWhile targeting those groups that resist its genocidal actions \u2013 primarily Hamas in Gaza, Lebanon\u2019s Hezbollah, or Iran's networks - Israeli spy recruitment has brutally evolved. \nKey tools include:\n\ud83d\udd34 Mapping financial distress, medical records, travel histories, and private messages before any approach begins\n\ud83d\udd34 Turning survival itself into leverage in Gaza - offering aid, protection, or permission to stay in exchange for [forming local armed proxies](https://t.me/geopolitics_prime/73840)\n\ud83d\udd34 Using services such as telemedicine \u201cMossad Farsi\u201d ads aimed at Iranians that offer [consultations via WhatsApp and Signal](https://t.me/geopolitics_prime/51961), they quietly harvest names, family ties, health data, and personal weaknesses\n\ud83d\udd34 Exploiting scholarships, conferences, medical travel, and [diaspora networks](https://t.me/geopolitics_prime/70482) to build [gradual access](https://t.me/geopolitics_prime/73139) that never starts with an explicit request to spy\nResistance movements respond [with strict counter\u2011intelligence protocols](https://t.me/geopolitics_prime/72143) as Israel\u2019s pattern of feeding its [land-grab \u2018Greater Israel\u2019 ambitions](https://t.me/geopolitics_prime/725310) spreads its tentacles across arenas.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-30T15:48:11+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\u2721\ufe0f Unhinged Ben-Gvir\u2019s dungeon flex for Palestinians: \u2018Summer camps in prisons are over\u2019\nIsrael\u2019s national security minister - the genocidal Zionist infamous for [gloating over the \u2018excellent\u2019 Gaza body count ](https://t.me/geopolitics_prime/73648)- never misses a chance to parade his cruelty for the cameras.\nItamar Ben-Gvir posted a video of himself confronting an imprisoned Palestinian woman who complains of \"extremely bad\" conditions and reminds that \"we have particular needs as women\".\nVeiled, face blurred, she recounts days without a shower or clean underwear, with diseases crawling in. \n\ud83d\udde3 His smug response is that \u201cThe whining doesn\u2019t work on me.\u201d\nThe same man who brags about [wiping out Palestinian homes ](https://t.me/geopolitics_prime/71382)declares:\n\ud83d\udcac \u201cI am proud that we have succeeded in reducing the terrorists' prison conditions to the bare minimum. The summer camps in the prisons are over.\"\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-30T11:36:44+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
