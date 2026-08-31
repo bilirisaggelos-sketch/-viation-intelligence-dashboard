@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T15:22:51.359136+00:00",
+  "generated_at": "2026-08-31T21:01:13.229114+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -49,25 +49,6 @@
       "icon": "\ud83d\udea8",
       "timestamp": "08/29/2026",
       "location": "ZJX FL",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nSTOYSTOWN, PA, Monday, August 31, 2026 Local\nFacility: ZOB",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "08/29/2026",
-      "location": "ZOB PA",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
@@ -192,23 +173,82 @@
       "verified_source_count": 1
     },
     {
-      "title": "Passengers stranded as strike disrupts flights at Kenya's main airport",
-      "text": "Passengers stranded as strike disrupts flights at Kenya's main airport\nKenya Airways says the strike has caused delays of more than six hours, with some flights cancelled.",
-      "source": "BBC",
-      "source_type": "osint",
-      "publisher": "BBC World News",
-      "severity": "info",
-      "icon": "\ud83d\udcf0",
-      "timestamp": "2026-08-31T10:54:01+00:00",
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddfa\ud83c\uddf8 - A U.S. Official to AXIOS reported that in recent days that an Iranian anti-aircraft missile was launched towards a U.S. F-35 fighter jet that was providing cover to ships in the Strait of Hormuz.\nOne incident that raised concern in recent days was the launch of an Iranian anti-aircraft missile toward a U.S. F-35 fighter jet that was providing cover to ships in the strait, a U.S. official said.\nWhile the missile didn't come close enough to be a threat, it was a signal that Iran is trying to reconstitute its military capacity, according to the U.S. official.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-31T18:18:03+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "BBC World News"
+        "Middle East Spectator"
       ],
       "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7/\ud83c\uddef\ud83c\uddf4 BREAKING: Satellite imagery from today shows damage at an aircraft hangar at Muwaffaq Salti Airbase, Jordan, as a result of Iran\u2019s ballistic missile attack",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-31T16:48:11+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7 NEW: Moments ago, IRGC air defenses shot down a second American MQ-9 \u2018Reaper\u2019 drone in the Gulf of Oman",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-31T16:34:09+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014 \ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7 IRGC Brigadier General Mohammad Reza Naqdi:\n\u2018More than 90% of our ballistic missiles are still there.\nWe are currently producing at a rate far exceeding our consumption on the front lines. Our stockpile is increasing.\u2019",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-31T15:37:50+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -241,13 +281,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Clash Report",
         "Middle East Spectator"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -267,143 +306,6 @@
         "Middle East Spectator"
       ],
       "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7 NEW: Iran\u2019s air defenses have shot down an American MQ-9 \u2018Reaper\u2019 drone in the Persian Gulf",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-31T12:35:22+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\uddee\ud83c\uddf7/\ud83c\uddef\ud83c\uddf4/\ud83c\uddfa\ud83c\uddf8 WATCH: The IRGC Aerospace Force has released footage showing tonight\u2019s ballistic missile strikes against U.S. bases in Jordan",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-30T23:02:17+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Mediterranean Man",
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7 IRGC Statement:\n\u2018Minutes ago, in response to the American-Zionist aggression against Larak Island, the Aerospace Force of the Islamic Revolutionary Guard Corps (IRGC) launched a joint missile and drone attack.\nThe operation was codenamed \u2018Ya Muhammad ibn Abdullah\u2019, and it targeted and destroyed maintenance infrastructure and enemy aircraft bases at two U.S. air bases in Jordan: King Hussein Air Base and Muwaffaq Al-Salti Air Base. The operation involved ballistic missile strikes, inflicting significant damage.\nThe IRGC warns that this latest aggression and crime will not resolve the enemy's desperation to weaken the Islamic Republic's control over the Strait of Hormuz, and that every attack will be met with an even stronger response.\u2018",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-30T22:55:34+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Mediterranean Man",
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Iranian General Mohammad Reza Naqdi:\nAll football players have a ball made to the same standards, but they are not all Ronaldo.\nScoring a goal requires a person with motivation, intelligence, and ability \u2014 someone who knows how to use the tool.\nThe Americans possess a hundred times more weapons than we do, and they have better missiles and drones, but they cannot use them effectively.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-31T15:15:15+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Iranian General Mohammad Reza Naqdi:\nMore than 90% of our missiles are still there.\nWe are currently producing at a rate exceeding our consumption at the front.\nOur stockpile is increasing.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-31T15:14:49+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Iranian General Mohammad Reza Naqdi:\nOur assessment of the capabilities of the U.S. armed forces was greater than what turned out to be the case. \nThey greatly exaggerated their capabilities through propaganda. That image has now collapsed. \nThe aircraft carriers and fighter jets that were promoted on such a large scale turned out not to be that important.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-31T15:12:36+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Israel\u2019s original plan for Iran relied on Kurdish forces entering the country after Israeli airstrikes opened a route through the Kurdish region.\nThousands of Kurdish fighters were reportedly trained in Israel for the operation, which was intended to trigger wider anti-regime protests.\nDays after the campaign began, however, the White House reportedly ordered Israel to halt the Kurdish advance, partly due to Turkish opposition.\nSource: Israeli Channel 13",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-31T13:55:22+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Clash Report",
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -579,12 +481,12 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddfa\ud83c\uddf8\ud83d\udeab\ud83c\uddee\ud83c\uddf7 \u2014 President Trump to Fox News:\nThe current U.S. sanctions on the Iranian regime are beginning to have a major impact.\nU.S. air defense systems intercepted all the missiles except for one, and it turned out that it would not hit anything important.\n\u26aa\ufe0f",
+      "text": "\ud83c\uddee\ud83c\uddf7\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddfa\ud83c\uddf8 \u2014 The Islamic Revolutionary Guard Corps (IRGC) announces that it has shot down a U.S. MQ-9 drone east of the Strait of Hormuz.\n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-31T13:04:43+00:00",
+      "timestamp": "2026-08-31T16:32:28+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -598,12 +500,12 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddfa\ud83c\uddf8 Iranian air defense have shot down an MQ9 Reaper Drone over Strait of Hormuz\n\u26aa\ufe0f",
+      "text": "\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddfa\ud83c\uddf8\ud83c\uddef\ud83c\uddf4 \u2014 Satellite images show that an Iranian missile managed to penetrate U.S. air defenses at Muwaffaq Salti Air Base in Jordan, striking an aircraft hangar.\n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-31T12:44:10+00:00",
+      "timestamp": "2026-08-31T15:56:08+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -618,12 +520,12 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddf9\ud83c\uddf7\ud83d\udeab\ud83c\uddee\ud83c\uddf1 \u2014 Turkish FM Hakan Fidan on Israeli Prime Minister Benjamin Netanyahu:\nThis criminal, Netanyahu, who takes pleasure in shedding Palestinian blood and Muslim blood, must now be stopped.\nThe path he is pursuing is causing immense harm to Israel, to Palestine, and to the entire region.\nWhen you look at his statements, it is clear that he does not want the establishment of a Palestinian state. He does not want to relinquish the ongoing occupations in countries across the region. He wants this genocidal and occupying approach to continue.\nThis is no longer a threat only to us; it is a major threat to the entire region and to the international community.\nThe international system must fight against the threat posed by Netanyahu.\n\u26aa\ufe0f",
+      "text": "\ud83c\uddee\ud83c\uddf1\ud83e\udd1d\ud83c\uddec\ud83c\uddf7 \u2014 Israeli Prime Minister Benjamin Netanyahu via X:\nThe security agreement signed today with Greece, one of the largest in the state's history, is a direct continuation of the Eastern Mediterranean alliance we forged a decade ago with Greece and Cyprus.\nIt serves as further proof of the immense capabilities of Israel's defense and technology industries.\nThis move reflects Israel's strength, the confidence in our defense exports, and the bolstering of our regional alliances.\n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-31T12:37:57+00:00",
+      "timestamp": "2026-08-31T15:43:45+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -637,12 +539,70 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddf9\ud83c\uddf7\ud83d\udeab\ud83c\uddee\ud83c\uddf1 \u2014 Turkish FM Hakan Fidan on Israeli Prime Minister Benjamin Netanyahu:\nNetanyahu, who has become a common enemy of humanity and the international community\u2014and I underline, Netanyahu himself, a criminal and a perpetrator of genocide\u2014is not someone who should be taken seriously at this point.\nNetanyahu and the mentality he represents pose a threat not only to T\u00fcrkiye, but to global security as a whole.\nIt would be a grave mistake to view this as merely T\u00fcrkiye\u2019s problem.\nIt is now necessary to put an end to the harm that this perpetrator of genocide, Netanyahu, is inflicting on the region, on Israel, on the Jewish people, and on the entire world.\n\u26aa\ufe0f",
+      "text": "\ud83c\uddee\ud83c\uddf7\u26a1\ufe0f \u2014 Iranian General Mohammad Reza Naqdi:\nThe fundamental energy of the Islamic Revolution has not yet been released. That energy is reserved for the final stages.\nAsymmetric warfare means war on Wall Street and Manhattan \u2014 war anywhere, at any time, using capabilities that have not yet been brought into action.\nUntil now, there has been no need for that. \nWe have been able to manage the war and preserve our security using drones and missiles.\n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-31T12:32:24+00:00",
+      "timestamp": "2026-08-31T15:39:10+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf7\u26a1\ufe0f \u2014 Iranian General Mohammad Reza Naqdi:\nAll football players have a ball made to the same standards, but they are not all Ronaldo.\nScoring a goal requires a person with motivation, intelligence, and ability \u2014 someone who knows how to use the tool.\nThe Americans possess a hundred times more weapons than we do, and they have better missiles and drones, but they cannot use them effectively.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-31T15:36:45+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf7\u26a1\ufe0f \u2014 Iranian General Mohammad Reza Naqdi:\nMore than 90% of our missiles are still there.\nWe are currently producing at a rate exceeding our consumption at the front.\nOur stockpile is increasing.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-31T15:30:23+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8\u26a1\ufe0f \u2014 Iranian General Mohammad Reza Naqdi:\nOur assessment of the capabilities of the U.S. armed forces was greater than what turned out to be the case. \nThey greatly exaggerated their capabilities through propaganda. That image has now collapsed. \nThe aircraft carriers and fighter jets that were promoted on such a large scale turned out not to be that important.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-31T15:24:46+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -690,45 +650,6 @@
         "Mediterranean Man"
       ],
       "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddf7\ud83c\uddfa Exclusive footage published by Russian war correspondent Alexander Rogatkin reportedly shows a Russian combat laser system engaging Ukrainian drones in operational conditions.\nAccording to the report, several such laser systems are now protecting strategic facilities in southwestern Russia, with their developers claiming that they have already destroyed several hundred Ukrainian UAVs. More powerful second-generation systems are reportedly beginning to replace the initial installations, with developers claiming the newer weapons will be capable of engaging higher-speed targets, including aircraft and cruise missiles.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-31T01:38:57+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u2014 \ud83c\uddee\ud83c\uddf7/\ud83c\uddef\ud83c\uddf4/\ud83c\uddfa\ud83c\uddf8 WATCH: The IRGC Aerospace Force has released footage showing tonight\u2019s ballistic missile strikes against U.S. bases in Jordan",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-30T23:04:57+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Mediterranean Man",
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -866,6 +787,44 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
+      "text": "\u2757\ufe0fFor our Italian-speaking audience! \u2757\ufe0f\n\ud83d\udce3 They\u2019re telling you everything. But how much is true?\nEvery day we\u2019re flooded with news that changes by the hour\u2014but how can you know what\u2019s real?\n\u26a0\ufe0f [Tutti i Fatti](https://t.me/+sgWs6OaQKNA0ODUy) brings you only what matters: verified, factual news from around the world.\n\u2b07\ufe0f Follow the latest on the events gripping the globe:\n- Middle East War: Iran, the US, and Israel clash as missiles strike the Gulf and cities face attacks. Washington and Tel Aviv escalate, Teheran retaliates\u2014will there be a ceasefire or a regional escalation?\n- Ukraine: Zelensky faces corruption scandals and mounting pressure. Will he push for peace or resume the offensive against Russia? His choice could shift European and global balances.\n- Global Markets & Oil: Prices soar, financial chaos spreads, inflation spikes. The Strait of Hormuz crisis shakes the world economy.\n\ud83d\udd14 Stay ahead. For verified updates, join [Tutti i Fatti.](https://t.me/+sgWs6OaQKNA0ODUy)",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-31T19:11:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udcb5\ud83e\udd21 Ousted Ukrainian minister hunts for US drone cash\nFormer Ukrainian Defense Minister Mykhailo Fedorov \u2014 who was recently fired from his position \u2014 is now courting US investment for a new defense tech fund. According to the Financial Times, he has offered to have Ukraine help build an \u201carmy of drones\u201d for the Pentagon, in exchange for Patriot interceptor missiles to bolster Ukraine\u2019s air defenses.\n\ud83e\udd14 Musk's game:\nFedorov claims that Elon Musk is \"open\" to enabling Starlink strikes on Russian territory, but stresses that the final decision is political and rests with the White House. In practice, Musk appears to be playing both sides\u2014securing lucrative government contracts while [leaving twisting in the wind. ](https://t.me/geopolitics_prime/73758)\nMeanwhile, Russia has already deployed a new Starlink jamming system\u2014Volna Kupol Garant\u2014rendering [the entire debate irrelevant.](https://t.me/geopolitics_prime/73606)\nThe chosen priorities reveal precisely where Ukraine is falling short against Russia, as it confronts a deepening manpower crisis and intensified [Russian strikes using increasingly advanced drones.](https://t.me/geopolitics_prime/73916)\n\ud83d\udc49 The reality:\nFedorov himself acknowledges that the fund's impact will take years to materialize. Private investment in Ukrainian defense tech currently stands at roughly $100\u2013300 million, and while it is growing, it remains far below the scale needed to rapidly field entirely new weapons systems.\n\ud83e\udd14 For a country whose stockpiles have been depleted by devastating Russian strikes on military logistics and production facilities, the fund is unlikely to offer a near-term solution.\nMeanwhile, questions are being raised in Ukraine about whether the fund initiative serves personal interests. These concerns have been fueled by Fedorov\u2019s recent announcement that he would take on a role as adviser to the Italian defense minister.\n\ud83d\udccc Some observers note that Fedorov, after being ousted in a political dispute, now appears to be offering access to Ukraine's wartime ecosystem in exchange for a high-profile advisory role\nItalian media have raised concerns over whether the government is turning Italy into a \"dump for Zelensky,\" while also questioning whether the experience of a dismissed Ukrainian official is the right fit for shaping Italian defense policy.\n\u2757\ufe0f Fedorov was sacked by Zelensky last month after just six months as defense minister, sparking protests. Since then, he has broken the wartime taboo against criticizing the government, calling for elections and publicly stating that Ukraine is \"gradually losing\" the war.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-31T17:44:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
       "text": "\ud83c\uddfa\ud83c\uddf8\ud83d\udd0b The man who once briefed the CIA on the Middle East now leads a Google team that decides what content survives on its platforms\nNick Rossmann spent five years analyzing the Middle East for the CIA before joining Google, where he now leads a 40-person team investigating influence operations and deciding what stays online.\nIn early 2026, Google shut down thousands of YouTube channels and blocked domains, pulling Palestinian voices and criticism of Israel and the US off the platform alongside pro\u2011Israel content as if the occupied and its occupier were the same.\n\ud83d\udc49 [Check the article on our Substack to learn how former CIA officers became Big Tech's gatekeepers](https://geopoliticsprime.substack.com/p/from-cia-to-big-tech-how-spies-infiltrate)\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
@@ -891,82 +850,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-31T08:47:59+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udd0d Inside the Polisario Front - The movement defying Morocco, Israel and US plots in Western Sahara\nWestern Sahara has been at the center of a decades-long geopolitical struggle, with Israel seeking to strengthen its foothold in Africa. The Polisario Front, much like the Palestinians in the Middle East, stands in the way of those ambitions.\nPolisario Front and scars of Spanish colonialism\n\ud83d\udd34 Founded on May 10, 1973, the Polisario Front (the Popular Front for the Liberation of Sagu\u00eda el-Hamra y R\u00edo de Oro) represents the indigenous Sahrawi people and advocates for an independent Sahrawi state in Western Sahara\n\ud83d\udd34 Spain withdrew from Western Sahara in 1975\u201376, handing control to Morocco and Mauritania \u2013 a move denounced by the International Court of Justice at the time. The Polisario Front proclaimed the Sahrawi Arab Democratic Republic (SADR) on February 27, 1976, and started its fight for independence\n\ud83d\udd34 In 1991, the UN brokered a peace plan for Western Sahara by establishing a cease-fire, deploying peacekeepers, and calling for a self-determination referendum \u2013 but more than three decades later, the vote has yet to take place\n\ud83d\udd34 Presently, Morocco controls nearly 80% of Western Sahara, but the UN does not recognize its claim. Neighboring Algeria hosts the Polisario Front\u2019s headquarters in Tindouf, while the African Union recognizes SADR as a member state\nMorocco and the Zionist modus operandi\nIn 2020, Israel and the US recognized Morocco\u2019s sovereignty over Western Sahara as part of Morocco\u2019s entry into the US-brokered Abraham Accords. The Polisario Front rejected the move, calling any attempt to legitimize Morocco\u2019s occupation \u201cnull and void\u201d and denouncing \"the Zionist entity.\"\nEmboldened by US and Israeli support, Morocco launched a brutal military crackdown on Sahrawi civilian protests in 2020, which the Polisario Front viewed as a breach of the cease-fire. A new wave of clashes and drone strikes followed.\nForeign affairs experts draw parallels between the Sahrawi and Palestinian struggles, arguing that Morocco has adopted an Israeli playbook of sheer land-grab, repression of the indigenous population, and denial of self-determination.\n\ud83c\uddee\ud83c\uddf7 Iran: A rising force in Africa?\nThe US-backed Morocco-Israel rapprochement was also condemned by Algeria, which sees growing military ties between the two and steady Zionist expansion in Africa as a direct strategic threat to its national security. Iran maintains close ties with Algeria, a major Polisario Front backer, united by anti-Western and anti-Zionist views and shared positions on regional issues such as Palestine.\nSome reports allege that Iran is supplying the Polisario Front with drones and Hezbollah is training Sahrawi fighters \u2013 claims both Iran and [the Polisario Front deny.](https://t.me/geopolitics_prime/73918)\nIran has steadily expanded technological, military, and cultural ties with African countries in recent years as Western influence [on the continent wanes](https://t.me/geopolitics_prime/73126).\n\ud83e\udd14 Broader geopolitical game\nMorocco\u2019s claim over phosphate-rich Western Sahara and Rabat\u2019s Atlantic-Sahel Corridor also align with broader US efforts to expand influence across the Sahel and West Africa, control major trade routes, and undermine [Chinese and Russian projects in Africa](https://t.me/geopolitics_prime/73083).\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-31T05:56:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83e\ude96 Netanyahu tries to win votes by war-mongering: 'Peace will be the end of Israel'\nWith legislative elections looming on October 27, Prime Minister Benjamin Netanyahu is doubling down on fear \u2014 warning that his opponents will bring about the \"beginning of the end\" of the Jewish state by pursuing peace.\n\"If my opponents win, they will leave Lebanon, they will leave Gaza, they will leave Syria, and they will establish a Palestinian state here... and that will be the beginning of the end of Israel. We will go into free fall,\" he said on TV.\nBetween now and October 27, Netanyahu will use every warmongering tactic to stay in power \u2014 and, more importantly, to remain immune from justice.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-31T04:25:08+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\udfc3\u200d\u2642\ufe0f Are Palantir and other big tech rats fleeing Trump\u2019s ship as midterms threaten his power?\n\ud83d\udc49 US tech companies closely aligned with Donald Trump are reportedly wooing his political opponents ahead of the November midterm elections.\nMeta, Palantir and other companies reportedly fear that a possible Democratic takeover of the US Congress could put their financial ties to Trump under scrutiny, exposing them to subpoenas and congressional hearings, according to The Wall Street Journal. Democrats need just four seats in the Senate and three in the House to take control of Congress.\nSo, to avoid potential investigations, executives are donating heavily to Democrats, hiring former Democratic aides and setting up teams to assess their vulnerabilities.\n\ud83d\udd34 The move by exchange & prediction traders Kalshi - which has hired Democrat aides - is especially telling, given that it hired Donald Trump Jr. as its strategic advisor in January 2025. In March, Trump Jr. fought to shield the rapidly expanding industry from scrutiny by state and federal regulators \u2013 while rumors of insider [trading swirl around the Trump family](https://t.me/geopolitics_prime/73669). Is Kalshi about to turn its back on him?\n\ud83d\udd34 At Meta, Palantir, Amazon and Chevron, executives are reportedly preparing for potential congressional probes and hearings\n\ud83d\udd34 Meta has donated at least $10 million to nonprofit groups aligned with Democratic House and Senate leaders \u2013 but it is also hedging its bets with another $10 million to similar groups supporting Republican candidates\n\ud83d\udd34 Palantir\u2019s position is less straightforward. In April, The Hill reported that Democrats were rejecting the company\u2019s donations, wary of its growing political toxicity over links to mass civilian deaths in Gaza and immigration raids in the US. Palantir has secured several major deals under Trump\u2019s second term, including a $30 million ICE contract for an \u201cImmigration Lifestyle Operating System\u201d, a $1 billion DHS purchasing agreement, and a $10 billion ten-year [contract with the Pentagon](https://t.me/geopolitics_prime/73414)\nProbes underway\nDonald Trump Jr. and Trump's son-in-law [Jared Kushner](https://t.me/geopolitics_prime/73148) are already under scrutiny:\n\u27a1\ufe0f In August, US lawmakers opened a probe into 1789 Capital, the venture firm where Trump Jr. sits on the board, questioning its lucrative investments in companies that secured government contracts\n\u27a1\ufe0f Earlier this year, lawmakers also began scrutinizing Kushner\u2019s overseas business dealings while he participates in US peace efforts\n\u27a1\ufe0f If Democrats win, they could use subpoena power to compel Trump family members to testify about their controversial financial dealings\nPerhaps if Trump had not pursued aggressive immigration crackdowns, pressured Israeli PM Benjamin Netanyahu to secure peace in Gaza, or launched the humiliating war in Iran, he might have had better odds of holding onto power. Even his efforts to stave off a US financial crisis with [Treasury Secretary Scott Bessent](https://t.me/geopolitics_prime/73674) and [AI giants'](https://t.me/geopolitics_prime/73683) maneuvers may not be enough to save him.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-31T01:05:06+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udea8\u2694\ufe0f Iran launches ballistic missiles toward Jordan \u2014 US airbase targeted\nIran has launched ballistic missiles toward Jordan following tonight's US strike on Larak Island, according to reports. Videos circulating online show US air defense systems attempting to intercept the missiles over Jordanian territory.\n\ud83d\udd34 Impacts reported at\u00a0Muwaffaq Salti Airbase, Jordan\u00a0\u2014 a facility used by the US military\n\ud83d\udd34 The attack is retaliation for the US strike on Larak Island tonight \u2014\u00a0the first US strike on Iranian soil in a month\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-30T23:24:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
