@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T22:47:42.624673+00:00",
+  "generated_at": "2026-08-31T01:19:08.253312+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -87,101 +87,6 @@
       "icon": "\ud83d\udea8",
       "timestamp": "08/28/2026",
       "location": "ZTL GA",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nFlushing, NY, Monday, August 24, 2026 through Sunday, September 13, 2026 Local\nFacility: ZNY",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "08/21/2026",
-      "location": "ZNY NY",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nSt. Paul, MN, Thursday, August 27, 2026 through Monday, September 7, 2026 Local\nFacility: ZMP",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "08/21/2026",
-      "location": "ZMP MN",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nPlymouth, MI, Thursday, August 27, 2026 through Sunday, August 30, 2026 Local\nFacility: ZOB",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "08/21/2026",
-      "location": "ZOB MI",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nGrand Blanc, MI, Friday, August 28, 2026 through Sunday, August 30, 2026 Local\nFacility: ZOB",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "08/21/2026",
-      "location": "ZOB MI",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nAsheville, NC, Thursday, August 27, 2026 through Wednesday, September 2, 2026 Local\nFacility: ZTL",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "08/21/2026",
-      "location": "ZTL NC",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
@@ -289,6 +194,48 @@
     {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
+      "text": "\u2014 \ud83c\uddee\ud83c\uddf7/\ud83c\uddef\ud83c\uddf4/\ud83c\uddfa\ud83c\uddf8 WATCH: The IRGC Aerospace Force has released footage showing tonight\u2019s ballistic missile strikes against U.S. bases in Jordan",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-30T23:02:17+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
+      "verified_sources": [
+        "Clash Report",
+        "Mediterranean Man",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 3
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7 IRGC Statement:\n\u2018Minutes ago, in response to the American-Zionist aggression against Larak Island, the Aerospace Force of the Islamic Revolutionary Guard Corps (IRGC) launched a joint missile and drone attack.\nThe operation was codenamed \u2018Ya Muhammad ibn Abdullah\u2019, and it targeted and destroyed maintenance infrastructure and enemy aircraft bases at two U.S. air bases in Jordan: King Hussein Air Base and Muwaffaq Al-Salti Air Base. The operation involved ballistic missile strikes, inflicting significant damage.\nThe IRGC warns that this latest aggression and crime will not resolve the enemy's desperation to weaken the Islamic Republic's control over the Strait of Hormuz, and that every attack will be met with an even stronger response.\u2018",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-30T22:55:34+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
+      "verified_sources": [
+        "Clash Report",
+        "Mediterranean Man",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 3
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
       "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf7/\ud83c\udde6\ud83c\uddea BREAKING: Missile alerts in the United Arab Emirates",
       "source": "Telegram",
       "source_type": "telegram",
@@ -298,12 +245,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
+        "Mediterranean Man",
         "Middle East Spectator"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -366,22 +314,82 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "New wave of ballistics launched",
+      "publisher": "Clash Report",
+      "text": "Jordan says it intercepted and destroyed 8 missiles that entered its airspace.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-30T21:55:06+00:00",
+      "timestamp": "2026-08-30T23:32:48+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Middle East Spectator"
+        "Clash Report"
       ],
       "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "The Trump administration is trying to avoid a return to major combat with Iran, which could further strain U.S. stocks of missile interceptors and other weapons.\nSource: WSJ",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-30T23:12:53+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "IRGC releases footage showing tonight\u2019s missile launches targeting U.S. bases in Jordan.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-30T23:04:07+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
+      "verified_sources": [
+        "Clash Report",
+        "Mediterranean Man",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 3
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "The IRGC says it struck technical facilities and fighter-jet positions at the King Hussein and Al-Azraq air bases in Jordan with ballistic missiles and drones, claiming heavy damage.\nIt said the attack was retaliation for the U.S. strike on Larak Island and warned of stronger responses to further attacks.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-30T22:56:53+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Clash Report"
+      ],
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -434,12 +442,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "Clash Report"
+        "Clash Report",
+        "Geopolitics Prime"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -472,10 +481,30 @@
       "location": "Global",
       "lat": null,
       "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Clash Report",
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Our Wars Today",
+      "text": "\ud83c\uddee\ud83c\uddf7 \u26a0\ufe0f \ud83c\uddfa\ud83c\uddf8 \ud83c\uddef\ud83c\uddf4 \ud83c\uddee\ud83c\uddf1 #Iran Targets #UnitedStates Bases In #Jordan Following #Larak Island Strikes: \nhttps://wanaen.com/iranian-missiles-target-u-s-positions-in-jordan/\nMore Coverage: T.me/ourwarstoday \n---\n24/7 LIVE News RSS feed: t.me/ournewsfeedtoday\n---\nFootage: t.me/ourwars\n---\nSupport OWT: https://ko-fi.com/ourwarstoday",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-30T23:10:44+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Clash Report"
+        "Our Wars Today"
       ],
       "verified_source_count": 1
     },
@@ -491,13 +520,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
         "Our Wars Today"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -635,6 +663,26 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf7\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddfa\ud83c\uddf8\ud83c\uddef\ud83c\uddf4 Islamic Revolutionary Guard Corps:\nIn the name of God, the Breaker of the Tyrants.\n\"So, whoever transgresses against you, retaliate against him in the same way.\"\n\ud83d\udd39O, honorable and revolutionary Iranian people,\nYour continuous and unprecedented heroic presence in the streets for 183 nights has astonished and bewildered the enemy, and it is a source of hope for the oppressed and a light for the eyes of the mujahideen of Islam.\n\ud83d\udd39Just minutes ago, fighters from the Aerospace Force of the Islamic Revolutionary Guard Corps, in response to the aerial aggression launched by the American and Zionist enemy against the \"Lark\" island, carried out an operation called \"Punishing the Aggressors\" through a joint missile and drone operation under the name \"Ya Muhammad ibn Abdullah (PBUH),\" destroying the technical and repair infrastructure, and the bases of enemy aircraft at two American airbases, \"King Hussein\" and \"Al-Azraq\" in Jordan, using ballistic missiles, causing significant damage.\n\ud83d\udd39The Islamic Revolutionary Guard Corps warned that the aggression and crime will not solve the enemy's problem of weakening the Islamic Republic's control over the Strait of Hormuz, and that every attack will be met with stronger responses.\n\"And victory comes only from God, the Almighty, the Wise.\"\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-30T23:03:29+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Clash Report"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
       "text": "\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddfa\ud83c\uddf8Iraqi sources: Initial reports indicate a direct Iranian missile strike on an American ship.\n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
@@ -767,21 +815,42 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf7\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8 \u2014 Reports that a U.S. drone strike hit Larak Island, killing two people and wounding two others.\n\u26aa\ufe0f",
+      "publisher": "Mediterranean Man",
+      "text": "\u2014 \ud83c\uddee\ud83c\uddf7/\ud83c\uddef\ud83c\uddf4/\ud83c\uddfa\ud83c\uddf8 WATCH: The IRGC Aerospace Force has released footage showing tonight\u2019s ballistic missile strikes against U.S. bases in Jordan",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-30T20:20:39+00:00",
+      "timestamp": "2026-08-30T23:04:57+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
+      "verified_sources": [
+        "Clash Report",
+        "Mediterranean Man",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 3
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\u26a1\ud83c\udde6\ud83c\uddea\ud83c\uddf0\ud83c\uddfc Missile alerts are sounding in the United Arab Emirates, while Kuwait has also issued a precautionary alert amid renewed Iranian military activity in the Persian Gulf.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-30T22:50:17+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "PARTIALLY VERIFIED",
       "verification_confidence": 65,
       "verified_sources": [
-        "Alsaa Plus EN",
-        "Our Wars Today"
+        "Mediterranean Man",
+        "Middle East Spectator"
       ],
       "verified_source_count": 2
     },
@@ -863,32 +932,13 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8 The attack on Larc was carried out by drones.\nTwo people were killed, and two others were injured, according to initial reports.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-30T19:43:40+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfaResidents of the Leningrad region record the sounds of explosions as Ukrainian drones target the region during this evening's Ukrainian drone strikes on Russia.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfa The 3rd battalion \"WINGS\" of unmanned aircraft complexes of the 411th brigade \"Hawks\" use drones of the \"Sych\" type to hit the positions and equipment of the Russians in the Hulyaipolye direction.\nSome shots resemble mini carpet bombings and it looks cool.\nI always was bewondered by how one can predict the trajectory of an unguided projectile so that it falls accurately on the target while flying, that takes some mad skill.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-30T04:39:31+00:00",
+      "timestamp": "2026-08-30T23:52:14+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -902,12 +952,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfaUkrainian drones also targeted the oil refinery in Kirishi, southeastern Leningrad region. \nSome were successfully intercepted enroute to the oil refinery, which residents recorded a blaze.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "Ukrainian soldiers trying to defend against a drone, shooting one down but as soon as they move another drone lands on the soldier in front of the recorder.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-30T04:39:25+00:00",
+      "timestamp": "2026-08-30T23:45:33+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -921,12 +971,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfaSeveral waves of Russian Geran-2 drones have been striking the Ukrainian capital Kyiv for several hours now. \nThey have targeted energy infrastructure such as CHP-5 in southeastern Kyiv (media 1). Strikes against electrical infrastructure might ramp up as the colder weather seasons approach.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "Russian soldier records his positions with dozens of dead Russians soldiers, drones and drone-drops have been relentlessly hitting any fortified gains of Russia yet they spare so much manpower to keep going forward.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-30T04:39:18+00:00",
+      "timestamp": "2026-08-30T23:45:18+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -940,12 +990,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfaUkrainian drones targeted the Russian regional capital city Bryansk during this evening\u2019s drone incursion into Russian airspace.\nResidents recorded as Russian air defence systems struck a building while attempting to shoot down Ukrainian drones.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "Ukrainian drone explodes over the Russian soldier near s checkpoint.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-30T04:38:31+00:00",
+      "timestamp": "2026-08-30T23:43:51+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -955,6 +1005,65 @@
         "CASELS"
       ],
       "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "A Russian dry cargo ship struck by a kamikaze drone in the Black Sea has washed ashore near Istanbul. The stranded vessel quickly turned into a local attraction, with crowds of beachgoers gathering along the shoreline to see the damaged ship.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-30T23:43:26+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\udfc3\u200d\u2642\ufe0f Are Palantir and other big tech rats fleeing Trump\u2019s ship as midterms threaten his power?\n\ud83d\udc49 US tech companies closely aligned with Donald Trump are reportedly wooing his political opponents ahead of the November midterm elections.\nMeta, Palantir and other companies reportedly fear that a possible Democratic takeover of the US Congress could put their financial ties to Trump under scrutiny, exposing them to subpoenas and congressional hearings, according to The Wall Street Journal. Democrats need just four seats in the Senate and three in the House to take control of Congress.\nSo, to avoid potential investigations, executives are donating heavily to Democrats, hiring former Democratic aides and setting up teams to assess their vulnerabilities.\n\ud83d\udd34 The move by exchange & prediction traders Kalshi - which has hired Democrat aides - is especially telling, given that it hired Donald Trump Jr. as its strategic advisor in January 2025. In March, Trump Jr. fought to shield the rapidly expanding industry from scrutiny by state and federal regulators \u2013 while rumors of insider [trading swirl around the Trump family](https://t.me/geopolitics_prime/73669). Is Kalshi about to turn its back on him?\n\ud83d\udd34 At Meta, Palantir, Amazon and Chevron, executives are reportedly preparing for potential congressional probes and hearings\n\ud83d\udd34 Meta has donated at least $10 million to nonprofit groups aligned with Democratic House and Senate leaders \u2013 but it is also hedging its bets with another $10 million to similar groups supporting Republican candidates\n\ud83d\udd34 Palantir\u2019s position is less straightforward. In April, The Hill reported that Democrats were rejecting the company\u2019s donations, wary of its growing political toxicity over links to mass civilian deaths in Gaza and immigration raids in the US. Palantir has secured several major deals under Trump\u2019s second term, including a $30 million ICE contract for an \u201cImmigration Lifestyle Operating System\u201d, a $1 billion DHS purchasing agreement, and a $10 billion ten-year [contract with the Pentagon](https://t.me/geopolitics_prime/73414)\nProbes underway\nDonald Trump Jr. and Trump's son-in-law [Jared Kushner](https://t.me/geopolitics_prime/73148) are already under scrutiny:\n\u27a1\ufe0f In August, US lawmakers opened a probe into 1789 Capital, the venture firm where Trump Jr. sits on the board, questioning its lucrative investments in companies that secured government contracts\n\u27a1\ufe0f Earlier this year, lawmakers also began scrutinizing Kushner\u2019s overseas business dealings while he participates in US peace efforts\n\u27a1\ufe0f If Democrats win, they could use subpoena power to compel Trump family members to testify about their controversial financial dealings\nPerhaps if Trump had not pursued aggressive immigration crackdowns, pressured Israeli PM Benjamin Netanyahu to secure peace in Gaza, or launched the humiliating war in Iran, he might have had better odds of holding onto power. Even his efforts to stave off a US financial crisis with [Treasury Secretary Scott Bessent](https://t.me/geopolitics_prime/73674) and [AI giants'](https://t.me/geopolitics_prime/73683) maneuvers may not be enough to save him.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-31T01:05:06+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Clash Report",
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udea8\u2694\ufe0f Iran launches ballistic missiles toward Jordan \u2014 US airbase targeted\nIran has launched ballistic missiles toward Jordan following tonight's US strike on Larak Island, according to reports. Videos circulating online show US air defense systems attempting to intercept the missiles over Jordanian territory.\n\ud83d\udd34 Impacts reported at\u00a0Muwaffaq Salti Airbase, Jordan\u00a0\u2014 a facility used by the US military\n\ud83d\udd34 The attack is retaliation for the US strike on Larak Island tonight \u2014\u00a0the first US strike on Iranian soil in a month\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-30T23:24:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Clash Report",
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
