@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T01:19:08.253312+00:00",
+  "generated_at": "2026-08-31T07:29:59.813221+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -206,7 +206,7 @@
       "verification_status": "VERIFIED",
       "verification_confidence": 90,
       "verified_sources": [
-        "Clash Report",
+        "Alsaa Plus EN",
         "Mediterranean Man",
         "Middle East Spectator"
       ],
@@ -227,7 +227,7 @@
       "verification_status": "VERIFIED",
       "verification_confidence": 90,
       "verified_sources": [
-        "Clash Report",
+        "Alsaa Plus EN",
         "Mediterranean Man",
         "Middle East Spectator"
       ],
@@ -268,7 +268,7 @@
       "verification_status": "PARTIALLY VERIFIED",
       "verification_confidence": 65,
       "verified_sources": [
-        "Clash Report",
+        "CASELS",
         "Middle East Spectator"
       ],
       "verified_source_count": 2
@@ -309,6 +309,82 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "UAE Ministry of Defense says its air forces intercepted a drone over the country\u2019s territorial waters coming from Iran.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-31T06:28:27+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Trump on Iran:\nThe oil is going to go down like a rocket as soon as we win that war with Iran.\nAlready, we got almost total control over the Strait of Hormuz.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-31T05:55:06+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Iran's IRGC says it shot down a U.S. MQ-9 drone over the Strait of Hormuz, with the aircraft crashing into the Persian Gulf.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-31T05:32:27+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Iran said it launched drone strikes on the UAE\u2019s Al Minhad Air Base, targeting areas hosting U.S. forces and helicopters.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-31T05:22:48+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
       ],
       "verified_source_count": 1
     },
@@ -362,14 +438,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Clash Report",
-        "Mediterranean Man",
-        "Middle East Spectator"
+        "Clash Report"
       ],
-      "verified_source_count": 3
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -383,111 +457,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Clash Report"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "U.S. source to Fox News:\nNearly all incoming missiles have been intercepted at this point.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-30T22:23:04+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Clash Report",
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Iranian ballistic missiles intercepted over Jordan.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-30T22:08:55+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
         "Clash Report"
       ],
       "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "BREAKING: Iran appears to have launched ballistic missiles toward Jordan following tonight\u2019s U.S. strike on Larak Island.\nInterceptions visible.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-30T21:48:39+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Clash Report",
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Iranian Press TV: \nIran fired missiles at U.S. vessels in the Strait of Hormuz.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-30T21:37:11+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Netanyahu:\nIf my opponents win, they will leave Lebanon, they will leave Gaza, they will leave Syria, and they will establish a Palestinian state here.\nAnd it won\u2019t just be a Palestinian state. It will be a Palestinian state backed by major powers, and that will be the beginning of the end of Israel.\nWe will go into free fall.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-30T20:58:38+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Clash Report",
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -663,6 +638,25 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf7\u26a1\ufe0f \u2014 ICYMI: United States and Iran exchange another round of strikes\nEarlier today, U.S. Central Command launched a strike against what was reported by U.S. officials to news outlet as \"rocket launchers carrying sea mines\" at Larak Island, Iran; these were almost certainly Fajr-5 MLRS systems carrying rockets equipped with a naval mine warhead. \nThe strike was carried out with a MQ-9A Reaper UCAV in service with the U.S. Air Force's 361st Expeditionary Attack Squadron stationed at Muwaffaq Salti AB, Jordan.\nIn response, the IRGC Aerospace Force launched a strike with at least one dozen ballistic missiles, including Kheibar Shekan ballistic missiles, and multiple Shahed-136 one-way attack UAVs towards King Hussein International Airport and Muwaffaq Salti Air Base, Jordan. At least four ballistics impacted, and the total amount is likely higher.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-31T05:55:31+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
       "text": "\ud83c\uddee\ud83c\uddf7\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddfa\ud83c\uddf8\ud83c\uddef\ud83c\uddf4 Islamic Revolutionary Guard Corps:\nIn the name of God, the Breaker of the Tyrants.\n\"So, whoever transgresses against you, retaliate against him in the same way.\"\n\ud83d\udd39O, honorable and revolutionary Iranian people,\nYour continuous and unprecedented heroic presence in the streets for 183 nights has astonished and bewildered the enemy, and it is a source of hope for the oppressed and a light for the eyes of the mujahideen of Islam.\n\ud83d\udd39Just minutes ago, fighters from the Aerospace Force of the Islamic Revolutionary Guard Corps, in response to the aerial aggression launched by the American and Zionist enemy against the \"Lark\" island, carried out an operation called \"Punishing the Aggressors\" through a joint missile and drone operation under the name \"Ya Muhammad ibn Abdullah (PBUH),\" destroying the technical and repair infrastructure, and the bases of enemy aircraft at two American airbases, \"King Hussein\" and \"Al-Azraq\" in Jordan, using ballistic missiles, causing significant damage.\n\ud83d\udd39The Islamic Revolutionary Guard Corps warned that the aggression and crime will not solve the enemy's problem of weakening the Islamic Republic's control over the Strait of Hormuz, and that every attack will be met with stronger responses.\n\"And victory comes only from God, the Almighty, the Wise.\"\n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
@@ -672,13 +666,14 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
       "verified_sources": [
         "Alsaa Plus EN",
-        "Clash Report"
+        "Mediterranean Man",
+        "Middle East Spectator"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 3
     },
     {
       "title": "Telegram",
@@ -749,12 +744,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "Alsaa Plus EN"
+        "Alsaa Plus EN",
+        "Geopolitics Prime"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -816,6 +812,25 @@
     {
       "title": "Telegram",
       "publisher": "Mediterranean Man",
+      "text": "\u26a1\ud83c\uddf7\ud83c\uddfa Exclusive footage published by Russian war correspondent Alexander Rogatkin reportedly shows a Russian combat laser system engaging Ukrainian drones in operational conditions.\nAccording to the report, several such laser systems are now protecting strategic facilities in southwestern Russia, with their developers claiming that they have already destroyed several hundred Ukrainian UAVs. More powerful second-generation systems are reportedly beginning to replace the initial installations, with developers claiming the newer weapons will be capable of engaging higher-speed targets, including aircraft and cruise missiles.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-31T01:38:57+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
       "text": "\u2014 \ud83c\uddee\ud83c\uddf7/\ud83c\uddef\ud83c\uddf4/\ud83c\uddfa\ud83c\uddf8 WATCH: The IRGC Aerospace Force has released footage showing tonight\u2019s ballistic missile strikes against U.S. bases in Jordan",
       "source": "Telegram",
       "source_type": "telegram",
@@ -828,7 +843,7 @@
       "verification_status": "VERIFIED",
       "verification_confidence": 90,
       "verified_sources": [
-        "Clash Report",
+        "Alsaa Plus EN",
         "Mediterranean Man",
         "Middle East Spectator"
       ],
@@ -894,51 +909,13 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8 Iranian cruise missiles launched towards US destroyers in the Strait of Hormuz",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-30T21:49:48+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8 Missile launches detected from Iran",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-30T21:27:45+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfa The 3rd battalion \"WINGS\" of unmanned aircraft complexes of the 411th brigade \"Hawks\" use drones of the \"Sych\" type to hit the positions and equipment of the Russians in the Hulyaipolye direction.\nSome shots resemble mini carpet bombings and it looks cool.\nI always was bewondered by how one can predict the trajectory of an unguided projectile so that it falls accurately on the target while flying, that takes some mad skill.",
+      "text": "Warehouses in Moscow's industrial zones have begun installing anti-drone nets, Russian media report. The move follows Putin's decree allowing temporary state control of critical infrastructure if owners fail to adequately protect facilities from attacks, including drones.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-30T23:52:14+00:00",
+      "timestamp": "2026-08-31T06:28:43+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -952,12 +929,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Ukrainian soldiers trying to defend against a drone, shooting one down but as soon as they move another drone lands on the soldier in front of the recorder.",
+      "text": "Russia attacked Ukraine overnight with an Kh-59 guided missile and 121 drones, with most Shaheds being jet-powered. Ukraine's Air Force says 96 drones were downed or suppressed, while the Kh-59 failed to reach its target. Strikes were recorded at 11 locations and debris fell at 8 more.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-30T23:45:33+00:00",
+      "timestamp": "2026-08-31T06:28:34+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -971,12 +948,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Russian soldier records his positions with dozens of dead Russians soldiers, drones and drone-drops have been relentlessly hitting any fortified gains of Russia yet they spare so much manpower to keep going forward.",
+      "text": "The damaged Russian cargo ship \"OMSKIY-107\" has washed ashore on the Turkish coast after the control room was completely destroyed by Ukrainian drones.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-30T23:45:18+00:00",
+      "timestamp": "2026-08-31T02:19:35+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -990,12 +967,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Ukrainian drone explodes over the Russian soldier near s checkpoint.",
+      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8 NASA launched its new Nancy Grace Roman telescope Sunday from Kennedy Space Center aboard a SpaceX Falcon Heavy rocket, tasked with studying dark energy, black holes, and exoplanets with a field of view 100 times wider than Hubble and James Webb.\nThe telescope will begin a 100 day journey to an observation point roughly 1.6 million km from Earth, and has an initial lifespan of five years, though it is expected to operate for up to a decade.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-30T23:43:51+00:00",
+      "timestamp": "2026-08-31T01:41:47+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -1009,12 +986,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "A Russian dry cargo ship struck by a kamikaze drone in the Black Sea has washed ashore near Istanbul. The stranded vessel quickly turned into a local attraction, with crowds of beachgoers gathering along the shoreline to see the damaged ship.",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7\ud83c\uddef\ud83c\uddf4 The Jordanian Army announced that they intercepted 8 Iranian missiles that violated Jordanian airspace.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-30T23:43:26+00:00",
+      "timestamp": "2026-08-31T01:41:44+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -1022,6 +999,83 @@
       "verification_confidence": 30,
       "verified_sources": [
         "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7\ud83c\uddef\ud83c\uddf4\ud83c\uddf8\ud83c\udde6 Following Iranian launches towards Jordan, all air traffic towards King Abdulaziz International Airport in Jeddah, Saudi Arabia, has halted with planes idling nearby.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-31T01:30:38+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8\ud83c\uddef\ud83c\uddf4\ud83c\uddee\ud83c\uddf7Fox: Iran did target U.S. military assets in Jordan during retaliatory strikes, but no impacts have been confirmed so far.\n\u201cNo significant impacts so far. Nearly all incoming missiles have been intercepted at this point.\u201d\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-31T01:30:24+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "CASELS",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udd0d Inside the Polisario Front - The movement defying Morocco, Israel and US plots in Western Sahara\nWestern Sahara has been at the center of a decades-long geopolitical struggle, with Israel seeking to strengthen its foothold in Africa. The Polisario Front, much like the Palestinians in the Middle East, stands in the way of those ambitions.\nPolisario Front and scars of Spanish colonialism\n\ud83d\udd34 Founded on May 10, 1973, the Polisario Front (the Popular Front for the Liberation of Sagu\u00eda el-Hamra y R\u00edo de Oro) represents the indigenous Sahrawi people and advocates for an independent Sahrawi state in Western Sahara\n\ud83d\udd34 Spain withdrew from Western Sahara in 1975\u201376, handing control to Morocco and Mauritania \u2013 a move denounced by the International Court of Justice at the time. The Polisario Front proclaimed the Sahrawi Arab Democratic Republic (SADR) on February 27, 1976, and started its fight for independence\n\ud83d\udd34 In 1991, the UN brokered a peace plan for Western Sahara by establishing a cease-fire, deploying peacekeepers, and calling for a self-determination referendum \u2013 but more than three decades later, the vote has yet to take place\n\ud83d\udd34 Presently, Morocco controls nearly 80% of Western Sahara, but the UN does not recognize its claim. Neighboring Algeria hosts the Polisario Front\u2019s headquarters in Tindouf, while the African Union recognizes SADR as a member state\nMorocco and the Zionist modus operandi\nIn 2020, Israel and the US recognized Morocco\u2019s sovereignty over Western Sahara as part of Morocco\u2019s entry into the US-brokered Abraham Accords. The Polisario Front rejected the move, calling any attempt to legitimize Morocco\u2019s occupation \u201cnull and void\u201d and denouncing \"the Zionist entity.\"\nEmboldened by US and Israeli support, Morocco launched a brutal military crackdown on Sahrawi civilian protests in 2020, which the Polisario Front viewed as a breach of the cease-fire. A new wave of clashes and drone strikes followed.\nForeign affairs experts draw parallels between the Sahrawi and Palestinian struggles, arguing that Morocco has adopted an Israeli playbook of sheer land-grab, repression of the indigenous population, and denial of self-determination.\n\ud83c\uddee\ud83c\uddf7 Iran: A rising force in Africa?\nThe US-backed Morocco-Israel rapprochement was also condemned by Algeria, which sees growing military ties between the two and steady Zionist expansion in Africa as a direct strategic threat to its national security. Iran maintains close ties with Algeria, a major Polisario Front backer, united by anti-Western and anti-Zionist views and shared positions on regional issues such as Palestine.\nSome reports allege that Iran is supplying the Polisario Front with drones and Hezbollah is training Sahrawi fighters \u2013 claims both Iran and [the Polisario Front deny.](https://t.me/geopolitics_prime/73918)\nIran has steadily expanded technological, military, and cultural ties with African countries in recent years as Western influence [on the continent wanes](https://t.me/geopolitics_prime/73126).\n\ud83e\udd14 Broader geopolitical game\nMorocco\u2019s claim over phosphate-rich Western Sahara and Rabat\u2019s Atlantic-Sahel Corridor also align with broader US efforts to expand influence across the Sahel and West Africa, control major trade routes, and undermine [Chinese and Russian projects in Africa](https://t.me/geopolitics_prime/73083).\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-31T05:56:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83e\ude96 Netanyahu tries to win votes by war-mongering: 'Peace will be the end of Israel'\nWith legislative elections looming on October 27, Prime Minister Benjamin Netanyahu is doubling down on fear \u2014 warning that his opponents will bring about the \"beginning of the end\" of the Jewish state by pursuing peace.\n\"If my opponents win, they will leave Lebanon, they will leave Gaza, they will leave Syria, and they will establish a Palestinian state here... and that will be the beginning of the end of Israel. We will go into free fall,\" he said on TV.\nBetween now and October 27, Netanyahu will use every warmongering tactic to stay in power \u2014 and, more importantly, to remain immune from justice.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-31T04:25:08+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
@@ -1037,13 +1091,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Clash Report",
         "Geopolitics Prime"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -1060,7 +1113,7 @@
       "verification_status": "PARTIALLY VERIFIED",
       "verification_confidence": 65,
       "verified_sources": [
-        "Clash Report",
+        "Alsaa Plus EN",
         "Geopolitics Prime"
       ],
       "verified_source_count": 2
@@ -1103,44 +1156,6 @@
         "Middle East Spectator"
       ],
       "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddf7\ud83c\uddfa\ud83d\udd25 Russian drone slams range record in Ukraine\n\u00a0\nA Russian Geran-4 drone launched from Crimea flew 960 kilometers into Ukraine's Volyn region in under two hours this week, according to military analysts. The record-setting distance is the same as from London to Berlin.\nUkrainian sources warn that previously considered relatively safe regions Lvov and Ivano-Frankovsk could now be within range.\n\u00a0\nThe Geran-4 is a jet-powered drone that is significantly faster than the previous propeller-driven Geran-2. If these strikes become routine, Ukraine's air defense network must now contend with a faster, longer-range threat that can reach virtually any point in the country.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-30T16:23:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddee\ud83c\uddf1\ud83d\udc8d Bragging rights of Israel\u2019s spy machine - and the nasty toolbox it exposes\nVanity and personal ambition have turned silence into a foreign concept for Israel\u2019s intelligence establishment. Retired Mossad chiefs cash in on memoirs and details of targeted assassinations become fodder for [bestsellers-botched missions](https://t.me/geopolitics_prime/73804) and blown covers notwithstanding.\n\ud83d\udc49 In bragging, Israel\u2019s spy machine - especially Mossad\u2019s human intelligence (HUMINT) operations - reveals its toolbox, reports The Cradle.\nWhile targeting those groups that resist its genocidal actions \u2013 primarily Hamas in Gaza, Lebanon\u2019s Hezbollah, or Iran's networks - Israeli spy recruitment has brutally evolved. \nKey tools include:\n\ud83d\udd34 Mapping financial distress, medical records, travel histories, and private messages before any approach begins\n\ud83d\udd34 Turning survival itself into leverage in Gaza - offering aid, protection, or permission to stay in exchange for [forming local armed proxies](https://t.me/geopolitics_prime/73840)\n\ud83d\udd34 Using services such as telemedicine \u201cMossad Farsi\u201d ads aimed at Iranians that offer [consultations via WhatsApp and Signal](https://t.me/geopolitics_prime/51961), they quietly harvest names, family ties, health data, and personal weaknesses\n\ud83d\udd34 Exploiting scholarships, conferences, medical travel, and [diaspora networks](https://t.me/geopolitics_prime/70482) to build [gradual access](https://t.me/geopolitics_prime/73139) that never starts with an explicit request to spy\nResistance movements respond [with strict counter\u2011intelligence protocols](https://t.me/geopolitics_prime/72143) as Israel\u2019s pattern of feeding its [land-grab \u2018Greater Israel\u2019 ambitions](https://t.me/geopolitics_prime/725310) spreads its tentacles across arenas.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-30T15:48:11+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
     },
     {
       "title": "Telegram",
