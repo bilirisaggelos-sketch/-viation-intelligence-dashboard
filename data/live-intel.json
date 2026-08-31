@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T07:29:59.813221+00:00",
+  "generated_at": "2026-08-31T15:22:51.359136+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -97,6 +97,44 @@
       "verified_source_count": 1
     },
     {
+      "title": "Space Weather Message Code: ALTEF3\r",
+      "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3731\r\nIssue Time: 2026 Aug 31 1147 UTC\r\n\r\nALERT: Electron 2MeV Integral Flux exceeded 1,000pfu \nThreshold Reached: 2026 Aug 31 1146 UTC\nStation: GOES-19\nComment: Yesterday's max: 1264 pfu",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-08-31 11:47:00.727",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Space Weather Message Code: WARK04\r",
+      "text": "Space Weather Message Code: WARK04\r\nSerial Number: 5411\r\nIssue Time: 2026 Aug 31 0858 UTC\r\n\r\nWARNING: Geomagnetic K-index of 4 expected \nValid From: 2026 Aug 31 0858 UTC\nValid To: 2026 Aug 31 1500 UTC\nWarning Conditions: Onset\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-08-31 08:58:42.793",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
       "title": "Space Weather Message Code: WARK04\r",
       "text": "Space Weather Message Code: WARK04\r\nSerial Number: 5410\r\nIssue Time: 2026 Aug 30 0555 UTC\r\n\r\nEXTENDED WARNING: Geomagnetic K-index of 4 expected\nExtension to Serial Number: 5409\nValid From: 2026 Aug 28 1409 UTC\nNow Valid Until: 2026 Aug 30 2359 UTC\nWarning Condition: Persistence\n\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
       "source": "NOAA Space Weather",
@@ -154,42 +192,101 @@
       "verified_source_count": 1
     },
     {
-      "title": "Space Weather Message Code: WARK05\r",
-      "text": "Space Weather Message Code: WARK05\r\nSerial Number: 2261\r\nIssue Time: 2026 Aug 28 2040 UTC\r\n\r\nWARNING: Geomagnetic K-index of 5 expected \nValid From: 2026 Aug 28 2039 UTC\nValid To: 2026 Aug 29 0600 UTC\nWarning Conditions: Onset\nNoaa Scale: G1 - Minor\nComment: \r\n\r\nNOAA Scale: G1 - Minor\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-08-28 20:40:30.257",
+      "title": "Passengers stranded as strike disrupts flights at Kenya's main airport",
+      "text": "Passengers stranded as strike disrupts flights at Kenya's main airport\nKenya Airways says the strike has caused delays of more than six hours, with some flights cancelled.",
+      "source": "BBC",
+      "source_type": "osint",
+      "publisher": "BBC World News",
+      "severity": "info",
+      "icon": "\ud83d\udcf0",
+      "timestamp": "2026-08-31T10:54:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "NOAA Space Weather Prediction Center"
+        "BBC World News"
       ],
       "verified_source_count": 1
     },
     {
-      "title": "Space Weather Message Code: ALTK04\r",
-      "text": "Space Weather Message Code: ALTK04\r\nSerial Number: 2681\r\nIssue Time: 2026 Aug 28 1502 UTC\r\n\r\nALERT: Geomagnetic K-index of 4 \nThreshold Reached: 2026 Aug 28 1500 UTC\nSynoptic Period: 1500-1800\nActive Warning: YES\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014 \ud83c\uddef\ud83c\uddf4 NEW: Queen Alia International Airport in Jordan is on fire due to an unknown reason",
+      "source": "Telegram",
+      "source_type": "telegram",
       "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-08-28 15:02:40.837",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-31T14:55:23+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "NOAA Space Weather Prediction Center"
+        "Middle East Spectator"
       ],
       "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014 \ud83c\uddee\ud83c\uddf1/\ud83c\uddf9\ud83c\uddf7/\ud83c\uddee\ud83c\uddf7 NEW: Thousands of Kurdish fighters were trained inside Israel for a ground offensive into Iran\nThe Kurdish forces were supposed to enter the country after airstrikes opened a route through the Kurdistan region, coupled with widespread anti-regime protests.\nDays after the campaign began, the White House realized that anti-regime protests never came, and ordered Israel to halt the Kurdish advance, partly also due to Turkish opposition. \u2013 Israeli Channel 13",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-31T14:50:18+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Clash Report",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014 \ud83c\uddee\ud83c\uddf7/\ud83c\udde6\ud83c\uddea NEW: An Iranian drone, likely a surveillance UAV (Mohajer-6 or other) was intercepted by the UAE",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-31T12:41:59+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7 NEW: Iran\u2019s air defenses have shot down an American MQ-9 \u2018Reaper\u2019 drone in the Persian Gulf",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-31T12:35:22+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -203,14 +300,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "Alsaa Plus EN",
         "Mediterranean Man",
         "Middle East Spectator"
       ],
-      "verified_source_count": 3
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -224,27 +320,6 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Mediterranean Man",
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 3
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf7/\ud83c\udde6\ud83c\uddea BREAKING: Missile alerts in the United Arab Emirates",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-30T22:39:17+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
       "verification_status": "PARTIALLY VERIFIED",
       "verification_confidence": 65,
       "verified_sources": [
@@ -255,214 +330,80 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\uddfa\ud83c\uddf8/\ud83c\uddef\ud83c\uddf4/\ud83c\uddee\ud83c\uddf7 NEW: A U.S. official tells Fox News that \u2018almost all\u2019 Iranian missiles have been intercepted",
+      "publisher": "Clash Report",
+      "text": "Iranian General Mohammad Reza Naqdi:\nAll football players have a ball made to the same standards, but they are not all Ronaldo.\nScoring a goal requires a person with motivation, intelligence, and ability \u2014 someone who knows how to use the tool.\nThe Americans possess a hundred times more weapons than we do, and they have better missiles and drones, but they cannot use them effectively.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-30T22:26:03+00:00",
+      "timestamp": "2026-08-31T15:15:15+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Iranian General Mohammad Reza Naqdi:\nMore than 90% of our missiles are still there.\nWe are currently producing at a rate exceeding our consumption at the front.\nOur stockpile is increasing.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-31T15:14:49+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Iranian General Mohammad Reza Naqdi:\nOur assessment of the capabilities of the U.S. armed forces was greater than what turned out to be the case. \nThey greatly exaggerated their capabilities through propaganda. That image has now collapsed. \nThe aircraft carriers and fighter jets that were promoted on such a large scale turned out not to be that important.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-31T15:12:36+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Israel\u2019s original plan for Iran relied on Kurdish forces entering the country after Israeli airstrikes opened a route through the Kurdish region.\nThousands of Kurdish fighters were reportedly trained in Israel for the operation, which was intended to trigger wider anti-regime protests.\nDays after the campaign began, however, the White House reportedly ordered Israel to halt the Kurdish advance, partly due to Turkish opposition.\nSource: Israeli Channel 13",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-31T13:55:22+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "PARTIALLY VERIFIED",
       "verification_confidence": 65,
       "verified_sources": [
-        "CASELS",
+        "Clash Report",
         "Middle East Spectator"
       ],
       "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7 NEW: Cruise missiles from southern Iran towards U.S. naval vessels in the Gulf of Oman",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-30T22:19:08+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Geopolitics Prime",
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "At least 12 missiles launched in total",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-30T22:06:52+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "UAE Ministry of Defense says its air forces intercepted a drone over the country\u2019s territorial waters coming from Iran.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-31T06:28:27+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Trump on Iran:\nThe oil is going to go down like a rocket as soon as we win that war with Iran.\nAlready, we got almost total control over the Strait of Hormuz.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-31T05:55:06+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Iran's IRGC says it shot down a U.S. MQ-9 drone over the Strait of Hormuz, with the aircraft crashing into the Persian Gulf.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-31T05:32:27+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Iran said it launched drone strikes on the UAE\u2019s Al Minhad Air Base, targeting areas hosting U.S. forces and helicopters.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-31T05:22:48+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Jordan says it intercepted and destroyed 8 missiles that entered its airspace.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-30T23:32:48+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "The Trump administration is trying to avoid a return to major combat with Iran, which could further strain U.S. stocks of missile interceptors and other weapons.\nSource: WSJ",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-30T23:12:53+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "IRGC releases footage showing tonight\u2019s missile launches targeting U.S. bases in Jordan.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-30T23:04:07+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "The IRGC says it struck technical facilities and fighter-jet positions at the King Hussein and Al-Azraq air bases in Jordan with ballistic missiles and drones, claiming heavy damage.\nIt said the attack was retaliation for the U.S. strike on Larak Island and warned of stronger responses to further attacks.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-30T22:56:53+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -638,12 +579,12 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf7\u26a1\ufe0f \u2014 ICYMI: United States and Iran exchange another round of strikes\nEarlier today, U.S. Central Command launched a strike against what was reported by U.S. officials to news outlet as \"rocket launchers carrying sea mines\" at Larak Island, Iran; these were almost certainly Fajr-5 MLRS systems carrying rockets equipped with a naval mine warhead. \nThe strike was carried out with a MQ-9A Reaper UCAV in service with the U.S. Air Force's 361st Expeditionary Attack Squadron stationed at Muwaffaq Salti AB, Jordan.\nIn response, the IRGC Aerospace Force launched a strike with at least one dozen ballistic missiles, including Kheibar Shekan ballistic missiles, and multiple Shahed-136 one-way attack UAVs towards King Hussein International Airport and Muwaffaq Salti Air Base, Jordan. At least four ballistics impacted, and the total amount is likely higher.",
+      "text": "\ud83c\uddfa\ud83c\uddf8\ud83d\udeab\ud83c\uddee\ud83c\uddf7 \u2014 President Trump to Fox News:\nThe current U.S. sanctions on the Iranian regime are beginning to have a major impact.\nU.S. air defense systems intercepted all the missiles except for one, and it turned out that it would not hit anything important.\n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-31T05:55:31+00:00",
+      "timestamp": "2026-08-31T13:04:43+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -657,90 +598,12 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf7\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddfa\ud83c\uddf8\ud83c\uddef\ud83c\uddf4 Islamic Revolutionary Guard Corps:\nIn the name of God, the Breaker of the Tyrants.\n\"So, whoever transgresses against you, retaliate against him in the same way.\"\n\ud83d\udd39O, honorable and revolutionary Iranian people,\nYour continuous and unprecedented heroic presence in the streets for 183 nights has astonished and bewildered the enemy, and it is a source of hope for the oppressed and a light for the eyes of the mujahideen of Islam.\n\ud83d\udd39Just minutes ago, fighters from the Aerospace Force of the Islamic Revolutionary Guard Corps, in response to the aerial aggression launched by the American and Zionist enemy against the \"Lark\" island, carried out an operation called \"Punishing the Aggressors\" through a joint missile and drone operation under the name \"Ya Muhammad ibn Abdullah (PBUH),\" destroying the technical and repair infrastructure, and the bases of enemy aircraft at two American airbases, \"King Hussein\" and \"Al-Azraq\" in Jordan, using ballistic missiles, causing significant damage.\n\ud83d\udd39The Islamic Revolutionary Guard Corps warned that the aggression and crime will not solve the enemy's problem of weakening the Islamic Republic's control over the Strait of Hormuz, and that every attack will be met with stronger responses.\n\"And victory comes only from God, the Almighty, the Wise.\"\n\u26aa\ufe0f",
+      "text": "\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddfa\ud83c\uddf8 Iranian air defense have shot down an MQ9 Reaper Drone over Strait of Hormuz\n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-30T23:03:29+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Mediterranean Man",
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 3
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddfa\ud83c\uddf8Iraqi sources: Initial reports indicate a direct Iranian missile strike on an American ship.\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-30T22:03:03+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddfa\ud83c\uddf8 New missile barrage launched from Iran towards US interests at the Middle East\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-30T21:57:54+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddfa\ud83c\uddf8\ud83c\uddef\ud83c\uddf4 Reportedly 7 missiles heading towards Muwaafuq Al Salti AB.\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-30T21:55:04+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddfa\ud83c\uddf8\ud83c\uddef\ud83c\uddf4 Iranian missile attack towards Muwaaffiq Salt Airbase at Jordan impacts reported \n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-30T21:53:52+00:00",
+      "timestamp": "2026-08-31T12:44:10+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -748,19 +611,19 @@
       "verification_confidence": 65,
       "verified_sources": [
         "Alsaa Plus EN",
-        "Geopolitics Prime"
+        "Middle East Spectator"
       ],
       "verified_source_count": 2
     },
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddfa\ud83c\uddf8 Ballistic Missiles from Kermanshah.\n\u26aa\ufe0f",
+      "text": "\ud83c\uddf9\ud83c\uddf7\ud83d\udeab\ud83c\uddee\ud83c\uddf1 \u2014 Turkish FM Hakan Fidan on Israeli Prime Minister Benjamin Netanyahu:\nThis criminal, Netanyahu, who takes pleasure in shedding Palestinian blood and Muslim blood, must now be stopped.\nThe path he is pursuing is causing immense harm to Israel, to Palestine, and to the entire region.\nWhen you look at his statements, it is clear that he does not want the establishment of a Palestinian state. He does not want to relinquish the ongoing occupations in countries across the region. He wants this genocidal and occupying approach to continue.\nThis is no longer a threat only to us; it is a major threat to the entire region and to the international community.\nThe international system must fight against the threat posed by Netanyahu.\n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-30T21:53:36+00:00",
+      "timestamp": "2026-08-31T12:37:57+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -774,12 +637,12 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf7 Spokesperson for the Iranian Civil Aviation Organization: \nThe weather conditions in the country are normal, and operations at Mehrabad International Airport in Tehran are continuing without interruption. Flights and air activities throughout the country are proceeding as usual.\n\u26aa\ufe0f",
+      "text": "\ud83c\uddf9\ud83c\uddf7\ud83d\udeab\ud83c\uddee\ud83c\uddf1 \u2014 Turkish FM Hakan Fidan on Israeli Prime Minister Benjamin Netanyahu:\nNetanyahu, who has become a common enemy of humanity and the international community\u2014and I underline, Netanyahu himself, a criminal and a perpetrator of genocide\u2014is not someone who should be taken seriously at this point.\nNetanyahu and the mentality he represents pose a threat not only to T\u00fcrkiye, but to global security as a whole.\nIt would be a grave mistake to view this as merely T\u00fcrkiye\u2019s problem.\nIt is now necessary to put an end to the harm that this perpetrator of genocide, Netanyahu, is inflicting on the region, on Israel, on the Jewish people, and on the entire world.\n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-30T21:35:13+00:00",
+      "timestamp": "2026-08-31T12:32:24+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -792,20 +655,39 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddfa\ud83c\uddf8 Missile launches reported from Iran \n\u26aa\ufe0f",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ud83c\uddf5\ud83c\uddf1\ud83c\uddfa\ud83c\udde6 A factory producing drones for Ukraine caught fire in Poland. Authorities have not ruled out arson\n\u2014 Onet.\nCameras recorded a man in a balaclava who entered the premises through a fence.\nA backpack and a sweatshirt were found nearby. No casualties have been reported.\nThe factory belongs to WB Electronics \u2014 Poland's largest private defense company. It produces parts and systems for drones used by the Polish and Ukrainian militaries.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-30T21:28:11+00:00",
+      "timestamp": "2026-08-31T14:07:03+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN"
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ud83c\uddfa\ud83c\uddf8 US annual interest expense is up to a record 18.5% of federal government revenue. Highest level since ww2. \nThis percentage has more than QUADRUPLED over the last 4 years as interest expenditures on public debt skyrocketed.\nUS annual interest expense now stands at a record $1.25 trillion, more than 4x the level seen in 1991.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-31T10:40:20+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
       ],
       "verified_source_count": 1
     },
@@ -840,27 +722,6 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Mediterranean Man",
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 3
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\u26a1\ud83c\udde6\ud83c\uddea\ud83c\uddf0\ud83c\uddfc Missile alerts are sounding in the United Arab Emirates, while Kuwait has also issued a precautionary alert amid renewed Iranian military activity in the Persian Gulf.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-30T22:50:17+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
       "verification_status": "PARTIALLY VERIFIED",
       "verification_confidence": 65,
       "verified_sources": [
@@ -868,44 +729,6 @@
         "Middle East Spectator"
       ],
       "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddf8\ud83c\uddfe\ud83c\uddee\ud83c\uddf7 Syria denies intercepting Iranian missiles.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-30T22:08:35+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "Iranian missiles seen passing over Lebanon heading to Jordan",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-30T21:59:58+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -1033,13 +856,50 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "CASELS",
-        "Middle East Spectator"
+        "CASELS"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddfa\ud83c\uddf8\ud83d\udd0b The man who once briefed the CIA on the Middle East now leads a Google team that decides what content survives on its platforms\nNick Rossmann spent five years analyzing the Middle East for the CIA before joining Google, where he now leads a 40-person team investigating influence operations and deciding what stays online.\nIn early 2026, Google shut down thousands of YouTube channels and blocked domains, pulling Palestinian voices and criticism of Israel and the US off the platform alongside pro\u2011Israel content as if the occupied and its occupier were the same.\n\ud83d\udc49 [Check the article on our Substack to learn how former CIA officers became Big Tech's gatekeepers](https://geopoliticsprime.substack.com/p/from-cia-to-big-tech-how-spies-infiltrate)\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-31T13:18:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udd0d Top American generals warn Iran conflict stretching US forces to their limits\nSix months into the Iran conflict, top US military commanders are sounding a dire warning: the armed forces are being driven to the breaking point\u2014and they\u2019re pushing back against Washington\u2019s war machine.\nAccording to a classified August 14 assessment obtained by The Washington Post, the heads of the Army, Navy, and Air Force\u2014alongside four-star commanders overseeing Europe, Asia, and Latin America\u2014delivered a blunt message to Secretary of War Pete Hegseth: maintaining the current operational tempo in the Middle East is becoming \"unsustainable.\"\n\ud83d\udd34 The top military brass from the European, Pacific, and Southern Commands issued a formal disagreement with orders to continue providing ships, aircraft, and personnel to the Iran campaign, citing troop exhaustion and equipment wear\n\ud83d\udd34 Admiral Daryl Caudle, the Chief of Naval Operations, painted the grimmest picture yet. He warned Hegseth that the Navy cannot keep up its current support level without a clear end date\u2014especially with fewer than one in four destroyers currently ready to deploy.\n\ud83d\udd34 The document also reveals that some Middle East\u2013deployed forces\u2014including key elements of the 82nd Airborne Division, the tip of the spear for any potential ground operation, along with Air Force and air-defense units\u2014are now locked in through September, with others potentially staying until 2027\nThe strain on personnel tells only part of the story, the war is depleting America's arsenal. The Pentagon is facing dangerously low reserves of Patriot and THAAD interceptors, along with declining inventories of Tomahawk missiles, while restocking is expected to take years. Add to that the loss of roughly a quarter of the Reaper fleet and US forces now find themselves overstretched and exhausted, with no clear end to the conflict in sight as logistical and morale pressures mount.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-31T08:47:59+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -1110,52 +970,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udd0d\u2721\ufe0f How Western complicity, AIPAC lobbying, & IAEA capture made Israel a nuclear exception\n\ud83d\udc49 Western geopolitical hypocrisy has enabled the Israeli nuclear exception to persist for decades, while efforts to bring the Zionist state under international atomic safeguards have been blocked.\n\ud83d\udccc Meanwhile, the same powers have subjected Nuclear Non-Proliferation Treaty-member Iran to crippling sanctions for unproven and denied allegations of building a nuclear weapon.\n\ud83d\udd34 Israel fields a nuclear arsenal while remaining outside the legal framework created to stop proliferation.\n\ud83d\udd34 Some estimates place its stockpile at 90 warheads, with enough fissile material for 100-200 warheads.\nIsrael fields, per open sources & SIPRI, FAS, and CSIS assessments:\n\u27a1\ufe0f Land-based ballistic missiles of the Jericho family with roughly 50 warheads\n\u27a1\ufe0f Nuclear-capable aircraft - primarily F-16I and F-15I fighters with approximately 30 warheads \n\u27a1\ufe0f Submarine-launched cruise missiles carried by German-built Dolphin-class diesel-electric submarines believed to be armed with an locally-built modified nuclear-capable cruise missile \n\ud83d\udd34 Israel neither confirms nor denies any of these systems, never signed the NPT and never accepted IAEA inspections.\n\ud83d\udd34 Its program was never local. In 1957, France agreed to provide a nuclear reactor and plutonium reprocessing plant to build Dimona station.\n\ud83d\udd34 After John F. Kennedy, who urged independent inspections of the Dimona reactor, successive US administrations institutionalized the ambiguity.\n\ud83d\udccc In 1986, [whistleblower Mordechai Vanunu](https://t.me/geopolitics_prime/51371) exposed the Tel Aviv regime\u2019s secret atomic weapons program \u2013 only to be abducted by the Mossad.\nThe Israeli exception survived due to strategic convenience:\n\u27a1\ufe0f The [US protects](https://t.me/geopolitics_prime/73873) a key ally while Arab initiatives for a weapons-of-mass-destruction-free zone in West Asia were routinely blocked \n\u27a1\ufe0f [Pro-Israel lobbying](https://t.me/geopolitics_prime/52246) by the likes of AIPAC keeps the arsenal a taboo \n\u27a1\ufe0fThe IAEA\u2019s selective enforcement turned it into a hollow tool of the West\nIntertwined with its [\"Greater Israel\" project](https://t.me/geopolitics_prime/71656), the impunity is enforced by Israel\u2019s Begin Doctrine that claims the right to strike regional nuclear facilities before they mature: \n\u2666\ufe0f In Iraq, jets destroyed the [Osirak nuclear reactor ](https://t.me/geopolitics_prime/71022)\n\u2666\ufe0f In Syria, Operation Outside the Box hit Al-Kibar facility (2007)\n\u2666\ufe0f In Iran,[ scientists were assassinated](https://t.me/geopolitics_prime/71050), [Stuxnet CIA-Mossad cyberattack](https://t.me/geopolitics_prime/53350) targeted the Natanz facility, and [repeated strikes](https://t.me/geopolitics_prime/52341) hit Iran\u2019s nuclear energy infrastructure in two wars\nMeanwhile, Iran claims its [peaceful nuclear program](https://t.me/geopolitics_prime/50584) is key to scientific progress and has engaged with the West to prove its sincerity, including inking a nuclear deal in 2015 that the US threw out.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-30T18:43:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
         "Geopolitics Prime"
       ],
       "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddee\ud83c\uddf7\ud83d\udccc Gibraltar: Iran may have hidden leverage over another key strait to choke NATO economies\nIran has demonstrated its powerful leverage over the Strait of Hormuz and the Bab el-Mandeb Strait. But could it reach more strategic waterways?\nPerhaps many have forgotten, but in December 2023, Brigadier General Mohammad Reza Naqdi, a senior Islamic Revolutionary Guard Corps (IRGC) commander, warned that the US and its allies could face the closure of the Mediterranean Sea, the Strait of Gibraltar and other strategic waterways in response to their support for Israel\u2019s war in Gaza. He did not elaborate on how.\nNaqdi\u2019s statement grabbed headlines, but many at the time questioned Iran\u2019s ability to project power as far as Gibraltar.\nThe Strait of Gibraltar\nIt is the Atlantic Ocean\u2019s only door into the Mediterranean while separating Europe from Africa. Roughly 58 km long and just 14 km wide at its narrowest point, it lies between southern Spain and Morocco, with the British territory of Gibraltar and[ the Spanish exclave of Ceuta along its shores](https://t.me/geopolitics_prime/72928).\n\ud83d\udc49 It is one of the world\u2019s most stable chokepoints with about 100,000\u2013110,000 vessels passing through each year, roughly 300 a day. It sees around 10% of global seaborne trade worth $1.1 trillion and around 3.3 million barrels/day of oil go through it.\nA potential blockade of the Strait of Gibraltar could choke the maritime gateway to the Mediterranean, disrupting commercial shipping, energy supplies and NATO naval movements while forcing some vessels onto costly routes around Africa.\nThe simultaneous closure or severe disruption of the Hormuz, Bab el-Mandeb and Gibraltar straits could put enormous pressure on Europe and the wider Western economy:\n\ud83c\udf0f Hormuz [chokes Gulf energy exports](https://t.me/geopolitics_prime/70493) \n\ud83c\udf0f Bab el-Mandeb cuts the [Red Sea-Suez route ](https://t.me/geopolitics_prime/72669)\n\ud83c\udf0f Gibraltar seals the Mediterranean from the Atlantic\n\ud83c\udf0f Those three of the world\u2019s strategic maritime gateways could become a single geopolitical weapon\nCould Iran 'close' the Strait of Gibraltar?\nIn 2023, many saw this as virtually impossible. But after Iran demonstrated its military capabilities, the scenario may seem less far-fetched today \u2013 although the IRGC is not currently threatening to close the waterway.\nHypothetical scenario: Asymmetric and proxy warfare\n\u27a1\ufe0f The Strait of Gibraltar is approximately 4,450 km from Iran\u2019s West Azerbaijan province. Iran\u2019s Ghadr, Emad, Sejjil and Khorramshahr missiles, with ranges from 1,700 km to 4,000 km, cannot reach it, nor can its long-range Arash-2 and Mohajer-10 drones. Hezbollah in Lebanon is closer, at around 3,700 km\n\u27a1\ufe0f Naqdi spoke of \u201cthe birth of new powers of resistance\u201d in other regions. This has fueled speculation about Iranian support for [the Polisario Front](https://t.me/geopolitics_prime/73126), which seeks independence for Western Sahara. Based in southwestern Algeria\u2019s Tindouf province, the Polisario Front is roughly 1,000 km from the Strait of Gibraltar\n\u27a1\ufe0f There is no need to fully blockade the strait: a single drone strike on a merchant vessel could deter commercial shipping, effectively \u201cclosing\u201d the route by making it too dangerous to use.\nApparently, Iran may have more trump cards than even Trump can imagine.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-30T17:14:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Geopolitics Prime",
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 2
     },
     {
       "title": "Telegram",
