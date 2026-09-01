@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T00:38:31.649049+00:00",
+  "generated_at": "2026-09-01T05:43:27.870343+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -184,14 +184,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "Alsaa Plus EN",
         "Geopolitics Prime",
         "Middle East Spectator"
       ],
-      "verified_source_count": 3
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -205,13 +204,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
         "Middle East Spectator"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -244,13 +242,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
         "Middle East Spectator"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -306,6 +303,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Russian drones struck the Orlivka border crossing with Romania. It is currently closed, Ukraine\u2019s Border Guard says.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-01T05:40:46+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
       ],
       "verified_source_count": 1
     },
@@ -483,6 +499,178 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf3\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8\u2014 Former U.S. Marine Matthew VanDyke remains in Tihar Jail as family seeks U.S. Diplomatic intervention.\nVanDyke, an Former US Marine & CIA Operative, was arrested by India\u2019s NIA in March 2026 and booked under Section 18 of the UAPA.\nThe NIA alleges he entered Mizoram without the required permit, crossed into Myanmar and established contact with ethnic armed groups.\nInvestigators further allege that he and others provided training involving weapons, drones and electronic jamming.\n\ud83c\uddfa\ud83c\uddf8 His family is now seeking U.S. diplomatic intervention in the case.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-01T03:49:26+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddfa\ud83c\uddf8\ud83d\udd34\ud83c\uddef\ud83c\uddf4 \u2014 US Helicopters Moved From Muwaffaq Salti Air Base After Iranian Strikes\nSeveral US military helicopters are reportedly being transferred from Muwaffaq Salti Air Base in Jordan to another, undisclosed location.\nFootage circulating online showed at least one helicopter being transported away from the area on a heavy military trailer.\nThe movement came hours after Iranian ballistic missile and drone attacks targeted US military facilities in Jordan, including Muwaffaq Salti Air Base.\nThe destination of the helicopters and the purpose of the transfer have not been officially disclosed.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-01T01:59:55+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf7\ud83d\udd34\ud83c\uddfa\ud83c\uddf8 \u2014 US Representative Claims Trump\u2019s War With Iran Is Illegal and Must End\n\u201cThe United States is not anyone\u2019s proxy army, and our troops are not bargaining chips.\u201d\n\u201cThe American people don\u2019t want war with Iran. The President never made a case for war, not to the American people, not to Congress, not to our allies overseas.\u201d\n\u201cInstead, this President has conducted an illegal operation and put American troops in harms way and killed untold numbers of civilians on the ground in Iran.\u201d\n\u201cThis war was provoked by Benjamin Netanyahu for his own political survival, and Donald Trump has willingly handed him American military power to prolong it.\u201d\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-01T01:49:10+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddfa\ud83c\uddf8 \u2014 Axios: Iran Fired Missile Toward US F-35 Over Strait of Hormuz\nIran fired an air-defense missile toward a US F-35 fighter jet that was providing cover for vessels in the Strait of Hormuz, according to a US official cited by Axios.\nThe missile reportedly did not hit the aircraft, and Axios did not report any damage or casualties from the incident.\nThe US official described the episode as one of the more serious recent encounters around the strait, as tensions between Iran and US forces continue to rise.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-01T01:45:29+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddf4\ud83c\uddf2\ud83d\udd34\ud83c\uddf8\ud83c\udde6 \u2014 Saudi Supertanker SIDR Stops in Strait of Hormuz Following Maritime Incident\nThe Saudi-flagged VLCC SIDR, capable of carrying roughly 2 million barrels of crude oil, slowed to near a complete stop while crossing the southern passage of the Strait of Hormuz.\nAIS tracking showed the tanker\u2019s speed falling to approximately 0.6 knots during the incident.\nMaritime reports later indicated that a tanker in the same area, around 17 nautical miles east of Khasab, Oman, had been struck by three unidentified projectiles, although full details of the incident remain under investigation.\nTracking data subsequently showed SIDR moving again at reduced speed before anchoring near the Omani side of the strait.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-01T01:40:41+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83d\udd34\ud83c\uddfa\ud83c\uddf8 \u2014 US Army Secretary Dan Driscoll Resigns After Months of Tension With Hegseth\nUS Army Secretary Dan Driscoll has submitted his resignation following months of internal friction with Defense Secretary Pete Hegseth, according to The Wall Street Journal.\nThe tensions reportedly centered on the direction of the Army, including Driscoll\u2019s efforts to accelerate modernization and cut procurement costs, as well as Hegseth\u2019s repeated removal of senior Army officers involved in those reforms.\nDriscoll had become a prominent figure in the administration\u2019s push to expand drone capabilities, improve military readiness and pursue a more agile Army, while also taking part in US efforts related to Russia-Ukraine negotiations.\nHis departure leaves the Army without either a Senate-confirmed civilian secretary or a confirmed chief of staff.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-01T01:33:51+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddfa\ud83c\uddf8\ud83d\udd34\ud83c\uddee\ud83c\uddf6 \u2014 US Approves Possible $800 Million Helicopter Sale to Iraq\nThe US State Department has approved a possible $800 million military sale to Iraq involving Bell 412EPX and Bell 407M helicopters and related equipment.\nThe package includes GAU-19 machine guns, rocket systems, electro-optical and infrared sensors, missile-launch detection systems, communications equipment, spare parts and training.\nThe State Department said the helicopters would improve Iraq\u2019s transport, reconnaissance and air-to-surface targeting capabilities.\nBell-Textron of Fort Worth, Texas, will serve as the principal contractor if the proposed sale proceeds.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-01T01:31:04+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf7\ud83d\udd34\ud83c\uddfa\ud83c\uddf8\u2014 Senior Iranian Source Warns of Far Larger Retaliation to Any New US Attack\nA senior Iranian source told Reuters that Tehran will answer any further US attack on Iran with a response dozens of times more forceful, warning that Iran considers targets across the region to be within its reach.\n\u201cFor every US attack on Iran, Tehran will respond dozens of times more forcefully, and no target in the region is beyond our reach.\u201d\nThe warning follows renewed US strikes on Larak Island and Iran\u2019s subsequent missile attacks against US military positions in Jordan.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-01T01:28:04+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddf7\ud83c\uddfa\u274c\ud83c\uddfa\ud83c\udde6 \u2014 Moscow Mayor Sergei Sobyanin said Russian air defenses destroyed another five drones as they approached the capital.\n\u201cFive more enemy UAVs flying toward Moscow were shot down by the Defense Ministry\u2019s air defense forces. Emergency service specialists are working at the sites where debris fell.\u201d\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-01T01:25:33+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
       "text": "\ud83c\uddf7\ud83c\uddfa\u274c\ud83c\uddfa\ud83c\udde6 Russia launched a ballistic missile barrage attack towards Ukrainian capital Kiev impacts reported at Ukrainian capital Kiev\n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
@@ -521,91 +709,51 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddf8\ud83c\udde6 \u2014 A Saudi oil tanker hit with three anti-ship missiles while it was transiting the Strait of Hormuz.\n\u26aa\ufe0f",
+      "publisher": "Mediterranean Man",
+      "text": "The widely promoted Ukrainian Lima electronic warfare (EW) system, which was allegedly capable of disrupting even Kh-47M2 Kinzhal air-launched ballistic missiles, is now under investigation after authorities found that it failed to meet its declared specifications.\nAccording to the investigation, Lima failed to demonstrate the claimed effectiveness against Geran loitering munitions. Between September 2023 and June 2024, LLC Okhrannoe Agentstvo KASKAD sold EW systems to Ukraine\u2019s Ministry of Defense and critical infrastructure facilities for more than UAH 820 million, according to a ruling by the Kyiv Court of Appeal.\nThe cost of installing equipment to protect a single facility ranged from UAH 20 million to UAH 100 million. The systems were guaranteed to provide protection against Geran loitering munitions and Kalibr cruise missiles. It was also claimed that Lima had passed tests conducted by the General Staff of the Armed Forces of Ukraine, demonstrated its effectiveness, and could be integrated with a centralized control point.\nHowever, the investigation found that the reality was very different: Lima had never undergone the claimed tests, had not been used in combat, and the supposed centralized control point did not exist.\nFurther testing confirmed that Lima was incapable of countering the eight-element Controlled Reception Pattern Antenna (CRPA) Kometa used on Geran loitering munitions, let alone the 12- and 16-channel CRPA systems now deployed on Russian drones, guided aerial bombs, cruise missiles, and ballistic missiles.\nThis leaves us with two possible conclusions: either the Kinzhal\u2019s warhead malfunctioned, or the video was AI-generated. After verification, the CCTV footage appears to be authentic, with no signs of AI generation or manipulation, reinforcing the first possibility, that the warhead simply malfunctioned.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-31T23:11:11+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Geopolitics Prime",
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 3
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8\ud83c\uddea\u26a1 \u2014 Russian Foreign Ministry: \nThe Russian Embassy and Trade Representation in Sweden have been subjected to drone attacks more than 20 times since 2024.\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-31T22:33:48+00:00",
+      "timestamp": "2026-09-01T01:23:21+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN"
+        "Mediterranean Man"
       ],
       "verified_source_count": 1
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddfa\ud83c\uddf8\u274c\ud83c\uddee\ud83c\uddf7 \u2014 A US official says Iran launched anti-aircraft missiles at a US F-35 fighter jet that was providing cover for ships in the Strait of Hormuz. He said the missile did not pose an actual threat, but it was a sign of Iran's endeavor to rebuild its military capabilities.\n\u26aa\ufe0f",
+      "publisher": "Mediterranean Man",
+      "text": "Jet drones keep flying-in hourly",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-31T21:12:29+00:00",
+      "timestamp": "2026-09-01T00:49:34+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN"
+        "Mediterranean Man"
       ],
       "verified_source_count": 1
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf7\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddfa\ud83c\uddf8 \u2014 The Islamic Revolutionary Guard Corps (IRGC) announces that it has shot down a U.S. MQ-9 drone east of the Strait of Hormuz.\n\u26aa\ufe0f",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\u26a1\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6 The missile barrage against Kiev has intensified sharply, with Russian sources saying that approximately 25 ballistic missiles were fired against targets in and around the Ukrainian capital within a period of just 20 minutes.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-31T16:32:28+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddfa\ud83c\uddf8\ud83c\uddef\ud83c\uddf4 \u2014 Satellite images show that an Iranian missile managed to penetrate U.S. air defenses at Muwaffaq Salti Air Base in Jordan, striking an aircraft hangar.\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-31T15:56:08+00:00",
+      "timestamp": "2026-09-01T00:47:39+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -613,105 +761,9 @@
       "verification_confidence": 65,
       "verified_sources": [
         "Alsaa Plus EN",
-        "Middle East Spectator"
+        "Mediterranean Man"
       ],
       "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf1\ud83e\udd1d\ud83c\uddec\ud83c\uddf7 \u2014 Israeli Prime Minister Benjamin Netanyahu via X:\nThe security agreement signed today with Greece, one of the largest in the state's history, is a direct continuation of the Eastern Mediterranean alliance we forged a decade ago with Greece and Cyprus.\nIt serves as further proof of the immense capabilities of Israel's defense and technology industries.\nThis move reflects Israel's strength, the confidence in our defense exports, and the bolstering of our regional alliances.\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-31T15:43:45+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf7\u26a1\ufe0f \u2014 Iranian General Mohammad Reza Naqdi:\nThe fundamental energy of the Islamic Revolution has not yet been released. That energy is reserved for the final stages.\nAsymmetric warfare means war on Wall Street and Manhattan \u2014 war anywhere, at any time, using capabilities that have not yet been brought into action.\nUntil now, there has been no need for that. \nWe have been able to manage the war and preserve our security using drones and missiles.\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-31T15:39:10+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf7\u26a1\ufe0f \u2014 Iranian General Mohammad Reza Naqdi:\nAll football players have a ball made to the same standards, but they are not all Ronaldo.\nScoring a goal requires a person with motivation, intelligence, and ability \u2014 someone who knows how to use the tool.\nThe Americans possess a hundred times more weapons than we do, and they have better missiles and drones, but they cannot use them effectively.\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-31T15:36:45+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf7\u26a1\ufe0f \u2014 Iranian General Mohammad Reza Naqdi:\nMore than 90% of our missiles are still there.\nWe are currently producing at a rate exceeding our consumption at the front.\nOur stockpile is increasing.\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-31T15:30:23+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8\u26a1\ufe0f \u2014 Iranian General Mohammad Reza Naqdi:\nOur assessment of the capabilities of the U.S. armed forces was greater than what turned out to be the case. \nThey greatly exaggerated their capabilities through propaganda. That image has now collapsed. \nThe aircraft carriers and fighter jets that were promoted on such a large scale turned out not to be that important.\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-31T15:24:46+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -725,12 +777,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
+        "Alsaa Plus EN",
         "Mediterranean Man"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -744,26 +797,6 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "NOTE\nWe are awaiting video evidence of the strikes because on previous occasions there has been false alerts this could again happen tonight as there is a lot of Ballistics in the air and being launched toward Kiev currently",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-31T23:36:25+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
@@ -774,12 +807,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Warehouses in Moscow's industrial zones have begun installing anti-drone nets, Russian media report. The move follows Putin's decree allowing temporary state control of critical infrastructure if owners fail to adequately protect facilities from attacks, including drones.",
+      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfaFootage of Russian missile impacts on Kyiv during this evening's missile strikes on the Ukrainian capital. \n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-31T06:28:43+00:00",
+      "timestamp": "2026-09-01T03:12:10+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -793,12 +826,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Russia attacked Ukraine overnight with an Kh-59 guided missile and 121 drones, with most Shaheds being jet-powered. Ukraine's Air Force says 96 drones were downed or suppressed, while the Kh-59 failed to reach its target. Strikes were recorded at 11 locations and debris fell at 8 more.",
+      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfaResidents of Syzran heard explosions this evening as Ukrainian drones enter Russian air space for this evening's strikes. \n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-31T06:28:34+00:00",
+      "timestamp": "2026-09-01T03:12:07+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -812,12 +845,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "The damaged Russian cargo ship \"OMSKIY-107\" has washed ashore on the Turkish coast after the control room was completely destroyed by Ukrainian drones.",
+      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfaRussian Geran drones targeted Odessa city during this evening's combined drone and missile strike on Ukraine this evenings. \nThey targeted electrical infrastructure with residents reporting power outages in the city. \n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-31T02:19:35+00:00",
+      "timestamp": "2026-09-01T03:11:42+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -831,12 +864,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8 NASA launched its new Nancy Grace Roman telescope Sunday from Kennedy Space Center aboard a SpaceX Falcon Heavy rocket, tasked with studying dark energy, black holes, and exoplanets with a field of view 100 times wider than Hubble and James Webb.\nThe telescope will begin a 100 day journey to an observation point roughly 1.6 million km from Earth, and has an initial lifespan of five years, though it is expected to operate for up to a decade.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "\u26a1\ufe0f\ud83c\udde6\ud83c\uddea\ud83c\uddee\ud83c\uddf7 [Bloomberg:](https://www.bloomberg.com/news/articles/2026-08-31/major-uae-oil-refinery-returns-to-full-capacity-after-war-hit) Abu Dhabi National Oil Co. has restored the Ruwais oil refinery, one of the world\u2019s largest oil refineries, to full capacity after it was damaged during the war with Iran.\nThe refinery, which can process more than 900,000 barrels of crude and condensate a day, was hit by an Iranian drone strike earlier this year and subsequently operated below capacity.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-31T01:41:47+00:00",
+      "timestamp": "2026-09-01T03:09:58+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -849,58 +882,20 @@
     },
     {
       "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7\ud83c\uddef\ud83c\uddf4 The Jordanian Army announced that they intercepted 8 Iranian missiles that violated Jordanian airspace.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83e\udd21 US now only focused on opening Strait of Hormuz \u2014 Vance\nSix months into the Iran war \u2014 launched over Tehran's supposed missile and nuclear threat \u2014 Vice President JD Vance has quietly shifted the stated goal of US operations.\n\"We're at a phase where a lot of what we're doing is actually ensuring the free flow of commerce in the Strait of Hormuz,\" he told Fox News.\nThe US lost its battle to defeat Iran militarily. In the process, it lost control of the Strait of Hormuz. Now Vance admits they're scrambling \u2014 but the strait remains closed, oil isn't flowing, and Iran holds the cards.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-31T01:41:44+00:00",
+      "timestamp": "2026-09-01T03:20:51+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7\ud83c\uddef\ud83c\uddf4\ud83c\uddf8\ud83c\udde6 Following Iranian launches towards Jordan, all air traffic towards King Abdulaziz International Airport in Jeddah, Saudi Arabia, has halted with planes idling nearby.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-31T01:30:38+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8\ud83c\uddef\ud83c\uddf4\ud83c\uddee\ud83c\uddf7Fox: Iran did target U.S. military assets in Jordan during retaliatory strikes, but no impacts have been confirmed so far.\n\u201cNo significant impacts so far. Nearly all incoming missiles have been intercepted at this point.\u201d\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-31T01:30:24+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
@@ -916,14 +911,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "Alsaa Plus EN",
         "Geopolitics Prime",
         "Middle East Spectator"
       ],
-      "verified_source_count": 3
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
