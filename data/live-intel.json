@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T05:43:27.870343+00:00",
+  "generated_at": "2026-09-01T10:31:28.379579+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -79,6 +79,25 @@
     },
     {
       "title": "Space Weather Message Code: ALTEF3\r",
+      "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3732\r\nIssue Time: 2026 Sep 01 0737 UTC\r\n\r\nCONTINUED ALERT: Electron 2MeV Integral Flux exceeded 1,000pfu\nContinuation of Serial Number: 3731\nBegin Time: 2026 Aug 31 1146 UTC\nYesterday Maximum 2MeV Flux: 1030 pfu\nMax time: 2026 Sep 01 0730 UTC",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-09-01 07:37:17.493",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Space Weather Message Code: ALTEF3\r",
       "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3731\r\nIssue Time: 2026 Aug 31 1147 UTC\r\n\r\nALERT: Electron 2MeV Integral Flux exceeded 1,000pfu \nThreshold Reached: 2026 Aug 31 1146 UTC\nStation: GOES-19\nComment: Yesterday's max: 1264 pfu",
       "source": "NOAA Space Weather",
       "source_type": "official",
@@ -143,25 +162,6 @@
       "severity": "warning",
       "icon": "\ud83d\udef0\ufe0f",
       "timestamp": "2026-08-29 11:42:21.657",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Space Weather Message Code: WARK04\r",
-      "text": "Space Weather Message Code: WARK04\r\nSerial Number: 5408\r\nIssue Time: 2026 Aug 28 2350 UTC\r\n\r\nEXTENDED WARNING: Geomagnetic K-index of 4 expected\nExtension to Serial Number: 5407\nValid From: 2026 Aug 28 1409 UTC\nNow Valid Until: 2026 Aug 29 1200 UTC\nWarning Condition: Persistence\n\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-08-28 23:50:18.003",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -305,6 +305,83 @@
         "Middle East Spectator"
       ],
       "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Greek Minister: Israel Alliance Guards Greece Against T\u00fcrkiye\nGreek Health Minister Adonis Georgiadis said in Greek parliament that Greece's alliance with Israel guards against the \"Turkish threat,\" defending a new \u20ac3-3.5 billion Israeli-built air defense system signed the same day in Tel Aviv.\n[READ MORE](https://clashreport.com/world/articles/greek-minister-israel-alliance-guards-greece-against-turkiye-54acy2yi8a7)",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-01T07:57:39+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Poland is boosting domestic and regional defense production as it builds Europe\u2019s largest army, aiming to reduce reliance on distant suppliers. \nDefense procurement from Polish companies has nearly quadrupled since 2022, while Warsaw is expanding production of drones, ammunition and other equipment with Central European partners.\nSource: Reuters",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-01T07:50:52+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "A drone briefly crossed into southeastern Estonia during Ukrainian strikes on western Russia, prompting air-threat alerts. \nTurkish Air Force fighter jets stationed at \u00c4mari under NATO\u2019s air-defense mission were scrambled. \nNo drones or missiles fell in Estonia, and the alert was lifted by 5:30 a.m.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-01T06:46:30+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "The U.S. State Department has approved a possible $800 million sale of Bell 412EPX and Bell 407M helicopters, weapons and related equipment to Iraq.\nThe package includes machine guns, rocket launchers, advanced electro-optical/infrared sensors, missile warning systems, radios, spare parts and training.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-01T06:40:20+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Clash Report"
+      ],
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -622,12 +699,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "Alsaa Plus EN"
+        "Alsaa Plus EN",
+        "Clash Report"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -660,13 +738,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
-        "Mediterranean Man"
+        "Alsaa Plus EN"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -680,13 +757,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
-        "Mediterranean Man"
+        "Alsaa Plus EN"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -710,90 +786,12 @@
     {
       "title": "Telegram",
       "publisher": "Mediterranean Man",
-      "text": "The widely promoted Ukrainian Lima electronic warfare (EW) system, which was allegedly capable of disrupting even Kh-47M2 Kinzhal air-launched ballistic missiles, is now under investigation after authorities found that it failed to meet its declared specifications.\nAccording to the investigation, Lima failed to demonstrate the claimed effectiveness against Geran loitering munitions. Between September 2023 and June 2024, LLC Okhrannoe Agentstvo KASKAD sold EW systems to Ukraine\u2019s Ministry of Defense and critical infrastructure facilities for more than UAH 820 million, according to a ruling by the Kyiv Court of Appeal.\nThe cost of installing equipment to protect a single facility ranged from UAH 20 million to UAH 100 million. The systems were guaranteed to provide protection against Geran loitering munitions and Kalibr cruise missiles. It was also claimed that Lima had passed tests conducted by the General Staff of the Armed Forces of Ukraine, demonstrated its effectiveness, and could be integrated with a centralized control point.\nHowever, the investigation found that the reality was very different: Lima had never undergone the claimed tests, had not been used in combat, and the supposed centralized control point did not exist.\nFurther testing confirmed that Lima was incapable of countering the eight-element Controlled Reception Pattern Antenna (CRPA) Kometa used on Geran loitering munitions, let alone the 12- and 16-channel CRPA systems now deployed on Russian drones, guided aerial bombs, cruise missiles, and ballistic missiles.\nThis leaves us with two possible conclusions: either the Kinzhal\u2019s warhead malfunctioned, or the video was AI-generated. After verification, the CCTV footage appears to be authentic, with no signs of AI generation or manipulation, reinforcing the first possibility, that the warhead simply malfunctioned.",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1\ud83c\uddf5\ud83c\uddf8 An exchange of fire is ongoing between armed groups and Israeli special forces in Gaza City.\nFighter jets are carrying out airstrikes in support.\nThe Israeli military has not yet commented on the Israeli strikes in the western part of Gaza City.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-01T01:23:21+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "Jet drones keep flying-in hourly",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-01T00:49:34+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\u26a1\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6 The missile barrage against Kiev has intensified sharply, with Russian sources saying that approximately 25 ballistic missiles were fired against targets in and around the Ukrainian capital within a period of just 20 minutes.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-01T00:47:39+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfa A Ukrainian drone attack on Moscow has begun, reports Mayor Sergei Sobyanin.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-01T00:08:39+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\u26a1\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6 Meanwhile, the Russian aerial campaign against Kiev continues, with another concentrated missile attack now striking the Ukrainian capital and its surrounding region.\nSuccessive waves of ballistic missiles have been reported against Kiev, Boryspil and the capital's eastern and western approaches, with repeated explosions and impacts reported across the city. Kalibr cruise missiles launched from the Black Sea have also reached Kiev Oblast, while Ukrainian monitoring channels are reporting additional high-speed missile activity from several directions, including possible Zircon and North Korean KN-23 launches.\nThe latest missile barrage comes as the prolonged Russian aerial campaign against Kiev continues into yet another day, following days of successive drone and missile waves against the capital and its logistical and military infrastructure.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-31T23:52:55+00:00",
+      "timestamp": "2026-09-01T09:45:11+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
