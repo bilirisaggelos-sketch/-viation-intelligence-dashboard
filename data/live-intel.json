@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T21:01:13.229114+00:00",
+  "generated_at": "2026-09-01T00:38:31.649049+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -184,12 +184,14 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
       "verified_sources": [
+        "Alsaa Plus EN",
+        "Geopolitics Prime",
         "Middle East Spectator"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 3
     },
     {
       "title": "Telegram",
@@ -481,6 +483,104 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddf7\ud83c\uddfa\u274c\ud83c\uddfa\ud83c\udde6 Russia launched a ballistic missile barrage attack towards Ukrainian capital Kiev impacts reported at Ukrainian capital Kiev\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-31T23:47:08+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "8 Kalibr cruise missiles were launched from Novorossiysk Naval Base, flying to Mykolaiv Oblast.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-31T23:12:26+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddf8\ud83c\udde6 \u2014 A Saudi oil tanker hit with three anti-ship missiles while it was transiting the Strait of Hormuz.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-31T23:11:11+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Geopolitics Prime",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 3
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8\ud83c\uddea\u26a1 \u2014 Russian Foreign Ministry: \nThe Russian Embassy and Trade Representation in Sweden have been subjected to drone attacks more than 20 times since 2024.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-31T22:33:48+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddfa\ud83c\uddf8\u274c\ud83c\uddee\ud83c\uddf7 \u2014 A US official says Iran launched anti-aircraft missiles at a US F-35 fighter jet that was providing cover for ships in the Strait of Hormuz. He said the missile did not pose an actual threat, but it was a sign of Iran's endeavor to rebuild its military capabilities.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-31T21:12:29+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
       "text": "\ud83c\uddee\ud83c\uddf7\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddfa\ud83c\uddf8 \u2014 The Islamic Revolutionary Guard Corps (IRGC) announces that it has shot down a U.S. MQ-9 drone east of the Strait of Hormuz.\n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
@@ -616,12 +716,12 @@
     {
       "title": "Telegram",
       "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddf5\ud83c\uddf1\ud83c\uddfa\ud83c\udde6 A factory producing drones for Ukraine caught fire in Poland. Authorities have not ruled out arson\n\u2014 Onet.\nCameras recorded a man in a balaclava who entered the premises through a fence.\nA backpack and a sweatshirt were found nearby. No casualties have been reported.\nThe factory belongs to WB Electronics \u2014 Poland's largest private defense company. It produces parts and systems for drones used by the Polish and Ukrainian militaries.",
+      "text": "\u26a1\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfa A Ukrainian drone attack on Moscow has begun, reports Mayor Sergei Sobyanin.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-31T14:07:03+00:00",
+      "timestamp": "2026-09-01T00:08:39+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -635,12 +735,32 @@
     {
       "title": "Telegram",
       "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddfa\ud83c\uddf8 US annual interest expense is up to a record 18.5% of federal government revenue. Highest level since ww2. \nThis percentage has more than QUADRUPLED over the last 4 years as interest expenditures on public debt skyrocketed.\nUS annual interest expense now stands at a record $1.25 trillion, more than 4x the level seen in 1991.",
+      "text": "\u26a1\u26a1\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6 Meanwhile, the Russian aerial campaign against Kiev continues, with another concentrated missile attack now striking the Ukrainian capital and its surrounding region.\nSuccessive waves of ballistic missiles have been reported against Kiev, Boryspil and the capital's eastern and western approaches, with repeated explosions and impacts reported across the city. Kalibr cruise missiles launched from the Black Sea have also reached Kiev Oblast, while Ukrainian monitoring channels are reporting additional high-speed missile activity from several directions, including possible Zircon and North Korean KN-23 launches.\nThe latest missile barrage comes as the prolonged Russian aerial campaign against Kiev continues into yet another day, following days of successive drone and missile waves against the capital and its logistical and military infrastructure.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-31T10:40:20+00:00",
+      "timestamp": "2026-08-31T23:52:55+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "NOTE\nWe are awaiting video evidence of the strikes because on previous occasions there has been false alerts this could again happen tonight as there is a lot of Ballistics in the air and being launched toward Kiev currently",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-31T23:36:25+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -787,6 +907,27 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
+      "text": "\u2694\ufe0f US admits it can't stop Iran from rebuilding\nUS officials have quietly conceded that they will have to keep striking Iran indefinitely because it always rebuilds its military capabilities and continues to target American aircraft, according to an Axios report.\n\ud83d\udd34 CENTCOM flagged concern over Iran's efforts to rebuild radar, air defense, and anti-ship missile capabilities in the Strait of Hormuz\n\ud83d\udd34 Recent incident: Iranian anti-aircraft missile launched toward a US F-35 providing cover to ships \u2014 didn't come close, but signaled Iran's reconstitution efforts\n\ud83d\udd34 CENTCOM told Hegseth, General Caine, and the White House that periodic strikes may be needed just to keep dozens of oil tankers moving relatively safely\nUS military is resigned to a cycle of indefinite strikes: hitting, rebuilding, hitting again. No endgame \u2014 just perpetual military presence to protect shipping.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-08-31T22:19:27+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Geopolitics Prime",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 3
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
       "text": "\u2757\ufe0fFor our Italian-speaking audience! \u2757\ufe0f\n\ud83d\udce3 They\u2019re telling you everything. But how much is true?\nEvery day we\u2019re flooded with news that changes by the hour\u2014but how can you know what\u2019s real?\n\u26a0\ufe0f [Tutti i Fatti](https://t.me/+sgWs6OaQKNA0ODUy) brings you only what matters: verified, factual news from around the world.\n\u2b07\ufe0f Follow the latest on the events gripping the globe:\n- Middle East War: Iran, the US, and Israel clash as missiles strike the Gulf and cities face attacks. Washington and Tel Aviv escalate, Teheran retaliates\u2014will there be a ceasefire or a regional escalation?\n- Ukraine: Zelensky faces corruption scandals and mounting pressure. Will he push for peace or resume the offensive against Russia? His choice could shift European and global balances.\n- Global Markets & Oil: Prices soar, financial chaos spreads, inflation spikes. The Strait of Hormuz crisis shakes the world economy.\n\ud83d\udd14 Stay ahead. For verified updates, join [Tutti i Fatti.](https://t.me/+sgWs6OaQKNA0ODUy)",
       "source": "Telegram",
       "source_type": "telegram",
@@ -812,44 +953,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-08-31T17:44:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddfa\ud83c\uddf8\ud83d\udd0b The man who once briefed the CIA on the Middle East now leads a Google team that decides what content survives on its platforms\nNick Rossmann spent five years analyzing the Middle East for the CIA before joining Google, where he now leads a 40-person team investigating influence operations and deciding what stays online.\nIn early 2026, Google shut down thousands of YouTube channels and blocked domains, pulling Palestinian voices and criticism of Israel and the US off the platform alongside pro\u2011Israel content as if the occupied and its occupier were the same.\n\ud83d\udc49 [Check the article on our Substack to learn how former CIA officers became Big Tech's gatekeepers](https://geopoliticsprime.substack.com/p/from-cia-to-big-tech-how-spies-infiltrate)\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-31T13:18:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udd0d Top American generals warn Iran conflict stretching US forces to their limits\nSix months into the Iran conflict, top US military commanders are sounding a dire warning: the armed forces are being driven to the breaking point\u2014and they\u2019re pushing back against Washington\u2019s war machine.\nAccording to a classified August 14 assessment obtained by The Washington Post, the heads of the Army, Navy, and Air Force\u2014alongside four-star commanders overseeing Europe, Asia, and Latin America\u2014delivered a blunt message to Secretary of War Pete Hegseth: maintaining the current operational tempo in the Middle East is becoming \"unsustainable.\"\n\ud83d\udd34 The top military brass from the European, Pacific, and Southern Commands issued a formal disagreement with orders to continue providing ships, aircraft, and personnel to the Iran campaign, citing troop exhaustion and equipment wear\n\ud83d\udd34 Admiral Daryl Caudle, the Chief of Naval Operations, painted the grimmest picture yet. He warned Hegseth that the Navy cannot keep up its current support level without a clear end date\u2014especially with fewer than one in four destroyers currently ready to deploy.\n\ud83d\udd34 The document also reveals that some Middle East\u2013deployed forces\u2014including key elements of the 82nd Airborne Division, the tip of the spear for any potential ground operation, along with Air Force and air-defense units\u2014are now locked in through September, with others potentially staying until 2027\nThe strain on personnel tells only part of the story, the war is depleting America's arsenal. The Pentagon is facing dangerously low reserves of Patriot and THAAD interceptors, along with declining inventories of Tomahawk missiles, while restocking is expected to take years. Add to that the loss of roughly a quarter of the Reaper fleet and US forces now find themselves overstretched and exhausted, with no clear end to the conflict in sight as logistical and morale pressures mount.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-31T08:47:59+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
