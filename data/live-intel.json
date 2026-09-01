@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T21:24:00.400484+00:00",
+  "generated_at": "2026-09-01T23:30:33.917385+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -211,6 +211,183 @@
       "verified_source_count": 1
     },
     {
+      "title": "US strikes Iran as state media reports four killed at wedding party",
+      "text": "US strikes Iran as state media reports four killed at wedding party\nIranian news agencies said retaliatory missile and drone attacks on US targets had begun.",
+      "source": "BBC",
+      "source_type": "osint",
+      "publisher": "BBC World News",
+      "severity": "info",
+      "icon": "\ud83d\udcf0",
+      "timestamp": "2026-09-01T21:48:28+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "BBC World News",
+        "Our Wars Today"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014 \ud83c\uddee\ud83c\uddf7/\ud83c\uddef\ud83c\uddf4/\ud83c\uddfa\ud83c\uddf8 WATCH: The IRGC Aerospace Force has released footage of the ballistic missile attack against Prince Hassan Airbase, Jordan",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-01T23:02:26+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Mediterranean Man",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 3
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7/\ud83c\uddef\ud83c\uddf4 IRGC Statement (2):\n\u2018The IRGC Aerospace Force launched an intensive ballistic missile attack on RQ-4 and MQ-9 drone shelters at the Prince Hassan Air Base in Jordan.\nThis attack resulted in the destruction of several American drones and the death of several pilots and technicians. In addition, several technical infrastructure facilities were set ablaze.\u2019",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-01T22:55:13+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Mediterranean Man",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 3
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf7/\ud83c\udde7\ud83c\udded BREAKING: Sirens in Bahrain; Iranian drones have arrived",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-01T22:48:44+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf7/\ud83c\uddf9\ud83c\uddf7 NEW: Iranian drone impacts in Iraqi Kurdistan",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-01T22:22:35+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf7/\ud83c\uddf0\ud83c\uddfc NEW: Iranian ballistic missiles towards Kuwait now",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-01T22:17:04+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf7/\ud83c\uddf0\ud83c\uddfc BREAKING: The Kuwaiti Army announces it is currently under drone attack from Iran",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-01T22:08:37+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014 \ud83c\uddee\ud83c\uddf7/\ud83c\udde7\ud83c\udded WATCH: Iran\u2019s Army has released footage of Arash-2 drones being launched at Bahrain tonight",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-01T21:43:17+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf7/\ud83c\udde7\ud83c\udded/\ud83c\uddfa\ud83c\uddf8 NEW: The Iranian Army announces it targeted Sheikh Issa Airbase in Bahrain with a large wave of suicide drones\nIt is likely that the drones have not yet arrived, or they were intercepted before reaching Bahraini territory.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-01T21:28:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
       "text": "\u2014\u2757\ufe0f\ud83c\uddfa\ud83c\uddf8/\ud83c\uddef\ud83c\uddf4/\ud83c\uddee\ud83c\uddf7 NEW: The Jordanian Army announces 10 out of 13 Iranian ballistic missiles were intercepted",
@@ -231,129 +408,33 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\uddee\ud83c\uddf7/\ud83c\uddfa\ud83c\uddf8/\ud83c\uddef\ud83c\uddf4 WATCH: The IRGC Aerospace Force has released footage of targeting American bases in Jordan with ballistic missiles moments ago",
+      "publisher": "Clash Report",
+      "text": "The IRGC said it launched a heavy ballistic missile attack on hangars housing U.S. RQ-4 and MQ-9 long-range drones at Prince Hassan Air Base in Jordan.\nAccording to the statement, several drones were destroyed, U.S. pilots and technical personnel were killed, and multiple military facilities caught fire.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-01T20:54:37+00:00",
+      "timestamp": "2026-09-01T22:54:46+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "PARTIALLY VERIFIED",
       "verification_confidence": 65,
       "verified_sources": [
-        "Alsaa Plus EN",
-        "Middle East Spectator"
+        "Clash Report",
+        "Geopolitics Prime"
       ],
       "verified_source_count": 2
     },
     {
       "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7 IRGC Statement:\n\u2018The terrorist and defeated military of the United States, unable to directly confront the warriors of Islam, brutally attacked a residential house in Sirik, where a wedding of two innocent young civilians was taking place, resulting in the martyrdom and wounding of nearly fifty of our dear people, bringing back memories of the barbarity of the Minab School attack.\nThe child-killing American regime once again revealed the depth of its hatred and enmity towards the Iranian nation by killing several people, including a young child, in this criminal attack.\nIn response to this evil act, the brave fighters of the IRGC Aerospace Force, in the second wave of punishing the aggressor with the operation code \u2018Ya Muhammad ibn Abdullah\u2019, launched a heavy ballistic missile attack on the U.S. Marines barracks in Jordan, known as Camp Titin, located on the shore of the Gulf of Aqabah, sending a large number of American forces to hell and destroying several important installations including enemy attack helicopters.\nThe retaliatory operations of the warriors of Islam still continue.\u2019",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-01T20:47:32+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddfa\ud83c\uddf8/\ud83c\uddef\ud83c\uddf4/\ud83c\uddee\ud83c\uddf7 WATCH: Another angle of the ballistic impact at King Hussein Airport in Aqabah, southern Jordan",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-01T20:06:17+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddfa\ud83c\uddf8/\ud83c\uddef\ud83c\uddf4/\ud83c\uddee\ud83c\uddf7 BREAKING: Direct impacts at King Hussein Airport in Aqabah, Jordan",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-01T20:02:48+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "More than 20 missiles so far",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-01T19:54:12+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "About 16 missiles launched so far",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-01T19:50:57+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "The IRGC releases video showing missile launches tonight toward U.S. bases in Jordan.",
+      "text": "Kuwait says its air defenses are intercepting hostile missiles and drones.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-01T20:55:49+00:00",
+      "timestamp": "2026-09-01T22:17:14+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -367,50 +448,12 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "The IRGC said it launched a heavy ballistic missile strike on Camp Titin, a U.S. Marine base near the Gulf of Aqaba in Jordan, in retaliation for a U.S. attack in Sirik, Iran, which it says killed and wounded dozens of civilians.\nAccording to the IRGC, the strike caused significant U.S. casualties and destroyed key facilities and attack helicopters.\nThe IRGC said its retaliatory operations would continue.",
+      "text": "Kuwait says its air defenses are intercepting hostile drones.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-01T20:44:44+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Russia has secretly helped Iran develop supersonic cruise missile technology through a covert programme that began in 2023.\nRussian missile specialists have reportedly advised Iran on ramjet propulsion, which could enable missiles to fly at several times the speed of sound and threaten US warships and other targets.\nIran has built and tested the propulsion system, though there is no evidence that a Russian-assisted missile has entered service.\nSource: FT",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-01T20:27:44+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "An Iranian missile reportedly struck Aqaba, Jordan.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-01T20:14:24+00:00",
+      "timestamp": "2026-09-01T22:08:31+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -433,12 +476,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
+        "BBC World News",
         "Our Wars Today"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -519,12 +563,52 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf7\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddfa\ud83c\uddf8 Islamic Revolutionary Guard Corps:\nIn the name of Allah, the Subduer of the Tyrants\nFight them; Allah will punish them by your hands and will disgrace them and give you victory over them and satisfy the breasts of a believing people.\nHeroic and risen people of Islamic Iran,\nThe defeated and terrorist \"american\" army, incapable of direct confrontation with the fighters of Islam, launched a brutal attack on a residential house in Sirik, turning the venue of a wedding ceremony for two pure youths into a bloodbath. By martyring and wounding nearly fifty of our dear people, it revived the memory of the savagery at the Minab school and the Lamerd stadium.\nIn this criminal attack, the child-killing \"american\" regime once again laid bare the depth of its malice and hostility toward the Iranian people, martyring several individuals, including a child.\nIn response to this savage wickedness, the brave fighters of the IRGC Aerospace Force, in the second wave of the \"Punish the Aggressor\" operation under the sacred code name \"O Messenger of Allah (PBUH),\" launched a heavy ballistic missile attack against the \"american\" Marines' base in Jordan, known as Camp Teltin, located on the shores of the Gulf of Aqaba. They dispatched a large number of \"american\" forces to hell and destroyed several important facilities and enemy attack helicopters.\nThe retaliatory operations of the forces of Islam continue.\n\u26aa\ufe0f",
+      "text": "\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddfa\ud83c\uddf8\ud83c\udde7\ud83c\udded Drones launched from Iran arrived at Bahrain \n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-01T20:48:45+00:00",
+      "timestamp": "2026-09-01T23:25:46+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf7\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddfa\ud83c\uddf8\ud83c\uddef\ud83c\uddf4Islamic Revolutionary Guard Corps (IRGC):\nFighters from the Air Force of the Iranian Islamic Revolutionary Guard Corps launched an intense missile attack using ballistic missiles against sites housing RQ-4 and MQ-9 reconnaissance drones at the American airbase in Jordan, known as Prince Hassan. This resulted in the destruction of a number of drones, and the deaths of several pilots and technicians.\n\ud83d\udd39\ufe0fIn addition, several technical infrastructure facilities were set on fire.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-01T22:57:20+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Mediterranean Man",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 3
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddf9\ud83c\uddf7 Iran launched drone barrage towards Iraqi Kurdistan impacts reported\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-01T22:28:16+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -539,7 +623,84 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddfa\ud83c\uddf8/\ud83c\uddef\ud83c\uddf4 Iranian missiles targeted US interests in Jordan impacts reported\n\u26aa\ufe0f",
+      "text": "\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddfa\ud83c\uddf8\ud83c\uddf0\ud83c\uddfc Iranian Launched an suicide drone and missile barrage towards US interests in Kuwait\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-01T22:12:57+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf7\ud83d\udc4d\u274c\ud83c\uddfa\ud83c\uddf8\ud83c\udde7\ud83c\udded Iranian Armed Forces: \nIn the 29th phase of the \"Thunder\" operation, and in response to the enemy's transgression into the southern regions of the country, the Iranian armed forces, just hours ago, targeted radar facilities and centers where American terrorist forces are stationed at the Sheikh Isa base in Bahrain with intense drone attacks.\nThe Sheikh Isa base in Bahrain is one of the most important and sensitive American bases in the Persian Gulf region. It is a vital center for the repair and maintenance of helicopters and drone spare parts, and it hosts reconnaissance aircraft.\nThe Army's Public Relations Department confirmed that Iranian army forces have responded fiercely and extensively to the enemy's actions, and will severely avenge the aggressors, with a vengeance that will leave a lasting impact.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-01T21:53:42+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddef\ud83c\uddf4\u274c\ud83c\uddee\ud83c\uddf7 Jordanian army claims that it has intercepted 10 Iranian ballistic missiles out of 13 which was launched from Iran\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-01T21:24:26+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf7\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddfa\ud83c\uddf8 Islamic Revolutionary Guard Corps:\nIn the name of Allah, the Subduer of the Tyrants\nFight them; Allah will punish them by your hands and will disgrace them and give you victory over them and satisfy the breasts of a believing people.\nHeroic and risen people of Islamic Iran,\nThe defeated and terrorist \"american\" army, incapable of direct confrontation with the fighters of Islam, launched a brutal attack on a residential house in Sirik, turning the venue of a wedding ceremony for two pure youths into a bloodbath. By martyring and wounding nearly fifty of our dear people, it revived the memory of the savagery at the Minab school and the Lamerd stadium.\nIn this criminal attack, the child-killing \"american\" regime once again laid bare the depth of its malice and hostility toward the Iranian people, martyring several individuals, including a child.\nIn response to this savage wickedness, the brave fighters of the IRGC Aerospace Force, in the second wave of the \"Punish the Aggressor\" operation under the sacred code name \"O Messenger of Allah (PBUH),\" launched a heavy ballistic missile attack against the \"american\" Marines' base in Jordan, known as Camp Teltin, located on the shores of the Gulf of Aqaba. They dispatched a large number of \"american\" forces to hell and destroyed several important facilities and enemy attack helicopters.\nThe retaliatory operations of the forces of Islam continue.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-01T20:48:45+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddfa\ud83c\uddf8\ud83c\uddef\ud83c\uddf4 Iranian missiles targeted US interests in Jordan impacts reported\n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
@@ -633,20 +794,79 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf3\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8\u2014 Former U.S. Marine Matthew VanDyke remains in Tihar Jail as family seeks U.S. Diplomatic intervention.\nVanDyke, an Former US Marine & CIA Operative, was arrested by India\u2019s NIA in March 2026 and booked under Section 18 of the UAPA.\nThe NIA alleges he entered Mizoram without the required permit, crossed into Myanmar and established contact with ethnic armed groups.\nInvestigators further allege that he and others provided training involving weapons, drones and electronic jamming.\n\ud83c\uddfa\ud83c\uddf8 His family is now seeking U.S. diplomatic intervention in the case.\n\u26aa\ufe0f",
+      "publisher": "Mediterranean Man",
+      "text": "Iran: 1.5 TRILLION DRONES TO JORDAN, NOW.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-01T03:49:26+00:00",
+      "timestamp": "2026-09-01T23:19:10+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN"
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ud83c\uddee\ud83c\uddf7\ud83c\uddee\ud83c\uddf6\ud83c\uddfa\ud83c\uddf8 Aerial clashes between drones and U.S. military aircraft in the airspace over the Soran district of Erbil, in northern Iraq.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-01T23:07:25+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ud83c\uddee\ud83c\uddf7 \ud83c\uddef\ud83c\uddf4 IRGC Air Force launched a heavy missile attack on the drone bases of RQ-4 and MQ-9 surveillance drones at the Prince Hassan US airbase in Jordan, resulting in the destruction of several drones and the deaths of a number of pilots and technical personnel.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-01T22:57:31+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Mediterranean Man",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 3
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ud83c\uddee\ud83c\uddf6 Sounds of drones can still be heard in various areas of Erbil.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-01T22:54:50+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
       ],
       "verified_source_count": 1
     },
@@ -665,29 +885,10 @@
       "verification_status": "PARTIALLY VERIFIED",
       "verification_confidence": 65,
       "verified_sources": [
-        "Geopolitics Prime",
+        "Alsaa Plus EN",
         "Mediterranean Man"
       ],
       "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7 There are few reasons why the US would engage in a small scale bombing campaign of Southern Iran. None of it is smart, but some are practically forced by the situational environment the Americans find themselves in.\n1) Assurances to the global market that the US *is* trying to police the Strait of Hormuz, even small gestures of bombing a few IRGC installations shows that the US did not abandon the war effort or the insurance markets to the wolves, but that they are still engaged.\n2) Political assurances to Israel that the US is still involved in the war and will get itself involved in a confrontation with Iran again if needed.\nThese are the only two that honestly make sense, they are not tactically sound and is, in fact, retarded, but governments sometimes do retarded things out of the conditions they find themselves in.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-01T16:41:45+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -768,79 +969,22 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udd25\ud83d\ude80 Iranian missiles pour down on US base in Jordan\nMore waves of Iranian missiles are underway, as the first missiles have struck Muwaffaq Salti Air Base in Jordan, Naya reported.\nFootage circulating online reportedly shows ballistic missiles over Jordan.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83d\udca5 Iran rains missiles and drones on US bases in Jordan & Bahrain\nThe IRGC said ballistic missiles struck Camp Titin in Jordan, killing \u201ca large number\u201d of US personnel and destroying facilities and attack helicopters.\nAnother strike hit RQ-4 and MQ-9 drone hangars at Prince Hassan Air Base, destroying several drones and killing pilots and technical personnel, according to the IRGC.\nIran\u2019s Army also launched a large-scale drone attack on Sheikh Isa Air Base in Bahrain, targeting radar facilities and areas used by US forces.\nThe barrage came after [the US strike on a wedding in southern Iran](https://t.me/geopolitics_prime/74001) that killed 5 people and wounded at least 68.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-01T19:50:22+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udca5 Iran shoots down 50th US MQ-9\nIran\u2019s Islamic Revolutionary Guard Corps says its new Aerospace Force air defense system has wiped out a $30-million US MQ-9 drone \u2014 the 50th of its kind, Fars News reported.\nThe shootdown came after the US military bombed several locations along Iran\u2019s southern coast, including civilian sites. The IRGC called the attacks \u201cblind\u201d and said they were carried out \u201cout of desperation.\u201d\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-01T19:40:05+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udea8\ud83c\uddee\ud83c\uddf7 Iran launches 'decisive operation' in response to US strikes\nIranian missiles and drones are hitting US bases and interests across the region in response to American aggression, Tasnim news agency reports.\nEarlier, US President Trump announced the US is conducting \"large and powerful\" strikes on Iranian targets near the Strait of Hormuz.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-01T18:47:05+00:00",
+      "timestamp": "2026-09-01T23:24:30+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "PARTIALLY VERIFIED",
       "verification_confidence": 65,
       "verified_sources": [
-        "Geopolitics Prime",
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udd25 Russia\u2019s relentless campaign against Ukraine\u2019s biggest port nears third month\n\ud83d\udccc The Russian military\u2019s latest overnight and daytime drone and missile strikes Tuesday targeted facilities at the Odessa and Chernomorsk ports.\n\u27a1\ufe0f The Odessa attack hit 16 storage facilities packed with weapons and equipment, and six fuel and lubricant tanks. \n\u27a1\ufe0f In Chernomorsk, two warehouses were targeted. \n\u27a1\ufe0f A local thermal power plant and three substations serving port infrastructure and MIC production were also hit.\nElsewhere in the country, Russia targeted a border checkpoint with Romania, an oil depot and unmanned boat assembly and storage workshop outside Kiev, and a locomotive depot, UAV component factory, and Fire Point LLC production site in the capital.\n\u00a0\nThe intense, daily campaign of drone and missile strikes, launched in July in response to Ukraine\u2019s early summer long-range attacks on Russian infrastructure, is designed to totally cripple Kiev\u2019s military-industrial base, disrupt assembly and supply chains, halt weapon programs, [destroy logistics](https://t.me/geopolitics_prime/73947) to create strategic bottlenecks, and more broadly, [paralyze the economy](https://t.me/geopolitics_prime/73907) and Ukraine\u2019s preparations for winter.\nIs this the victory Ukraine\u2019s NATO sponsors were hoping for? Or was that never the plan?\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-01T18:38:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
+        "Clash Report",
         "Geopolitics Prime"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
