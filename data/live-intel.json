@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T18:36:56.775122+00:00",
+  "generated_at": "2026-09-01T21:24:00.400484+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -199,7 +199,7 @@
       "publisher": "BBC World News",
       "severity": "info",
       "icon": "\ud83d\udcf0",
-      "timestamp": "2026-09-01T16:53:40+00:00",
+      "timestamp": "2026-09-01T21:05:22+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -213,12 +213,12 @@
     {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
-      "text": "This was claimed by Fars News but based on what I\u2019m seeing, only drones have been launched so far.",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddfa\ud83c\uddf8/\ud83c\uddef\ud83c\uddf4/\ud83c\uddee\ud83c\uddf7 NEW: The Jordanian Army announces 10 out of 13 Iranian ballistic missiles were intercepted",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-01T18:35:28+00:00",
+      "timestamp": "2026-09-01T21:20:43+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -232,133 +232,19 @@
     {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7 Ballistic missiles launched",
+      "text": "\u2014 \ud83c\uddee\ud83c\uddf7/\ud83c\uddfa\ud83c\uddf8/\ud83c\uddef\ud83c\uddf4 WATCH: The IRGC Aerospace Force has released footage of targeting American bases in Jordan with ballistic missiles moments ago",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-01T18:28:33+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7 NEW: Shahed-136 drones have been launched towards U.S. bases in the Persian Gulf",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-01T18:25:58+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "NOTE: The missile in Khomein experienced a failure in the fire system, and was launched prematurely & failed.\nA limited failure rate is normal and routine for ballistic missiles.\nIran\u2019s response has not yet begun.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-01T18:14:47+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "One missile was launched from Khomein and unfortunately failed after launch, more launches are expected.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-01T18:07:05+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7 BREAKING: Ballistic missiles launched from Iran",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-01T18:02:32+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7 President Trump on Truth Social:\n\u2018United States is, as we speak, striking Iranian Targets near the Strait of Hormuz.\nThe strikes are large and powerful, and in retaliation for the Iranians' failed attempt at adding sea mines to the Strait, which currently has no mines (They have been completely removed or detonated!), and the Iranians shooting eight missiles, all successfully knocked down, at our Military Base in Jordan. \nIf the failed Nation of Iran retaliates for this very justified attack, they will be hit again at a much harder and higher level, but it will not be the biggest attack of them all, that is waiting in the wings and, when it is over, there will be very little left of the Islamic Republic of Iran!\u2019",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-01T17:44:25+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7 BREAKING: Anti-ship missile launches from Iran towards U.S. warships in the Gulf of Oman",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-01T16:32:16+00:00",
+      "timestamp": "2026-09-01T20:54:37+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "PARTIALLY VERIFIED",
       "verification_confidence": 65,
       "verified_sources": [
-        "Geopolitics Prime",
+        "Alsaa Plus EN",
         "Middle East Spectator"
       ],
       "verified_source_count": 2
@@ -366,12 +252,89 @@
     {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7/\ud83c\udde7\ud83c\udded NEW: At least several ground-to-ground missiles were fired from Bahrain towards southern Iran",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7 IRGC Statement:\n\u2018The terrorist and defeated military of the United States, unable to directly confront the warriors of Islam, brutally attacked a residential house in Sirik, where a wedding of two innocent young civilians was taking place, resulting in the martyrdom and wounding of nearly fifty of our dear people, bringing back memories of the barbarity of the Minab School attack.\nThe child-killing American regime once again revealed the depth of its hatred and enmity towards the Iranian nation by killing several people, including a young child, in this criminal attack.\nIn response to this evil act, the brave fighters of the IRGC Aerospace Force, in the second wave of punishing the aggressor with the operation code \u2018Ya Muhammad ibn Abdullah\u2019, launched a heavy ballistic missile attack on the U.S. Marines barracks in Jordan, known as Camp Titin, located on the shore of the Gulf of Aqabah, sending a large number of American forces to hell and destroying several important installations including enemy attack helicopters.\nThe retaliatory operations of the warriors of Islam still continue.\u2019",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-01T16:21:21+00:00",
+      "timestamp": "2026-09-01T20:47:32+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddfa\ud83c\uddf8/\ud83c\uddef\ud83c\uddf4/\ud83c\uddee\ud83c\uddf7 WATCH: Another angle of the ballistic impact at King Hussein Airport in Aqabah, southern Jordan",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-01T20:06:17+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddfa\ud83c\uddf8/\ud83c\uddef\ud83c\uddf4/\ud83c\uddee\ud83c\uddf7 BREAKING: Direct impacts at King Hussein Airport in Aqabah, Jordan",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-01T20:02:48+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "More than 20 missiles so far",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-01T19:54:12+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "About 16 missiles launched so far",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-01T19:50:57+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -385,12 +348,12 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "NOW: Iranian missiles and drones have been launched toward \"enemy positions\".\nSource: Fars",
+      "text": "The IRGC releases video showing missile launches tonight toward U.S. bases in Jordan.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-01T18:24:09+00:00",
+      "timestamp": "2026-09-01T20:55:49+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -404,12 +367,12 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Iran appears to have launched missiles at regional targets in response. \nAt least one missile reportedly malfunctioned after launch in Khomein and crashed.",
+      "text": "The IRGC said it launched a heavy ballistic missile strike on Camp Titin, a U.S. Marine base near the Gulf of Aqaba in Jordan, in retaliation for a U.S. attack in Sirik, Iran, which it says killed and wounded dozens of civilians.\nAccording to the IRGC, the strike caused significant U.S. casualties and destroyed key facilities and attack helicopters.\nThe IRGC said its retaliatory operations would continue.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-01T18:19:02+00:00",
+      "timestamp": "2026-09-01T20:44:44+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -423,12 +386,12 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "NEW: Reports of U.S. strikes on Jiroft airport in Kerman province, Iran.",
+      "text": "Russia has secretly helped Iran develop supersonic cruise missile technology through a covert programme that began in 2023.\nRussian missile specialists have reportedly advised Iran on ramjet propulsion, which could enable missiles to fly at several times the speed of sound and threaten US warships and other targets.\nIran has built and tested the propulsion system, though there is no evidence that a Russian-assisted missile has entered service.\nSource: FT",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-01T18:12:27+00:00",
+      "timestamp": "2026-09-01T20:27:44+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -442,12 +405,12 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Zelensky:\nWhen the United States contacted us, asking us not to strike Moscow and St. Petersburg, we paused, and then we were attacked.\nWhen our partners contact us for negotiations, we are ready to ensure a period of calm in the Russian airspace. \nHowever, for the duration of the war, the Russian airspace is currently for Ukrainian drones, not for civilian aviation.",
+      "text": "An Iranian missile reportedly struck Aqaba, Jordan.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-01T18:01:21+00:00",
+      "timestamp": "2026-09-01T20:14:24+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -460,39 +423,58 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Ukraine's airspace has been closed to civilian aviation since Feb 24, 2022 \u2014 now 1,650 days. \nStill fully shut as of Sept 1, 2026. \nZelensky is now warning that Russian skies should be treated the same way.",
+      "publisher": "Our Wars Today",
+      "text": "\ud83c\uddee\ud83c\uddf7 \u26a0\ufe0f \ud83c\uddfa\ud83c\uddf8 \ud83c\uddee\ud83c\uddf1 \ud83c\uddef\ud83c\uddf4 #BREAKING Iran Fires Retaliatory Missiles After #Trump Warns \"Not To Retaliate\" As #UnitedStates Strikes Continue To Land Across Regions:\nIran has just launched missiles in the past two hours, seemingly at U.S. bases in Jordan, as U.S. strikes continue to hit several provinces, inflicting casualties, including now several deaths at a wedding reports Iranian state media. \nMore Coverage: T.me/ourwarstoday \n---\n24/7 LIVE News RSS feed: t.me/ournewsfeedtoday\n---\nFootage: t.me/ourwars\n---\nSupport OWT: https://ko-fi.com/ourwarstoday",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-01T17:53:25+00:00",
+      "timestamp": "2026-09-01T20:28:44+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Clash Report"
+        "Our Wars Today"
       ],
       "verified_source_count": 1
     },
     {
       "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "BREAKING: Zelensky warns every airline using Russian airspace, every insurer, everyone using key Russian airports: \nRussian skies are becoming completely unsafe.\nUkraine says it doesn't threaten civilian aviation, but \"drones in Russian skies will be such that this must be taken into account.\" \nHe warns Russian airspace \"will de facto be closed \u2014 the war Russia started is closing its skies.\" \nUkraine's foreign ministry will brief international bodies. \n\"There are no more safe moments in Russian skies. Civilian aviation has no place among drones.\"",
+      "publisher": "Our Wars Today",
+      "text": "[Germany blames Russia for attempted drone attack at Leipzig airport](https://www.pbs.org/newshour/world/germany-blames-russia-for-attempted-drone-attack-at-leipzig-airport)\nMoscow has been widely accused by Western officials of running a campaign of sabotage and disruption across Europe with the aim of undermining support for Ukraine and destabilizing European nations. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://www.pbs.org/newshour/world/germany-blames-russia-for-attempted-drone-attack-at-leipzig-airport)\npbs\u200b.org \u2022 Sep 1, 2026",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-01T17:47:21+00:00",
+      "timestamp": "2026-09-01T20:11:05+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Clash Report"
+        "Our Wars Today"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Our Wars Today",
+      "text": "[Zelenskiy says Ukrainian drones have effectively closed Russian airspace](https://www.reuters.com/business/aerospace-defense/zelenskiy-says-ukrainian-drones-have-effectively-closed-russian-airspace-2026-09-01/)\nUkraine's President Volodymyr Zelenskiy warned airlines and insurance \u200bcompanies on Tuesday that the presence \u200cof Ukrainian drones had made Russian skies dangerous to use and were effectively closed. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://www.reuters.com/business/aerospace-defense/zelenskiy-says-ukrainian-drones-have-effectively-closed-russian-airspace-2026-09-01/)\nReuters | reuters\u200b.com \u2022 Sep 1, 2026",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-01T20:11:00+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Our Wars Today"
       ],
       "verified_source_count": 1
     },
@@ -536,77 +518,97 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Our Wars Today",
-      "text": "\ud83c\uddfa\ud83c\uddf8 \ud83c\uddee\ud83c\uddf1 \u26a0\ufe0f \ud83c\uddee\ud83c\uddf7 #BREAKING U.S. Strikes #Iran's #Larak Island, Reportedly Targeting Rocket Sea-Mine Launchers:\nReuters: #UnitedStates forces have struck two Iranian launchers \u200con Iran's Larak Island, Axios has reported, citing \u200ca US \u200cofficial.\n\"Revolutionary Guard forces were observed preparing \u200cto launch rockets \u2060carrying \u200csea mines toward \u200cthe Strait \u200cof Hormuz,\" Axios \u200creporter Barak \u2060Ravid quoted the official as saying.\nAn explosion was heard near \u200cIran's Larak Island, the Fars \u200cnews \u2060agency reported, \u200cadding that the \u200ccause was unknown.\nMore Coverage: T.me/ourwarstoday \n---\n24/7 LIVE News RSS feed: t.me/ournewsfeedtoday\n---\nFootage: t.me/ourwars\n---\nSupport OWT: https://ko-fi.com/ourwarstoday",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf7\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddfa\ud83c\uddf8 Islamic Revolutionary Guard Corps:\nIn the name of Allah, the Subduer of the Tyrants\nFight them; Allah will punish them by your hands and will disgrace them and give you victory over them and satisfy the breasts of a believing people.\nHeroic and risen people of Islamic Iran,\nThe defeated and terrorist \"american\" army, incapable of direct confrontation with the fighters of Islam, launched a brutal attack on a residential house in Sirik, turning the venue of a wedding ceremony for two pure youths into a bloodbath. By martyring and wounding nearly fifty of our dear people, it revived the memory of the savagery at the Minab school and the Lamerd stadium.\nIn this criminal attack, the child-killing \"american\" regime once again laid bare the depth of its malice and hostility toward the Iranian people, martyring several individuals, including a child.\nIn response to this savage wickedness, the brave fighters of the IRGC Aerospace Force, in the second wave of the \"Punish the Aggressor\" operation under the sacred code name \"O Messenger of Allah (PBUH),\" launched a heavy ballistic missile attack against the \"american\" Marines' base in Jordan, known as Camp Teltin, located on the shores of the Gulf of Aqaba. They dispatched a large number of \"american\" forces to hell and destroyed several important facilities and enemy attack helicopters.\nThe retaliatory operations of the forces of Islam continue.\n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-30T20:03:48+00:00",
+      "timestamp": "2026-09-01T20:48:45+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddfa\ud83c\uddf8/\ud83c\uddef\ud83c\uddf4 Iranian missiles targeted US interests in Jordan impacts reported\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-01T20:06:28+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Our Wars Today"
+        "Alsaa Plus EN"
       ],
       "verified_source_count": 1
     },
     {
       "title": "Telegram",
-      "publisher": "Our Wars Today",
-      "text": "[\u26a1\ufe0f - Update: At least 37 killed after Russian drone strike triggers deadly explosion near Kyiv. At least 50 residential...](https://t.me/KyivIndependent_official/55086)\n\u26a1\ufe0fUpdate: At least 37 killed\n[https://kyivindependent.com/russian-strike-near-kyiv-causes-ammunition-detonations-killing-at-least-27/]\nafter Russian drone strike triggers deadly explosion near Kyiv.\nAt least 50 residential buildings were damaged in the attack and subsequent\ndetonations. Along with residential buildings, a care facility for elderly\npeople and people with disabilities was also damaged, according to local\nauthorities. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013\nFootage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://t.me/KyivIndependent_official/55086)\n | t\u200b.me \u2022 Aug 29, 2026",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddfa\ud83c\uddf8 Iran launched new waves of missile barrage towards US interests in the Middle East \n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-29T13:20:21+00:00",
+      "timestamp": "2026-09-01T19:30:20+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Our Wars Today"
+        "Alsaa Plus EN"
       ],
       "verified_source_count": 1
     },
     {
       "title": "Telegram",
-      "publisher": "Our Wars Today",
-      "text": "\ud83c\uddfa\ud83c\udde6 \ud83c\uddf7\ud83c\uddfa Intense evacuation of civilians under artillery fire and drone attack on the frontlines of Russia\u2019s invasion, in Druzhkivka, from the Ukrainian evacuation group \"Volunteers from God\", posted today on instagram.com/volontery_vid_boga, filmed by instagram.com/gennadii4057\nMore Coverage: T.me/ourwarstoday \n---\n24/7 LIVE News RSS feed: t.me/ournewsfeedtoday\n---\nFootage: t.me/ourwars\n---\nSupport OWT: https://ko-fi.com/ourwarstoday",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddfa\ud83c\uddf8 Iran Shot down an MQ9 Reaper Drone with newly established defense system\n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-28T15:51:20+00:00",
+      "timestamp": "2026-09-01T19:21:11+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Our Wars Today"
+        "Alsaa Plus EN"
       ],
       "verified_source_count": 1
     },
     {
       "title": "Telegram",
-      "publisher": "Our Wars Today",
-      "text": "[Russia's gasoline output drops to 70% of domestic demand late in August after drone attacks, sources say](https://www.reuters.com/business/energy/russias-gasoline-output-drops-70-domestic-demand-late-august-after-drone-attacks-2026-08-28/)\nRussia's gasoline production fell to about 70% of domestic consumption \u200blevels by the end of \u200cAugust after a series of drone attacks forced major refineries to suspend operations, \u200baccording to two industry sources. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://www.reuters.com/business/energy/russias-gasoline-output-drops-70-domestic-demand-late-august-after-drone-attacks-2026-08-28/)\nReuters | reuters\u200b.com \u2022 Aug 28, 2026",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddf9\ud83c\uddf7 Iranian missile attack towards Iraqi Kurdistan\n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-28T15:49:40+00:00",
+      "timestamp": "2026-09-01T18:49:42+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Our Wars Today"
+        "Alsaa Plus EN"
       ],
       "verified_source_count": 1
     },
@@ -650,63 +652,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddfa\ud83c\uddf8\ud83d\udd34\ud83c\uddef\ud83c\uddf4 \u2014 US Helicopters Moved From Muwaffaq Salti Air Base After Iranian Strikes\nSeveral US military helicopters are reportedly being transferred from Muwaffaq Salti Air Base in Jordan to another, undisclosed location.\nFootage circulating online showed at least one helicopter being transported away from the area on a heavy military trailer.\nThe movement came hours after Iranian ballistic missile and drone attacks targeted US military facilities in Jordan, including Muwaffaq Salti Air Base.\nThe destination of the helicopters and the purpose of the transfer have not been officially disclosed.\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-01T01:59:55+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf7\ud83d\udd34\ud83c\uddfa\ud83c\uddf8 \u2014 US Representative Claims Trump\u2019s War With Iran Is Illegal and Must End\n\u201cThe United States is not anyone\u2019s proxy army, and our troops are not bargaining chips.\u201d\n\u201cThe American people don\u2019t want war with Iran. The President never made a case for war, not to the American people, not to Congress, not to our allies overseas.\u201d\n\u201cInstead, this President has conducted an illegal operation and put American troops in harms way and killed untold numbers of civilians on the ground in Iran.\u201d\n\u201cThis war was provoked by Benjamin Netanyahu for his own political survival, and Donald Trump has willingly handed him American military power to prolong it.\u201d\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-01T01:49:10+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddfa\ud83c\uddf8 \u2014 Axios: Iran Fired Missile Toward US F-35 Over Strait of Hormuz\nIran fired an air-defense missile toward a US F-35 fighter jet that was providing cover for vessels in the Strait of Hormuz, according to a US official cited by Axios.\nThe missile reportedly did not hit the aircraft, and Axios did not report any damage or casualties from the incident.\nThe US official described the episode as one of the more serious recent encounters around the strait, as tensions between Iran and US forces continue to rise.\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-01T01:45:29+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Mediterranean Man",
       "text": "\u26a1\ud83c\uddee\ud83c\uddf7 Reports that Iran's response has begun.\nLaunching swarms of drones towards enemy targets and bases in the region.",
       "source": "Telegram",
@@ -717,12 +662,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
+        "Geopolitics Prime",
         "Mediterranean Man"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -822,12 +768,12 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83e\udd25 Trump uses US military to erode Latin American sovereignty \u2013 with Zionist assistance\n\ud83d\udc49 The US and Israel are expanding their military footprint across Latin America under several pretexts, tightening their grip on the continent.\nMilitary cooperation: Ecuador, Colombia and the US\n\u2666\ufe0f US SOUTHCOM Commander Gen. Francis L. Donovan met with the defense ministers of Colombia and Ecuador in San Lorenzo, Ecuador, on August 27. The three agreed to significantly expand military cooperation along the Ecuador-Colombia border.\n\u2666\ufe0f US military forces are already operating alongside Ecuadorian troops in Esmeraldas, though the exact nature of their cooperation remains undisclosed. But the latest deal marks a shift from occasional joint missions to sustained combined operations, according to Responsible Statecraft.\n\u2666\ufe0f Colombian President Abelardo De La Espriella declared that all illegal armed and criminal groups operating in the country would be treated as \u201cterrorists\u201d and targeted militarily in close coordination with the US.\n\ud83c\uddfb\ud83c\uddea US and Israeli troops in Venezuela\n\ud83d\udd34 Following the massive US military buildup in the Caribbean and the kidnapping of Venezuelan President Nicolas Maduro, US and [Israeli forces](https://t.me/geopolitics_prime/71542) were deployed to Venezuela (after two devastating earthquakes) on June 24 \u2013 fueling suspicions of a steady, clandestine takeover.\n\ud83d\udd34 Trump\u2019s new deal with Venezuela, which would put 17 oil fields with an estimated 65 billion barrels of reserves under US control, has prompted rumors that the sites could be secured by US troops or private contractors. Some observers point to the deal\u2019s architects \u2013 Secretary of State Marco Rubio and Secretary of War Pete Hegseth.\n\ud83c\udde6\ud83c\uddf7 Argentina: a US military base in Tierra del Fuego?\nThe US is signaling growing strategic interest in Argentina\u2019s Tierra del Fuego, an archipelago at the southern tip of South America and close to Antarctica. Two US congressional delegations visited the regional capital, Ushuaia, in January, fueling reports that President Javier Milei is seeking to establish a joint naval base with the US.\n\ud83c\udde8\ud83c\uddf1 Chile: US focus on the Magellan Strait\n\ud83d\udd34 Equally striking is the US military presence at Chile\u2019s Vicuna-Yendegaia project in the strategically vital Magallanes Region of southern Patagonia, near the [Strait of Magellan](https://t.me/geopolitics_prime/73889) \u2013 a key maritime route between the Atlantic and Pacific.\n\ud83d\udd34 After a US Army delegation visited in 2025, Texas National Guard engineers joined Chilean forces for a construction exercise in 2026, raising questions over why foreign troops were being given access to such a strategically sensitive region.\n\ud83c\uddee\ud83c\uddf1 Israel's expansion: an old modus operandi\n\ud83d\udd34 Trump-endorsed right-wing governments newly elected across Latin America have hastened to [align themselves with Israel](https://t.me/geopolitics_prime/73250) and[ its government](https://t.me/geopolitics_prime/71363).\n\ud83d\udd34 However, the US-Israeli playbook is hardly new. Israel has treated Latin America as a military and surveillance laboratory for decades, investigative journalist Silvina Pachelo wrote in the Tehran Times in November 2025. It has provided military training to Guatemala, sold Elbit drones and security systems to Chile, Colombia, and Peru, supplied weapons to Ecuador and Argentina, and deployed its [Pegasus spyware](https://t.me/geopolitics_prime/61063) across the region.\nNow, the parallel expansion of US and Israeli influence across Latin America appears to be accelerating.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83d\udd25\ud83d\ude80 Iranian missiles pour down on US base in Jordan\nMore waves of Iranian missiles are underway, as the first missiles have struck Muwaffaq Salti Air Base in Jordan, Naya reported.\nFootage circulating online reportedly shows ballistic missiles over Jordan.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-01T12:34:01+00:00",
+      "timestamp": "2026-09-01T19:50:22+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -841,12 +787,31 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83d\ude32 America\u2019s \u2018unsinkable aircraft carrier\u2019 just got wiped out by Iran\nAt its height, Naval Support Activity Bahrain (NSA Bahrain) housed ~8.5k troops, supported 30+ forward-deployed warships, and served as the primary operational hub and HQ of the US Fifth Fleet.\nWide-area maritime surveillance, regional early warning and point defense were made possible using an AR-327 long-range surveillance radar, a powerful AN/TPS-59 missile defense radar, and an AN/MPQ-65 fire-control radar. Integrated defenses included PAC-3 batteries and C-RAMs.\n\ud83d\udc49 Base C&C systems for C4I included Naval Computer & Telecommunications Station Bahrain \u2013 which tapped into EHF and AEHF satellite networks for real-time coordination and targeting. Paired with the Isa and Al Udeid air bases, NSA Bahrain packed firepower equivalent to that of whole nations.\nThen, in the space of a just a few days, from late February-early March, the facility was pounded so hard by Iran that it was left a \u201cvirtually uninhabitable\u201d hollowed-out husk. Retired US Navy Captain John Cordle characterizes the base\u2019s fate as \u201cunimaginable.\u201d\n\ud83d\udcac \u201cThe installation provides the physical infrastructure that keeps American military power continuously available in a strategically vital region. It is foundational to America\u2019s ability to project maritime power in this critical theater,\u201d Cordle lamented in a wistful MilitaryTimes op-ed.\nAccordingly, \u201cthe idea that the US could not prevent and defend against a predictable attack on a Fleet Headquarters \u2013 and our sailors stationed there \u2013 is quite startling.\u201d\nWithout access to the base, US Navy logistics and resupply have evacuated to Diego Garcia \u2013 some 2.2k+ nautical miles away. The Fifth Fleet\u2019s HQ has fled to Florida.\n\ud83d\udcac \u201cThe potential loss of NSA Bahrain is effectively the equivalent of losing an aircraft carrier,\u201d Cordle complained. \u201cIf NSA Bahrain is not reconstituted to something near its pre-attack capabilities, it will fundamentally change how the US Navy operates, supplies and maintains its ships. It will also upend how we support regional coalition partners in the Gulf region.\u201d\n\ud83d\udde3 \u201cPotential\u201d loss? \u201cReconstituted\u201d to its pre-war status? How cute. Top Iranian officials have warned that they would not let that happen. And why would they? If Iran stationed military forces in Mexico and used them to [repeatedly attack the US](https://t.me/geopolitics_prime/73466) in the middle of negotiations, would the US tolerate it?\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83d\udca5 Iran shoots down 50th US MQ-9\nIran\u2019s Islamic Revolutionary Guard Corps says its new Aerospace Force air defense system has wiped out a $30-million US MQ-9 drone \u2014 the 50th of its kind, Fars News reported.\nThe shootdown came after the US military bombed several locations along Iran\u2019s southern coast, including civilian sites. The IRGC called the attacks \u201cblind\u201d and said they were carried out \u201cout of desperation.\u201d\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-01T11:03:01+00:00",
+      "timestamp": "2026-09-01T19:40:05+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udea8\ud83c\uddee\ud83c\uddf7 Iran launches 'decisive operation' in response to US strikes\nIranian missiles and drones are hitting US bases and interests across the region in response to American aggression, Tasnim news agency reports.\nEarlier, US President Trump announced the US is conducting \"large and powerful\" strikes on Iranian targets near the Strait of Hormuz.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-01T18:47:05+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -854,38 +819,19 @@
       "verification_confidence": 65,
       "verified_sources": [
         "Geopolitics Prime",
-        "Middle East Spectator"
+        "Mediterranean Man"
       ],
       "verified_source_count": 2
     },
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83e\udd21 US now only focused on opening Strait of Hormuz \u2014 Vance\nSix months into the Iran war \u2014 launched over Tehran's supposed missile and nuclear threat \u2014 Vice President JD Vance has quietly shifted the stated goal of US operations.\n\"We're at a phase where a lot of what we're doing is actually ensuring the free flow of commerce in the Strait of Hormuz,\" he told Fox News.\nThe US lost its battle to defeat Iran militarily. In the process, it lost control of the Strait of Hormuz. Now Vance admits they're scrambling \u2014 but the strait remains closed, oil isn't flowing, and Iran holds the cards.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83d\udd25 Russia\u2019s relentless campaign against Ukraine\u2019s biggest port nears third month\n\ud83d\udccc The Russian military\u2019s latest overnight and daytime drone and missile strikes Tuesday targeted facilities at the Odessa and Chernomorsk ports.\n\u27a1\ufe0f The Odessa attack hit 16 storage facilities packed with weapons and equipment, and six fuel and lubricant tanks. \n\u27a1\ufe0f In Chernomorsk, two warehouses were targeted. \n\u27a1\ufe0f A local thermal power plant and three substations serving port infrastructure and MIC production were also hit.\nElsewhere in the country, Russia targeted a border checkpoint with Romania, an oil depot and unmanned boat assembly and storage workshop outside Kiev, and a locomotive depot, UAV component factory, and Fire Point LLC production site in the capital.\n\u00a0\nThe intense, daily campaign of drone and missile strikes, launched in July in response to Ukraine\u2019s early summer long-range attacks on Russian infrastructure, is designed to totally cripple Kiev\u2019s military-industrial base, disrupt assembly and supply chains, halt weapon programs, [destroy logistics](https://t.me/geopolitics_prime/73947) to create strategic bottlenecks, and more broadly, [paralyze the economy](https://t.me/geopolitics_prime/73907) and Ukraine\u2019s preparations for winter.\nIs this the victory Ukraine\u2019s NATO sponsors were hoping for? Or was that never the plan?\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-01T03:20:51+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\u2694\ufe0f US admits it can't stop Iran from rebuilding\nUS officials have quietly conceded that they will have to keep striking Iran indefinitely because it always rebuilds its military capabilities and continues to target American aircraft, according to an Axios report.\n\ud83d\udd34 CENTCOM flagged concern over Iran's efforts to rebuild radar, air defense, and anti-ship missile capabilities in the Strait of Hormuz\n\ud83d\udd34 Recent incident: Iranian anti-aircraft missile launched toward a US F-35 providing cover to ships \u2014 didn't come close, but signaled Iran's reconstitution efforts\n\ud83d\udd34 CENTCOM told Hegseth, General Caine, and the White House that periodic strikes may be needed just to keep dozens of oil tankers moving relatively safely\nUS military is resigned to a cycle of indefinite strikes: hitting, rebuilding, hitting again. No endgame \u2014 just perpetual military presence to protect shipping.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-31T22:19:27+00:00",
+      "timestamp": "2026-09-01T18:38:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
