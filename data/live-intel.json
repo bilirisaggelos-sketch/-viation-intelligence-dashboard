@@ -1,6 +1,25 @@
 {
-  "generated_at": "2026-09-01T10:31:28.379579+00:00",
+  "generated_at": "2026-09-01T15:12:56.389610+00:00",
   "events": [
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nGerlach, NV, Saturday, September 5, 2026 Local\nFacility: ZOA",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "09/01/2026",
+      "location": "ZOA NV",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nEast Rutherford, NJ, Friday, September 4, 2026 through Saturday, September 5, 2026 Local\nFacility: ZNY",
@@ -175,6 +194,45 @@
     {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
+      "text": "\u2014 \ud83c\uddee\ud83c\uddf7/\ud83c\uddf4\ud83c\uddf2/\ud83c\uddf8\ud83c\udde6 NEW: A second Saudi supertanker was struck by Iranian missiles in the same incident, while exiting the Strait of Hormuz\nThe tankers were carrying 2 million barrels of oil each, according to Kpler.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-01T12:12:10+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\ud83c\udde9\ud83c\uddea\u26a1\ufe0f \u2014 NEW: Several \u201chomemade rockets\u201d struck J\u00e4nschwalde coal-fired power plant in Brandenburg, near the Polish border, according to M\u00e4rkische Allgemeine Zeitung.\nThe facility was struck multiple times, but security forces secured and defused the remaining devices. \nDpa reports that explosive devices were also found at the substation in Turnow-Preilack in Brandenburg, not far from the J\u00e4nschwalde power plant.\nThe suspected aim was to cause a large-scale power outage, although the network operator said there was only a \u201cshort-term line interruption.\u201d No one was injured, and electricity supplies remained stable.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-01T12:10:47+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Mediterranean Man",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
       "text": "\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddfa\ud83c\uddf8 - A U.S. Official to AXIOS reported that in recent days that an Iranian anti-aircraft missile was launched towards a U.S. F-35 fighter jet that was providing cover to ships in the Strait of Hormuz.\nOne incident that raised concern in recent days was the launch of an Iranian anti-aircraft missile toward a U.S. F-35 fighter jet that was providing cover to ships in the strait, a U.S. official said.\nWhile the missile didn't come close enough to be a threat, it was a signal that Iran is trying to reconstitute its military capacity, according to the U.S. official.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -251,70 +309,13 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\uddef\ud83c\uddf4 NEW: Queen Alia International Airport in Jordan is on fire due to an unknown reason",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-31T14:55:23+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\uddee\ud83c\uddf1/\ud83c\uddf9\ud83c\uddf7/\ud83c\uddee\ud83c\uddf7 NEW: Thousands of Kurdish fighters were trained inside Israel for a ground offensive into Iran\nThe Kurdish forces were supposed to enter the country after airstrikes opened a route through the Kurdistan region, coupled with widespread anti-regime protests.\nDays after the campaign began, the White House realized that anti-regime protests never came, and ordered Israel to halt the Kurdish advance, partly also due to Turkish opposition. \u2013 Israeli Channel 13",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-31T14:50:18+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\uddee\ud83c\uddf7/\ud83c\udde6\ud83c\uddea NEW: An Iranian drone, likely a surveillance UAV (Mohajer-6 or other) was intercepted by the UAE",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-31T12:41:59+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Greek Minister: Israel Alliance Guards Greece Against T\u00fcrkiye\nGreek Health Minister Adonis Georgiadis said in Greek parliament that Greece's alliance with Israel guards against the \"Turkish threat,\" defending a new \u20ac3-3.5 billion Israeli-built air defense system signed the same day in Tel Aviv.\n[READ MORE](https://clashreport.com/world/articles/greek-minister-israel-alliance-guards-greece-against-turkiye-54acy2yi8a7)",
+      "text": "The U.S. is using tariff negotiations to pressure Canada into ditching Sweden's Saab GlobalEye for Boeing's E-7 Wedgetail as its new airborne early-warning aircraft. \nCanada picked GlobalEye in May 2026 \u2014 a Swedish radar on a Canadian-built Bombardier jet.\nWashington wants E-7 as part of a package.\nComplete the F-35 buy, join Golden Dome missile defense, grant mineral access, get tariff relief. \nTalks collapsed in late August. \nNew 50% U.S. tariffs hit; Canada counters Sept 8. \nCanada's defense agency says GlobalEye talks continue \"despite a lobbying campaign in favour of Boeing's E-7.\"",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-01T07:57:39+00:00",
+      "timestamp": "2026-09-01T14:53:19+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -327,78 +328,20 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Poland is boosting domestic and regional defense production as it builds Europe\u2019s largest army, aiming to reduce reliance on distant suppliers. \nDefense procurement from Polish companies has nearly quadrupled since 2022, while Warsaw is expanding production of drones, ammunition and other equipment with Central European partners.\nSource: Reuters",
+      "publisher": "Our Wars Today",
+      "text": "[Russia attacks kill at least 11 in Kyiv region](https://apnews.com/article/russia-ukraine-war-drones-missiles-kyiv-odesa-7564a892bfb99a853aa150c8710b7985)\nRussia has launched a large aerial assault in and around Ukraine's capital that has killed at least 11 people. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://apnews.com/article/russia-ukraine-war-drones-missiles-kyiv-odesa-7564a892bfb99a853aa150c8710b7985)\nSamya Kullab | apnews\u200b.com \u2022 Sep 1, 2026",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-01T07:50:52+00:00",
+      "timestamp": "2026-09-01T12:37:36+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "A drone briefly crossed into southeastern Estonia during Ukrainian strikes on western Russia, prompting air-threat alerts. \nTurkish Air Force fighter jets stationed at \u00c4mari under NATO\u2019s air-defense mission were scrambled. \nNo drones or missiles fell in Estonia, and the alert was lifted by 5:30 a.m.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-01T06:46:30+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "The U.S. State Department has approved a possible $800 million sale of Bell 412EPX and Bell 407M helicopters, weapons and related equipment to Iraq.\nThe package includes machine guns, rocket launchers, advanced electro-optical/infrared sensors, missile warning systems, radios, spare parts and training.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-01T06:40:20+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Clash Report"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Russian drones struck the Orlivka border crossing with Romania. It is currently closed, Ukraine\u2019s Border Guard says.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-01T05:40:46+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
+        "Our Wars Today"
       ],
       "verified_source_count": 1
     },
@@ -537,44 +480,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Our Wars Today",
-      "text": "[Russia is threatening Britain with strikes on military facilities due to the supply of weapons and technologies to the Armed Forces](https://www.pravda.com.ua/news/2026/08/27/8050577/)\nMaria Zakharova announced the possibility of Russian attacks on British military targets in Ukraine and abroad after the transfer of Storm Shadow missiles to Ukraine. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://www.pravda.com.ua/news/2026/08/27/8050577/)\n\u041e\u043b\u044c\u0433\u0430 \u041a\u043e\u0432\u0430\u043b\u044c\u0447\u0443\u043a,\u0421\u0442\u0430\u043d\u0456\u0441\u043b\u0430\u0432 \u041f\u043e\u0433\u043e\u0440\u0456\u043b\u043e\u0432 | pravda\u200b.com\u200b.ua \u2022 Aug 27, 2026",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-27T13:27:44+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Our Wars Today"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Our Wars Today",
-      "text": "[The Russians destroyed the \"Epicenter\" in Kharkiv](https://www.pravda.com.ua/news/2026/08/27/8050600/)\nA Russian jet drone hit the \"Epicentr\" hypermarket in Kharkiv: a man was killed, five people were injured. The fire was extinguished. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://www.pravda.com.ua/news/2026/08/27/8050600/)\n\u0410\u043b\u044c\u043e\u043d\u0430 \u041c\u0430\u0437\u0443\u0440\u0435\u043d\u043a\u043e | pravda\u200b.com\u200b.ua \u2022 Aug 27, 2026",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-27T13:27:36+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Our Wars Today"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Alsaa Plus EN",
       "text": "\ud83c\uddee\ud83c\uddf3\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8\u2014 Former U.S. Marine Matthew VanDyke remains in Tihar Jail as family seeks U.S. Diplomatic intervention.\nVanDyke, an Former US Marine & CIA Operative, was arrested by India\u2019s NIA in March 2026 and booked under Section 18 of the UAPA.\nThe NIA alleges he entered Mizoram without the required permit, crossed into Myanmar and established contact with ethnic armed groups.\nInvestigators further allege that he and others provided training involving weapons, drones and electronic jamming.\n\ud83c\uddfa\ud83c\uddf8 His family is now seeking U.S. diplomatic intervention in the case.\n\u26aa\ufe0f",
       "source": "Telegram",
@@ -699,13 +604,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
-        "Clash Report"
+        "Alsaa Plus EN"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -766,22 +670,23 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "8 Kalibr cruise missiles were launched from Novorossiysk Naval Base, flying to Mykolaiv Oblast.",
+      "publisher": "Mediterranean Man",
+      "text": "\ud83c\udde9\ud83c\uddea\u26a1\ufe0f \u2014 NEW: Several \u201chomemade rockets\u201d struck J\u00e4nschwalde coal-fired power plant in Brandenburg, near the Polish border, according to M\u00e4rkische Allgemeine Zeitung.\nThe facility was struck multiple times, but security forces secured and defused the remaining devices. \nDpa reports that explosive devices were also found at the substation in Turnow-Preilack in Brandenburg, not far from the J\u00e4nschwalde power plant.\nThe suspected aim was to cause a large-scale power outage, although the network operator said there was only a \u201cshort-term line interruption.\u201d No one was injured, and electricity supplies remained stable.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-31T23:12:26+00:00",
+      "timestamp": "2026-09-01T12:11:12+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "Alsaa Plus EN"
+        "Mediterranean Man",
+        "Middle East Spectator"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -875,6 +780,44 @@
       "verification_confidence": 30,
       "verified_sources": [
         "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83e\udd25 Trump uses US military to erode Latin American sovereignty \u2013 with Zionist assistance\n\ud83d\udc49 The US and Israel are expanding their military footprint across Latin America under several pretexts, tightening their grip on the continent.\nMilitary cooperation: Ecuador, Colombia and the US\n\u2666\ufe0f US SOUTHCOM Commander Gen. Francis L. Donovan met with the defense ministers of Colombia and Ecuador in San Lorenzo, Ecuador, on August 27. The three agreed to significantly expand military cooperation along the Ecuador-Colombia border.\n\u2666\ufe0f US military forces are already operating alongside Ecuadorian troops in Esmeraldas, though the exact nature of their cooperation remains undisclosed. But the latest deal marks a shift from occasional joint missions to sustained combined operations, according to Responsible Statecraft.\n\u2666\ufe0f Colombian President Abelardo De La Espriella declared that all illegal armed and criminal groups operating in the country would be treated as \u201cterrorists\u201d and targeted militarily in close coordination with the US.\n\ud83c\uddfb\ud83c\uddea US and Israeli troops in Venezuela\n\ud83d\udd34 Following the massive US military buildup in the Caribbean and the kidnapping of Venezuelan President Nicolas Maduro, US and [Israeli forces](https://t.me/geopolitics_prime/71542) were deployed to Venezuela (after two devastating earthquakes) on June 24 \u2013 fueling suspicions of a steady, clandestine takeover.\n\ud83d\udd34 Trump\u2019s new deal with Venezuela, which would put 17 oil fields with an estimated 65 billion barrels of reserves under US control, has prompted rumors that the sites could be secured by US troops or private contractors. Some observers point to the deal\u2019s architects \u2013 Secretary of State Marco Rubio and Secretary of War Pete Hegseth.\n\ud83c\udde6\ud83c\uddf7 Argentina: a US military base in Tierra del Fuego?\nThe US is signaling growing strategic interest in Argentina\u2019s Tierra del Fuego, an archipelago at the southern tip of South America and close to Antarctica. Two US congressional delegations visited the regional capital, Ushuaia, in January, fueling reports that President Javier Milei is seeking to establish a joint naval base with the US.\n\ud83c\udde8\ud83c\uddf1 Chile: US focus on the Magellan Strait\n\ud83d\udd34 Equally striking is the US military presence at Chile\u2019s Vicuna-Yendegaia project in the strategically vital Magallanes Region of southern Patagonia, near the [Strait of Magellan](https://t.me/geopolitics_prime/73889) \u2013 a key maritime route between the Atlantic and Pacific.\n\ud83d\udd34 After a US Army delegation visited in 2025, Texas National Guard engineers joined Chilean forces for a construction exercise in 2026, raising questions over why foreign troops were being given access to such a strategically sensitive region.\n\ud83c\uddee\ud83c\uddf1 Israel's expansion: an old modus operandi\n\ud83d\udd34 Trump-endorsed right-wing governments newly elected across Latin America have hastened to [align themselves with Israel](https://t.me/geopolitics_prime/73250) and[ its government](https://t.me/geopolitics_prime/71363).\n\ud83d\udd34 However, the US-Israeli playbook is hardly new. Israel has treated Latin America as a military and surveillance laboratory for decades, investigative journalist Silvina Pachelo wrote in the Tehran Times in November 2025. It has provided military training to Guatemala, sold Elbit drones and security systems to Chile, Colombia, and Peru, supplied weapons to Ecuador and Argentina, and deployed its [Pegasus spyware](https://t.me/geopolitics_prime/61063) across the region.\nNow, the parallel expansion of US and Israeli influence across Latin America appears to be accelerating.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-01T12:34:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\ude32 America\u2019s \u2018unsinkable aircraft carrier\u2019 just got wiped out by Iran\nAt its height, Naval Support Activity Bahrain (NSA Bahrain) housed ~8.5k troops, supported 30+ forward-deployed warships, and served as the primary operational hub and HQ of the US Fifth Fleet.\nWide-area maritime surveillance, regional early warning and point defense were made possible using an AR-327 long-range surveillance radar, a powerful AN/TPS-59 missile defense radar, and an AN/MPQ-65 fire-control radar. Integrated defenses included PAC-3 batteries and C-RAMs.\n\ud83d\udc49 Base C&C systems for C4I included Naval Computer & Telecommunications Station Bahrain \u2013 which tapped into EHF and AEHF satellite networks for real-time coordination and targeting. Paired with the Isa and Al Udeid air bases, NSA Bahrain packed firepower equivalent to that of whole nations.\nThen, in the space of a just a few days, from late February-early March, the facility was pounded so hard by Iran that it was left a \u201cvirtually uninhabitable\u201d hollowed-out husk. Retired US Navy Captain John Cordle characterizes the base\u2019s fate as \u201cunimaginable.\u201d\n\ud83d\udcac \u201cThe installation provides the physical infrastructure that keeps American military power continuously available in a strategically vital region. It is foundational to America\u2019s ability to project maritime power in this critical theater,\u201d Cordle lamented in a wistful MilitaryTimes op-ed.\nAccordingly, \u201cthe idea that the US could not prevent and defend against a predictable attack on a Fleet Headquarters \u2013 and our sailors stationed there \u2013 is quite startling.\u201d\nWithout access to the base, US Navy logistics and resupply have evacuated to Diego Garcia \u2013 some 2.2k+ nautical miles away. The Fifth Fleet\u2019s HQ has fled to Florida.\n\ud83d\udcac \u201cThe potential loss of NSA Bahrain is effectively the equivalent of losing an aircraft carrier,\u201d Cordle complained. \u201cIf NSA Bahrain is not reconstituted to something near its pre-attack capabilities, it will fundamentally change how the US Navy operates, supplies and maintains its ships. It will also upend how we support regional coalition partners in the Gulf region.\u201d\n\ud83d\udde3 \u201cPotential\u201d loss? \u201cReconstituted\u201d to its pre-war status? How cute. Top Iranian officials have warned that they would not let that happen. And why would they? If Iran stationed military forces in Mexico and used them to [repeatedly attack the US](https://t.me/geopolitics_prime/73466) in the middle of negotiations, would the US tolerate it?\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-01T11:03:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
