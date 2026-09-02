@@ -1,6 +1,25 @@
 {
-  "generated_at": "2026-09-02T18:54:32.220449+00:00",
+  "generated_at": "2026-09-02T21:41:45.948134+00:00",
   "events": [
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nMackinaw City - St. Ignace, MI, Monday, September 7, 2026 Local\nFacility: ZMP",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "09/02/2026",
+      "location": "ZMP MI",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nGerlach, NV, Saturday, September 5, 2026 Local\nFacility: ZOA",
@@ -97,6 +116,44 @@
       "verified_source_count": 1
     },
     {
+      "title": "Space Weather Message Code: ALTTP4\r",
+      "text": "Space Weather Message Code: ALTTP4\r\nSerial Number: 716\r\nIssue Time: 2026 Sep 02 1955 UTC\r\n\r\nALERT: Type IV Radio Emission \nBegin Time: 2026 Sep 02 1920 UTC\nComment:",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-09-02 19:55:34.340",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Space Weather Message Code: ALTTP2\r",
+      "text": "Space Weather Message Code: ALTTP2\r\nSerial Number: 1526\r\nIssue Time: 2026 Sep 02 1945 UTC\r\n\r\nALERT: Type II Radio Emission \nBegin Time: 2026 Sep 02 1919 UTC\nEstimate Velocity: 1,181 km/s\nComment:",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-09-02 19:45:39.563",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
       "title": "Space Weather Message Code: ALTEF3\r",
       "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3733\r\nIssue Time: 2026 Sep 02 1014 UTC\r\n\r\nCONTINUED ALERT: Electron 2MeV Integral Flux exceeded 1,000pfu\nContinuation of Serial Number: 3732\nBegin Time: 2026 Aug 31 1146 UTC\nYesterday Maximum 2MeV Flux: 1201 pfu\nMax time: 2026 Sep 02 1000 UTC",
       "source": "NOAA Space Weather",
@@ -143,44 +200,6 @@
       "severity": "warning",
       "icon": "\ud83d\udef0\ufe0f",
       "timestamp": "2026-08-31 11:47:00.727",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Space Weather Message Code: WARK04\r",
-      "text": "Space Weather Message Code: WARK04\r\nSerial Number: 5411\r\nIssue Time: 2026 Aug 31 0858 UTC\r\n\r\nWARNING: Geomagnetic K-index of 4 expected \nValid From: 2026 Aug 31 0858 UTC\nValid To: 2026 Aug 31 1500 UTC\nWarning Conditions: Onset\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-08-31 08:58:42.793",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Space Weather Message Code: WARK04\r",
-      "text": "Space Weather Message Code: WARK04\r\nSerial Number: 5410\r\nIssue Time: 2026 Aug 30 0555 UTC\r\n\r\nEXTENDED WARNING: Geomagnetic K-index of 4 expected\nExtension to Serial Number: 5409\nValid From: 2026 Aug 28 1409 UTC\nNow Valid Until: 2026 Aug 30 2359 UTC\nWarning Condition: Persistence\n\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-08-30 05:55:38.333",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -249,14 +268,14 @@
       "verified_source_count": 1
     },
     {
-      "title": "South African airline behind daring  stadium stunt cancels next flyby, regulator says",
-      "text": "South African airline behind daring stadium stunt cancels next flyby, regulator says\nThe civil aviation authority says it is also investigating last Saturday's aerial display.",
+      "title": "South African airline behind daring stadium stunt cancels next flyby",
+      "text": "South African airline behind daring stadium stunt cancels next flyby\nThe civil aviation authority says it is also investigating last Saturday's aerial display.",
       "source": "BBC",
       "source_type": "osint",
       "publisher": "BBC World News",
       "severity": "info",
       "icon": "\ud83d\udcf0",
-      "timestamp": "2026-09-02T16:58:59+00:00",
+      "timestamp": "2026-09-02T21:21:08+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -340,25 +359,6 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Zelensky:\nWe are receiving information that the first airlines have begun refusing to operate flights to Russian airports following our announcement about the drone threat, which objectively exists in Russia\u2019s skies. \nThis is the correct and entirely logical response to the existing facts, to everything caused by the war that Putin does not want to end.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-02T18:12:15+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
       ],
       "verified_source_count": 1
     },
