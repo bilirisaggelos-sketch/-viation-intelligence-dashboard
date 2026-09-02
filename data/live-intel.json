@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T23:30:33.917385+00:00",
+  "generated_at": "2026-09-02T01:26:30.006622+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -211,14 +211,14 @@
       "verified_source_count": 1
     },
     {
-      "title": "US strikes Iran as state media reports four killed at wedding party",
-      "text": "US strikes Iran as state media reports four killed at wedding party\nIranian news agencies said retaliatory missile and drone attacks on US targets had begun.",
+      "title": "Iran retaliates after US strikes kill four at wedding party, state media reports",
+      "text": "Iran retaliates after US strikes kill four at wedding party, state media reports\nIranian news agencies said retaliatory missile and drone attacks on US targets had begun.",
       "source": "BBC",
       "source_type": "osint",
       "publisher": "BBC World News",
       "severity": "info",
       "icon": "\ud83d\udcf0",
-      "timestamp": "2026-09-01T21:48:28+00:00",
+      "timestamp": "2026-09-02T00:13:26+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -233,6 +233,63 @@
     {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf1 BREAKING: Drone incursions into northern Israel",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-02T01:25:51+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7/\ud83c\uddee\ud83c\uddf6 WATCH: The moment of an Iranian Shahed-136 drone destroying a U.S. spy balloon in Erbil",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-02T00:16:42+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7/\ud83c\uddee\ud83c\uddf6 IRGC Statement (3):\n\u2018The brave fighters of the IRGC Ground Forces, through a combined ballistic missile and drone attack, destroyed U.S. military facilities in Erbil, including a maintenance center, technical equipment warehouses, a U.S. spy balloon guidance system, and fuel tanks.\u2018",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-02T00:04:04+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
       "text": "\u2014 \ud83c\uddee\ud83c\uddf7/\ud83c\uddef\ud83c\uddf4/\ud83c\uddfa\ud83c\uddf8 WATCH: The IRGC Aerospace Force has released footage of the ballistic missile attack against Prince Hassan Airbase, Jordan",
       "source": "Telegram",
       "source_type": "telegram",
@@ -242,14 +299,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
         "Alsaa Plus EN",
-        "Mediterranean Man",
         "Middle East Spectator"
       ],
-      "verified_source_count": 3
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -263,14 +319,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
         "Alsaa Plus EN",
-        "Mediterranean Man",
         "Middle East Spectator"
       ],
-      "verified_source_count": 3
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -351,58 +406,20 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\uddee\ud83c\uddf7/\ud83c\udde7\ud83c\udded WATCH: Iran\u2019s Army has released footage of Arash-2 drones being launched at Bahrain tonight",
+      "publisher": "Clash Report",
+      "text": "Egypt may be preparing to buy 24 additional Rafale fighter jets from Dassault Aviation, according to La Tribune. Cairo has reportedly sent France a formal request for proposal, though Dassault declined to comment.\nEgypt will have 54 Rafales in service by the end of 2026, following previous orders in 2015 and 2021. \nA new deal would increase its fleet to 78 aircraft.\nSource: La Tribune",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-01T21:43:17+00:00",
+      "timestamp": "2026-09-01T23:35:28+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf7/\ud83c\udde7\ud83c\udded/\ud83c\uddfa\ud83c\uddf8 NEW: The Iranian Army announces it targeted Sheikh Issa Airbase in Bahrain with a large wave of suicide drones\nIt is likely that the drones have not yet arrived, or they were intercepted before reaching Bahraini territory.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-01T21:28:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddfa\ud83c\uddf8/\ud83c\uddef\ud83c\uddf4/\ud83c\uddee\ud83c\uddf7 NEW: The Jordanian Army announces 10 out of 13 Iranian ballistic missiles were intercepted",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-01T21:20:43+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
+        "Clash Report"
       ],
       "verified_source_count": 1
     },
@@ -435,25 +452,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-09-01T22:17:14+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Kuwait says its air defenses are intercepting hostile drones.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-01T22:08:31+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -563,7 +561,46 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddfa\ud83c\uddf8\ud83c\udde7\ud83c\udded Drones launched from Iran arrived at Bahrain \n\u26aa\ufe0f",
+      "text": "\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddfa\ud83c\uddf8\ud83c\uddef\ud83c\uddf4\ud83c\uddf0\ud83c\uddfc Iran launched missile and drone barrage towards US interests at Jordan and Kuwait\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-02T00:21:07+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf7\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddfa\ud83c\uddf8\ud83c\uddf9\ud83c\uddf7Islamic Revolutionary Guard Corps (IRGC):\nBrave fighters from the IRGC's ground forces launched a combined attack using missiles and drones on American bases in Erbil, resulting in the destruction of a repair center and storage facilities for technical equipment belonging to the American terrorist army. They also destroyed the guidance system of an American surveillance balloon at the base. Furthermore, the brave ground force fighters set fuel tanks at the base on fire and killed a number of aggressors.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-01T23:49:20+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddfa\ud83c\uddf8\ud83c\udde7\ud83c\udded Drones launched from Iran arrived at Bahrain explosions were heard at Bahrain \n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
@@ -591,14 +628,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
         "Alsaa Plus EN",
-        "Mediterranean Man",
         "Middle East Spectator"
       ],
-      "verified_source_count": 3
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -651,13 +687,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
-        "Mediterranean Man"
+        "Alsaa Plus EN"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -690,12 +725,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "Alsaa Plus EN"
+        "Alsaa Plus EN",
+        "Mediterranean Man"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -795,12 +831,12 @@
     {
       "title": "Telegram",
       "publisher": "Mediterranean Man",
-      "text": "Iran: 1.5 TRILLION DRONES TO JORDAN, NOW.",
+      "text": "\u26a1\ud83c\uddee\ud83c\uddf6 Drones in the sky of erbil. Again.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-01T23:19:10+00:00",
+      "timestamp": "2026-09-02T00:35:02+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -814,12 +850,12 @@
     {
       "title": "Telegram",
       "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddee\ud83c\uddf7\ud83c\uddee\ud83c\uddf6\ud83c\uddfa\ud83c\uddf8 Aerial clashes between drones and U.S. military aircraft in the airspace over the Soran district of Erbil, in northern Iraq.",
+      "text": "\u26a1\ud83c\uddee\ud83c\uddf6\ud83c\uddfa\ud83c\uddf8 Casualties reported among U.S. forces in Erbil following Iranian drone attacks.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-01T23:07:25+00:00",
+      "timestamp": "2026-09-02T00:18:34+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -833,33 +869,12 @@
     {
       "title": "Telegram",
       "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddee\ud83c\uddf7 \ud83c\uddef\ud83c\uddf4 IRGC Air Force launched a heavy missile attack on the drone bases of RQ-4 and MQ-9 surveillance drones at the Prince Hassan US airbase in Jordan, resulting in the destruction of several drones and the deaths of a number of pilots and technical personnel.",
+      "text": "\u26a1\ud83c\uddee\ud83c\uddf6 Air defenses intercepted two drones in the sky over Erbil... From the (i lost count) of drones that were launched.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-01T22:57:31+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Mediterranean Man",
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 3
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddee\ud83c\uddf6 Sounds of drones can still be heard in various areas of Erbil.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-01T22:54:50+00:00",
+      "timestamp": "2026-09-01T23:58:54+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -873,12 +888,31 @@
     {
       "title": "Telegram",
       "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddee\ud83c\uddf7 Reports that Iran's response has begun.\nLaunching swarms of drones towards enemy targets and bases in the region.",
+      "text": "\u26a1\ud83c\uddee\ud83c\uddf6\ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8 explosion near the U.S. consulate and Erbil airport, Iraq.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-01T18:25:03+00:00",
+      "timestamp": "2026-09-01T23:50:16+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ud83c\uddee\ud83c\uddf7\ud83c\uddee\ud83c\uddf6The Revolutionary Guard Corps claims responsibility for targeting sites in Erbil with drones.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-01T23:47:48+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -889,6 +923,44 @@
         "Mediterranean Man"
       ],
       "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ud83c\uddee\ud83c\uddf7\ud83c\udde7\ud83c\uddedBahrain claims Air defense systems intercepted and destroyed Iranian drones.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-01T23:41:12+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ud83c\uddee\ud83c\uddf7\ud83c\uddee\ud83c\uddf6 Drones targeting the headquarters of Iranian opposition groups in Erbil.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-01T23:39:46+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
