@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T15:20:16.125830+00:00",
+  "generated_at": "2026-09-02T18:54:32.220449+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -192,6 +192,25 @@
       "verified_source_count": 1
     },
     {
+      "title": "Iran says US strike killed four at wedding in 'war crime' as US denies targeting civilians",
+      "text": "Iran says US strike killed four at wedding in 'war crime' as US denies targeting civilians\nIranian media reports two children were among those killed when shrapnel hit a home. Iran then launched missiles and drones at US targets in the Middle East.",
+      "source": "BBC",
+      "source_type": "osint",
+      "publisher": "BBC World News",
+      "severity": "info",
+      "icon": "\ud83d\udcf0",
+      "timestamp": "2026-09-02T15:33:19+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "BBC World News"
+      ],
+      "verified_source_count": 1
+    },
+    {
       "title": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany",
       "text": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany\nRussia is accused of growing increasingly reckless after Berlin blamed Russia for a failed drone attack on Leipzig airport.",
       "source": "BBC",
@@ -199,7 +218,7 @@
       "publisher": "BBC World News",
       "severity": "info",
       "icon": "\ud83d\udcf0",
-      "timestamp": "2026-09-02T14:34:22+00:00",
+      "timestamp": "2026-09-02T16:49:00+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -218,7 +237,7 @@
       "publisher": "BBC World News",
       "severity": "info",
       "icon": "\ud83d\udcf0",
-      "timestamp": "2026-09-02T13:16:26+00:00",
+      "timestamp": "2026-09-02T16:12:43+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -226,6 +245,44 @@
       "verification_confidence": 30,
       "verified_sources": [
         "BBC World News"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "South African airline behind daring  stadium stunt cancels next flyby, regulator says",
+      "text": "South African airline behind daring stadium stunt cancels next flyby, regulator says\nThe civil aviation authority says it is also investigating last Saturday's aerial display.",
+      "source": "BBC",
+      "source_type": "osint",
+      "publisher": "BBC World News",
+      "severity": "info",
+      "icon": "\ud83d\udcf0",
+      "timestamp": "2026-09-02T16:58:59+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "BBC World News"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "Enemy drone intrusions in North-Western Iran. Currently being monitored by the air defense systems.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-02T16:47:47+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
       ],
       "verified_source_count": 1
     },
@@ -288,166 +345,13 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7 NEW: The missile that struck a wedding in Kuhestak in southern Iran, killing 5 civilians (including a child) and injuring 50 more, was an American \u2018SLAM-ER\u2019\nThe manufacturer of the cruise missile, Boeing, claims it is the most accurate weapon in the entire U.S. Navy inventory. Yet somehow, it \u2018accidentally\u2019 hit a civilian target.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-02T03:21:40+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\ud83c\uddee\ud83c\uddf1\u26a1\ufe0f \u2014 All clear for the UAV/rocket alert areas in northern Israel.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-02T01:52:12+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\ud83c\uddf1\ud83c\udde7\u274c\ud83c\uddee\ud83c\uddf1 \u2014 UAV moving southeast through northern Israel, near the Israeli-Lebanese border.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-02T01:26:38+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf1/\ud83c\uddee\ud83c\uddf7 BREAKING: Drone incursions into northern Israel",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-02T01:25:51+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Russia Has Been Secretly Helping Iran Develop Supersonic Cruise Missiles\nLeaks exposed C430L, a covert Russian effort to help Iran master ramjet propulsion and develop supersonic cruise missiles capable of threatening ships and land targets.\n[READ MORE](https://clashreport.com/world/articles/russia-has-been-secretly-helping-iran-develop-supersonic-cruise-missiles-2zcihyb3at/)",
+      "text": "Zelensky:\nWe are receiving information that the first airlines have begun refusing to operate flights to Russian airports following our announcement about the drone threat, which objectively exists in Russia\u2019s skies. \nThis is the correct and entirely logical response to the existing facts, to everything caused by the war that Putin does not want to end.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-02T15:07:39+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "A Russian Mi-8 helicopter made a hard emergency landing on a highway in Sakhalin, then rolled into a ditch. \nAll eight people aboard survived.\nRussian aviation channel Fighterbomber claims both engines stopped because the helicopter completely ran out of fuel, just 5 km from the airfield:\n\u201cDidn\u2019t make it 5 km to the airfield. A bucket of kerosene was missing.\u201d",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-02T14:56:28+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "BBC correspondent Nafiseh Kohnavard says Jordan and the UAE imposed severe reporting restrictions after Iran claimed missile/drone strikes on U.S. bases, making independent verification of damage difficult.\n\u201cSevere censorship\u201d was imposed.\nShe said filming alleged impact sites could be treated as \u201ca crime,\u201d even for journalists, and that the BBC team\u2019s authorized equipment was sealed in Jordan while reporters were warned not to film with their phones.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-02T14:51:28+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "More Than 20 Homemade Rockets Found in Germany Power Grid Sabotage Probe\nPolice found more than 20 homemade rockets and timed launch devices near a key Brandenburg substation, as Germany investigates a second power infrastructure attack.\n[READ MORE](https://clashreport.com/world/articles/more-than-20-homemade-rockets-found-in-germany-power-grid-sabotage-probe-28g0cokidxb)",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-02T14:26:00+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "India, Russia Explore S-500 and Su-57 As Defense Ties Deepen\nIndia and Russia are exploring a broader defense relationship centered on the S-500 missile defense system and the Su-57 stealth fighter.\n[READ MORE](https://clashreport.com/defense/articles/india-russia-explore-s-500-and-su-57-as-defense-ties-deepen-3cenahdyc18)",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-02T13:01:02+00:00",
+      "timestamp": "2026-09-02T18:12:15+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -517,25 +421,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Our Wars Today",
-      "text": "[Russia attacks kill at least 11 in Kyiv region](https://apnews.com/article/russia-ukraine-war-drones-missiles-kyiv-odesa-7564a892bfb99a853aa150c8710b7985)\nRussia has launched a large aerial assault in and around Ukraine's capital that has killed at least 11 people. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://apnews.com/article/russia-ukraine-war-drones-missiles-kyiv-odesa-7564a892bfb99a853aa150c8710b7985)\nSamya Kullab | apnews\u200b.com \u2022 Sep 1, 2026",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-01T12:37:36+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Our Wars Today"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Alsaa Plus EN",
       "text": "\ud83c\uddee\ud83c\uddf1\ud83c\udde9\ud83c\uddea \u2014 Germany successfully tests Israeli-made LORA ballistic missile from a German Navy frigate in the North Atlantic.\nThe German Navy says the test was successful and will now advance plans to procure the LORA system, which has a range of more than 500 km.\nNavy chief Vice Adm. Jan Christian Kaack called the test a new chapter in Germany\u2019s maritime deterrence and defense readiness.\n\u26aa\ufe0f",
       "source": "Telegram",
@@ -565,13 +450,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
-        "Middle East Spectator"
+        "Alsaa Plus EN"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -765,25 +649,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "The War in Ukraine is one of the most destructive wars fought so far in this century, military theorems across ages have been tested by both sides in this conflict, while some remain effective with little modification, others have been thrown out in favor of more effective policies, the technological acceleration in this century means that the wars fought in the 2020s are different from the wars being fought in 2010s, and it might even mean a different war might be fought in 2040s, operational realities are dictated by the environment, after all.\nCountries like Ukraine and Iran were not considered to last long against opponents like Russia and US, but asymmetric and drone warfare has led to these countries being able to survive and operate far longer than they could have ten or fifteen years ago.\nSome return to basics (Russia abandoning BTG and NATO-like organizational formations and returning to Soviet-era ones), others throw their lot in their competitive advantage (Ukraine/Russia/Iran)\nThe wars nowadays are fought not just on the battlefield, but also in the markets, labs, and factories, wars of attrition are the new model of this era.\nIt will be important for every country to find their own Center of Gravity and then work around it, even if there are drones, Clausewitz's theorems remain relevant.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-02T06:02:32+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "CASELS",
       "text": "Ukraine's Air Force reported on an overnight attack.\nShot down:\n0/2 Iskander-M ballistic missiles\n0/2 Kh-59/69 cruise missiles\n141/174 Attack UAVs of multiple sorts (including 3 shot down Banderol S-8000 mini cruise missiles)\nHits by missiles and attack UAVs were recorded at 16 locations, and debris from downed objects fell on 4 locations.",
       "source": "Telegram",
@@ -836,6 +701,44 @@
       "verification_confidence": 30,
       "verified_sources": [
         "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\u274c Israel\u2019s Lebanese \u2018pilot zones\u2019: withdrawal plan in name only\n\u00a0\nLess than month-and-a-half into their implementation, the Israeli military\u2019s experimental \u2018pilot zones\u2019 in southern Lebanon are proving a total fiasco.\n\ud83d\udc49 Israeli media says Tel Aviv is \u201cdissatisfied\u201d with the Lebanese army\u2019s progress in \u201cdismantling Hezbollah\u201d in villages where the pilot zones have been implemented (something that would have probably been a whole lot easier if Hezbollah was actually included in the [\u201cceasefire deal\u201d](https://t.me/geopolitics_prime/70498) that created the zones).\nWorse yet, a US official told Kan that elements of Lebanon\u2019s cucked army don\u2019t actually want the IDF to leave southern Lebanon.\nThe army has faced a never-ending string of humiliations at the IDF\u2019s hands over the past month-and-a-half, with Israel firing warning shots in the vicinity of deploying troops, continuing shelling, bulldozing and restricting movement, and freely crossing in and out of pilot zones to erect new fortifications. At least eight Lebanese troops have been hurt so far operating in and clearing ordnance from the zones.\nAnother problem is there\u2019s no third-party verification mechanism for confirming that a pilot zone has been cleared of weapons and military infrastructure. A Lebanese military source told The Cradle Israel doesn\u2019t want UNIFIL or Europeans involved in verification, and covets the job for themselves. \ud83e\udd21\nThe zones\u2019 ultimate objective - to \u201cmove Hezbollah\u2019s infrastructure and weapons away from the Israeli border,\u201d will be problematic, as Hezbollah leader Naim Qassem considers the zones and the framework deal behind them \u201cillegitimate, unlawful, humiliating, [and] destructive to Lebanese sovereignty.\u201d\n\ud83d\udcac \u201cWe do not agree to the \u2018pilot zones\u2019 or to what comes from them. We will keep our heads high and we will not surrender,\u201d he vowed last week.\nThat\u2019s fine with Israel, which seems set on using the zones to permanently entrench themselves.\nBut that\u2019s probably alright with [Hezbollah](https://t.me/geopolitics_prime/73546), too, which always has the option of ramping up its FPV drone warfare, and knows [that occupation](https://t.me/geopolitics_prime/68413) can\u2019t be sustained forever (in 2000, the IDF suffered what was then the biggest attritional bloody nose in its history to the Shia militia \u2013 forced to pull out of Lebanon after 22 years).\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-02T17:54:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\u274c Beaten by Houthis on the battlefield, Epstein Coalition claims they\u2019re friends with al-Qaeda\n\u00a0\nAs Yemen\u2019s indefatigable besandaled warriors continue to tighten their grip on Saudi oil shipping in the Red Sea, pound merc positions and ramp up attacks on regional oil infrastructure, the kingdom\u2019s US allies have rolled out the big guns: legacy media.\nA new John le Carre-style WSJ expos\u00e9 titled \u201cWashington\u2019s Deadly New Headache: an al-Qaeda-Houthi Terrorist Alliance\u201d claims the Houthis have facilitated arms sales and training to al-Shabaab, an AQ-aligned Salafi-jihadist terror group operating in Somalia.\n\ud83d\udcac \u201cYou have al-Shabaab, al-Qaeda\u2019s largest and most lucrative affiliate, gaining access to more sophisticated weapons and training,\u201d AFRICOM commander Dagvin Anderson told the outlet.\n\ud83d\udde3 \u201cOn the other side, the Houthis are extending their geographic reach, gaining a foothold that could further destabilize one of the world\u2019s most critical economic chokepoints. This isn\u2019t just a regional problem. It has global implications.\u201d\nAddressing the elephant in the room, the Sunni-Shia schism, a former Somali intel chief assured the groups are united by a common hatred: \u201cthey hate the West, they hate Israel.\u201d\nUS and Israeli officials\u2019 attempts to link the Houthis to al-Qaeda are nothing new, going back to at least 2024, when AFRICOM, think tanks in DC, and West Point\u2019s \u2018Combating Terrorism Center\u2019 started reporting on the alleged ties.\nBut attempts to link the groups always run into the same problems with elementary logic:\n\u00a0\n\ud83d\udd36 Al-Shabaab\u2019s radical Sunni Salafist-jihadist ideology treats Houthis and Shia Muslims in general as heretics fit for slaughter. Houthis consider groups like Al-Shabaab Takfiris \u2013 murderous, dogmatic thugs who unjustly excommunicate and attack other Muslims and distort the true path of Islam.\n\ud83d\udd36 Houthis gained much of their domestic legitimacy fighting al-Qaeda in the Arabian Peninsula (AQAP), to the point of eradicating AQAP almost completely from Yemen\u2019s populous northern highlands, stripping them of their sanctuaries far more effectively than any US drone bombing campaign could.\n\ud83d\udd36 Houthis are members of the Iran-backed Axis of Resistance \u2013 a loose regional anti-imperialist, anti-Zionist alliance that has spent decades fighting al-Qaeda across the Middle East, from Iraq to Syria.\n\ud83d\udd36 Houthis and their allies see Salafist fanatics as covert tools of US imperialism, Israel and Gulf monarchies, used to fracture the Islamic world from within and export \u201ccontrolled chaos\u201d among their enemies.\nTheir evidence? [Al-Qaeda-style groups\u2019 hesitancy](https://t.me/geopolitics_prime/72986) in [attacking US](https://t.me/geopolitics_prime/56338) and Israeli interests, the focus of their genocidal violence almost exclusively on other Muslims and local Christians, their lack of interest in the Palestinian cause, and their use historically in false flag attacks.\n\ud83d\udc49 Houthis have experienced this duplicity first-hand. In 2018, media reported extensively that US-backed Gulf forces worked to co-opt AQAP fighters, offer them payoffs and safe passage in a string of corroborated incidents (Mukalla and Abyan in 2016, Shabwa in 2018), and even recruited fighters into Gulf-funded puppet forces to fight the Houthis (e.g. the UAE-backed Shabwa Elite Force militia).\nIn 2025, Ansar Allah leader Abdul-Malik al-Houthi put it bluntly: al-Qaeda-style Takfiri groups are \u201can American-Zionist scheme\u201d serving to tarnish the image of Islam.\n\ud83d\udcac \u201cHad the militants been genuine warriors and engaged in true jihad, they would have confronted the Israeli enemy. They are not pious; but rather criminals who adhere to falsehood,\u201d he said.\nDoes that sound like the leader of a group looking to forge an \u201calliance\u201d with an al-Qaeda offshoot?\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-02T16:23:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
@@ -905,25 +808,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-09-02T07:16:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udca5 Iran rains missiles and drones on US bases in Jordan & Bahrain\nThe IRGC said ballistic missiles struck Camp Titin in Jordan, killing \u201ca large number\u201d of US personnel and destroying facilities and attack helicopters.\nAnother strike hit RQ-4 and MQ-9 drone hangars at Prince Hassan Air Base, destroying several drones and killing pilots and technical personnel, according to the IRGC.\nIran\u2019s Army also launched a large-scale drone attack on Sheikh Isa Air Base in Bahrain, targeting radar facilities and areas used by US forces.\nThe barrage came after [the US strike on a wedding in southern Iran](https://t.me/geopolitics_prime/74001) that killed 5 people and wounded at least 68.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-01T23:24:30+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
