@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T11:38:30.854527+00:00",
+  "generated_at": "2026-09-02T15:20:16.125830+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -192,14 +192,14 @@
       "verified_source_count": 1
     },
     {
-      "title": "Zelensky says airlines should avoid Russian airspace as Ukraine escalates drone operations",
-      "text": "Zelensky says airlines should avoid Russian airspace as Ukraine escalates drone operations\nChinese and Gulf state airlines are among those still using Russian airspace. Meanwhile, Russia says it will intensify its own attacks on Ukraine.",
+      "title": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany",
+      "text": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany\nRussia is accused of growing increasingly reckless after Berlin blamed Russia for a failed drone attack on Leipzig airport.",
       "source": "BBC",
       "source_type": "osint",
       "publisher": "BBC World News",
       "severity": "info",
       "icon": "\ud83d\udcf0",
-      "timestamp": "2026-09-02T10:00:08+00:00",
+      "timestamp": "2026-09-02T14:34:22+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -211,14 +211,14 @@
       "verified_source_count": 1
     },
     {
-      "title": "Germany says Russia behind Leipzig airport drone attack",
-      "text": "Germany says Russia behind Leipzig airport drone attack\nA drone carrying an explosive device was discovered at the airport close to Ukrainian cargo planes on 4 August.",
+      "title": "Zelensky says airlines should avoid Russian airspace as Ukraine escalates drone operations",
+      "text": "Zelensky says airlines should avoid Russian airspace as Ukraine escalates drone operations\nChinese and Gulf state airlines are among those still using Russian airspace. Meanwhile, Russia says it will intensify its own attacks on Ukraine.",
       "source": "BBC",
       "source_type": "osint",
       "publisher": "BBC World News",
       "severity": "info",
       "icon": "\ud83d\udcf0",
-      "timestamp": "2026-09-02T01:59:54+00:00",
+      "timestamp": "2026-09-02T13:16:26+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -226,6 +226,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "BBC World News"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf7/\ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf6 NEW: Satellite imagery shows an Iranian impact at the troop billeting area at the U.S. base in Erbil International Airport\nThe spy balloon is also no longer visible on the imagery, with burn marks near its operating site confirming that it was struck.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-02T13:37:05+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
       ],
       "verified_source_count": 1
     },
@@ -346,53 +365,13 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7/\ud83c\uddee\ud83c\uddf6 WATCH: The moment of an Iranian Shahed-136 drone destroying a U.S. spy balloon in Erbil",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-02T00:16:42+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7/\ud83c\uddee\ud83c\uddf6 IRGC Statement (3):\n\u2018The brave fighters of the IRGC Ground Forces, through a combined ballistic missile and drone attack, destroyed U.S. military facilities in Erbil, including a maintenance center, technical equipment warehouses, a U.S. spy balloon guidance system, and fuel tanks.\u2018",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-02T00:04:04+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Zelensky Warned Civil Aviation. Now Flights Are Canceled\nThe Ukrainian president declared there are \u201cno more safe moments in Russian skies,\u201d warning civilian air traffic, prompting airlines to cancel flights and some to reverse course while airborne.\n[READ MORE](https://clashreport.com/world/articles/zelensky-warned-civil-aviation-now-flights-are-canceled-asr6idsuvu4)",
+      "text": "Russia Has Been Secretly Helping Iran Develop Supersonic Cruise Missiles\nLeaks exposed C430L, a covert Russian effort to help Iran master ramjet propulsion and develop supersonic cruise missiles capable of threatening ships and land targets.\n[READ MORE](https://clashreport.com/world/articles/russia-has-been-secretly-helping-iran-develop-supersonic-cruise-missiles-2zcihyb3at/)",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-02T10:52:19+00:00",
+      "timestamp": "2026-09-02T15:07:39+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -406,12 +385,12 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "India and Russia are exploring deeper defence cooperation, with the S-500 missile defence system and Su-57 stealth fighter emerging as possible future deals following Prime Minister Modi\u2019s talks with Putin.\nRussia has also reportedly proposed co-production of the S-500 in India.\nSource: The Times of India",
+      "text": "A Russian Mi-8 helicopter made a hard emergency landing on a highway in Sakhalin, then rolled into a ditch. \nAll eight people aboard survived.\nRussian aviation channel Fighterbomber claims both engines stopped because the helicopter completely ran out of fuel, just 5 km from the airfield:\n\u201cDidn\u2019t make it 5 km to the airfield. A bucket of kerosene was missing.\u201d",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-02T10:31:39+00:00",
+      "timestamp": "2026-09-02T14:56:28+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -425,12 +404,50 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "A U.S. strike hit near a wedding ceremony in Kuhestak, southern Iran last night.\nFive killed (including a 4-year-old), 68 wounded \u2014 mostly women and children. \nIran says it was a direct attack on civilians. \nCENTCOM says it targeted IRGC military sites and \"never targets civilians.\" \nReports indicate a nearby telecommunications tower was struck; the wedding house appears to have been hit by shrapnel or proximity blast. \nMunitions analysts identified fragments as Boeing SLAM-ER cruise missile components.",
+      "text": "BBC correspondent Nafiseh Kohnavard says Jordan and the UAE imposed severe reporting restrictions after Iran claimed missile/drone strikes on U.S. bases, making independent verification of damage difficult.\n\u201cSevere censorship\u201d was imposed.\nShe said filming alleged impact sites could be treated as \u201ca crime,\u201d even for journalists, and that the BBC team\u2019s authorized equipment was sealed in Jordan while reporters were warned not to film with their phones.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-02T09:54:32+00:00",
+      "timestamp": "2026-09-02T14:51:28+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "More Than 20 Homemade Rockets Found in Germany Power Grid Sabotage Probe\nPolice found more than 20 homemade rockets and timed launch devices near a key Brandenburg substation, as Germany investigates a second power infrastructure attack.\n[READ MORE](https://clashreport.com/world/articles/more-than-20-homemade-rockets-found-in-germany-power-grid-sabotage-probe-28g0cokidxb)",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-02T14:26:00+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "India, Russia Explore S-500 and Su-57 As Defense Ties Deepen\nIndia and Russia are exploring a broader defense relationship centered on the S-500 missile defense system and the Su-57 stealth fighter.\n[READ MORE](https://clashreport.com/defense/articles/india-russia-explore-s-500-and-su-57-as-defense-ties-deepen-3cenahdyc18)",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-02T13:01:02+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -606,13 +623,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
-        "Middle East Spectator"
+        "Alsaa Plus EN"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -768,44 +784,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddee\ud83c\uddf7 Deputy Governor of Khuzestan: Following the missile attacks launched by the American enemy last night against three locations in Khuzestan province, seven people were killed and eight others were injured.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-02T04:28:46+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddf5\ud83c\uddf8 occupation media: A drone crossed into our territory, and alarms were triggered regarding the launch of missiles and projectiles as a result of interception attempts.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-02T01:33:23+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "CASELS",
       "text": "Ukraine's Air Force reported on an overnight attack.\nShot down:\n0/2 Iskander-M ballistic missiles\n0/2 Kh-59/69 cruise missiles\n141/174 Attack UAVs of multiple sorts (including 3 shot down Banderol S-8000 mini cruise missiles)\nHits by missiles and attack UAVs were recorded at 16 locations, and debris from downed objects fell on 4 locations.",
       "source": "Telegram",
@@ -858,6 +836,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\ude32 One rocket system is all it takes to sink US claims of controlling Hormuz \n \nUS CENTCOM recently claimed it had struck two Iranian rocket launchers on Larak Island capable of firing naval mines, TWZ reports\u2014a statement that sits uneasily with the official US narrative of Iran's degraded military capabilities and loss of control over the Strait of Hormuz.\n\ud83d\udd36 The system that Iran appears to be using is a variant of the Fajr-5 rocket\u2014a 333mm-caliber projectile with a range of roughly 75 kilometers and a warhead capacity of 90 to 170 kilograms\n\ud83d\udd36 It has been adapted to carry naval mines as payloads, enabling Iranian forces to lay minefields from standoff distances without risking boat crews or specialized vessels\n\ud83d\udd36 The system can be fired from road-mobile launchers capable of shoot-and-scoot tactics, complicating US targeting efforts \nThe launchers on Larak Island - an Iranian-controlled outpost in the middle of the strait\u2014and can reach the southern shipping lanes that the US has claimed to have fully secured against Iranian attacks. Once the mines enter the water, the de-mining process can be arduous and stretch on for weeks, potentially halting all shipping through the strait.\nThe IRGC reported on September 2 that two tankers attempting to transit an unauthorized route in the Strait of Hormuz struck mines and were disabled\u2014a stark reminder of this very real threat lurking in the waterway. \n\ud83d\udc49 Admiral Brad Cooper, CENTCOM's commander, recently announced that the US had successfully cleared sea mines from the strait's international shipping lanes. President Trump has repeatedly downplayed the threat, maintaining that the waterway is \"functioning\" and that \"the mines are gone.\" Yet, US officials appear to have been somewhat premature in their assessments, as the strait's already sparse traffic has dwindled to just a handful of vessels following the latest US escalation and Iranian retaliatory strikes.\nThe US decision to resume hostilities specifically to strike sea-mine-launching rocket systems underscores just how seriously it views this threat. Iran may have already replaced the launchers that were hit, or it may have others poised to fire at a moment's notice. While the US can clear mines, it cannot neutralize the threat of new ones being laid on short notice. Even a faint hint of such capability is enough to effectively close the strait and erode US assurances of control over the waterway.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-02T13:21:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
