@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T01:26:30.006622+00:00",
+  "generated_at": "2026-09-02T06:21:30.792896+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -192,14 +192,14 @@
       "verified_source_count": 1
     },
     {
-      "title": "Germany says Russia behind Leipzig airport drone attack",
-      "text": "Germany says Russia behind Leipzig airport drone attack\nA drone carrying an explosive device was discovered at the airport close to Ukrainian cargo planes on 4 August.",
+      "title": "Zelensky says airlines should avoid Russian airspace as Ukraine escalates drone operations",
+      "text": "Zelensky says airlines should avoid Russian airspace as Ukraine escalates drone operations\nChinese and Gulf state airlines are among those still using Russian airspace. Meanwhile, Russia says it will intensify its own attacks on Ukraine.",
       "source": "BBC",
       "source_type": "osint",
       "publisher": "BBC World News",
       "severity": "info",
       "icon": "\ud83d\udcf0",
-      "timestamp": "2026-09-01T21:05:22+00:00",
+      "timestamp": "2026-09-02T04:23:23+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -211,34 +211,33 @@
       "verified_source_count": 1
     },
     {
-      "title": "Iran retaliates after US strikes kill four at wedding party, state media reports",
-      "text": "Iran retaliates after US strikes kill four at wedding party, state media reports\nIranian news agencies said retaliatory missile and drone attacks on US targets had begun.",
+      "title": "Germany says Russia behind Leipzig airport drone attack",
+      "text": "Germany says Russia behind Leipzig airport drone attack\nA drone carrying an explosive device was discovered at the airport close to Ukrainian cargo planes on 4 August.",
       "source": "BBC",
       "source_type": "osint",
       "publisher": "BBC World News",
       "severity": "info",
       "icon": "\ud83d\udcf0",
-      "timestamp": "2026-09-02T00:13:26+00:00",
+      "timestamp": "2026-09-02T01:59:54+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "BBC World News",
-        "Our Wars Today"
+        "BBC World News"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf1 BREAKING: Drone incursions into northern Israel",
+      "text": "\u2014 \ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7 NEW: The missile that struck a wedding in Kuhestak in southern Iran, killing 5 civilians (including a child) and injuring 50 more, was an American \u2018SLAM-ER\u2019\nThe manufacturer of the cruise missile, Boeing, claims it is the most accurate weapon in the entire U.S. Navy inventory. Yet somehow, it \u2018accidentally\u2019 hit a civilian target.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-02T01:25:51+00:00",
+      "timestamp": "2026-09-02T03:21:40+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -248,6 +247,65 @@
         "Middle East Spectator"
       ],
       "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\ud83c\uddee\ud83c\uddf1\u26a1\ufe0f \u2014 All clear for the UAV/rocket alert areas in northern Israel.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-02T01:52:12+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\ud83c\uddf1\ud83c\udde7\u274c\ud83c\uddee\ud83c\uddf1 \u2014 UAV moving southeast through northern Israel, near the Israeli-Lebanese border.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-02T01:26:38+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf1/\ud83c\uddee\ud83c\uddf7 BREAKING: Drone incursions into northern Israel",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-02T01:25:51+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -261,12 +319,14 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
       "verified_sources": [
+        "Alsaa Plus EN",
+        "Clash Report",
         "Middle East Spectator"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 3
     },
     {
       "title": "Telegram",
@@ -280,12 +340,14 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
       "verified_sources": [
+        "Alsaa Plus EN",
+        "Clash Report",
         "Middle East Spectator"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 3
     },
     {
       "title": "Telegram",
@@ -348,59 +410,60 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf7/\ud83c\uddf9\ud83c\uddf7 NEW: Iranian drone impacts in Iraqi Kurdistan",
+      "publisher": "Clash Report",
+      "text": "The IRGC said its forces carried out a combined missile and drone strike on U.S. facilities in Erbil, destroying a maintenance center, technical equipment warehouses, and a surveillance-balloon guidance system.\nIt also claimed that fuel storage tanks were set on fire and several U.S. personnel were killed.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-01T22:22:35+00:00",
+      "timestamp": "2026-09-02T05:20:18+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
       "verified_sources": [
         "Alsaa Plus EN",
+        "Clash Report",
         "Middle East Spectator"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 3
     },
     {
       "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf7/\ud83c\uddf0\ud83c\uddfc NEW: Iranian ballistic missiles towards Kuwait now",
+      "publisher": "Clash Report",
+      "text": "Iran\u2019s Khatam al-Anbiya Central Headquarters says U.S. forces carried out airstrikes on military and civilian sites in southern Iran, causing casualties.\nIt says Iranian forces responded with missile and drone strikes on U.S. bases in the region, claiming heavy damage and significant American casualties.\nThe headquarters says the attacks will continue until the U.S. \u201cregrets\u201d its actions, warning that any country cooperating with U.S. forces will face \u201cdangerous consequences.\u201d",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-01T22:17:04+00:00",
+      "timestamp": "2026-09-02T05:19:35+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Middle East Spectator"
+        "Clash Report"
       ],
       "verified_source_count": 1
     },
     {
       "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf7/\ud83c\uddf0\ud83c\uddfc BREAKING: The Kuwaiti Army announces it is currently under drone attack from Iran",
+      "publisher": "Clash Report",
+      "text": "The U.S. military struck two Iranian government tankers Tuesday under a new \u201ctanker for tanker\u201d policy aimed at deterring attacks on commercial shipping in the Strait of Hormuz.\nU.S. officials said roughly 100 Iranian targets were hit, including air defenses, missile launchers, radar systems and drone sites. \nIran retaliated with missiles and drones targeting U.S. forces in the region, but officials said most were intercepted and caused no reported casualties.\nSource: Axios",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-01T22:08:37+00:00",
+      "timestamp": "2026-09-02T04:45:38+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Middle East Spectator"
+        "Clash Report"
       ],
       "verified_source_count": 1
     },
@@ -445,25 +508,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Kuwait says its air defenses are intercepting hostile missiles and drones.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-01T22:17:14+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Our Wars Today",
       "text": "\ud83c\uddee\ud83c\uddf7 \u26a0\ufe0f \ud83c\uddfa\ud83c\uddf8 \ud83c\uddee\ud83c\uddf1 \ud83c\uddef\ud83c\uddf4 #BREAKING Iran Fires Retaliatory Missiles After #Trump Warns \"Not To Retaliate\" As #UnitedStates Strikes Continue To Land Across Regions:\nIran has just launched missiles in the past two hours, seemingly at U.S. bases in Jordan, as U.S. strikes continue to hit several provinces, inflicting casualties, including now several deaths at a wedding reports Iranian state media. \nMore Coverage: T.me/ourwarstoday \n---\n24/7 LIVE News RSS feed: t.me/ournewsfeedtoday\n---\nFootage: t.me/ourwars\n---\nSupport OWT: https://ko-fi.com/ourwarstoday",
       "source": "Telegram",
@@ -474,13 +518,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "BBC World News",
         "Our Wars Today"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -541,22 +584,43 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Our Wars Today",
-      "text": "\ud83c\uddee\ud83c\uddf7 \u26a0\ufe0f \ud83c\uddfa\ud83c\uddf8 \ud83c\uddef\ud83c\uddf4 \ud83c\uddee\ud83c\uddf1 #Iran Targets #UnitedStates Bases In #Jordan Following #Larak Island Strikes: \nhttps://wanaen.com/iranian-missiles-target-u-s-positions-in-jordan/\nMore Coverage: T.me/ourwarstoday \n---\n24/7 LIVE News RSS feed: t.me/ournewsfeedtoday\n---\nFootage: t.me/ourwars\n---\nSupport OWT: https://ko-fi.com/ourwarstoday",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf1\ud83d\udd34\ud83c\uddf1\ud83c\udde7\u2014 Rocket alerts northern Israel.\n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-08-30T23:10:44+00:00",
+      "timestamp": "2026-09-02T01:29:38+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "Our Wars Today"
+        "Alsaa Plus EN",
+        "Middle East Spectator"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf1 BREAKING: Drone incursions into northern Israel",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-02T01:28:02+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -589,13 +653,14 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
       "verified_sources": [
         "Alsaa Plus EN",
-        "Mediterranean Man"
+        "Clash Report",
+        "Middle East Spectator"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 3
     },
     {
       "title": "Telegram",
@@ -648,13 +713,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
-        "Middle East Spectator"
+        "Alsaa Plus EN"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -725,13 +789,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
-        "Mediterranean Man"
+        "Alsaa Plus EN"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -754,77 +817,58 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddfa\ud83c\uddf8 Iran launched new waves of missile barrage towards US interests in the Middle East \n\u26aa\ufe0f",
+      "publisher": "Mediterranean Man",
+      "text": "The War in Ukraine is one of the most destructive wars fought so far in this century, military theorems across ages have been tested by both sides in this conflict, while some remain effective with little modification, others have been thrown out in favor of more effective policies, the technological acceleration in this century means that the wars fought in the 2020s are different from the wars being fought in 2010s, and it might even mean a different war might be fought in 2040s, operational realities are dictated by the environment, after all.\nCountries like Ukraine and Iran were not considered to last long against opponents like Russia and US, but asymmetric and drone warfare has led to these countries being able to survive and operate far longer than they could have ten or fifteen years ago.\nSome return to basics (Russia abandoning BTG and NATO-like organizational formations and returning to Soviet-era ones), others throw their lot in their competitive advantage (Ukraine/Russia/Iran)\nThe wars nowadays are fought not just on the battlefield, but also in the markets, labs, and factories, wars of attrition are the new model of this era.\nIt will be important for every country to find their own Center of Gravity and then work around it, even if there are drones, Clausewitz's theorems remain relevant.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-01T19:30:20+00:00",
+      "timestamp": "2026-09-02T06:02:32+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN"
+        "Mediterranean Man"
       ],
       "verified_source_count": 1
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddfa\ud83c\uddf8 Iran Shot down an MQ9 Reaper Drone with newly established defense system\n\u26aa\ufe0f",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ud83c\uddee\ud83c\uddf7 Deputy Governor of Khuzestan: Following the missile attacks launched by the American enemy last night against three locations in Khuzestan province, seven people were killed and eight others were injured.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-01T19:21:11+00:00",
+      "timestamp": "2026-09-02T04:28:46+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN"
+        "Mediterranean Man"
       ],
       "verified_source_count": 1
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddf9\ud83c\uddf7 Iranian missile attack towards Iraqi Kurdistan\n\u26aa\ufe0f",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ud83c\uddf5\ud83c\uddf8 occupation media: A drone crossed into our territory, and alarms were triggered regarding the launch of missiles and projectiles as a result of interception attempts.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-01T18:49:42+00:00",
+      "timestamp": "2026-09-02T01:33:23+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddfa\ud83c\uddf8 Iran Launched missile and drone barrage towards US interests in the Middle East\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-01T18:35:14+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
+        "Mediterranean Man"
       ],
       "verified_source_count": 1
     },
@@ -868,109 +912,13 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddee\ud83c\uddf6 Air defenses intercepted two drones in the sky over Erbil... From the (i lost count) of drones that were launched.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-01T23:58:54+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddee\ud83c\uddf6\ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8 explosion near the U.S. consulate and Erbil airport, Iraq.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-01T23:50:16+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddee\ud83c\uddf7\ud83c\uddee\ud83c\uddf6The Revolutionary Guard Corps claims responsibility for targeting sites in Erbil with drones.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-01T23:47:48+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddee\ud83c\uddf7\ud83c\udde7\ud83c\uddedBahrain claims Air defense systems intercepted and destroyed Iranian drones.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-01T23:41:12+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddee\ud83c\uddf7\ud83c\uddee\ud83c\uddf6 Drones targeting the headquarters of Iranian opposition groups in Erbil.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-01T23:39:46+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfaFootage of Russian missile impacts on Kyiv during this evening's missile strikes on the Ukrainian capital. \n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "Ukraine's Air Force reported on an overnight attack.\nShot down:\n0/2 Iskander-M ballistic missiles\n0/2 Kh-59/69 cruise missiles\n141/174 Attack UAVs of multiple sorts (including 3 shot down Banderol S-8000 mini cruise missiles)\nHits by missiles and attack UAVs were recorded at 16 locations, and debris from downed objects fell on 4 locations.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-01T03:12:10+00:00",
+      "timestamp": "2026-09-02T06:16:59+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -984,12 +932,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfaResidents of Syzran heard explosions this evening as Ukrainian drones enter Russian air space for this evening's strikes. \n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "Hezbollah launched two explosive-laden drones at Israeli troops operating at the Ali Taher Ridge in southern Lebanon overnight, prompting strikes on the terror group's infrastructure in the area, the military says.\nAccording to the IDF, one of the drones was shot down by the troops, and no soldiers were injured in the attack.\nHezbollah has a major underground facility beneath the ridge in the Nabatieh area, and several operatives are believed by the IDF to still be holed up there.\nIn response to the attack, the military says that it struck Hezbollah infrastructure in the Nabatieh area. The sites had been used by the terror group to advance attacks on Israeli forces operating in southern Lebanon and Israeli civilians, the IDF says, adding that the strikes were intended to \"remove an immediate threat.\" \nThe IDF says that it continues to operate at the Ali Taher Ridge and \"will not allow terrorists in the area to advance and carry out\" attacks on troops.\n\"The IDF is currently operating and will continue to act with determination against Hezbollah\u2019s repeated attempts to harm IDF soldiers,\" the military adds.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-01T03:12:07+00:00",
+      "timestamp": "2026-09-02T06:16:32+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -1003,31 +951,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfaRussian Geran drones targeted Odessa city during this evening's combined drone and missile strike on Ukraine this evenings. \nThey targeted electrical infrastructure with residents reporting power outages in the city. \n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "\u26a1\ufe0f\ud83c\uddf1\ud83c\udde7\ud83c\uddf1\ud83c\udde7\ud83c\uddee\ud83c\uddf1 Rocket alerts were also observed in Galilee, Israel, for debris interceptions.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-01T03:11:42+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\udde6\ud83c\uddea\ud83c\uddee\ud83c\uddf7 [Bloomberg:](https://www.bloomberg.com/news/articles/2026-08-31/major-uae-oil-refinery-returns-to-full-capacity-after-war-hit) Abu Dhabi National Oil Co. has restored the Ruwais oil refinery, one of the world\u2019s largest oil refineries, to full capacity after it was damaged during the war with Iran.\nThe refinery, which can process more than 900,000 barrels of crude and condensate a day, was hit by an Iranian drone strike earlier this year and subsequently operated below capacity.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-01T03:09:58+00:00",
+      "timestamp": "2026-09-02T03:16:23+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
