@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T06:21:30.792896+00:00",
+  "generated_at": "2026-09-02T11:38:30.854527+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -98,6 +98,25 @@
     },
     {
       "title": "Space Weather Message Code: ALTEF3\r",
+      "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3733\r\nIssue Time: 2026 Sep 02 1014 UTC\r\n\r\nCONTINUED ALERT: Electron 2MeV Integral Flux exceeded 1,000pfu\nContinuation of Serial Number: 3732\nBegin Time: 2026 Aug 31 1146 UTC\nYesterday Maximum 2MeV Flux: 1201 pfu\nMax time: 2026 Sep 02 1000 UTC",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-09-02 10:14:14.613",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Space Weather Message Code: ALTEF3\r",
       "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3732\r\nIssue Time: 2026 Sep 01 0737 UTC\r\n\r\nCONTINUED ALERT: Electron 2MeV Integral Flux exceeded 1,000pfu\nContinuation of Serial Number: 3731\nBegin Time: 2026 Aug 31 1146 UTC\nYesterday Maximum 2MeV Flux: 1030 pfu\nMax time: 2026 Sep 01 0730 UTC",
       "source": "NOAA Space Weather",
       "source_type": "official",
@@ -173,25 +192,6 @@
       "verified_source_count": 1
     },
     {
-      "title": "Space Weather Message Code: WARK04\r",
-      "text": "Space Weather Message Code: WARK04\r\nSerial Number: 5409\r\nIssue Time: 2026 Aug 29 1142 UTC\r\n\r\nEXTENDED WARNING: Geomagnetic K-index of 4 expected\nExtension to Serial Number: 5408\nValid From: 2026 Aug 28 1409 UTC\nNow Valid Until: 2026 Aug 30 0600 UTC\nWarning Condition: Persistence\n\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-08-29 11:42:21.657",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
       "title": "Zelensky says airlines should avoid Russian airspace as Ukraine escalates drone operations",
       "text": "Zelensky says airlines should avoid Russian airspace as Ukraine escalates drone operations\nChinese and Gulf state airlines are among those still using Russian airspace. Meanwhile, Russia says it will intensify its own attacks on Ukraine.",
       "source": "BBC",
@@ -199,7 +199,7 @@
       "publisher": "BBC World News",
       "severity": "info",
       "icon": "\ud83d\udcf0",
-      "timestamp": "2026-09-02T04:23:23+00:00",
+      "timestamp": "2026-09-02T10:00:08+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -226,6 +226,44 @@
       "verification_confidence": 30,
       "verified_sources": [
         "BBC World News"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014 \ud83c\uddee\ud83c\uddf7 NEW: The Shahrud underground facility, one of Iran\u2019s largest solid-fuel ballistic missile production centers, is expanding more rapidly than ever before",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-02T08:14:00+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014 \ud83c\uddee\ud83c\uddf1/\ud83c\uddf1\ud83c\udde7 NEW: The IDF says interceptors were launched at a \u2018false target\u2019 this morning, and no drone launch from Hezbollah took place",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-02T08:07:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
       ],
       "verified_source_count": 1
     },
@@ -299,13 +337,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
         "Middle East Spectator"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -319,14 +356,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
         "Alsaa Plus EN",
-        "Clash Report",
         "Middle East Spectator"
       ],
-      "verified_source_count": 3
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -340,27 +376,6 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Clash Report",
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 3
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\uddee\ud83c\uddf7/\ud83c\uddef\ud83c\uddf4/\ud83c\uddfa\ud83c\uddf8 WATCH: The IRGC Aerospace Force has released footage of the ballistic missile attack against Prince Hassan Airbase, Jordan",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-01T23:02:26+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
       "verification_status": "PARTIALLY VERIFIED",
       "verification_confidence": 65,
       "verified_sources": [
@@ -371,73 +386,13 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7/\ud83c\uddef\ud83c\uddf4 IRGC Statement (2):\n\u2018The IRGC Aerospace Force launched an intensive ballistic missile attack on RQ-4 and MQ-9 drone shelters at the Prince Hassan Air Base in Jordan.\nThis attack resulted in the destruction of several American drones and the death of several pilots and technicians. In addition, several technical infrastructure facilities were set ablaze.\u2019",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-01T22:55:13+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf7/\ud83c\udde7\ud83c\udded BREAKING: Sirens in Bahrain; Iranian drones have arrived",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-01T22:48:44+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "The IRGC said its forces carried out a combined missile and drone strike on U.S. facilities in Erbil, destroying a maintenance center, technical equipment warehouses, and a surveillance-balloon guidance system.\nIt also claimed that fuel storage tanks were set on fire and several U.S. personnel were killed.",
+      "text": "Zelensky Warned Civil Aviation. Now Flights Are Canceled\nThe Ukrainian president declared there are \u201cno more safe moments in Russian skies,\u201d warning civilian air traffic, prompting airlines to cancel flights and some to reverse course while airborne.\n[READ MORE](https://clashreport.com/world/articles/zelensky-warned-civil-aviation-now-flights-are-canceled-asr6idsuvu4)",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-02T05:20:18+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Clash Report",
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 3
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Iran\u2019s Khatam al-Anbiya Central Headquarters says U.S. forces carried out airstrikes on military and civilian sites in southern Iran, causing casualties.\nIt says Iranian forces responded with missile and drone strikes on U.S. bases in the region, claiming heavy damage and significant American casualties.\nThe headquarters says the attacks will continue until the U.S. \u201cregrets\u201d its actions, warning that any country cooperating with U.S. forces will face \u201cdangerous consequences.\u201d",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-02T05:19:35+00:00",
+      "timestamp": "2026-09-02T10:52:19+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -451,12 +406,12 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "The U.S. military struck two Iranian government tankers Tuesday under a new \u201ctanker for tanker\u201d policy aimed at deterring attacks on commercial shipping in the Strait of Hormuz.\nU.S. officials said roughly 100 Iranian targets were hit, including air defenses, missile launchers, radar systems and drone sites. \nIran retaliated with missiles and drones targeting U.S. forces in the region, but officials said most were intercepted and caused no reported casualties.\nSource: Axios",
+      "text": "India and Russia are exploring deeper defence cooperation, with the S-500 missile defence system and Su-57 stealth fighter emerging as possible future deals following Prime Minister Modi\u2019s talks with Putin.\nRussia has also reportedly proposed co-production of the S-500 in India.\nSource: The Times of India",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-02T04:45:38+00:00",
+      "timestamp": "2026-09-02T10:31:39+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -470,12 +425,12 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Egypt may be preparing to buy 24 additional Rafale fighter jets from Dassault Aviation, according to La Tribune. Cairo has reportedly sent France a formal request for proposal, though Dassault declined to comment.\nEgypt will have 54 Rafales in service by the end of 2026, following previous orders in 2015 and 2021. \nA new deal would increase its fleet to 78 aircraft.\nSource: La Tribune",
+      "text": "A U.S. strike hit near a wedding ceremony in Kuhestak, southern Iran last night.\nFive killed (including a 4-year-old), 68 wounded \u2014 mostly women and children. \nIran says it was a direct attack on civilians. \nCENTCOM says it targeted IRGC military sites and \"never targets civilians.\" \nReports indicate a nearby telecommunications tower was struck; the wedding house appears to have been hit by shrapnel or proximity blast. \nMunitions analysts identified fragments as Boeing SLAM-ER cruise missile components.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-01T23:35:28+00:00",
+      "timestamp": "2026-09-02T09:54:32+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -485,26 +440,6 @@
         "Clash Report"
       ],
       "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "The IRGC said it launched a heavy ballistic missile attack on hangars housing U.S. RQ-4 and MQ-9 long-range drones at Prince Hassan Air Base in Jordan.\nAccording to the statement, several drones were destroyed, U.S. pilots and technical personnel were killed, and multiple military facilities caught fire.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-01T22:54:46+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Clash Report",
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -585,6 +520,25 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf1\ud83c\udde9\ud83c\uddea \u2014 Germany successfully tests Israeli-made LORA ballistic missile from a German Navy frigate in the North Atlantic.\nThe German Navy says the test was successful and will now advance plans to procure the LORA system, which has a range of more than 500 km.\nNavy chief Vice Adm. Jan Christian Kaack called the test a new chapter in Germany\u2019s maritime deterrence and defense readiness.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-02T09:28:20+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
       "text": "\ud83c\uddee\ud83c\uddf1\ud83d\udd34\ud83c\uddf1\ud83c\udde7\u2014 Rocket alerts northern Israel.\n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
@@ -614,13 +568,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
-        "Middle East Spectator"
+        "Alsaa Plus EN"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -653,14 +606,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
         "Alsaa Plus EN",
-        "Clash Report",
         "Middle East Spectator"
       ],
-      "verified_source_count": 3
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -693,13 +645,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
-        "Middle East Spectator"
+        "Alsaa Plus EN"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -798,25 +749,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddfa\ud83c\uddf8\ud83c\uddef\ud83c\uddf4 Iranian missiles targeted US interests in Jordan impacts reported\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-01T20:06:28+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Mediterranean Man",
       "text": "The War in Ukraine is one of the most destructive wars fought so far in this century, military theorems across ages have been tested by both sides in this conflict, while some remain effective with little modification, others have been thrown out in favor of more effective policies, the technological acceleration in this century means that the wars fought in the 2020s are different from the wars being fought in 2010s, and it might even mean a different war might be fought in 2040s, operational realities are dictated by the environment, after all.\nCountries like Ukraine and Iran were not considered to last long against opponents like Russia and US, but asymmetric and drone warfare has led to these countries being able to survive and operate far longer than they could have ten or fifteen years ago.\nSome return to basics (Russia abandoning BTG and NATO-like organizational formations and returning to Soviet-era ones), others throw their lot in their competitive advantage (Ukraine/Russia/Iran)\nThe wars nowadays are fought not just on the battlefield, but also in the markets, labs, and factories, wars of attrition are the new model of this era.\nIt will be important for every country to find their own Center of Gravity and then work around it, even if there are drones, Clausewitz's theorems remain relevant.",
       "source": "Telegram",
@@ -862,44 +794,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-09-02T01:33:23+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddee\ud83c\uddf6 Drones in the sky of erbil. Again.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-02T00:35:02+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddee\ud83c\uddf6\ud83c\uddfa\ud83c\uddf8 Casualties reported among U.S. forces in Erbil following Iranian drone attacks.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-02T00:18:34+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -970,6 +864,63 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddee\ud83c\uddf1 Israel strengthens its position in Greece with a record $3.5 billion air defense deal\nIsrael and Greece have signed a $3.5 billion agreement that will provide Greece with a comprehensive, multi-layered air defense network, marking the largest defense export deal between the two countries and one of the biggest in Israeli history.\nThe deal is part of Greece's broader $32 billion military modernization plan, which also includes F-35 fighter jets from the US and frigates from France and Italy.\n\ud83d\udd36 The \"Achilles Shield\" project will integrate Israeli-made systems, including David's Sling, the SPYDER and BARAK MX systems, MMR multi-mission radars, and a new national command and control system\n\ud83d\udd36 The system will become a central element of Greece's defense architecture, rendering the country technologically and operationally dependent on Israel for maintenance, upgrades, and future development for years to come\nHowever, questions remain about the system's effectiveness. Israeli air defense systems have already been successfully penetrated by Iranian missiles, and Greece will become dependent on a foreign supplier for technology and spare parts, which Israel, like the US in case of interceptor missiles, may decide to preserve for itself.\nThe defense deal is the latest step in a deepening strategic alignment between Israel, Greece, and Cyprus against [Turkey.](https://t.me/geopolitics_prime/73003) The countries clash for control over the Eastern Mediterranean, where rich gas deposits were discovered in contested waters. Turkey and Israel also battle [for Syria](https://t.me/geopolitics_prime/73592) through their proxies and compete for the position of the main power across the Middle East.\nIsrael's desire to draw Greece into its sphere of influence is driven by a pragmatic reality. Turkey, with 85 million people, possesses far greater manpower and military capacity compared to Israel's 9 million. As the US reduces its ability to provide support for Israel's increasingly protracted escalations against its neighbors, Israel struggles to build a new system of dependent states through economic and military leverage.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-02T10:18:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83e\udd21 Spain\u2019s Sanchez finds new scapegoat for Ceuta crisis \u2013 Russia!\n\u00a0\n[Israel wasn\u2019t alone](https://t.me/geopolitics_prime/72928) in spreading \u201choaxes and disinformation\u201d on social media that triggered the Ceuta migrant crisis. \u201cRussian networks\u201d were also involved, Spain\u2019s prime minister has said in an interview.\nHis \u201cproof\u201d? Claims by the European External Action Service \u2013 the EU\u2019s foreign policy and intel analysis arm, to that effect. Moscow\u2019s motive? Punishing Madrid for its \u201ccourageous\u201d position on Ukraine, and a desire to \u201cdivide\u201d Europe on the sensitive issue of illegal immigration.\nThe icing on the cake? Sanchez now says he has no \u201cspecific information\u201d [that Morocco\u2019s CIA](https://t.me/geopolitics_prime/73045)- and Mossad-infested government was involved. You know, Morocco \u2013 the country directly on the border with Ceuta, [whose cops were spotted](https://t.me/geopolitics_prime/72928) directly supervising the migrant flood into the exclave?\n\u00a0\n\ud83d\udd34 Forget the fact that \u201ccourageous\u201d Spain accounts for <1% of the total NATO \u201caid\u201d to Ukraine\n\ud83d\udd34 Forget that Madrid\u2019s positioning itself as the de facto leader of an Israel-sceptic bloc of European powers has enraged Tel Aviv\n\ud83d\udd34 Forget that Spain ticked off Trump by blocking the use of Mor\u00f3n Air Base and Naval Station Rota for aggression against Iran, and[ the $40M in mystery US aid ](https://t.me/geopolitics_prime/73024?single)Morocco got two weeks before the crisis began\n\ud83d\udd34 Forget that Trump allies have been calling Ceuta \u201cMoroccan territory\u201d for months now\n\ud83d\udd34 Forget Morocco\u2019s incentives to serve as the US and Israel\u2019s willing tool (warm diplomatic ties, arms deals, recognition of Western Sahara, a former Spanish colony, as Moroccan territory, plus the [Moroccan military\u2019s central place in the Gaza security force)](https://t.me/geopolitics_prime/73193)\n\ud83d\udd34 Forget Israeli officials\u2019 joyful jabs at Spain once [the Ceuta crisis broke out](https://t.me/geopolitics_prime/72987), and Netanyahu\u2019s warning ahead of time that Israel\u2019s enemies would \u201cpay an immediate price\u201d for their \u201cdiplomatic war\u201d against the Jewish State\n\ud83d\udd34 Forget reports that even Chinese intel analysts (normally reserved on commenting on *any* nation\u2019s intel-related activities) [have blamed the Mossad](https://t.me/geopolitics_prime/73188) and Moroccan logistics for the crisis\n\u00a0\nNope, gotta be the Russians, who, by the way, spent decades supporting governments that shielded Europe from its immigration crises (Gaddafi\u2019s Libya, Assad\u2019s Syria \u2013 both toppled in NATO dirty wars and interventions, ironically).\nWhat\u2019s behind Sanchez\u2019 sudden change of tune? Damage control by Icarus after flying too close to the Sun in daring to criticize Israel? Folding to EU pressure? Or maybe something even simpler than that - alignment with the techno-globalist agenda on [control online,](https://t.me/geopolitics_prime/71614) using the time-honored tradition of evoking the Russian bogeyman.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-02T08:47:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddee\ud83c\uddf7\ud83d\udca3 Cheap Iranian missiles are bleeding America's expensive Patriot stockpile dry\nThe night of August 30 saw one of the largest escalations between the US and Iran in recent months. US forces in Jordan fired more than 80 Patriot interceptors to counter incoming Iranian ballistic missiles, with a ratio of four interceptors per Iranian missile.\nIran designed this retaliatory attack around an interceptor-exhaustion strategy. By launching large numbers of ballistic missiles, Iran forced US batteries to fire multiple interceptors at each incoming target.\n\ud83d\udc49 Each interceptor costs $4-5 million, roughly four to five times as much as the Iranian missile it was trying to stop. In total, the operation consumed more than 10% of the entire American interceptor arsenal in a single engagement.\nThe Pentagon appears to have a short memory\u2014or is too afraid of Iranian missiles to remember how empty its arsenals already are.\nPatriot stockpiles were confirmed to have fallen to just 25% of the volume the Pentagon deems necessary\nThe shortages have forced the US to request interceptors from Poland and to suspend arms deliveries to strategic partners in Asia and Europe\n\ud83d\udc41 The Pentagon has also withdrawn THAAD and Patriot systems from South Korea to compensate for the drain\nIran can continue to apply pressure with relatively cheap missiles, while the US burns through its most expensive air defense weapons at an unsustainable rate. Meanwhile, Iran can reserve its more complex and costly missile types, such as the Fattah 2 with a hypersonic glide vehicle that is nearly impossible to intercept, for strikes on high-priority targets, guarded by almost empty launchers.\nAccording to the Israeli paper Haaretz, 80% of Iranian missiles launched against Israeli targets have been impacting successfully. US bases in the region, already nearly defenseless, could easily follow suit.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-02T07:16:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
       "text": "\ud83d\udca5 Iran rains missiles and drones on US bases in Jordan & Bahrain\nThe IRGC said ballistic missiles struck Camp Titin in Jordan, killing \u201ca large number\u201d of US personnel and destroying facilities and attack helicopters.\nAnother strike hit RQ-4 and MQ-9 drone hangars at Prince Hassan Air Base, destroying several drones and killing pilots and technical personnel, according to the IRGC.\nIran\u2019s Army also launched a large-scale drone attack on Sheikh Isa Air Base in Bahrain, targeting radar facilities and areas used by US forces.\nThe barrage came after [the US strike on a wedding in southern Iran](https://t.me/geopolitics_prime/74001) that killed 5 people and wounded at least 68.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
@@ -979,13 +930,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Clash Report",
         "Geopolitics Prime"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
