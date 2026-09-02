@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T21:41:45.948134+00:00",
+  "generated_at": "2026-09-02T23:35:48.745718+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -211,14 +211,14 @@
       "verified_source_count": 1
     },
     {
-      "title": "Iran says US strike killed four at wedding in 'war crime' as US denies targeting civilians",
-      "text": "Iran says US strike killed four at wedding in 'war crime' as US denies targeting civilians\nIranian media reports two children were among those killed when shrapnel hit a home. Iran then launched missiles and drones at US targets in the Middle East.",
+      "title": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany",
+      "text": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany\nRussia is accused of growing increasingly reckless after Berlin blamed Russia for a failed drone attack on Leipzig airport.",
       "source": "BBC",
       "source_type": "osint",
       "publisher": "BBC World News",
       "severity": "info",
       "icon": "\ud83d\udcf0",
-      "timestamp": "2026-09-02T15:33:19+00:00",
+      "timestamp": "2026-09-02T16:49:00+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -230,14 +230,14 @@
       "verified_source_count": 1
     },
     {
-      "title": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany",
-      "text": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany\nRussia is accused of growing increasingly reckless after Berlin blamed Russia for a failed drone attack on Leipzig airport.",
+      "title": "Iran says US strike killed four at wedding in 'war crime' as US denies targeting civilians",
+      "text": "Iran says US strike killed four at wedding in 'war crime' as US denies targeting civilians\nIranian media reports two children were among those killed when shrapnel hit a home. Iran then launched missiles and drones at US targets in the Middle East.",
       "source": "BBC",
       "source_type": "osint",
       "publisher": "BBC World News",
       "severity": "info",
       "icon": "\ud83d\udcf0",
-      "timestamp": "2026-09-02T16:49:00+00:00",
+      "timestamp": "2026-09-02T15:33:19+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -345,25 +345,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\uddee\ud83c\uddf1/\ud83c\uddf1\ud83c\udde7 NEW: The IDF says interceptors were launched at a \u2018false target\u2019 this morning, and no drone launch from Hezbollah took place",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-02T08:07:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Our Wars Today",
       "text": "\ud83c\uddee\ud83c\uddf7 \u26a0\ufe0f \ud83c\uddfa\ud83c\uddf8 \ud83c\uddee\ud83c\uddf1 \ud83c\uddef\ud83c\uddf4 #BREAKING Iran Fires Retaliatory Missiles After #Trump Warns \"Not To Retaliate\" As #UnitedStates Strikes Continue To Land Across Regions:\nIran has just launched missiles in the past two hours, seemingly at U.S. bases in Jordan, as U.S. strikes continue to hit several provinces, inflicting casualties, including now several deaths at a wedding reports Iranian state media. \nMore Coverage: T.me/ourwarstoday \n---\n24/7 LIVE News RSS feed: t.me/ournewsfeedtoday\n---\nFootage: t.me/ourwars\n---\nSupport OWT: https://ko-fi.com/ourwarstoday",
       "source": "Telegram",
@@ -416,6 +397,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Our Wars Today"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf1\u274c\ud83c\uddf1\ud83c\udde7 \u2014 Heavy Israeli rocket fire is targeting the Ali al-Taher hill, with widespread tremors felt across much of the south following a powerful explosion in the area.\n\u27a1\ufe0f The blast was reportedly heard as far as Mount Lebanon and the coast.\nFollow",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-02T22:23:45+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
       ],
       "verified_source_count": 1
     },
@@ -580,63 +580,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-09-01T22:12:57+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf7\ud83d\udc4d\u274c\ud83c\uddfa\ud83c\uddf8\ud83c\udde7\ud83c\udded Iranian Armed Forces: \nIn the 29th phase of the \"Thunder\" operation, and in response to the enemy's transgression into the southern regions of the country, the Iranian armed forces, just hours ago, targeted radar facilities and centers where American terrorist forces are stationed at the Sheikh Isa base in Bahrain with intense drone attacks.\nThe Sheikh Isa base in Bahrain is one of the most important and sensitive American bases in the Persian Gulf region. It is a vital center for the repair and maintenance of helicopters and drone spare parts, and it hosts reconnaissance aircraft.\nThe Army's Public Relations Department confirmed that Iranian army forces have responded fiercely and extensively to the enemy's actions, and will severely avenge the aggressors, with a vengeance that will leave a lasting impact.\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-01T21:53:42+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddef\ud83c\uddf4\u274c\ud83c\uddee\ud83c\uddf7 Jordanian army claims that it has intercepted 10 Iranian ballistic missiles out of 13 which was launched from Iran\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-01T21:24:26+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf7\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddfa\ud83c\uddf8 Islamic Revolutionary Guard Corps:\nIn the name of Allah, the Subduer of the Tyrants\nFight them; Allah will punish them by your hands and will disgrace them and give you victory over them and satisfy the breasts of a believing people.\nHeroic and risen people of Islamic Iran,\nThe defeated and terrorist \"american\" army, incapable of direct confrontation with the fighters of Islam, launched a brutal attack on a residential house in Sirik, turning the venue of a wedding ceremony for two pure youths into a bloodbath. By martyring and wounding nearly fifty of our dear people, it revived the memory of the savagery at the Minab school and the Lamerd stadium.\nIn this criminal attack, the child-killing \"american\" regime once again laid bare the depth of its malice and hostility toward the Iranian people, martyring several individuals, including a child.\nIn response to this savage wickedness, the brave fighters of the IRGC Aerospace Force, in the second wave of the \"Punish the Aggressor\" operation under the sacred code name \"O Messenger of Allah (PBUH),\" launched a heavy ballistic missile attack against the \"american\" Marines' base in Jordan, known as Camp Teltin, located on the shores of the Gulf of Aqaba. They dispatched a large number of \"american\" forces to hell and destroyed several important facilities and enemy attack helicopters.\nThe retaliatory operations of the forces of Islam continue.\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-01T20:48:45+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
