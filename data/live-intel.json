@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T21:25:40.301116+00:00",
+  "generated_at": "2026-09-03T23:29:14.568679+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -251,6 +251,25 @@
     {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf1/\ud83c\uddf5\ud83c\uddf8 BREAKING: IDF forces operating in northern Gaza have been ambushed for the first time in months; an exchange of gunfire is ongoing\nIt is likely that Al-Qassam, the armed wing of Hamas, is responsible for the ambush.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-03T23:25:58+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
       "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea BREAKING: Ansarallah (the Houthis) have initiated a large scale offensive into the Al-Khokha and Al-Mokha directions, controlled by Saudi-backed PLC fighters in western Yemen",
       "source": "Telegram",
       "source_type": "telegram",
@@ -346,12 +365,12 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Russia continues to install massive anti-drone cage structures over oil storage tanks at a fuel depot. \nThe idea is to act as a last line of defense against kamikaze drones by physically blocking them before they hit the tanks.",
+      "text": "The strike that killed four people and injured at least 68 at a wedding in southern Iran was likely a direct hit by a U.S. weapon, according to weapons experts who reviewed footage and images verified by Reuters.\nThe attack in Kuhestak on Sept. 1 has renewed concerns over civilian casualties in the U.S.-Iran conflict. \nU.S. officials confirmed strikes in the area, saying they targeted military-related sites, including a communications tower about 135 meters from the wedding site.\nExperts said the damage pattern was consistent with a bomb hitting the home directly, rather than debris from another target or an Iranian air defense missile. Two experts said the munition was likely a U.S. 500-pound air-dropped weapon.\nThe victims included three wedding guests, including a 4-year-old child.\nSource: Reuters",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-03T20:24:38+00:00",
+      "timestamp": "2026-09-03T22:40:03+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
