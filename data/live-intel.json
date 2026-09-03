@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T01:29:52.800963+00:00",
+  "generated_at": "2026-09-03T06:27:04.316525+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -218,7 +218,7 @@
       "publisher": "BBC World News",
       "severity": "info",
       "icon": "\ud83d\udcf0",
-      "timestamp": "2026-09-02T16:49:00+00:00",
+      "timestamp": "2026-09-03T03:21:24+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -238,44 +238,6 @@
       "severity": "info",
       "icon": "\ud83d\udcf0",
       "timestamp": "2026-09-02T15:33:19+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "BBC World News"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Zelensky says airlines should avoid Russian airspace as Ukraine escalates drone operations",
-      "text": "Zelensky says airlines should avoid Russian airspace as Ukraine escalates drone operations\nChinese and Gulf state airlines are among those still using Russian airspace. Meanwhile, Russia says it will intensify its own attacks on Ukraine.",
-      "source": "BBC",
-      "source_type": "osint",
-      "publisher": "BBC World News",
-      "severity": "info",
-      "icon": "\ud83d\udcf0",
-      "timestamp": "2026-09-02T16:12:43+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "BBC World News"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "South African airline behind daring stadium stunt cancels next flyby",
-      "text": "South African airline behind daring stadium stunt cancels next flyby\nThe civil aviation authority says it is also investigating last Saturday's aerial display.",
-      "source": "BBC",
-      "source_type": "osint",
-      "publisher": "BBC World News",
-      "severity": "info",
-      "icon": "\ud83d\udcf0",
-      "timestamp": "2026-09-02T21:21:08+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -321,6 +283,44 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Kuwait said Thursday that its forces intercepted Iranian missiles and drones targeting U.S. bases.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-03T04:07:20+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "BIG: Trump is privately considering declaring the Iran war over and, according to U.S. officials, favors the idea.\nAt the same time, he believes continued economic pressure will eventually force Iran to dismantle its nuclear program or cause the regime to collapse.\nSource: WSJ",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-03T03:29:26+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
       ],
       "verified_source_count": 1
     },
@@ -378,6 +378,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Our Wars Today"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddfa\ud83c\uddf8\ud83c\uddf0\ud83c\uddfc \u2014 Attack consists of ballistic missile and UAVs.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-03T01:42:48+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
       ],
       "verified_source_count": 1
     },
@@ -459,51 +478,51 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf1\ud83d\udd34\ud83c\uddf1\ud83c\udde7\u2014 Rocket alerts northern Israel.\n\u26aa\ufe0f",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ud83c\uddf0\ud83c\uddfc The Kuwaiti airspace has been closed, airports are out of service.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-02T01:29:38+00:00",
+      "timestamp": "2026-09-03T01:51:48+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN"
+        "Mediterranean Man"
       ],
       "verified_source_count": 1
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf1 BREAKING: Drone incursions into northern Israel",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ud83c\uddf0\ud83c\uddfc Breaking: Kuwait air defences responding to missile, drone strikes - Kuwaiti army",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-02T01:28:02+00:00",
+      "timestamp": "2026-09-03T01:40:55+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN"
+        "Mediterranean Man"
       ],
       "verified_source_count": 1
     },
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Ukraine's Air Force reported on an overnight attack.\nShot down:\n0/2 Iskander-M ballistic missiles\n0/2 Kh-59/69 cruise missiles\n141/174 Attack UAVs of multiple sorts (including 3 shot down Banderol S-8000 mini cruise missiles)\nHits by missiles and attack UAVs were recorded at 16 locations, and debris from downed objects fell on 4 locations.",
+      "text": "Locals report hearing 5 explosions in Yemen\u2019s Ibb Governorate.\nIt is unclear whether they were Houthi missile launches toward Saudi Arabia or Saudi airstrikes on Houthi positions.\nReports remain preliminary.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-02T06:16:59+00:00",
+      "timestamp": "2026-09-03T05:23:35+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -517,12 +536,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Hezbollah launched two explosive-laden drones at Israeli troops operating at the Ali Taher Ridge in southern Lebanon overnight, prompting strikes on the terror group's infrastructure in the area, the military says.\nAccording to the IDF, one of the drones was shot down by the troops, and no soldiers were injured in the attack.\nHezbollah has a major underground facility beneath the ridge in the Nabatieh area, and several operatives are believed by the IDF to still be holed up there.\nIn response to the attack, the military says that it struck Hezbollah infrastructure in the Nabatieh area. The sites had been used by the terror group to advance attacks on Israeli forces operating in southern Lebanon and Israeli civilians, the IDF says, adding that the strikes were intended to \"remove an immediate threat.\" \nThe IDF says that it continues to operate at the Ali Taher Ridge and \"will not allow terrorists in the area to advance and carry out\" attacks on troops.\n\"The IDF is currently operating and will continue to act with determination against Hezbollah\u2019s repeated attempts to harm IDF soldiers,\" the military adds.",
+      "text": "Treasury Secretary Scott Bessent on Iran: \"Iran gets some supplies from Russia, but if we shut down the Iranian airlines, which we will, then much less coming in.\"\nHe added that Iran doesn't get direct financial support from Russia.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-02T06:16:32+00:00",
+      "timestamp": "2026-09-03T05:19:45+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -536,12 +555,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddf1\ud83c\udde7\ud83c\uddf1\ud83c\udde7\ud83c\uddee\ud83c\uddf1 Rocket alerts were also observed in Galilee, Israel, for debris interceptions.",
+      "text": "I can watch IRGC missile launchers exploding all day. \n4 IRGC Aerospace Force members were eliminated in this USAF strike in Kermanshah province, Iran last night",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-02T03:16:23+00:00",
+      "timestamp": "2026-09-03T05:18:44+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -549,6 +568,139 @@
       "verification_confidence": 30,
       "verified_sources": [
         "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "U.S. forces detected a ballistic missile launch near Kermanshah and struck the site, killing four IRGC Aerospace Force members.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-03T05:18:38+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "Following overnight Iranian UAV attacks targeting a U.S. military compound near Erbil International Airport, NASA FIRMS\u2019 VIIRS satellite imagery shows a large fire burning at the facility.\nThe data was recorded at around 02:58 local time (23:58 UTC).",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-03T05:17:28+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "Germany successfully tested the Israeli-built LORA ballistic missile overnight in the North Atlantic, military officials said. The Israel Aerospace Industries system reaches up to 500 km. \n- Reuters.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-03T05:17:24+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "Hezbollah launched two explosive-laden drones overnight at Israeli troops operating at the Ali Taher Ridge in southern Lebanon, the IDF says. Troops shot down one drone and no soldiers were injured. Israel struck Hezbollah infrastructure in the Nabatieh area in response, saying the sites were used to advance attacks on its forces and civilians.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-03T05:17:08+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfaKyiv is currently under heavy Russian drone threat with massive waves of Geran-2s enroute to the city. \n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-03T04:41:55+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8The wreckage of the U.S. MQ-9 drone that was intercepted by the IRGC during yesterday's U.S. strikes on Iran was put on display in Khomein. \n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-03T04:41:51+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udcb0\u2620\ufe0f Palantir, Anduril tapped to build Pentagon\u2019s TITAN kill chain on wheels\n\u00a0\nThe twin venture capital-backed, Trump-linked defense firms have been awarded $192M by the Army to build eight Tactical Intelligence Targeting Access Node (TITAN) vehicle-mounted kill chain systems.\nThe mobile ground stations are supposed to accelerate the Pentagon\u2019s AI kill chain planning by pulling in massive streams of data from satellites, other high-altitude sensors, drones and ground radars, and using AI algorithms to sift through the info at high speed to provide commanders and weapons operators with targets. Cloud access is optional.\n\ud83d\uddd3 The timeframe for delivery is 18 months and includes four \u201cbasic\u201d and four \u201cadvanced\u201d variants.\nThe former will be assigned as division-level systems and mounted on light Oshkosh JLTVs and ISV-Us, while the latter will be used for corps, theater and multi-domain-level intel and carried by heavier trucks, equipped with more processing power and sensors.\nThis isn\u2019t the first time Palantir and Anduril have been tapped to work together on kill chain integration. They also have a series of collaborative contracts to develop software for robotic and uncrewed combat vehicles and integrate Anduril\u2019s weapons platforms into Palantir\u2019s Maven Smart System.\nThey even have a civilian contract with the State Department to [\u201cprotect kids online\u201d](https://t.me/geopolitics_prime/73660) and advise on \u201cfree speech\u201d (reality truly is stranger than fiction sometimes \ud83d\ude11).\nPalantir and Anduril\u2019s bosses also happen to be the most absurdly comic book villainish characters in the entire venture capital-based defense contractors\u2019 pantheon, with [Palantir CEO Alex Karp](https://t.me/geopolitics_prime/62718) getting visibly excited whenever he talks about killing people, and Anduril founder Palmer Luckey hoping he\u2019ll be able [to build nuclear and chemical weapons someday](https://t.me/geopolitics_prime/72203).\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-03T03:42:30+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
@@ -637,44 +789,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-09-02T10:18:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83e\udd21 Spain\u2019s Sanchez finds new scapegoat for Ceuta crisis \u2013 Russia!\n\u00a0\n[Israel wasn\u2019t alone](https://t.me/geopolitics_prime/72928) in spreading \u201choaxes and disinformation\u201d on social media that triggered the Ceuta migrant crisis. \u201cRussian networks\u201d were also involved, Spain\u2019s prime minister has said in an interview.\nHis \u201cproof\u201d? Claims by the European External Action Service \u2013 the EU\u2019s foreign policy and intel analysis arm, to that effect. Moscow\u2019s motive? Punishing Madrid for its \u201ccourageous\u201d position on Ukraine, and a desire to \u201cdivide\u201d Europe on the sensitive issue of illegal immigration.\nThe icing on the cake? Sanchez now says he has no \u201cspecific information\u201d [that Morocco\u2019s CIA](https://t.me/geopolitics_prime/73045)- and Mossad-infested government was involved. You know, Morocco \u2013 the country directly on the border with Ceuta, [whose cops were spotted](https://t.me/geopolitics_prime/72928) directly supervising the migrant flood into the exclave?\n\u00a0\n\ud83d\udd34 Forget the fact that \u201ccourageous\u201d Spain accounts for <1% of the total NATO \u201caid\u201d to Ukraine\n\ud83d\udd34 Forget that Madrid\u2019s positioning itself as the de facto leader of an Israel-sceptic bloc of European powers has enraged Tel Aviv\n\ud83d\udd34 Forget that Spain ticked off Trump by blocking the use of Mor\u00f3n Air Base and Naval Station Rota for aggression against Iran, and[ the $40M in mystery US aid ](https://t.me/geopolitics_prime/73024?single)Morocco got two weeks before the crisis began\n\ud83d\udd34 Forget that Trump allies have been calling Ceuta \u201cMoroccan territory\u201d for months now\n\ud83d\udd34 Forget Morocco\u2019s incentives to serve as the US and Israel\u2019s willing tool (warm diplomatic ties, arms deals, recognition of Western Sahara, a former Spanish colony, as Moroccan territory, plus the [Moroccan military\u2019s central place in the Gaza security force)](https://t.me/geopolitics_prime/73193)\n\ud83d\udd34 Forget Israeli officials\u2019 joyful jabs at Spain once [the Ceuta crisis broke out](https://t.me/geopolitics_prime/72987), and Netanyahu\u2019s warning ahead of time that Israel\u2019s enemies would \u201cpay an immediate price\u201d for their \u201cdiplomatic war\u201d against the Jewish State\n\ud83d\udd34 Forget reports that even Chinese intel analysts (normally reserved on commenting on *any* nation\u2019s intel-related activities) [have blamed the Mossad](https://t.me/geopolitics_prime/73188) and Moroccan logistics for the crisis\n\u00a0\nNope, gotta be the Russians, who, by the way, spent decades supporting governments that shielded Europe from its immigration crises (Gaddafi\u2019s Libya, Assad\u2019s Syria \u2013 both toppled in NATO dirty wars and interventions, ironically).\nWhat\u2019s behind Sanchez\u2019 sudden change of tune? Damage control by Icarus after flying too close to the Sun in daring to criticize Israel? Folding to EU pressure? Or maybe something even simpler than that - alignment with the techno-globalist agenda on [control online,](https://t.me/geopolitics_prime/71614) using the time-honored tradition of evoking the Russian bogeyman.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-02T08:47:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddee\ud83c\uddf7\ud83d\udca3 Cheap Iranian missiles are bleeding America's expensive Patriot stockpile dry\nThe night of August 30 saw one of the largest escalations between the US and Iran in recent months. US forces in Jordan fired more than 80 Patriot interceptors to counter incoming Iranian ballistic missiles, with a ratio of four interceptors per Iranian missile.\nIran designed this retaliatory attack around an interceptor-exhaustion strategy. By launching large numbers of ballistic missiles, Iran forced US batteries to fire multiple interceptors at each incoming target.\n\ud83d\udc49 Each interceptor costs $4-5 million, roughly four to five times as much as the Iranian missile it was trying to stop. In total, the operation consumed more than 10% of the entire American interceptor arsenal in a single engagement.\nThe Pentagon appears to have a short memory\u2014or is too afraid of Iranian missiles to remember how empty its arsenals already are.\nPatriot stockpiles were confirmed to have fallen to just 25% of the volume the Pentagon deems necessary\nThe shortages have forced the US to request interceptors from Poland and to suspend arms deliveries to strategic partners in Asia and Europe\n\ud83d\udc41 The Pentagon has also withdrawn THAAD and Patriot systems from South Korea to compensate for the drain\nIran can continue to apply pressure with relatively cheap missiles, while the US burns through its most expensive air defense weapons at an unsustainable rate. Meanwhile, Iran can reserve its more complex and costly missile types, such as the Fattah 2 with a hypersonic glide vehicle that is nearly impossible to intercept, for strikes on high-priority targets, guarded by almost empty launchers.\nAccording to the Israeli paper Haaretz, 80% of Iranian missiles launched against Israeli targets have been impacting successfully. US bases in the region, already nearly defenseless, could easily follow suit.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-02T07:16:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
