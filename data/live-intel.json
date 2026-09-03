@@ -1,6 +1,25 @@
 {
-  "generated_at": "2026-09-03T06:27:04.316525+00:00",
+  "generated_at": "2026-09-03T11:39:01.737151+00:00",
   "events": [
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nLibby AAF, AZ, Friday, September 4, 2026 Local\nFacility: ZAB",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "09/03/2026",
+      "location": "ZAB AZ",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nMackinaw City - St. Ignace, MI, Monday, September 7, 2026 Local\nFacility: ZMP",
@@ -116,6 +135,25 @@
       "verified_source_count": 1
     },
     {
+      "title": "Space Weather Message Code: ALTEF3\r",
+      "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3734\r\nIssue Time: 2026 Sep 03 1031 UTC\r\n\r\nCONTINUED ALERT: Electron 2MeV Integral Flux exceeded 1,000pfu\nContinuation of Serial Number: 3733\nBegin Time: 2026 Aug 31 1146 UTC\nYesterday Maximum 2MeV Flux: 1239 pfu\nMax time: 2026 Sep 03 1020 UTC",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-09-03 10:31:48.890",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
       "title": "Space Weather Message Code: ALTTP4\r",
       "text": "Space Weather Message Code: ALTTP4\r\nSerial Number: 716\r\nIssue Time: 2026 Sep 02 1955 UTC\r\n\r\nALERT: Type IV Radio Emission \nBegin Time: 2026 Sep 02 1920 UTC\nComment:",
       "source": "NOAA Space Weather",
@@ -192,25 +230,6 @@
       "verified_source_count": 1
     },
     {
-      "title": "Space Weather Message Code: ALTEF3\r",
-      "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3731\r\nIssue Time: 2026 Aug 31 1147 UTC\r\n\r\nALERT: Electron 2MeV Integral Flux exceeded 1,000pfu \nThreshold Reached: 2026 Aug 31 1146 UTC\nStation: GOES-19\nComment: Yesterday's max: 1264 pfu",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-08-31 11:47:00.727",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
       "title": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany",
       "text": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany\nRussia is accused of growing increasingly reckless after Berlin blamed Russia for a failed drone attack on Leipzig airport.",
       "source": "BBC",
@@ -219,25 +238,6 @@
       "severity": "info",
       "icon": "\ud83d\udcf0",
       "timestamp": "2026-09-03T03:21:24+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "BBC World News"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Iran says US strike killed four at wedding in 'war crime' as US denies targeting civilians",
-      "text": "Iran says US strike killed four at wedding in 'war crime' as US denies targeting civilians\nIranian media reports two children were among those killed when shrapnel hit a home. Iran then launched missiles and drones at US targets in the Middle East.",
-      "source": "BBC",
-      "source_type": "osint",
-      "publisher": "BBC World News",
-      "severity": "info",
-      "icon": "\ud83d\udcf0",
-      "timestamp": "2026-09-02T15:33:19+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -289,12 +289,12 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Kuwait said Thursday that its forces intercepted Iranian missiles and drones targeting U.S. bases.",
+      "text": "Serbia has emerged as a possible link in the Leipzig drone plot.\nOne suspect reportedly traveled there after the attack, while Western intelligence considers Serbia a hotspot for Russian sabotage operations in Europe, where Russian services may recruit and train operatives.\nSource: DER SPIEGEL",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-03T04:07:20+00:00",
+      "timestamp": "2026-09-03T11:25:31+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -308,12 +308,31 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "BIG: Trump is privately considering declaring the Iran war over and, according to U.S. officials, favors the idea.\nAt the same time, he believes continued economic pressure will eventually force Iran to dismantle its nuclear program or cause the regime to collapse.\nSource: WSJ",
+      "text": "NEW: Iran confirms 3 Army pilots killed in U.S. strikes two nights ago.\nNamed: Mojtaba Bagheri and Hamed Okati (Navy aviation pilots) and Hossein Mahdavian (Air Force pilot).",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-03T03:29:26+00:00",
+      "timestamp": "2026-09-03T11:21:35+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Polish Foreign Minister Sikorski:\nFor dictatorships, culture and even sports are instruments of imperial propaganda.\nRussia has unfortunately taken the path of trying to rebuild the empire.\nThe clearest visible sign of the cultural policy of this great empire is the bombardment of Kyiv with ballistic missiles.\nAnd we cannot have business as usual with Russia in other areas as long as Russia has not abandoned this insane, criminal idea of rebuilding the empire.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-03T11:12:46+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -378,6 +397,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Our Wars Today"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf7\ud83e\udd1d\ud83c\uddf1\ud83c\udde7 Iran told the U.S. it will strike Israel if the IDF tries to conquer the strategic Ali al-Taher ridge in southern Lebanon\nIran has warned the United States that it would respond forcefully to an Israeli offensive on a mountainous ridge in southern \u200bLebanon where Iranian military personnel are holed up alongside Hezbollah fighters, three officials briefed on the message told Reuters.\nThe message, delivered last month, highlights Iran's continued direct \u200cinvolvement in the ground fighting in southern Lebanon and its readiness to retaliate against Israeli attacks there as the regional war enters its seventh month.\nHezbollah is believed to have built an underground command center and weapons stores within the Ali al-Taher ridge, which has a commanding view of southeastern Lebanon, according to Lebanese security sources, and has become one of the most contested pieces of ground in the Israel-Hezbollah war.\nHezbollah has said in public statements that it controls the hill and will \u200bconfront any Israeli advances. Its officials have referred to a \"facility\" there, but have declined to provide details.\nThe Israeli military has occupied swathes of territory to Ali al-Taher's south and has \u200bidentified the ridge as one of its \"primary operational focuses\" in public statements.\nIn its message to Washington, Tehran threatened that any full-fledged Israeli offensive on the ridge \u2060would be met with a large-scale Iranian attack, said the three officials in the region, who spoke to Reuters on condition of anonymity.\nThe IDF failed several times to conquer the ridge, losing dozens of tanks and armoured vehicles and a few KIA to Hezbollah drones and IEDs.\n\ud83d\udd17 https://www.reuters.com/world/middle-east/iran-warns-us-against-israeli-attack-south-lebanon-ridge-held-by-hezbollah-2026-09-03/",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-03T08:33:15+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
       ],
       "verified_source_count": 1
     },
@@ -688,6 +726,25 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
+      "text": "\ud83e\udd25\u26f4 Trump\u2019s Iran blockade is a \u2018logistics nightmare\u2019 for US Navy\nThe IRGC\u2019s timely counterstrikes on Naval Support Activity Bahrain in the very first hours of the war, and [threats against other carrier-ready facilities in the region ](https://t.me/geopolitics_prime/73973)in the days, weeks and months since[ knocked out a \u201ccritical\u201d logistics capability ](https://t.me/geopolitics_prime/70911)which the US Navy has been unable to get back.\nA new analysis has calculated that the US supply ships sailing for the carrier strike groups deployed in the Arabian Sea \u201cblockading\u201d Iran must travel 3.5k+ km from Diego Garcia in the Indian Ocean, or nearly 6k km from Singapore.\n\ud83d\udc49 Carriers and the warships escorting them are absolute gluttons when it comes to the amount of food, fuel and other supplies they consume, with NYT estimating that the ~20 ship fleet in the region is packed with ~20k sailors and Marines, requiring some 420k+ meals and 8M gallons of fuel every week just to stay afloat.\nThe warships have to resupply at sea every 5-6 days \u2013 a process rife with risks, including keeping ships on the same course for hours at a time as fuel is pumped aboard and pallets of food and supplies carried by tether or helicopter from supply ships.\n\ud83d\udcc9 The whole process is \u201cnot sustainable,\u201d with the US already rotating 4 of its 11 carriers in and out of the conflict, and some undergoing extensive repairs expected to take years to complete.\nThese calculations help explain [the USS Abraham Lincoln\u2019s record 270+ day deployment ](https://t.me/geopolitics_prime/73815)without a port call, which led to [a string of alarming incidents aboard the ship](https://t.me/geopolitics_prime/73771), from sailors attempting to jump overboard, to crew suffering from chronic sleep depravation from noise, flight operations and vibrations, to unsanitary living conditions, mold and supply shortages.\n\u27a1\ufe0f The Lincoln\u2019s teammate, the USS Ford, enjoyed nine port calls during its 326-day deployment, but suffered its own near-mutiny by the time its tour ended in May, including [a 30-hour laundry facility fire and chronic toilet clogs](https://t.me/geopolitics_prime/70557), which helped end its deployment.\nTrump complained in August that the Lincoln\u2019s deployment was \u201cnot nearly long enough,\u201d signaling complete detachment from and spite against the servicemen he promised to keep out of foreign wars on the campaign trail.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-03T09:01:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
       "text": "\ud83d\udcb0\u2620\ufe0f Palantir, Anduril tapped to build Pentagon\u2019s TITAN kill chain on wheels\n\u00a0\nThe twin venture capital-backed, Trump-linked defense firms have been awarded $192M by the Army to build eight Tactical Intelligence Targeting Access Node (TITAN) vehicle-mounted kill chain systems.\nThe mobile ground stations are supposed to accelerate the Pentagon\u2019s AI kill chain planning by pulling in massive streams of data from satellites, other high-altitude sensors, drones and ground radars, and using AI algorithms to sift through the info at high speed to provide commanders and weapons operators with targets. Cloud access is optional.\n\ud83d\uddd3 The timeframe for delivery is 18 months and includes four \u201cbasic\u201d and four \u201cadvanced\u201d variants.\nThe former will be assigned as division-level systems and mounted on light Oshkosh JLTVs and ISV-Us, while the latter will be used for corps, theater and multi-domain-level intel and carried by heavier trucks, equipped with more processing power and sensors.\nThis isn\u2019t the first time Palantir and Anduril have been tapped to work together on kill chain integration. They also have a series of collaborative contracts to develop software for robotic and uncrewed combat vehicles and integrate Anduril\u2019s weapons platforms into Palantir\u2019s Maven Smart System.\nThey even have a civilian contract with the State Department to [\u201cprotect kids online\u201d](https://t.me/geopolitics_prime/73660) and advise on \u201cfree speech\u201d (reality truly is stranger than fiction sometimes \ud83d\ude11).\nPalantir and Anduril\u2019s bosses also happen to be the most absurdly comic book villainish characters in the entire venture capital-based defense contractors\u2019 pantheon, with [Palantir CEO Alex Karp](https://t.me/geopolitics_prime/62718) getting visibly excited whenever he talks about killing people, and Anduril founder Palmer Luckey hoping he\u2019ll be able [to build nuclear and chemical weapons someday](https://t.me/geopolitics_prime/72203).\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
@@ -751,44 +808,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-09-02T16:23:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\ude32 One rocket system is all it takes to sink US claims of controlling Hormuz \n \nUS CENTCOM recently claimed it had struck two Iranian rocket launchers on Larak Island capable of firing naval mines, TWZ reports\u2014a statement that sits uneasily with the official US narrative of Iran's degraded military capabilities and loss of control over the Strait of Hormuz.\n\ud83d\udd36 The system that Iran appears to be using is a variant of the Fajr-5 rocket\u2014a 333mm-caliber projectile with a range of roughly 75 kilometers and a warhead capacity of 90 to 170 kilograms\n\ud83d\udd36 It has been adapted to carry naval mines as payloads, enabling Iranian forces to lay minefields from standoff distances without risking boat crews or specialized vessels\n\ud83d\udd36 The system can be fired from road-mobile launchers capable of shoot-and-scoot tactics, complicating US targeting efforts \nThe launchers on Larak Island - an Iranian-controlled outpost in the middle of the strait\u2014and can reach the southern shipping lanes that the US has claimed to have fully secured against Iranian attacks. Once the mines enter the water, the de-mining process can be arduous and stretch on for weeks, potentially halting all shipping through the strait.\nThe IRGC reported on September 2 that two tankers attempting to transit an unauthorized route in the Strait of Hormuz struck mines and were disabled\u2014a stark reminder of this very real threat lurking in the waterway. \n\ud83d\udc49 Admiral Brad Cooper, CENTCOM's commander, recently announced that the US had successfully cleared sea mines from the strait's international shipping lanes. President Trump has repeatedly downplayed the threat, maintaining that the waterway is \"functioning\" and that \"the mines are gone.\" Yet, US officials appear to have been somewhat premature in their assessments, as the strait's already sparse traffic has dwindled to just a handful of vessels following the latest US escalation and Iranian retaliatory strikes.\nThe US decision to resume hostilities specifically to strike sea-mine-launching rocket systems underscores just how seriously it views this threat. Iran may have already replaced the launchers that were hit, or it may have others poised to fire at a moment's notice. While the US can clear mines, it cannot neutralize the threat of new ones being laid on short notice. Even a faint hint of such capability is enough to effectively close the strait and erode US assurances of control over the waterway.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-02T13:21:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddee\ud83c\uddf1 Israel strengthens its position in Greece with a record $3.5 billion air defense deal\nIsrael and Greece have signed a $3.5 billion agreement that will provide Greece with a comprehensive, multi-layered air defense network, marking the largest defense export deal between the two countries and one of the biggest in Israeli history.\nThe deal is part of Greece's broader $32 billion military modernization plan, which also includes F-35 fighter jets from the US and frigates from France and Italy.\n\ud83d\udd36 The \"Achilles Shield\" project will integrate Israeli-made systems, including David's Sling, the SPYDER and BARAK MX systems, MMR multi-mission radars, and a new national command and control system\n\ud83d\udd36 The system will become a central element of Greece's defense architecture, rendering the country technologically and operationally dependent on Israel for maintenance, upgrades, and future development for years to come\nHowever, questions remain about the system's effectiveness. Israeli air defense systems have already been successfully penetrated by Iranian missiles, and Greece will become dependent on a foreign supplier for technology and spare parts, which Israel, like the US in case of interceptor missiles, may decide to preserve for itself.\nThe defense deal is the latest step in a deepening strategic alignment between Israel, Greece, and Cyprus against [Turkey.](https://t.me/geopolitics_prime/73003) The countries clash for control over the Eastern Mediterranean, where rich gas deposits were discovered in contested waters. Turkey and Israel also battle [for Syria](https://t.me/geopolitics_prime/73592) through their proxies and compete for the position of the main power across the Middle East.\nIsrael's desire to draw Greece into its sphere of influence is driven by a pragmatic reality. Turkey, with 85 million people, possesses far greater manpower and military capacity compared to Israel's 9 million. As the US reduces its ability to provide support for Israel's increasingly protracted escalations against its neighbors, Israel struggles to build a new system of dependent states through economic and military leverage.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-02T10:18:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
