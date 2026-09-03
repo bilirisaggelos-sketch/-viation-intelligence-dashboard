@@ -1,6 +1,25 @@
 {
-  "generated_at": "2026-09-03T15:14:47.107209+00:00",
+  "generated_at": "2026-09-03T18:45:19.148609+00:00",
   "events": [
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nMorristown, NJ, Friday, September 4, 2026 through Monday, September 7, 2026 Local\nFacility: ZNY",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "09/03/2026",
+      "location": "ZNY NJ",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nLibby AAF, AZ, Friday, September 4, 2026 Local\nFacility: ZAB",
@@ -116,21 +135,21 @@
       "verified_source_count": 1
     },
     {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nMacon, GA, Tuesday, September 1, 2026 through Friday, September 4, 2026 Local\nFacility: ZTL",
-      "source": "FAA",
+      "title": "Space Weather Message Code: ALTTP2\r",
+      "text": "Space Weather Message Code: ALTTP2\r\nSerial Number: 1527\r\nIssue Time: 2026 Sep 03 1644 UTC\r\n\r\nALERT: Type II Radio Emission \nBegin Time: 2026 Sep 03 1629 UTC\nEstimate Velocity: 1,359 km/s\nComment:",
+      "source": "NOAA Space Weather",
       "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "08/28/2026",
-      "location": "ZTL GA",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-09-03 16:44:28.023",
+      "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
       "verification_confidence": 100,
       "verified_sources": [
-        "Federal Aviation Administration"
+        "NOAA Space Weather Prediction Center"
       ],
       "verified_source_count": 1
     },
@@ -211,44 +230,23 @@
       "verified_source_count": 1
     },
     {
-      "title": "Space Weather Message Code: ALTEF3\r",
-      "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3732\r\nIssue Time: 2026 Sep 01 0737 UTC\r\n\r\nCONTINUED ALERT: Electron 2MeV Integral Flux exceeded 1,000pfu\nContinuation of Serial Number: 3731\nBegin Time: 2026 Aug 31 1146 UTC\nYesterday Maximum 2MeV Flux: 1030 pfu\nMax time: 2026 Sep 01 0730 UTC",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-09-01 07:37:17.493",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
-      "text": "\ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf1\ud83c\uddf1\ud83c\udde7\u26a1\ufe0f \u2014 Iran warned the U.S. that a major Israeli offensive against the Ali al-Taher ridge in southern Lebanon would trigger a \u201clarge-scale Iranian attack,\u201d according to Reuters. \nTehran delivered the warning through Oman around mid-August.\nTwo regional officials said more than a dozen IRGC personnel, including at least two senior officers, are sheltering on the ridge alongside Hezbollah fighters. \nA foreign official said U.S. pressure subsequently led Israel to postpone an assault on the ridge.",
+      "text": "\u2014 \ud83c\uddee\ud83c\uddf1/\ud83c\uddf1\ud83c\udde7 NOTE: Claims that IRGC commanders were present at the underground complex, or that Iran had threatened Israel with war in case it captured Ali Al-Taher hill, are all false\nRas Zimmt, former senior IDF commander & current Director of Israel\u2019s Institute for National Security Studies (INSS) says the following:\n\u2018There is no indication of the presence of \u2018dozens of IRGC members\u2019, let alone two senior Iranian officers, in Ali al-Taher hill.\nIsrael itself, which in fact has an interest in demonstrating Iranian involvement in Hezbollah\u2019s fighting, has denied that Iranian fighters are present.\nThere has also been no unusual statement by senior Iranian officials indicating an intention to respond to Israeli activity in Ali al-Taher.\u2019",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-03T13:26:36+00:00",
+      "timestamp": "2026-09-03T18:14:07+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
-        "Clash Report",
         "Middle East Spectator"
       ],
-      "verified_source_count": 3
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -304,122 +302,6 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "Enemy drone intrusions in North-Western Iran. Currently being monitored by the air defense systems.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-02T16:47:47+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "The Trump administration has imposed tariffs of up to 100% on imported drones, targeting China\u2019s dominant drone industry and pushing for more U.S. production. \nDrones over 55 pounds or equipped with thermal imaging face the highest tariff, while smaller drones face 25% tariffs.\nThe policy is drawing criticism from police, firefighters and businesses that rely on Chinese-made drones, with industry groups warning that U.S. manufacturers cannot currently fill the gap. \nSource: NYT",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-03T15:01:12+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "German Defense Minister Boris Pistorius will meet Pete Hegseth in Washington on September 15, after Hegseth had previously rebuffed a meeting between the two. \nThe meeting coincides with Pistorius's trip to Texas for a rollout ceremony marking the delivery of Germany's first F-35 fighter jets.\nThe talks follow strained U.S.-German relations after Trump ordered 5,000 U.S. troops withdrawn from Germany in May following Merz\u2019s criticism of the U.S. war with Iran.\nSource: POLITICO",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-03T14:57:32+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Iran has warned the United States it would launch a large-scale attack if Israel attacks the Ali al-Taher ridge in southern Lebanon, where IRGC personnel are stationed alongside Hezbollah fighters.\nIsrael has been besieging the strategic ridge, which it considers a key operational focus, while Hezbollah has warned that an assault could trigger a return to full-scale war.\nSource: Reuters",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-03T13:28:10+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Clash Report",
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 3
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Yemen\u2019s Houthis release footage showing attacks on gatherings and vehicles belonging to Saudi forces across several fronts using drones.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-03T13:06:42+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Russia's Alabuga drone factory in Tatarstan is expanding massively. \nThe complex, which produces Shahed-copy Geran-2 drones and decoys, has grown by over 1,000 hectares across multiple construction phases in 2025\u20132026, with new workshops, warehouses, roads, and a separate 450-hectare site south of the highway. \nProduction has shifted from Iranian kits to largely localized manufacturing using Chinese components. \nThe workforce pipeline runs through an adjacent vocational college that has used students including minors on assembly lines, with dormitories being built for tens of thousands of workers from North Korea, Africa, Latin America, and reportedly occupied Ukrainian territories. \nCounter-drone lattice towers are going up around key buildings after repeated Ukrainian long-range strikes. \nThe site is under U.S., EU, and UK sanctions but construction continues at pace.\nSource: Bild",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-03T12:17:38+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
       ],
       "verified_source_count": 1
     },
@@ -483,6 +365,25 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf7\u26a1\ufe0fReports of missile launched from Iran to strait of Hormuz\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-03T16:23:52+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
       "text": "\ud83c\uddee\ud83c\uddf7\ud83e\udd1d\ud83c\uddf1\ud83c\udde7 Iran told the U.S. it will strike Israel if the IDF tries to conquer the strategic Ali al-Taher ridge in southern Lebanon\nIran has warned the United States that it would respond forcefully to an Israeli offensive on a mountainous ridge in southern \u200bLebanon where Iranian military personnel are holed up alongside Hezbollah fighters, three officials briefed on the message told Reuters.\nThe message, delivered last month, highlights Iran's continued direct \u200cinvolvement in the ground fighting in southern Lebanon and its readiness to retaliate against Israeli attacks there as the regional war enters its seventh month.\nHezbollah is believed to have built an underground command center and weapons stores within the Ali al-Taher ridge, which has a commanding view of southeastern Lebanon, according to Lebanese security sources, and has become one of the most contested pieces of ground in the Israel-Hezbollah war.\nHezbollah has said in public statements that it controls the hill and will \u200bconfront any Israeli advances. Its officials have referred to a \"facility\" there, but have declined to provide details.\nThe Israeli military has occupied swathes of territory to Ali al-Taher's south and has \u200bidentified the ridge as one of its \"primary operational focuses\" in public statements.\nIn its message to Washington, Tehran threatened that any full-fledged Israeli offensive on the ridge \u2060would be met with a large-scale Iranian attack, said the three officials in the region, who spoke to Reuters on condition of anonymity.\nThe IDF failed several times to conquer the ridge, losing dozens of tanks and armoured vehicles and a few KIA to Hezbollah drones and IEDs.\n\ud83d\udd17 https://www.reuters.com/world/middle-east/iran-warns-us-against-israeli-attack-south-lebanon-ridge-held-by-hezbollah-2026-09-03/",
       "source": "Telegram",
       "source_type": "telegram",
@@ -492,14 +393,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
-        "Clash Report",
-        "Middle East Spectator"
+        "Alsaa Plus EN"
       ],
-      "verified_source_count": 3
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -567,25 +466,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-09-02T22:23:45+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf1\ud83c\udde9\ud83c\uddea \u2014 Germany successfully tests Israeli-made LORA ballistic missile from a German Navy frigate in the North Atlantic.\nThe German Navy says the test was successful and will now advance plans to procure the LORA system, which has a range of more than 500 km.\nNavy chief Vice Adm. Jan Christian Kaack called the test a new chapter in Germany\u2019s maritime deterrence and defense readiness.\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-02T09:28:20+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -770,6 +650,25 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddf8\ud83c\uddfe\ud83e\udd25 Trump has a plan for solving the global oil crisis \u2013 swap Hormuz for Syrian jihadistan \n\u00a0\n\ud83e\udd21 \u201cThis is GREAT!\u201d Trump wrote on Truth Social Thursday, barely able to contain his excitement.\n\ud83d\udcac \u201cSyria is pitching itself as an alternative to the Strait of Hormuz,\u201d he added, linking to a WaPo piece about the \u201coptions\u201d Syria offers for bypassing the strategic chokepoint.\nHow is Syria, which is looking to build a $15B, 1.5-2M bpd [capacity pipeline with Iraq](https://t.me/geopolitics_prime/73511), supposed to replace Hormuz, which handled ~20-21M bpd-worth of crude before Trump launched his war?\nIf he actually bothered to read the WaPo piece, Trump would know that it talks about the thousands of big rigs currently snaking their way across Iraq and Syria to deliver crude to the Mediterranean, and al-Qaeda head chopper-turned president Sharaa\u2019s pitch to make Syria a \u201crelatively stable, overland corridor for energy and goods, and an alternative\u201d to Hormuz.\nThe story points out, however, that Sharaa has \u201cnot fully consolidated control\u201d over the country, and that ISIS cells in Syria, and \u201cIran-backed militias\u201d in Iraq threaten Damascus\u2019 pipeline ambitions, making security effectively impossible and blowing insurance costs through the roof.\nBesides, whatever happened to WaPo being a \u201cfake news,\u201d \u201cenemy of the people\u201d media organization, Donald? \ud83e\udd26\u200d\u2642\ufe0f\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-03T17:34:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
       "text": "\u2721\ufe0f\ud83c\uddee\ud83c\uddf1 Israel\u2019s defense minister says there\u2019s no \u2018solution\u2019 to Gaza without expulsion of Palestinians\n\u201cIn the end, there is no real solution for Gaza without this migration,\u201d Israel Katz said at a conference Wednesday.\n\u201c80% want to emigrate. We are checking this in all kinds of surveys,\u201d Katz claimed. \u201cHamas isn\u2019t letting them and there are no countries in the world\nabsorbing them.\u201d\nIt\u2019s not clear where Katz got his \u201c80%\u201d figure. Independent polling from the Ramallah-based Palestinian Center for Policy and Survey Research found that\nonly 43-49% of Gazans want to leave, even after [Israel\u2019s genocidal war completely razed infrastructure across virtually the entire Strip. ](https://t.me/geopolitics_prime/73671)\n\ud83d\udc49 Katz boasted that a specially created IDF \u201cemigration directorate\u201d is at the ready \u201cto take out [Gazans] to the extent it will be possible, by sea, by air and by any\nmeans to do it,\u201d but that this is impossible without \u201cAmerican backing.\u201d\n\u201cAt the moment, Trump has not canceled it; he has frozen it. All the Arab countries came to him, because of the pressure over this issue, and said: \u2018we\u2019ll\ngive you whatever you want \u2013 investments\u2019. We\u2019ll give you the disarmament of Hamas in exchange for freezing it.\u201d\nImagine the nerve it must take to blame setbacks in your blatant ethnic cleansing campaign on others.\nKatz\u2019 eye-opening comments came the same day Netanyahu visited an IDF outpost in Gaza, and boasted that Israel controls \u201c60% of the Strip,\u201d with \u201cmore to come because we are eliminating the terrorists who threaten us.\u201d\n\u203c\ufe0f These \u201cterrorists\u201d apparently include the [300+ children killed in Gaza since the October 2025 \u201cceasefire,\u201d](https://t.me/geopolitics_prime/73732) and the deliberately targeted civilian infrastructure destroyed shortly after being rebuilt.\nIRGC Quds Force commander Esmail Qaani warned last month that Israel\u2019s unhinged cruelty in the occupied territories was a [\u201csocial cancer\u201d that would ultimately make its \u201ccollapse from within\u201d an inevitability.](https://t.me/geopolitics_prime/73580)\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
@@ -814,44 +713,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-09-03T09:01:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udcb0\u2620\ufe0f Palantir, Anduril tapped to build Pentagon\u2019s TITAN kill chain on wheels\n\u00a0\nThe twin venture capital-backed, Trump-linked defense firms have been awarded $192M by the Army to build eight Tactical Intelligence Targeting Access Node (TITAN) vehicle-mounted kill chain systems.\nThe mobile ground stations are supposed to accelerate the Pentagon\u2019s AI kill chain planning by pulling in massive streams of data from satellites, other high-altitude sensors, drones and ground radars, and using AI algorithms to sift through the info at high speed to provide commanders and weapons operators with targets. Cloud access is optional.\n\ud83d\uddd3 The timeframe for delivery is 18 months and includes four \u201cbasic\u201d and four \u201cadvanced\u201d variants.\nThe former will be assigned as division-level systems and mounted on light Oshkosh JLTVs and ISV-Us, while the latter will be used for corps, theater and multi-domain-level intel and carried by heavier trucks, equipped with more processing power and sensors.\nThis isn\u2019t the first time Palantir and Anduril have been tapped to work together on kill chain integration. They also have a series of collaborative contracts to develop software for robotic and uncrewed combat vehicles and integrate Anduril\u2019s weapons platforms into Palantir\u2019s Maven Smart System.\nThey even have a civilian contract with the State Department to [\u201cprotect kids online\u201d](https://t.me/geopolitics_prime/73660) and advise on \u201cfree speech\u201d (reality truly is stranger than fiction sometimes \ud83d\ude11).\nPalantir and Anduril\u2019s bosses also happen to be the most absurdly comic book villainish characters in the entire venture capital-based defense contractors\u2019 pantheon, with [Palantir CEO Alex Karp](https://t.me/geopolitics_prime/62718) getting visibly excited whenever he talks about killing people, and Anduril founder Palmer Luckey hoping he\u2019ll be able [to build nuclear and chemical weapons someday](https://t.me/geopolitics_prime/72203).\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-03T03:42:30+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udca5 Iran\u2019s LEGO crew mocks Trump over \u201csurprise\u201d mine-laying missiles\n\ud83d\udcac \u201cThey were trying to build a rocket that drops mines. Who does that?\u201d Demented Don said, apparently flabbergasted.\nIran unveiled such missiles years ago.\n\ud83d\udcac \u201cYou haven\u2019t even seen our new surprises yet =)\u201d Iranian LEGO-style animators teased.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-03T00:43:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
