@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T11:39:01.737151+00:00",
+  "generated_at": "2026-09-03T15:14:47.107209+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -230,21 +230,61 @@
       "verified_source_count": 1
     },
     {
-      "title": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany",
-      "text": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany\nRussia is accused of growing increasingly reckless after Berlin blamed Russia for a failed drone attack on Leipzig airport.",
-      "source": "BBC",
-      "source_type": "osint",
-      "publisher": "BBC World News",
-      "severity": "info",
-      "icon": "\ud83d\udcf0",
-      "timestamp": "2026-09-03T03:21:24+00:00",
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf1\ud83c\uddf1\ud83c\udde7\u26a1\ufe0f \u2014 Iran warned the U.S. that a major Israeli offensive against the Ali al-Taher ridge in southern Lebanon would trigger a \u201clarge-scale Iranian attack,\u201d according to Reuters. \nTehran delivered the warning through Oman around mid-August.\nTwo regional officials said more than a dozen IRGC personnel, including at least two senior officers, are sheltering on the ridge alongside Hezbollah fighters. \nA foreign official said U.S. pressure subsequently led Israel to postpone an assault on the ridge.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-03T13:26:36+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Clash Report",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 3
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "The fact that a general was killed in a drone strike on a TEL means that he was most likely part of the missile launch crew himself, alongside his men.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-03T12:23:53+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "BBC World News"
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014 \ud83c\uddee\ud83c\uddf7 NEW: In the U.S. attack on Iran two nights ago, four IRGC personnel were also killed, including two members of the Aerospace Force\nThis happened in Kermanshah, which means they were likely working at a missile site. One of them held the rank of general.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-03T12:16:51+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
       ],
       "verified_source_count": 1
     },
@@ -289,12 +329,12 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Serbia has emerged as a possible link in the Leipzig drone plot.\nOne suspect reportedly traveled there after the attack, while Western intelligence considers Serbia a hotspot for Russian sabotage operations in Europe, where Russian services may recruit and train operatives.\nSource: DER SPIEGEL",
+      "text": "The Trump administration has imposed tariffs of up to 100% on imported drones, targeting China\u2019s dominant drone industry and pushing for more U.S. production. \nDrones over 55 pounds or equipped with thermal imaging face the highest tariff, while smaller drones face 25% tariffs.\nThe policy is drawing criticism from police, firefighters and businesses that rely on Chinese-made drones, with industry groups warning that U.S. manufacturers cannot currently fill the gap. \nSource: NYT",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-03T11:25:31+00:00",
+      "timestamp": "2026-09-03T15:01:12+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -308,12 +348,12 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "NEW: Iran confirms 3 Army pilots killed in U.S. strikes two nights ago.\nNamed: Mojtaba Bagheri and Hamed Okati (Navy aviation pilots) and Hossein Mahdavian (Air Force pilot).",
+      "text": "German Defense Minister Boris Pistorius will meet Pete Hegseth in Washington on September 15, after Hegseth had previously rebuffed a meeting between the two. \nThe meeting coincides with Pistorius's trip to Texas for a rollout ceremony marking the delivery of Germany's first F-35 fighter jets.\nThe talks follow strained U.S.-German relations after Trump ordered 5,000 U.S. troops withdrawn from Germany in May following Merz\u2019s criticism of the U.S. war with Iran.\nSource: POLITICO",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-03T11:21:35+00:00",
+      "timestamp": "2026-09-03T14:57:32+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -327,12 +367,52 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Polish Foreign Minister Sikorski:\nFor dictatorships, culture and even sports are instruments of imperial propaganda.\nRussia has unfortunately taken the path of trying to rebuild the empire.\nThe clearest visible sign of the cultural policy of this great empire is the bombardment of Kyiv with ballistic missiles.\nAnd we cannot have business as usual with Russia in other areas as long as Russia has not abandoned this insane, criminal idea of rebuilding the empire.",
+      "text": "Iran has warned the United States it would launch a large-scale attack if Israel attacks the Ali al-Taher ridge in southern Lebanon, where IRGC personnel are stationed alongside Hezbollah fighters.\nIsrael has been besieging the strategic ridge, which it considers a key operational focus, while Hezbollah has warned that an assault could trigger a return to full-scale war.\nSource: Reuters",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-03T11:12:46+00:00",
+      "timestamp": "2026-09-03T13:28:10+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Clash Report",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 3
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Yemen\u2019s Houthis release footage showing attacks on gatherings and vehicles belonging to Saudi forces across several fronts using drones.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-03T13:06:42+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Russia's Alabuga drone factory in Tatarstan is expanding massively. \nThe complex, which produces Shahed-copy Geran-2 drones and decoys, has grown by over 1,000 hectares across multiple construction phases in 2025\u20132026, with new workshops, warehouses, roads, and a separate 450-hectare site south of the highway. \nProduction has shifted from Iranian kits to largely localized manufacturing using Chinese components. \nThe workforce pipeline runs through an adjacent vocational college that has used students including minors on assembly lines, with dormitories being built for tens of thousands of workers from North Korea, Africa, Latin America, and reportedly occupied Ukrainian territories. \nCounter-drone lattice towers are going up around key buildings after repeated Ukrainian long-range strikes. \nThe site is under U.S., EU, and UK sanctions but construction continues at pace.\nSource: Bild",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-03T12:17:38+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -412,12 +492,14 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
       "verified_sources": [
-        "Alsaa Plus EN"
+        "Alsaa Plus EN",
+        "Clash Report",
+        "Middle East Spectator"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 3
     },
     {
       "title": "Telegram",
@@ -511,44 +593,6 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddf0\ud83c\uddfc The Kuwaiti airspace has been closed, airports are out of service.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-03T01:51:48+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddf0\ud83c\uddfc Breaking: Kuwait air defences responding to missile, drone strikes - Kuwaiti army",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-03T01:40:55+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
       ],
       "verified_source_count": 1
     },
@@ -726,6 +770,44 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
+      "text": "\u2721\ufe0f\ud83c\uddee\ud83c\uddf1 Israel\u2019s defense minister says there\u2019s no \u2018solution\u2019 to Gaza without expulsion of Palestinians\n\u201cIn the end, there is no real solution for Gaza without this migration,\u201d Israel Katz said at a conference Wednesday.\n\u201c80% want to emigrate. We are checking this in all kinds of surveys,\u201d Katz claimed. \u201cHamas isn\u2019t letting them and there are no countries in the world\nabsorbing them.\u201d\nIt\u2019s not clear where Katz got his \u201c80%\u201d figure. Independent polling from the Ramallah-based Palestinian Center for Policy and Survey Research found that\nonly 43-49% of Gazans want to leave, even after [Israel\u2019s genocidal war completely razed infrastructure across virtually the entire Strip. ](https://t.me/geopolitics_prime/73671)\n\ud83d\udc49 Katz boasted that a specially created IDF \u201cemigration directorate\u201d is at the ready \u201cto take out [Gazans] to the extent it will be possible, by sea, by air and by any\nmeans to do it,\u201d but that this is impossible without \u201cAmerican backing.\u201d\n\u201cAt the moment, Trump has not canceled it; he has frozen it. All the Arab countries came to him, because of the pressure over this issue, and said: \u2018we\u2019ll\ngive you whatever you want \u2013 investments\u2019. We\u2019ll give you the disarmament of Hamas in exchange for freezing it.\u201d\nImagine the nerve it must take to blame setbacks in your blatant ethnic cleansing campaign on others.\nKatz\u2019 eye-opening comments came the same day Netanyahu visited an IDF outpost in Gaza, and boasted that Israel controls \u201c60% of the Strip,\u201d with \u201cmore to come because we are eliminating the terrorists who threaten us.\u201d\n\u203c\ufe0f These \u201cterrorists\u201d apparently include the [300+ children killed in Gaza since the October 2025 \u201cceasefire,\u201d](https://t.me/geopolitics_prime/73732) and the deliberately targeted civilian infrastructure destroyed shortly after being rebuilt.\nIRGC Quds Force commander Esmail Qaani warned last month that Israel\u2019s unhinged cruelty in the occupied territories was a [\u201csocial cancer\u201d that would ultimately make its \u201ccollapse from within\u201d an inevitability.](https://t.me/geopolitics_prime/73580)\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-03T13:26:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\ude44\ud83e\udd14 Bessent claims Hormuz will be \u2018worthless\u2019 in two years: did he flunk grade school math?\u00a0\n\ud83d\udcac \u201cWe can see the Iranians are trying to use the Strait of Hormuz as a choke point. It\u2019s not a choke point for the US. But it is a chokepoint for many other countries. But that will be bypassed in two years,\u201d the Trump Treasury chief has said.\n\u201cIn two years, the Strait of Hormuz will be a worthless piece of water. The oil will be going on pipelines across land,\u201d Bessent promised.\nAny way you cut it, Bessent\u2019s math just doesn\u2019t add up.\n\u00a0\n1\ufe0f\u20e3 What are non-oil producing countries supposed to do while they wait for that missing 20% of global petroleum and LNG output? The world oil market has a ~5-6M bpd \u201cbuffer\u201d of spare capacity (sustainable, tappable within 30 days), the bulk of which is held by\u2026 Saudi Arabia, the UAE and Kuwait.\nSpare capacity in the rest of the world (US, Russia, Canada, Guyana, etc.) amounts to a maximum of ~2M bpd \u2013 a tenth of what\u2019s needed. Sustained for long enough, the 18% shortage could[ trigger economic collapse once reserves run out](https://t.me/geopolitics_prime/73503). And the US won\u2019t escape, because its producers prioritize sales to whoever pays the most, not domestic consumers.\n2\ufe0f\u20e3 Aside from the UAE (and the Saudis before the Houthis launched their Red Sea blockade), none of the other Gulf monarchy exporters can get their oil to market without Hormuz. Overland pipeline plans are a drop in the bucket compared to what\u2019s needed to make the Strait \u201cworthless\u201d:\n\ud83d\udee2 Iraq-Turkey: 750k bpd in deliveries agreed using existing infrastructure, up from ~170-190k bpd before the war. Plans to increase this to 1M+ bpd in ~2-3 years\n\ud83d\udee2 Iraq-Syria: 1.5-2M bpd in new export capacity planned for 2030. Price tag? Up to $15B\n\ud83d\udee2 Iraq-Jordan: ~1M bpd pipeline expansion scheduled for 2029 \u201cor beyond\u201d (read: a pipe dream with no major financial backing yet)\n\ud83d\udee2 UAE: 1.5-1.8M bpd expansion to its Hormuz-bypassing ADCOP pipeline, set to come online by 2027\nEven if all these projects materialized tomorrow and at maximum capacity, that still leaves ~13M bpd in unsatisfied demand.\nNot to mention the security risks involved in running new multi-billion-dollar pipeline infrastructure through [countries that have been on fire for much of the past 25 years.](https://t.me/geopolitics_prime/72986)\n3\ufe0f\u20e3 LNG can\u2019t be moved by pipeline, and building new conversion capacity is a financial no go (price tag in the hundreds of billions of dollars). Global LNG production was already at 95-97% utilization *before* the war cut the equivalent of 77-85M tons per year from the market.\n\u00a0\n4\ufe0f\u20e3 Besides energy, Hormuz also handles vital petrochemicals and fertilizers (1/3 of the global seaborne fertilizer trade). Synthetic nitrogen fertilizer requires what to produce? You guessed it \u2013 enormous reserves of cheap natural gas.\n\u00a0\n5\ufe0f\u20e3 Bessent\u2019s claim that Hormuz is \u201cnot a choke point for the US\u201d ignores the bigger picture: that the Asian industrial economies Americans rely on for everything from iPhones and Mitsubishis to SpongeBob waffle makers and glow-in-the-dark plastic garden gnomes need oil to function.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-03T12:02:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
       "text": "\ud83e\udd25\u26f4 Trump\u2019s Iran blockade is a \u2018logistics nightmare\u2019 for US Navy\nThe IRGC\u2019s timely counterstrikes on Naval Support Activity Bahrain in the very first hours of the war, and [threats against other carrier-ready facilities in the region ](https://t.me/geopolitics_prime/73973)in the days, weeks and months since[ knocked out a \u201ccritical\u201d logistics capability ](https://t.me/geopolitics_prime/70911)which the US Navy has been unable to get back.\nA new analysis has calculated that the US supply ships sailing for the carrier strike groups deployed in the Arabian Sea \u201cblockading\u201d Iran must travel 3.5k+ km from Diego Garcia in the Indian Ocean, or nearly 6k km from Singapore.\n\ud83d\udc49 Carriers and the warships escorting them are absolute gluttons when it comes to the amount of food, fuel and other supplies they consume, with NYT estimating that the ~20 ship fleet in the region is packed with ~20k sailors and Marines, requiring some 420k+ meals and 8M gallons of fuel every week just to stay afloat.\nThe warships have to resupply at sea every 5-6 days \u2013 a process rife with risks, including keeping ships on the same course for hours at a time as fuel is pumped aboard and pallets of food and supplies carried by tether or helicopter from supply ships.\n\ud83d\udcc9 The whole process is \u201cnot sustainable,\u201d with the US already rotating 4 of its 11 carriers in and out of the conflict, and some undergoing extensive repairs expected to take years to complete.\nThese calculations help explain [the USS Abraham Lincoln\u2019s record 270+ day deployment ](https://t.me/geopolitics_prime/73815)without a port call, which led to [a string of alarming incidents aboard the ship](https://t.me/geopolitics_prime/73771), from sailors attempting to jump overboard, to crew suffering from chronic sleep depravation from noise, flight operations and vibrations, to unsanitary living conditions, mold and supply shortages.\n\u27a1\ufe0f The Lincoln\u2019s teammate, the USS Ford, enjoyed nine port calls during its 326-day deployment, but suffered its own near-mutiny by the time its tour ended in May, including [a 30-hour laundry facility fire and chronic toilet clogs](https://t.me/geopolitics_prime/70557), which helped end its deployment.\nTrump complained in August that the Lincoln\u2019s deployment was \u201cnot nearly long enough,\u201d signaling complete detachment from and spite against the servicemen he promised to keep out of foreign wars on the campaign trail.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
@@ -770,44 +852,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-09-03T00:43:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\u274c Israel\u2019s Lebanese \u2018pilot zones\u2019: withdrawal plan in name only\n\u00a0\nLess than month-and-a-half into their implementation, the Israeli military\u2019s experimental \u2018pilot zones\u2019 in southern Lebanon are proving a total fiasco.\n\ud83d\udc49 Israeli media says Tel Aviv is \u201cdissatisfied\u201d with the Lebanese army\u2019s progress in \u201cdismantling Hezbollah\u201d in villages where the pilot zones have been implemented (something that would have probably been a whole lot easier if Hezbollah was actually included in the [\u201cceasefire deal\u201d](https://t.me/geopolitics_prime/70498) that created the zones).\nWorse yet, a US official told Kan that elements of Lebanon\u2019s cucked army don\u2019t actually want the IDF to leave southern Lebanon.\nThe army has faced a never-ending string of humiliations at the IDF\u2019s hands over the past month-and-a-half, with Israel firing warning shots in the vicinity of deploying troops, continuing shelling, bulldozing and restricting movement, and freely crossing in and out of pilot zones to erect new fortifications. At least eight Lebanese troops have been hurt so far operating in and clearing ordnance from the zones.\nAnother problem is there\u2019s no third-party verification mechanism for confirming that a pilot zone has been cleared of weapons and military infrastructure. A Lebanese military source told The Cradle Israel doesn\u2019t want UNIFIL or Europeans involved in verification, and covets the job for themselves. \ud83e\udd21\nThe zones\u2019 ultimate objective - to \u201cmove Hezbollah\u2019s infrastructure and weapons away from the Israeli border,\u201d will be problematic, as Hezbollah leader Naim Qassem considers the zones and the framework deal behind them \u201cillegitimate, unlawful, humiliating, [and] destructive to Lebanese sovereignty.\u201d\n\ud83d\udcac \u201cWe do not agree to the \u2018pilot zones\u2019 or to what comes from them. We will keep our heads high and we will not surrender,\u201d he vowed last week.\nThat\u2019s fine with Israel, which seems set on using the zones to permanently entrench themselves.\nBut that\u2019s probably alright with [Hezbollah](https://t.me/geopolitics_prime/73546), too, which always has the option of ramping up its FPV drone warfare, and knows [that occupation](https://t.me/geopolitics_prime/68413) can\u2019t be sustained forever (in 2000, the IDF suffered what was then the biggest attritional bloody nose in its history to the Shia militia \u2013 forced to pull out of Lebanon after 22 years).\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-02T17:54:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\u274c Beaten by Houthis on the battlefield, Epstein Coalition claims they\u2019re friends with al-Qaeda\n\u00a0\nAs Yemen\u2019s indefatigable besandaled warriors continue to tighten their grip on Saudi oil shipping in the Red Sea, pound merc positions and ramp up attacks on regional oil infrastructure, the kingdom\u2019s US allies have rolled out the big guns: legacy media.\nA new John le Carre-style WSJ expos\u00e9 titled \u201cWashington\u2019s Deadly New Headache: an al-Qaeda-Houthi Terrorist Alliance\u201d claims the Houthis have facilitated arms sales and training to al-Shabaab, an AQ-aligned Salafi-jihadist terror group operating in Somalia.\n\ud83d\udcac \u201cYou have al-Shabaab, al-Qaeda\u2019s largest and most lucrative affiliate, gaining access to more sophisticated weapons and training,\u201d AFRICOM commander Dagvin Anderson told the outlet.\n\ud83d\udde3 \u201cOn the other side, the Houthis are extending their geographic reach, gaining a foothold that could further destabilize one of the world\u2019s most critical economic chokepoints. This isn\u2019t just a regional problem. It has global implications.\u201d\nAddressing the elephant in the room, the Sunni-Shia schism, a former Somali intel chief assured the groups are united by a common hatred: \u201cthey hate the West, they hate Israel.\u201d\nUS and Israeli officials\u2019 attempts to link the Houthis to al-Qaeda are nothing new, going back to at least 2024, when AFRICOM, think tanks in DC, and West Point\u2019s \u2018Combating Terrorism Center\u2019 started reporting on the alleged ties.\nBut attempts to link the groups always run into the same problems with elementary logic:\n\u00a0\n\ud83d\udd36 Al-Shabaab\u2019s radical Sunni Salafist-jihadist ideology treats Houthis and Shia Muslims in general as heretics fit for slaughter. Houthis consider groups like Al-Shabaab Takfiris \u2013 murderous, dogmatic thugs who unjustly excommunicate and attack other Muslims and distort the true path of Islam.\n\ud83d\udd36 Houthis gained much of their domestic legitimacy fighting al-Qaeda in the Arabian Peninsula (AQAP), to the point of eradicating AQAP almost completely from Yemen\u2019s populous northern highlands, stripping them of their sanctuaries far more effectively than any US drone bombing campaign could.\n\ud83d\udd36 Houthis are members of the Iran-backed Axis of Resistance \u2013 a loose regional anti-imperialist, anti-Zionist alliance that has spent decades fighting al-Qaeda across the Middle East, from Iraq to Syria.\n\ud83d\udd36 Houthis and their allies see Salafist fanatics as covert tools of US imperialism, Israel and Gulf monarchies, used to fracture the Islamic world from within and export \u201ccontrolled chaos\u201d among their enemies.\nTheir evidence? [Al-Qaeda-style groups\u2019 hesitancy](https://t.me/geopolitics_prime/72986) in [attacking US](https://t.me/geopolitics_prime/56338) and Israeli interests, the focus of their genocidal violence almost exclusively on other Muslims and local Christians, their lack of interest in the Palestinian cause, and their use historically in false flag attacks.\n\ud83d\udc49 Houthis have experienced this duplicity first-hand. In 2018, media reported extensively that US-backed Gulf forces worked to co-opt AQAP fighters, offer them payoffs and safe passage in a string of corroborated incidents (Mukalla and Abyan in 2016, Shabwa in 2018), and even recruited fighters into Gulf-funded puppet forces to fight the Houthis (e.g. the UAE-backed Shabwa Elite Force militia).\nIn 2025, Ansar Allah leader Abdul-Malik al-Houthi put it bluntly: al-Qaeda-style Takfiri groups are \u201can American-Zionist scheme\u201d serving to tarnish the image of Islam.\n\ud83d\udcac \u201cHad the militants been genuine warriors and engaged in true jihad, they would have confronted the Israeli enemy. They are not pious; but rather criminals who adhere to falsehood,\u201d he said.\nDoes that sound like the leader of a group looking to forge an \u201calliance\u201d with an al-Qaeda offshoot?\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-02T16:23:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
