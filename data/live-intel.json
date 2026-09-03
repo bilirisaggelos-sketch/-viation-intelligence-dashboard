@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T23:35:48.745718+00:00",
+  "generated_at": "2026-09-03T01:29:52.800963+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -289,50 +289,31 @@
     {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
+      "text": "\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddfe\ud83c\uddea \u2014 The Houthis (Ansarallah) launched up to 8 ballistic missiles at Saudi-backed PLC positions in the Mokha countryside and the southern part of Al Khawkhah, western coastal Yemen.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-02T23:39:03+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
       "text": "Enemy drone intrusions in North-Western Iran. Currently being monitored by the air defense systems.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-09-02T16:47:47+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf7/\ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf6 NEW: Satellite imagery shows an Iranian impact at the troop billeting area at the U.S. base in Erbil International Airport\nThe spy balloon is also no longer visible on the imagery, with burn marks near its operating site confirming that it was struck.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-02T13:37:05+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\uddee\ud83c\uddf7 NEW: The Shahrud underground facility, one of Iran\u2019s largest solid-fuel ballistic missile production centers, is expanding more rapidly than ever before",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-02T08:14:00+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -397,6 +378,44 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Our Wars Today"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddfa\ud83c\uddf8\ud83c\uddef\ud83c\uddf4 \u2014 EGYOSINT: Recent satellite imagery shows a possible scorch mark directly on the runway at Prince Hassan Air Base in Jordan, along with additional possible burn scars near several hardened aircraft shelters.\nIf the runway mark is confirmed to have resulted from a direct Iranian ballistic missile impact, the damage could leave the runway temporarily inoperable while repairs are carried out.\nThe base hosts US MQ-4C long-range surveillance drones, which conduct regular intelligence and reconnaissance missions in the region, including near Iran.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-03T01:22:27+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf7\ud83d\udd34\ud83c\uddfa\ud83c\uddf3 \u2014 Baghaei: Reducing UN\u2019s Purpose to Preventing War Between Superpowers Is Dangerous\nIranian Foreign Ministry spokesman Esmaeil Baghaei criticized the idea that the United Nations should be judged primarily by whether it prevents wars between major powers, arguing that the UN Charter exists to protect all states from aggression.\n\u201cToday the Secretary-General appears to be shrinking the Organization\u2019s purpose to little more than \u2018avoiding a war between superpowers.\u2019\u201d\n\u201cThat minimalist reading is both misleading and dangerous.\u201d\nBaghaei said such an interpretation would make most UN members effectively irrelevant, excuse nearly every war and\n \u201cwhitewash the atrocities committed by so-called superpowers against everyone else.\u201d\nHe cited the wars and atrocities in Korea, Vietnam, Congo, Iraq, Afghanistan, Yemen, Sudan and Gaza, asking whether they would therefore count as UN \u201csuccesses\u201d simply because they were not direct wars between superpowers.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-03T01:13:53+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
       ],
       "verified_source_count": 1
     },
@@ -478,120 +497,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddfa\ud83c\uddf8\ud83c\uddef\ud83c\uddf4\ud83c\uddf0\ud83c\uddfc Iran launched missile and drone barrage towards US interests at Jordan and Kuwait\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-02T00:21:07+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf7\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddfa\ud83c\uddf8\ud83c\uddf9\ud83c\uddf7Islamic Revolutionary Guard Corps (IRGC):\nBrave fighters from the IRGC's ground forces launched a combined attack using missiles and drones on American bases in Erbil, resulting in the destruction of a repair center and storage facilities for technical equipment belonging to the American terrorist army. They also destroyed the guidance system of an American surveillance balloon at the base. Furthermore, the brave ground force fighters set fuel tanks at the base on fire and killed a number of aggressors.\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-01T23:49:20+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddfa\ud83c\uddf8\ud83c\udde7\ud83c\udded Drones launched from Iran arrived at Bahrain explosions were heard at Bahrain \n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-01T23:25:46+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf7\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddfa\ud83c\uddf8\ud83c\uddef\ud83c\uddf4Islamic Revolutionary Guard Corps (IRGC):\nFighters from the Air Force of the Iranian Islamic Revolutionary Guard Corps launched an intense missile attack using ballistic missiles against sites housing RQ-4 and MQ-9 reconnaissance drones at the American airbase in Jordan, known as Prince Hassan. This resulted in the destruction of a number of drones, and the deaths of several pilots and technicians.\n\ud83d\udd39\ufe0fIn addition, several technical infrastructure facilities were set on fire.\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-01T22:57:20+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddf9\ud83c\uddf7 Iran launched drone barrage towards Iraqi Kurdistan impacts reported\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-01T22:28:16+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddfa\ud83c\uddf8\ud83c\uddf0\ud83c\uddfc Iranian Launched an suicide drone and missile barrage towards US interests in Kuwait\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-01T22:12:57+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "CASELS",
       "text": "Ukraine's Air Force reported on an overnight attack.\nShot down:\n0/2 Iskander-M ballistic missiles\n0/2 Kh-59/69 cruise missiles\n141/174 Attack UAVs of multiple sorts (including 3 shot down Banderol S-8000 mini cruise missiles)\nHits by missiles and attack UAVs were recorded at 16 locations, and debris from downed objects fell on 4 locations.",
       "source": "Telegram",
@@ -644,6 +549,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udca5 Iran\u2019s LEGO crew mocks Trump over \u201csurprise\u201d mine-laying missiles\n\ud83d\udcac \u201cThey were trying to build a rocket that drops mines. Who does that?\u201d Demented Don said, apparently flabbergasted.\nIran unveiled such missiles years ago.\n\ud83d\udcac \u201cYou haven\u2019t even seen our new surprises yet =)\u201d Iranian LEGO-style animators teased.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-03T00:43:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
