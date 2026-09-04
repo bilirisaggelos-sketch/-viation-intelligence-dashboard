@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T23:29:14.568679+00:00",
+  "generated_at": "2026-09-04T01:18:55.859023+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -230,14 +230,14 @@
       "verified_source_count": 1
     },
     {
-      "title": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany",
-      "text": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany\nRussia is accused of growing increasingly reckless after Berlin blamed Russia for a failed drone attack on Leipzig airport.",
+      "title": "US investigating if missile hit Iran wedding, Vance says",
+      "text": "US investigating if missile hit Iran wedding, Vance says\nThe Iranian Red Crescent Society (IRCS) said shrapnel from a missile hit the ceremony and killed four people on Tuesday.",
       "source": "BBC",
       "source_type": "osint",
       "publisher": "BBC World News",
       "severity": "info",
       "icon": "\ud83d\udcf0",
-      "timestamp": "2026-09-03T03:21:24+00:00",
+      "timestamp": "2026-09-03T22:19:59+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -333,25 +333,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-09-03T12:16:51+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddfe\ud83c\uddea \u2014 The Houthis (Ansarallah) launched up to 8 ballistic missiles at Saudi-backed PLC positions in the Mokha countryside and the southern part of Al Khawkhah, western coastal Yemen.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-02T23:39:03+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -770,25 +751,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-09-03T17:34:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\u2721\ufe0f\ud83c\uddee\ud83c\uddf1 Israel\u2019s defense minister says there\u2019s no \u2018solution\u2019 to Gaza without expulsion of Palestinians\n\u201cIn the end, there is no real solution for Gaza without this migration,\u201d Israel Katz said at a conference Wednesday.\n\u201c80% want to emigrate. We are checking this in all kinds of surveys,\u201d Katz claimed. \u201cHamas isn\u2019t letting them and there are no countries in the world\nabsorbing them.\u201d\nIt\u2019s not clear where Katz got his \u201c80%\u201d figure. Independent polling from the Ramallah-based Palestinian Center for Policy and Survey Research found that\nonly 43-49% of Gazans want to leave, even after [Israel\u2019s genocidal war completely razed infrastructure across virtually the entire Strip. ](https://t.me/geopolitics_prime/73671)\n\ud83d\udc49 Katz boasted that a specially created IDF \u201cemigration directorate\u201d is at the ready \u201cto take out [Gazans] to the extent it will be possible, by sea, by air and by any\nmeans to do it,\u201d but that this is impossible without \u201cAmerican backing.\u201d\n\u201cAt the moment, Trump has not canceled it; he has frozen it. All the Arab countries came to him, because of the pressure over this issue, and said: \u2018we\u2019ll\ngive you whatever you want \u2013 investments\u2019. We\u2019ll give you the disarmament of Hamas in exchange for freezing it.\u201d\nImagine the nerve it must take to blame setbacks in your blatant ethnic cleansing campaign on others.\nKatz\u2019 eye-opening comments came the same day Netanyahu visited an IDF outpost in Gaza, and boasted that Israel controls \u201c60% of the Strip,\u201d with \u201cmore to come because we are eliminating the terrorists who threaten us.\u201d\n\u203c\ufe0f These \u201cterrorists\u201d apparently include the [300+ children killed in Gaza since the October 2025 \u201cceasefire,\u201d](https://t.me/geopolitics_prime/73732) and the deliberately targeted civilian infrastructure destroyed shortly after being rebuilt.\nIRGC Quds Force commander Esmail Qaani warned last month that Israel\u2019s unhinged cruelty in the occupied territories was a [\u201csocial cancer\u201d that would ultimately make its \u201ccollapse from within\u201d an inevitability.](https://t.me/geopolitics_prime/73580)\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-03T13:26:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
