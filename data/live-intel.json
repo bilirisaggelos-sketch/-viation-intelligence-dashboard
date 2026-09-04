@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T15:08:27.721639+00:00",
+  "generated_at": "2026-09-04T18:27:45.910553+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -268,6 +268,25 @@
       "verified_source_count": 1
     },
     {
+      "title": "Russia hits Ukrainian security headquarters in drone attack, Zelensky says",
+      "text": "Russia hits Ukrainian security headquarters in drone attack, Zelensky says\nThe unmanned aerial vehicle struck without warning in the heart of the Ukrainian capital.",
+      "source": "BBC",
+      "source_type": "osint",
+      "publisher": "BBC World News",
+      "severity": "info",
+      "icon": "\ud83d\udcf0",
+      "timestamp": "2026-09-04T16:02:32+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "BBC World News"
+      ],
+      "verified_source_count": 1
+    },
+    {
       "title": "US investigating if missile hit Iran wedding, Vance says",
       "text": "US investigating if missile hit Iran wedding, Vance says\nThe Iranian Red Crescent Society (IRCS) said shrapnel from a missile hit the ceremony and killed four people on Tuesday.",
       "source": "BBC",
@@ -289,6 +308,122 @@
     {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
+      "text": "\u2757\ufe0f\ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7 Cruise missiles towards U.S. Navy vessels in the Gulf of Oman\nLikely to suppress the carrier strike group from launching a counterattack.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-04T16:56:16+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddef\ud83c\uddf4/\ud83c\uddee\ud83c\uddf7/\ud83c\uddfa\ud83c\uddf8 Ballistic missiles currently in the skies above Jordan",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-04T16:50:19+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf7/\ud83c\uddef\ud83c\uddf4/\ud83c\uddfa\ud83c\uddf8 BREAKING: Iran has carried out a surprise ballistic missile strike against U.S. bases in Jordan",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-04T16:48:56+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "CONFIRMED: An anti-ship ballistic missile was launched at violating vessels in the Strait of Hormuz.\nThis marks the third anti-ship ballistic missile launched by Iran today, and a clear change in strategy from only launching drones and cruise missiles.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-04T16:04:38+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "Possibly anti-ship ballistic missiles towards the Strait of Hormuz, targeting ship-to-ship oil transfers.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-04T15:55:44+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf7 BREAKING: Ballistic missile launches from Iran",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-04T15:54:59+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
       "text": "\u2014 \ud83c\uddee\ud83c\uddf7/\ud83c\uddfa\ud83c\uddf8 NEW: Two missiles were apparently launched from Iran towards the Strait of Hormuz\nBased on the trajectory, these are not ordinary anti-ship cruise missiles but rather ballistic missiles, tipped with anti-ship warheads.\nThis indicates Iran possibly attempted to target stationary ship-to-ship (STS) transfers for the first time, in an effort to crack down on illicit oil trade through the Strait of Hormuz.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -301,7 +436,7 @@
       "verification_status": "PARTIALLY VERIFIED",
       "verification_confidence": 65,
       "verified_sources": [
-        "Alsaa Plus EN",
+        "Mediterranean Man",
         "Middle East Spectator"
       ],
       "verified_source_count": 2
@@ -346,70 +481,13 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\uddee\ud83c\uddf1/\ud83c\uddf1\ud83c\udde7 NOTE: Claims that IRGC commanders were present at the underground complex, or that Iran had threatened Israel with war in case it captured Ali Al-Taher hill, are all false\nRas Zimmt, former senior IDF commander & current Director of Israel\u2019s Institute for National Security Studies (INSS) says the following:\n\u2018There is no indication of the presence of \u2018dozens of IRGC members\u2019, let alone two senior Iranian officers, in Ali al-Taher hill.\nIsrael itself, which in fact has an interest in demonstrating Iranian involvement in Hezbollah\u2019s fighting, has denied that Iranian fighters are present.\nThere has also been no unusual statement by senior Iranian officials indicating an intention to respond to Israeli activity in Ali al-Taher.\u2019",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-03T18:14:07+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "The fact that a general was killed in a drone strike on a TEL means that he was most likely part of the missile launch crew himself, alongside his men.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-03T12:23:53+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\uddee\ud83c\uddf7 NEW: In the U.S. attack on Iran two nights ago, four IRGC personnel were also killed, including two members of the Aerospace Force\nThis happened in Kermanshah, which means they were likely working at a missile site. One of them held the rank of general.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-03T12:16:51+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Trump reposts:\nHow Trump can help Ukraine build its own Patriot missiles.",
+      "text": "The Trump administration is drafting a post-war Middle East strategy aimed at containing Iran, stabilizing the region and expanding ties between Israel and Arab states.\nThe plan could include a U.S.-backed regional alliance, Gaza and Israel-Syria/Lebanon deals, and Saudi-Israeli normalization.\nThe strategy is still in its early stages and is expected to take several more weeks to finalize.\nSource: Axios",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-04T13:51:55+00:00",
+      "timestamp": "2026-09-04T18:16:39+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -423,42 +501,78 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "WATCH: The moment a Russian drone struck the central SBU building in the heart of Kyiv.",
+      "text": "NEW: The US Air Force is fast-tracking a cheap, expendable drone to replace the MQ-9 Reaper. \nThe new \"Massed Modular Aircraft\" would cost about $10 million \u2014 a third of a Reaper \u2014 with at least 180 planned. \nThe reason: 45 Reapers lost in the Iran war, about 25% of the fleet, over $1 billion gone. \nProduction ended in 2025 so there's no way to replace them. \nA top general said they're going through Reapers \"at a rate that is concerning.\"",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-04T13:27:47+00:00",
+      "timestamp": "2026-09-04T16:03:54+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
         "Clash Report"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "NEW: A Russian drone struck the central building of Ukraine\u2019s Security Service (SBU) on Volodymyrska Street in Kyiv, opposite St. Sophia\u2019s Cathedral, Zelensky says.\nThe drone reportedly targeted SBU chief Poklad\u2019s office.",
+      "text": "NOW: Iran appears to have fired missiles again. \nTarget not yet confirmed.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-04T13:23:06+00:00",
+      "timestamp": "2026-09-04T16:02:30+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
         "Clash Report"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Explosive devices were found near overhead power lines at two substations in Saxony\u2019s G\u00f6rlitz district, Germany, raising fears of further sabotage.\nOn September 2, similar rocket-like devices were found damaging power lines at a substation in Brandenburg, about 50 km away, while another sabotage attack targeted a substation near Bergheim, close to Cologne. \nPolice are investigating.\nSource: BILD",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-04T16:00:38+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "BIG: Iran appears more confident after six months of war with the U.S., according to recent U.S. intelligence assessments.\nTehran believes it has learned the limits of American military power, retained enough missiles and drones to keep fighting, and gained leverage by disrupting the Strait of Hormuz.\nThe broader assessment is that Iran sees little reason to negotiate now. \nInstead, it may try to prolong the conflict through the U.S. midterm elections, betting that high energy prices, casualties and an unpopular war will weaken President Trump politically.\nSource: NYT",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-04T15:54:34+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -520,12 +634,12 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf7\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8 Reports of missile launched from Iran to strait of hormuz\n\u26aa\ufe0f",
+      "text": "\ud83c\uddee\ud83c\uddf7\u26a1\ufe0f \u2014 A cruise missile was launched from Iran\u2019s Sirik area in southern Iran toward the Strait of Hormuz.\n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-04T14:24:52+00:00",
+      "timestamp": "2026-09-04T17:03:20+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -540,70 +654,107 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddfa\ud83c\uddf8\ud83c\uddef\ud83c\uddf4 \u2014 Jordanian air defenses are attempting to intercept missiles launched from Iran.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-04T16:57:07+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddfe\ud83c\uddea\ud83c\uddfe\ud83c\uddea\u26a1\ufe0f \u2014 The Ansar Allah movement (Houthis) targeted positions of the Saudi-backed Southern Transitional Council with two ballistic missiles in Yemen\u2019s Al Hudaydah Governorate.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-04T16:30:36+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf7\u26a1\ufe0f Two missiles launched from Iran\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-04T16:02:53+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf7\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8 Reports of missile Launch from Iran\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-04T15:56:47+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf7\u26a1\ufe0f Reports of missile launched from Iran to strait of hormuz\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-04T14:24:52+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
       "text": "\ud83c\uddf7\ud83c\uddfa\u274c\ud83c\uddfa\ud83c\udde6 \u2014 WATCH: The moment a Russian drone struck the central SBU building in the heart of Kyiv.\n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-09-04T13:36:57+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Clash Report"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddfa\ud83c\uddf8\ud83d\udcb8\ud83d\udcc9 Record Profits Expose Who America\u2019s Economy Really Serves\nUS corporate profits reached an annualized $4.8T in the second quarter, equal to 18% of national income\u2014the highest share since the years immediately after World War II. Real GDP grew at only a 1.5% annual rate. Corporate America is pulling record profits out of a sluggish economy by claiming more of the income it produces.\nWorkers received the other side of that record. Wages and benefits fell to 60% of national income, their lowest share since the 1950s. Real average hourly earnings were also 0.2% lower in July than a year earlier.\nWall Street barely noticed. Stocks climbed to new highs as the AI boom filled Big Tech\u2019s coffers and [the war against Iran raised fuel prices and oil-company margins.](https://t.me/newrulesgeo/2629) Those gains go overwhelmingly to households already sitting at the top: the wealthiest 10% of Americans own roughly 87% of the stock market, while the bottom half owns just 1.1%.\nThe pay gap inside major companies is even harder to disguise. CEOs at the 100 lowest-paying corporations in the S&P 500 collected an average $17.5M last year. Their median employee made $36,571\u2014a ratio of 614 to one.\nBetween 2019 and 2025, CEO compensation at those companies rose 41.4%. Median worker pay increased only 20.7%, failing to keep pace with the 25.9% rise in prices. Walmart spent $8.1B buying back its own shares in 2025, enough to give every employee a $3,851 bonus. Its CEO made 958 times the company\u2019s median worker.\nAmerican labor has fewer tools to demand a larger share. Only 10% of workers belonged to a union in 2025, down from 20.1% in 1983. [Outsourcing has moved more jobs to contractors](https://t.me/newrulesgeo/2523), while stock-heavy executive packages reward managers for raising share prices through buybacks and cost-cutting.\nTrump\u2019s economic policy is pushing in the same direction. The 2025 reconciliation law [extended tax cuts and reduced taxes for many businesses](https://t.me/newrulesgeo/2464) The Congressional Budget Office says households near the bottom will lose resources, while those in the middle and at the top gain. It estimates that federal and state in-kind benefits will fall by $900B through 2034, largely through Medicaid and food assistance.\nThe White House now complains about price gouging and corporate profiteering. Its own policies [leave workers with less bargaining power, thinner benefits and falling real hourly pay](https://t.me/newrulesgeo/2602) while corporate margins reach levels unseen in generations.\nCorporate America is squeezing record profits from an economy growing at only 1.5%. Margins, buybacks and executive pay are surging as workers lose purchasing power, bargaining power and basic support. The boom exists at the top.\n us on X](https://x.com/NewRulesGeo?t=6cJ2ZyQr-1f_lBvKPNggKw&s=09)",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-04T12:29:11+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf7\u26a1\ufe0fReports of missile launched from Iran to strait of Hormuz\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-03T16:23:52+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf7\ud83e\udd1d\ud83c\uddf1\ud83c\udde7 Iran told the U.S. it will strike Israel if the IDF tries to conquer the strategic Ali al-Taher ridge in southern Lebanon\nIran has warned the United States that it would respond forcefully to an Israeli offensive on a mountainous ridge in southern \u200bLebanon where Iranian military personnel are holed up alongside Hezbollah fighters, three officials briefed on the message told Reuters.\nThe message, delivered last month, highlights Iran's continued direct \u200cinvolvement in the ground fighting in southern Lebanon and its readiness to retaliate against Israeli attacks there as the regional war enters its seventh month.\nHezbollah is believed to have built an underground command center and weapons stores within the Ali al-Taher ridge, which has a commanding view of southeastern Lebanon, according to Lebanese security sources, and has become one of the most contested pieces of ground in the Israel-Hezbollah war.\nHezbollah has said in public statements that it controls the hill and will \u200bconfront any Israeli advances. Its officials have referred to a \"facility\" there, but have declined to provide details.\nThe Israeli military has occupied swathes of territory to Ali al-Taher's south and has \u200bidentified the ridge as one of its \"primary operational focuses\" in public statements.\nIn its message to Washington, Tehran threatened that any full-fledged Israeli offensive on the ridge \u2060would be met with a large-scale Iranian attack, said the three officials in the region, who spoke to Reuters on condition of anonymity.\nThe IDF failed several times to conquer the ridge, losing dozens of tanks and armoured vehicles and a few KIA to Hezbollah drones and IEDs.\n\ud83d\udd17 https://www.reuters.com/world/middle-east/iran-warns-us-against-israeli-attack-south-lebanon-ridge-held-by-hezbollah-2026-09-03/",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-03T08:33:15+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -617,12 +768,70 @@
     {
       "title": "Telegram",
       "publisher": "Mediterranean Man",
-      "text": "The war with the missiles and drones may have calmed down,\nbut the war on the keyboard stays up and running.",
+      "text": "I do not get why people think GTA 6 will be woker than say, GTA 4\nNiko Bellic befriended a Jamaican, a Homosexual, and his cousin was into cuckery, whom he supported.\nThis is literally as Woke as a Slavic person will ever be.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-04T08:01:02+00:00",
+      "timestamp": "2026-09-04T17:59:17+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ufe0f\ud83c\uddef\ud83c\uddf4Reports of a missile attack on American targets in northern Jordan.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-04T16:48:53+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ud83c\uddee\ud83c\uddf7 Missile was launched at a ship in the Strait of Hormuz that's violating the Iranian blockade.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-04T16:07:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Mediterranean Man",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7\u2757\ufe0fIranian Ballistic Missiles are being launched!",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-04T15:55:45+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -706,44 +915,6 @@
       "verification_confidence": 30,
       "verified_sources": [
         "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udea8\ud83c\uddf7\ud83c\uddfa Russia strikes Security Service of Ukraine (SBU) headquarters in downtown Kiev - Ukrainian media\nThe SBU is the body responsible for organizing terrorist attacks inside Russia. \nThe drone was sent straight at SBU Director Alexander Poklad's office.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-04T13:17:27+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udde3\ud83c\uddee\ud83c\uddf7Araghchi dismantles Jordan\u2019s \u2018Iranian aggression\u2019 claims\n\u00a0\n\ud83d\udcac \u201cHow much time does the Jordanian Foreign Minister believe Iran should wait before responding to an aggressor that respects neither Arab sovereignty nor Iranian sovereignty?\u201d foreign minister Abbas Araghchi tweeted Friday.\n\u201cAnd is he truly unaware that Arab airspace, lands, and waters were used in the initial American attacks that resulted in the killing of innocent Iranians?\u201d the diplomat asked.\n\ud83d\udc49 Araghchi\u2019s remarks were a response to his Jordanian counterpart Ayman Safadi, who claimed Wednesday that Iran launched an \u2018unprovoked attack\u2019 on Jordan and other countries in the region hours after the conflict began in February, and that the counterstrikes were unjustified.\n\ud83d\udd0a \u201cIran has been attacking us and many other countries in the region long before this war even started\u2026So we do not buy their argument. We are a sovereign country. We are not a party to this war,\u201d he added.\n\u00a0\nNot a party to the war? Is that what they\u2019re calling serving as the Epstein coalition\u2019s puppet these days?\nIn the multiple rounds of escalation between 2024-2026, Jordan has:\n\u2666\ufe0f repeatedly scrambled its air force to shield Israel from incoming Iranian drones and missiles\n\u2666\ufe0f hosted heavy concentrations of US troops and equipment, including the US Air Force\u2019s 332nd Air Expeditionary Wing, surveillance and special forces units, plus a Marine Corps training camp\n\u2666\ufe0f opened its doors to US forces forced to evacuate from the Gulf as the big war began, to the point that US aircraft were packed into Muwaffaq Salti Air Base wingtip-to-wingtip\n\u2666\ufe0f allowed the US to deploy sophisticated intel, radar and kill chain targeting equipment (AN/TPY-2 tracking radar, AN/MPQ-65 engagement radars, spy drones and command nodes)\n\u00a0\nWhat has Jordan received for its troubles? Slashed aid budgets, [Israel cutting off its water supplies ](https://t.me/geopolitics_prime/71785)(so much for the humiliating 1994 peace treaty), and being caught in the crossfire of war and peace decisions made in Washington and Tel Aviv.\nWith friends like these, who needs enemies.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-04T11:57:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
