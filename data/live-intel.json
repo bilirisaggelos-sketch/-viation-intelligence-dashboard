@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T18:27:45.910553+00:00",
+  "generated_at": "2026-09-04T20:59:26.636473+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -173,6 +173,44 @@
       "verified_source_count": 1
     },
     {
+      "title": "Space Weather Message Code: ALTTP4\r",
+      "text": "Space Weather Message Code: ALTTP4\r\nSerial Number: 717\r\nIssue Time: 2026 Sep 04 2007 UTC\r\n\r\nALERT: Type IV Radio Emission \nBegin Time: 2026 Sep 04 1924 UTC\nComment:",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-09-04 20:07:08.480",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Space Weather Message Code: ALTTP2\r",
+      "text": "Space Weather Message Code: ALTTP2\r\nSerial Number: 1528\r\nIssue Time: 2026 Sep 04 2006 UTC\r\n\r\nALERT: Type II Radio Emission \nBegin Time: 2026 Sep 04 1922 UTC\nEstimate Velocity: 698 km/s\nComment:",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-09-04 20:06:40.117",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
       "title": "Space Weather Message Code: ALTEF3\r",
       "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3735\r\nIssue Time: 2026 Sep 04 1208 UTC\r\n\r\nCONTINUED ALERT: Electron 2MeV Integral Flux exceeded 1,000pfu\nContinuation of Serial Number: 3734\nBegin Time: 2026 Aug 31 1146 UTC\nYesterday Maximum 2MeV Flux: 830 pfu\nMax time: 2026 Sep 04 1200 UTC",
       "source": "NOAA Space Weather",
@@ -219,44 +257,6 @@
       "severity": "warning",
       "icon": "\ud83d\udef0\ufe0f",
       "timestamp": "2026-09-03 10:31:48.890",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Space Weather Message Code: ALTTP4\r",
-      "text": "Space Weather Message Code: ALTTP4\r\nSerial Number: 716\r\nIssue Time: 2026 Sep 02 1955 UTC\r\n\r\nALERT: Type IV Radio Emission \nBegin Time: 2026 Sep 02 1920 UTC\nComment:",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-09-02 19:55:34.340",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Space Weather Message Code: ALTTP2\r",
-      "text": "Space Weather Message Code: ALTTP2\r\nSerial Number: 1526\r\nIssue Time: 2026 Sep 02 1945 UTC\r\n\r\nALERT: Type II Radio Emission \nBegin Time: 2026 Sep 02 1919 UTC\nEstimate Velocity: 1,181 km/s\nComment:",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-09-02 19:45:39.563",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -377,7 +377,7 @@
       "verification_status": "PARTIALLY VERIFIED",
       "verification_confidence": 65,
       "verified_sources": [
-        "Alsaa Plus EN",
+        "Mediterranean Man",
         "Middle East Spectator"
       ],
       "verified_source_count": 2
@@ -397,7 +397,7 @@
       "verification_status": "PARTIALLY VERIFIED",
       "verification_confidence": 65,
       "verified_sources": [
-        "Alsaa Plus EN",
+        "Mediterranean Man",
         "Middle East Spectator"
       ],
       "verified_source_count": 2
@@ -482,12 +482,12 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "The Trump administration is drafting a post-war Middle East strategy aimed at containing Iran, stabilizing the region and expanding ties between Israel and Arab states.\nThe plan could include a U.S.-backed regional alliance, Gaza and Israel-Syria/Lebanon deals, and Saudi-Israeli normalization.\nThe strategy is still in its early stages and is expected to take several more weeks to finalize.\nSource: Axios",
+      "text": "Former Israeli PM Naftali Bennett:\nWe don\u2019t need to take any drastic ideological turns.\nYou know, no Palestinian state, but we don\u2019t have to annex all of Judea and Samaria (the West Bank) tomorrow.\nWhat we need is to fix Israel.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-04T18:16:39+00:00",
+      "timestamp": "2026-09-04T19:42:55+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -501,69 +501,12 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "NEW: The US Air Force is fast-tracking a cheap, expendable drone to replace the MQ-9 Reaper. \nThe new \"Massed Modular Aircraft\" would cost about $10 million \u2014 a third of a Reaper \u2014 with at least 180 planned. \nThe reason: 45 Reapers lost in the Iran war, about 25% of the fleet, over $1 billion gone. \nProduction ended in 2025 so there's no way to replace them. \nA top general said they're going through Reapers \"at a rate that is concerning.\"",
+      "text": "Trump on Iran:\nWe lost 18 great souls. I got very friendly with some of the families.\nIn Vietnam, we lost tens of thousands of people. In Afghanistan, we lost a lot. \nSleepy Joe Biden lost 13 just by standing at an airport.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-04T16:03:54+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "NOW: Iran appears to have fired missiles again. \nTarget not yet confirmed.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-04T16:02:30+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Explosive devices were found near overhead power lines at two substations in Saxony\u2019s G\u00f6rlitz district, Germany, raising fears of further sabotage.\nOn September 2, similar rocket-like devices were found damaging power lines at a substation in Brandenburg, about 50 km away, while another sabotage attack targeted a substation near Bergheim, close to Cologne. \nPolice are investigating.\nSource: BILD",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-04T16:00:38+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "BIG: Iran appears more confident after six months of war with the U.S., according to recent U.S. intelligence assessments.\nTehran believes it has learned the limits of American military power, retained enough missiles and drones to keep fighting, and gained leverage by disrupting the Strait of Hormuz.\nThe broader assessment is that Iran sees little reason to negotiate now. \nInstead, it may try to prolong the conflict through the U.S. midterm elections, betting that high energy prices, casualties and an unpopular war will weaken President Trump politically.\nSource: NYT",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-04T15:54:34+00:00",
+      "timestamp": "2026-09-04T19:20:48+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -634,136 +577,79 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf7\u26a1\ufe0f \u2014 A cruise missile was launched from Iran\u2019s Sirik area in southern Iran toward the Strait of Hormuz.\n\u26aa\ufe0f",
+      "text": "\ud83c\uddee\ud83c\uddf1\u274c\ud83c\uddf1\ud83c\udde7\ud83c\uddf1\ud83c\udde7 \u2014 Israeli Defense Forces (IDF): We intercepted a drone launched by Hezbollah toward our forces in the security zone, and we are currently responding with airstrikes.\n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-04T17:03:20+00:00",
+      "timestamp": "2026-09-04T20:16:00+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf7\u26a1\ufe0f Reports of five missiles being launched from Sirik Island in southern Iran toward the Strait of Hormuz.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-04T19:58:32+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ud83c\uddee\ud83c\uddf7 Five missiles were launched from Serik.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-04T20:00:23+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ud83c\uddee\ud83c\uddf7 The explosions caused by the launch of missiles towards the Strait of Hormuz.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-04T19:57:24+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "PARTIALLY VERIFIED",
       "verification_confidence": 65,
       "verified_sources": [
-        "Alsaa Plus EN",
+        "Mediterranean Man",
         "Middle East Spectator"
       ],
       "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddfa\ud83c\uddf8\ud83c\uddef\ud83c\uddf4 \u2014 Jordanian air defenses are attempting to intercept missiles launched from Iran.\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-04T16:57:07+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddfe\ud83c\uddea\ud83c\uddfe\ud83c\uddea\u26a1\ufe0f \u2014 The Ansar Allah movement (Houthis) targeted positions of the Saudi-backed Southern Transitional Council with two ballistic missiles in Yemen\u2019s Al Hudaydah Governorate.\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-04T16:30:36+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf7\u26a1\ufe0f Two missiles launched from Iran\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-04T16:02:53+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf7\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8 Reports of missile Launch from Iran\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-04T15:56:47+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf7\u26a1\ufe0f Reports of missile launched from Iran to strait of hormuz\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-04T14:24:52+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddf7\ud83c\uddfa\u274c\ud83c\uddfa\ud83c\udde6 \u2014 WATCH: The moment a Russian drone struck the central SBU building in the heart of Kyiv.\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-04T13:36:57+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
     },
     {
       "title": "Telegram",
