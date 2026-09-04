@@ -1,6 +1,63 @@
 {
-  "generated_at": "2026-09-04T11:40:04.748449+00:00",
+  "generated_at": "2026-09-04T15:08:27.721639+00:00",
   "events": [
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nMAYPORT, FL\nFacility: ZJX",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "09/04/2026",
+      "location": "ZJX FL",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nManhattan, NY, Wednesday, September 9, 2026 through Thursday, September 10, 2026 Local\nFacility: ZNY",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "09/04/2026",
+      "location": "ZNY NY",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nDallas, TX, Tuesday, September 8, 2026 through Friday, September 11, 2026 Local\nFacility: ZFW",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "09/04/2026",
+      "location": "ZFW TX",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nMorristown, NJ, Friday, September 4, 2026 through Monday, September 7, 2026 Local\nFacility: ZNY",
@@ -116,6 +173,25 @@
       "verified_source_count": 1
     },
     {
+      "title": "Space Weather Message Code: ALTEF3\r",
+      "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3735\r\nIssue Time: 2026 Sep 04 1208 UTC\r\n\r\nCONTINUED ALERT: Electron 2MeV Integral Flux exceeded 1,000pfu\nContinuation of Serial Number: 3734\nBegin Time: 2026 Aug 31 1146 UTC\nYesterday Maximum 2MeV Flux: 830 pfu\nMax time: 2026 Sep 04 1200 UTC",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-09-04 12:08:53.197",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
       "title": "Space Weather Message Code: ALTTP2\r",
       "text": "Space Weather Message Code: ALTTP2\r\nSerial Number: 1527\r\nIssue Time: 2026 Sep 03 1644 UTC\r\n\r\nALERT: Type II Radio Emission \nBegin Time: 2026 Sep 03 1629 UTC\nEstimate Velocity: 1,359 km/s\nComment:",
       "source": "NOAA Space Weather",
@@ -192,25 +268,6 @@
       "verified_source_count": 1
     },
     {
-      "title": "Space Weather Message Code: ALTEF3\r",
-      "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3733\r\nIssue Time: 2026 Sep 02 1014 UTC\r\n\r\nCONTINUED ALERT: Electron 2MeV Integral Flux exceeded 1,000pfu\nContinuation of Serial Number: 3732\nBegin Time: 2026 Aug 31 1146 UTC\nYesterday Maximum 2MeV Flux: 1201 pfu\nMax time: 2026 Sep 02 1000 UTC",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-09-02 10:14:14.613",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
       "title": "US investigating if missile hit Iran wedding, Vance says",
       "text": "US investigating if missile hit Iran wedding, Vance says\nThe Iranian Red Crescent Society (IRCS) said shrapnel from a missile hit the ceremony and killed four people on Tuesday.",
       "source": "BBC",
@@ -228,6 +285,26 @@
         "BBC World News"
       ],
       "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014 \ud83c\uddee\ud83c\uddf7/\ud83c\uddfa\ud83c\uddf8 NEW: Two missiles were apparently launched from Iran towards the Strait of Hormuz\nBased on the trajectory, these are not ordinary anti-ship cruise missiles but rather ballistic missiles, tipped with anti-ship warheads.\nThis indicates Iran possibly attempted to target stationary ship-to-ship (STS) transfers for the first time, in an effort to crack down on illicit oil trade through the Strait of Hormuz.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-04T14:46:47+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -327,12 +404,12 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "WATCH: T\u00fcrkiye's ASELSAN demonstrated its laser-guided bomb kits in front of military officials from 15+ countries.\nFour shots, four direct hits.\nTwo LGK-84s dropped from an F-16 hit armored vehicle and tank targets, an LGK-82 launched from an Ak\u0131nc\u0131 drone hit another armored target, and a G\u00d6ZDE kit struck a target moving at 50 km/h. \nAll precision hits confirmed.",
+      "text": "Trump reposts:\nHow Trump can help Ukraine build its own Patriot missiles.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-04T11:38:28+00:00",
+      "timestamp": "2026-09-04T13:51:55+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -346,21 +423,42 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "2 km from T\u00fcrkiye. 580 km from Greece. \nAnd yet it claims 40,000 km\u00b2 of sea.\nKastellorizo \u2014 a tiny island right off the Turkish coast \u2014 is being used to cut off 1,577 km of T\u00fcrkiye's Mediterranean coastline.\nAnd, the 1947 Paris Treaty says it must stay demilitarized. \nToday? Greek missile boats armed with Exocets patrol its waters.",
+      "text": "WATCH: The moment a Russian drone struck the central SBU building in the heart of Kyiv.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-04T10:26:02+00:00",
+      "timestamp": "2026-09-04T13:27:47+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
+        "Alsaa Plus EN",
         "Clash Report"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "NEW: A Russian drone struck the central building of Ukraine\u2019s Security Service (SBU) on Volodymyrska Street in Kyiv, opposite St. Sophia\u2019s Cathedral, Zelensky says.\nThe drone reportedly targeted SBU chief Poklad\u2019s office.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-04T13:23:06+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Clash Report"
+      ],
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -422,6 +520,65 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf7\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8 Reports of missile launched from Iran to strait of hormuz\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-04T14:24:52+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddf7\ud83c\uddfa\u274c\ud83c\uddfa\ud83c\udde6 \u2014 WATCH: The moment a Russian drone struck the central SBU building in the heart of Kyiv.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-04T13:36:57+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Clash Report"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddfa\ud83c\uddf8\ud83d\udcb8\ud83d\udcc9 Record Profits Expose Who America\u2019s Economy Really Serves\nUS corporate profits reached an annualized $4.8T in the second quarter, equal to 18% of national income\u2014the highest share since the years immediately after World War II. Real GDP grew at only a 1.5% annual rate. Corporate America is pulling record profits out of a sluggish economy by claiming more of the income it produces.\nWorkers received the other side of that record. Wages and benefits fell to 60% of national income, their lowest share since the 1950s. Real average hourly earnings were also 0.2% lower in July than a year earlier.\nWall Street barely noticed. Stocks climbed to new highs as the AI boom filled Big Tech\u2019s coffers and [the war against Iran raised fuel prices and oil-company margins.](https://t.me/newrulesgeo/2629) Those gains go overwhelmingly to households already sitting at the top: the wealthiest 10% of Americans own roughly 87% of the stock market, while the bottom half owns just 1.1%.\nThe pay gap inside major companies is even harder to disguise. CEOs at the 100 lowest-paying corporations in the S&P 500 collected an average $17.5M last year. Their median employee made $36,571\u2014a ratio of 614 to one.\nBetween 2019 and 2025, CEO compensation at those companies rose 41.4%. Median worker pay increased only 20.7%, failing to keep pace with the 25.9% rise in prices. Walmart spent $8.1B buying back its own shares in 2025, enough to give every employee a $3,851 bonus. Its CEO made 958 times the company\u2019s median worker.\nAmerican labor has fewer tools to demand a larger share. Only 10% of workers belonged to a union in 2025, down from 20.1% in 1983. [Outsourcing has moved more jobs to contractors](https://t.me/newrulesgeo/2523), while stock-heavy executive packages reward managers for raising share prices through buybacks and cost-cutting.\nTrump\u2019s economic policy is pushing in the same direction. The 2025 reconciliation law [extended tax cuts and reduced taxes for many businesses](https://t.me/newrulesgeo/2464) The Congressional Budget Office says households near the bottom will lose resources, while those in the middle and at the top gain. It estimates that federal and state in-kind benefits will fall by $900B through 2034, largely through Medicaid and food assistance.\nThe White House now complains about price gouging and corporate profiteering. Its own policies [leave workers with less bargaining power, thinner benefits and falling real hourly pay](https://t.me/newrulesgeo/2602) while corporate margins reach levels unseen in generations.\nCorporate America is squeezing record profits from an economy growing at only 1.5%. Margins, buybacks and executive pay are surging as workers lose purchasing power, bargaining power and basic support. The boom exists at the top.\n us on X](https://x.com/NewRulesGeo?t=6cJ2ZyQr-1f_lBvKPNggKw&s=09)",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-04T12:29:11+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
       "text": "\ud83c\uddee\ud83c\uddf7\u26a1\ufe0fReports of missile launched from Iran to strait of Hormuz\n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
@@ -459,63 +616,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddfa\ud83c\uddf8\ud83c\uddf0\ud83c\uddfc \u2014 Attack consists of ballistic missile and UAVs.\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-03T01:42:48+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddfa\ud83c\uddf8\ud83c\uddef\ud83c\uddf4 \u2014 EGYOSINT: Recent satellite imagery shows a possible scorch mark directly on the runway at Prince Hassan Air Base in Jordan, along with additional possible burn scars near several hardened aircraft shelters.\nIf the runway mark is confirmed to have resulted from a direct Iranian ballistic missile impact, the damage could leave the runway temporarily inoperable while repairs are carried out.\nThe base hosts US MQ-4C long-range surveillance drones, which conduct regular intelligence and reconnaissance missions in the region, including near Iran.\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-03T01:22:27+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf7\ud83d\udd34\ud83c\uddfa\ud83c\uddf3 \u2014 Baghaei: Reducing UN\u2019s Purpose to Preventing War Between Superpowers Is Dangerous\nIranian Foreign Ministry spokesman Esmaeil Baghaei criticized the idea that the United Nations should be judged primarily by whether it prevents wars between major powers, arguing that the UN Charter exists to protect all states from aggression.\n\u201cToday the Secretary-General appears to be shrinking the Organization\u2019s purpose to little more than \u2018avoiding a war between superpowers.\u2019\u201d\n\u201cThat minimalist reading is both misleading and dangerous.\u201d\nBaghaei said such an interpretation would make most UN members effectively irrelevant, excuse nearly every war and\n \u201cwhitewash the atrocities committed by so-called superpowers against everyone else.\u201d\nHe cited the wars and atrocities in Korea, Vietnam, Congo, Iraq, Afghanistan, Yemen, Sudan and Gaza, asking whether they would therefore count as UN \u201csuccesses\u201d simply because they were not direct wars between superpowers.\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-03T01:13:53+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Mediterranean Man",
       "text": "The war with the missiles and drones may have calmed down,\nbut the war on the keyboard stays up and running.",
       "source": "Telegram",
@@ -523,25 +623,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-09-04T08:01:02+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddf1\ud83c\udde7\ud83c\uddee\ud83c\uddf1 The political and strategic dimensions of theocratically capturing Ali al Taher:\n Israeli media has exaggerated the strategic importance of Ali al Tahir Hill. While the elevation overlooks several Israeli settlements and the town of Nabatieh, holding the high ground does not translate to controlling every area within its line of sight, in fact a Hezbollah official previously stated that the Resistance would not rule out withdrawing from the hill if remaining there posed a direct threat to the fighters stationed there.\nThe hill has already fulfilled its core function by securing supply lines for fighters throughout the conflicts of 2024, 2025, and 2026. From this vantage point, the Resistance executed hundreds of operations against Israeli forces, inflicting heavy casualties and leaving behind the charred bodies of soldiers on the site. Despite facing weekly bombardments from 2024 to the present, including attacks with white phosphorus and other chemical weapons the position has held firm and strong.\nFor Hezbollah, Ali al-Tahir is simply a site that has served its tactical purpose and can be abandoned if necessary. The resistance maintains numerous comparable facilities across Lebanon, including publicly known installations in Al Jabbour and Wadi al Beqaa, as well as extensive complexes in Iqlim al Tuffah.\nUltimately, the media hype surrounding the location represents a desperate attempt by Israeli Prime Minister Benjamin Netanyahu to manufacture a strategic success for the public aiming to distract from the dozens of soldiers killed and hundreds wounded at Ali al-Tahir as a result of his reckless policies.\nAnd now, as I\u2019m writing this, artillery shelling is targeting Ali al-Taher. Why would Israel continue bombing the hill if its troops have actually captured it?",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-03T20:41:50+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -631,12 +712,12 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udea8\ud83d\udee9 New Houthi drone reel targets Saudi-backed Yemeni forces\nThe Houthis have released another compilation video showing drone strikes on forces of the Saudi-backed Yemeni government. \nThe footage comes amid escalating hostilities following the collapse of the 2022 UN-brokered truce last month, triggered by a Saudi strike on Sanaa airport. \nSince then, the Houthis have ramped up retaliatory attacks \u2014 both against Saudi forces on Yemeni soil and targets inside Saudi Arabia.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83d\udea8\ud83c\uddf7\ud83c\uddfa Russia strikes Security Service of Ukraine (SBU) headquarters in downtown Kiev - Ukrainian media\nThe SBU is the body responsible for organizing terrorist attacks inside Russia. \nThe drone was sent straight at SBU Director Alexander Poklad's office.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-04T09:05:24+00:00",
+      "timestamp": "2026-09-04T13:17:27+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -650,50 +731,12 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83e\udd2c\ud83c\uddfa\ud83c\uddf8The Soros-Kushner nexus behind America\u2019s partisan fa\u00e7ade\nRemember all the back and forth screaming between Trump Republicans and Soros-funded liberals painting each other as the devil incarnate come to destroy America and take away everyone\u2019s freedoms? Turns out they were both right.\n\ud83d\udc49 Between the doomsayer essays and speeches, RICO threats and behind-the-scenes string-pulling at Trump\u2019s show trials, Democrat mega-donor George Soros and Jared Kushner, the most influential member of Trump\u2019s inner circle, felt just fine doing business together worth hundreds of millions of dollars.\nThe financiers\u2019 paths crossed through Cadre, an online fintech platform allowing investors to buy fractional shares of large commercial real estate properties.\n\ud83d\udd34 Kushner, his brother Joshua and tech bro Ryan Williams launched the platform in 2014.\n\ud83d\udd34 George Soros secretly provided the startup with a $250M line of credit and took a direct ownership stake.\n\ud83d\udd34 Other investors included Trump tech toadie and amateur antichrist enthusiast Peter Thiel, and publicly rabidly \u201canti-Trump\u201d billionaire Mark Cuban.\n\ud83d\udd34 The \u201cI did it before he was president\u201d excuse doesn\u2019t work in this case. Kushner divested his personal stake in Cadre in 2020. His brother, Soros, Thiel and Cuban held on until January 2024, when Cadre was bought out by competitor Yieldstreet for $100M \u2013 a 87% haircut from its peak $800M valuation.\nYieldstreet\u2019s CEO is Mitch Caplan, an Israel-friendly banker who lobbied Trump nonstop to ease putting Americans\u2019 401(k) retirement savings into risky investments. He got his wish in 2025 when Trump signed an executive order to that effect.\nCadre isn\u2019t the only place where Soros and the Kushners have intersected. Kushner\u2019s father Charles and Soros ran in the same elite NY high finance, real estate and high-society circles, and funded many of the same Democratic causes in the 90s and 2000s.\nAnother link is Eduardo Elsztain, an Argentine real estate mogul whose close spiritual relationship with the Pinto Kabbalist rabbinical family is shared by the Kushners. \n\ud83d\udcb5 Soros made a $10M investment into Elsztain\u2019s ventures in the 90s, and helped him acquire Cresud \u2013 a major Argentinian land holding company, and the country\u2019s largest state-run mortgage bank.\nElsztain, incidentally, also enjoys close personal, financial and ideological links to Javier Milei.\nTurns out Scott Bessent isn\u2019t the only member of the [Trump team with ties to Soros. ](https://t.me/geopolitics_prime/65029)\n\u27a1\ufe0f We\u2019re through the looking glass here people. White is black and black is white. Bankers stick together thick as thieves. Remember that the next time they try to dupe us all in whatever future BLMLGBTQDEI culture wars BS they\u2019ve got cooking.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83d\udde3\ud83c\uddee\ud83c\uddf7Araghchi dismantles Jordan\u2019s \u2018Iranian aggression\u2019 claims\n\u00a0\n\ud83d\udcac \u201cHow much time does the Jordanian Foreign Minister believe Iran should wait before responding to an aggressor that respects neither Arab sovereignty nor Iranian sovereignty?\u201d foreign minister Abbas Araghchi tweeted Friday.\n\u201cAnd is he truly unaware that Arab airspace, lands, and waters were used in the initial American attacks that resulted in the killing of innocent Iranians?\u201d the diplomat asked.\n\ud83d\udc49 Araghchi\u2019s remarks were a response to his Jordanian counterpart Ayman Safadi, who claimed Wednesday that Iran launched an \u2018unprovoked attack\u2019 on Jordan and other countries in the region hours after the conflict began in February, and that the counterstrikes were unjustified.\n\ud83d\udd0a \u201cIran has been attacking us and many other countries in the region long before this war even started\u2026So we do not buy their argument. We are a sovereign country. We are not a party to this war,\u201d he added.\n\u00a0\nNot a party to the war? Is that what they\u2019re calling serving as the Epstein coalition\u2019s puppet these days?\nIn the multiple rounds of escalation between 2024-2026, Jordan has:\n\u2666\ufe0f repeatedly scrambled its air force to shield Israel from incoming Iranian drones and missiles\n\u2666\ufe0f hosted heavy concentrations of US troops and equipment, including the US Air Force\u2019s 332nd Air Expeditionary Wing, surveillance and special forces units, plus a Marine Corps training camp\n\u2666\ufe0f opened its doors to US forces forced to evacuate from the Gulf as the big war began, to the point that US aircraft were packed into Muwaffaq Salti Air Base wingtip-to-wingtip\n\u2666\ufe0f allowed the US to deploy sophisticated intel, radar and kill chain targeting equipment (AN/TPY-2 tracking radar, AN/MPQ-65 engagement radars, spy drones and command nodes)\n\u00a0\nWhat has Jordan received for its troubles? Slashed aid budgets, [Israel cutting off its water supplies ](https://t.me/geopolitics_prime/71785)(so much for the humiliating 1994 peace treaty), and being caught in the crossfire of war and peace decisions made in Washington and Tel Aviv.\nWith friends like these, who needs enemies.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-04T05:55:19+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\u2620\ufe0f Epstein billionaire Leon Black sues Congress to keep NDAs sealed\nLeon Black, who paid Jeffrey Epstein as much as $170 MILLION, skipped his congressional deposition and instead sued to block subpoenas demanding NDAs he may have entered into with women.\n\ud83d\udc49 Epstein files show Black visited Little Saint James at least twice, while Epstein helped manage roughly $20 million in payments to about a dozen women and acted as a fixer in Black\u2019s personal affairs.\nThree women have sued Black alleging sexual abuse; one alleged Epstein introduced her to Black when she was 16 and that Black raped her inside Epstein\u2019s Manhattan townhouse. Black denies all wrongdoing and has not been criminally charged.\n\ud83d\ude01 And Trump certainly knew Black: they were photographed together in Moscow in 1996. Black\u2019s lawyers say they knew each other socially but never did business.\nNow Congress wants the paperwork. Black refused to show up.\nThe Epstein class treats the law as optional in the US.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-04T04:22:53+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddfa\ud83c\uddec\ud83c\uddee\ud83c\uddf1 Leaked docs reveal why Uganda has been so eager to become Israel\u2019s beat cop\n\u00a0\nUganda is one of just six countries committing troops to the so-called \u2018International Stabilization Force\u2019 in Gaza, and has vowed to defend Israel if it ever faced an existential crisis.\nNow we know why: Israel has been secretly building up the landlocked East African nation\u2019s drone capabilities.\nElbit Systems has spearheaded the initiative, equipping Ugandan military intelligence and Special Forces Command with advanced Hermes drones, loitering munitions, ground support provisions and increasingly sophisticated suites of surveillance equipment.\nDetails on the cooperation became available after Handala hacked the emails of top Elbit executive Vered Haimovich. Drop Site News cryptographically verified their authenticity.\n\u00a0\nThe files revealed:\n\u2666\ufe0f a $52.1M contract dated March 2024 for four Hermes 900 NG drones, two control stations, two ground-comms systems, SkEye belly-mounted (WASP) cameras, a sensor suite for monitoring enemy communications, and a synthetic aperture radar for detecting moving targets\n\u2666\ufe0f documents dated September 2021 for two additional Hermes 900s, plus delivery and servicing of three refurbished Hermes 450 spy and strike drones\n\u2666\ufe0f evidence of Elbit\u2019s direct assistance in building drone bases and other infrastructure necessary for offensive operations (a July 2021 document revealed plans to install three OPATS automated takeoff and landing systems at one base, and deliver spare parts for another)\n\u2666\ufe0f the sale of an AES-210 modular airborne ELINT system to Uganda\n\u2666\ufe0f plans to deliver SkyStriker autonomous loitering munitions, plus Lizard 3 laser-guidance kits which convert unguided munitions into smart bombs\n\u2666\ufe0f problems in the partnership, including a 2021 note from a subcontractor about a Hermes 900 ground-control trailer getting flooded, and a contract \u201calignment agreement\u201d document promising to settle issues with control trailers and comms links.\n\u00a0\nWith all this Israeli support, it\u2019s no wonder Muhoozi Kainerugaba, the son of president Yoweri Museveni, heir apparent and chief of Uganda\u2019s Defense Forces, has been so obsessed with kissing Israel\u2019s behind.\n\ud83d\udc49 Last month, Kainerugaba personally unveiled a monument to Yonatan Netanyahu \u2013 Benjamin Netanyahu\u2019s late brother, [saying Jesus Christ personally appeared to him in](https://t.me/geopolitics_prime/68492) a vision and told him to build it. \nIn March, soon after the US and Israel attacked Iran, he warned that \u201cany talk of destroying or defeating Israel will bring us into the war. On the side of Israel!\u201d\nAnd now you know the rest of the story.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-04T02:42:44+00:00",
+      "timestamp": "2026-09-04T11:57:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
