@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T01:18:55.859023+00:00",
+  "generated_at": "2026-09-04T06:27:18.397144+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -106,25 +106,6 @@
       "icon": "\ud83d\udea8",
       "timestamp": "08/30/2026",
       "location": "ZAB NM",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nMAYPORT, FL, Tuesday, September 1, 2026 through Friday, September 4, 2026 Local\nFacility: ZJX",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "08/29/2026",
-      "location": "ZJX FL",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
@@ -346,6 +327,25 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
+      "text": "Ukrainian drones struck an air-defense unit and an oil refinery in Sochi, Russia.\nA fire was also reported at the Sterlitamak petrochemical plant, which produces aviation fuel.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-04T05:59:29+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
       "text": "The strike that killed four people and injured at least 68 at a wedding in southern Iran was likely a direct hit by a U.S. weapon, according to weapons experts who reviewed footage and images verified by Reuters.\nThe attack in Kuhestak on Sept. 1 has renewed concerns over civilian casualties in the U.S.-Iran conflict. \nU.S. officials confirmed strikes in the area, saying they targeted military-related sites, including a communications tower about 135 meters from the wedding site.\nExperts said the damage pattern was consistent with a bomb hitting the home directly, rather than debris from another target or an Iranian air defense missile. Two experts said the munition was likely a U.S. 500-pound air-dropped weapon.\nThe victims included three wedding guests, including a 4-year-old child.\nSource: Reuters",
       "source": "Telegram",
       "source_type": "telegram",
@@ -431,12 +431,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "Alsaa Plus EN"
+        "Alsaa Plus EN",
+        "Geopolitics Prime"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -536,12 +537,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Locals report hearing 5 explosions in Yemen\u2019s Ibb Governorate.\nIt is unclear whether they were Houthi missile launches toward Saudi Arabia or Saudi airstrikes on Houthi positions.\nReports remain preliminary.",
+      "text": "\u26a1\ufe0f\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6 [Reuters](https://www.reuters.com/world/ukraines-zelenskiy-says-russian-drones-hit-coca-cola-plant-outside-kyiv-2026-09-03/): Russian drones struck and damaged a Coca-Cola plant near Brovary, east of Kyiv, on Thursday, according to Ukrainian President Volodymyr Zelenskiy. Officials said there were no injuries in the attack, while footage showed firefighters responding as smoke rose from the facility.\nZelenskiy described the strike as a deliberate signal to the United States, noting that Coca-Cola is an American company. He said Russia would have been aware of the facility\u2019s American connection when carrying out the attack.\nThe American Chamber of Commerce in Ukraine said the plant\u2019s staff were unharmed and that the company was working with authorities to assess the damage. \n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-03T05:23:35+00:00",
+      "timestamp": "2026-09-04T04:22:35+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -555,12 +556,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Treasury Secretary Scott Bessent on Iran: \"Iran gets some supplies from Russia, but if we shut down the Iranian airlines, which we will, then much less coming in.\"\nHe added that Iran doesn't get direct financial support from Russia.",
+      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8\ud83c\uddf2\ud83c\uddfdFox: The U.S. military shot down approximately 100 suspected cartel drones along the southern border during August.\nEach interception was coordinated in advance with Mexican military and border authorities.\n\"The United States is employing defensive counter-drone technology to protect our personnel and border security operations from cartel-linked drone threats. These actions are closely coordinated with Mexican military and border authorities to ensure safety and deconfliction on both sides of the border.\"\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-03T05:19:45+00:00",
+      "timestamp": "2026-09-04T04:22:10+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -574,12 +575,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "I can watch IRGC missile launchers exploding all day. \n4 IRGC Aerospace Force members were eliminated in this USAF strike in Kermanshah province, Iran last night",
+      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfaUkrainian drones targeted Sochi, in Russia\u2019s Krasnodar Krai region, this evening. They reportedly struck an S-400 position in the area. \n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-03T05:18:44+00:00",
+      "timestamp": "2026-09-04T04:21:59+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -593,12 +594,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "U.S. forces detected a ballistic missile launch near Kermanshah and struck the site, killing four IRGC Aerospace Force members.",
+      "text": "Zelensky: A Russian drone struck a Coca-Cola plant today. \nHe called it a clear signal to America, saying Russia could not be unaware it was hitting an American company.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-03T05:18:38+00:00",
+      "timestamp": "2026-09-04T04:13:56+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -611,96 +612,58 @@
     },
     {
       "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "Following overnight Iranian UAV attacks targeting a U.S. military compound near Erbil International Airport, NASA FIRMS\u2019 VIIRS satellite imagery shows a large fire burning at the facility.\nThe data was recorded at around 02:58 local time (23:58 UTC).",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83e\udd14\ud83c\uddfa\ud83c\uddf8The Soros-Kushner nexus behind America\u2019s partisan fa\u00e7ade\nRemember all the back and forth screaming between Trump Republicans and Soros-funded liberals painting each other as the devil incarnate come to destroy America and take away everyone\u2019s freedoms? Turns out they were both right.\n\ud83d\udc49 Between the doomsayer essays and speeches, RICO threats and behind-the-scenes string-pulling at Trump\u2019s show trials, Democrat mega-donor George Soros and Jared Kushner, the most influential member of Trump\u2019s inner circle, felt just fine doing business together worth hundreds of millions of dollars.\nThe financiers\u2019 paths crossed through Cadre, an online fintech platform allowing investors to buy fractional shares of large commercial real estate properties.\n\ud83d\udd34 Kushner, his brother Joshua and tech bro Ryan Williams launched the platform in 2014.\n\ud83d\udd34 George Soros secretly provided the startup with a $250M line of credit and took a direct ownership stake.\n\ud83d\udd34 Other investors included Trump tech toadie and amateur antichrist enthusiast Peter Thiel, and publicly rabidly \u201canti-Trump\u201d billionaire Mark Cuban.\n\ud83d\udd34 The \u201cI did it before he was president\u201d excuse doesn\u2019t work in this case. Kushner divested his personal stake in Cadre in 2020. His brother, Soros, Thiel and Cuban held on until January 2024, when Cadre was bought out by competitor Yieldstreet for $100M \u2013 a 87% haircut from its peak $800M valuation.\nYieldstreet\u2019s CEO is Mitch Caplan, an Israel-friendly banker who lobbied Trump nonstop to ease putting Americans\u2019 401(k) retirement savings into risky investments. He got his wish in 2025 when Trump signed an executive order to that effect.\nCadre isn\u2019t the only place where Soros and the Kushners have intersected. Kushner\u2019s father Charles and Soros ran in the same elite NY high finance, real estate and high-society circles, and funded many of the same Democratic causes in the 90s and 2000s.\nAnother link is Eduardo Elsztain, an Argentine real estate mogul whose close spiritual relationship with the Pinto Kabbalist rabbinical family is shared by the Kushners. \n\ud83d\udcb5 Soros made a $10M investment into Elsztain\u2019s ventures in the 90s, and helped him acquire Cresud \u2013 a major Argentinian land holding company, and the country\u2019s largest state-run mortgage bank.\nElsztain, incidentally, also enjoys close personal, financial and ideological links to Javier Milei.\nTurns out Scott Bessent isn\u2019t the only member of the [Trump team with ties to Soros. ](https://t.me/geopolitics_prime/65029)\n\u27a1\ufe0f We\u2019re through the looking glass here people. White is black and black is white. Bankers stick together thick as thieves. Remember that the next time they try to dupe us all in whatever future BLMLGBTQDEI culture wars BS they\u2019ve got cooking.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-03T05:17:28+00:00",
+      "timestamp": "2026-09-04T05:55:19+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "CASELS"
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
     {
       "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "Germany successfully tested the Israeli-built LORA ballistic missile overnight in the North Atlantic, military officials said. The Israel Aerospace Industries system reaches up to 500 km. \n- Reuters.",
+      "publisher": "Geopolitics Prime",
+      "text": "\u2620\ufe0f Epstein billionaire Leon Black sues Congress to keep NDAs sealed\nLeon Black, who paid Jeffrey Epstein as much as $170 MILLION, skipped his congressional deposition and instead sued to block subpoenas demanding NDAs he may have entered into with women.\n\ud83d\udc49 Epstein files show Black visited Little Saint James at least twice, while Epstein helped manage roughly $20 million in payments to about a dozen women and acted as a fixer in Black\u2019s personal affairs.\nThree women have sued Black alleging sexual abuse; one alleged Epstein introduced her to Black when she was 16 and that Black raped her inside Epstein\u2019s Manhattan townhouse. Black denies all wrongdoing and has not been criminally charged.\n\ud83d\ude01 And Trump certainly knew Black: they were photographed together in Moscow in 1996. Black\u2019s lawyers say they knew each other socially but never did business.\nNow Congress wants the paperwork. Black refused to show up.\nThe Epstein class treats the law as optional in the US.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-03T05:17:24+00:00",
+      "timestamp": "2026-09-04T04:22:53+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "CASELS"
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
     {
       "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "Hezbollah launched two explosive-laden drones overnight at Israeli troops operating at the Ali Taher Ridge in southern Lebanon, the IDF says. Troops shot down one drone and no soldiers were injured. Israel struck Hezbollah infrastructure in the Nabatieh area in response, saying the sites were used to advance attacks on its forces and civilians.",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddfa\ud83c\uddec\ud83c\uddee\ud83c\uddf1 Leaked docs reveal why Uganda has been so eager to become Israel\u2019s beat cop\n\u00a0\nUganda is one of just six countries committing troops to the so-called \u2018International Stabilization Force\u2019 in Gaza, and has vowed to defend Israel if it ever faced an existential crisis.\nNow we know why: Israel has been secretly building up the landlocked East African nation\u2019s drone capabilities.\nElbit Systems has spearheaded the initiative, equipping Ugandan military intelligence and Special Forces Command with advanced Hermes drones, loitering munitions, ground support provisions and increasingly sophisticated suites of surveillance equipment.\nDetails on the cooperation became available after Handala hacked the emails of top Elbit executive Vered Haimovich. Drop Site News cryptographically verified their authenticity.\n\u00a0\nThe files revealed:\n\u2666\ufe0f a $52.1M contract dated March 2024 for four Hermes 900 NG drones, two control stations, two ground-comms systems, SkEye belly-mounted (WASP) cameras, a sensor suite for monitoring enemy communications, and a synthetic aperture radar for detecting moving targets\n\u2666\ufe0f documents dated September 2021 for two additional Hermes 900s, plus delivery and servicing of three refurbished Hermes 450 spy and strike drones\n\u2666\ufe0f evidence of Elbit\u2019s direct assistance in building drone bases and other infrastructure necessary for offensive operations (a July 2021 document revealed plans to install three OPATS automated takeoff and landing systems at one base, and deliver spare parts for another)\n\u2666\ufe0f the sale of an AES-210 modular airborne ELINT system to Uganda\n\u2666\ufe0f plans to deliver SkyStriker autonomous loitering munitions, plus Lizard 3 laser-guidance kits which convert unguided munitions into smart bombs\n\u2666\ufe0f problems in the partnership, including a 2021 note from a subcontractor about a Hermes 900 ground-control trailer getting flooded, and a contract \u201calignment agreement\u201d document promising to settle issues with control trailers and comms links.\n\u00a0\nWith all this Israeli support, it\u2019s no wonder Muhoozi Kainerugaba, the son of president Yoweri Museveni, heir apparent and chief of Uganda\u2019s Defense Forces, has been so obsessed with kissing Israel\u2019s behind.\n\ud83d\udc49 Last month, Kainerugaba personally unveiled a monument to Yonatan Netanyahu \u2013 Benjamin Netanyahu\u2019s late brother, [saying Jesus Christ personally appeared to him in](https://t.me/geopolitics_prime/68492) a vision and told him to build it. \nIn March, soon after the US and Israel attacked Iran, he warned that \u201cany talk of destroying or defeating Israel will bring us into the war. On the side of Israel!\u201d\nAnd now you know the rest of the story.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-03T05:17:08+00:00",
+      "timestamp": "2026-09-04T02:42:44+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfaKyiv is currently under heavy Russian drone threat with massive waves of Geran-2s enroute to the city. \n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-03T04:41:55+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8The wreckage of the U.S. MQ-9 drone that was intercepted by the IRGC during yesterday's U.S. strikes on Iran was put on display in Khomein. \n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-03T04:41:51+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
@@ -754,12 +717,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
+        "Alsaa Plus EN",
         "Geopolitics Prime"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
