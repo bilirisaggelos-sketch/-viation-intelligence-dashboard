@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T20:59:26.636473+00:00",
+  "generated_at": "2026-09-04T23:00:04.356604+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -482,6 +482,25 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
+      "text": "After CIA Director John Ratcliffe\u2019s visit to Moscow failed to shift the Kremlin\u2019s position, Russia intensified missile and drone attacks on Ukraine.\nU.S. officials warned that Russia\u2019s position would worsen and urged negotiations, but people familiar with the talks said Putin interpreted the outreach as a sign of weakness rather than pressure to compromise.\nPutin appears convinced that time still favors Russia.\nSource: WaPo",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-04T21:52:28+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
       "text": "Former Israeli PM Naftali Bennett:\nWe don\u2019t need to take any drastic ideological turns.\nYou know, no Palestinian state, but we don\u2019t have to annex all of Judea and Samaria (the West Bank) tomorrow.\nWhat we need is to fix Israel.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -711,25 +730,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7\u2757\ufe0fIranian Ballistic Missiles are being launched!",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-04T15:55:45+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "CASELS",
       "text": "\u26a1\ufe0f\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6 [Reuters](https://www.reuters.com/world/ukraines-zelenskiy-says-russian-drones-hit-coca-cola-plant-outside-kyiv-2026-09-03/): Russian drones struck and damaged a Coca-Cola plant near Brovary, east of Kyiv, on Thursday, according to Ukrainian President Volodymyr Zelenskiy. Officials said there were no injuries in the attack, while footage showed firefighters responding as smoke rose from the facility.\nZelenskiy described the strike as a deliberate signal to the United States, noting that Coca-Cola is an American company. He said Russia would have been aware of the facility\u2019s American connection when carrying out the attack.\nThe American Chamber of Commerce in Ukraine said the plant\u2019s staff were unharmed and that the company was working with authorities to assess the damage. \n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
@@ -801,6 +801,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udca5 Russian strike drones smash Nikolaev\u2019s shopping mall\nRussian jet-powered strike drones pounded the Epicenter shopping mall in Nikolaev, triggering a major fire.\nThese malls are used by the Ukrainian army [to store and distribute military cargo](https://t.me/geopolitics_prime/72497).\nUkrainian authorities confirmed the strike, while local reports said railway and port infrastructure also came under attack.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-04T21:41:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
