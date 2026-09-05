@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T18:11:30.988554+00:00",
+  "generated_at": "2026-09-05T20:26:35.593118+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -364,51 +364,51 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "Possibly anti-ship ballistic missiles towards the Strait of Hormuz, targeting ship-to-ship oil transfers.",
+      "publisher": "Clash Report",
+      "text": "U.S. Ambassador to Israel Mike Huckabee:\nThe reason I use the terms Judea and Samaria is because they\u2019re the ancient biblical terms of this land.\n80% of the Bible happened in the area, Judea, Samaria. The West Bank is a nebulous term to me.\nIt is one I know that many people use, but it\u2019s not well defined. \nIt\u2019s not considered something that is ancient and historical.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-04T15:55:44+00:00",
+      "timestamp": "2026-09-05T20:11:55+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf7 BREAKING: Ballistic missile launches from Iran",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-04T15:54:59+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
+        "Clash Report"
       ],
       "verified_source_count": 1
     },
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "NEW: U.S. Central Command said it struck three Iranian oil tankers after the IRGC launched ballistic missiles at two U.S. Navy warships.\nCENTCOM said the American vessels avoided the attacks and no U.S. personnel were injured.\nIn response, U.S. forces disabled the M/T Downy and M/T Stark 1 and destroyed the M/T Kylo, also known as Noxen, after its crew abandoned ship.",
+      "text": "The IRGC Navy said U.S. forces attacked three Iranian oil tankers near the Strait of Hormuz, causing damage.\nIt said Iranian forces responded by targeting three tankers allegedly using unauthorized routes and three U.S.-linked vessels elsewhere.\nThe IRGC Navy warned vessels in the Persian Gulf and near the Strait of Hormuz to avoid suspicious movements or unauthorized waterways, saying they could otherwise be targeted.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-05T13:48:21+00:00",
+      "timestamp": "2026-09-05T20:11:50+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Former CIA Director David Petraeus on Iran:\nWe\u2019ve used perhaps half of our missile interceptors in this particular conflict.\nWe need to learn from the Ukrainians, who are using 10,000 cheap drones per day. \nAnd the exchange that they\u2019re getting for those is absolutely massive. \nOur exchange when we shoot an expensive missile interceptor to take down a $50,000 Iranian drone is obviously not one that is sustainable.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-05T19:55:38+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -631,6 +631,25 @@
     {
       "title": "Telegram",
       "publisher": "Mediterranean Man",
+      "text": "\u26a1\ufe0f\u26a1\ufe0f\ud83c\uddee\ud83c\uddf6\ud83c\uddfa\ud83c\uddf8 The U.S State Dept has approved a request from the Iraqi government to purchase an undisclosed amount of Bell-412EPX helicopters & Bell-407M helicopters, along with undisclosed amounts of:\n\u2022 GAU-19 12.7x99mm (.50 BMG) 3-barrel Gatling Guns\n\u2022 M260 7-tube rocket launchers\nAnd other related equipment at the cost of $1 Billion (USD).\nEdit: Sources report 2 separate requests for the Bell-412EPX, one with a $800mil total, the other with a $200mil total.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-05T19:17:58+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
       "text": "I am genuinely in shock and in awe of this strategy.\nSo - we gave the Iranian government tens of millions of dollars, and covertly managed to ship in whole shipments of petrochemicals, the millions of dollars would have obviously went to IRGC economic interests that would have made drones to bomb Israel, and now we give money for discounted Israeli gas, and this money goes to Israel to make bombs to bomb Iran.\nIs this how Americans feel when their money funds both sides of the conflict?",
       "source": "Telegram",
       "source_type": "telegram",
@@ -745,6 +764,25 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udde3\u2721\ufe0f Epstein\u2019s buddy Wexner helped Netanyahu court US elites\nAIPAC was not the only force that helped Israel influence US politicians and bind them to Tel Aviv\u2019s will.\nDocuments unearthed by Internet sleuths shed light on the activities of billionaire Leslie Wexner, close pal and client of pedo enabler extraordinaire Jeffrey Epstein.\nIn February 1988, the Wexner Heritage Foundation held a donor retreat in Palm Beach, Florida with none other than Benjamin Netanyahu being the featured speaker at the event.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-05T19:12:18+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
       "text": "\ud83d\udc89\u269b\ufe0f How sinister cancer 'rocket fuel' could lurk inside mRNA vaccines\nAs Americans brace for a fresh round of Pfizer and Moderna updated [COVID vaccines](https://t.me/geopolitics_prime/73855), a spine-chilling question is now reverberating on the internet - just what havoc could the [mRNA vaccines](https://t.me/geopolitics_prime/65259)\u2019 delivery system wreak inside the human body.\nThe question was triggered by a recent preclinical study by Chinese scientists Binhan Wang and his colleagues that raises numerous questions about the biological effects of lipid nanoparticles (LNP) - the microscopic delivery vehicles used in mRNA vaccines. \nThe paper revealed the sinister architecture of the vaccine adjuvant industry, as Wang states point-blank that experiments \u201cshowed we can give mice turbo cancer using vaccine ingredients.\u201d\n\ud83d\udd34 Adjuvants are immune-response enhancers added to certain vaccines\n\ud83d\udd34 Every cell in your body has a kind of built-in alarm system that can detect DNA where it shouldn\u2019t be\n\ud83d\udd34 If foreign DNA gets inside a cell, this alarm can trigger a powerful immune response designed to destroy the threat\n\ud83d\udd34Constantly triggering this system can cause harmful inflammation and damage to cells\n\ud83d\udd34 Two of the main pathways involved are called cGAS-STING and TLR9-MyD88\nIn mouse experiments, the researchers found that the adjuvants in mRNA vaccines hijack this pathway - the cell\u2019s last line of defense against foreign genetic invasion - triggering a biological cascade that promoted experimental tumor metastasis. \nEvery recombinant vaccine, brewed with unmeasured, undisclosed fragments of genetic debris, is reportedly intrinsically compromised.\nAccording to the scientists, the medical industry was well aware that this pathway is oncogenic, yet didn't care, because activating this pathway delivers the one thing their profit models demand: antibodies. \nThe goal was not so much immunity, as the presence of antibodies that grease the wheels for FDA approvals and cash infusions for [big pharma and](https://t.me/geopolitics_prime/69286) its sponsors \u2013 the global elites and their sinister [plot](https://t.me/geopolitics_prime/62220) to cut global population via epidemics.\nNow, if you juxtapose these findings with the relentless [cancer surge](https://t.me/geopolitics_prime/53743) ravaging the young - a wave that was already rising before the pandemic - you start to connect the dots.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
@@ -827,25 +865,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-09-05T08:28:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udc64\ud83d\udc41 Palantir cofounder turns \u2018charity\u2019 into pipeline for homelessness and surveillance industrial complex profits\nVenture capitalist Joe Lonsdale\u2019s Cicero Institute think tank and Cicero Action advocacy enjoy non-profit and social welfare organization status, but factually serve as tools used to lobby his extensive military, homelessness and surveillance industrial complex investment interests.\n\ud83d\udc49 Disclosures uncovered by the National Homelessness Law Center reveal that Cicero Action has been using the shadow name American Phalanx to lobby lawmakers on military contracts, spending and Pentagon procurement to push Palantir, Anduril, Saronic and Epirus products \u2013 firms Lonsdale is invested in up to the hilt.\nTogether, the Cicero Institute and Cicero Action also help set homelessness policy, the former writing \u201cmodel legislation\u201d and copy-paste policy briefs for state-level lawmakers, testifying at hearings, and fighting tooth and nail against subsidized housing. Their work has helped pass statewide bans on unauthorized public sleeping and camping in more than a dozen states, jailing and fining violators.\n\u27a1\ufe0f That flows into Lonsdale\u2019s heavy-handed enforcement-focused approach to \u2018dealing with\u2019 the problem, including geotracking and public surveillance (through Palantir) and policing apps (Citizen), as well as financial and organizational interests in the private prison industry.\nCicero also focuses on integrating [disparate public surveillance data](https://t.me/geopolitics_prime/73825) (criminal records, license plate readers, immigration registries, hospital intake data) \u2013 Palantir\u2019s specialty, and high-end drone-based security for the wealthy \u2013 the domain of Sauran, another Lonsdale investment (great job naming your companies after two Tolkien villains, guys).\n\u203c\ufe0f Cicero Institute has successfully influenced over 650 pieces of legislation (per the Institute\u2019s own count), and works to control the narrative on the issues Lonsdale cares about through policy summits and media blitzes.\nLonsdale\u2019s 8VC investment vehicle even has AI healthcare, private university and alternative accreditation divisions, with Cicero pushing legislation and deregulation that benefits Digital Diagnostics, Candid Health, Oscar Health, the University of Austin and other entities in his incredibly diverse portfolio.\n\ud83d\udcd1 Among the legislation Cicero has most heavily lobbied for in the health field is the so-called Patient\u2019s Right to Save Act, which treats medical care like a retail commodity and incentivizes substandard and tiered care, and is designed to line the pockets of digital marketplace and financial software makers (also co-owned by Lonsdale, naturally).\nForget Thiel and Karp, who at least wear their psychopathic tendencies on their sleeve. Lonsdale\u2019s multi-headed hydra-style takeover of entire sectors of the economy is the real serpent in the grass to look out for.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-05T06:02:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
