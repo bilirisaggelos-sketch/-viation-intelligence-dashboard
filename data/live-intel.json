@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T23:00:04.356604+00:00",
+  "generated_at": "2026-09-05T00:52:21.339757+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -276,25 +276,6 @@
       "severity": "info",
       "icon": "\ud83d\udcf0",
       "timestamp": "2026-09-04T16:02:32+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "BBC World News"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "US investigating if missile hit Iran wedding, Vance says",
-      "text": "US investigating if missile hit Iran wedding, Vance says\nThe Iranian Red Crescent Society (IRCS) said shrapnel from a missile hit the ceremony and killed four people on Tuesday.",
-      "source": "BBC",
-      "source_type": "osint",
-      "publisher": "BBC World News",
-      "severity": "info",
-      "icon": "\ud83d\udcf0",
-      "timestamp": "2026-09-03T22:19:59+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -801,6 +782,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddee\ud83c\uddf1\ud83d\udcb8\ud83d\udcc9 Israel Is Losing the People Who Keep Its War Economy Running\nIsrael\u2019s emigration problem is no longer defined mainly by how many people leave. The country is losing doctors, engineers, tech workers and high-income taxpayers\u2014the professional class that keeps its hospitals, export economy and military technology functioning.\nA Tel Aviv University study based on official statistics found that 268,509 Israelis remained abroad for at least three consecutive months between 2023 and 2025, nearly 47% more than a decade earlier. Three months abroad is not permanent emigration, but the researchers found that short and long absences track closely. They estimate that 45,000\u201350,000 Israelis became long-term emigrants in 2025 alone.\nThe profile of those leaving is even more damaging. Israel\u2019s Tax Authority found that emigrants now earn around 50% more than the national average. The departure rate among the richest tenth of the population rose by roughly 80%, while barely changing among poorer groups. That top decile accounted for 67% of emigrants\u2019 combined income and 86% of the income tax they had paid before leaving.\nDepartures from high-tech increased by around 150% in 2023\u20132024, while the number leaving healthcare more than doubled.\nIsrael is unusually exposed to this loss. High-tech generates around 17% of GDP and 57% of exports while employing only 11.5% of the workforce. Losing a relatively small number of experienced engineers, researchers and entrepreneurs can therefore remove far more output and tax revenue than the raw migration figures suggest.\nThe pressure comes as military spending remains elevated and repeated reserve mobilizations pull skilled workers away from their jobs. The war economy needs more taxes and advanced technology, yet it is exhausting the same educated, high-productivity population that supplies both. Low employment among Haredi men leaves even more of the fiscal and military burden on those now heading abroad.\nThe government tries to counter the danger. In March, lawmakers approved a graduated five-year income-tax exemption for qualifying new immigrants and long-term returning residents. Israel is offering a tax premium to attract the kind of people its political and military course is driving away.\nMoney can repair buildings or purchase another shipment of American weapons but it cannot quickly replace an experienced surgeon, a semiconductor engineer or a founder who moves a company, family and savings to Europe. Every such departure increases the burden on those who remain and makes leaving easier for the next family.\nThe Zionist project was built around aliyah\u2014the promise that Jews would move to Israel in search of security and permanence. Permanent war is now producing movement in the opposite direction.\nIsrael set out to prove that military force could guarantee its future. Instead, its wars are driving away the people whose skills, taxes and labor make that force possible.\n us on X](https://x.com/NewRulesGeo?t=6cJ2ZyQr-1f_lBvKPNggKw&s=09)",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-04T23:13:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
