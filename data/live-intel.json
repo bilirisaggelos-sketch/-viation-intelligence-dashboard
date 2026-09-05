@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T22:13:00.612375+00:00",
+  "generated_at": "2026-09-05T23:58:22.138333+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -135,6 +135,44 @@
       "verified_source_count": 1
     },
     {
+      "title": "Space Weather Message Code: SUMPC0\r",
+      "text": "Space Weather Message Code: SUMPC0\r\nSerial Number: 41\r\nIssue Time: 2026 Sep 05 2341 UTC\r\n\r\nSUMMARY: Proton Event 100MeV Integral Flux exceeded 1pfu \nBegin Time: 2026 Sep 05 1545 UTC\nMaximum Time: 2026 Sep 05 1550 UTC\nEnd Time: 2026 Sep 05 1615 UTC\nMaximum 100MeV Flux: 1 pfu\nComment:",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-09-05 23:41:18.807",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Space Weather Message Code: WARPC0\r",
+      "text": "Space Weather Message Code: WARPC0\r\nSerial Number: 124\r\nIssue Time: 2026 Sep 05 2339 UTC\r\n\r\nCANCEL WARNING: Proton 100MeV Integral Flux above 1pfu expected \nCancel Serial Number: 123\nOriginal Issue Time: 2026 Sep 05 1555 UTC\nConditions for this Warning are no longer present.",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-09-05 23:39:23.730",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
       "title": "Space Weather Message Code: ALTPX1\r",
       "text": "Space Weather Message Code: ALTPX1\r\nSerial Number: 368\r\nIssue Time: 2026 Sep 05 1633 UTC\r\n\r\nALERT: Proton Event 10meV Integral Flux exceeded 10pfu \nBegin Time: 2026 Sep 05 1615 UTC\nNoaa Scale: S1 - Minor\nComment: \r\n\r\nNOAA Scale: S1 - Minor",
       "source": "NOAA Space Weather",
@@ -181,44 +219,6 @@
       "severity": "warning",
       "icon": "\ud83d\udef0\ufe0f",
       "timestamp": "2026-09-05 15:56:20.850",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Space Weather Message Code: WARPC0\r",
-      "text": "Space Weather Message Code: WARPC0\r\nSerial Number: 123\r\nIssue Time: 2026 Sep 05 1555 UTC\r\n\r\nWARNING: Proton 100MeV Integral Flux above 1pfu expected \nValid From: 2026 Sep 05 1554 UTC\nValid To: 2026 Sep 05 2359 UTC\nWarning Conditions: Onset\nComment:",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-09-05 15:55:21.450",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Space Weather Message Code: ALTTP4\r",
-      "text": "Space Weather Message Code: ALTTP4\r\nSerial Number: 717\r\nIssue Time: 2026 Sep 04 2007 UTC\r\n\r\nALERT: Type IV Radio Emission \nBegin Time: 2026 Sep 04 1924 UTC\nComment:",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-09-04 20:07:08.480",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -345,22 +345,24 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "CONFIRMED: An anti-ship ballistic missile was launched at violating vessels in the Strait of Hormuz.\nThis marks the third anti-ship ballistic missile launched by Iran today, and a clear change in strategy from only launching drones and cruise missiles.",
+      "publisher": "Clash Report",
+      "text": "Iran\u2019s IRGC says it launched ballistic missiles at a U.S. aircraft carrier and destroyer, claiming the warships were involved in actions against Iranian vessels. \nThe IRGC said the ships were damaged and withdrew from the area, and warned of further responses if hostile actions continue.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-04T16:04:38+00:00",
+      "timestamp": "2026-09-05T23:12:30+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
       "verified_sources": [
-        "Middle East Spectator"
+        "Alsaa Plus EN",
+        "Clash Report",
+        "Geopolitics Prime"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 3
     },
     {
       "title": "Telegram",
@@ -474,6 +476,65 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Our Wars Today"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddf7\ud83c\uddfa\u274c\ud83c\uddfa\ud83c\udde6 Russian missile and drone attack towards Ukrainian capital Kiev impacts reported\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-05T23:38:06+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf7\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddfa\ud83c\uddf8 Islamic Revolutionary Guard Corps:\nCommuniqu\u00e9 No. 10 / An American aircraft carrier and a destroyer of the child-killing aggressor army were attacked\nIn the name of Allah, the Subduer of the Tyrants\nO missioned Ummah of Islamic Iran;\nThe Aerospace Force of the Islamic Revolutionary Guard Corps targeted and attacked an American aircraft carrier and a destroyer belonging to the child-killing aggressor army, which had been creating harassment for Iranian ships and participating in the maritime blockade, using several ballistic missiles.\nThese two combat vessels, after sustaining damage and fearing a renewed attack, were forced to flee from the engagement zone.\nThe aggressor enemy, which for years roamed the region with false pride and hollow claims, was forced today to officially confess that two U.S. Navy warships were attacked.\nCENTCOM's confession confirming this operation is living proof of the enemy's strategic defeat and a testament to the offensive power of the Islamic Revolutionary Guard Corps.\nThe Islamic Revolutionary Guard Corps and the other armed forces of the Islamic Republic of Iran are determined and resolute in defending the sovereignty of Islamic Iran.\nThe magnificent presence of the Islamic Ummah in the arena and the relentless struggle of the zealous Islamic fighters prevent the enemy from achieving its wicked goals....\nIn the event of the continuation of hostile and aggressive actions, the American regime must await the heavy responses of the armed forces of the Islamic Republic of Iran. \nWe stand stronger than ever. Victory belongs to the resilient nation of Islamic Iran, and defeat and regret are the definitive fate of the aggressors.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-05T22:45:00+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Clash Report",
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 3
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf1 A video clip circulating during the 40-day war shows personnel from Iranian missile units fueling medium-range ballistic missiles (MRBMs) prior to launch.\nThe Qader family of missiles utilizes liquid fuel; the clip likely depicts the fueling process using Red Fuming Nitric Acid (RFNA)\u2014a highly reactive and toxic liquid oxidizer\u2014carried out within the tunnels of Iran's \"missile cities.\" The advantage of liquid fuel is that it allows for relatively long-term storage, unlike propellants that must be loaded immediately before launch.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-05T22:37:10+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
       ],
       "verified_source_count": 1
     },
@@ -631,25 +692,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf7\u26a1\ufe0f Reports of five missiles being launched from Sirik Island in southern Iran toward the Strait of Hormuz.\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-04T19:58:32+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Mediterranean Man",
       "text": "\u26a1\ufe0f\u26a1\ufe0f\ud83c\uddee\ud83c\uddf6\ud83c\uddfa\ud83c\uddf8 The U.S State Dept has approved a request from the Iraqi government to purchase an undisclosed amount of Bell-412EPX helicopters & Bell-407M helicopters, along with undisclosed amounts of:\n\u2022 GAU-19 12.7x99mm (.50 BMG) 3-barrel Gatling Guns\n\u2022 M260 7-tube rocket launchers\nAnd other related equipment at the cost of $1 Billion (USD).\nEdit: Sources report 2 separate requests for the Bell-412EPX, one with a $800mil total, the other with a $200mil total.",
       "source": "Telegram",
@@ -784,6 +826,27 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
+      "text": "\ud83d\ude80\ud83d\udd25 Iran pounds US carrier, destroyer with ballistic missiles\nIran\u2019s IRGC Aerospace Force struck a US aircraft carrier and a destroyer with several ballistic missiles, Fars News reported, citing an IRGC statement.\n\ud83d\udcac \u201cThese two warships, after sustaining damage and fearing further attacks, were forced to flee the conflict zone,\u201d the IRGC said.\nThe Guard said the two warships had been harassing Iranian vessels and participating in the maritime blockade.\n\ud83d\udcac \u201cIf hostile and aggressive actions continue, the US regime should expect crushing responses from the Armed Forces of the Islamic Republic of Iran.\u201d\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-05T23:54:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Clash Report",
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 3
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
       "text": "\ud83d\udd25\ud83c\uddee\ud83c\uddf7 Iran targets three tankers, US vessels in response to US attacks\nIRGC naval forces fired three missiles from Sirik toward the Strait of Hormuz and said they targeted three tankers using an unauthorized route, plus three US-linked vessels elsewhere, IRNA reported.\n\ud83d\udcac \u201cDo not be deceived by the terrorist US military\u2026 otherwise, you will be targeted,\u201d the IRGC warned vessels operating near Hormuz.\nEarlier, CENTCOM announced that it had struck three Iranian oil tankers.\nIran hit back swiftly.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
@@ -886,25 +949,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-09-05T10:03:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\u2757\ufe0fFor our Italian-speaking audience! \u2757\ufe0f\n\ud83d\udce3 They\u2019re telling you everything. But how much is true?\nEvery day we\u2019re flooded with news that changes by the hour\u2014but how can you know what\u2019s real?\n\u26a0\ufe0f [Tutti i Fatti](https://t.me/+sgWs6OaQKNA0ODUy) brings you only what matters: verified, factual news from around the world.\n\u2b07\ufe0f Follow the latest on the events gripping the globe:\n- Middle East War: Iran, the US, and Israel clash as missiles strike the Gulf and cities face attacks. Washington and Tel Aviv escalate, Teheran retaliates\u2014will there be a ceasefire or a regional escalation?\n- Ukraine: Zelensky faces corruption scandals and mounting pressure. Will he push for peace or resume the offensive against Russia? His choice could shift European and global balances.\n- Global Markets & Oil: Prices soar, financial chaos spreads, inflation spikes. The Strait of Hormuz crisis shakes the world economy.\n\ud83d\udd14 Stay ahead. For verified updates, join [Tutti i Fatti.](https://t.me/+sgWs6OaQKNA0ODUy)",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-05T08:28:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
