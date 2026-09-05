@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T12:59:33.803984+00:00",
+  "generated_at": "2026-09-05T15:59:26.148562+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -49,25 +49,6 @@
       "icon": "\ud83d\udea8",
       "timestamp": "09/03/2026",
       "location": "ZNY NJ",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nLibby AAF, AZ, Friday, September 4, 2026 Local\nFacility: ZAB",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "09/03/2026",
-      "location": "ZAB AZ",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
@@ -135,6 +116,44 @@
       "verified_source_count": 1
     },
     {
+      "title": "Space Weather Message Code: ALTPC0\r",
+      "text": "Space Weather Message Code: ALTPC0\r\nSerial Number: 58\r\nIssue Time: 2026 Sep 05 1556 UTC\r\n\r\nALERT: Proton Event 100MeV Integral Flux exceeded 1pfu \nBegin Time: 2026 Sep 05 1552 UTC\nComment:",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-09-05 15:56:20.850",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Space Weather Message Code: WARPC0\r",
+      "text": "Space Weather Message Code: WARPC0\r\nSerial Number: 123\r\nIssue Time: 2026 Sep 05 1555 UTC\r\n\r\nWARNING: Proton 100MeV Integral Flux above 1pfu expected \nValid From: 2026 Sep 05 1554 UTC\nValid To: 2026 Sep 05 2359 UTC\nWarning Conditions: Onset\nComment:",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-09-05 15:55:21.450",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
       "title": "Space Weather Message Code: ALTTP4\r",
       "text": "Space Weather Message Code: ALTTP4\r\nSerial Number: 717\r\nIssue Time: 2026 Sep 04 2007 UTC\r\n\r\nALERT: Type IV Radio Emission \nBegin Time: 2026 Sep 04 1924 UTC\nComment:",
       "source": "NOAA Space Weather",
@@ -192,42 +211,24 @@
       "verified_source_count": 1
     },
     {
-      "title": "Space Weather Message Code: ALTTP2\r",
-      "text": "Space Weather Message Code: ALTTP2\r\nSerial Number: 1527\r\nIssue Time: 2026 Sep 03 1644 UTC\r\n\r\nALERT: Type II Radio Emission \nBegin Time: 2026 Sep 03 1629 UTC\nEstimate Velocity: 1,359 km/s\nComment:",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-09-03 16:44:28.023",
+      "title": "US hits three Iranian oil tankers after saying its warships were targeted",
+      "text": "US hits three Iranian oil tankers after saying its warships were targeted\nUS Central Command says the attacks came after Iran launched ballistic missiles at two of its Navy warships.",
+      "source": "BBC",
+      "source_type": "osint",
+      "publisher": "BBC World News",
+      "severity": "info",
+      "icon": "\ud83d\udcf0",
+      "timestamp": "2026-09-05T15:14:21+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "NOAA Space Weather Prediction Center"
+        "BBC World News",
+        "Middle East Spectator"
       ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Space Weather Message Code: ALTEF3\r",
-      "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3734\r\nIssue Time: 2026 Sep 03 1031 UTC\r\n\r\nCONTINUED ALERT: Electron 2MeV Integral Flux exceeded 1,000pfu\nContinuation of Serial Number: 3733\nBegin Time: 2026 Aug 31 1146 UTC\nYesterday Maximum 2MeV Flux: 1239 pfu\nMax time: 2026 Sep 03 1020 UTC",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-09-03 10:31:48.890",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Russia hits Ukrainian security headquarters in drone attack, Zelensky says",
@@ -247,6 +248,26 @@
         "BBC World News"
       ],
       "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7 BREAKING: We now know what the target of yesterday\u2019s launches was; Iran targeted a U.S. aircraft carrier with anti-ship ballistic missiles for the first time\nUntil now, Iran had refrained from using this high-end weapon (likely the Khalij-e-Fars ASBM) due to fear it would provoke a massive American retaliation.\nNo hits on the carrier were recorded, but CENTCOM admitted that the USS George Washington was forced to perform evasive maneuvers.\nIn response to this attack, the U.S. Navy disabled three Iranian oil tankers in the Persian Gulf & Gulf of Oman.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-05T15:58:26+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "BBC World News",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -374,26 +395,6 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Mediterranean Man",
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf1/\ud83c\uddf5\ud83c\uddf8 BREAKING: IDF forces operating in northern Gaza have been ambushed for the first time in months; an exchange of gunfire is ongoing\nIt is likely that Al-Qassam, the armed wing of Hamas, is responsible for the ambush.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-03T23:25:58+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
@@ -403,20 +404,20 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea BREAKING: Ansarallah (the Houthis) have initiated a large scale offensive into the Al-Khokha and Al-Mokha directions, controlled by Saudi-backed PLC fighters in western Yemen",
+      "publisher": "Clash Report",
+      "text": "NEW: U.S. Central Command said it struck three Iranian oil tankers after the IRGC launched ballistic missiles at two U.S. Navy warships.\nCENTCOM said the American vessels avoided the attacks and no U.S. personnel were injured.\nIn response, U.S. forces disabled the M/T Downy and M/T Stark 1 and destroyed the M/T Kylo, also known as Noxen, after its crew abandoned ship.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-03T20:00:48+00:00",
+      "timestamp": "2026-09-05T13:48:21+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Middle East Spectator"
+        "Clash Report"
       ],
       "verified_source_count": 1
     },
@@ -593,83 +594,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf7Iranian media: Iranian oil tanker in Kharg Island targeted by US missile attack",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-05T07:10:18+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddee\ud83c\uddf7 Five missiles were launched from Serik.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-04T20:00:23+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddee\ud83c\uddf7 The explosions caused by the launch of missiles towards the Strait of Hormuz.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-04T19:57:24+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Mediterranean Man",
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "I do not get why people think GTA 6 will be woker than say, GTA 4\nNiko Bellic befriended a Jamaican, a Homosexual, and his cousin was into cuckery, whom he supported.\nThis is literally as Woke as a Slavic person will ever be.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-04T17:59:17+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "CASELS",
       "text": "Ukraine says air defenses downed or suppressed 128 of 167 Russian drones launched overnight, including Shaheds, about half of them jet-powered, Gerberas and Parodiya decoys. Russia also launched Iskander-M/KN-23 ballistic missiles. Missile and drone hits were recorded at 23 locations.",
       "source": "Telegram",
@@ -741,6 +665,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udc41\ud83d\udd2f Microsoft's $125 million complicity: How the tech giant bankrolled Israel's genocide\nIn 2024, Microsoft locked-in a $125 million software-licensing deal with Israel\u2019s Defense Ministry - the first full year of Israel\u2019s genocidal campaign in Gaza, reports Middle East Eye.\nThe sum is stated in Israel's annual budget-execution report for 2024, published on the Israeli Ministry of Finance\u2019s Hebrew-language website in March 2025.\nIt lists the agreement among the Defense Ministry\u2019s largest procurement commitments. The contract reportedly remained entirely unpaid by December 31, 2024, and was scheduled to run until 2027. \nMicrosoft is keeping the details under wraps: no word on the software, the military units using it, or whether 2027 marks the end of the licenses, the payments - or both.\nThe new deal looks remarkably like the controversial 2021 [Microsoft contract with the Israeli military.](https://t.me/geopolitics_prime/71140) That $133 million, three-year deal made the Israeli military an \u201cS500\u201d client - Microsoft\u2019s highest-priority category - and covered at least 635 subscriptions tied to units including Israel\u2019s AI\u2011powered elite cyber\u2011espionage Unit 8200.\nFormer Microsoft staff cited in the MEE report believe the 2024 agreement could be a renewal, with:\n\ud83d\udfe5 same three-year structure: the earlier deal ran for three years; Israeli government documents show a Microsoft contract running from 2024 to 2027\n\ud83d\udfe5 similar price tag\nIsrael\u2019s military used [Microsoft\u2019s Azure](https://t.me/geopolitics_prime/57128) cloud platform for years to store a massive trove of Palestinians\u2019 phone calls. This system has aided in planning deadly airstrikes and shaping military operations in Gaza and the West Bank\nAfter public exposure, Microsoft disabled only \u201ca small subset of services to only one unit.\u201d \nThe 2024 budget document dated nine months before Microsoft pulled the plug on its cloud services draws no link between the licensing deal and the products Microsoft later cut.\nBut it does show that the licensing agreement was already on the ministry\u2019s books long before the scandal erupted.\nThe $125 million agreement is software, yet it sits on the same ledger in the year Israel conducted its sweeping genocide.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-05T14:32:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
