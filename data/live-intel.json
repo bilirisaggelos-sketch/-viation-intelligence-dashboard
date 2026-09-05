@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T20:26:35.593118+00:00",
+  "generated_at": "2026-09-05T22:13:00.612375+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -393,12 +393,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "Clash Report"
+        "Clash Report",
+        "Geopolitics Prime"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -473,6 +474,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Our Wars Today"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8| The IRGC published, for the first time, footage of their drone strikes against ships that took \u201cunauthorised\u201d routes in the Strait of Hormoz.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-05T20:58:25+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
       ],
       "verified_source_count": 1
     },
@@ -760,6 +780,26 @@
         "CASELS"
       ],
       "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udd25\ud83c\uddee\ud83c\uddf7 Iran targets three tankers, US vessels in response to US attacks\nIRGC naval forces fired three missiles from Sirik toward the Strait of Hormuz and said they targeted three tankers using an unauthorized route, plus three US-linked vessels elsewhere, IRNA reported.\n\ud83d\udcac \u201cDo not be deceived by the terrorist US military\u2026 otherwise, you will be targeted,\u201d the IRGC warned vessels operating near Hormuz.\nEarlier, CENTCOM announced that it had struck three Iranian oil tankers.\nIran hit back swiftly.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-05T22:06:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Clash Report",
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
