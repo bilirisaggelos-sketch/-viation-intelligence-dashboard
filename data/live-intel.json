@@ -1,25 +1,6 @@
 {
-  "generated_at": "2026-09-05T05:31:32.486907+00:00",
+  "generated_at": "2026-09-05T09:26:02.376686+00:00",
   "events": [
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nMAYPORT, FL\nFacility: ZJX",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "09/04/2026",
-      "location": "ZJX FL",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nManhattan, NY, Wednesday, September 9, 2026 through Thursday, September 10, 2026 Local\nFacility: ZNY",
@@ -144,25 +125,6 @@
       "icon": "\ud83d\udea8",
       "timestamp": "08/30/2026",
       "location": "ZNY NJ",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nSanta FE, NM, Friday, September 4, 2026 through Friday, September 4, 2026 Local\nFacility: ZAB",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "08/30/2026",
-      "location": "ZAB NM",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
@@ -355,13 +317,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Mediterranean Man",
         "Middle East Spectator"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -375,13 +336,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Mediterranean Man",
         "Middle East Spectator"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -463,12 +423,12 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "After CIA Director John Ratcliffe\u2019s visit to Moscow failed to shift the Kremlin\u2019s position, Russia intensified missile and drone attacks on Ukraine.\nU.S. officials warned that Russia\u2019s position would worsen and urged negotiations, but people familiar with the talks said Putin interpreted the outreach as a sign of weakness rather than pressure to compromise.\nPutin appears convinced that time still favors Russia.\nSource: WaPo",
+      "text": "New photos confirm China's WZ-X stealth drone has a unique stepped wing design \u2014 broad inner sections transitioning to extremely narrow outer wings.\nWingspan is roughly 170 feet, comparable to the B-2 bomber.\nAnalysts estimate it cruises above 59,000 feet with a range over 12,000 miles.\nIt's a twin-engine flying wing likely built for high-altitude long-endurance surveillance, possibly operating near contested airspace where conventional drones would be shot down.\nIt's being tested at China's Malan drone base in Xinjiang alongside another massive stealth drone, the GJ-X.\nOfficial designation, manufacturer, and mission remain unconfirmed.\n[SOURCE](https://www.twz.com/air/chinas-huge-wz-x-stealth-drones-strange-wing-configuration-confirmed)",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-04T21:52:28+00:00",
+      "timestamp": "2026-09-05T09:22:23+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -482,12 +442,12 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Former Israeli PM Naftali Bennett:\nWe don\u2019t need to take any drastic ideological turns.\nYou know, no Palestinian state, but we don\u2019t have to annex all of Judea and Samaria (the West Bank) tomorrow.\nWhat we need is to fix Israel.",
+      "text": "Zelensky:\nIt is clear that these Russian strikes on airports are a reaction to discussions and preparations regarding the possibility of the American side using an aircraft to arrive in Ukraine and land at either \"Kyiv\" or \"Boryspil\" airport. \nThese Russian-Iranian \"Shahed\" drones are a response to American diplomacy. \nWe have recorded this Russian move and will adjust our operations regarding Russian airspace next week, as it has become dangerous due to the presence of drones and missiles in the sky. \nOf course, there are and will be no threats to diplomacy from our side.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-04T19:42:55+00:00",
+      "timestamp": "2026-09-05T09:03:43+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -501,12 +461,12 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Trump on Iran:\nWe lost 18 great souls. I got very friendly with some of the families.\nIn Vietnam, we lost tens of thousands of people. In Afghanistan, we lost a lot. \nSleepy Joe Biden lost 13 just by standing at an airport.",
+      "text": "NEW: Russia hit near both Kyiv airports as Witkoff and Kushner were reportedly about to fly in from Moscow. \nA drone hit two old Soviet planes at Zhulyany, the in-city airport. \nA Ukrainian MP said the envoys had been close to agreeing to land at Boryspil but would likely take a train instead. \nThe envoys landed in Moscow on September 5 and are still expected in Kyiv tomorrow.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-04T19:20:48+00:00",
+      "timestamp": "2026-09-05T09:00:10+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -516,6 +476,83 @@
         "Clash Report"
       ],
       "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Russia hit the Kamet-Steel plant in Kamenske, Dnipropetrovsk region, reportedly using North Korean KN-23 ballistic missiles. \nAfter Ukraine lost the Azovstal and Ilyich plants in Mariupol, Kamet-Steel became the country's second-largest steel producer. \nZaporizhstal and ArcelorMittal Kryvyi Rih were also hit recently, meaning Russia has struck all three of Ukraine's remaining major steel plants within a month.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-05T08:56:06+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Ukraine's new Magura MV11 is a 12-meter unmanned boat that stays at sea for up to 7 days and carries 18 vertical-launch interceptor drones.\nNew footage shows it firing Wild Hornets Sting quadcopters from box launchers while underway.\nEach interceptor costs about $2,100, is 3D-printed, and can reach 7,000 meters altitude.\nEarlier smaller Magura drones sank Russian warships and shot down helicopters with air-to-air missiles.\nThe MV11 shifts the concept from kamikaze strikes to a mobile anti-drone mothership \u2014 creating an offshore interceptor screen against Shahed-type drones.\nStill in testing, no confirmed combat use yet.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-05T08:55:26+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "NEW: Ukraine reportedly ordered a temporary ceasefire along the entire front from September 5\u20138, timed for the Witkoff-Kushner visits to Moscow and Kyiv. \nMultiple brigades confirmed receiving \"respond only\" orders. \nBut Russia never agreed to match it \u2014 overnight Russian drones and missiles hit Kyiv, Kharkiv, and destroyed a hypermarket in Mykolaiv. \nBy morning the General Staff said defensive operations continue \"in full\" because a ceasefire \"cannot be unilateral.\" \nZelensky had separately halted Ukrainian airstrikes on Russian territory while the envoys travel. \nThe pause was a Ukrainian initiative, not a negotiated deal.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-05T08:41:33+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Iran\u2019s Tasnim reports that an Iranian oil tanker about six miles off Kharg Island was struck by four U.S. missiles this morning.\nTasnim says there were no casualties and that the crew is evacuating the vessel. The extent of the damage is still being assessed.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-05T08:27:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Clash Report",
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -577,25 +614,6 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf7\ud83d\udd34\ud83c\uddfa\ud83c\uddf8\u2014 Pentagon Witchhunt through Polygraph\nUS investigators subjected roughly 50 Joint Staff officers and civilian employees to polygraph examinations in August as part of an investigation into classified information being leaked to journalists.\nPersonnel were questioned about reports involving dwindling US munitions stockpiles during the war with Iran, including shortages of Patriot interceptors and long-range missiles. The Joint Staff numbers only around 1,500\u20132,000 personnel, making the scale of the investigation notable.\nPentagon spokesman Sean Parnell said:\n\u201cWe take all leaks of classified national security information extremely seriously and investigate accordingly.\u201d\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-05T02:15:20+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
       "text": "\ud83c\uddee\ud83c\uddf1\u274c\ud83c\uddf1\ud83c\udde7\ud83c\uddf1\ud83c\udde7 \u2014 Israeli Defense Forces (IDF): We intercepted a drone launched by Hezbollah toward our forces in the security zone, and we are currently responding with airstrikes.\n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
@@ -630,6 +648,26 @@
         "Alsaa Plus EN"
       ],
       "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf7Iranian media: Iranian oil tanker in Kharg Island targeted by US missile attack",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-05T07:10:18+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Clash Report",
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -710,23 +748,22 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddee\ud83c\uddf7 Missile was launched at a ship in the Strait of Hormuz that's violating the Iranian blockade.",
+      "publisher": "CASELS",
+      "text": "Ukraine says air defenses downed or suppressed 128 of 167 Russian drones launched overnight, including Shaheds, about half of them jet-powered, Gerberas and Parodiya decoys. Russia also launched Iskander-M/KN-23 ballistic missiles. Missile and drone hits were recorded at 23 locations.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-04T16:07:01+00:00",
+      "timestamp": "2026-09-05T05:45:45+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Mediterranean Man",
-        "Middle East Spectator"
+        "CASELS"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -787,39 +824,39 @@
     },
     {
       "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfaRussian drones struck a high rise apartment in Boryspil, eastern Kyiv region, during this evening's Russian drone incursion into Ukraine. \n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "publisher": "Geopolitics Prime",
+      "text": "\u2757\ufe0fFor our Italian-speaking audience! \u2757\ufe0f\n\ud83d\udce3 They\u2019re telling you everything. But how much is true?\nEvery day we\u2019re flooded with news that changes by the hour\u2014but how can you know what\u2019s real?\n\u26a0\ufe0f [Tutti i Fatti](https://t.me/+sgWs6OaQKNA0ODUy) brings you only what matters: verified, factual news from around the world.\n\u2b07\ufe0f Follow the latest on the events gripping the globe:\n- Middle East War: Iran, the US, and Israel clash as missiles strike the Gulf and cities face attacks. Washington and Tel Aviv escalate, Teheran retaliates\u2014will there be a ceasefire or a regional escalation?\n- Ukraine: Zelensky faces corruption scandals and mounting pressure. Will he push for peace or resume the offensive against Russia? His choice could shift European and global balances.\n- Global Markets & Oil: Prices soar, financial chaos spreads, inflation spikes. The Strait of Hormuz crisis shakes the world economy.\n\ud83d\udd14 Stay ahead. For verified updates, join [Tutti i Fatti.](https://t.me/+sgWs6OaQKNA0ODUy)",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-05T03:22:37+00:00",
+      "timestamp": "2026-09-05T08:28:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "CASELS"
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
     {
       "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfaRussian drones struck the Epicenter Shopping Center in Mykolaiv city earlier this evening. \nTwo people have been confirmed injured in the strike as of time of writing. \n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udc64\ud83d\udc41 Palantir cofounder turns \u2018charity\u2019 into pipeline for homelessness and surveillance industrial complex profits\nVenture capitalist Joe Lonsdale\u2019s Cicero Institute think tank and Cicero Action advocacy enjoy non-profit and social welfare organization status, but factually serve as tools used to lobby his extensive military, homelessness and surveillance industrial complex investment interests.\n\ud83d\udc49 Disclosures uncovered by the National Homelessness Law Center reveal that Cicero Action has been using the shadow name American Phalanx to lobby lawmakers on military contracts, spending and Pentagon procurement to push Palantir, Anduril, Saronic and Epirus products \u2013 firms Lonsdale is invested in up to the hilt.\nTogether, the Cicero Institute and Cicero Action also help set homelessness policy, the former writing \u201cmodel legislation\u201d and copy-paste policy briefs for state-level lawmakers, testifying at hearings, and fighting tooth and nail against subsidized housing. Their work has helped pass statewide bans on unauthorized public sleeping and camping in more than a dozen states, jailing and fining violators.\n\u27a1\ufe0f That flows into Lonsdale\u2019s heavy-handed enforcement-focused approach to \u2018dealing with\u2019 the problem, including geotracking and public surveillance (through Palantir) and policing apps (Citizen), as well as financial and organizational interests in the private prison industry.\nCicero also focuses on integrating [disparate public surveillance data](https://t.me/geopolitics_prime/73825) (criminal records, license plate readers, immigration registries, hospital intake data) \u2013 Palantir\u2019s specialty, and high-end drone-based security for the wealthy \u2013 the domain of Sauran, another Lonsdale investment (great job naming your companies after two Tolkien villains, guys).\n\u203c\ufe0f Cicero Institute has successfully influenced over 650 pieces of legislation (per the Institute\u2019s own count), and works to control the narrative on the issues Lonsdale cares about through policy summits and media blitzes.\nLonsdale\u2019s 8VC investment vehicle even has AI healthcare, private university and alternative accreditation divisions, with Cicero pushing legislation and deregulation that benefits Digital Diagnostics, Candid Health, Oscar Health, the University of Austin and other entities in his incredibly diverse portfolio.\n\ud83d\udcd1 Among the legislation Cicero has most heavily lobbied for in the health field is the so-called Patient\u2019s Right to Save Act, which treats medical care like a retail commodity and incentivizes substandard and tiered care, and is designed to line the pockets of digital marketplace and financial software makers (also co-owned by Lonsdale, naturally).\nForget Thiel and Karp, who at least wear their psychopathic tendencies on their sleeve. Lonsdale\u2019s multi-headed hydra-style takeover of entire sectors of the economy is the real serpent in the grass to look out for.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-05T03:22:33+00:00",
+      "timestamp": "2026-09-05T06:02:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "CASELS"
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
@@ -832,44 +869,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-09-05T04:40:52+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddee\ud83c\uddf1\ud83d\udcb8\ud83d\udcc9 Israel Is Losing the People Who Keep Its War Economy Running\nIsrael\u2019s emigration problem is no longer defined mainly by how many people leave. The country is losing doctors, engineers, tech workers and high-income taxpayers\u2014the professional class that keeps its hospitals, export economy and military technology functioning.\nA Tel Aviv University study based on official statistics found that 268,509 Israelis remained abroad for at least three consecutive months between 2023 and 2025, nearly 47% more than a decade earlier. Three months abroad is not permanent emigration, but the researchers found that short and long absences track closely. They estimate that 45,000\u201350,000 Israelis became long-term emigrants in 2025 alone.\nThe profile of those leaving is even more damaging. Israel\u2019s Tax Authority found that emigrants now earn around 50% more than the national average. The departure rate among the richest tenth of the population rose by roughly 80%, while barely changing among poorer groups. That top decile accounted for 67% of emigrants\u2019 combined income and 86% of the income tax they had paid before leaving.\nDepartures from high-tech increased by around 150% in 2023\u20132024, while the number leaving healthcare more than doubled.\nIsrael is unusually exposed to this loss. High-tech generates around 17% of GDP and 57% of exports while employing only 11.5% of the workforce. Losing a relatively small number of experienced engineers, researchers and entrepreneurs can therefore remove far more output and tax revenue than the raw migration figures suggest.\nThe pressure comes as military spending remains elevated and repeated reserve mobilizations pull skilled workers away from their jobs. The war economy needs more taxes and advanced technology, yet it is exhausting the same educated, high-productivity population that supplies both. Low employment among Haredi men leaves even more of the fiscal and military burden on those now heading abroad.\nThe government tries to counter the danger. In March, lawmakers approved a graduated five-year income-tax exemption for qualifying new immigrants and long-term returning residents. Israel is offering a tax premium to attract the kind of people its political and military course is driving away.\nMoney can repair buildings or purchase another shipment of American weapons but it cannot quickly replace an experienced surgeon, a semiconductor engineer or a founder who moves a company, family and savings to Europe. Every such departure increases the burden on those who remain and makes leaving easier for the next family.\nThe Zionist project was built around aliyah\u2014the promise that Jews would move to Israel in search of security and permanence. Permanent war is now producing movement in the opposite direction.\nIsrael set out to prove that military force could guarantee its future. Instead, its wars are driving away the people whose skills, taxes and labor make that force possible.\n us on X](https://x.com/NewRulesGeo?t=6cJ2ZyQr-1f_lBvKPNggKw&s=09)",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-04T23:13:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udca5 Russian strike drones smash Nikolaev\u2019s shopping mall\nRussian jet-powered strike drones pounded the Epicenter shopping mall in Nikolaev, triggering a major fire.\nThese malls are used by the Ukrainian army [to store and distribute military cargo](https://t.me/geopolitics_prime/72497).\nUkrainian authorities confirmed the strike, while local reports said railway and port infrastructure also came under attack.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-04T21:41:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
