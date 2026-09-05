@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T09:26:02.376686+00:00",
+  "generated_at": "2026-09-05T12:59:33.803984+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -422,140 +422,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "New photos confirm China's WZ-X stealth drone has a unique stepped wing design \u2014 broad inner sections transitioning to extremely narrow outer wings.\nWingspan is roughly 170 feet, comparable to the B-2 bomber.\nAnalysts estimate it cruises above 59,000 feet with a range over 12,000 miles.\nIt's a twin-engine flying wing likely built for high-altitude long-endurance surveillance, possibly operating near contested airspace where conventional drones would be shot down.\nIt's being tested at China's Malan drone base in Xinjiang alongside another massive stealth drone, the GJ-X.\nOfficial designation, manufacturer, and mission remain unconfirmed.\n[SOURCE](https://www.twz.com/air/chinas-huge-wz-x-stealth-drones-strange-wing-configuration-confirmed)",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-05T09:22:23+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Zelensky:\nIt is clear that these Russian strikes on airports are a reaction to discussions and preparations regarding the possibility of the American side using an aircraft to arrive in Ukraine and land at either \"Kyiv\" or \"Boryspil\" airport. \nThese Russian-Iranian \"Shahed\" drones are a response to American diplomacy. \nWe have recorded this Russian move and will adjust our operations regarding Russian airspace next week, as it has become dangerous due to the presence of drones and missiles in the sky. \nOf course, there are and will be no threats to diplomacy from our side.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-05T09:03:43+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "NEW: Russia hit near both Kyiv airports as Witkoff and Kushner were reportedly about to fly in from Moscow. \nA drone hit two old Soviet planes at Zhulyany, the in-city airport. \nA Ukrainian MP said the envoys had been close to agreeing to land at Boryspil but would likely take a train instead. \nThe envoys landed in Moscow on September 5 and are still expected in Kyiv tomorrow.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-05T09:00:10+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Russia hit the Kamet-Steel plant in Kamenske, Dnipropetrovsk region, reportedly using North Korean KN-23 ballistic missiles. \nAfter Ukraine lost the Azovstal and Ilyich plants in Mariupol, Kamet-Steel became the country's second-largest steel producer. \nZaporizhstal and ArcelorMittal Kryvyi Rih were also hit recently, meaning Russia has struck all three of Ukraine's remaining major steel plants within a month.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-05T08:56:06+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Ukraine's new Magura MV11 is a 12-meter unmanned boat that stays at sea for up to 7 days and carries 18 vertical-launch interceptor drones.\nNew footage shows it firing Wild Hornets Sting quadcopters from box launchers while underway.\nEach interceptor costs about $2,100, is 3D-printed, and can reach 7,000 meters altitude.\nEarlier smaller Magura drones sank Russian warships and shot down helicopters with air-to-air missiles.\nThe MV11 shifts the concept from kamikaze strikes to a mobile anti-drone mothership \u2014 creating an offshore interceptor screen against Shahed-type drones.\nStill in testing, no confirmed combat use yet.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-05T08:55:26+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "NEW: Ukraine reportedly ordered a temporary ceasefire along the entire front from September 5\u20138, timed for the Witkoff-Kushner visits to Moscow and Kyiv. \nMultiple brigades confirmed receiving \"respond only\" orders. \nBut Russia never agreed to match it \u2014 overnight Russian drones and missiles hit Kyiv, Kharkiv, and destroyed a hypermarket in Mykolaiv. \nBy morning the General Staff said defensive operations continue \"in full\" because a ceasefire \"cannot be unilateral.\" \nZelensky had separately halted Ukrainian airstrikes on Russian territory while the envoys travel. \nThe pause was a Ukrainian initiative, not a negotiated deal.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-05T08:41:33+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Iran\u2019s Tasnim reports that an Iranian oil tanker about six miles off Kharg Island was struck by four U.S. missiles this morning.\nTasnim says there were no casualties and that the crew is evacuating the vessel. The extent of the damage is still being assessed.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-05T08:27:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Clash Report",
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
       "publisher": "Our Wars Today",
       "text": "\ud83c\uddee\ud83c\uddf7 \u26a0\ufe0f \ud83c\uddfa\ud83c\uddf8 \ud83c\uddee\ud83c\uddf1 \ud83c\uddef\ud83c\uddf4 #BREAKING Iran Fires Retaliatory Missiles After #Trump Warns \"Not To Retaliate\" As #UnitedStates Strikes Continue To Land Across Regions:\nIran has just launched missiles in the past two hours, seemingly at U.S. bases in Jordan, as U.S. strikes continue to hit several provinces, inflicting casualties, including now several deaths at a wedding reports Iranian state media. \nMore Coverage: T.me/ourwarstoday \n---\n24/7 LIVE News RSS feed: t.me/ournewsfeedtoday\n---\nFootage: t.me/ourwars\n---\nSupport OWT: https://ko-fi.com/ourwarstoday",
       "source": "Telegram",
@@ -614,6 +480,82 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf1\u274c\ud83c\uddee\ud83c\uddf7\ud83c\uddf1\ud83c\udde7\ud83c\uddf5\ud83c\uddf8 \u2014 Israeli Prime Minister Benjamin Netanyahu:\nThe central question in these elections is: Who will finish what has to be finished? Who will finally finish off this regime in Iran? Who will finally finish off Hezbollah? Who will finally finish off Hamas?\nMy political opponents give in to every pressure. America tells them \"no,\" and they immediately tremble. \nWill they do it? No. They won\u2019t do it. We do it.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-05T12:12:53+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf1\u274c\ud83c\uddee\ud83c\uddf7 \u2014 Israeli Prime Minister Benjamin Netanyahu on Iran:\nIf Iran attacks us, they will absorb such a blow that I do not want to detail it.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-05T12:11:33+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf1\ud83c\uddf5\ud83c\uddf8\ud83c\uddee\ud83c\uddf7\u26a1\ufe0f \u2014 Israeli Prime Minister Benjamin Netanyahu on Iran:\nWho would have believed on October 7 that we would change the face of the Middle East? I did.\nMy intention was that eventually we would clash with Iran.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-05T12:11:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf1\ud83c\uddf5\ud83c\uddf8\u26a1\ufe0f \u2014 Israeli Prime Minister Benjamin Netanyahu on Gaza:\nThere will be no reconstruction in Gaza unless there is, first of all, demilitarization. I can\u2019t tell you what kind of reconstruction there will be; we are discussing this with our American friends.\nSometimes we see eye to eye, sometimes we don\u2019t. And when we don\u2019t see eye to eye, they raise their interests, and I raise Israel\u2019s interests \u2014 and I stand by them.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-05T12:09:38+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
       "text": "\ud83c\uddee\ud83c\uddf1\u274c\ud83c\uddf1\ud83c\udde7\ud83c\uddf1\ud83c\udde7 \u2014 Israeli Defense Forces (IDF): We intercepted a drone launched by Hezbollah toward our forces in the security zone, and we are currently responding with airstrikes.\n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
@@ -661,13 +603,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Clash Report",
         "Mediterranean Man"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -717,25 +658,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-09-04T17:59:17+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ufe0f\ud83c\uddef\ud83c\uddf4Reports of a missile attack on American targets in northern Jordan.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-04T16:48:53+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -819,6 +741,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf7\ud83d\udc8b Pentagon launches leak witch hunt as US ammo stocks gutted by Iran war\nThe US military is hunting the messenger after its[ failed war with Iran ](https://t.me/geopolitics_prime/73672)exposed a problem it would rather keep buried: its vaunted war machine [is running short of ammunition.](https://t.me/geopolitics_prime/73162)\nRoughly 50 military officers and civilian officials on the Joint Staff were subjected to polygraph tests in August as investigators searched for the source of leaks to journalists, reports The New York Times. \nAmong the questions were: \n\ud83d\udd34 did they reveal classified information?\n\ud83d\udd34 did they disclose details about depleted US stocks of crucial weapons?\nAround 1,500\u20132,000 officials work on the Joint Staff, which coordinates US military operations and war planning worldwide. Never before has the US subjected the upper echelons of its military to polygraphs on such a scale, notes the publication.\n\ud83d\udc49 It also fits a broader pattern, where under War Secretary Hegseth, the Pentagon has tightened media access and launched repeated leak investigations while pushing out or blocking the promotions of dozens of senior officers. Even Stars and Stripes, the government-funded military newspaper, has found itself caught in the crossfire after its leadership was fired amid coverage of[ deteriorating conditions aboard the USS Abraham Lincoln.](https://t.me/geopolitics_prime/74048)\nThe polygraph sweep followed reports that the Iran war had chewed through supplies of long-range missiles and Patriot interceptors.\nPatriot stockpiles w[ere confirmed to have fallen to just 25% of the volume the Pentagon deems necessary](https://t.me/geopolitics_prime/74021) \u2013 forcing the US to request interceptors from Poland and to suspend arms deliveries to strategic partners in Asia and Europe.\nAnd yet, Trump has backed Hegseth and branded critical reporting on the Iran war and ammunition shortages as \u201ctreasonous.\u201d\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-05T10:03:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
