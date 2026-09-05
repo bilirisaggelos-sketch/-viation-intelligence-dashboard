@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T00:52:21.339757+00:00",
+  "generated_at": "2026-09-05T05:31:32.486907+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -577,6 +577,25 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf7\ud83d\udd34\ud83c\uddfa\ud83c\uddf8\u2014 Pentagon Witchhunt through Polygraph\nUS investigators subjected roughly 50 Joint Staff officers and civilian employees to polygraph examinations in August as part of an investigation into classified information being leaked to journalists.\nPersonnel were questioned about reports involving dwindling US munitions stockpiles during the war with Iran, including shortages of Patriot interceptors and long-range missiles. The Joint Staff numbers only around 1,500\u20132,000 personnel, making the scale of the investigation notable.\nPentagon spokesman Sean Parnell said:\n\u201cWe take all leaks of classified national security information extremely seriously and investigate accordingly.\u201d\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-05T02:15:20+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
       "text": "\ud83c\uddee\ud83c\uddf1\u274c\ud83c\uddf1\ud83c\udde7\ud83c\uddf1\ud83c\udde7 \u2014 Israeli Defense Forces (IDF): We intercepted a drone launched by Hezbollah toward our forces in the security zone, and we are currently responding with airstrikes.\n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
@@ -712,12 +731,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6 [Reuters](https://www.reuters.com/world/ukraines-zelenskiy-says-russian-drones-hit-coca-cola-plant-outside-kyiv-2026-09-03/): Russian drones struck and damaged a Coca-Cola plant near Brovary, east of Kyiv, on Thursday, according to Ukrainian President Volodymyr Zelenskiy. Officials said there were no injuries in the attack, while footage showed firefighters responding as smoke rose from the facility.\nZelenskiy described the strike as a deliberate signal to the United States, noting that Coca-Cola is an American company. He said Russia would have been aware of the facility\u2019s American connection when carrying out the attack.\nThe American Chamber of Commerce in Ukraine said the plant\u2019s staff were unharmed and that the company was working with authorities to assess the damage. \n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "Footage reportedly shows a Ukrainian Air Force F-16 shooting down a Russian drone over northern Ukraine using an AIM-9 Sidewinder air-to-air missile\nContributed by",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-04T04:22:35+00:00",
+      "timestamp": "2026-09-05T05:16:51+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -731,12 +750,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8\ud83c\uddf2\ud83c\uddfdFox: The U.S. military shot down approximately 100 suspected cartel drones along the southern border during August.\nEach interception was coordinated in advance with Mexican military and border authorities.\n\"The United States is employing defensive counter-drone technology to protect our personnel and border security operations from cartel-linked drone threats. These actions are closely coordinated with Mexican military and border authorities to ensure safety and deconfliction on both sides of the border.\"\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "\u26a1\ufe0f\ud83c\udde8\ud83c\uddf4\ud83c\udde8\ud83c\uddf4Colombian President Espriella says that two Colombian soldiers were killed by the ELN drone attack on a base in Oca\u00f1a, Norte de Santander. \nHe warned the ELN that for each Colombian soldier they kill he will bring down upon them the whole power and strength of the government. \n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-04T04:22:10+00:00",
+      "timestamp": "2026-09-05T05:15:43+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -750,12 +769,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfaUkrainian drones targeted Sochi, in Russia\u2019s Krasnodar Krai region, this evening. They reportedly struck an S-400 position in the area. \n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "\u26a1\ufe0f\ud83c\udde8\ud83c\uddf4\ud83c\udde8\ud83c\uddf4An ELN drone targeted the Colombian military base in Oca\u00f1a, Norte de Santander, this evening. \n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-04T04:21:59+00:00",
+      "timestamp": "2026-09-05T03:24:05+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -769,12 +788,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Zelensky: A Russian drone struck a Coca-Cola plant today. \nHe called it a clear signal to America, saying Russia could not be unaware it was hitting an American company.",
+      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfaRussian drones struck a high rise apartment in Boryspil, eastern Kyiv region, during this evening's Russian drone incursion into Ukraine. \n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-04T04:13:56+00:00",
+      "timestamp": "2026-09-05T03:22:37+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -782,6 +801,44 @@
       "verification_confidence": 30,
       "verified_sources": [
         "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfaRussian drones struck the Epicenter Shopping Center in Mykolaiv city earlier this evening. \nTwo people have been confirmed injured in the strike as of time of writing. \n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-05T03:22:33+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udcb0\u2721\ufe0f Israel\u2019s Malvinas strategy: back Argentina, back Britain, back whoever wins and get paid\n\u00a0\nArgentina has announced plans to build a major new military base just ~400 nautical miles off the disputed Malvinas/Falkland Islands.\nSituated in Tierra del Fuego on Argentina\u2019s southern tip, the naval and logistics installation aims to significantly enhance Buenos Aires\u2019 regional power projection capabilities. Argentina had nothing like it during the 1982 Falklands War.\nJavier Milei is threatening to sanction oil companies planning to drill off the Malvinas at the new Sea Lion field, ~120 nautical miles north of the islands, and Argentina\u2019s Secretariat of Intelligence has published a satellite image of the islands with the ominous message \u201cWe are watching\u201d slapped on top.\nSea Lion is set to begin extraction in 2028, and suck nearly 920M barrels of oil out of the seafloor over thirty years. The surrounding basin is believed to hold additional untapped reserves.\nMilei is confident he has Trump\u2019s back, because he \u201cknows that Argentina [is] a reliable partner, aligned with Western values, in a strategically important position that can become a valuable ally in the decades to come.\u201d\nTrump has confirmed he\u2019s \u201creviewing\u201d the US position, and declined to guarantee support for Britain in case of a territorial dispute, citing London\u2019s hesitation in joining his Iran crusade.\nMixed up in all this is Israel, whose Navitas Petroleum has a 65% stake in Sea Lion alongside Britain\u2019s Rockhopper Exploration (35%).\nIsrael and the UK enjoy deeply integrated defense and economic ties (including arms contracts going both ways, logistics and intel support).\nBut Tel Aviv has also been lovingly embraced by Milei, who traveled to Israel in April [to sign the Isaac Accords on](https://t.me/geopolitics_prime/68465) defense, intelligence, security, [tech, trade and investment cooperation](https://t.me/geopolitics_prime/73227).\nBesides playing both sides to guarantee access to resources, Israel can use the Malvinas issue to \u201cpunish\u201d Britain for its West Bank sanctions threats, or, on the other hand, quietly demand that Milei give up more sovereignty to Israeli interests (in Patagonia, for example).\nCompartmentalizing the issue between \u201cprivate\u201d and \u201cstate\u201d interests gives Tel Aviv room for plausible deniability if the proverbial mierda ever hits the fan.\n\u00a0\n\ud83e\udd21 Double bluff\n\u00a0\nThere\u2019s also a third option: that Milei\u2019s Malvinas play is a ploy to distract the public and relegitimize his shaky rule. That would explain his tough talk at the same time that he ships central bank gold reserves to London, applies for NATO global partner status, raises defense spending while gutting social services, and facilitates an influx of Israeli companies and Zionist American tech billionaires into his country.\nThe buildup could even be preparation for a Cold War-style showdown with Brazil \u2013 backbone of BRICS in the Western hemisphere, or a bid to serve as Trump and Israel\u2019s beat cop in securing control over the region\u2019s riches (Venezuelan oil, Bolivia\u2019s lithium, etc.).\nWhatever the case, Israel can be assured of a win-win-win scenario for itself, so long [as Milei is in power](https://t.me/geopolitics_prime/59005) and the Peronists don\u2019t return to office.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-05T04:40:52+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
