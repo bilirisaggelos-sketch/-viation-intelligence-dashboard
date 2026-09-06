@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T08:49:29.069141+00:00",
+  "generated_at": "2026-09-06T12:47:55.428000+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -97,6 +97,44 @@
       "verified_source_count": 1
     },
     {
+      "title": "Space Weather Message Code: WATA20\r",
+      "text": "Space Weather Message Code: WATA20\r\nSerial Number: 1122\r\nIssue Time: 2026 Sep 06 1212 UTC\r\n\r\nWATCH: Geomagnetic Storm Category G1 Predicted \nHighest Storm Level Predicted by Day:\nSep 06: None (Below G1) Sep 07: None (Below G1) Sep 08: G1 (Minor) \nTHIS SUPERSEDES ANY/ALL PRIOR WATCHES IN EFFECT\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-09-06 12:12:15.890",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Space Weather Message Code: SUMPX1\r",
+      "text": "Space Weather Message Code: SUMPX1\r\nSerial Number: 134\r\nIssue Time: 2026 Sep 06 1155 UTC\r\n\r\nSUMMARY: Proton Event 10MeV Integral Flux exceeded 10pfu \nBegin Time: 2026 Sep 05 1615 UTC\nMaximum Time: 2026 Sep 05 1645 UTC\nEnd Time: 2026 Sep 05 2135 UTC\nMaximum 10MeV Flux: 18 pfu\nNoaa Scale: S1 - Minor\nComment: \r\n\r\nNOAA Scale: S1 - Minor",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-09-06 11:55:17.633",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
       "title": "Space Weather Message Code: WARPX1\r",
       "text": "Space Weather Message Code: WARPX1\r\nSerial Number: 632\r\nIssue Time: 2026 Sep 05 2358 UTC\r\n\r\nEXTENDED WARNING: Proton 10MeV Integral Flux above 10pfu expected\nExtension to Serial Number: 631\nValid From: 2026 Sep 05 1620 UTC\nNow Valid Until: 2026 Sep 06 1200 UTC\nWarning Condition: Persistence\n\r\n\r\nNOAA Scale: S1 - Minor",
       "source": "NOAA Space Weather",
@@ -154,52 +192,14 @@
       "verified_source_count": 1
     },
     {
-      "title": "Space Weather Message Code: ALTPX1\r",
-      "text": "Space Weather Message Code: ALTPX1\r\nSerial Number: 368\r\nIssue Time: 2026 Sep 05 1633 UTC\r\n\r\nALERT: Proton Event 10meV Integral Flux exceeded 10pfu \nBegin Time: 2026 Sep 05 1615 UTC\nNoaa Scale: S1 - Minor\nComment: \r\n\r\nNOAA Scale: S1 - Minor",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-09-05 16:33:07.073",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Space Weather Message Code: WARPX1\r",
-      "text": "Space Weather Message Code: WARPX1\r\nSerial Number: 631\r\nIssue Time: 2026 Sep 05 1620 UTC\r\n\r\nWARNING: Proton 10MeV Integral Flux above 10pfu expected \nValid From: 2026 Sep 05 1620 UTC\nValid To: 2026 Sep 05 2359 UTC\nWarning Conditions: Onset\nNoaa Scale: S1 - Minor\nComment: \r\n\r\nNOAA Scale: S1 - Minor",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-09-05 16:20:40.413",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Volcano eruption triggers flight suspensions at Indonesia's main airport",
-      "text": "Volcano eruption triggers flight suspensions at Indonesia's main airport\nMore than 20,000 passengers are stranded after ash was detected in airspace near Jakarta following the eruptions.",
+      "title": "Volcano eruption leaves 150,000 passengers stranded in Indonesia",
+      "text": "Volcano eruption leaves 150,000 passengers stranded in Indonesia\nMore than 150,000 airline passengers are stranded after ash was detected in airspace near Jakarta following the eruptions.",
       "source": "BBC",
       "source_type": "osint",
       "publisher": "BBC World News",
       "severity": "info",
       "icon": "\ud83d\udcf0",
-      "timestamp": "2026-09-06T07:06:50+00:00",
+      "timestamp": "2026-09-06T09:56:39+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -327,12 +327,12 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Germany\u2019s Isar Aerospace successfully launched its Spectrum rocket into orbit from Norway, marking the first commercial orbital launch from continental Europe.\nThe launch was Isar\u2019s second attempt after its first rocket exploded in 2025, marking a major step toward Europe developing its own launch capabilities and reducing reliance on U.S. providers.",
+      "text": "Ukraine Weighs Taxing OnlyFans Porn to Fund Drones and Defense\nUkraine\u2019s Parliament is considering legalizing pornography as lawmakers seek to tax thousands of OnlyFans creators to raise up to $25 million a year for defense-related needs.\n[READ MORE](https://clashreport.com/world/articles/ukraine-weighs-taxing-onlyfans-porn-to-fund-drones-and-defense-d9rrna1wp8w)",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-06T08:24:51+00:00",
+      "timestamp": "2026-09-06T12:44:45+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -346,50 +346,12 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Germany is planning a nationwide \u201cprotective shield\u201d against Russian hybrid attacks following a failed explosive-drone attack at Leipzig/Halle Airport. \nThe plan includes expanding mobile police drone-defense units, giving critical-infrastructure companies legal authority to actively detect and disable threatening drones, deploying AI-powered surveillance systems and creating a national \u201cCyberdome\u201d to detect and block cyberattacks.\nSource: BILD",
+      "text": "Abdul El-Sayed:\nJudaism and the Jewish people are not the same as Israel and AIPAC. They\u2019re not the same.\nMy family immigrated from Egypt. When I\u2019m elected, I\u2019m probably going to be the loudest critic of the Egyptian government in the whole U.S. Senate.\nAnd I would hate if somebody were to say, \"Well, you\u2019re now accountable for what the government of Egypt did because you happen to share the same ethnicity as the people who live there,\" right?\nAnd so I think we have to take great care not to allow what are righteous criticisms of the Israeli government to then cast upon Judaism or the Jewish people anywhere.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-06T08:01:51+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "A young Jewish girl was seen spitting on St. James Monastery in Jerusalem\u2019s Armenian Quarter despite police being stationed nearby.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-06T05:43:49+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Abdul El-Sayed:\nMy commitment to the safety of Jewish children and Jewish families is the same as the commitment that I got to the safety of my kids and my family.\nWe can deeply disagree on how we ought to get equal rights of peace, dignity, and self-determination for Palestinians and Jewish Israelis in the Holy Land, but I will never question whether or not Jewish communities and Jewish families and Jewish children should be safe in our land.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-06T05:41:35+00:00",
+      "timestamp": "2026-09-06T12:37:36+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -593,44 +555,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf1\ud83c\uddf5\ud83c\uddf8\ud83c\uddee\ud83c\uddf7\u26a1\ufe0f \u2014 Israeli Prime Minister Benjamin Netanyahu on Iran:\nWho would have believed on October 7 that we would change the face of the Middle East? I did.\nMy intention was that eventually we would clash with Iran.\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-05T12:11:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf1\ud83c\uddf5\ud83c\uddf8\u26a1\ufe0f \u2014 Israeli Prime Minister Benjamin Netanyahu on Gaza:\nThere will be no reconstruction in Gaza unless there is, first of all, demilitarization. I can\u2019t tell you what kind of reconstruction there will be; we are discussing this with our American friends.\nSometimes we see eye to eye, sometimes we don\u2019t. And when we don\u2019t see eye to eye, they raise their interests, and I raise Israel\u2019s interests \u2014 and I stand by them.\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-05T12:09:38+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Mediterranean Man",
       "text": "\u26a1\ufe0f\u26a1\ufe0f\ud83c\uddee\ud83c\uddf6\ud83c\uddfa\ud83c\uddf8 The U.S State Dept has approved a request from the Iraqi government to purchase an undisclosed amount of Bell-412EPX helicopters & Bell-407M helicopters, along with undisclosed amounts of:\n\u2022 GAU-19 12.7x99mm (.50 BMG) 3-barrel Gatling Guns\n\u2022 M260 7-tube rocket launchers\nAnd other related equipment at the cost of $1 Billion (USD).\nEdit: Sources report 2 separate requests for the Bell-412EPX, one with a $800mil total, the other with a $200mil total.",
       "source": "Telegram",
@@ -638,44 +562,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-09-05T19:17:58+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "I am genuinely in shock and in awe of this strategy.\nSo - we gave the Iranian government tens of millions of dollars, and covertly managed to ship in whole shipments of petrochemicals, the millions of dollars would have obviously went to IRGC economic interests that would have made drones to bomb Israel, and now we give money for discounted Israeli gas, and this money goes to Israel to make bombs to bomb Iran.\nIs this how Americans feel when their money funds both sides of the conflict?",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-05T17:23:11+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7 Financial investigations into Banque Misr UAE showed that the payment to the Iranian government came from the Egyptian government.\nEgypt purchased petrochemicals and oil through Banque Misr to prevent an energy crisis.\nThis would mean that oil and gas is being bought at the same time from Israeli gas fields in the Mediterranean and Iranian gas fields in the Gulf, as both countries bomb each others gas fields.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-05T17:18:07+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
