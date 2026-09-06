@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T18:20:41.269731+00:00",
+  "generated_at": "2026-09-06T20:43:52.972155+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -135,6 +135,25 @@
       "verified_source_count": 1
     },
     {
+      "title": "Space Weather Message Code: ALTEF3\r",
+      "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3736\r\nIssue Time: 2026 Sep 06 1824 UTC\r\n\r\nALERT: Electron 2MeV Integral Flux exceeded 1,000pfu \nThreshold Reached: 2026 Sep 06 1822 UTC\nStation: GOES-19\nComment:",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-09-06 18:24:48.893",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
       "title": "Space Weather Message Code: WATA20\r",
       "text": "Space Weather Message Code: WATA20\r\nSerial Number: 1122\r\nIssue Time: 2026 Sep 06 1212 UTC\r\n\r\nWATCH: Geomagnetic Storm Category G1 Predicted \nHighest Storm Level Predicted by Day:\nSep 06: None (Below G1) Sep 07: None (Below G1) Sep 08: G1 (Minor) \nTHIS SUPERSEDES ANY/ALL PRIOR WATCHES IN EFFECT\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
       "source": "NOAA Space Weather",
@@ -211,25 +230,6 @@
       "verified_source_count": 1
     },
     {
-      "title": "Space Weather Message Code: WARPC0\r",
-      "text": "Space Weather Message Code: WARPC0\r\nSerial Number: 124\r\nIssue Time: 2026 Sep 05 2339 UTC\r\n\r\nCANCEL WARNING: Proton 100MeV Integral Flux above 1pfu expected \nCancel Serial Number: 123\nOriginal Issue Time: 2026 Sep 05 1555 UTC\nConditions for this Warning are no longer present.",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-09-05 23:39:23.730",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
       "title": "Volcano eruption leaves 170,000 passengers stranded in Indonesia",
       "text": "Volcano eruption leaves 170,000 passengers stranded in Indonesia\nMore than 170,000 airline passengers are stranded after ash was detected in airspace near Jakarta following the eruptions.",
       "source": "BBC",
@@ -264,6 +264,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "BBC World News"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014 \ud83c\uddee\ud83c\uddf7/\ud83c\uddfa\ud83c\uddf8 NEW: The Secretary of Iran\u2019s Supreme National Security Council, Major General Mohsen Rezaei, says that Iran tested a new advanced anti-ship ballistic missile against U.S. Navy vessels 48 hours ago",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-06T18:54:39+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
       ],
       "verified_source_count": 1
     },
@@ -366,12 +385,12 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Zelensky:\nOur Ukrainian anti-ballistic system will be ready in the near future. \nThe American side will increase next year the production volumes of anti-ballistic Patriot missiles. \nAnd we expect that, in any case, God willing, the war will end, but we will still need them.",
+      "text": "Israel killed five-year-old Wafaa Yusuf Akilah and her father on Sunday in a drone strike on their vehicle in western Gaza City.\nSource: [Drop Site](https://x.com/DropSiteNews/status/2096689691269431715)",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-06T17:53:35+00:00",
+      "timestamp": "2026-09-06T20:39:47+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -385,12 +404,31 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Israeli fighter jets carried out a series of strikes in the Nabatieh area of southern Lebanon, with extensive attacks reported there since the morning.",
+      "text": "Iran's Security Council Secretary Rezaei:\nThe Americans are trying to smuggle 5 to 6 vessels, spending a lot of money, but these ships are usually targeted.\nWe have not yet decided to sink them, because they are carrying petroleum products. \nIf they were to pollute the entire Strait of Hormuz and the Persian Gulf, it would create a problem for us as well. \nHowever, none of them pass through safely; eventually, they suffer some damage.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-06T17:30:07+00:00",
+      "timestamp": "2026-09-06T18:54:37+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Iran's Security Council Secretary Rezaei:\nIn the coming days and weeks, we will announce a restricted zone outside the Strait of Hormuz that starts from the U.S. Navy's blockade line and extends through the Strait of Hormuz into the Persian Gulf.\nAny ship identified entering this zone with the intention of passing through the Strait will be added to our sanctions list.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-06T18:50:48+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -715,25 +753,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-09-06T08:03:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udca5 Houthis strike Saudi-backed forces in Taiz\nYemen\u2019s Ansar Allah forces launched ballistic missiles at positions held by Saudi-backed Presidential Leadership Council forces in Taiz, with powerful explosions reported across the city, Press TV reported.\nFars News also published footage of the strikes as fighting intensifies around Taiz and Hodeidah.\n\u2694\ufe0f Ansar Allah has also reportedly severed the Taiz\u2013Al-Mukha link after capturing Al-Kadha, while its forces push toward Al-Barih and westward toward Al-Mukha.\nThe pressure on Saudi-backed forces is mounting across multiple fronts.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-06T02:17:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
