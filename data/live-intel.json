@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T04:25:25.952247+00:00",
+  "generated_at": "2026-09-06T08:49:29.069141+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -87,25 +87,6 @@
       "icon": "\ud83d\udea8",
       "timestamp": "09/02/2026",
       "location": "ZMP MI",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nGerlach, NV, Saturday, September 5, 2026 Local\nFacility: ZOA",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "09/01/2026",
-      "location": "ZOA NV",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
@@ -207,6 +188,25 @@
       "verification_confidence": 100,
       "verified_sources": [
         "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Volcano eruption triggers flight suspensions at Indonesia's main airport",
+      "text": "Volcano eruption triggers flight suspensions at Indonesia's main airport\nMore than 20,000 passengers are stranded after ash was detected in airspace near Jakarta following the eruptions.",
+      "source": "BBC",
+      "source_type": "osint",
+      "publisher": "BBC World News",
+      "severity": "info",
+      "icon": "\ud83d\udcf0",
+      "timestamp": "2026-09-06T07:06:50+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "BBC World News"
       ],
       "verified_source_count": 1
     },
@@ -327,33 +327,12 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Iran\u2019s IRGC says it launched ballistic missiles at a U.S. aircraft carrier and destroyer, claiming the warships were involved in actions against Iranian vessels. \nThe IRGC said the ships were damaged and withdrew from the area, and warned of further responses if hostile actions continue.",
+      "text": "Germany\u2019s Isar Aerospace successfully launched its Spectrum rocket into orbit from Norway, marking the first commercial orbital launch from continental Europe.\nThe launch was Isar\u2019s second attempt after its first rocket exploded in 2025, marking a major step toward Europe developing its own launch capabilities and reducing reliance on U.S. providers.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-05T23:12:30+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Clash Report",
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 3
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "U.S. Ambassador to Israel Mike Huckabee:\nThe reason I use the terms Judea and Samaria is because they\u2019re the ancient biblical terms of this land.\n80% of the Bible happened in the area, Judea, Samaria. The West Bank is a nebulous term to me.\nIt is one I know that many people use, but it\u2019s not well defined. \nIt\u2019s not considered something that is ancient and historical.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-05T20:11:55+00:00",
+      "timestamp": "2026-09-06T08:24:51+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -367,32 +346,50 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "The IRGC Navy said U.S. forces attacked three Iranian oil tankers near the Strait of Hormuz, causing damage.\nIt said Iranian forces responded by targeting three tankers allegedly using unauthorized routes and three U.S.-linked vessels elsewhere.\nThe IRGC Navy warned vessels in the Persian Gulf and near the Strait of Hormuz to avoid suspicious movements or unauthorized waterways, saying they could otherwise be targeted.",
+      "text": "Germany is planning a nationwide \u201cprotective shield\u201d against Russian hybrid attacks following a failed explosive-drone attack at Leipzig/Halle Airport. \nThe plan includes expanding mobile police drone-defense units, giving critical-infrastructure companies legal authority to actively detect and disable threatening drones, deploying AI-powered surveillance systems and creating a national \u201cCyberdome\u201d to detect and block cyberattacks.\nSource: BILD",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-05T20:11:50+00:00",
+      "timestamp": "2026-09-06T08:01:51+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Clash Report",
-        "Geopolitics Prime"
+        "Clash Report"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Former CIA Director David Petraeus on Iran:\nWe\u2019ve used perhaps half of our missile interceptors in this particular conflict.\nWe need to learn from the Ukrainians, who are using 10,000 cheap drones per day. \nAnd the exchange that they\u2019re getting for those is absolutely massive. \nOur exchange when we shoot an expensive missile interceptor to take down a $50,000 Iranian drone is obviously not one that is sustainable.",
+      "text": "A young Jewish girl was seen spitting on St. James Monastery in Jerusalem\u2019s Armenian Quarter despite police being stationed nearby.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-05T19:55:38+00:00",
+      "timestamp": "2026-09-06T05:43:49+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Abdul El-Sayed:\nMy commitment to the safety of Jewish children and Jewish families is the same as the commitment that I got to the safety of my kids and my family.\nWe can deeply disagree on how we ought to get equal rights of peace, dignity, and self-determination for Palestinians and Jewish Israelis in the Holy Land, but I will never question whether or not Jewish communities and Jewish families and Jewish children should be safe in our land.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-06T05:41:35+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -472,14 +469,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
         "Alsaa Plus EN",
-        "Clash Report",
         "Geopolitics Prime"
       ],
-      "verified_source_count": 3
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -693,12 +689,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Ukraine says air defenses downed or suppressed 128 of 167 Russian drones launched overnight, including Shaheds, about half of them jet-powered, Gerberas and Parodiya decoys. Russia also launched Iskander-M/KN-23 ballistic missiles. Missile and drone hits were recorded at 23 locations.",
+      "text": "\u2757\ufe0fUkrainian drones struck Russia's Ryazan oil refinery, setting the facility ablaze. The Rosneft-controlled plant has a design processing capacity of about 17 million tons of crude per year, or roughly 340,000 barrels per day. It produces gasoline, diesel and aviation kerosene, supplies fuel to civilian consumers and the Russian military, and is a key motor-fuel supplier for regions around Moscow.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-05T05:45:45+00:00",
+      "timestamp": "2026-09-06T07:28:07+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -712,12 +708,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Footage reportedly shows a Ukrainian Air Force F-16 shooting down a Russian drone over northern Ukraine using an AIM-9 Sidewinder air-to-air missile\nContributed by",
+      "text": "\u26a1\ufe0f\ud83c\uddf1\ud83c\udde7\ud83c\uddee\ud83c\uddf1 An Israeli drone strike targeted a vehicle in Nabatieh al-Fawqa, southern Lebanon, with multiple injuries reported.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-05T05:16:51+00:00",
+      "timestamp": "2026-09-06T06:13:41+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -731,12 +727,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\udde8\ud83c\uddf4\ud83c\udde8\ud83c\uddf4Colombian President Espriella says that two Colombian soldiers were killed by the ELN drone attack on a base in Oca\u00f1a, Norte de Santander. \nHe warned the ELN that for each Colombian soldier they kill he will bring down upon them the whole power and strength of the government. \n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "\u26a1\ufe0f\ud83c\uddfe\ud83c\uddea\ud83c\uddfe\ud83c\uddea The Houthis reportedly launched a ballistic missile toward the city of Taiz, in southwestern Yemen, causing an explosion in the city.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-05T05:15:43+00:00",
+      "timestamp": "2026-09-06T06:12:49+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -750,12 +746,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\udde8\ud83c\uddf4\ud83c\udde8\ud83c\uddf4An ELN drone targeted the Colombian military base in Oca\u00f1a, Norte de Santander, this evening. \n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8 [TankerTrackers.com](http://TankerTrackers.com/): Satellite imagery suggests that the National Iranian Tanker Company supertanker DOWNY has been attacked by a U.S. strike.\nImagery shows a flurry of tugboat activity concentrated around the port\u2011quarter, suggesting the engine room was struck, most likely by a US Hellfire missile. \nSources also report that NITC\u2019s STARK1 was struck off the coast of Kooh Mobarak overnight. In recent days, NITC tankers SINOPA and HAWK were also struck off the port of Jask in the Gulf of Oman, though those appeared to contain some oil cargo.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-05T03:24:05+00:00",
+      "timestamp": "2026-09-06T06:10:47+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -763,6 +759,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udea8\ud83d\udc79 Netanyahu confirms October 7 was part of a bigger plan \nIsraeli prime minister drops the mask on his grand strategy after October 7, revealing that Iran was always his ultimate target.\n\ud83d\udcac \"I intended for us to clash with Iran - the head of the octopus - and wound the axis of evil,\" Netanyahu declares in an i24 interview.\nHe boasts that Israel delivered that blow \"in a very powerful way.\"\nThe bloody playbook was tested in Gaza, and then expanded to Syria, and Lebanon, he says.\nThis pours gasoline on simmering claims that Netanyahu was fully briefed on Hamas's attack plans \u2013 and let the October 7 events unfold to bait the bigger fish.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-06T08:03:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
@@ -797,14 +812,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
         "Alsaa Plus EN",
-        "Clash Report",
         "Geopolitics Prime"
       ],
-      "verified_source_count": 3
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -815,45 +829,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-09-05T22:06:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Clash Report",
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udde3\u2721\ufe0f Epstein\u2019s buddy Wexner helped Netanyahu court US elites\nAIPAC was not the only force that helped Israel influence US politicians and bind them to Tel Aviv\u2019s will.\nDocuments unearthed by Internet sleuths shed light on the activities of billionaire Leslie Wexner, close pal and client of pedo enabler extraordinaire Jeffrey Epstein.\nIn February 1988, the Wexner Heritage Foundation held a donor retreat in Palm Beach, Florida with none other than Benjamin Netanyahu being the featured speaker at the event.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-05T19:12:18+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udc89\u269b\ufe0f How sinister cancer 'rocket fuel' could lurk inside mRNA vaccines\nAs Americans brace for a fresh round of Pfizer and Moderna updated [COVID vaccines](https://t.me/geopolitics_prime/73855), a spine-chilling question is now reverberating on the internet - just what havoc could the [mRNA vaccines](https://t.me/geopolitics_prime/65259)\u2019 delivery system wreak inside the human body.\nThe question was triggered by a recent preclinical study by Chinese scientists Binhan Wang and his colleagues that raises numerous questions about the biological effects of lipid nanoparticles (LNP) - the microscopic delivery vehicles used in mRNA vaccines. \nThe paper revealed the sinister architecture of the vaccine adjuvant industry, as Wang states point-blank that experiments \u201cshowed we can give mice turbo cancer using vaccine ingredients.\u201d\n\ud83d\udd34 Adjuvants are immune-response enhancers added to certain vaccines\n\ud83d\udd34 Every cell in your body has a kind of built-in alarm system that can detect DNA where it shouldn\u2019t be\n\ud83d\udd34 If foreign DNA gets inside a cell, this alarm can trigger a powerful immune response designed to destroy the threat\n\ud83d\udd34Constantly triggering this system can cause harmful inflammation and damage to cells\n\ud83d\udd34 Two of the main pathways involved are called cGAS-STING and TLR9-MyD88\nIn mouse experiments, the researchers found that the adjuvants in mRNA vaccines hijack this pathway - the cell\u2019s last line of defense against foreign genetic invasion - triggering a biological cascade that promoted experimental tumor metastasis. \nEvery recombinant vaccine, brewed with unmeasured, undisclosed fragments of genetic debris, is reportedly intrinsically compromised.\nAccording to the scientists, the medical industry was well aware that this pathway is oncogenic, yet didn't care, because activating this pathway delivers the one thing their profit models demand: antibodies. \nThe goal was not so much immunity, as the presence of antibodies that grease the wheels for FDA approvals and cash infusions for [big pharma and](https://t.me/geopolitics_prime/69286) its sponsors \u2013 the global elites and their sinister [plot](https://t.me/geopolitics_prime/62220) to cut global population via epidemics.\nNow, if you juxtapose these findings with the relentless [cancer surge](https://t.me/geopolitics_prime/53743) ravaging the young - a wave that was already rising before the pandemic - you start to connect the dots.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-05T17:40:34+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
