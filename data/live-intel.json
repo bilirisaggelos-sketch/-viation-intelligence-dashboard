@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T16:07:39.519799+00:00",
+  "generated_at": "2026-09-06T18:20:41.269731+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -270,6 +270,25 @@
     {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
+      "text": "High likelihood for the launch of Yemeni ballistic missiles towards Saudi Arabia in the next 24 hours.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-06T16:37:56+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
       "text": "Some kind of precision-guided Iranian rocket, rather than a ballistic missile.\nIn any case, those vehicles got decimated beyond any recognition.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -298,12 +317,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
+        "Geopolitics Prime",
         "Middle East Spectator"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -345,51 +365,13 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014 NOTE: During the Red Sea crisis, in what the United States called \u2018Operation Prosperity Guardian\u2019, several Houthi anti-ship ballistic missiles managed to get so close to the USS Truman aircraft carrier that it was forced to perform sharp turns, resulting in an F/A-18 \u2018Hornet\u2019 falling overboard\nAnti-ship ballistic missiles, contrary to ordinary anti-ship cruise missiles or drones, pose a real significant threat to U.S. Navy vessels, and their usage by Iran marks a significant escalation.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-05T16:10:32+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7 BREAKING: We now know what the target of yesterday\u2019s launches was; Iran targeted a U.S. aircraft carrier with anti-ship ballistic missiles for the first time\nUntil now, Iran had refrained from using this high-end weapon (likely the Khalij-e-Fars ASBM) due to fear it would provoke a massive American retaliation.\nNo hits on the carrier were recorded, but CENTCOM admitted that the USS George Washington was forced to perform evasive maneuvers.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-05T15:58:26+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "A U.S. missile likely missed its target and hit a wedding party in Kuhestak, southern Iran, killing at least four civilians and injuring more than 90, according to U.S. officials and investigations cited by The Washington Post.\nThe strike involved six Navy-launched missiles aimed at a communications complex; five hit the target, while one appears to have gone off course and struck a nearby home about 440 feet away.\nThe Pentagon is investigating the incident, while officials say the strike was \"not intentional\" and that the military is reviewing how the missile missed.\nSource: WaPo",
+      "text": "Zelensky:\nOur Ukrainian anti-ballistic system will be ready in the near future. \nThe American side will increase next year the production volumes of anti-ballistic Patriot missiles. \nAnd we expect that, in any case, God willing, the war will end, but we will still need them.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-06T16:03:17+00:00",
+      "timestamp": "2026-09-06T17:53:35+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -403,32 +385,12 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Yemen's Houthis say they shot down a Saudi Wing Loong II armed reconnaissance drone while it was conducting \"hostile missions\" northwest of Maqbana, Taiz, this morning.",
+      "text": "Israeli fighter jets carried out a series of strikes in the Nabatieh area of southern Lebanon, with extensive attacks reported there since the morning.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-06T15:35:24+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Clash Report"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "A New York Times investigation found that Ukraine\u2019s military procurement system has suffered from serious fraud, waste, and mismanagement during the war. \nSecret audits show that in 2024 alone, about $1.2 billion was lost through overpayments, failed contracts, and poor oversight.\nSeveral major weapons suppliers received new contracts despite corruption investigations, failed deliveries, or defective products. \nOne example involved a factory that supplied thousands of faulty mortar rounds but continued receiving government orders.\nAuditors also found cases where Ukraine paid much higher prices by using intermediaries instead of buying directly, including a rocket deal that may have cost the country about $130 million extra.\nThe report says the problems have weakened Ukraine\u2019s ability to efficiently use limited defense funds, even as it seeks more military aid from allies.\nSource: NYT",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-06T15:31:10+00:00",
+      "timestamp": "2026-09-06T17:30:07+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -470,13 +432,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
-        "Clash Report"
+        "Alsaa Plus EN"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -509,13 +470,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
-        "Geopolitics Prime"
+        "Alsaa Plus EN"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -614,25 +574,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ufe0f\u26a1\ufe0f\ud83c\uddee\ud83c\uddf6\ud83c\uddfa\ud83c\uddf8 The U.S State Dept has approved a request from the Iraqi government to purchase an undisclosed amount of Bell-412EPX helicopters & Bell-407M helicopters, along with undisclosed amounts of:\n\u2022 GAU-19 12.7x99mm (.50 BMG) 3-barrel Gatling Guns\n\u2022 M260 7-tube rocket launchers\nAnd other related equipment at the cost of $1 Billion (USD).\nEdit: Sources report 2 separate requests for the Bell-412EPX, one with a $800mil total, the other with a $200mil total.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-05T19:17:58+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "CASELS",
       "text": "\u2757\ufe0fUkrainian drones struck Russia's Ryazan oil refinery, setting the facility ablaze. The Rosneft-controlled plant has a design processing capacity of about 17 million tons of crude per year, or roughly 340,000 barrels per day. It produces gasoline, diesel and aviation kerosene, supplies fuel to civilian consumers and the Russian military, and is a key motor-fuel supplier for regions around Moscow.",
       "source": "Telegram",
@@ -710,6 +651,45 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddf8\ud83c\udde6\u2694\ufe0f Houthis strike three Saudi-backed leaders\u2019 vehicles in one hit\nThe cars of the leaders of the Presidential Leadership Council were presumably destroyed with a ballistic missile.\nThe footage comes amid escalating hostilities following the collapse of the 2022 UN-brokered truce last month, triggered by a Saudi strike on Sanaa airport. \nSince, the Houthis have ramped-up retaliatory attacks \u2014 both against Saudi forces on Yemeni soil and targets inside Saudi Arabia.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-06T17:13:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Geopolitics Prime",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddf9\ud83c\uddf7\ud83c\uddee\ud83c\uddf1 Are Turkey and Israel on collision course across the Mediterranean, Black and Arabian Seas?\nIsrael and Turkey are not just trading barbs following the Israel Defense Forces (IDF) strike on an abandoned Syrian air base \u2014 the geography of their confrontation is expanding, reaching into the seas and surrounding regions.\n\ud83d\udc49 The rise in tensions followed Israel's attack on the Abu al-Duhur military airbase in northwestern Syria's Idlib province on August 18. Days later, Israel's Kan News reported that Israeli security officials had informed the US that Turkey was preparing to deploy a radar system at the airfield which could have shifted the regional balance of power.\nAmid the diplomatic war of words, Turkey has moved into northern Syria \u2014 despite Israel's warning against moving its troops south. Turkish forces entered Deir ez-Zor on August 29 to build a temporary bridge across the Euphrates alongside Syrian troops, while Turkish drones provided aerial security, a source told the Middle East Eye.\n\ud83d\udea2 Meanwhile, the Israeli Navy claimed growing preparations by the Turkish Navy in recent months, including military exercises and an increased naval presence in the Mediterranean and in areas where the Israeli Navy operates, Israel's Channel 11 News reported on August 30. Israeli naval officials view the preparations as a possible sign of a strategic shift, underscoring the need for operational readiness in case of a military confrontation.\nTurkey's presence in the Eastern Mediterranean is highly sensitive for Israel because it threatens the security, profitability, and export routes of Israel's massive Leviathan gas field \u2013 a cornerstone of Israel\u2019s economy.\nOn September 2, Turkey warned Greece against the militarization of its Aegean islands, after Athens and Israel sealed a multi-billion-dollar deal for the \u201cAchilles Shield\u201d air defense umbrella.\n\ud83d\udc49 That\u2019s what happened on the surface, but there are other developments that some foreign affairs experts attribute to rising tensions between Israel and Turkey.\n\ud83d\udd34 On August 17, pirates seized MV LUTUF, a vessel carrying weapons and satellite equipment intended for Mogadishu, Somalia, in an area intersecting the Arabian Sea and the wider Indian Ocean. On August 29 the ship was freed. It's no secret that Turkey supports Somalia, while Israel backs the breakaway territory of Somaliland. Tensions between Tel Aviv and Ankara intensified, when Israel recognized Somaliland\u2019s independence in 2025.\n\ud83d\udd34 Ukraine attacked two Turkish vessels in the Black Sea on August 26 and 27. The first strike hit the Lider Bordeaux Mavi; a day later, the Lider Kocatepe, which had been dispatched to tow the damaged vessel, was also attacked.\n\ud83d\udd34 A passenger ferry carrying 267 people capsized off the northern coast of the self-declared Turkish Republic of Northern Cyprus on August 30, leaving at least 13 people dead. While formal investigations focused on documented negligence and mechanical issues, media reports cite survivors who heard a blast near the vessel\u2019s bow before the catamaran-style ship rolled over.\n\ud83d\udd34 Some experts suggest an Israeli hand or influence in all three cases, as Tel Aviv and its intelligence agencies have a long record of conducting sabotage and clandestine operations against countries they consider adversaries.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-06T16:33:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
       "text": "\ud83e\ude96\u2708\ufe0f Ukraine\u2019s F-16 jets forced into daytime gun-runs as missile crunch spreads\nAs Russia increases the [intensity of its strikes on Ukrainian military infrastructure](https://t.me/geopolitics_prime/74117), [Ukraine\u2019s Patriot interceptor woes ](https://t.me/geopolitics_prime/73351)are by far not the only problem.\nThe Ukrainian [Air Force's Western-supplied F-16 fighter jets](https://t.me/geopolitics_prime/62946) are being neutered by a crippling shortage of air-to-air missiles, reports TWZ. \nThe shortage has become so severe that Ukrainian F-16s have flown daytime sorties forced to rely solely on their internal 20 mm guns against Russian drones and cruise missiles, the report cites a Ukrainian commander as complaining. \nAvailable stocks are being tightly rationed. \n\u2666\ufe0f The F-16\u2019s primary weapons are the AIM-120 AMRAAM for medium range and the AIM-9 Sidewinder for closer engagements\n\u2666\ufe0f The onboard M61A1 Vulcan cannon is a last-resort option that carries far higher risks, especially against small or slow targets and at night\n\u2666\ufe0f Laser-guided 70 mm APKWS II rockets offer a cheaper alternative against drones and subsonic cruise missiles, yet they cannot replace dedicated air-to-air missiles\nSo, besides begging for Patriot interceptors, Ukraine has been clamoring for more AIM-9s, and AIM-120s. The AIM-120s also arm West-supplied National Advanced Surface to Air Missile System (NASAMS) batteries protecting other key Ukrainian sites, further stretching supplies. \n\ud83d\udc49 [Patriot stocks have been heavily depleted](https://t.me/geopolitics_prime/73162) with only a trickle of replacements, leaving limited capacity against ballistic missiles. \nSophisticated fighters are only as useful as the weapons available to them, and with global demand for advanced interceptors surging amid multiple conflicts and production lagging, Ukraine\u2019s F-16s are increasingly flying with empty racks.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
@@ -754,45 +734,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-09-06T02:17:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\ude80\ud83d\udd25 Iran pounds US carrier, destroyer with ballistic missiles\nIran\u2019s IRGC Aerospace Force struck a US aircraft carrier and a destroyer with several ballistic missiles, Fars News reported, citing an IRGC statement.\n\ud83d\udcac \u201cThese two warships, after sustaining damage and fearing further attacks, were forced to flee the conflict zone,\u201d the IRGC said.\nThe Guard said the two warships had been harassing Iranian vessels and participating in the maritime blockade.\n\ud83d\udcac \u201cIf hostile and aggressive actions continue, the US regime should expect crushing responses from the Armed Forces of the Islamic Republic of Iran.\u201d\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-05T23:54:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udd25\ud83c\uddee\ud83c\uddf7 Iran targets three tankers, US vessels in response to US attacks\nIRGC naval forces fired three missiles from Sirik toward the Strait of Hormuz and said they targeted three tankers using an unauthorized route, plus three US-linked vessels elsewhere, IRNA reported.\n\ud83d\udcac \u201cDo not be deceived by the terrorist US military\u2026 otherwise, you will be targeted,\u201d the IRGC warned vessels operating near Hormuz.\nEarlier, CENTCOM announced that it had struck three Iranian oil tankers.\nIran hit back swiftly.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-05T22:06:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
