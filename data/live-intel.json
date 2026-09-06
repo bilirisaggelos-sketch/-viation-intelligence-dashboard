@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T23:58:22.138333+00:00",
+  "generated_at": "2026-09-06T04:25:25.952247+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -116,21 +116,21 @@
       "verified_source_count": 1
     },
     {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nEast Rutherford, NJ, Friday, September 4, 2026 through Saturday, September 5, 2026 Local\nFacility: ZNY",
-      "source": "FAA",
+      "title": "Space Weather Message Code: WARPX1\r",
+      "text": "Space Weather Message Code: WARPX1\r\nSerial Number: 632\r\nIssue Time: 2026 Sep 05 2358 UTC\r\n\r\nEXTENDED WARNING: Proton 10MeV Integral Flux above 10pfu expected\nExtension to Serial Number: 631\nValid From: 2026 Sep 05 1620 UTC\nNow Valid Until: 2026 Sep 06 1200 UTC\nWarning Condition: Persistence\n\r\n\r\nNOAA Scale: S1 - Minor",
+      "source": "NOAA Space Weather",
       "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "08/30/2026",
-      "location": "ZNY NJ",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-09-05 23:58:16.843",
+      "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
       "verification_confidence": 100,
       "verified_sources": [
-        "Federal Aviation Administration"
+        "NOAA Space Weather Prediction Center"
       ],
       "verified_source_count": 1
     },
@@ -211,25 +211,6 @@
       "verified_source_count": 1
     },
     {
-      "title": "Space Weather Message Code: ALTPC0\r",
-      "text": "Space Weather Message Code: ALTPC0\r\nSerial Number: 58\r\nIssue Time: 2026 Sep 05 1556 UTC\r\n\r\nALERT: Proton Event 100MeV Integral Flux exceeded 1pfu \nBegin Time: 2026 Sep 05 1552 UTC\nComment:",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-09-05 15:56:20.850",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
       "title": "Russia hits Ukrainian security headquarters in drone attack, Zelensky says",
       "text": "Russia hits Ukrainian security headquarters in drone attack, Zelensky says\nThe unmanned aerial vehicle struck without warning in the heart of the Ukrainian capital.",
       "source": "BBC",
@@ -245,6 +226,44 @@
       "verification_confidence": 30,
       "verified_sources": [
         "BBC World News"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddfe\ud83c\uddea/\ud83c\uddf8\ud83c\udde6 NEW: Yemeni ballistic missiles above the city of Taizz, controlled by Saudi-backed PLC forces",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-06T01:45:44+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea NEW: Ansarallah forces are also engaging with Saudi-backed PLC fighters East of Taizz, Yemen\nTaizz is under attack from both sides.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-06T00:33:55+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
       ],
       "verified_source_count": 1
     },
@@ -295,44 +314,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-09-04T16:56:16+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddef\ud83c\uddf4/\ud83c\uddee\ud83c\uddf7/\ud83c\uddfa\ud83c\uddf8 Ballistic missiles currently in the skies above Jordan",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-04T16:50:19+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf7/\ud83c\uddef\ud83c\uddf4/\ud83c\uddfa\ud83c\uddf8 BREAKING: Iran has carried out a surprise ballistic missile strike against U.S. bases in Jordan",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-04T16:48:56+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -425,50 +406,31 @@
     {
       "title": "Telegram",
       "publisher": "Our Wars Today",
+      "text": "[Iran warns US against Israeli attack on south Lebanon ridge held by Hezbollah, sources say](https://www.reuters.com/world/middle-east/iran-warns-us-against-israeli-attack-south-lebanon-ridge-held-by-hezbollah-2026-09-03/)\nIran has warned the United States that it would respond forcefully to an Israeli offensive on a mountainous ridge in southern \u200bLebanon where Iranian military personnel are holed up alongside Hezbollah fighters, three officials briefed on the message told Reuters. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://www.reuters.com/world/middle-east/iran-warns-us-against-israeli-attack-south-lebanon-ridge-held-by-hezbollah-2026-09-03/)\nMaya Gebeily | reuters\u200b.com \u2022 Sep 3, 2026",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-06T00:29:32+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Our Wars Today"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Our Wars Today",
       "text": "\ud83c\uddee\ud83c\uddf7 \u26a0\ufe0f \ud83c\uddfa\ud83c\uddf8 \ud83c\uddee\ud83c\uddf1 \ud83c\uddef\ud83c\uddf4 #BREAKING Iran Fires Retaliatory Missiles After #Trump Warns \"Not To Retaliate\" As #UnitedStates Strikes Continue To Land Across Regions:\nIran has just launched missiles in the past two hours, seemingly at U.S. bases in Jordan, as U.S. strikes continue to hit several provinces, inflicting casualties, including now several deaths at a wedding reports Iranian state media. \nMore Coverage: T.me/ourwarstoday \n---\n24/7 LIVE News RSS feed: t.me/ournewsfeedtoday\n---\nFootage: t.me/ourwars\n---\nSupport OWT: https://ko-fi.com/ourwarstoday",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-09-01T20:28:44+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Our Wars Today"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Our Wars Today",
-      "text": "[Germany blames Russia for attempted drone attack at Leipzig airport](https://www.pbs.org/newshour/world/germany-blames-russia-for-attempted-drone-attack-at-leipzig-airport)\nMoscow has been widely accused by Western officials of running a campaign of sabotage and disruption across Europe with the aim of undermining support for Ukraine and destabilizing European nations. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://www.pbs.org/newshour/world/germany-blames-russia-for-attempted-drone-attack-at-leipzig-airport)\npbs\u200b.org \u2022 Sep 1, 2026",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-01T20:11:05+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Our Wars Today"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Our Wars Today",
-      "text": "[Zelenskiy says Ukrainian drones have effectively closed Russian airspace](https://www.reuters.com/business/aerospace-defense/zelenskiy-says-ukrainian-drones-have-effectively-closed-russian-airspace-2026-09-01/)\nUkraine's President Volodymyr Zelenskiy warned airlines and insurance \u200bcompanies on Tuesday that the presence \u200cof Ukrainian drones had made Russian skies dangerous to use and were effectively closed. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://www.reuters.com/business/aerospace-defense/zelenskiy-says-ukrainian-drones-have-effectively-closed-russian-airspace-2026-09-01/)\nReuters | reuters\u200b.com \u2022 Sep 1, 2026",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-01T20:11:00+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -673,25 +635,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf1\u274c\ud83c\uddf1\ud83c\udde7\ud83c\uddf1\ud83c\udde7 \u2014 Israeli Defense Forces (IDF): We intercepted a drone launched by Hezbollah toward our forces in the security zone, and we are currently responding with airstrikes.\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-04T20:16:00+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Mediterranean Man",
       "text": "\u26a1\ufe0f\u26a1\ufe0f\ud83c\uddee\ud83c\uddf6\ud83c\uddfa\ud83c\uddf8 The U.S State Dept has approved a request from the Iraqi government to purchase an undisclosed amount of Bell-412EPX helicopters & Bell-407M helicopters, along with undisclosed amounts of:\n\u2022 GAU-19 12.7x99mm (.50 BMG) 3-barrel Gatling Guns\n\u2022 M260 7-tube rocket launchers\nAnd other related equipment at the cost of $1 Billion (USD).\nEdit: Sources report 2 separate requests for the Bell-412EPX, one with a $800mil total, the other with a $200mil total.",
       "source": "Telegram",
@@ -826,6 +769,25 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udca5 Houthis strike Saudi-backed forces in Taiz\nYemen\u2019s Ansar Allah forces launched ballistic missiles at positions held by Saudi-backed Presidential Leadership Council forces in Taiz, with powerful explosions reported across the city, Press TV reported.\nFars News also published footage of the strikes as fighting intensifies around Taiz and Hodeidah.\n\u2694\ufe0f Ansar Allah has also reportedly severed the Taiz\u2013Al-Mukha link after capturing Al-Kadha, while its forces push toward Al-Barih and westward toward Al-Mukha.\nThe pressure on Saudi-backed forces is mounting across multiple fronts.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-06T02:17:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
       "text": "\ud83d\ude80\ud83d\udd25 Iran pounds US carrier, destroyer with ballistic missiles\nIran\u2019s IRGC Aerospace Force struck a US aircraft carrier and a destroyer with several ballistic missiles, Fars News reported, citing an IRGC statement.\n\ud83d\udcac \u201cThese two warships, after sustaining damage and fearing further attacks, were forced to flee the conflict zone,\u201d the IRGC said.\nThe Guard said the two warships had been harassing Iranian vessels and participating in the maritime blockade.\n\ud83d\udcac \u201cIf hostile and aggressive actions continue, the US regime should expect crushing responses from the Armed Forces of the Islamic Republic of Iran.\u201d\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
@@ -892,63 +854,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-09-05T17:40:34+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddee\ud83c\uddf1\u269b\ufe0fAcademic cover-up: How US universities do Israel\u2019s dirty work\nWhile students chant for Palestinian rights on campus, American universities have been pocketing [Israeli blood money ](https://t.me/geopolitics_prime/70635)for over a decade - secretly [designing surveillance robots](https://t.me/geopolitics_prime/66054) and \"kill-chain\" AI for the Israeli military, reports Responsible Statecraft.\nUniversity and US-Israeli military records reveal a sprawling research pipeline involving at least 70 projects and 30 US universities - from Cornell and Brown to MIT, Berkeley and the University of Maryland.\nThe research isn\u2019t confined to abstract theoretical work. These are hands-on, weapons-focused projects designed to enhance Israel's military capabilities. \nSome are explicitly tailored to Palestinian conditions, such as a project that built fuel cells for border sensors, calibrated to local soil and temperature.\nResearch includes:\n\ud83d\udd34 cockroach-and inchworm-like robots designed for surveillance and difficult terrain\n\ud83d\udd34 AI systems that analyze video, identify objects and accelerate battlefield targeting\n\ud83d\udd34 drone swarms and micro-drones capable of searching caves and destroyed buildings\n\ud83d\udd34 algorithms explicitly developed for missile guidance and targeting\n\ud83d\udd34 mass analysis of cellular-location data covering Israel and the Occupied Territories\n\ud83d\udd34 brain-computer research examining high-throughput visual recognition and potentially \u201csuspicious\u201d activity\nThe pipeline is remarkably simple: US taxpayers fund the Foreign Military Financing program \u27a1\ufe0f the US government sends billions to Israel annually \u27a1\ufe0f Israel uses that money to purchase \"defense services\" from American universities \u27a1\ufe0f Universities conduct research that directly supports genocidal Israeli military operations.\nThe contracts are classified as Direct Commercial Contracts - a bureaucratic loophole that allows Israel to bypass congressional oversight. \nSince only DCCs exceeding $100 million require notification, these academic collaborations slip through the cracks. \nThe April 2026 Pentagon decision to extend the Direct Commercial Contract privilege from 10 countries to over 50 represents the wholesale globalization of this corrupt academic cover-up.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-05T16:09:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udc41\ud83d\udd2f Microsoft's $125 million complicity: How the tech giant bankrolled Israel's genocide\nIn 2024, Microsoft locked-in a $125 million software-licensing deal with Israel\u2019s Defense Ministry - the first full year of Israel\u2019s genocidal campaign in Gaza, reports Middle East Eye.\nThe sum is stated in Israel's annual budget-execution report for 2024, published on the Israeli Ministry of Finance\u2019s Hebrew-language website in March 2025.\nIt lists the agreement among the Defense Ministry\u2019s largest procurement commitments. The contract reportedly remained entirely unpaid by December 31, 2024, and was scheduled to run until 2027. \nMicrosoft is keeping the details under wraps: no word on the software, the military units using it, or whether 2027 marks the end of the licenses, the payments - or both.\nThe new deal looks remarkably like the controversial 2021 [Microsoft contract with the Israeli military.](https://t.me/geopolitics_prime/71140) That $133 million, three-year deal made the Israeli military an \u201cS500\u201d client - Microsoft\u2019s highest-priority category - and covered at least 635 subscriptions tied to units including Israel\u2019s AI\u2011powered elite cyber\u2011espionage Unit 8200.\nFormer Microsoft staff cited in the MEE report believe the 2024 agreement could be a renewal, with:\n\ud83d\udfe5 same three-year structure: the earlier deal ran for three years; Israeli government documents show a Microsoft contract running from 2024 to 2027\n\ud83d\udfe5 similar price tag\nIsrael\u2019s military used [Microsoft\u2019s Azure](https://t.me/geopolitics_prime/57128) cloud platform for years to store a massive trove of Palestinians\u2019 phone calls. This system has aided in planning deadly airstrikes and shaping military operations in Gaza and the West Bank\nAfter public exposure, Microsoft disabled only \u201ca small subset of services to only one unit.\u201d \nThe 2024 budget document dated nine months before Microsoft pulled the plug on its cloud services draws no link between the licensing deal and the products Microsoft later cut.\nBut it does show that the licensing agreement was already on the ministry\u2019s books long before the scandal erupted.\nThe $125 million agreement is software, yet it sits on the same ledger in the year Israel conducted its sweeping genocide.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-05T14:32:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf7\ud83d\udc8b Pentagon launches leak witch hunt as US ammo stocks gutted by Iran war\nThe US military is hunting the messenger after its[ failed war with Iran ](https://t.me/geopolitics_prime/73672)exposed a problem it would rather keep buried: its vaunted war machine [is running short of ammunition.](https://t.me/geopolitics_prime/73162)\nRoughly 50 military officers and civilian officials on the Joint Staff were subjected to polygraph tests in August as investigators searched for the source of leaks to journalists, reports The New York Times. \nAmong the questions were: \n\ud83d\udd34 did they reveal classified information?\n\ud83d\udd34 did they disclose details about depleted US stocks of crucial weapons?\nAround 1,500\u20132,000 officials work on the Joint Staff, which coordinates US military operations and war planning worldwide. Never before has the US subjected the upper echelons of its military to polygraphs on such a scale, notes the publication.\n\ud83d\udc49 It also fits a broader pattern, where under War Secretary Hegseth, the Pentagon has tightened media access and launched repeated leak investigations while pushing out or blocking the promotions of dozens of senior officers. Even Stars and Stripes, the government-funded military newspaper, has found itself caught in the crossfire after its leadership was fired amid coverage of[ deteriorating conditions aboard the USS Abraham Lincoln.](https://t.me/geopolitics_prime/74048)\nThe polygraph sweep followed reports that the Iran war had chewed through supplies of long-range missiles and Patriot interceptors.\nPatriot stockpiles w[ere confirmed to have fallen to just 25% of the volume the Pentagon deems necessary](https://t.me/geopolitics_prime/74021) \u2013 forcing the US to request interceptors from Poland and to suspend arms deliveries to strategic partners in Asia and Europe.\nAnd yet, Trump has backed Hegseth and branded critical reporting on the Iran war and ammunition shortages as \u201ctreasonous.\u201d\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-05T10:03:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
