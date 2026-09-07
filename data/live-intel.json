@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T22:26:19.912407+00:00",
+  "generated_at": "2026-09-07T00:16:24.447545+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -22,7 +22,7 @@
     },
     {
       "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nNew York, NY, Wednesday, September 9, 2026 Local\nFacility: ZNY",
+      "text": "FAA SECURITY TFR\nNew York, NY, Friday, September 11, 2026 through Friday, September 11, 2026 Local\nFacility: ZNY",
       "source": "FAA",
       "source_type": "official",
       "publisher": "Federal Aviation Administration",
@@ -41,7 +41,7 @@
     },
     {
       "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nNew York, NY, Friday, September 11, 2026 through Friday, September 11, 2026 Local\nFacility: ZNY",
+      "text": "FAA SECURITY TFR\nNew York, NY, Wednesday, September 9, 2026 Local\nFacility: ZNY",
       "source": "FAA",
       "source_type": "official",
       "publisher": "Federal Aviation Administration",
@@ -581,25 +581,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-09-05T17:11:53+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddfe\ud83c\uddea \u2014 Yemeni government forces captured dozens of Houthi fighters during clashes in Al-Jarahi district in southern Al Hudaydah, according to a government official cited by Anadolu Agency.\n\u27a1\ufe0f Fayyad al-Numan, assistant undersecretary at Yemen's Information Ministry, said government forces had captured \"dozens of members of the terrorist Houthi militia.\" Activists posted images on social media purportedly showing Houthi captives held by government forces. The Houthis had not commented by 1400 GMT.\n\u27a1\ufe0f The clashes come amid a military escalation across several fronts in Yemen following reciprocal attacks that began in July, ending a period of relative calm that had held under a UN-brokered truce since April 2022. Earlier Saturday, government-aligned National Resistance Forces said they shot down two Houthi attack drones in Taiz province. The Houthis have controlled the capital Sanaa and several other cities since September 2014.\n\u2b50\ufe0f Follow",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-05T16:11:30+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
