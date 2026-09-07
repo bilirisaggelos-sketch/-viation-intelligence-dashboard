@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T00:16:24.447545+00:00",
+  "generated_at": "2026-09-07T05:06:58.528172+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -249,6 +249,26 @@
       "verified_source_count": 1
     },
     {
+      "title": "Five dead after Amazon cargo plane crashes at Miami airport",
+      "text": "Five dead after Amazon cargo plane crashes at Miami airport\nFive people are dead and five seriously injured after a Boeing 767-300 cargo plane \"overran\" the runway and caught fire, officials say.",
+      "source": "BBC",
+      "source_type": "osint",
+      "publisher": "BBC World News",
+      "severity": "info",
+      "icon": "\ud83d\udcf0",
+      "timestamp": "2026-09-07T00:57:38+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "BBC World News",
+        "Clash Report"
+      ],
+      "verified_source_count": 2
+    },
+    {
       "title": "Peace talks rich in symbolism but fundamental differences between Russia and Ukraine remain",
       "text": "Peace talks rich in symbolism but fundamental differences between Russia and Ukraine remain\nDespite talks between US envoys and both Putin and Zelensky, the expectation in Kyiv is the fighting will continue, writes James Landale.",
       "source": "BBC",
@@ -432,12 +452,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
+        "BBC World News",
         "Clash Report"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -461,6 +482,25 @@
     {
       "title": "Telegram",
       "publisher": "Our Wars Today",
+      "text": "[Ukraine war latest: US envoys make first visit to Kyiv, protecting city from Russian missiles but producing few results...](https://t.me/KyivIndependent_official/55278)\nUkraine war latest: US envoys make first visit to Kyiv, protecting city from\nRussian missiles but producing few results\n[https://kyivindependent.com/ukraine-war-latest-us-envoys-make-first-visit-to-kyiv-protecting-city-from-russian-missiles-but-producing-few-results/]\nPresident Volodymyr Zelensky held talks with U.S. President Donald Trump's\nenvoys, Steve Witkoff and Jared Kushner, as they arrived in Kyiv for the first\ntime on Sept. 6, amid Washington's renewed diplomatic efforts to end the\nRussia-Ukraine war.\nPhoto: Genya Savilov / AFP via Getty Images \u2013 Join Telegrams: t.me/ourwarstoday\n\u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT:\nhttps://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://t.me/KyivIndependent_official/55278)\n | t\u200b.me \u2022 Sep 6, 2026",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-07T02:43:12+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Our Wars Today"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Our Wars Today",
       "text": "[Iran warns US against Israeli attack on south Lebanon ridge held by Hezbollah, sources say](https://www.reuters.com/world/middle-east/iran-warns-us-against-israeli-attack-south-lebanon-ridge-held-by-hezbollah-2026-09-03/)\nIran has warned the United States that it would respond forcefully to an Israeli offensive on a mountainous ridge in southern \u200bLebanon where Iranian military personnel are holed up alongside Hezbollah fighters, three officials briefed on the message told Reuters. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://www.reuters.com/world/middle-east/iran-warns-us-against-israeli-attack-south-lebanon-ridge-held-by-hezbollah-2026-09-03/)\nMaya Gebeily | reuters\u200b.com \u2022 Sep 3, 2026",
       "source": "Telegram",
       "source_type": "telegram",
@@ -474,6 +514,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Our Wars Today"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddfe\ud83c\uddea\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddf8\ud83c\udde6 Spokesperson of Ansarllah (Houthis) Movement Yahya Saree: \nThanks to God, the Yemeni armed forces were able to shoot down a Saudi enemy reconnaissance aircraft of the CH4 type while it was carrying out hostile operations in the airspace of the Khab wa ash-Sha'af district in the Al-Jawf province, using appropriate weaponry.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-07T02:55:45+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
       ],
       "verified_source_count": 1
     },
@@ -574,32 +633,13 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf7\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8Innitial Reports of missile launched from Iran to strait of hormuz\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-05T17:11:53+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u2757\ufe0fUkrainian drones struck Russia's Ryazan oil refinery, setting the facility ablaze. The Rosneft-controlled plant has a design processing capacity of about 17 million tons of crude per year, or roughly 340,000 barrels per day. It produces gasoline, diesel and aviation kerosene, supplies fuel to civilian consumers and the Russian military, and is a key motor-fuel supplier for regions around Moscow.",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1\ud83c\uddf1\ud83c\udde7\ud83c\uddf1\ud83c\udde7 The IDF has issued an urgent evacuation warning to residents of Deir al-Zahrani, Lebanon, following what it described as a Hezbollah drone attack against Israeli forces. The IDF said it intends to strike what it identified as a Hezbollah facility in the area and does not intend to harm civilians.\nResidents inside the building marked in red on the accompanying map, as well as those in surrounding buildings, have been instructed to evacuate immediately. The IDF urged residents to move at least 300 metres away from the designated area.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-06T07:28:07+00:00",
+      "timestamp": "2026-09-07T02:33:10+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -613,12 +653,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddf1\ud83c\udde7\ud83c\uddee\ud83c\uddf1 An Israeli drone strike targeted a vehicle in Nabatieh al-Fawqa, southern Lebanon, with multiple injuries reported.",
+      "text": "\u26a1\ufe0f\ud83c\uddf1\ud83c\udde7\ud83c\uddee\ud83c\uddf1 An Israeli drone strike targeted a car in the town of Kfar Romman, southern Lebanon.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-06T06:13:41+00:00",
+      "timestamp": "2026-09-07T02:32:54+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -632,12 +672,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddfe\ud83c\uddea\ud83c\uddfe\ud83c\uddea The Houthis reportedly launched a ballistic missile toward the city of Taiz, in southwestern Yemen, causing an explosion in the city.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "\u26a1\ufe0f\ud83c\uddf5\ud83c\uddf8\ud83c\uddee\ud83c\uddf1 Earlier tonight, IDF drone carried out another airstrike killing one and injuring several others in an area west of Gaza City.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-06T06:12:49+00:00",
+      "timestamp": "2026-09-07T02:32:49+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -651,12 +691,50 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8 [TankerTrackers.com](http://TankerTrackers.com/): Satellite imagery suggests that the National Iranian Tanker Company supertanker DOWNY has been attacked by a U.S. strike.\nImagery shows a flurry of tugboat activity concentrated around the port\u2011quarter, suggesting the engine room was struck, most likely by a US Hellfire missile. \nSources also report that NITC\u2019s STARK1 was struck off the coast of Kooh Mobarak overnight. In recent days, NITC tankers SINOPA and HAWK were also struck off the port of Jask in the Gulf of Oman, though those appeared to contain some oil cargo.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "\u26a1\ufe0f\ud83c\udde8\ud83c\uddf3\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6\ud83c\uddfa\ud83c\uddf8\ud83c\uddec\ud83c\udde7 [Politico](https://www.politico.eu/article/china-state-firm-supplies-russia-materials-kamikaze-drones/): A Chinese state-owned firm has supplied Russia with materials sufficient to produce carbon fibre for up to 1,300 kamikaze drones. \nThe US House Select Committee on China has reviewed the documents and determined them legitimate. Weapons experts say the shipment could not have escaped Chinese government attention, with one former CIA official stating: \"The idea that Chinese state-owned enterprises can hide things from the Chinese government just doesn't wash.\"\nExperts say Russia has been \"totally dependent on China\" for the specialised fibre used in drone airframes, and that Beijing now provides more than 60 percent of components necessary to sustain Russia's military industrial complex.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-06T06:10:47+00:00",
+      "timestamp": "2026-09-07T02:32:33+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "\u26a1\ufe0f\ud83c\udde8\ud83c\uddf4 Several explosive-laden drones attacked the El Carmelo police station in Cajib\u00edo, Cauca department, Colombia, with the detonations generating panic among residents, as FARC dissidents are preliminarily blamed for the assault.\nNo official report on injuries, damage, or the number of devices used has been issued yet, as authorities and emergency crews remain on the scene.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-07T02:31:46+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1\ud83c\uddf1\ud83c\udde7\ud83c\uddf1\ud83c\udde7 A short while ago, an IDF drone strike targeted a vehicle inside a parking lot on Mahmoud Fakih Street, near the Husseiniya in the city of Nabatieh, southern Lebanon.\n3 Hezbollah operatives were killed, according to local reports.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-07T02:29:20+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -715,25 +793,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-09-06T12:55:13+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udea8\ud83d\udc79 Netanyahu confirms October 7 was part of a bigger plan \nIsraeli prime minister drops the mask on his grand strategy after October 7, revealing that Iran was always his ultimate target.\n\ud83d\udcac \"I intended for us to clash with Iran - the head of the octopus - and wound the axis of evil,\" Netanyahu declares in an i24 interview.\nHe boasts that Israel delivered that blow \"in a very powerful way.\"\nThe bloody playbook was tested in Gaza, and then expanded to Syria, and Lebanon, he says.\nThis pours gasoline on simmering claims that Netanyahu was fully briefed on Hamas's attack plans \u2013 and let the October 7 events unfold to bait the bigger fish.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-06T08:03:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
